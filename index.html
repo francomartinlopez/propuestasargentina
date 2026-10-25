@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>100 propuestas para la Argentina</title>
+<meta name="description" content="Un programa de 100 propuestas para reconstruir la Argentina en una generación: cada una con qué se propone, por qué y cómo se implementa.">
+<meta name="theme-color" content="#eb671c">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%23f9b50f'/%3E%3Cstop offset='.5' stop-color='%23eb671c'/%3E%3Cstop offset='1' stop-color='%23e84b49'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath d='M4 30 A16 16 0 0 1 36 30 Z' fill='url(%23g)'/%3E%3Crect x='2' y='32' width='36' height='4' rx='2' fill='%23111'/%3E%3C/svg%3E">
+<meta property="og:type" content="website">
+<meta property="og:title" content="100 propuestas para la Argentina">
+<meta property="og:description" content="Qué, por qué y cómo: un programa para reconstruir la Argentina en una generación.">
+<meta property="og:url" content="https://propuestasargentina.netlify.app/">
+<meta property="og:image" content="https://propuestasargentina.netlify.app/og.jpg">
+<link rel="canonical" href="https://propuestasargentina.netlify.app/">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+@font-face{font-family:'Plus Jakarta Sans';font-style:normal;font-weight:400;font-display:swap;src:url(fuentes/plus-jakarta-sans-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Plus Jakarta Sans';font-style:normal;font-weight:500;font-display:swap;src:url(fuentes/plus-jakarta-sans-latin-500-normal.woff2) format('woff2')}
+@font-face{font-family:'Plus Jakarta Sans';font-style:normal;font-weight:600;font-display:swap;src:url(fuentes/plus-jakarta-sans-latin-600-normal.woff2) format('woff2')}
+@font-face{font-family:'Plus Jakarta Sans';font-style:normal;font-weight:700;font-display:swap;src:url(fuentes/plus-jakarta-sans-latin-700-normal.woff2) format('woff2')}
+@font-face{font-family:'Plus Jakarta Sans';font-style:normal;font-weight:800;font-display:swap;src:url(fuentes/plus-jakarta-sans-latin-800-normal.woff2) format('woff2')}
+
+:root{
+  --paper:#ffffff;--sheet:#f5f5f4;--ink:#111111;--muted:#5b5b5b;--rule:#e3e1de;
+  --acc:#cc5214;--amber:#8a5d00;--amber-bg:#fff3d4;
+  --orange:#eb671c;--sun:#f9b50f;--red:#e84b49;--pos:#3b3b3b;
+  --grad:linear-gradient(115deg,#f9b50f 0%,#eb671c 34%,#e84f2b 68%,#e84b49 100%);
+  --f:"Plus Jakarta Sans",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root{
+  --paper:#0e0e0e;--sheet:#181818;--ink:#f2f2f2;--muted:#a6a6a6;--rule:#2d2d2d;
+  --acc:#f58a4c;--amber:#f9b50f;--amber-bg:#2c220c;--pos:#d8d8d8;color-scheme:dark}}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:112px}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 var(--f)}
+.in{max-width:920px;margin:0 auto;padding-inline:max(16px,env(safe-area-inset-left,0px))}
+h1,h2,h3{margin:0;line-height:1.12;text-wrap:balance}
+p{margin:0}
+a{color:var(--acc)}
+:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+.label{font:700 .72rem/1.3 var(--f);letter-spacing:.12em;text-transform:uppercase;color:var(--acc)}
+
+/* barra superior */
+.top{position:sticky;top:0;z-index:9;background:var(--paper);border-bottom:1px solid var(--rule)}
+.top .in{max-width:1120px;display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:10px}
+.mark{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);font-weight:800;letter-spacing:-.01em}
+.mark svg{width:28px;height:28px;flex-shrink:0}
+.mark span{white-space:nowrap}
+.top .all{display:flex;align-items:center;gap:8px;font-size:.75rem;font-weight:700;color:var(--muted)}
+@media (max-width:600px){.mark span{display:none}.top .all>span{display:none}}
+.seg{display:inline-flex;gap:2px;background:var(--sheet);border:1px solid var(--rule);border-radius:999px;padding:3px}
+.seg button{font:700 .76rem var(--f);border:0;background:transparent;color:var(--muted);padding:6px 12px;border-radius:999px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+@media (max-width:400px){.seg button{padding:6px 9px;font-size:.7rem}}
+
+/* portada */
+.hero{position:relative;overflow:hidden;background:var(--grad);color:#fff}
+.hero::after{content:"";position:absolute;width:min(70vw,560px);aspect-ratio:1;right:-10%;top:50%;transform:translateY(-50%);border-radius:50%;background:rgba(255,255,255,.10);pointer-events:none}
+.hero .in{position:relative;z-index:1;padding-block:64px 56px}
+.hero .label{color:#fff;opacity:.95}
+.hero h1{font-size:clamp(2.1rem,5.2vw,3.5rem);font-weight:800;letter-spacing:-.025em;margin-top:12px;max-width:17ch}
+.hero h1 em{font-style:normal;color:#111}
+.hero .lede{font-size:1.06rem;font-weight:500;max-width:62ch;margin-top:16px}
+.hero .lede+.lede{margin-top:10px}
+.howto{margin-top:26px;background:#fff;color:#111;border-radius:14px;padding:18px 18px 16px;display:grid;gap:8px;box-shadow:0 18px 40px rgba(60,20,0,.18)}
+.howto .row{display:grid;grid-template-columns:96px 1fr;gap:10px;font-size:.9rem;align-items:baseline}
+.howto b{font-weight:800}
+.howto small{color:#5b5b5b}
+.howto .label{color:#cc5214}
+
+/* índice */
+.indice{position:sticky;top:53px;z-index:8;background:var(--paper);border-bottom:1px solid var(--rule)}
+.indice .in{max-width:1120px;display:flex;gap:8px;overflow-x:auto;padding-block:10px;scrollbar-width:none}
+.indice .in::-webkit-scrollbar{display:none}
+.indice a{flex-shrink:0;font-size:.8rem;font-weight:700;text-decoration:none;color:var(--ink);border:1.5px solid var(--orange);padding:6px 12px;border-radius:999px;white-space:nowrap}
+.indice a:hover,.indice a.on{background:color-mix(in srgb,var(--orange) 14%,var(--paper))}
+
+/* área */
+.area-h{padding:52px 0 4px;display:flex;align-items:center;gap:14px}
+.area-h .ic{width:46px;height:46px;border-radius:12px;background:var(--grad);display:grid;place-items:center;color:#fff;font-weight:800;flex-shrink:0;font-size:.95rem}
+.area-h h2{font-size:clamp(1.4rem,3vw,1.9rem);font-weight:800;letter-spacing:-.02em}
+.area-h p{color:var(--muted);font-size:.92rem;margin-top:2px}
+.area-h small{font-weight:700;color:var(--acc)}
+
+/* propuesta */
+.prop{border:1px solid var(--rule);border-top:5px solid var(--orange);border-radius:14px;margin-top:18px;background:var(--paper);overflow:hidden}
+.prop.bandera{border-top-color:var(--sun);box-shadow:0 0 0 1px color-mix(in srgb,var(--sun) 45%,transparent)}
+.prop .ph1{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap;padding:18px 18px 0}
+.prop .code{font:800 .75rem var(--f);color:var(--acc);letter-spacing:.06em}
+.prop .flag{display:inline-block;margin-left:8px;font:700 .66rem var(--f);letter-spacing:.08em;text-transform:uppercase;background:var(--amber-bg);color:var(--amber);padding:2px 8px;border-radius:999px;vertical-align:1px}
+.prop h3{font-size:1.28rem;font-weight:800;letter-spacing:-.01em;margin-top:4px}
+.prop .one{font-size:1.04rem;font-weight:500}
+.blk.que{margin-top:12px}
+.solo1{font-size:.92rem;font-weight:600}
+.prop[data-nivel="2"] .solo1,.prop[data-nivel="3"] .solo1{display:none}
+.blk{padding:14px 18px;border-top:1px solid var(--rule);margin-top:14px}
+.blk>.label{display:block;margin-bottom:8px}
+.blk p+p{margin-top:10px}
+.blk.why{background:var(--sheet)}
+.blk.how{background:color-mix(in srgb,var(--sun) 7%,var(--paper))}
+.stat{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.stat .n{font-size:1.85rem;font-weight:800;color:var(--acc);letter-spacing:-.03em;line-height:1.1}
+.stat .t{flex:1 1 220px}
+.src{font-size:.75rem;color:var(--muted);margin-top:6px}
+.meta{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+@media (max-width:640px){.meta{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.meta div{background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:10px}
+.meta small{display:block;font:700 .64rem var(--f);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.meta b{font-size:.9rem;line-height:1.35;display:block;margin-top:2px}
+.dims{display:grid;grid-template-columns:auto minmax(0,1fr);margin:12px 0 0}
+.dims dt,.dims dd{margin:0;padding:9px 0;border-bottom:1px solid var(--rule);font-size:.9rem}
+.dims dt{font-weight:700;padding-right:14px}
+.dims dd{color:var(--muted)}
+.dims ol{margin:0;padding-left:18px}
+@media (max-width:480px){.dims{grid-template-columns:1fr}.dims dt{border-bottom:0;padding-bottom:0}}
+.fuentes{font-size:.78rem;color:var(--muted);margin-top:10px}
+.prop [data-n="2"],.prop [data-n="3"]{display:none}
+.prop[data-nivel="2"] [data-n="2"],.prop[data-nivel="3"] [data-n="2"],.prop[data-nivel="3"] [data-n="3"]{display:block}
+.prop[data-nivel="2"] .meta[data-n="2"],.prop[data-nivel="3"] .meta[data-n="2"],.prop[data-nivel="3"] .dims[data-n="3"]{display:grid}
+.more{display:block;width:100%;border:0;border-top:1px solid var(--rule);background:transparent;color:var(--acc);font:700 .85rem var(--f);padding:12px;cursor:pointer}
+.prop[data-nivel="3"] .more{display:none}
+
+/* gráficos */
+.chart{margin-top:12px;background:var(--paper);border:1px solid var(--rule);border-radius:12px;padding:12px}
+.chart h4{margin:0 0 6px;font-size:.86rem;font-weight:700}
+.chart svg{display:block;width:100%;max-width:560px;height:auto;overflow:visible}
+.map svg{max-width:240px}
+.chart .ax{font:500 13px var(--f);fill:var(--muted)}
+.chart .vl{font:700 13px var(--f);fill:var(--ink)}
+.chart .grid{stroke:var(--rule);stroke-width:1}
+.map{display:grid;grid-template-columns:minmax(0,190px) 1fr;gap:14px;align-items:start}
+@media (max-width:520px){.map{grid-template-columns:minmax(0,150px) 1fr}}
+.map svg path{stroke:var(--paper);stroke-width:.8}
+.map ol{list-style:none;margin:0;padding:0;font-size:.8rem;columns:1}
+.map li{display:flex;justify-content:space-between;gap:8px;padding:3px 0;border-bottom:1px solid var(--rule)}
+.map li b{font-variant-numeric:tabular-nums}
+.leg{display:flex;align-items:center;gap:6px;font-size:.7rem;color:var(--muted);margin-top:6px}
+.leg i{display:inline-block;width:60px;height:8px;border-radius:4px}
+
+
+/* cuenta */
+.cuenta{padding-block:56px 10px}
+.cuenta h2{font-size:clamp(1.5rem,3vw,2rem);font-weight:800;letter-spacing:-.02em;margin-top:8px}
+.cuenta .sub{color:var(--muted);margin-top:8px;max-width:64ch}
+.cg{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,400px),1fr));gap:12px;margin-top:20px}
+.cx{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:12px}
+.cx div{border:1px solid var(--rule);border-top:4px solid var(--orange);border-radius:12px;padding:14px;background:var(--paper)}
+.cx b{display:block}.cx span{display:block;color:var(--muted);font-size:.9rem;margin-top:4px}
+.cn{font-size:.78rem;color:var(--muted);margin-top:10px;max-width:72ch}
+
+/* cierre */
+.cierre{background:#000;color:#f5f5f5;margin-top:64px}
+.cierre .in{padding-block:60px}
+.cierre .label{color:var(--sun)}
+.cierre h2{font-size:clamp(1.6rem,3.4vw,2.3rem);font-weight:800;margin-top:10px;letter-spacing:-.02em}
+.cierre p{color:#cfcfcf;margin-top:14px;max-width:62ch}
+.fases{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:26px}
+@media (max-width:700px){.fases{grid-template-columns:1fr}}
+.fases div{border:1px solid #333;border-top:4px solid var(--sun);border-radius:12px;padding:16px}
+.fases small{font:700 .7rem var(--f);letter-spacing:.12em;text-transform:uppercase;color:var(--sun)}
+.fases b{display:block;font-size:1.15rem;margin-top:4px}
+.fases span{display:block;color:#a9a9a9;font-size:.88rem;margin-top:6px}
+
+/* contacto */
+.contacto .in{padding-block:60px;display:grid;grid-template-columns:1fr 1.1fr;gap:36px;max-width:1040px}
+@media (max-width:780px){.contacto .in{grid-template-columns:1fr}}
+.contacto h2{font-size:1.8rem;font-weight:800;margin-top:10px;letter-spacing:-.02em}
+.contacto .intro p{color:var(--muted);margin-top:10px}
+form.f{display:grid;gap:12px}
+form.f label.t{font-size:.8rem;font-weight:700;color:var(--muted);display:block;margin-bottom:4px}
+form.f input:not([type=radio]),form.f textarea,form.f select{width:100%;font:inherit;padding:12px 14px;border:1px solid var(--rule);border-radius:10px;background:var(--paper);color:var(--ink)}
+.motivo{border:1px solid var(--rule);border-radius:12px;padding:10px 12px;margin:0;display:grid;gap:2px}
+.motivo legend{font-size:.8rem;font-weight:700;color:var(--muted);padding:0 4px}
+.motivo label{display:flex;align-items:center;gap:10px;font-size:.92rem;font-weight:600;padding:8px 10px;border-radius:8px;cursor:pointer}
+.motivo label:has(input:checked){background:color-mix(in srgb,var(--orange) 12%,var(--paper))}
+.motivo input{accent-color:var(--orange);width:18px;height:18px;margin:0}
+.nota{font-size:.8rem;color:var(--muted)}
+.btn{font:700 .95rem var(--f);padding:13px 22px;border-radius:999px;border:2px solid var(--ink);background:var(--ink);color:var(--paper);cursor:pointer;justify-self:start}
+.ok{display:none;padding:12px 14px;border-radius:10px;background:var(--amber-bg);color:var(--amber);font-weight:600}
+footer{border-top:1px solid var(--rule)}
+footer .in{max-width:1120px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;padding-block:22px;font-size:.8rem;color:var(--muted)}
+.cargando{padding:40px 0;color:var(--muted)}
+/* 10 ideas */
+.ideas{padding-block:44px 8px}
+.ideas h2{font-size:clamp(1.4rem,3vw,1.9rem);font-weight:800;letter-spacing:-.02em;margin-top:8px}
+.ideas p.sub{color:var(--muted);margin-top:6px}
+.idg{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin-top:20px}
+@media (max-width:860px){.idg{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.idea{display:flex;flex-direction:column;gap:10px;text-decoration:none;color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-radius:14px;padding:16px 14px;min-width:0;transition:transform .15s,border-color .15s}
+.idea:hover{transform:translateY(-2px);border-color:var(--orange)}
+.idea svg{width:44px;height:44px;color:var(--acc);fill:none;stroke:currentColor;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round}
+.idea b{font-size:.95rem;line-height:1.3}
+.idea small{font:700 .66rem var(--f);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+@media (prefers-reduced-motion:reduce){.idea{transition:none}.idea:hover{transform:none}}
+/* buscador */
+.buscar{display:flex;align-items:center;gap:10px;margin-top:28px;flex-wrap:wrap}
+.buscar input{flex:1 1 240px;font:inherit;padding:12px 16px;border:1.5px solid var(--rule);border-radius:999px;background:var(--paper);color:var(--ink)}
+.buscar input:focus{border-color:var(--orange);outline:none}
+.buscar span{font-size:.8rem;color:var(--muted);font-weight:600}
+.oculta{display:none!important}
+/* compartir */
+.ctrl{display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+.share{font:700 .74rem var(--f);border:0;background:transparent;color:var(--acc);cursor:pointer;padding:4px 6px}
+/* preguntas */
+.faq{padding-block:60px 20px}
+.faq h2,.autor h2{font-size:clamp(1.5rem,3vw,2rem);font-weight:800;letter-spacing:-.02em;margin-top:8px}
+.faq details{border-bottom:1px solid var(--rule)}
+.faq summary{cursor:pointer;padding:16px 28px 16px 0;font-weight:700;list-style:none;position:relative}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";position:absolute;right:4px;top:14px;color:var(--acc);font-weight:800;font-size:1.2rem}
+.faq details[open] summary::after{content:"–"}
+.faq details p{color:var(--muted);padding:0 0 16px;max-width:70ch}
+.faq .lst{margin-top:18px;border-top:1px solid var(--rule)}
+/* autor */
+.autor{background:var(--sheet);border-block:1px solid var(--rule)}
+.autor .in{padding-block:56px;display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:36px;max-width:1040px}
+@media (max-width:800px){.autor .in{grid-template-columns:1fr}}
+.autor .bio p{margin-top:12px;max-width:62ch}
+.rotulo{background:var(--paper);border:1px solid var(--rule);border-radius:14px;overflow:hidden;font-size:.85rem}
+.rotulo .rh{background:#111;color:#fff;padding:10px 16px;display:flex;justify-content:space-between;letter-spacing:.1em;text-transform:uppercase;font-weight:700;font-size:.72rem}
+.rotulo dl{display:grid;grid-template-columns:auto 1fr;margin:0}
+.rotulo dt,.rotulo dd{margin:0;padding:10px 16px;border-top:1px solid var(--rule)}
+.rotulo dt{color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-size:.66rem;font-weight:700}
+.rotulo dd{font-weight:600}
+.dl{display:inline-flex;align-items:center;gap:8px;margin-top:20px;font:700 .95rem var(--f);padding:13px 22px;border-radius:999px;background:var(--ink);color:var(--paper);text-decoration:none}
+.consent{min-width:0;max-width:100%;display:flex;gap:10px;align-items:flex-start;font-size:.85rem;color:var(--muted)}
+.f>*{min-width:0}
+.consent span{min-width:0;flex:1;white-space:normal}
+.consent input{accent-color:var(--orange);width:18px!important;min-width:18px;flex:0 0 18px;height:18px;padding:0;margin-top:2px;flex-shrink:0}
+footer a{color:var(--muted)}
+/* impresión / PDF */
+@media print{
+  .top,.indice,.seg,.more,.share,.buscar,.ideas,.contacto,.howto,.dl{display:none!important}
+  .prop{break-inside:avoid-page;border-top-width:3px}
+  .prop [data-n="2"],.prop [data-n="3"]{display:block!important}
+  .prop .meta[data-n="2"],.prop .dims[data-n="3"]{display:grid!important}
+  .prop .solo1{display:none!important}
+  .faq details{break-inside:avoid}.faq details p{display:block}
+  body{font-size:11pt}
+  .chart svg{max-width:420px}
+}
+
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="in">
+    <a class="mark" href="#inicio" aria-label="Inicio">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f9b50f"/><stop offset=".5" stop-color="#eb671c"/><stop offset="1" stop-color="#e84b49"/></linearGradient></defs><path d="M4 30 A16 16 0 0 1 36 30 Z" fill="url(#lg)"/><rect x="2" y="32" width="36" height="4" rx="2" fill="currentColor"/></svg>
+      <span id="marca">100 propuestas</span>
+    </a>
+    <div class="all"><span>Ver todas en:</span>
+      <div class="seg" role="group" aria-label="Nivel para todas las propuestas">
+        <button type="button" data-g="1">Resumido</button><button type="button" data-g="2">Extendido</button><button type="button" data-g="3">Completo</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main id="inicio">
+<section class="hero">
+  <div class="in">
+    <span class="label">Programa para la Argentina · una generación</span>
+    <h1>100 propuestas para <em>la Argentina</em></h1>
+    <p class="lede">La Argentina bajó la inflación, pero lo hizo achicando salarios, jubilaciones y obra pública, no cambiando lo que la hace caer una y otra vez. Estabilizar era necesario; transformar es la tarea.</p>
+    <p class="lede">Este programa no es un shock ni es quedarse quietos: es cambiar de verdad, con tiempo y con red, en tres etapas dentro del primer mandato, y sostenido a lo largo de varios gobiernos. Acá están las 100 propuestas, una por una, con qué se propone, por qué y cómo se hace.</p>
+    <div class="howto">
+      <span class="label">Cómo leer</span>
+      <div class="row"><b>Resumido</b><small>Qué, por qué y cómo, en pocas líneas.</small></div>
+      <div class="row"><b>Extendido</b><small>Más detalle, el porqué con gráficos, cuándo, con qué herramienta, a qué costo y con quién.</small></div>
+      <div class="row"><b>Completo</b><small>Todo: pasos, plazos, financiamiento, riesgos, cómo se mide, cómo se protege y las fuentes.</small></div>
+      <small>Toda propuesta dice qué se hace, por qué y cómo; cada nivel lo amplía. Cada una tiene sus botones y arriba podés pasar todas al mismo nivel.</small>
+    </div>
+  </div>
+</section>
+
+<section class="ideas"><div class="in">
+  <span class="label">En 10 ideas</span>
+  <h2>Si tenés un minuto</h2>
+  <p class="sub">Tocá una idea para ir a la propuesta.</p>
+  <div class="idg"><a class="idea" href="#p13"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M12 6h24v36l-4-3-4 3-4-3-4 3-4-3-4 3z"/><path d="M18 16h12M18 23h12M18 30h7"/><path d="M8 8l32 32"/></svg><small>Idea 1</small><b>Chau Ganancias al sueldo y menos Ingresos Brutos</b></a><a class="idea" href="#aV"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M6 26h36M12 26v14M36 26v14"/><path d="M16 26c0-6 4-9 8-9s8 3 8 9"/><path d="M20 20l2 3M26 19l1 3"/></svg><small>Idea 2</small><b>Más trabajo en blanco y mejores sueldos</b></a><a class="idea" href="#p34"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M24 7c4 6 8 9 8 15a8 8 0 0 1-16 0c0-4 3-6 4-10 1 3 2 4 4 5z"/><path d="M10 38h28M14 38v4M34 38v4"/></svg><small>Idea 3</small><b>Gas de red en cada casa, sin garrafa ni leña</b></a><a class="idea" href="#p14"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M30 8a8 8 0 0 0-7 11L9 33a3 3 0 0 0 4 4l14-14a8 8 0 0 0 11-7l-5 3-4-1-1-4z"/></svg><small>Idea 4</small><b>Herencias grandes pagan; la casa familiar, no</b></a><a class="idea" href="#p98"><svg viewBox="0 0 48 48" aria-hidden="true"><rect x="8" y="22" width="32" height="20" rx="2"/><path d="M18 22h12"/><path d="M19 22V8h10v14"/><path d="M22 13h4"/></svg><small>Idea 5</small><b>Elecciones limpias: se sabe quién financia a cada candidato</b></a><a class="idea" href="#p68"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M24 5l15 6v11c0 10-6 17-15 21C15 39 9 32 9 22V11z"/><path d="M17 24l5 5 9-10"/></svg><small>Idea 6</small><b>Narcotráfico: seguir la plata hasta los de arriba</b></a><a class="idea" href="#p17"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M10 26a14 14 0 0 1 28 0"/><path d="M4 26h40M8 33h32M14 40h20"/><path d="M24 4v4M10 10l3 3M38 10l-3 3"/></svg><small>Idea 7</small><b>Cada provincia cobra sus impuestos y no depende de Nación</b></a><a class="idea" href="#p60"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M8 30l4-9h24l4 9v7H8z"/><circle cx="15" cy="37" r="3"/><circle cx="33" cy="37" r="3"/><path d="M12 30h24"/></svg><small>Idea 8</small><b>Sin autos ni aviones oficiales para uso personal</b></a><a class="idea" href="#p91"><svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="9" r="4"/><path d="M24 13v12M16 19l8 4 8-4"/><path d="M4 33c4-3 8-3 12 0s8 3 12 0 8-3 12 0 4 0 4 0M4 40c4-3 8-3 12 0s8 3 12 0 8-3 12 0"/></svg><small>Idea 9</small><b>Fuerzas Armadas que llegan en las emergencias</b></a><a class="idea" href="#p89"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M7 22c3-4 9-5 12-2s2 8-2 10-9 1-10-3z"/><path d="M26 20c4-3 10-2 13 1s2 9-3 11-9 0-10-4z"/><path d="M4 40c6-3 12-3 18 0s14 3 22 0"/></svg><small>Idea 10</small><b>Malvinas: sin renunciar y sin conflicto</b></a></div>
+  <div class="buscar"><input type="search" id="q" placeholder="Buscar una propuesta: gas, jubilación, Malvinas, 23…" aria-label="Buscar una propuesta"><span id="qn"></span></div>
+</div></section>
+<nav class="indice" aria-label="Áreas"><div class="in" id="indice"></div></nav>
+
+<div class="in" id="lista"><p class="cargando">Cargando propuestas…</p></div>
+
+<section class="cuenta" id="cuenta"><div class="in">
+  <span class="label">La cuenta</span>
+  <h2>Cómo se paga</h2>
+  <p class="sub">Dos reglas. Ningún impuesto baja si no entra otro que lo reemplace en el mismo presupuesto. Y lo nuevo se paga con el crecimiento, nunca con emisión ni con deuda para gastos. Cifras en % del PIB al cuarto año, Nación y provincias juntas.</p>
+  <div class="cg">
+    <div class="chart"><h4>Impuestos que bajan · 3,1 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Impuestos que bajan en el mandato", "datos": [{"x": "Ingresos Brutos (¼)", "y": 0.9}, {"x": "Cheque (mitad)", "y": 0.8}, {"x": "Retenciones", "y": 0.6}, {"x": "Sellos", "y": 0.4}, {"x": "Ganancias sueldo", "y": 0.4}]}'></div></div>
+    <div class="chart"><h4>Con qué se reemplazan · 3,1 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Con qué se reemplazan", "datos": [{"x": "Impuesto al suelo", "y": 1.2}, {"x": "Menos evasión", "y": 1.2}, {"x": "Menos subsidios", "y": 0.5}, {"x": "Herencias grandes", "y": 0.2}]}'></div></div>
+    <div class="chart"><h4>Qué se paga con el crecimiento · 1,7 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Qué se paga con el crecimiento", "datos": [{"x": "Programas nuevos", "y": 1.1}, {"x": "Jubilaciones", "y": 0.5}, {"x": "Defensa", "y": 0.1}]}'></div><p class="cn">Supone 3,5 % de crecimiento anual. Si se crece menos, primero se cumplen salud, primera infancia, desempleo, violencia y discapacidad, y el resto se escalona.</p></div>
+  </div>
+  <div class="cx">
+    <div><b>Superávit todo el mandato</b><span>El resultado primario baja de 1,2 a cerca de 0,6 % del PIB, pero nunca pasa a déficit. Los intereses se pagan con superávit.</span></div>
+    <div><b>Deuda solo para obras</b><span>Hasta 0,6 % del PIB más de obra por año al final del mandato, con multilaterales, aranceles de transición y contrapartidas de inversores.</span></div>
+    <div><b>Lo que queda para después</b><span>El resto de Ingresos Brutos y del cheque, y el IVA al 10,5 %: unos 6,5 puntos más. El camino del IVA queda fijado por ley y cada escalón baja solo cuando entra su reemplazo. Lo que hoy no paga IVA no pasa a pagarlo.</span></div>
+  </div>
+  <p class="cn">Base: ARCA (recaudación 2025), INDEC, Ministerio de Economía, Dirección Nacional de Asuntos Provinciales y estadísticas de la OCDE; procesado en el monitor Argentina en datos. Las fuentes nuevas son estimaciones con rango: impuesto al suelo entre 0,8 y 1,6 puntos, cumplimiento entre 0,8 y 1,6. Si rinden menos, los impuestos bajan más despacio; nunca a crédito.</p>
+</div></section>
+<section class="cierre" id="cierre">
+  <div class="in">
+    <span class="label">Para cerrar</span>
+    <h2>Un plan para que dure más que quien lo empiece</h2>
+    <p>A la Argentina no le faltan recursos ni gente formada: le faltó sostener el rumbo. Por eso estas propuestas no se aplican todas juntas ni de golpe, sino en orden, cada una habilitando la siguiente, y cada conquista se protege para que el próximo gobierno no la deshaga.</p>
+    <p>No es la propuesta de un partido contra otro. Es un rumbo para sostener entre todos, gobierne quien gobierne.</p>
+    <div class="fases">
+      <div><small>Fase I · año 1</small><b>Cimientos</b><span>Estabilizar sin achicar a la gente: ancla, cuentas, red social y transparencia.</span></div>
+      <div><small>Fase II · años 2 y 3</small><b>Corrección</b><span>Con la red tendida: cambio libre, apertura gradual, nuevos impuestos y trabajo.</span></div>
+      <div><small>Fase III · año 4</small><b>Transformación</b><span>Industria, regiones, jubilaciones y blindaje de todo lo logrado.</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="faq" id="preguntas"><div class="in"><span class="label">Preguntas difíciles</span><h2>Lo que nos van a preguntar</h2><div class="lst"><details><summary>¿Cómo se paga todo esto?</summary><p>Sin subir la presión total: lo que baja, se reemplaza. Cada impuesto que baja se reemplaza en el mismo presupuesto con impuestos al suelo y a las herencias grandes, menos evasión y menos subsidios y privilegios: 3,1 puntos del PIB en el mandato. Lo nuevo se paga con el crecimiento y las obras con deuda solo para obras, sin déficit primario. <a href="#cuenta">Ver la cuenta</a>.</p></details><details><summary>¿Gradual no es lo mismo que no hacer nada?</summary><p>No. Gradual es hacer lo correcto a la velocidad que la sociedad puede sostener, con un orden donde cada paso habilita al siguiente. Las reglas duras —déficit cero, tope de emisión— se votan en el primer año y rigen desde el presupuesto siguiente; el superávit se sostiene desde el primer día. Lo que lleva tiempo es transformar la producción y el empleo, y eso ningún país lo logró de golpe sin pagar un costo enorme.</p></details><details><summary>¿El impuesto a la herencia no es confiscatorio?</summary><p>No toca la vivienda única ni la pequeña empresa familiar, y no se suma: reemplaza impuestos que hoy castigan al que trabaja, produce y consume. Grava lo que alguien recibe sin haberlo ganado. Premia el mérito y castiga el privilegio heredado; es lo contrario de que todo dependa de la cuna.</p></details><details><summary>¿Esto es liberalismo o estatismo?</summary><p>Ninguna de las dos cosas. Baja impuestos distorsivos, abre la economía y libera el cambio, pero con tiempo y con red. El Estado actúa por la vía mínima —destraba, coordina, protege— e invierte directamente solo donde nadie más lo hace y está en juego algo estratégico.</p></details><details><summary>¿Por qué no hay perdón para los ex presidentes?</summary><p>Porque la corrupción no se cierra con un indulto. Proponemos una Comisión contra la Corrupción independiente del Poder Ejecutivo, que la prescripción no corra mientras el acusado conserve poder, y que el Estado recupere lo robado. No se persigue a nadie por su color político: se desarma un sistema.</p></details><details><summary>¿Legalizar algunas drogas no aumenta el consumo?</summary><p>La propuesta no es liberar sino regular con supervisión médica: tratar el consumo como un problema de salud y no como un negocio del crimen organizado. Qué sustancias y con qué reglas lo define una ley, con evaluación sanitaria, y los recursos que hoy van a perseguir consumidores pasan a prevención y tratamiento.</p></details><details><summary>¿Abrir la economía no destruye la industria?</summary><p>Abrir de golpe, sí. Por eso la apertura es por etapas, empieza por lo que no cumple estándares laborales o ambientales, usa aranceles de transición con fecha de vencimiento y exige contenido nacional a las grandes inversiones. Primero se gana competitividad; después se abre más.</p></details><details><summary>¿Malvinas sin conflicto no es resignarse?</summary><p>No se renuncia a nada: el reclamo es permanente e irrenunciable, como dice la Constitución. Bajamos tensiones con el Reino Unido, trabajamos con los isleños respetando su modo de vida y marcamos límites claros sobre pesca, recursos y militarización. Firmeza en el objetivo, sensatez en el camino.</p></details><details><summary>¿Por qué condenar también a países aliados?</summary><p>Porque los derechos humanos se defienden con una sola vara. Una Argentina que condena a unos y calla ante otros según la conveniencia del momento pierde la única herramienta que tiene un país mediano frente a una potencia: el derecho internacional.</p></details><details><summary>¿Por qué un plan de dos a seis mandatos?</summary><p>Porque ningún país resolvió una combinación de inflación, deuda, pobreza e informalidad como la argentina en menos de una generación sin autoritarismo. Lo que nos faltó no son ideas, es sostener el rumbo. Por eso cada reforma se diseña para sobrevivir a quien la empezó.</p></details><details><summary>¿Esto es la plataforma de un partido?</summary><p>No. Es un programa técnico que cualquier fuerza política puede tomar. Una política de Estado, por definición, no puede ser de un solo partido.</p></details></div></div></section>
+<section class="autor" id="autor"><div class="in">
+  <div class="bio">
+    <span class="label">Quién escribe</span>
+    <h2>Franco Martín López</h2>
+    <p>Arquitecto egresado con honores de la UAI Rosario y auditor interno ISO 9001:2015 certificado por IRAM. Cursó los posgrados en Economía Urbana (UTDT) y en Políticas de Infraestructura (UNR), con tesis en instancia de defensa.</p>
+    <p>Su trayectoria en la industria abarca, a nivel gerencial, producción, calidad, compras, ventas, recursos humanos, comercio exterior y logística. Trabajó en investigación, docencia y consultoría legislativa municipal y provincial. Su novela <i>La Última Frontera</i> fue finalista del Premio Nadal.</p>
+    <p>Este programa es la síntesis de una radiografía de 22 temas, un diagnóstico técnico y un documento de propuestas, escritos entre 2025 y 2026.</p>
+    <a class="dl" href="100-propuestas.pdf">Descargar el programa completo (PDF)</a>
+  </div>
+  <aside class="rotulo" aria-label="Ficha del programa">
+    <div class="rh"><span>Ficha del programa</span><span>Rev. 01</span></div>
+    <dl>
+      <dt>Propuestas</dt><dd>100, en 10 áreas</dd>
+      <dt>Estructura</dt><dd>Qué · Por qué · Cómo</dd>
+      <dt>Horizonte</dt><dd>3 fases en el primer mandato; se sostiene de 2 a 6 mandatos</dd>
+      <dt>Datos</dt><dd>INDEC, BCRA, SIPA y otros, a octubre de 2026</dd>
+      <dt>Autor</dt><dd>Franco Martín López</dd>
+    </dl>
+  </aside>
+</div></section>
+<section class="contacto" id="contacto">
+  <div class="in">
+    <div class="intro">
+      <span class="label">Contacto</span>
+      <h2>Sumate a la conversación</h2>
+      <p>Comentarios, críticas, ideas o ganas de ayudar: todo suma. Elegí para qué nos escribís y te respondemos.</p>
+    </div>
+    <form class="f" name="contacto" method="POST" data-netlify="true" netlify-honeypot="sitio" action="/gracias.html">
+      <input type="hidden" name="form-name" value="contacto">
+      <p hidden><label>No completar <input name="sitio"></label></p>
+      <fieldset class="motivo"><legend>¿Para qué nos escribís?</legend>
+        <label><input type="radio" name="motivo" value="Comentario" required checked> Dejar un comentario</label>
+        <label><input type="radio" name="motivo" value="Colaborar online"> Colaborar a distancia (online)</label>
+        <label><input type="radio" name="motivo" value="Colaborar presencial"> Colaborar en persona, en mi zona</label>
+        <label><input type="radio" name="motivo" value="Interés en aportar fondos"> Me interesa aportar fondos</label>
+        <label><input type="radio" name="motivo" value="Sumarme como candidato/a"> Sumarme como candidato/a</label>
+      </fieldset>
+      <div><label class="t" for="n">Nombre</label><input id="n" name="nombre" autocomplete="name" required></div>
+      <div><label class="t" for="p">Provincia</label><select id="p" name="provincia" required><option value="">Elegí tu provincia</option></select></div>
+      <div><label class="t" for="e">Correo o WhatsApp para responderte</label><input id="e" name="contacto" required></div>
+      <div><label class="t" for="m">Mensaje</label><textarea id="m" name="mensaje" rows="4" required></textarea></div>
+      <p class="nota">Por ahora solo registramos el interés en aportar fondos: no se recibe dinero por esta vía.</p>
+      <label class="consent"><input type="checkbox" name="consentimiento" value="Acepto" required> <span>Acepto que mis datos se usen solo para responderme, según la <a href="privacidad.html">política de privacidad</a>.</span></label>
+      <button class="btn" type="submit">Enviar</button>
+      <p class="ok" id="ok">Vista previa: el formulario funciona una vez publicado en Netlify.</p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer><div class="in"><span>Programa técnico de Franco Martín López · Argentina</span><span><a href="#cuenta">La cuenta</a> · <a href="#preguntas">Preguntas</a> · <a href="#autor">Autor</a> · <a href="privacidad.html">Privacidad</a> · Datos a octubre de 2026</span></div></footer>
+
+<script>
+(function(){
+"use strict";
+var AREAS={I:"Moneda, cuentas y deuda",II:"Impuestos y federalismo",III:"Producción, comercio e inversión",IV:"Energía, infraestructura y ambiente",V:"Trabajo",VI:"Estado, transparencia y justicia",VII:"Seguridad",VIII:"Ingreso, salud, educación y vivienda",IX:"Mundo, defensa y soberanía",X:"Memoria, democracia y convivencia"};
+var CORTO={I:"Moneda",II:"Impuestos",III:"Producción",IV:"Energía",V:"Trabajo",VI:"Estado",VII:"Seguridad",VIII:"Social",IX:"Mundo",X:"Democracia"};
+var INTRO={
+ I:"Una moneda que sirva para ahorrar y cuentas que no dependan de la emisión.",
+ II:"Que pague el que hereda o especula, no el que trabaja y produce. Los impuestos nuevos reemplazan, no se suman.",
+ III:"Abrirse al mundo con reglas y tiempo, y que la inversión deje algo más que un pozo.",
+ IV:"Nuestro gas, nuestra energía y la infraestructura que el país dejó de construir.",
+ V:"Más trabajo registrado: flexibilidad a cambio de voz y participación en la empresa.",
+ VI:"Un Estado que se deja ver y un ciudadano que no es vigilado.",
+ VII:"Firmeza con el delito y con el abuso: las dos mitades de la seguridad.",
+ VIII:"Un piso de dignidad mientras el país se transforma.",
+ IX:"Comerciar con todos, depender de nadie y cuidar lo nuestro.",
+ X:"Verdad, reglas limpias y una convivencia que no se venda."};
+var PROV=["Buenos Aires","CABA","Catamarca","Chaco","Chubut","Córdoba","Corrientes","Entre Ríos","Formosa","Jujuy","La Pampa","La Rioja","Mendoza","Misiones","Neuquén","Río Negro","Salta","San Juan","San Luis","Santa Cruz","Santa Fe","Santiago del Estero","Tierra del Fuego","Tucumán"];
+
+function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function paras(s){return String(s||"").split(/\n\n+/).filter(Boolean).map(function(p){return "<p>"+esc(p)+"</p>"}).join("")}
+function norm(s){return String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase().replace(/^ciudad (autonoma )?de buenos aires$|^caba$/,"caba").replace(/^provincia de /,"").replace(/,? ?antartida.*$/,"").replace(/^ciudad autonoma de buenos aires$/,"caba").trim()}
+function corto(x){return String(x).replace(/^Ciudad Aut[oó]noma de Buenos Aires$/,"CABA").replace(/,? ?Ant[aá]rtida.*$/,"")}
+function num(v){var x=typeof v==="number"?v:parseFloat(String(v).replace(/\./g,"").replace(",","."));return isFinite(x)?x:null}
+function fmt(v){var a=Math.abs(v);var d=a>=100?0:a>=10?1:a>=1?1:2;return v.toLocaleString("es-AR",{maximumFractionDigits:d})}
+
+var MAPA=null;
+
+function chartLine(g){
+  var d=g.datos.map(function(p){return {x:String(p.x),y:num(p.y)}}).filter(function(p){return p.y!=null});
+  if(d.length<2)return "";
+  var W=420,H=200,L=44,R=14,T=18,B=28;
+  var ys=d.map(function(p){return p.y}),mn=Math.min.apply(null,ys),mx=Math.max.apply(null,ys);
+  if(mn>0&&mn/mx>0.4)mn=mn*0.9;else mn=Math.min(0,mn);if(mx===mn)mx=mn+1;
+  var sx=function(i){return L+(W-L-R)*i/(d.length-1)},sy=function(v){return T+(H-T-B)*(1-(v-mn)/(mx-mn))};
+  var path=d.map(function(p,i){return (i?"L":"M")+sx(i).toFixed(1)+","+sy(p.y).toFixed(1)}).join("");
+  var ticks=[mn,(mn+mx)/2,mx],s="";
+  ticks.forEach(function(t){s+='<line class="grid" x1="'+L+'" x2="'+(W-R)+'" y1="'+sy(t)+'" y2="'+sy(t)+'"/><text class="ax" x="'+(L-6)+'" y="'+(sy(t)+3)+'" text-anchor="end">'+fmt(t)+'</text>'});
+  var step=Math.ceil(d.length/6);
+  d.forEach(function(p,i){if(i%step===0||i===d.length-1)s+='<text class="ax" x="'+sx(i)+'" y="'+(H-8)+'" text-anchor="middle">'+esc(p.x)+'</text>'});
+  var last=d[d.length-1];
+  s+='<path d="'+path+'" fill="none" stroke="var(--orange)" stroke-width="2.5" stroke-linejoin="round"/>';
+  s+='<circle cx="'+sx(d.length-1)+'" cy="'+sy(last.y)+'" r="4" fill="var(--acc)"/><text class="vl" x="'+(sx(d.length-1)-6)+'" y="'+(sy(last.y)-9)+'" text-anchor="end">'+fmt(last.y)+'</text>';
+  return '<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="'+esc(g.titulo)+'">'+s+'</svg>';
+}
+function chartBars(g){
+  var d=g.datos.map(function(p){return {x:String(p.x),y:num(p.y)}}).filter(function(p){return p.y!=null});
+  if(!d.length)return "";
+  var horiz=d.length>6||d.some(function(p){return p.x.length>8});
+  var ys=d.map(function(p){return p.y}),mn=Math.min(0,Math.min.apply(null,ys)),mx=Math.max(0,Math.max.apply(null,ys));if(mx===mn)mx=1;
+  var s="";
+  if(horiz){
+    var rh=26,W=420,L=130,R=48,H=d.length*rh+8;
+    var sx=function(v){return L+(W-L-R)*(v-mn)/(mx-mn)};
+    d.forEach(function(p,i){var y=4+i*rh,x0=sx(0),x1=sx(p.y);
+      s+='<text class="ax" x="'+(L-8)+'" y="'+(y+14)+'" text-anchor="end">'+esc(p.x)+'</text>';
+      s+='<rect x="'+Math.min(x0,x1)+'" y="'+(y+3)+'" width="'+Math.max(1,Math.abs(x1-x0))+'" height="'+(rh-8)+'" rx="3" fill="'+(p.y<0?"var(--red)":"var(--orange)")+'"/>';
+      s+='<text class="vl" x="'+(p.y<0?Math.min(x0,x1)-4:x1+4)+'" y="'+(y+14)+'" text-anchor="'+(p.y<0?"end":"start")+'">'+fmt(p.y)+'</text>'});
+    if(mn<0)s+='<line class="grid" x1="'+sx(0)+'" x2="'+sx(0)+'" y1="0" y2="'+H+'"/>';
+    return '<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="'+esc(g.titulo)+'">'+s+'</svg>';
+  }
+  var W2=420,H2=210,T=22,B=28,L2=8,bw=(W2-L2*2)/d.length;
+  var sy=function(v){return T+(H2-T-B)*(1-(v-mn)/(mx-mn))};
+  d.forEach(function(p,i){var x=L2+i*bw+bw*.18,w=bw*.64,y0=sy(0),y1=sy(p.y);
+    s+='<rect x="'+x+'" y="'+Math.min(y0,y1)+'" width="'+w+'" height="'+Math.max(1,Math.abs(y1-y0))+'" rx="3" fill="'+(p.y<0?"var(--red)":"var(--orange)")+'"/>';
+    s+='<text class="vl" x="'+(x+w/2)+'" y="'+(p.y<0?y1+12:y1-5)+'" text-anchor="middle">'+fmt(p.y)+'</text>';
+    s+='<text class="ax" x="'+(x+w/2)+'" y="'+(H2-8)+'" text-anchor="middle">'+esc(p.x)+'</text>'});
+  s+='<line class="grid" x1="0" x2="'+W2+'" y1="'+sy(0)+'" y2="'+sy(0)+'"/>';
+  return '<svg viewBox="0 0 '+W2+' '+H2+'" role="img" aria-label="'+esc(g.titulo)+'">'+s+'</svg>';
+}
+function chartMap(g){
+  if(!MAPA)return chartBars(g);
+  var val={};g.datos.forEach(function(p){var v=num(p.y);if(v!=null)val[norm(p.x)]=v});
+  var vs=Object.keys(val).map(function(k){return val[k]});if(!vs.length)return "";
+  var mn=Math.min.apply(null,vs),mx=Math.max.apply(null,vs),div=mn<0&&mx>0,lim=Math.max(Math.abs(mn),Math.abs(mx))||1;
+  function col(v){
+    if(v==null)return "var(--rule)";
+    if(div){var t=Math.min(1,Math.abs(v)/lim);return v<0?"color-mix(in srgb,var(--red) "+Math.round(20+80*t)+"%,var(--sheet))":"color-mix(in srgb,var(--pos) "+Math.round(20+70*t)+"%,var(--sheet))"}
+    var t2=(v-mn)/((mx-mn)||1);return "color-mix(in srgb,var(--orange) "+Math.round(15+85*t2)+"%,var(--sheet))";
+  }
+  var paths=MAPA.provincias.map(function(p){var v=val[norm(p.n)];return '<path d="'+p.d+'" fill="'+col(v)+'"><title>'+esc(p.n)+(v!=null?": "+fmt(v):"")+'</title></path>'}).join("");
+  var known={};MAPA.provincias.forEach(function(q){known[norm(q.n)]=1});var rows=g.datos.slice().filter(function(p){return num(p.y)!=null&&known[norm(p.x)]}).sort(function(a,b){return num(b.y)-num(a.y)});
+  var list='<ol>'+rows.map(function(p){return '<li><span>'+esc(corto(p.x))+'</span><b style="color:'+(num(p.y)<0?"var(--red)":"inherit")+'">'+fmt(num(p.y))+'</b></li>'}).join("")+'</ol>';
+  var leg=div?'<div class="leg"><span>Baja</span><i style="background:linear-gradient(90deg,var(--red),var(--sheet),var(--pos))"></i><span>Sube</span></div>':'<div class="leg"><span>Menos</span><i style="background:linear-gradient(90deg,var(--sheet),var(--orange))"></i><span>Más</span></div>';
+  return '<div class="map"><div><svg viewBox="0 0 '+MAPA.w+' '+MAPA.h+'" role="img" aria-label="'+esc(g.titulo)+'">'+paths+'</svg>'+leg+'</div>'+list+'</div>';
+}
+function chart(g){
+  if(!g||!g.datos||!g.datos.length)return "";
+  var body=g.tipo==="mapa"?chartMap(g):g.tipo==="linea"?chartLine(g):chartBars(g);
+  if(!body)return "";
+  return '<figure class="chart" style="margin:12px 0 0"><h4>'+esc(g.titulo)+(g.unidad?' <span style="color:var(--muted);font-weight:500">· '+esc(g.unidad)+'</span>':'')+'</h4>'+body+(g.fuente?'<p class="src">Fuente: '+esc(g.fuente)+'</p>':'')+'</figure>';
+}
+
+function card(p){
+  var d=p.dato||{};
+  var pasos=(p.pasos||[]).length?'<ol>'+p.pasos.map(function(x){return "<li>"+esc(x)+"</li>"}).join("")+'</ol>':"";
+  var dims=[["Pasos",pasos],["Plazos",esc(p.plazos)],["Costo y financiamiento",esc(p.costo_detalle)],["Riesgos",esc(p.riesgos)],["Cómo se mide",esc(p.indicador)],["Cómo se protege",esc(p.blindaje)]].filter(function(r){return r[1]}).map(function(r){return "<dt>"+r[0]+"</dt><dd>"+r[1]+"</dd>"}).join("");
+  var busca=norm([p.n,p.titulo,p.resumen,p.que_ext,p.porque_ext,AREAS[p.area]].join(" "));
+  return '<article class="prop'+(p.bandera?" bandera":"")+'" id="p'+p.n+'" data-area="'+p.area+'" data-busca="'+esc(busca)+'" data-nivel="1">'+
+   '<div class="ph1"><div><span class="code">PROPUESTA '+p.n+'</span>'+(p.bandera?'<span class="flag">Bandera</span>':'')+'<h3>'+esc(p.titulo)+'</h3></div>'+
+   '<div class="ctrl"><div class="seg" role="group" aria-label="Nivel de la propuesta '+p.n+'"><button type="button" data-p="1">Resumido</button><button type="button" data-p="2">Extendido</button><button type="button" data-p="3">Completo</button></div><button type="button" class="share" data-share="'+p.n+'">Compartir ↗</button></div></div>'+
+   '<div class="blk que"><span class="label">Qué</span><p class="one">'+esc(p.resumen)+'</p>'+
+     '<div data-n="2" style="margin-top:10px">'+paras(p.que_ext)+'</div><div data-n="3" style="margin-top:10px">'+paras(p.que_comp)+'</div></div>'+
+   '<div class="blk why"><span class="label">Por qué</span>'+
+     (d.valor?'<div class="stat"><span class="n">'+esc(d.valor)+'</span><span class="t">'+esc(d.texto)+'</span></div><p class="src">'+esc([d.fuente,d.fecha].filter(Boolean).join(" · "))+'</p>':'')+
+     '<div data-n="2" style="margin-top:10px">'+paras(p.porque_ext)+chart(p.grafico)+'</div>'+
+     '<div data-n="3" style="margin-top:10px">'+paras(p.porque_comp)+'</div></div>'+
+   '<div class="blk how"><span class="label">Cómo</span>'+
+     '<p class="solo1">'+esc([p.cuando,p.instrumento,p.actores].filter(Boolean).join(" · "))+'</p>'+
+     '<div class="meta" data-n="2"><div><small>Cuándo</small><b>'+esc(p.cuando)+'</b></div><div><small>Instrumento</small><b>'+esc(p.instrumento)+'</b></div><div><small>Costo</small><b>'+esc(p.costo)+'</b></div><div><small>Actores</small><b>'+esc(p.actores)+'</b></div></div>'+
+     '<dl class="dims" data-n="3">'+dims+'</dl>'+
+     ((p.fuentes||[]).length?'<p class="fuentes" data-n="3">Fuentes: '+p.fuentes.map(esc).join(" · ")+'</p>':'')+'</div>'+
+   '<button type="button" class="more">Ver más ↓</button></article>';
+}
+
+
+function compartir(btn,el){
+  var n=btn.getAttribute("data-share"),t=el.querySelector("h3").textContent;
+  var url=location.href.split("#")[0]+"#p"+n,txt="Propuesta "+n+": "+t;
+  function ok(m){btn.textContent=m;setTimeout(function(){btn.textContent="Compartir ↗"},1800)}
+  try{ if(navigator.share){navigator.share({title:txt,text:txt,url:url}).catch(function(){});return} }catch(e){}
+  try{ navigator.clipboard.writeText(txt+" "+url).then(function(){ok("Enlace copiado")},function(){ok("#p"+n)}) }catch(e){ok("#p"+n)}
+}
+function buscar(q){
+  q=norm(q);var vis=0;
+  document.querySelectorAll(".prop").forEach(function(el){
+    var hit=!q||el.getAttribute("data-busca").indexOf(q)>-1||("#"+el.id.slice(1))===("#"+q);
+    el.classList.toggle("oculta",!hit);if(hit)vis++;
+  });
+  document.querySelectorAll(".area-h").forEach(function(h){
+    var a=h.id.slice(1),any=document.querySelector('.prop[data-area="'+a+'"]:not(.oculta)');h.classList.toggle("oculta",!any)});
+  document.getElementById("qn").textContent=q?vis+" de 100":"";
+}
+function setProp(el,n){el.setAttribute("data-nivel",n);el.querySelectorAll("[data-p]").forEach(function(b){b.setAttribute("aria-pressed",b.getAttribute("data-p")===String(n)?"true":"false")})}
+function setAll(n){document.querySelectorAll(".prop").forEach(function(el){setProp(el,n)});document.querySelectorAll("[data-g]").forEach(function(b){b.setAttribute("aria-pressed",b.getAttribute("data-g")===String(n)?"true":"false")});try{localStorage.setItem("nivel",String(n))}catch(e){}}
+
+function render(lista){
+  var orden=["I","II","III","IV","V","VI","VII","VIII","IX","X"],h="",idx="";
+  lista.sort(function(a,b){return a.n-b.n});
+  orden.forEach(function(a){
+    var ps=lista.filter(function(p){return p.area===a});if(!ps.length)return;
+    idx+='<a href="#a'+a+'">'+a+' '+CORTO[a]+'</a>';
+    h+='<div class="area-h" id="a'+a+'"><span class="ic">'+a+'</span><div><h2>'+AREAS[a]+'</h2><p>'+INTRO[a]+' <small>'+ps[0].n+'–'+ps[ps.length-1].n+'</small></p></div></div>';
+    h+=ps.map(card).join("");
+  });
+  document.getElementById("lista").innerHTML=h;
+  document.getElementById("indice").innerHTML=idx;
+  document.querySelectorAll(".prop").forEach(function(el){
+    el.addEventListener("click",function(ev){
+      var b=ev.target.closest("[data-p]");if(b){setProp(el,b.getAttribute("data-p"));return}
+      if(ev.target.closest(".more"))setProp(el,Math.min(3,+el.getAttribute("data-nivel")+1));
+      var sh=ev.target.closest("[data-share]");if(sh)compartir(sh,el);
+    });
+  });
+  var s=null;try{s=localStorage.getItem("nivel")}catch(e){}
+  setAll(s==="2"||s==="3"?s:"1");
+  if(location.hash&&/^#p\d+$/.test(location.hash)){var t=document.querySelector(location.hash);if(t){setProp(t,2);t.scrollIntoView()}}
+}
+
+document.querySelectorAll("[data-g]").forEach(function(b){b.addEventListener("click",function(){setAll(b.getAttribute("data-g"))})});
+var qi=document.getElementById("q");qi.addEventListener("input",function(){buscar(qi.value)});
+document.querySelectorAll(".idea").forEach(function(a){a.addEventListener("click",function(){var h=a.getAttribute("href");if(/^#p\d+$/.test(h)){qi.value="";buscar("");var t=document.querySelector(h);if(t)setProp(t,2)}})});
+var sel=document.getElementById("p");PROV.forEach(function(n){var o=document.createElement("option");o.textContent=n;sel.appendChild(o)});
+document.querySelector("form.f").addEventListener("submit",function(ev){if(/claude|localhost|127\.0\.0\.1|^$/.test(location.hostname)){ev.preventDefault();document.getElementById("ok").style.display="block"}});
+
+Promise.all([
+  fetch("datos/propuestas.json").then(function(r){if(!r.ok)throw new Error(r.status);return r.json()}),
+  fetch("datos/mapa.json").then(function(r){return r.ok?r.json():null}).catch(function(){return null})
+]).then(function(res){MAPA=res[1];render(res[0])}).catch(function(e){
+  document.getElementById("lista").innerHTML='<p class="cargando">No se pudieron cargar las propuestas ('+esc(e.message)+').</p>';
+});
+document.querySelectorAll("[data-chart]").forEach(function(el){try{el.innerHTML=chartBars(JSON.parse(el.getAttribute("data-chart")))}catch(e){}});
+})();
+</script>
+</body>
+</html>
