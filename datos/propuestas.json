@@ -5829,8 +5829,8 @@
    "fuente": "Constitución Nacional art. 101; cálculo Sociopolítica Argentina con datos de Chequeado y La Nación",
    "fecha": "marzo 2024 – octubre 2026"
   },
-  "que_ext": "Proponemos unificar los organismos de control, auditoría y anticorrupción bajo una autoridad independiente del Poder Ejecutivo y encabezada por la segunda fuerza política surgida de las elecciones. Quien gobierna no se controla a sí mismo.",
-  "que_comp": "La nueva autoridad integra las funciones hoy dispersas de auditoría externa, control interno y prevención de la corrupción, con autonomía funcional y presupuestaria por ley. Su conducción corresponde a la fuerza política que salió segunda en la última elección nacional, con un cuerpo técnico estable seleccionado por concurso y con mandatos que no coinciden con los del Ejecutivo.\n\nTiene acceso irrestricto en tiempo real a los sistemas de compras, pagos y cuentas (propuesta 56), publica todos sus informes y puede denunciar penalmente. Generaliza un criterio que la Constitución ya aplica a la Auditoría General de la Nación, cuya presidencia corresponde al partido de oposición con más legisladores en el Congreso (art. 85).",
+  "que_ext": "Proponemos unificar los organismos de control, auditoría y anticorrupción bajo una autoridad independiente del Poder Ejecutivo y encabezada por la segunda fuerza política surgida de las elecciones. Quien gobierna no se controla a sí mismo. En concreto: la AGN, la SIGEN y la Oficina Anticorrupción se fusionan en una Autoridad Nacional de Control y Transparencia, reformando los Títulos VI y VII de la Ley 24.156.",
+  "que_comp": "La nueva autoridad integra las funciones hoy dispersas de auditoría externa, control interno y prevención de la corrupción, con autonomía funcional y presupuestaria por ley. Su conducción corresponde a la fuerza política que salió segunda en la última elección nacional, con un cuerpo técnico estable seleccionado por concurso y con mandatos que no coinciden con los del Ejecutivo.\n\nTiene acceso irrestricto en tiempo real a los sistemas de compras, pagos y cuentas (propuesta 56), publica todos sus informes y puede denunciar penalmente. Generaliza un criterio que la Constitución ya aplica a la Auditoría General de la Nación, cuya presidencia corresponde al partido de oposición con más legisladores en el Congreso (art. 85).\n\nEn concreto: la nueva autoridad se llama Autoridad Nacional de Control y Transparencia y se arma sobre la Auditoría General de la Nación (AGN), que ya tiene rango constitucional (art. 85). Se le suman la Sindicatura General de la Nación (SIGEN), hoy órgano de control interno que depende del Presidente, y la Oficina Anticorrupción, hoy un organismo desconcentrado del Ministerio de Justicia. Las unidades de auditoría interna de cada ministerio y organismo, que hoy dependen de la autoridad a la que controlan, pasan a depender de la nueva autoridad. En la Ley 24.156 de Administración Financiera se reemplaza el Título VI (control interno, artículos 96 a 115, incluido el artículo 100 sobre las unidades de auditoría interna) y se reescribe el Título VII (control externo, artículos 116 a 127) para fijar la nueva estructura, su conducción por la segunda fuerza y su autonomía presupuestaria. Se derogan el artículo 13 de la Ley 25.233, que creó la Oficina Anticorrupción dentro del Ministerio de Justicia, y el Decreto 102/1999, que la organiza; sus funciones, incluida la de autoridad de aplicación de la Ley 25.188 de Ética Pública (declaraciones juradas y conflictos de intereses), pasan a la nueva autoridad. El personal y los presupuestos de los tres organismos se integran sin crear cargos nuevos.",
   "porque_ext": "Hoy buena parte de los controles depende del mismo gobierno al que debe controlar. Y los mecanismos que la Constitución prevé para rendir cuentas se cumplen poco: de 26 informes mensuales que el jefe de Gabinete debía dar al Congreso, se presentaron 7.",
   "porque_comp": "El artículo 101 de la Constitución obliga al jefe de Gabinete a concurrir al Congreso al menos una vez por mes, alternando las cámaras. Entre marzo de 2024 y octubre de 2026 se presentaron solo 7 informes, según un cálculo de Sociopolítica Argentina sobre datos periodísticos. Es una práctica que se degradó a lo largo de varias gestiones.\n\nEl diagnóstico del programa señala que las instituciones se socavan cuando los controles dependen del controlado. La solución es estructural: separar el control del poder y dárselo a quien tiene el mayor interés en ejercerlo, con reglas técnicas que eviten su uso faccioso.",
   "grafico": null,
@@ -5839,9 +5839,13 @@
   "costo": "Neutro: fusiona organismos existentes",
   "actores": "Congreso, AGN, organismos de control interno y anticorrupción",
   "pasos": [
-   "Ley de unificación con autonomía funcional y presupuestaria",
-   "Conducción por la segunda fuerza y cuerpo técnico por concurso",
-   "Acceso en tiempo real a compras, pagos y cuentas, con informes públicos"
+   "Enviar en el primer año la ley que crea la Autoridad Nacional de Control y Transparencia: reemplaza el Título VI (arts. 96 a 115) y reescribe el Título VII (arts. 116 a 127) de la Ley 24.156.",
+   "Fusionar en ella la Auditoría General de la Nación, la Sindicatura General de la Nación y la Oficina Anticorrupción, derogando el artículo 13 de la Ley 25.233 y el Decreto 102/1999.",
+   "Pasar las unidades de auditoría interna de cada organismo a depender de la nueva autoridad y no del organismo que controlan.",
+   "Darle la conducción a la segunda fuerza de la última elección nacional, con autonomía funcional y presupuestaria, y mandatos que no coincidan con los del Ejecutivo.",
+   "Cubrir el cuerpo técnico por concurso público, integrando al personal de los tres organismos sin crear cargos nuevos.",
+   "Darle acceso en tiempo real a los sistemas de compras, pagos y cuentas (propuesta 56), con informes públicos y facultad de denuncia penal.",
+   "Impulsar en la primera reforma constitucional posible su rango constitucional, ampliando el artículo 85."
   ],
   "plazos": "Ley en el primer año; nueva autoridad funcionando en la Fase I.",
   "costo_detalle": "Neutro o con ahorro: integra estructuras hoy separadas y elimina superposiciones.",
@@ -5851,7 +5855,10 @@
   "fuentes": [
    "Propuestas Técnicas, documento de base del autor (2026)",
    "Constitución Nacional, arts. 85 y 101",
-   "Sociopolítica Argentina, transparencia/incumplimientos (oct-2026)"
+   "Sociopolítica Argentina, transparencia/incumplimientos (oct-2026)",
+   "Ley 24.156 de Administración Financiera, Títulos VI y VII (1992)",
+   "Ley 25.233, art. 13, y Decreto 102/1999, creación y organización de la Oficina Anticorrupción",
+   "Oficina Anticorrupción, normativa institucional (2026)"
   ]
  },
  {
@@ -5866,8 +5873,8 @@
    "fuente": "INDEC, EPH",
    "fecha": "1er semestre 2026"
   },
-  "que_ext": "Proponemos terminar con los privilegios de la función pública: nadie que gobierna usa autos, choferes ni aviones oficiales para su vida personal, empezando por el presidente. La flota, la Quinta de Olivos, el complejo de Chapadmalal y todo bien ocioso del Estado se reconvierten en un servicio nacional de emergencia, salud y uso público.",
-  "que_comp": "Los vehículos y aeronaves que el Estado posee o paga pasan a un fondo común para emergencias, seguridad y salud: el avión presidencial y la flota, a transporte sanitario y logística ante catástrofes; los autos, a salud y asistencia. La presidencia funciona desde la sede de gobierno, con custodia mínima y profesional, y el presidente paga con su sueldo sus gastos privados: el Estado financia la función, no la vida personal. El gabinete adopta la misma ética.\n\nLas propiedades del Estado sin destino esencial se reconvierten al uso público —salud, rehabilitación, refugio ante desastres, educación o turismo social—. Todo se apoya en un inventario público, georreferenciado y actualizado de cada bien del Estado, con su uso y su costo, para que cualquiera pueda verificar que se cumple.",
+  "que_ext": "Proponemos terminar con los privilegios de la función pública: nadie que gobierna usa autos, choferes ni aviones oficiales para su vida personal, empezando por el presidente. La flota, la Quinta de Olivos, el complejo de Chapadmalal y todo bien ocioso del Estado se reconvierten en un servicio nacional de emergencia, salud y uso público. En concreto: el avión presidencial ARG-01 pasa a ser avión sanitario, el Learjet ARG-03 una ambulancia aérea, Olivos se abre como parque público y Chapadmalal pasa a turismo social y refugio ante desastres.",
+  "que_comp": "Los vehículos y aeronaves que el Estado posee o paga pasan a un fondo común para emergencias, seguridad y salud: el avión presidencial y la flota, a transporte sanitario y logística ante catástrofes; los autos, a salud y asistencia. La presidencia funciona desde la sede de gobierno, con custodia mínima y profesional, y el presidente paga con su sueldo sus gastos privados: el Estado financia la función, no la vida personal. El gabinete adopta la misma ética.\n\nLas propiedades del Estado sin destino esencial se reconvierten al uso público —salud, rehabilitación, refugio ante desastres, educación o turismo social—. Todo se apoya en un inventario público, georreferenciado y actualizado de cada bien del Estado, con su uso y su costo, para que cualquiera pueda verificar que se cumple.\n\nEn concreto: la flota aérea presidencial, que desde 2025 administran el Ministerio de Defensa y la Fuerza Aérea (Decretos 377/2025 y 514/2025), deja de estar reservada al presidente y pasa al servicio de emergencias del Sistema Nacional para la Gestión Integral del Riesgo (SINAGIR, Ley 27.287). El Boeing 757-256 matrícula ARG-01 se reconvierte en avión sanitario y de evacuación ante catástrofes, como sugirió el autor. El Boeing 737-500 ARG-02 pasa a transporte de carga y ayuda humanitaria. El Learjet 60 ARG-03 pasa a ambulancia aérea, para pacientes críticos y traslado de órganos. Los helicópteros (un Sikorsky S-70A y dos Sikorsky S-76B) pasan a rescate y evacuación sanitaria. Para los viajes oficiales, el presidente usa vuelos de línea o, cuando la custodia lo exige, una aeronave de la Fuerza Aérea asignada a esa misión y registrada en el inventario. La Quinta Presidencial de Olivos (unas 35 hectáreas en Vicente López) se abre como parque público: sus edificios se destinan a un centro de rehabilitación y su helipuerto, a base de helicópteros sanitarios del área metropolitana. La Residencia Presidencial de Chapadmalal (General Pueyrredon) pasa a centro de descanso y rehabilitación de turismo social y a refugio ante desastres en la costa atlántica. Para eso se modifica el Decreto 1176/2026, que en octubre de 2026 dio a la Casa Militar la administración de las dos residencias: pasan al Ministerio de Salud y a la Agencia de Administración de Bienes del Estado (AABE). En la Unidad Turística de Chapadmalal se respeta la cesión de tres hoteles a la Universidad Nacional de Mar del Plata y de dos inmuebles al municipio para un centro de salud; la concesión de los otros seis hoteles por 30 años, que licita la AABE, incluye un cupo obligatorio de turismo social. El inventario público se arma sobre el registro de inmuebles que ya lleva la AABE, y suma vehículos y aeronaves, con ubicación, uso y costo de cada bien. La ley que lo vuelve permanente modifica el artículo 2 de la Ley 25.188 de Ética en el Ejercicio de la Función Pública, que ya obliga a usar los bienes del Estado solo para los fines autorizados, para prohibir en forma expresa el uso personal de autos, aviones y residencias oficiales, con sanción.",
   "porque_ext": "Con un tercio del país bajo la línea de pobreza, no hay justificación para que quien gobierna viva con privilegios que el resto no tiene. El ejemplo empieza arriba: quien pide esfuerzo tiene que ser el primero en darlo.",
   "porque_comp": "La pobreza alcanzó al 32,3 % de las personas en el primer semestre de 2026 (INDEC). En ese contexto, mantener residencias, flotas y beneficios para uso personal de los funcionarios es una distancia con el pueblo al que dicen representar.\n\nEl programa sostiene que el gobernante que renuncia al privilegio no pierde autoridad: conserva la única que de veras cuenta, la del ejemplo. Y suma una razón práctica: esos bienes, bien usados, pueden salvar vidas en emergencias y acercar salud y descanso a quienes nunca pudieron acceder.",
   "grafico": null,
@@ -5876,9 +5883,13 @@
   "costo": "Ahorro: reasigna bienes existentes",
   "actores": "Presidencia, Jefatura de Gabinete, Ministerio de Salud, Defensa Civil",
   "pasos": [
-   "Decreto: fin del uso personal de autos y aviones oficiales",
-   "Inventario público y georreferenciado de todos los bienes del Estado",
-   "Reconversión de Olivos, Chapadmalal y la flota a emergencias, salud y uso público"
+   "Decreto en el primer mes: fin del uso personal de autos, aviones y residencias oficiales, y modificación del Decreto 1176/2026 para sacar Olivos y Chapadmalal de la órbita presidencial.",
+   "Asignar la flota aérea (ARG-01, ARG-02, ARG-03 y los helicópteros S-70A y S-76B) al SINAGIR, con la Fuerza Aérea como operadora.",
+   "Reconvertir el Boeing 757 ARG-01 en avión sanitario y de evacuación y el Learjet 60 ARG-03 en ambulancia aérea, pagando la adecuación con el ahorro en uso personal.",
+   "Abrir la Quinta de Olivos como parque público, con centro de rehabilitación y base de helicópteros sanitarios.",
+   "Destinar la Residencia de Chapadmalal a turismo social, rehabilitación y refugio ante desastres, y exigir un cupo de turismo social en la concesión de los seis hoteles de la Unidad Turística.",
+   "Publicar en 6 meses el inventario georreferenciado de inmuebles, vehículos y aeronaves del Estado, sobre el registro de la AABE.",
+   "Ley que modifica el artículo 2 de la Ley 25.188 para prohibir en forma expresa el uso personal de bienes del Estado."
   ],
   "plazos": "Decreto en el primer mes; inventario público en 6 meses; reconversión de inmuebles durante la Fase I.",
   "costo_detalle": "Genera ahorro en mantenimiento y uso personal; la adecuación de inmuebles para su nuevo destino se paga con ese ahorro. Es parte de la reasignación de gasto de la cuenta fiscal.",
@@ -5887,8 +5898,71 @@
   "blindaje": "Ley que prohíbe el uso personal y bienes ya reconvertidos a servicios que la población usa y defiende.",
   "fuentes": [
    "Propuestas Técnicas, documento de base del autor (2026)",
-   "INDEC, EPH, pobreza 1S-2026"
-  ]
+   "INDEC, EPH, pobreza 1S-2026",
+   "Decreto 377/2025, traspaso de la flota aérea presidencial al Ministerio de Defensa (2025)",
+   "Decreto 514/2025, estructura de la flota presidencial en el Ministerio de Defensa, vía Pucará Defensa (2025)",
+   "Infobae, el ARG-01 en inspección programada en Estados Unidos (15/07/2026)",
+   "Decreto 1176/2026, administración de Olivos y Chapadmalal por la Casa Militar, vía Infobae y 0223 (oct-2026)",
+   "AABE, licitación de seis hoteles y cesión de tres a la UNMdP en Chapadmalal, vía Los Primeros TV (oct-2026)",
+   "Ley 25.188 de Ética en el Ejercicio de la Función Pública, art. 2",
+   "Ley 27.287, Sistema Nacional para la Gestión Integral del Riesgo"
+  ],
+  "obras": {
+   "titulo": "Dónde: aviones y residencias que cambian de destino",
+   "fuente": "Decretos 377/2025, 514/2025 y 1176/2026; AABE (oct-2026); destinos propuestos por el programa",
+   "items": [
+    {
+     "nombre": "Flota aérea presidencial (Aeroparque, Buenos Aires)",
+     "detalle": "Boeing 757 ARG-01 a avión sanitario; Boeing 737 ARG-02 a carga humanitaria; Learjet 60 ARG-03 a ambulancia aérea; helicópteros S-70A y S-76B a rescate.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -58.4156,
+      -34.5592
+     ]
+    },
+    {
+     "nombre": "Casa Rosada",
+     "detalle": "Sede de trabajo de la presidencia, con custodia mínima y profesional.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -58.3703,
+      -34.6081
+     ]
+    },
+    {
+     "nombre": "Quinta Presidencial de Olivos (Vicente López)",
+     "detalle": "Unas 35 hectáreas: parque público, centro de rehabilitación y base de helicópteros sanitarios.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -58.4935,
+      -34.511
+     ]
+    },
+    {
+     "nombre": "Residencia Presidencial de Chapadmalal",
+     "detalle": "Turismo social, rehabilitación y refugio ante desastres en la costa atlántica.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -57.661,
+      -38.17
+     ]
+    },
+    {
+     "nombre": "Unidad Turística de Chapadmalal",
+     "detalle": "Tres hoteles cedidos a la UNMdP y dos inmuebles al municipio (se respetan); seis hoteles en concesión con cupo de turismo social.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -57.68,
+      -38.18
+     ]
+    }
+   ]
+  }
  },
  {
   "n": 61,
@@ -6013,8 +6087,8 @@
    "fuente": "Consejo de la Magistratura, Mapa Dinámico de Concursos (vía Infobae); porcentaje calculado sobre 1.002 cargos",
    "fecha": "18/10/2026"
   },
-  "que_ext": "Proponemos concursos de jueces con plazos máximos, criterios objetivos y publicidad total, para cubrir las vacantes en tiempo razonable. Y completar la Corte Suprema —hoy con 3 de sus 5 miembros— con candidaturas sometidas a un procedimiento público de evaluación.",
-  "que_comp": "Se reforma el régimen del Consejo de la Magistratura para que cada concurso tenga un plazo máximo desde la vacancia hasta la terna, con exámenes anónimos, entrevistas públicas y grabadas, y puntajes publicados. El Ejecutivo debe elegir de la terna dentro de un plazo y el Senado tratar el pliego en otro; vencido cualquiera de ellos sin decisión, se aplica un mecanismo automático (por ejemplo, el primero de la terna) a definir en la ley.\n\nPara la Corte, se fija por ley el procedimiento público de preselección —publicidad de antecedentes, observaciones ciudadanas, audiencia pública— y criterios de diversidad de género, región y especialidad. Se cubre también la Procuración General con titular por concurso. Se limitan las subrogancias y designaciones transitorias prolongadas, que debilitan la independencia.",
+  "que_ext": "Proponemos concursos de jueces con plazos máximos, criterios objetivos y publicidad total, para cubrir las vacantes en tiempo razonable. Y completar la Corte Suprema —hoy con 3 de sus 5 miembros— con candidaturas sometidas a un procedimiento público de evaluación. En concreto: se reforma la Ley 24.937 del Consejo de la Magistratura, se eleva a ley el Decreto 222/2003 y se concursa la Procuración General (Ley 27.148, art. 11), con la meta de bajar de 298 a menos de 100 los cargos vacantes.",
+  "que_comp": "Se reforma el régimen del Consejo de la Magistratura para que cada concurso tenga un plazo máximo desde la vacancia hasta la terna, con exámenes anónimos, entrevistas públicas y grabadas, y puntajes publicados. El Ejecutivo debe elegir de la terna dentro de un plazo y el Senado tratar el pliego en otro; vencido cualquiera de ellos sin decisión, se aplica un mecanismo automático (por ejemplo, el primero de la terna) a definir en la ley.\n\nPara la Corte, se fija por ley el procedimiento público de preselección —publicidad de antecedentes, observaciones ciudadanas, audiencia pública— y criterios de diversidad de género, región y especialidad. Se cubre también la Procuración General con titular por concurso. Se limitan las subrogancias y designaciones transitorias prolongadas, que debilitan la independencia.\n\nEn concreto: se reforma la Ley 24.937 del Consejo de la Magistratura (texto vigente desde que la Corte declaró inconstitucional en 2021 la reforma de la Ley 26.080) para fijar plazos máximos por etapa del concurso, que hoy define el reglamento del propio Consejo (Resolución 7/2014 y sus cambios), y el mecanismo automático ante demoras del Ejecutivo o del Senado. Se eleva a ley el procedimiento de preselección de jueces de la Corte del Decreto 222/2003 y el del Decreto 588/2003 para el resto de los cargos, para que ningún gobierno pueda derogarlos por decreto. Se modifica el artículo 11 de la Ley 27.148 Orgánica del Ministerio Público Fiscal para que el Procurador General surja de un concurso público, con mandato fijo y acuerdo de dos tercios del Senado; el cargo está ocupado en forma interina desde 2017. Se reforma la Ley 27.439 de subrogancias para fijar un plazo máximo a cada designación transitoria. Las metas: cubrir las dos vacantes de la Corte Suprema, que tiene cinco miembros por la Ley 26.183 y funciona con tres (una vacante desde fines de 2021 y otra desde fines de 2024); y bajar los 298 cargos vacantes sobre 1.002 de octubre de 2026 a menos de 100 al fin de la Fase II.",
   "porque_ext": "Casi 3 de cada 10 cargos judiciales federales y nacionales están vacíos, la Corte funciona con 3 de 5 integrantes y la Procuración General tiene un titular interino. Juzgados vacíos son causas que esperan.",
   "porque_comp": "Al 18 de octubre de 2026 había 298 cargos vacantes sobre 1.002 (29,7 %): 191 en concurso en el Consejo de la Magistratura, 77 con terna en el Poder Ejecutivo y 30 con pliego en el Senado (Mapa Dinámico de Concursos, vía Infobae). Mediciones anteriores daban 353 en noviembre de 2025 y 364 a comienzos de 2026. La Corte Suprema funciona con tres de sus cinco miembros desde fines de 2024, salvo el breve paso de un juez designado por decreto en 2025.\n\nLas vacantes se cubren con subrogantes y la demora se reparte en todas las etapas. El problema atraviesa gobiernos: no depende de quién designa, sino de un sistema sin plazos ni consecuencias.",
   "grafico": null,
@@ -6023,9 +6097,13 @@
   "costo": "Bajo: más concursos con estructura existente",
   "actores": "Consejo de la Magistratura, Poder Ejecutivo, Senado, colegios de abogados",
   "pasos": [
-   "Ley con plazos máximos y mecanismo automático ante demoras",
-   "Concursos con examen anónimo, entrevistas públicas y puntajes publicados",
-   "Procedimiento público para completar la Corte y la Procuración General"
+   "Enviar en la Fase I la reforma de la Ley 24.937 con plazos máximos por etapa del concurso y mecanismo automático ante demoras del Ejecutivo o del Senado.",
+   "Elevar a ley los procedimientos públicos de preselección del Decreto 222/2003 (Corte) y del Decreto 588/2003 (resto de los jueces y fiscales).",
+   "Concursos con examen anónimo, entrevistas públicas y grabadas, y puntajes publicados.",
+   "Cubrir las dos vacantes de la Corte Suprema con el procedimiento público y criterios de diversidad de género, región y especialidad.",
+   "Modificar el artículo 11 de la Ley 27.148 para cubrir la Procuración General por concurso, con mandato fijo y dos tercios del Senado.",
+   "Reformar la Ley 27.439 para limitar en el tiempo las subrogancias y designaciones transitorias.",
+   "Publicar cada mes el tablero de vacantes y plazos, con la meta de menos de 100 cargos vacantes (10 %) al fin de la Fase II."
   ],
   "plazos": "Ley en la Fase I; meta de vacantes por debajo del 10 % al fin de la Fase II.",
   "costo_detalle": "Costo bajo: los cargos ya están presupuestados; los concursos usan la estructura del Consejo. Se compensa con menos subrogancias.",
@@ -6035,7 +6113,13 @@
   "fuentes": [
    "Propuestas Técnicas, documento de base del autor (2026)",
    "Sociopolítica Argentina, justicia/estado.json (corte 25/10/2026)",
-   "Consejo de la Magistratura, Mapa Dinámico de Concursos"
+   "Consejo de la Magistratura, Mapa Dinámico de Concursos",
+   "Ley 24.937 del Consejo de la Magistratura y normas que la modifican (Infoleg)",
+   "Decretos 222/2003 y 588/2003, procedimiento de preselección de magistrados",
+   "Ley 27.148 Orgánica del Ministerio Público Fiscal, art. 11 (2015)",
+   "Ley 27.439, régimen de subrogancias (2018)",
+   "La Nación, vacantes judiciales y mandato del Procurador (julio 2026)",
+   "0264 Noticias, el Ejecutivo posterga las vacantes de la Corte y la Procuración (agosto 2026)"
   ]
  },
  {
@@ -6223,8 +6307,8 @@
    "fuente": "SNIC, Ministerio de Seguridad (vía prensa y datos.gob.ar)",
    "fecha": "2025"
   },
-  "que_ext": "Proponemos una estrategia explícita contra el narcotráfico en sus epicentros urbanos, empezando por Rosario: investigación financiera para seguir y decomisar el dinero hasta llegar a quienes financian, lavan o dan protección —incluidos funcionarios, policías, dirigentes o empresarios cómplices—, control de puertos, rutas y la hidrovía, corte de las órdenes que salen de las cárceles y presencia del Estado en los barrios con escuela, trabajo y deporte.",
-  "que_comp": "La estrategia articula cuatro líneas. Primera: inteligencia criminal y financiera conjunta entre Nación y provincia, con fiscalías especializadas y foco en lavado y decomiso de bienes (propuesta 65). Segunda: control de la logística —puertos, hidrovía, rutas y pasos fronterizos— con escaneo de cargas y trazabilidad. Tercera: aislamiento efectivo de los líderes detenidos para cortar las órdenes desde las cárceles (propuesta 69).\n\nCuarta: recuperación territorial de los barrios más afectados con presencia estatal sostenida —escuela, centros de salud y adicciones (propuesta 80), deporte y trabajo de transición (propuesta 52)—, para que la política de seguridad no sea solo represiva. Rosario funciona como piloto con metas públicas, y el modelo se extiende a otros epicentros.",
+  "que_ext": "Proponemos una estrategia explícita contra el narcotráfico en sus epicentros urbanos, empezando por Rosario: investigación financiera para seguir y decomisar el dinero hasta llegar a quienes financian, lavan o dan protección —incluidos funcionarios, policías, dirigentes o empresarios cómplices—, control de puertos, rutas y la hidrovía, corte de las órdenes que salen de las cárceles y presencia del Estado en los barrios con escuela, trabajo y deporte. En concreto: Plan Bandera con metas públicas, recuperación de Empalme Graneros, Ludueña, Larrea, Tablada y Las Heras, escáneres en los puertos del Gran Rosario y Buenos Aires, y control en los pasos de la frontera norte.",
+  "que_comp": "La estrategia articula cuatro líneas. Primera: inteligencia criminal y financiera conjunta entre Nación y provincia, con fiscalías especializadas y foco en lavado y decomiso de bienes (propuesta 65). Segunda: control de la logística —puertos, hidrovía, rutas y pasos fronterizos— con escaneo de cargas y trazabilidad. Tercera: aislamiento efectivo de los líderes detenidos para cortar las órdenes desde las cárceles (propuesta 69).\n\nCuarta: recuperación territorial de los barrios más afectados con presencia estatal sostenida —escuela, centros de salud y adicciones (propuesta 80), deporte y trabajo de transición (propuesta 52)—, para que la política de seguridad no sea solo represiva. Rosario funciona como piloto con metas públicas, y el modelo se extiende a otros epicentros.\n\nEn concreto: el piloto se monta sobre el Plan Bandera, el operativo conjunto Nación–Santa Fe que ya funciona en Rosario, y le suma metas públicas y la parte social. La recuperación territorial empieza en los barrios donde se concentraron las fuerzas federales: Empalme Graneros, Ludueña, Larrea, Tablada y Las Heras. Para seguir el dinero se usan herramientas que ya existen: la Ley 27.739 (reforma antilavado de 2024), la Ley 27.786 (Ley Antimafias, de 2025), la Unidad de Información Financiera (UIF) y las procuradurías del Ministerio Público Fiscal en narcotráfico (PROCUNAR) y en criminalidad económica y lavado (PROCELAC). Los bienes decomisados se subastan y lo obtenido va a seguridad y a los barrios. El narcomenudeo queda en manos de las provincias que adhieren a la Ley 26.052, como Santa Fe con su Ley 14.239, y se invita a las demás. En la logística: escáneres de contenedores de la Aduana (ARCA) en las terminales del Gran Rosario, de Timbúes a Villa Gobernador Gálvez, y en el Puerto de Buenos Aires, ampliando la unidad del Programa de Control de Contenedores de Naciones Unidas que funciona en el puerto de Rosario desde 2023. La concesión de la Vía Navegable Troncal, adjudicada a Jan De Nul y Servimagnus por 25 años y en operación privada desde septiembre de 2026, suma obligaciones de control y trazabilidad de cargas. En la frontera norte se refuerza el Plan Güemes en los corredores Aguas Blancas–Orán y Salvador Mazza–Tartagal, y se suman escáneres y radares en los pasos de La Quiaca–Villazón, Clorinda–Puerto Falcón y Puerto Iguazú. Meta: al fin de la Fase I, escanear todos los contenedores de exportación marcados como de riesgo en esos puertos y una muestra al azar del resto.",
   "porque_ext": "Santa Fe tiene una tasa de homicidios muy por encima del promedio del país, y en Rosario se concentra buena parte de esa violencia ligada al narcotráfico. Es el lugar donde hay que empezar.",
   "porque_comp": "En 2025 la tasa nacional de homicidios dolosos fue de 3,6 cada 100.000 habitantes, la más baja de la serie, pero Santa Fe registró 5,6, con 208 víctimas: una suba frente a 2024 (4,9), aunque muy por debajo del 11,0 de 2023 (SNIC, vía prensa y datos.gob.ar). La tendencia nacional favorable convive con focos donde el crimen organizado disputa territorio.\n\nEl diagnóstico del programa advierte que la seguridad exige más que rotación policial: una estrategia explícita contra el narcotráfico en sus epicentros urbanos, que combine persecución del dinero, control logístico y presencia social del Estado.",
   "grafico": {
@@ -6324,9 +6408,13 @@
   "costo": "Techo 0,12 % del PIB (con 67 y 69)",
   "actores": "Ministerio de Seguridad, Santa Fe, fiscalías federales y provinciales, UIF",
   "pasos": [
-   "Acuerdo Nación–Santa Fe con metas públicas para Rosario",
-   "Investigación financiera, decomiso y control de puertos e hidrovía",
-   "Recuperación territorial de barrios con escuela, salud y trabajo"
+   "Acuerdo Nación–Santa Fe sobre la base del Plan Bandera, con metas públicas para Rosario y datos abiertos.",
+   "Equipos conjuntos de UIF, PROCUNAR, PROCELAC y fiscalías provinciales para seguir el dinero con las Leyes 27.739 y 27.786, y subasta de lo decomisado.",
+   "Escáneres de contenedores de la Aduana en las terminales del Gran Rosario y en el Puerto de Buenos Aires.",
+   "Obligaciones de control y trazabilidad de cargas en la concesión de la Vía Navegable Troncal.",
+   "Refuerzo del Plan Güemes y escáneres y radares en los pasos de Aguas Blancas, Salvador Mazza, La Quiaca, Clorinda y Puerto Iguazú.",
+   "Recuperación de Empalme Graneros, Ludueña, Larrea, Tablada y Las Heras con escuela, salud y trabajo.",
+   "Extensión del modelo a otros epicentros en la Fase II."
   ],
   "plazos": "Piloto en Rosario desde el primer año; extensión a otros epicentros en la Fase II.",
   "costo_detalle": "Se financia con reasignación del presupuesto de seguridad y con bienes decomisados al narcotráfico. Lo adicional entra en un techo de 0,12 % del PIB al año 4, junto con las propuestas 67 y 69.",
@@ -6336,8 +6424,141 @@
   "fuentes": [
    "Propuestas Técnicas, documento de base del autor (2026)",
    "SNIC 2025 vía Sociopolítica Argentina (homicidios/provincias.json)",
-   "datos.gob.ar, homicidios dolosos"
-  ]
+   "datos.gob.ar, homicidios dolosos",
+   "Ley 27.786, Ley Antimafias (2025)",
+   "Ley 27.739, reforma del régimen antilavado (2024)",
+   "Ley 26.052 y Ley 14.239 de Santa Fe, narcomenudeo",
+   "La Capital, homicidios en los barrios del Plan Bandera",
+   "Ministerio de Seguridad Nacional, Plan Güemes",
+   "Aduana, Programa de Control de Contenedores (ONU) en el puerto de Rosario (2023)",
+   "Rosario3 e Infobae, concesión de la Vía Navegable Troncal (jun-oct 2026)"
+  ],
+  "obras": {
+   "titulo": "Dónde: puertos, pasos de frontera y barrios",
+   "fuente": "Ministerio de Seguridad Nacional (Plan Bandera y Plan Güemes); Aduana; Agencia Nacional de Puertos y Navegación; propuestas del programa",
+   "items": [
+    {
+     "nombre": "Vía Navegable Troncal, tramo Timbúes–Río de la Plata",
+     "detalle": "Concesión privada desde septiembre de 2026: se suman control y trazabilidad de cargas.",
+     "tipo": "linea",
+     "estado": "existente",
+     "coords": [
+      [
+       -60.76,
+       -32.67
+      ],
+      [
+       -60.63,
+       -32.95
+      ],
+      [
+       -60.22,
+       -33.33
+      ],
+      [
+       -59.65,
+       -33.75
+      ],
+      [
+       -59.0,
+       -34.1
+      ],
+      [
+       -58.4,
+       -34.35
+      ],
+      [
+       -57.6,
+       -34.75
+      ],
+      [
+       -56.9,
+       -35.1
+      ]
+     ]
+    },
+    {
+     "nombre": "Terminales del Gran Rosario (Timbúes–Villa Gobernador Gálvez)",
+     "detalle": "Escáneres de contenedores de la Aduana y ampliación de la unidad de control de contenedores de la ONU.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -60.73,
+      -32.75
+     ]
+    },
+    {
+     "nombre": "Puerto de Buenos Aires",
+     "detalle": "Escáneres de contenedores y análisis de riesgo de cargas de exportación.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -58.37,
+      -34.58
+     ]
+    },
+    {
+     "nombre": "Barrios del Plan Bandera (Rosario)",
+     "detalle": "Empalme Graneros, Ludueña, Larrea, Tablada y Las Heras: escuela, salud, deporte y trabajo.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -60.67,
+      -32.93
+     ]
+    },
+    {
+     "nombre": "Paso Aguas Blancas–Bermejo (Salta)",
+     "detalle": "Corredor Aguas Blancas–Orán del Plan Güemes: refuerzo de control.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -64.36,
+      -22.73
+     ]
+    },
+    {
+     "nombre": "Paso Salvador Mazza–Yacuiba (Salta)",
+     "detalle": "Corredor Salvador Mazza–Tartagal del Plan Güemes: refuerzo de control.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -63.69,
+      -22.05
+     ]
+    },
+    {
+     "nombre": "Paso La Quiaca–Villazón (Jujuy)",
+     "detalle": "Escáneres y radares.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -65.59,
+      -22.1
+     ]
+    },
+    {
+     "nombre": "Paso Clorinda–Puerto Falcón (Formosa)",
+     "detalle": "Escáneres y radares.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -57.72,
+      -25.29
+     ]
+    },
+    {
+     "nombre": "Puerto Iguazú (Misiones)",
+     "detalle": "Escáneres y radares en la triple frontera.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -54.58,
+      -25.6
+     ]
+    }
+   ]
+  }
  },
  {
   "n": 69,
@@ -6351,8 +6572,8 @@
    "fuente": "SNEEP, Ministerio de Justicia",
    "fecha": "31/12/2024"
   },
-  "que_ext": "Proponemos una reforma del sistema penitenciario: terminar con el hacinamiento, separar a los detenidos según peligrosidad, aislar efectivamente a los líderes de organizaciones criminales, y garantizar que se estudie y se trabaje adentro para que la cárcel no sea una escuela del delito.",
-  "que_comp": "El plan incluye ampliación y modernización de plazas con estándares de seguridad, clasificación obligatoria de internos, módulos de alta seguridad con bloqueo de comunicaciones y control de visitas para los líderes, y reducción de la prisión preventiva prolongada con juicios más rápidos (propuesta 62).\n\nEducación y trabajo dentro de la cárcel pasan a ser la regla, con oficios demandados y convenios con empresas, y la salida se acompaña con un programa de reinserción (empleo, vivienda transitoria, seguimiento). El servicio penitenciario se profesionaliza, rota y queda sujeto a controles externos (propuestas 67 y 70).",
+  "que_ext": "Proponemos una reforma del sistema penitenciario: terminar con el hacinamiento, separar a los detenidos según peligrosidad, aislar efectivamente a los líderes de organizaciones criminales, y garantizar que se estudie y se trabaje adentro para que la cárcel no sea una escuela del delito. En concreto: se reforma la Ley 24.660 (cupo legal por cárcel e inhibidores en cada pabellón), se cierra Devoto con el nuevo complejo de Marcos Paz y se termina la cárcel federal de Agote.",
+  "que_comp": "El plan incluye ampliación y modernización de plazas con estándares de seguridad, clasificación obligatoria de internos, módulos de alta seguridad con bloqueo de comunicaciones y control de visitas para los líderes, y reducción de la prisión preventiva prolongada con juicios más rápidos (propuesta 62).\n\nEducación y trabajo dentro de la cárcel pasan a ser la regla, con oficios demandados y convenios con empresas, y la salida se acompaña con un programa de reinserción (empleo, vivienda transitoria, seguimiento). El servicio penitenciario se profesionaliza, rota y queda sujeto a controles externos (propuestas 67 y 70).\n\nEn concreto: se reforma la Ley 24.660 de Ejecución de la Pena Privativa de la Libertad. El artículo 59, que ya manda fijar de antemano el número de internos de cada establecimiento, pasa a ser un cupo legal con control judicial: ninguna unidad aloja más personas que plazas habilitadas. El artículo 160, que desde 2017 prohíbe los celulares y obliga a instalar inhibidores en cada pabellón, se cumple con plazo y responsables, y se suma un régimen especial para líderes de organizaciones criminales: celda individual, visitas en locutorio separado y comunicaciones grabadas, con control judicial. El artículo 176 suma los establecimientos de alta seguridad entre los que debe tener cada jurisdicción. Los capítulos de trabajo (artículos 106 a 132) y educación (artículos 133 a 142) fijan metas anuales, y la asistencia pospenitenciaria (artículo 172 y siguientes) se completa con el programa de reinserción. Plazas: en mayo de 2026 el Servicio Penitenciario Federal alojaba 12.248 personas en 10.932 plazas, y la emergencia penitenciaria se prorrogó dos años más (Resolución 439/2026). El plan suma el Complejo Penitenciario Federal VIII de Marcos Paz (2.232 plazas, habilitado en octubre de 2026), que permite cerrar la cárcel de Devoto; termina el Complejo Federal de Condenados de Agote (Mercedes), que tenía 72 % de avance; y completa la ocupación de la Unidad 36 de Coronda (464 plazas) y de la Unidad Residencial IV del complejo de Senillosa (Neuquén). Los módulos de alta seguridad para líderes se ubican en los complejos federales de Ezeiza y Marcos Paz, y se coordinan con la cárcel provincial de alto perfil de Piñero (Santa Fe), de 1.152 plazas, prevista para 2027. Metas: sobrepoblación cero en el sistema federal al fin de la Fase II; presos sin condena por debajo del 25 % (cerca del 37 % en el sistema federal a fines de 2025); y mayoría de internos estudiando o trabajando.",
   "porque_ext": "Las cárceles están sobrepobladas, casi 4 de cada 10 detenidos no tienen condena firme y pocos estudian o trabajan. Así, quien entra por un delito menor puede salir integrado a una banda.",
   "porque_comp": "Al 31 de diciembre de 2024 había 120.700 personas en establecimientos penitenciarios, con una sobrepoblación promedio de 22,9 %; cerca del 39 % no tenía condena y solo el 23 % participaba de capacitación laboral (SNEEP, Ministerio de Justicia). Desde las cárceles se siguen dando órdenes a organizaciones criminales, y en el último año se registraron motines en varias provincias.\n\nEl programa sostiene que una cárcel sin control ni reinserción multiplica el delito que debía contener. Seguridad y dignidad no se oponen: una cárcel ordenada es más segura para la sociedad y para quienes trabajan y están adentro.",
   "grafico": null,
@@ -6361,9 +6582,13 @@
   "costo": "Techo 0,12 % del PIB (con 67 y 68)",
   "actores": "Ministerio de Justicia, servicios penitenciarios, provincias, Poder Judicial",
   "pasos": [
-   "Aislamiento efectivo de líderes criminales y bloqueo de comunicaciones",
-   "Plan de plazas y clasificación obligatoria de internos",
-   "Educación y trabajo como regla, con programa de reinserción al salir"
+   "Régimen especial para líderes criminales en módulos de alta seguridad de Ezeiza y Marcos Paz, con inhibidores en todos los pabellones (art. 160 de la Ley 24.660) en el primer año.",
+   "Reforma de la Ley 24.660: cupo legal por establecimiento (art. 59), establecimientos de alta seguridad (art. 176), metas de trabajo y educación (arts. 106 a 142) y reinserción (art. 172).",
+   "Terminar el traslado de Devoto al Complejo Penitenciario Federal VIII de Marcos Paz y cerrar Devoto.",
+   "Terminar el Complejo Federal de Condenados de Agote y completar la ocupación de Coronda y Senillosa.",
+   "Clasificación obligatoria de todos los internos al ingresar.",
+   "Acuerdo federal con las provincias, empezando por Santa Fe y su cárcel de alto perfil de Piñero.",
+   "Educación y trabajo como regla, con programa de reinserción al salir."
   ],
   "plazos": "Aislamiento de líderes en el primer año; plan de plazas y reinserción a lo largo de la Fase II.",
   "costo_detalle": "Inversión en infraestructura y personal; el trabajo de los internos y la menor reincidencia compensan parte. Techo de 0,12 % del PIB al año 4, junto con las propuestas 67 y 68.",
@@ -6373,8 +6598,100 @@
   "fuentes": [
    "Propuestas Técnicas, documento de base del autor (2026)",
    "SNEEP 2024, Ministerio de Justicia",
-   "Sociopolítica Argentina, conflictividad (motines, oct-2026)"
-  ]
+   "Sociopolítica Argentina, conflictividad (motines, oct-2026)",
+   "Ley 24.660, texto actualizado (arts. 59, 160 y 176)",
+   "Resolución 439/2026, prórroga de la emergencia penitenciaria federal, vía Infobae (14/05/2026)",
+   "Resolución 1042/2026, habilitación del Complejo Penitenciario Federal VIII de Marcos Paz, vía El Estratégico (13/10/2026)",
+   "PROCUVIN, población del Servicio Penitenciario Federal 2025",
+   "Chequeado, cárcel federal de Coronda (2025)",
+   "Rosario3, cárcel de alto perfil de Piñero (17/05/2026)"
+  ],
+  "obras": {
+   "titulo": "Dónde: cárceles que se terminan, amplían o cierran",
+   "fuente": "Ministerio de Seguridad Nacional (Resoluciones 439 y 1042 de 2026); PROCUVIN; Gobierno de Santa Fe",
+   "items": [
+    {
+     "nombre": "Complejo Penitenciario Federal VIII, Marcos Paz",
+     "detalle": "2.232 plazas, habilitado en octubre de 2026; recibe a los presos de Devoto.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -58.815,
+      -34.79
+     ]
+    },
+    {
+     "nombre": "Cárcel de Devoto (Ciudad de Buenos Aires)",
+     "detalle": "Cierre definitivo cuando termine el traslado.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -58.513,
+      -34.598
+     ]
+    },
+    {
+     "nombre": "Complejo Penitenciario Federal II, Marcos Paz",
+     "detalle": "Módulo de alta seguridad para líderes criminales.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -58.8,
+      -34.8
+     ]
+    },
+    {
+     "nombre": "Complejo Penitenciario Federal I, Ezeiza",
+     "detalle": "Módulo de alta seguridad para líderes criminales.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -58.53,
+      -34.86
+     ]
+    },
+    {
+     "nombre": "Complejo Federal de Condenados, Agote (Mercedes)",
+     "detalle": "En construcción, 72 % de avance: se termina.",
+     "tipo": "punto",
+     "estado": "en_obra",
+     "coords": [
+      -59.38,
+      -34.57
+     ]
+    },
+    {
+     "nombre": "Unidad 36, Coronda (Santa Fe)",
+     "detalle": "Cárcel federal de 464 plazas: se completa su ocupación.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -60.92,
+      -31.97
+     ]
+    },
+    {
+     "nombre": "Complejo Penitenciario Federal V, Senillosa (Neuquén)",
+     "detalle": "Unidad Residencial IV habilitada: se completa su ocupación.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -68.43,
+      -39.01
+     ]
+    },
+    {
+     "nombre": "Cárcel de alto perfil de Piñero (Santa Fe)",
+     "detalle": "Provincial, 1.152 plazas, prevista para 2027: coordinación con el régimen federal para líderes.",
+     "tipo": "punto",
+     "estado": "en_obra",
+     "coords": [
+      -60.8,
+      -33.11
+     ]
+    }
+   ]
+  }
  },
  {
   "n": 70,
@@ -6459,8 +6776,8 @@
    "fuente": "INDEC, EPH",
    "fecha": "1er semestre 2026"
   },
-  "que_ext": "Proponemos unificar los programas de transferencia en un Ingreso Universal Único (IUU), pagado por ANSES a una cuenta a nombre del titular, sin intermediarios. La AUH se integra al IUU sin que ningún chico cobre menos. Está focalizado en cuatro grupos: niños en hogares vulnerables, personas con discapacidad, desempleados y mayores sin aportes. Y conseguir un trabajo registrado no lo corta de golpe: se retira de a poco, para que trabajar en blanco siempre convenga.",
-  "que_comp": "El IUU se organiza en módulos con un padrón y una liquidación únicos: (a) módulo por hijo, que absorbe la AUH y la Prestación Alimentar, con controles de salud y escolaridad; (b) módulo de discapacidad, que ordena las pensiones no contributivas por invalidez con una certificación revisada y pública en sus criterios; (c) módulo de desempleo de transición, articulado con el seguro de desempleo (propuesta 51) y el trabajo público voluntario (propuesta 52); (d) módulo de mayores sin aportes, que reemplaza la pensión universal y se paga con rentas generales, separado del sistema contributivo (propuesta 73). La ayuda baja gradualmente a medida que sube el ingreso formal, con una tasa de retiro escalonada que evita que formalizarse signifique perder plata.\n\nLa migración se hace por tramos y con cláusula de no pérdida: nadie cobra menos, ni en pesos ni en términos reales, que con el programa que reemplaza. El monto se actualiza mensualmente por inflación. El padrón se arma cruzando bases de ANSES, ARCA y provincias; el pago es automático, sin gestores ni intermediarios; la Auditoría General de la Nación lo audita cada año y se publican datos agregados que protegen la privacidad de cada titular (propuesta 57). Es la contracara social del ordenamiento: se tiende en los años 1 y 2, antes de cualquier corrección de precios relativos.",
+  "que_ext": "Proponemos unificar los programas de transferencia en un Ingreso Universal Único (IUU), pagado por ANSES a una cuenta a nombre del titular, sin intermediarios. La AUH se integra al IUU sin que ningún chico cobre menos. Está focalizado en cuatro grupos: niños en hogares vulnerables, personas con discapacidad, desempleados y mayores sin aportes. Y conseguir un trabajo registrado no lo corta de golpe: se retira de a poco, para que trabajar en blanco siempre convenga. En concreto: el IUU absorbe la AUH, la Asignación por Embarazo, la Prestación Alimentar, el Plan de los 1000 Días, la pensión para madres de siete hijos, las pensiones no contributivas por discapacidad, el Programa de Acompañamiento Social y la PUAM.",
+  "que_comp": "El IUU se organiza en módulos con un padrón y una liquidación únicos: (a) módulo por hijo, que absorbe la AUH y la Prestación Alimentar, con controles de salud y escolaridad; (b) módulo de discapacidad, que ordena las pensiones no contributivas por discapacidad (ex por invalidez laboral) con una certificación revisada y pública en sus criterios; (c) módulo de desempleo de transición, articulado con el seguro de desempleo (propuesta 51) y el trabajo público voluntario (propuesta 52); (d) módulo de mayores sin aportes, que reemplaza la pensión universal y se paga con rentas generales, separado del sistema contributivo (propuesta 73). La ayuda baja gradualmente a medida que sube el ingreso formal, con una tasa de retiro escalonada que evita que formalizarse signifique perder plata.\n\nLa migración se hace por tramos y con cláusula de no pérdida: nadie cobra menos, ni en pesos ni en términos reales, que con el programa que reemplaza. El monto se actualiza mensualmente por inflación. El padrón se arma cruzando bases de ANSES, ARCA y provincias; el pago es automático, sin gestores ni intermediarios; la Auditoría General de la Nación lo audita cada año y se publican datos agregados que protegen la privacidad de cada titular (propuesta 57). Es la contracara social del ordenamiento: se tiende en los años 1 y 2, antes de cualquier corrección de precios relativos.\n\nEn concreto, el IUU absorbe esta lista cerrada de programas nacionales: (a) módulo por hijo: la Asignación Universal por Hijo (Decreto 1602/2009, que la sumó a la Ley 24.714), la Asignación por Embarazo (Decreto 446/2011), la Prestación Alimentar (ex Tarjeta Alimentar, creada en 2020), los pagos del Plan de los 1000 Días (Ley 27.611), incluido su complemento de leche, y la pensión no contributiva para madres de siete o más hijos (Ley 23.746); (b) módulo de discapacidad: la Pensión No Contributiva por Discapacidad para Protección Social, que reemplazó en 2026 a la pensión por invalidez laboral (Ley 13.478, art. 9; Decreto 432/1997; Resolución 1/2026), hoy a cargo de la Secretaría Nacional de Discapacidad del Ministerio de Salud, que continuó a la ANDIS disuelta por el Decreto 942/2025; (c) módulo de desempleo de transición: el Programa de Acompañamiento Social (ex Potenciar Trabajo, Decreto 198/2024, prorrogado hasta 2028), que hoy paga un monto fijo a unas 260.000 personas, y el lugar que dejó el programa Volver al Trabajo, terminado en 2026; (d) módulo de mayores sin aportes: la Pensión Universal para el Adulto Mayor (Ley 27.260, art. 13). Quedan fuera, porque no son ingresos de subsistencia: las asignaciones familiares de los trabajadores registrados, las becas Progresar y los subsidios a la energía. El orden de migración es: primer tramo (año 1), AUH, Asignación por Embarazo, Prestación Alimentar y Plan de los 1000 Días, que ya paga ANSES con un mismo padrón; segundo tramo (año 2, primer semestre), Acompañamiento Social y madres de siete hijos; tercer tramo (año 2, segundo semestre), pensiones por discapacidad y PUAM, con traspaso de la liquidación a ANSES.",
   "porque_ext": "En el primer semestre de 2026 el 32,3 % de las personas era pobre y el 7,5 % indigente (INDEC). La ayuda existe, pero está repartida en programas que se superponen, con requisitos distintos y lugar para el intermediario. Unificar permite llegar mejor, con reglas claras y sin castigar al que consigue trabajo.",
   "porque_comp": "La pobreza bajó desde el pico de 52,9 % del primer semestre de 2024 hasta 28,2 % en el segundo semestre de 2025, y volvió a subir a 32,3 % en el primero de 2026: unos 9,7 millones de personas en los aglomerados que mide la encuesta, y unos 15 millones si se proyecta al total del país (INDEC, EPH; proyección de Chequeado). Entre los chicos de 0 a 14 años llega a 44,5 %. La AUH liquidaba unas 4,1 millones de prestaciones por hijo en abril de 2026 (ANSES, vía datos.gob.ar).\n\nEl problema no es solo cuánto se gasta, sino cómo: programas con padrones y reglas propias, superposiciones, huecos de cobertura y un diseño que en muchos casos hace perder el beneficio de golpe al formalizarse, lo que desalienta el trabajo registrado. La mejor política social de fondo es un buen empleo y una moneda estable; mientras eso madura, el Estado debe garantizar un piso simple, previsible y sin intermediarios.",
   "grafico": {
@@ -6554,12 +6871,15 @@
   "cuando": "Fases I-II · años 1-2",
   "instrumento": "Ley + decreto reglamentario",
   "costo": "Neutro: reemplaza programas existentes",
-  "actores": "ANSES, Capital Humano, ARCA, provincias, Congreso",
+  "actores": "ANSES, Capital Humano, Salud (Secretaría Nacional de Discapacidad), ARCA, provincias, Congreso",
   "pasos": [
-   "Armar el padrón único cruzando bases de ANSES, ARCA y provincias",
-   "Sancionar la ley del IUU con módulos, cláusula de no pérdida y retiro gradual",
-   "Migrar por tramos: primero AUH y Prestación Alimentar, después el resto",
-   "Pagar en forma automática a la cuenta del titular, con auditoría externa anual"
+   "Armar en el año 1 el padrón único cruzando bases de ANSES, ARCA, el Ministerio de Salud y las provincias.",
+   "Sancionar la ley del IUU con sus cuatro módulos, la lista cerrada de programas que absorbe, la cláusula de no pérdida y el retiro gradual.",
+   "Primer tramo (año 1): migrar la AUH, la Asignación por Embarazo, la Prestación Alimentar y el Plan de los 1000 Días al módulo por hijo.",
+   "Segundo tramo (año 2, primer semestre): migrar el Programa de Acompañamiento Social al módulo de desempleo y la pensión para madres de siete hijos al módulo por hijo.",
+   "Tercer tramo (año 2, segundo semestre): migrar las pensiones no contributivas por discapacidad y la PUAM, con la liquidación unificada en ANSES.",
+   "Derogar o adecuar las normas de origen de cada programa a medida que se completa su migración.",
+   "Pagar en forma automática a la cuenta del titular, con ventanilla de reclamo con plazo de respuesta y auditoría anual de la AGN."
   ],
   "plazos": "Ley y padrón en el primer año; migración gradual de los planes, completa al cierre del año 2, antes de la corrección cambiaria y tarifaria.",
   "costo_detalle": "Se financia con las partidas de los programas que reemplaza; la unificación reduce costos administrativos y filtraciones. Cualquier mejora del monto se ata a la regla fiscal y al crecimiento de la recaudación.",
@@ -6570,7 +6890,12 @@
    "Propuestas Técnicas, documento de base del autor (2026)",
    "INDEC, EPH, 1er semestre 2026 (vía Chequeado)",
    "ANSES vía datos.gob.ar, AUH (abril 2026)",
-   "Radiografía de la Argentina, Tema 13"
+   "Radiografía de la Argentina, Tema 13",
+   "Decreto 1602/2009 (AUH), Decreto 446/2011 (Asignación por Embarazo), Ley 27.611 (Plan de los 1000 Días)",
+   "Ley 13.478, art. 9; Ley 23.746; Ley 27.260, art. 13 (PUAM)",
+   "Decreto 942/2025, disolución de la ANDIS, y Resolución 1/2026, Pensión No Contributiva por Discapacidad para Protección Social",
+   "Decreto 198/2024 y Resolución Conjunta 1/2024, Programa de Acompañamiento Social",
+   "Diario Río Negro y BAE Negocios, fin de Volver al Trabajo y prórroga de Acompañamiento Social (2026)"
   ]
  },
  {
@@ -7218,8 +7543,8 @@
    "fuente": "BCRA (vía Datos Argentina)",
    "fecha": "octubre 2026"
   },
-  "que_ext": "Proponemos sostener el crédito hipotecario con cuotas que no se disparen frente al salario, poner suelo urbano en el mercado (el impuesto al suelo castiga el lote ocioso), urbanizar los barrios populares con agua, cloacas y título de propiedad, y estimular la construcción para alquilar con reglas estables para inquilinos y propietarios.",
-  "que_comp": "Crédito: préstamos indexados con cláusula de protección —si la cuota supera un porcentaje del ingreso o el salario queda atrás de la inflación, se estira el plazo en lugar de subir la cuota—, un fondo de garantía para la primera vivienda y financiamiento de largo plazo mediante títulos hipotecarios, posible con moneda estable (propuesta 1). Suelo: el impuesto al suelo (propuesta 15), un inventario de tierras públicas ociosas para vivienda (propuesta 60) y normas urbanas que permitan densificar donde hay servicios.\n\nBarrios populares: continuidad del régimen de integración socio-urbana (Ley 27.453) con prioridad en agua y cloacas (propuesta 41) y entrega de títulos. Alquiler: contratos que se pactan libremente pero con previsibilidad —registro, índice pactado, seguros de garantía accesibles— e incentivos para construir viviendas destinadas a alquiler. La vivienda social se licita con publicidad total (propuesta 56).",
+  "que_ext": "Proponemos sostener el crédito hipotecario con cuotas que no se disparen frente al salario, poner suelo urbano en el mercado (el impuesto al suelo castiga el lote ocioso), urbanizar los barrios populares con agua, cloacas y título de propiedad, y estimular la construcción para alquilar con reglas estables para inquilinos y propietarios. En concreto: los terrenos del Estado aptos para vivienda, como las 38 hectáreas de Ushuaia, se venden con cargo de construir, y se reactivan las 671 obras paralizadas en barrios populares.",
+  "que_comp": "Crédito: préstamos indexados con cláusula de protección —si la cuota supera un porcentaje del ingreso o el salario queda atrás de la inflación, se estira el plazo en lugar de subir la cuota—, un fondo de garantía para la primera vivienda y financiamiento de largo plazo mediante títulos hipotecarios, posible con moneda estable (propuesta 1). Suelo: el impuesto al suelo (propuesta 15), un inventario de tierras públicas ociosas para vivienda (propuesta 60) y normas urbanas que permitan densificar donde hay servicios.\n\nBarrios populares: continuidad del régimen de integración socio-urbana (Ley 27.453) con prioridad en agua y cloacas (propuesta 41) y entrega de títulos. Alquiler: contratos que se pactan libremente pero con previsibilidad —registro, índice pactado, seguros de garantía accesibles— e incentivos para construir viviendas destinadas a alquiler. La vivienda social se licita con publicidad total (propuesta 56).\n\nEn concreto: el inventario de suelo lo arma la Agencia de Administración de Bienes del Estado (AABE) antes de cada venta. Antes de subastar, separa los terrenos urbanos aptos para vivienda y los vende con cargo de construir viviendas en un plazo fijo, parte de ellas para alquilar. Ejemplos de terrenos cuya venta autorizó el Decreto 764/2026: unas 38 hectáreas en Ushuaia (entre las calles Yaganes, 44 Héroes ARA San Juan y Horeb y la avenida Héroes de Malvinas), un predio de 3,2 hectáreas en la ciudad de Córdoba y otro de 2,6 hectáreas en San Rafael (Mendoza). En ciudades con falta de suelo, como Ushuaia, el loteo con servicios para primera vivienda va primero. Barrios populares: el Registro Nacional de Barrios Populares (RENABAP) cuenta 6.467 barrios, donde viven más de 5 millones de personas. El Fondo de Integración Socio Urbana fue disuelto por el Decreto 312/2025, con efectos suspendidos por una medida cautelar, y la ejecución de obras cayó 98 % entre 2023 y 2026, con 671 obras paralizadas. Por ley se crea una cuenta específica para la integración socio-urbana dentro del cupo de obras, se prorroga la emergencia del artículo 14 bis de la Ley 27.453 y se reactivan o relicitan primero las 671 obras paralizadas, con prioridad en agua y cloacas. Títulos: las 859.000 familias con Certificado de Vivienda Familiar son la base para escriturar. Metas: las 671 obras reactivadas o relicitadas en la Fase I; 100.000 familias con título y 500 barrios con agua y cloacas al año 4.",
   "porque_ext": "El crédito hipotecario volvió: en términos reales el stock se multiplicó por más de cuatro desde diciembre de 2023, pero todavía es poco más de la mitad del de 2003 (BCRA). Una familia joven sin herencia casi no tiene cómo comprar, alquilar se volvió una carrera de precios y miles de familias viven en barrios sin servicios ni título.",
   "porque_comp": "Con años de inflación alta el crédito hipotecario prácticamente desapareció: el stock real cayó de unos 16 billones de pesos de hoy en 2003 a 2,1 en 2024, y la desinflación lo hizo rebotar a 9,4 billones en octubre de 2026 (BCRA, vía Datos Argentina). Sin crédito, la vivienda propia depende de la herencia, y eso fija puntos de partida desiguales.\n\nEl diagnóstico del programa marca además déficits de saneamiento y gas de red y una proporción significativa de población en asentamientos informales. Desde diciembre de 2023 los alquileres se pactan libremente; el desafío es sumar oferta y previsibilidad sin volver a esquemas que achiquen el mercado.",
   "grafico": {
@@ -7295,10 +7620,13 @@
   "costo": "Bajo para el Tesoro; obra urbana dentro del cupo de obras",
   "actores": "BCRA, bancos, provincias, municipios, cooperativas, constructoras",
   "pasos": [
-   "Cláusula de protección de cuota y fondo de garantía primera vivienda",
-   "Inventario de tierras públicas ociosas para vivienda",
-   "Urbanización de barrios populares con agua, cloacas y títulos",
-   "Incentivos a construir para alquilar con contratos previsibles"
+   "Cláusula de protección de cuota en los créditos indexados y fondo de garantía para la primera vivienda (Fase I).",
+   "Inventario de la AABE: antes de cada venta, separar los terrenos urbanos aptos para vivienda y venderlos con cargo de construir, empezando por los del Decreto 764/2026 en Ushuaia, Córdoba y San Rafael.",
+   "Ley de financiamiento de la integración socio-urbana: cuenta específica dentro del cupo de obras y prórroga de la emergencia del artículo 14 bis de la Ley 27.453.",
+   "Reactivar o relicitar en la Fase I las 671 obras paralizadas en barrios del RENABAP, con prioridad en agua y cloacas.",
+   "Escriturar a partir del Certificado de Vivienda Familiar: 100.000 familias con título al año 4.",
+   "Incentivos a construir para alquilar con contratos previsibles: registro, índice pactado y seguros de garantía.",
+   "Impuesto al suelo y normas urbanas para densificar donde hay servicios (Fase II)."
   ],
   "plazos": "Crédito y fondo de garantía en la Fase I; impuesto al suelo y normas urbanas en la Fase II; urbanización de barrios a lo largo de las tres fases.",
   "costo_detalle": "El crédito lo fondean bancos y el mercado de capitales; el fondo de garantía requiere un aporte inicial acotado. Las obras de urbanización van dentro del cupo de obras de la cuenta fiscal (hasta 0,6 % del PIB adicional al año 4), con aranceles a infraestructura y provincias saneadas.",
@@ -7309,8 +7637,57 @@
    "Radiografía de la Argentina, Temas 5 y 17",
    "BCRA, préstamos hipotecarios en términos reales (Datos Argentina, oct-2026)",
    "Propuestas Técnicas, documento de base del autor (2026)",
-   "Ley 27.453"
-  ]
+   "Ley 27.453",
+   "Infobae, proyecto de financiamiento para barrios populares: RENABAP, FISU y obras paralizadas (25/09/2026)",
+   "Decreto 312/2025, disolución del Fondo de Integración Socio Urbana",
+   "Decreto 764/2026, venta de inmuebles del Estado, vía El Destape (22/08/2026)"
+  ],
+  "obras": {
+   "titulo": "Dónde: terrenos del Estado con potencial para vivienda",
+   "fuente": "Decreto 764/2026 (AABE); destino propuesto por el programa",
+   "items": [
+    {
+     "nombre": "Predio de unas 38 hectáreas en Ushuaia",
+     "detalle": "Entre Yaganes, 44 Héroes ARA San Juan, Horeb y Héroes de Malvinas: loteo con servicios y vivienda.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -68.33,
+      -54.8
+     ]
+    },
+    {
+     "nombre": "Predio de 3,2 hectáreas en Córdoba",
+     "detalle": "Venta con cargo de construir vivienda (ubicación exacta en el Decreto 764/2026).",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -64.19,
+      -31.42
+     ]
+    },
+    {
+     "nombre": "Predio de 2,6 hectáreas en San Rafael (Mendoza)",
+     "detalle": "Calle Tiburcio Benegas: venta con cargo de construir vivienda.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -68.33,
+      -34.62
+     ]
+    },
+    {
+     "nombre": "Inmueble de Avenida Belgrano 637 (Buenos Aires)",
+     "detalle": "957 m² en el centro: vivienda para alquilar.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -58.3757,
+      -34.6129
+     ]
+    }
+   ]
+  }
  },
  {
   "n": 82,
@@ -7568,8 +7945,8 @@
    "fuente": "BCRA (vía Datos Argentina)",
    "fecha": "octubre 2026"
   },
-  "que_ext": "Proponemos una relación pragmática: China es un gran comprador y proveedor y lo seguirá siendo. Pero ningún insumo crítico debe depender de un solo país, los acuerdos sensibles se hacen públicos y pasan por el Congreso, y las inversiones extranjeras en sectores estratégicos —de cualquier origen— se evalúan antes de aprobarse.",
-  "que_comp": "Medidas: (1) un mecanismo de evaluación de inversiones extranjeras en sectores estratégicos —energía, puertos, telecomunicaciones, datos, minerales críticos y tierras— con criterios públicos y aplicable a todos los orígenes por igual; (2) segundo proveedor obligatorio para fertilizantes, agroquímicos y principios activos farmacéuticos (propuestas 32, 39 y 87); (3) transparencia de los acuerdos vigentes: inspección civil periódica de la estación de espacio lejano de Neuquén para verificar su uso exclusivamente civil, y publicación de las condiciones del swap con un plan de uso y renovación; (4) control de la pesca ilegal en el borde de la zona económica exclusiva (propuesta 90).\n\nEn lo comercial, la agenda es ofensiva: más acceso para carnes, alimentos con valor agregado y servicios, y equilibrio de un comercio hoy muy deficitario. La relación se administra sin ingenuidad ni sumisión: el intercambio comercial no se confunde con alineamiento estratégico.",
+  "que_ext": "Proponemos una relación pragmática: China es un gran comprador y proveedor y lo seguirá siendo. Pero ningún insumo crítico debe depender de un solo país, los acuerdos sensibles se hacen públicos y pasan por el Congreso, y las inversiones extranjeras en sectores estratégicos —de cualquier origen— se evalúan antes de aprobarse. En concreto: una Comisión de Evaluación de Inversiones Estratégicas revisa inversiones como las represas del río Santa Cruz o el litio, la CONAE inspecciona la estación de Bajada del Agrio (Ley 27.123) y se publican las condiciones del swap renovado en 2026.",
+  "que_comp": "Medidas: (1) un mecanismo de evaluación de inversiones extranjeras en sectores estratégicos —energía, puertos, telecomunicaciones, datos, minerales críticos y tierras— con criterios públicos y aplicable a todos los orígenes por igual; (2) segundo proveedor obligatorio para fertilizantes, agroquímicos y principios activos farmacéuticos (propuestas 32, 39 y 87); (3) transparencia de los acuerdos vigentes: inspección civil periódica de la estación de espacio lejano de Neuquén para verificar su uso exclusivamente civil, y publicación de las condiciones del swap, renovado en agosto de 2026 por cinco años, con un plan de uso; (4) control de la pesca ilegal en el borde de la zona económica exclusiva (propuesta 90).\n\nEn lo comercial, la agenda es ofensiva: más acceso para carnes, alimentos con valor agregado y servicios, y equilibrio de un comercio hoy muy deficitario. La relación se administra sin ingenuidad ni sumisión: el intercambio comercial no se confunde con alineamiento estratégico.\n\nEn concreto: la evaluación queda a cargo de una nueva Comisión de Evaluación de Inversiones Estratégicas, sin estructura propia: la integran técnicos de Cancillería, Economía, Defensa y Seguridad, con informes reservados a una comisión bicameral del Congreso, siguiendo el modelo del Reglamento (UE) 2019/452 de la Unión Europea. Revisa toda inversión extranjera nueva, compra de control o renovación de concesión en los sectores estratégicos, de cualquier origen. Entre los activos con capital o crédito chino que hoy entrarían en su mirada están las represas Cóndor Cliff y La Barrancosa sobre el río Santa Cruz (construidas por una empresa china con crédito de bancos chinos; La Barrancosa, con 46 % de avance, se reactivó en 2026), el Parque Solar Cauchari en Jujuy (financiado en su mayor parte por el Eximbank de China) y los proyectos de litio con empresas chinas como accionistas o controlantes: la ampliación de Cauchari-Olaroz (Jujuy), Tres Quebradas (Catamarca) y Pozuelos-Pastos Grandes (Salta). La Estación de Espacio Lejano de Bajada del Agrio (Neuquén), de 200 hectáreas y con una antena de 35 metros, la opera la agencia china de control satelital (CLTC) por 50 años, según el acuerdo aprobado por la Ley 27.123 de 2015: se propone que la CONAE la inspeccione cada año con acceso pleno y que, si el acuerdo no lo permite, se renegocie. El swap entre el Banco Central y el Banco Popular de China, por 130.000 millones de yuanes (unos US$ 19.000 millones), fue renovado en agosto de 2026 por cinco años; se publican sus condiciones y el uso del tramo activado de 35.000 millones de yuanes.",
   "porque_ext": "China nos vendió 23,7 % de todo lo que importamos en 2025 y nos compró 11,3 % de lo exportado (Cancillería-INDEC), y el Banco Central tiene con su par chino un swap por unos US$ 19.400 millones. Depender de un proveedor dominante en fertilizantes, agroquímicos o medicamentos es una vulnerabilidad, no un detalle comercial.",
   "porque_comp": "El diagnóstico del programa llamó a China el elefante ausente: la tensión entre alinearse por valores con Occidente y depender económicamente de una potencia que no los comparte es el nudo geopolítico central. En 2025 el comercio con China dejó un déficit de US$ 8.155 millones (Cancillería-INDEC). A eso se suman una estación espacial con un régimen de acceso poco transparente y una flota pesquera que, en 2026, llegó a 500-600 buques en el borde de nuestro mar, en su mayoría de bandera china (Monitor Mundial).\n\nLa respuesta no es el desacople —que dañaría a productores y consumidores— sino administrar la dependencia: diversificar, transparentar y proteger lo estratégico.",
   "grafico": null,
@@ -7578,10 +7955,13 @@
   "costo": "Bajo; capacidad técnica en Cancillería y Economía",
   "actores": "Cancillería, Economía, BCRA, Congreso, Defensa, CONAE",
   "pasos": [
-   "Ley de evaluación de inversiones en sectores estratégicos",
-   "Segundo proveedor para insumos críticos con metas públicas",
-   "Publicar condiciones del swap y verificar el uso civil de la estación",
-   "Agenda comercial para reducir el déficit con valor agregado"
+   "Ley de evaluación de inversiones en sectores estratégicos, que crea la Comisión de Evaluación de Inversiones Estratégicas con técnicos de Cancillería, Economía, Defensa y Seguridad, y control de una comisión bicameral.",
+   "Aplicarla a toda inversión nueva, compra de control o renovación de concesión en energía, puertos, telecomunicaciones, datos, minerales críticos y tierras, de cualquier origen.",
+   "Inspección anual de la CONAE, con acceso pleno, a la Estación de Espacio Lejano de Bajada del Agrio, y renegociación del acuerdo de la Ley 27.123 si no lo permite.",
+   "Publicar las condiciones del swap con el Banco Popular de China renovado en 2026 y el uso del tramo activado.",
+   "Segundo proveedor obligatorio para fertilizantes, agroquímicos y principios activos farmacéuticos, con metas públicas (propuestas 32, 39 y 87).",
+   "Control de la pesca ilegal en el borde de la zona económica exclusiva (propuesta 90).",
+   "Agenda comercial para reducir el déficit con carnes, alimentos con valor agregado y servicios."
   ],
   "plazos": "Ley de evaluación y transparencia de acuerdos en la Fase I; diversificación de proveedores en las Fases I y II.",
   "costo_detalle": "Costo bajo: equipos técnicos en organismos existentes. Diversificar proveedores puede encarecer algunas compras al principio; se compensa con menor riesgo de cortes.",
@@ -7594,8 +7974,90 @@
    "Alianza Estratégica Argentina–India, cap. I",
    "BCRA, swap con China (Datos Argentina, oct-2026)",
    "Cancillería (CEI), Intercambio Comercial Argentino 2025",
-   "Monitor Mundial, nota Atlántico Sur (24/10/2026)"
-  ]
+   "Monitor Mundial, nota Atlántico Sur (24/10/2026)",
+   "Ley 27.123, acuerdo con China sobre la estación de espacio lejano en Neuquén (2015)",
+   "Infobae, el BCRA renovó el swap con el Banco Popular de China por cinco años (agosto 2026)",
+   "iProfesional, reactivación de las represas de Santa Cruz (septiembre 2026)",
+   "Bloomberg Línea, capital chino en proyectos de litio del RIGI (agosto 2026)",
+   "Escenario Mundial, la estación china en Neuquén (octubre 2026)",
+   "Reglamento (UE) 2019/452, control de inversiones extranjeras directas"
+  ],
+  "obras": {
+   "titulo": "Dónde: activos estratégicos con capital o crédito chino",
+   "fuente": "Ley 27.123; Escenario Mundial (oct-2026); iProfesional (sep-2026); Bloomberg Línea (ago-2026). Ubicaciones aproximadas.",
+   "items": [
+    {
+     "nombre": "Estación de Espacio Lejano, Bajada del Agrio (Neuquén)",
+     "detalle": "Operada por la agencia china CLTC por 50 años (Ley 27.123). Inspección anual de la CONAE con acceso pleno.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -70.15,
+      -38.19
+     ]
+    },
+    {
+     "nombre": "Represa La Barrancosa (río Santa Cruz)",
+     "detalle": "360 MW, constructora china y crédito de bancos chinos; 46 % de avance, reactivada en 2026.",
+     "tipo": "punto",
+     "estado": "en_obra",
+     "coords": [
+      -70.1,
+      -50.19
+     ]
+    },
+    {
+     "nombre": "Represa Cóndor Cliff (río Santa Cruz)",
+     "detalle": "950 MW, mismo contrato y financiamiento chino; reanudación postergada.",
+     "tipo": "punto",
+     "estado": "paralizada",
+     "coords": [
+      -70.78,
+      -50.21
+     ]
+    },
+    {
+     "nombre": "Parque Solar Cauchari (Jujuy)",
+     "detalle": "Financiado en su mayor parte por el Eximbank de China. Revisión de cualquier ampliación o venta.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -66.56,
+      -23.98
+     ]
+    },
+    {
+     "nombre": "Litio Cauchari-Olaroz (Jujuy)",
+     "detalle": "Empresa china como accionista; ampliación aprobada en el RIGI en 2026.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -66.73,
+      -23.62
+     ]
+    },
+    {
+     "nombre": "Litio Tres Quebradas (Catamarca)",
+     "detalle": "Controlado 100 % por una minera china; segunda etapa aprobada en el RIGI.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -68.3,
+      -27.3
+     ]
+    },
+    {
+     "nombre": "Litio Pozuelos-Pastos Grandes (Salta)",
+     "detalle": "Empresa china con 67 % previsto; pidió ingresar al RIGI.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -66.7,
+      -24.45
+     ]
+    }
+   ]
+  }
  },
  {
   "n": 86,
@@ -7609,8 +8071,8 @@
    "fuente": "Cancillería (CEI) con datos de INDEC",
    "fecha": "2025"
   },
-  "que_ext": "Proponemos reconstruir la relación con Brasil como política de Estado, gane quien gane en cada país: una comisión binacional permanente, una empresa energética conjunta a crear, ENERSUD (propuesta 36), integración de cadenas industriales y pasos de frontera modernos. El Mercosur se ordena —arancel externo revisado en forma gradual y reglas que se cumplan— y se aprovechan los acuerdos con terceros, como el de la Unión Europea, en aplicación provisional desde el 1 de mayo de 2026.",
-  "que_comp": "Relación bilateral: comisión binacional con secretaría técnica y metas anuales publicadas; uso del sistema de pagos en monedas locales; cooperación nuclear en el marco de la agencia binacional de contabilidad y control existente; integración energética mediante ENERSUD (propuesta 36) y venta de gas de Vaca Muerta al mercado brasileño; cadenas automotriz, autopartista, química y alimentaria.\n\nMercosur: revisión gradual del arancel externo común con cronograma (propuestas 23 y 24); flexibilidad para negociar con terceros —como la India (propuesta 87)— sin romper la unión aduanera; implementación del acuerdo con la Unión Europea con salvaguardas para sectores sensibles. Infraestructura física compartida: Hidrovía, puentes, ferrocarril y pasos de frontera (propuesta 42).",
+  "que_ext": "Proponemos reconstruir la relación con Brasil como política de Estado, gane quien gane en cada país: una comisión binacional permanente, una empresa energética conjunta a crear, ENERSUD (propuesta 36), integración de cadenas industriales y pasos de frontera modernos. El Mercosur se ordena —arancel externo revisado en forma gradual y reglas que se cumplan— y se aprovechan los acuerdos con terceros, como el de la Unión Europea, en aplicación provisional desde el 1 de mayo de 2026. En concreto: gas a Brasil por Bolivia y por el Gasoducto del Mercosur a Uruguaiana, puentes Paso de los Libres–Uruguaiana y San Javier–Porto Xavier, un nuevo estudio de Garabí y cooperación nuclear a través de la ABACC.",
+  "que_comp": "Relación bilateral: comisión binacional con secretaría técnica y metas anuales publicadas; uso del sistema de pagos en monedas locales; cooperación nuclear en el marco de la agencia binacional de contabilidad y control existente (ABACC); integración energética mediante ENERSUD (propuesta 36) y venta de gas de Vaca Muerta al mercado brasileño; cadenas automotriz, autopartista, química y alimentaria.\n\nMercosur: revisión gradual del arancel externo común con cronograma (propuestas 23 y 24); flexibilidad para negociar con terceros —como la India (propuesta 87)— sin romper la unión aduanera; implementación del acuerdo con la Unión Europea con salvaguardas para sectores sensibles. Infraestructura física compartida: Hidrovía, puentes, ferrocarril y pasos de frontera (propuesta 42).\n\nEn concreto: en gas, se usan las dos rutas que ya llevaron gas de Vaca Muerta a Brasil. La del norte va por el Gasoducto Perito Moreno y el Gasoducto Norte, ya revertido, hasta Bolivia y de ahí al gasoducto Bolivia-Brasil (primera exportación en 2025); requiere ampliar el tramo Tratayén–La Carlota y completar el Gasoducto del Noreste Argentino para un envío firme de 10 millones de metros cúbicos diarios hacia 2029-2030. La del este va por el Gasoducto del Mercosur, de Aldea Brasilera (Entre Ríos) a Uruguaiana, que volvió a operar en una prueba en abril de 2026 para la central térmica de esa ciudad; su licencia vence en diciembre de 2027 y se renueva con contratos de largo plazo, y del lado brasileño se impulsa el gasoducto Uruguaiana–Triunfo, de unos 600 km, previsto en el plan de gas de Brasil. En pasos de frontera: se moderniza el puente Paso de los Libres–Uruguaiana, que es carretero y ferroviario y une el Ferrocarril Urquiza con la red brasileña; el de Santo Tomé–São Borja; se extiende a 24 horas el puente Comandante Andresito–Capanema; y se acompaña la construcción del puente San Javier–Porto Xavier, financiado por Brasil e iniciado en 2026. Las represas binacionales Garabí y Panambí sobre el río Uruguay están detenidas desde 2017 por fallos de la Justicia federal brasileña, porque Panambí inundaría parte del Parque Estadual do Turvo: se propone un nuevo estudio conjunto que priorice Garabí y revise o descarte Panambí, sin comprometer obra hasta tener licencia ambiental. En lo nuclear, la cooperación se hace a través de la Agencia Brasileño-Argentina de Contabilidad y Control de Materiales Nucleares (ABACC, creada en 1991), y en pagos, con el Sistema de Pagos en Moneda Local (SML) de los dos bancos centrales.",
   "porque_ext": "Brasil es el origen de casi un cuarto de nuestras importaciones y el principal destino de nuestras exportaciones (Cancillería-INDEC, 2025). Fábricas de los dos lados dependen unas de otras y en energía nos completamos: ellos saben de petróleo en el mar, nosotros de no convencionales. Pelearse por simpatías de gobierno es un lujo que la Argentina no puede pagar.",
   "porque_comp": "En 2025 Brasil compró 14,7 % de nuestras exportaciones y aportó 24,3 % de nuestras importaciones, con un déficit bilateral de US$ 5.653 millones (Cancillería-INDEC). El diagnóstico del programa advierte que el socio decisivo estaba subponderado frente a bloques todavía especulativos, y que la complementariedad energética —gas no convencional argentino, experiencia brasileña en aguas profundas— es un motivo concreto y de primer orden para jerarquizarlo.\n\nLa propuesta vale para cualquier gobierno, en Brasil y en la Argentina: los pueblos no son propiedad de sus presidentes y el Paraná no cambia de curso según una elección.",
   "grafico": null,
@@ -7619,10 +8081,14 @@
   "costo": "Bajo; la inversión energética va por ENERSUD",
   "actores": "Cancillería, gobierno de Brasil, YPF, Petrobras, industria, provincias de frontera",
   "pasos": [
-   "Comisión binacional permanente con metas anuales",
-   "Acuerdo de integración energética y lanzamiento de ENERSUD",
-   "Cronograma de revisión del arancel externo común",
-   "Plan de pasos de frontera e infraestructura compartida"
+   "Comisión binacional permanente con secretaría técnica y metas anuales publicadas.",
+   "Acuerdo de integración energética y lanzamiento de ENERSUD (propuesta 36).",
+   "Contratos de largo plazo para enviar gas por Bolivia, con la ampliación del tramo Tratayén–La Carlota y el Gasoducto del Noreste Argentino, meta de 10 millones de m³ diarios hacia 2029-2030.",
+   "Renovar la licencia del Gasoducto del Mercosur (Aldea Brasilera–Uruguaiana) antes de diciembre de 2027 y acordar con Brasil el gasoducto Uruguaiana–Triunfo.",
+   "Modernizar los pasos Paso de los Libres–Uruguaiana (ruta y tren) y Santo Tomé–São Borja, abrir las 24 horas el de Andresito–Capanema y acompañar la obra del puente San Javier–Porto Xavier.",
+   "Nuevo estudio binacional de Garabí y Panambí, sin compromiso de obra hasta tener licencia ambiental en ambos países.",
+   "Cronograma de revisión del arancel externo común (propuestas 23 y 24) y aplicación del acuerdo con la Unión Europea con salvaguardas.",
+   "Más uso del Sistema de Pagos en Moneda Local y cooperación nuclear a través de la ABACC."
   ],
   "plazos": "Comisión y acuerdo energético en el primer año; revisión arancelaria y obras de frontera durante las Fases I y II.",
   "costo_detalle": "Costo fiscal bajo: la inversión energética la aportan las empresas socias de ENERSUD; las obras de frontera, con organismos regionales y dentro del cupo de obras de la cuenta fiscal (hasta 0,6 % del PIB adicional al año 4).",
@@ -7633,8 +8099,180 @@
    "Propuestas Técnicas, documento de base del autor (2026)",
    "Diagnóstico técnico extendido, Áreas III y VIII",
    "Cancillería (CEI), Intercambio Comercial Argentino 2025",
-   "Monitor Mundial, calendario electoral (24/10/2026)"
-  ]
+   "Monitor Mundial, calendario electoral (24/10/2026)",
+   "Infobae, primera exportación de gas argentino a Brasil vía Bolivia (2025)",
+   "Mejor Energía, prueba de exportación por el Gasoducto del Mercosur a Uruguaiana (abril 2026)",
+   "Shale24, módulo firme de gas a Brasil desde 2029 (septiembre 2026)",
+   "Canal 26 y Misiones Online, puente San Javier–Porto Xavier (2026)",
+   "Ebisa y Tribunal Regional Federal 4 de Brasil, suspensión de Garabí-Panambí (2017-2022)",
+   "ABACC, Acuerdo de Guadalajara (1991)"
+  ],
+  "obras": {
+   "titulo": "Dónde: gas, puentes y represas con Brasil",
+   "fuente": "Mejor Energía (abr-2026); Shale24 (sep-2026); Canal 26 (mar-2026); Ebisa. Trazados aproximados.",
+   "items": [
+    {
+     "nombre": "Gasoducto Norte revertido, La Carlota–Campo Durán–Bolivia",
+     "detalle": "Lleva gas de Vaca Muerta al norte y a Bolivia, y de ahí a Brasil. Ampliar para 10 millones de m³ diarios hacia 2029-2030.",
+     "tipo": "linea",
+     "estado": "existente",
+     "coords": [
+      [
+       -63.3,
+       -33.42
+      ],
+      [
+       -63.36,
+       -32.29
+      ],
+      [
+       -64.18,
+       -31.42
+      ],
+      [
+       -64.26,
+       -27.79
+      ],
+      [
+       -65.22,
+       -26.82
+      ],
+      [
+       -65.02,
+       -24.69
+      ],
+      [
+       -63.7,
+       -22.25
+      ],
+      [
+       -63.68,
+       -22.01
+      ]
+     ]
+    },
+    {
+     "nombre": "Gasoducto del Mercosur, Aldea Brasilera–Uruguaiana",
+     "detalle": "Volvió a operar en una prueba en 2026 para la central de Uruguaiana. Licencia hasta diciembre de 2027: renovar con contratos largos.",
+     "tipo": "linea",
+     "estado": "existente",
+     "coords": [
+      [
+       -60.6,
+       -31.88
+      ],
+      [
+       -59.03,
+       -31.86
+      ],
+      [
+       -58.78,
+       -30.95
+      ],
+      [
+       -58.05,
+       -29.79
+      ],
+      [
+       -57.09,
+       -29.71
+      ],
+      [
+       -57.08,
+       -29.76
+      ]
+     ]
+    },
+    {
+     "nombre": "Gasoducto Uruguaiana–Triunfo (Brasil)",
+     "detalle": "Unos 600 km, hasta 12 millones de m³ diarios. Previsto en el plan de gas de Brasil; obra del lado brasileño.",
+     "tipo": "linea",
+     "estado": "propuesta",
+     "coords": [
+      [
+       -57.08,
+       -29.76
+      ],
+      [
+       -55.79,
+       -29.78
+      ],
+      [
+       -54.32,
+       -30.34
+      ],
+      [
+       -52.89,
+       -30.04
+      ],
+      [
+       -51.72,
+       -29.94
+      ]
+     ]
+    },
+    {
+     "nombre": "Puente Paso de los Libres–Uruguaiana",
+     "detalle": "Puente carretero y ferroviario: modernizar el control de frontera y el cruce del Ferrocarril Urquiza.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -57.08,
+      -29.73
+     ]
+    },
+    {
+     "nombre": "Puente Santo Tomé–São Borja",
+     "detalle": "Paso con centro de frontera: agilizar controles y cargas.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -56.03,
+      -28.6
+     ]
+    },
+    {
+     "nombre": "Puente San Javier–Porto Xavier",
+     "detalle": "Nuevo puente sobre el río Uruguay, financiado por Brasil; trabajos iniciados en 2026.",
+     "tipo": "punto",
+     "estado": "en_obra",
+     "coords": [
+      -55.13,
+      -27.88
+     ]
+    },
+    {
+     "nombre": "Puente Comandante Andresito–Capanema",
+     "detalle": "Sobre el río Iguazú: habilitarlo las 24 horas.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -53.9,
+      -25.62
+     ]
+    },
+    {
+     "nombre": "Represa Garabí (río Uruguay)",
+     "detalle": "Binacional, detenida desde 2017 por la Justicia brasileña. Nuevo estudio conjunto, prioridad sobre Panambí.",
+     "tipo": "punto",
+     "estado": "paralizada",
+     "coords": [
+      -55.65,
+      -28.18
+     ]
+    },
+    {
+     "nombre": "Represa Panambí (río Uruguay)",
+     "detalle": "Detenida: inundaría parte del Parque Estadual do Turvo. Revisar o descartar.",
+     "tipo": "punto",
+     "estado": "paralizada",
+     "coords": [
+      -54.92,
+      -27.7
+     ]
+    }
+   ]
+  }
  },
  {
   "n": 87,
@@ -7765,8 +8403,8 @@
    "fuente": "Prefectura Naval Argentina (vía iProfesional y Monitor Mundial)",
    "fecha": "2026"
   },
-  "que_ext": "Proponemos un sistema de vigilancia marítima permanente —satélites, aviones de patrulla y buques— coordinado entre la Armada, la Prefectura y la CONAE, más acuerdos con los países vecinos para que el pescado ilegal no tenga dónde descargar. Aprovechar con ciencia los recursos de la plataforma continental reconocida en 2016, y fortalecer la presencia científica y logística en la Antártida, con todos los cuidados ambientales del Tratado Antártico.",
-  "que_comp": "Vigilancia: un centro unificado de monitoreo que integre datos de identificación automática de buques, satélites de radar argentinos y patrullaje aéreo y naval; exigencia de identificación y trazabilidad a todo buque que use servicios de puertos argentinos; acuerdos con Uruguay, Brasil y Chile para negar puerto y servicios a buques sin trazabilidad; cooperación en el marco de la propuesta 88. Plataforma: la Comisión de Límites de la Plataforma Continental de la ONU emitió en 2016 sus recomendaciones sobre la presentación argentina (sin pronunciarse sobre las áreas en disputa ni sobre la Antártida), y la Ley 27.557 los fijó: corresponde relevar y aprovechar sus recursos con ciencia nacional.\n\nAntártida: cumplimiento estricto del Tratado Antártico y de su protocolo ambiental; Ushuaia como puerta logística antártica; renovación de medios logísticos y bases; programas científicos de largo plazo. El equipamiento se financia con el fondo de defensa, cuyo financiamiento por ley se restablece (propuesta 91).",
+  "que_ext": "Proponemos un sistema de vigilancia marítima permanente —satélites, aviones de patrulla y buques— coordinado entre la Armada, la Prefectura y la CONAE, más acuerdos con los países vecinos para que el pescado ilegal no tenga dónde descargar. Aprovechar con ciencia los recursos de la plataforma continental reconocida en 2016, y fortalecer la presencia científica y logística en la Antártida, con todos los cuidados ambientales del Tratado Antártico. En concreto: vigilancia con los satélites SAOCOM, los cuatro patrulleros oceánicos y los aviones P-3C Orion, y la Base Naval Integrada de Ushuaia como puerta a la Antártida.",
+  "que_comp": "Vigilancia: un centro unificado de monitoreo que integre datos de identificación automática de buques, satélites de radar argentinos y patrullaje aéreo y naval; exigencia de identificación y trazabilidad a todo buque que use servicios de puertos argentinos; acuerdos con Uruguay, Brasil y Chile para negar puerto y servicios a buques sin trazabilidad; cooperación en el marco de la propuesta 88. Plataforma: la Comisión de Límites de la Plataforma Continental de la ONU emitió en 2016 sus recomendaciones sobre la presentación argentina (sin pronunciarse sobre las áreas en disputa ni sobre la Antártida), y la Ley 27.557 los fijó: corresponde relevar y aprovechar sus recursos con ciencia nacional.\n\nAntártida: cumplimiento estricto del Tratado Antártico y de su protocolo ambiental; Ushuaia como puerta logística antártica; renovación de medios logísticos y bases; programas científicos de largo plazo. El equipamiento se financia con el fondo de defensa, cuyo financiamiento por ley se restablece (propuesta 91).\n\nEn concreto: el centro unificado de monitoreo se arma sobre el Sistema Integrado de Vigilancia Electrónico del Mar (SIVEMAR) y el Sistema Guardacostas de la Prefectura, y suma los datos de la Armada y las imágenes de radar de los satélites SAOCOM 1A y 1B de la CONAE, según el acuerdo Prefectura–CONAE de septiembre de 2026. Se agrega el satélite SABIA-Mar, construido por INVAP, cuyo lanzamiento está previsto para el primer semestre de 2027. En el mar patrullan los cuatro patrulleros oceánicos de la Armada, ARA Bouchard, ARA Piedrabuena, ARA Storni y ARA Contraalmirante Cordero, junto con los guardacostas de la Prefectura. En el aire, los aviones P-3C Orion comprados a Noruega: dos en servicio, con base en la Base Aeronaval Comandante Espora (Bahía Blanca), y un tercero en puesta a punto. La zona prioritaria es el borde de la milla 200, donde se concentra la flota extranjera del calamar, incluida el área conocida como Agujero Azul. Antártida: la obra central es la Base Naval Integrada de Ushuaia, con un muelle de unos 1.050 metros e instalaciones de logística antártica. Tenía 9 % de avance físico según el último dato oficial, y su muelle se licitó en octubre de 2026 (Resolución 704/2026, 36 meses de obra). Se renuevan las seis bases permanentes (Marambio, Esperanza, Carlini, Orcadas, San Martín y Belgrano II) y se termina la reactivación de la base Petrel, con el rompehielos ARA Almirante Irízar como buque central de cada campaña. El relevamiento de la plataforma se hace en el marco de la Ley 27.167 (PROMAR) y la iniciativa Pampa Azul. Todo se paga con el Fondo Nacional de la Defensa, que ya es la fuente principal de la base de Ushuaia.",
   "porque_ext": "Cada temporada de calamar se juntan en la milla 201 cientos de barcos extranjeros: en 2026 llegaron a 500-600, la mayoría de bandera china (Monitor Mundial). Pescan recursos que migran desde nuestras aguas. Y la plataforma continental que la ONU reconoció en 2016 es un territorio enorme que todavía no sabemos vigilar ni aprovechar.",
   "porque_comp": "La pesca en el borde de la zona económica exclusiva es legal en alta mar, pero depreda poblaciones que nacen y crecen en aguas argentinas y suele operar sin control ni trazabilidad; parte de ella llega a puertos de la región. Al mismo tiempo, la posición austral —mar, plataforma y Antártida— es, según el diagnóstico del programa, el activo estratégico singular del país.\n\nVigilar un territorio marítimo tan extenso exige tecnología más que barcos: satélites, datos y coordinación. Y la Antártida, con todos los cuidados ambientales del régimen internacional, es un espacio de ciencia y cooperación donde la Argentina tiene una presencia histórica que conviene sostener.",
   "grafico": null,
@@ -7775,10 +8413,14 @@
   "costo": "Medio; equipamiento con el fondo de defensa existente",
   "actores": "Armada, Prefectura, CONAE, Agricultura, Cancillería, Tierra del Fuego",
   "pasos": [
-   "Centro unificado de monitoreo marítimo con datos satelitales",
-   "Acuerdos regionales para negar puerto a buques sin trazabilidad",
-   "Programa científico de relevamiento de la plataforma continental",
-   "Plan logístico antártico con Ushuaia como puerta"
+   "Centro unificado de monitoreo sobre el SIVEMAR de la Prefectura, con datos de la Armada y de los satélites SAOCOM (18 meses).",
+   "Patrullaje coordinado en la milla 200 con los patrulleros Bouchard, Piedrabuena, Storni y Cordero y los aviones P-3C Orion, incluido el tercero en puesta a punto.",
+   "Sumar el satélite SABIA-Mar al monitoreo desde su lanzamiento, previsto para 2027.",
+   "Acuerdos con Uruguay, Brasil y Chile para negar puerto a buques sin trazabilidad.",
+   "Programa científico de relevamiento de la plataforma continental en el marco de la Ley 27.167 (PROMAR).",
+   "Adjudicar y construir el muelle de la Base Naval Integrada de Ushuaia y sus instalaciones de logística antártica.",
+   "Renovar las seis bases antárticas permanentes y completar la reactivación de Petrel.",
+   "Restablecer por ley el financiamiento del Fondo Nacional de la Defensa para todo el plan."
   ],
   "plazos": "Centro de monitoreo en 18 meses; acuerdos regionales en la Fase I; plataforma y Antártida durante las Fases I y II.",
   "costo_detalle": "Equipamiento y operación con el Fondo Nacional de la Defensa (Ley 27.565), cuyo financiamiento eliminó el Presupuesto 2026 (Ley 27.798) y se restablece por ley, y con las multas a la pesca ilegal.",
@@ -7788,8 +8430,131 @@
   "fuentes": [
    "Propuestas Técnicas, documento de base del autor (2026)",
    "Monitor Mundial, nota Atlántico Sur (24/10/2026)",
-   "Comisión de Límites de la Plataforma Continental (ONU), 2016; Ley 27.557"
-  ]
+   "Comisión de Límites de la Plataforma Continental (ONU), 2016; Ley 27.557",
+   "Zona Militar, tercer avión P-3C Orion de la Armada (03/03/2026)",
+   "ArgenPorts, acuerdo Prefectura–CONAE de vigilancia satelital (17/09/2026)",
+   "El Diario Web, satélite SABIA-Mar (ago-2026)",
+   "Escenario Mundial, avance de la Base Naval Integrada de Ushuaia (28/08/2026)",
+   "El Argentino Diario, licitación del muelle militar de Ushuaia, Resolución 704/2026 (09/10/2026)",
+   "Infodefensa, reactivación de la base Petrel (2025)",
+   "Ley 27.167, PROMAR"
+  ],
+  "obras": {
+   "titulo": "Dónde: vigilancia del mar y logística antártica",
+   "fuente": "Armada Argentina, Prefectura, CONAE, Ministerio de Defensa (2025-2026); coordenadas aproximadas",
+   "items": [
+    {
+     "nombre": "Borde de la milla 200 y Agujero Azul",
+     "detalle": "Zona prioritaria de vigilancia, donde se concentra la flota extranjera del calamar.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -59.8,
+      -45.5
+     ]
+    },
+    {
+     "nombre": "Base Naval Mar del Plata",
+     "detalle": "Apostadero de los patrulleros oceánicos Bouchard, Piedrabuena, Storni y Cordero.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -57.53,
+      -38.04
+     ]
+    },
+    {
+     "nombre": "Base Aeronaval Comandante Espora (Bahía Blanca)",
+     "detalle": "Base de los aviones P-3C Orion de patrullaje marítimo.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -62.17,
+      -38.73
+     ]
+    },
+    {
+     "nombre": "Base Naval Integrada de Ushuaia",
+     "detalle": "Muelle de unos 1.050 m y logística antártica; muelle licitado en octubre de 2026.",
+     "tipo": "punto",
+     "estado": "en_obra",
+     "coords": [
+      -68.27,
+      -54.82
+     ]
+    },
+    {
+     "nombre": "Base Marambio",
+     "detalle": "Base permanente: renovación.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -56.63,
+      -64.24
+     ]
+    },
+    {
+     "nombre": "Base Esperanza",
+     "detalle": "Base permanente: renovación.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -56.99,
+      -63.4
+     ]
+    },
+    {
+     "nombre": "Base Petrel",
+     "detalle": "Reactivación en curso: se completa.",
+     "tipo": "punto",
+     "estado": "en_obra",
+     "coords": [
+      -56.48,
+      -63.48
+     ]
+    },
+    {
+     "nombre": "Base Carlini",
+     "detalle": "Base permanente: renovación.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -58.67,
+      -62.24
+     ]
+    },
+    {
+     "nombre": "Base Orcadas",
+     "detalle": "Base permanente: renovación.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -44.74,
+      -60.74
+     ]
+    },
+    {
+     "nombre": "Base San Martín",
+     "detalle": "Base permanente: renovación.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -67.1,
+      -68.13
+     ]
+    },
+    {
+     "nombre": "Base Belgrano II",
+     "detalle": "Base permanente: renovación.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -34.63,
+      -77.87
+     ]
+    }
+   ]
+  }
  },
  {
   "n": 91,
@@ -7985,8 +8750,8 @@
    "fuente": "CELS y causas judiciales",
    "fecha": "2001"
   },
-  "que_ext": "Proponemos crear por ley una Comisión Nacional de la Verdad, independiente del Poder Ejecutivo, que investigue los crímenes de lesa humanidad cometidos desde el aparato del Estado —nacional o provincial— entre 1983 y hoy: represiones con muertos, y persecuciones sistemáticas como las sufridas por la comunidad travesti y trans o por comunidades indígenas. La última dictadura queda fuera: tiene su propio proceso, que sigue intacto.",
-  "que_comp": "Integración: miembros elegidos por concurso público, con acuerdo de dos tercios del Congreso y participación de universidades, organismos de derechos humanos y la Defensoría del Pueblo; mandato fijo y presupuesto propio. Facultades: acceso irrestricto a archivos —incluidos los de fuerzas de seguridad e inteligencia—, toma de testimonios con protección de testigos y peritajes. La Comisión no juzga ni condena: esclarece, publica un informe y remite las pruebas a la Justicia. La investigación alcanza tanto a las máximas autoridades que coordinaron o consintieron los hechos como a quienes los ejecutaron.\n\nLa calificación de lesa humanidad exige un ataque generalizado o sistemático contra la población civil (Estatuto de Roma, Ley 26.200); la Comisión evalúa qué casos reúnen esos requisitos. No hay indultos ni amnistías: nada queda librado a decisión presidencial. El informe incluye recomendaciones de reparación a víctimas y de reforma institucional.",
+  "que_ext": "Proponemos crear por ley una Comisión Nacional de la Verdad, independiente del Poder Ejecutivo, que investigue los crímenes de lesa humanidad cometidos desde el aparato del Estado —nacional o provincial— entre 1983 y hoy: represiones con muertos, y persecuciones sistemáticas como las sufridas por la comunidad travesti y trans o por comunidades indígenas. La última dictadura queda fuera: tiene su propio proceso, que sigue intacto. En concreto: la Comisión Nacional de la Verdad sobre la Violencia Estatal en Democracia revisa hechos de todos los gobiernos, desde la Masacre de Ingeniero Budge (1987) y la explosión de Río Tercero (1995) hasta diciembre de 2001, el Parque Indoamericano (2010), la Masacre de San Miguel del Monte (2019) y la represión a jubilados de 2025.",
+  "que_comp": "Integración: miembros elegidos por concurso público, con acuerdo de dos tercios del Congreso y participación de universidades, organismos de derechos humanos y la Defensoría del Pueblo; mandato fijo y presupuesto propio. Facultades: acceso irrestricto a archivos —incluidos los de fuerzas de seguridad e inteligencia—, toma de testimonios con protección de testigos y peritajes. La Comisión no juzga ni condena: esclarece, publica un informe y remite las pruebas a la Justicia. La investigación alcanza tanto a las máximas autoridades que coordinaron o consintieron los hechos como a quienes los ejecutaron.\n\nLa calificación de lesa humanidad exige un ataque generalizado o sistemático contra la población civil (Estatuto de Roma, Ley 26.200); la Comisión evalúa qué casos reúnen esos requisitos. No hay indultos ni amnistías: nada queda librado a decisión presidencial. El informe incluye recomendaciones de reparación a víctimas y de reforma institucional.\n\nEn concreto: el ente se llama Comisión Nacional de la Verdad sobre la Violencia Estatal en Democracia (1983-2026). Para cada período de gobierno, nacional o provincial, la ley le encarga revisar hechos testigo como estos, sin perjuicio de otros: la Masacre de Ingeniero Budge, en la que la policía bonaerense mató a tres jóvenes (1987), y las desapariciones y ejecuciones de detenidos después de la recuperación del cuartel de La Tablada (1989), sobre las que la Comisión Interamericana pidió una investigación independiente; la muerte de un adolescente detenido en una razzia a la salida de un recital (1991), por la que la Corte Interamericana condenó al Estado en 2003; el encubrimiento, desde organismos judiciales y de inteligencia, de la investigación del atentado a la AMIA (1994), con condenas confirmadas en 2024; la voladura intencional de la Fábrica Militar de Río Tercero para ocultar el contrabando de armas (1995), con siete muertos; la muerte de una mujer en la represión de la pueblada de Cutral Có y Plaza Huincul (1997); las dos muertes en el desalojo del puente General Belgrano en Corrientes (1999) y las dos en General Mosconi, Salta (2001), ambas en operativos de Gendarmería; las 39 muertes de diciembre de 2001; la Masacre de Avellaneda (2002), con dos muertos; la desaparición de un testigo de un juicio de lesa humanidad en La Plata (2006), que sigue sin aparecer; la muerte de un docente por una granada de gas policial en Arroyito, Neuquén (2007); la desaparición de un adolescente que había denunciado torturas policiales en el conurbano bonaerense (2009), hallado en 2014 enterrado como NN; la represión a la comunidad qom Potae Napocna Navogoh en Formosa (2010), con un muerto; las tres muertes en el desalojo del Parque Indoamericano (2010); la muerte de un joven mapuche por disparos de Prefectura en Villa Mascardi (2017); la Masacre de San Miguel del Monte, con cuatro chicos muertos en una persecución policial (2019); la desaparición y asesinato de un trabajador rural por policías tucumanos (2020); y la represión a la marcha de jubilados frente al Congreso (2025), en la que un reportero gráfico quedó herido de gravedad por una granada de gas.",
   "porque_ext": "La democracia juzgó a la dictadura, pero nunca revisó con la misma vara los crímenes cometidos desde el Estado después de 1983. En las jornadas de diciembre de 2001 murieron 39 personas en la represión, y hay persecuciones sostenidas —contra personas trans, contra comunidades indígenas— que jamás se investigaron como un todo.",
   "porque_comp": "En 1983 el país creó la CONADEP y en 1985 juzgó a las juntas en un tribunal civil: un hecho sin precedentes en la región. Esa fundación sigue siendo la referencia. Pero en democracia también hubo represiones con muertos, violencia institucional y persecuciones sistemáticas que el Estado nunca investigó en conjunto, con responsabilidades de gobiernos nacionales y provinciales de distinto signo.\n\nEl diagnóstico del programa registra que la población trans y travesti sufre tasas de violencia letal muy superiores a las del resto, y el propio autor documentó en su obra un catálogo de abusos desde 1983. Una revisión justa de la memoria democrática es la mejor garantía de que el Nunca Más rija también hacia adelante.",
   "grafico": null,
@@ -7995,10 +8760,12 @@
   "costo": "Bajo; presupuesto propio y acotado en el tiempo",
   "actores": "Congreso, organismos de DDHH, universidades, Defensoría, víctimas, Justicia",
   "pasos": [
-   "Ley de creación con independencia del Poder Ejecutivo",
-   "Concurso público y acuerdo de dos tercios para sus miembros",
-   "Investigación con acceso irrestricto a archivos",
-   "Informe público, remisión a la Justicia y plan de reparación"
+   "Ley de creación de la Comisión Nacional de la Verdad sobre la Violencia Estatal en Democracia (1983-2026), independiente del Poder Ejecutivo y con exclusión expresa del período 1976-1983.",
+   "Concurso público y acuerdo de dos tercios del Congreso para sus miembros, con participación de universidades, organismos de derechos humanos y la Defensoría del Pueblo.",
+   "Fijar en la ley la lista inicial de hechos testigo de todos los períodos de gobierno, nacionales y provinciales, abierta a nuevas denuncias.",
+   "Investigar con acceso irrestricto a archivos de fuerzas de seguridad, inteligencia, justicia y gobiernos provinciales, y con protección de testigos.",
+   "Evaluar en cada caso si reúne los requisitos de lesa humanidad (Ley 26.200) o si es violencia institucional que debe seguir la vía penal común.",
+   "Publicar informes parciales y un informe final, remitir las pruebas a la Justicia y proponer reparaciones y reformas institucionales."
   ],
   "plazos": "Ley en el primer año; mandato de trabajo acotado (a definir en la ley) con informes parciales públicos.",
   "costo_detalle": "Presupuesto propio y acotado en el tiempo, dentro del gasto existente; las reparaciones, según el informe final.",
@@ -8009,7 +8776,13 @@
    "Propuestas Técnicas, documento de base del autor (2026)",
    "La democracia que nos debemos (obra del autor)",
    "Radiografía de la Argentina, Tema 20",
-   "Ley 26.200 (Estatuto de Roma)"
+   "Ley 26.200 (Estatuto de Roma)",
+   "Corte Interamericana de Derechos Humanos, caso de la razzia de 1991, sentencia de 2003",
+   "CIDH, Informe 55/97 sobre los hechos de La Tablada",
+   "Cámara Federal de Casación Penal, causa por el encubrimiento del atentado a la AMIA (2024)",
+   "Amnistía Internacional, General Mosconi (2001)",
+   "CELS, el desalojo del Parque Indoamericano (2014)",
+   "Tribunal Oral en lo Criminal 4 de La Plata, Masacre de San Miguel del Monte (2023)"
   ]
  },
  {
@@ -8275,8 +9048,8 @@
    "fuente": "INDEC, Censo 2022",
    "fecha": "2022"
   },
-  "que_ext": "Proponemos terminar el relevamiento territorial y entregar los títulos de propiedad comunitaria que manda la Constitución desde 1994; una ley de consulta previa, libre e informada para todo proyecto que afecte sus territorios; agua potable para cada comunidad; y educación y salud interculturales. Las comunidades participan de los beneficios de los proyectos mineros y energéticos en sus tierras.",
-  "que_comp": "Tierra: restablecer por ley la emergencia territorial de la Ley 26.160, cuya prórroga derogó el DNU 1083/2024, y completar el relevamiento territorial de comunidades y sancionar una ley de propiedad comunitaria indígena que instrumente el art. 75, inc. 17, de la Constitución, con entrega efectiva de títulos. Consulta: ley que reglamente la consulta previa, libre e informada del Convenio 169 de la OIT (Ley 24.071), con plazos, información técnica independiente y carácter vinculante en los términos de la licencia social minera (propuesta 38).\n\nServicios: obras de agua potable priorizadas para comunidades sin acceso (propuesta 41); educación intercultural bilingüe como prevé la Ley de Educación Nacional; salud intercultural con agentes sanitarios de las propias comunidades. Participación: fondos comunitarios con parte de las regalías de proyectos en sus territorios, gestionados con transparencia. Memoria: las persecuciones sufridas en democracia entran en la Comisión de la Verdad (propuesta 93).",
+  "que_ext": "Proponemos terminar el relevamiento territorial y entregar los títulos de propiedad comunitaria que manda la Constitución desde 1994; una ley de consulta previa, libre e informada para todo proyecto que afecte sus territorios; agua potable para cada comunidad; y educación y salud interculturales. Las comunidades participan de los beneficios de los proyectos mineros y energéticos en sus tierras. En concreto: relevar las cerca de 880 comunidades pendientes, entregar el título de Lhaka Honhat en Santa Victoria Este (Salta) y llevar agua al norte salteño y a El Impenetrable.",
+  "que_comp": "Tierra: restablecer por ley la emergencia territorial de la Ley 26.160, cuya prórroga derogó el DNU 1083/2024, y completar el relevamiento territorial de comunidades y sancionar una ley de propiedad comunitaria indígena que instrumente el art. 75, inc. 17, de la Constitución, con entrega efectiva de títulos. Consulta: ley que reglamente la consulta previa, libre e informada del Convenio 169 de la OIT (Ley 24.071), con plazos, información técnica independiente y carácter vinculante en los términos de la licencia social minera (propuesta 38).\n\nServicios: obras de agua potable priorizadas para comunidades sin acceso (propuesta 41); educación intercultural bilingüe como prevé la Ley de Educación Nacional; salud intercultural con agentes sanitarios de las propias comunidades. Participación: fondos comunitarios con parte de las regalías de proyectos en sus territorios, gestionados con transparencia. Memoria: las persecuciones sufridas en democracia entran en la Comisión de la Verdad (propuesta 93).\n\nEn concreto: al relevamiento territorial de la Ley 26.160 (técnico, jurídico y catastral, a cargo del INAI con las provincias) le falta casi la mitad de las comunidades: según la CIDH, en diciembre de 2024 el 47 % de las 1.881 comunidades identificadas no había accedido al relevamiento. Meta: relevar las cerca de 880 pendientes en la Fase I, con equipos técnicos con presupuesto y plazo. La ley de propiedad comunitaria es la ley especial a la que remite el artículo 18 del Código Civil y Comercial. El primer título es el que ordenó la Corte Interamericana en 2020 en el caso Lhaka Honhat: un título único de unas 400.000 hectáreas en los lotes fiscales 55 y 14 (Santa Victoria Este, departamento Rivadavia, Salta), para cerca de 200 comunidades de los pueblos wichí, iyjwaja, komlek, niwackle y tapy'y, con relocalización acordada de las familias criollas. El plazo de seis años ya venció sin título ni obras de agua: el plan lo cumple en la Fase I. Agua: prioridad para los departamentos Rivadavia, San Martín y Orán (Salta) y para El Impenetrable chaqueño, con pozos con bombeo solar, cisternas y represas donde no llega la red, y con ramales y mantenimiento del acueducto de El Impenetrable, que abastece a Wichí–El Pintado, Misión Nueva Pompeya, El Sauzal y Fuerte Esperanza. La ley de consulta reglamenta los artículos 6 y 15 del Convenio 169, y la educación intercultural bilingüe cumple los artículos 52 a 54 de la Ley 26.206 de Educación Nacional.",
   "porque_ext": "Según el Censo 2022, 1.306.730 personas se reconocen indígenas o descendientes de 58 pueblos. La Constitución les reconoce desde 1994 la posesión de las tierras que ocupan, pero muchas comunidades todavía esperan el título, y hay quienes juntan agua de lluvia para vivir. Casi siempre, las riquezas que se quieren explotar están debajo de las tierras de la gente más pobre.",
   "porque_comp": "La población que se reconoce indígena pasó de 955.032 personas en el Censo 2010 a 1.306.730 en 2022, y los pueblos identificados, de 31 a 58 (INDEC). El diagnóstico del programa señaló como vacío que los pueblos indígenas aparecieran solo como referencia retórica y no como área de política, justo donde se juegan la minería, el litio y el agua.\n\nUn país no se hace fuerte negando a los que estaban antes, sino sumándolos. Dar títulos y consultar en serio no frena la inversión: le da la licencia social que necesita para durar.",
   "grafico": {
@@ -8388,10 +9161,13 @@
   "costo": "Bajo a medio; agua dentro del cupo de obras",
   "actores": "INAI, comunidades, provincias, Congreso, Educación, Salud",
   "pasos": [
-   "Completar el relevamiento territorial con plazo y presupuesto",
-   "Ley de propiedad comunitaria y entrega de títulos",
-   "Ley de consulta previa, libre e informada",
-   "Plan de agua potable y salud y educación interculturales"
+   "Restablecer por ley la emergencia territorial de la Ley 26.160, derogada por el DNU 1083/2024.",
+   "Relevar en la Fase I las cerca de 880 comunidades pendientes, con plazo y presupuesto.",
+   "Cumplir la sentencia Lhaka Honhat: título único de unas 400.000 hectáreas en los lotes 55 y 14 de Santa Victoria Este, con agua y relocalización acordada de familias criollas.",
+   "Ley de propiedad comunitaria (art. 75 inc. 17 de la Constitución y art. 18 del Código Civil y Comercial) y entrega de títulos.",
+   "Ley de consulta previa, libre e informada que reglamente los artículos 6 y 15 del Convenio 169.",
+   "Plan de agua para Rivadavia, San Martín y Orán (Salta) y El Impenetrable (Chaco), con pozos, cisternas y ramales del acueducto.",
+   "Educación intercultural bilingüe (arts. 52 a 54 de la Ley 26.206) y salud intercultural con agentes de las propias comunidades."
   ],
   "plazos": "Ley de consulta y relevamiento en la Fase I; titulación y obras de agua durante la Fase II.",
   "costo_detalle": "Relevamiento y titulación de costo bajo; las obras de agua, dentro del plan nacional de agua y cloacas (propuesta 41).",
@@ -8401,8 +9177,69 @@
   "fuentes": [
    "Propuestas Técnicas, documento de base del autor (2026)",
    "INDEC, Censo 2022, población indígena (vía Hoy Día)",
-   "Constitución Nacional, art. 75 inc. 17; Leyes 24.071 y 26.160"
-  ]
+   "Constitución Nacional, art. 75 inc. 17; Leyes 24.071 y 26.160",
+   "CELS, audiencia por el cumplimiento de la sentencia Lhaka Honhat (17/04/2026)",
+   "Tierra Viva y Servindi, Lhaka Honhat (18/07/2026)",
+   "Tierra Viva, derogación de la emergencia territorial: datos de la CIDH sobre el relevamiento (10/12/2024)",
+   "Examedia y Data Chaco, acueducto Wichí–El Pintado (15/10/2026)",
+   "Ley 26.206 de Educación Nacional, arts. 52 a 54"
+  ],
+  "obras": {
+   "titulo": "Dónde: tierras y agua prioritarias",
+   "fuente": "Corte IDH, caso Lhaka Honhat (2020); CELS y Tierra Viva (2026); SAMEEP (2026); prioridades del programa",
+   "items": [
+    {
+     "nombre": "Lotes fiscales 55 y 14, Santa Victoria Este (Salta)",
+     "detalle": "Título único de unas 400.000 hectáreas para cerca de 200 comunidades, y agua segura.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -62.12,
+      -22.27
+     ]
+    },
+    {
+     "nombre": "Departamento San Martín (Tartagal, Salta)",
+     "detalle": "Agua segura para comunidades wichí y de otros pueblos.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -63.8,
+      -22.52
+     ]
+    },
+    {
+     "nombre": "Departamento Orán (Salta)",
+     "detalle": "Agua segura para comunidades indígenas.",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -64.33,
+      -23.13
+     ]
+    },
+    {
+     "nombre": "Acueducto de El Impenetrable, Misión Nueva Pompeya (Chaco)",
+     "detalle": "Existente: ramales a parajes y mantenimiento.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -61.48,
+      -24.93
+     ]
+    },
+    {
+     "nombre": "Fuerte Esperanza (Chaco)",
+     "detalle": "Extremo del acueducto de El Impenetrable: ramales a comunidades rurales.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -61.84,
+      -25.16
+     ]
+    }
+   ]
+  }
  },
  {
   "n": 100,
