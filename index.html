@@ -472,8 +472,9 @@ var EST={existente:["#6b6b6b","","Existente"],en_obra:["var(--orange)","","En ob
 function chartObras(o){
   if(!o||!o.items||!o.items.length||!MAPA)return "";
   var xs=[],ys=[],G=[];
-  function fuera(it){var c=it.coords;if(!c)return true;var L=Array.isArray(c[0])?c:[c];return L.some(function(q){return q[1]<-56})}
-  o.items.forEach(function(it){var pts=[];if(fuera(it)){G.push(pts);return}if(it.tipo==="linea"&&it.coords&&it.coords.length>1&&Array.isArray(it.coords[0]))pts=it.coords.map(pj);else if(it.coords){pts=[pj(Array.isArray(it.coords[0])?it.coords[0]:it.coords)]}pts.forEach(function(q){xs.push(q[0]);ys.push(q[1])});G.push(pts)});
+  function dentro(q){return q[0]>=-77&&q[0]<=-48&&q[1]>=-56&&q[1]<=-16}
+  function fuera(it){var c=it.coords;if(!c)return true;if(Array.isArray(c[0]))return c.filter(dentro).length<(it.tipo==="linea"?2:1);return !dentro(c)}
+  o.items.forEach(function(it){var pts=[];if(fuera(it)){G.push(pts);return}if(it.tipo==="linea"&&it.coords&&it.coords.length>1&&Array.isArray(it.coords[0]))pts=it.coords.filter(dentro).map(pj);else if(it.coords){pts=[pj(Array.isArray(it.coords[0])?it.coords[0]:it.coords)]}pts.forEach(function(q){xs.push(q[0]);ys.push(q[1])});G.push(pts)});
   if(!xs.length)return "";
   var x0=Math.min.apply(null,xs),x1=Math.max.apply(null,xs),y0=Math.min.apply(null,ys),y1=Math.max.apply(null,ys);
   var pad=36,w=Math.max(x1-x0+2*pad,170),h=Math.max(y1-y0+2*pad,170);if(h<w*0.85)h=w*0.85;if(w<h*0.6)w=h*0.6;
