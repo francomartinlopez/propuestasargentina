@@ -185,17 +185,17 @@
  {
   "n": 3,
   "area": "I",
-  "titulo": "Dólares primero para las máquinas que producen",
+  "titulo": "Dólares primero para producir: máquinas e insumos",
   "bandera": false,
-  "resumen": "Mientras se ordena el dólar, las empresas que importan máquinas para producir tienen acceso preferente a las divisas.",
+  "resumen": "Mientras se ordena el dólar, las empresas que importan máquinas, repuestos o insumos que no se fabrican en el país y que necesitan para producir tienen acceso preferente a las divisas.",
   "dato": {
    "valor": "−11,1 %",
    "texto": "cayó la inversión en maquinaria, equipos y construcción respecto de un año atrás",
    "fuente": "INDEC, formación bruta de capital fijo",
    "fecha": "2º trimestre 2026"
   },
-  "que_ext": "Durante la transición cambiaria, la importación de maquinaria y equipos productivos tiene un régimen de acceso preferente a las divisas. La idea es que la industria pueda modernizarse antes y durante la apertura, no después. El régimen vence cuando el mercado libre está plenamente operativo. En concreto: el acceso preferente vale para los bienes de capital e informática de los Anexos III y IV del Decreto 557/2023 y sus repuestos.",
-  "que_comp": "Dentro del tramo segmentado de la transición (propuesta 2), se asegura el acceso a divisas para bienes de capital y sus repuestos, con trámite rápido y sin cupos discrecionales. El beneficio se aplica sobre una nómina pública de posiciones arancelarias (los códigos con que la aduana clasifica cada producto) de bienes de capital, con controles cruzados de aduana para evitar que se usen como vía para otros consumos.\n\nEl régimen se coordina con la política de contenido nacional (propuesta 22): cuando existe oferta local equivalente, el acceso preferente no la desplaza. Vence automáticamente al completarse la transición al mercado libre.\n\nEn concreto: la nómina no se inventa: son las posiciones arancelarias de bienes de capital del Anexo III y de bienes de informática y telecomunicaciones del Anexo IV del Decreto 557/2023, con sus modificaciones (entre ellas el Decreto 513/2025), más los repuestos y partes de esas mismas posiciones. El BCRA da acceso a las divisas para esas importaciones sin cupo y en el día, y la Dirección General de Aduanas de ARCA cruza cada pago con la mercadería efectivamente despachada.",
+  "que_ext": "Durante la transición cambiaria, la importación de maquinaria y equipos productivos, sus repuestos y los insumos que no se fabrican en el país pero son necesarios para producir tiene un régimen de acceso preferente a las divisas. La idea es que la industria pueda modernizarse antes y durante la apertura, no después. El régimen vence cuando el mercado libre está plenamente operativo. En concreto: el acceso preferente vale para los bienes de capital e informática de los Anexos III y IV del Decreto 557/2023 y sus repuestos, más una nómina pública de insumos productivos sin producción local (materias primas, químicos, componentes electrónicos y piezas).",
+  "que_comp": "Dentro del tramo segmentado de la transición (propuesta 2), se asegura el acceso a divisas para bienes de capital, sus repuestos y los insumos que no se producen en el país pero son necesarios para producir —materias primas, químicos, componentes electrónicos, piezas—, con trámite rápido y sin cupos discrecionales. Una fábrica parada por falta de un insumo importado pierde lo mismo que una que no puede comprar una máquina. El beneficio se aplica sobre una nómina pública de posiciones arancelarias (los códigos con que la aduana clasifica cada producto) de bienes de capital, con controles cruzados de aduana para evitar que se usen como vía para otros consumos.\n\nEl régimen se coordina con la política de contenido nacional (propuesta 22): cuando existe oferta local equivalente, el acceso preferente no la desplaza. Vence automáticamente al completarse la transición al mercado libre.\n\nEn concreto: la nómina no se inventa: son las posiciones arancelarias de bienes de capital del Anexo III y de bienes de informática y telecomunicaciones del Anexo IV del Decreto 557/2023, con sus modificaciones (entre ellas el Decreto 513/2025), más los repuestos y partes de esas mismas posiciones. Para los insumos, se arma una nómina pública de posiciones arancelarias de materias primas, químicos y componentes sin producción local equivalente, que el Ministerio de Economía revisa cada seis meses con la industria: si aparece un proveedor nacional que cumple en precio y calidad, la posición sale de la nómina. El BCRA da acceso a las divisas para esas importaciones sin cupo y en el día, y la Dirección General de Aduanas de ARCA cruza cada pago con la mercadería efectivamente despachada.",
   "porque_ext": "Para competir hace falta invertir, y la inversión viene cayendo: en el segundo trimestre de 2026 fue un 11,1 % menor que un año antes (INDEC). Si la apertura llega sin máquinas nuevas, la industria compite con herramientas viejas.",
   "porque_comp": "La industria formal soporta a la vez un peso apreciado y una de las cargas tributarias más altas de su grupo de comparación. Abrir sin ganar competitividad desindustrializa. Un peso competitivo sin aumentos de productividad sólo compra tiempo; cerrar la brecha exige bienes de capital, tecnología y formación.\n\nPor eso, en la transición cambiaria, el orden de prioridad para los dólares disponibles no es neutral: primero lo que aumenta la capacidad de producir.",
   "grafico": null,
@@ -205,6 +205,7 @@
   "actores": "BCRA, Aduana (ARCA), cámaras industriales",
   "pasos": [
    "Nómina pública: posiciones de los Anexos III (bienes de capital) y IV (informática y telecomunicaciones) del Decreto 557/2023 y modificatorias, más sus repuestos y partes.",
+   "Nómina pública de insumos productivos sin producción local equivalente (materias primas, químicos, componentes y piezas), revisada cada seis meses por el Ministerio de Economía con la industria.",
    "Comunicación del BCRA que da acceso a las divisas sin cupo y en el día para esas posiciones, dentro del tramo de transición.",
    "Cruce de la Dirección General de Aduanas (ARCA) entre cada pago y la mercadería despachada, con sanción por desvío.",
    "Publicación mensual de lo asignado por empresa y posición arancelaria.",
@@ -212,8 +213,8 @@
   ],
   "plazos": "Rige desde el inicio de la transición cambiaria (Fase II) y vence con ella.",
   "costo_detalle": "Sin costo fiscal directo. Ordena el uso de las divisas disponibles; la magnitud depende de la demanda de importaciones de bienes de capital.",
-  "riesgos": "Que se use para importar otra cosa con la etiqueta de bien de capital, o que desplace proveedores nacionales. Se evita con nómina cerrada, control aduanero y la regla de contenido nacional.",
-  "indicador": "Inversión (formación bruta de capital fijo, INDEC) e importación de bienes de capital. Meta: inversión creciente en términos reales durante la transición.",
+  "riesgos": "Que se use para importar otra cosa con la etiqueta de bien de capital o de insumo, o que desplace proveedores nacionales. Se evita con nómina cerrada, control aduanero y la regla de contenido nacional.",
+  "indicador": "Inversión (formación bruta de capital fijo, INDEC) e importación de bienes de capital e insumos productivos; casos de producción frenada por falta de insumos importados. Meta: inversión creciente en términos reales durante la transición.",
   "blindaje": "Vencimiento fijado por norma y publicación mensual de lo asignado por empresa y posición arancelaria.",
   "fuentes": [
    "INDEC, FBCF (2º trimestre 2026)",
@@ -2811,8 +2812,8 @@
    "La Política Online, gasoducto al Gran Rosario y proyecto de urea en Puerto General San Martín (23/9/2026)"
   ],
   "obras": {
-   "titulo": "Dónde: plantas de urea, gas y sitios para fosfatados",
-   "fuente": "Ministerio de Economía (RIGI), Profertil, Pampa Energía y prensa (2026); sitios de fosfatados a definir por estudio",
+   "titulo": "Dónde: plantas de urea, gas, acueducto y sitios para fosfatados",
+   "fuente": "Ministerio de Economía (RIGI), Profertil, Pampa Energía y prensa (2026); sitios de fosfatados a definir por estudio; Provincia de Buenos Aires (acueducto del noroeste)",
    "items": [
     {
      "nombre": "Profertil, Bahía Blanca",
@@ -2939,6 +2940,46 @@
       -62.96,
       -36.75
      ]
+    },
+    {
+     "nombre": "Acueducto Región Noroeste (Buenos Aires)",
+     "detalle": "Del Paraná en San Nicolás a Guaminí, pasando por Salliqueló; daría el agua a la planta de fosfatados si se ubica allí, que ayudaría a financiarlo",
+     "tipo": "linea",
+     "estado": "paralizada",
+     "coords": [
+      [
+       -60.22,
+       -33.33
+      ],
+      [
+       -60.57,
+       -33.89
+      ],
+      [
+       -60.96,
+       -34.59
+      ],
+      [
+       -61.53,
+       -34.87
+      ],
+      [
+       -61.9,
+       -35.81
+      ],
+      [
+       -62.73,
+       -35.97
+      ],
+      [
+       -62.96,
+       -36.75
+      ],
+      [
+       -62.42,
+       -37.01
+      ]
+     ]
     }
    ]
   }
@@ -2956,7 +2997,7 @@
    "fecha": "julio 2025"
   },
   "que_ext": "Proponemos descongelar la infraestructura que ya está proyectada: la etapa siguiente del gasoducto troncal, diseñada y detenida, y un acueducto provincial con toma en el Paraná largamente postergado, que daría agua a la industria y a cientos de miles de habitantes. La política no es concebir obras nuevas, sino terminar las que ya existen en papel. En concreto: el Tramo II del Gasoducto Perito Moreno (Salliqueló–San Jerónimo), el Acueducto Gran Rosario, el Acueducto Biprovincial Santa Fe–Córdoba, el Segundo Acueducto del Chaco y las represas del río Santa Cruz.",
-  "que_comp": "Se releva la cartera de obras energéticas e hídricas con proyecto ejecutivo (diseño de obra completo), se prioriza por impacto productivo y social, y se reactiva con financiamiento plurianual asegurado antes de licitar. Las nuevas plantas industriales (fertilizantes, petroquímica) actúan como usuarios ancla —grandes clientes que aseguran la demanda— con contratos de largo plazo, lo que mejora la viabilidad financiera de cada obra y permite esquemas de participación privada (iniciativa privada, concesión de obra con tarifa regulada o participación público-privada) donde corresponda.\n\nParte de la ampliación del sistema troncal ya avanza por iniciativa privada: en 2026 se aprobó en el RIGI una ampliación de 14 millones de m³/día con nuevas plantas compresoras (Ministerio de Economía). La propuesta toma esos avances y completa lo que queda detenido, con prioridad a las obras que habilitan industria y agua potable a la vez.\n\nEn concreto, la lista de arranque es esta. Gas: el Tramo II del Gasoducto Perito Moreno, de unos 470 km entre Salliqueló (Buenos Aires) y San Jerónimo (Santa Fe), con la compra de caños licitada en 2023 y el diseño original suspendido en 2024; llevaría unos 20 millones de m³/día de gas de Vaca Muerta al polo industrial del Gran Rosario, con usuarios ancla como el proyecto de urea de Puerto General San Martín (propuesta 32). Se acompaña además la ampliación del Tramo I (Tratayén–Salliqueló) que TGS construye con nuevas plantas compresoras, prevista para el invierno de 2027, y se termina el tramo ya empezado del Gasoducto del Noreste Argentino en Formosa; los tramos hacia Salta se hacen según el estudio técnico de la propuesta 34. Agua: el Acueducto Gran Rosario, con toma en el Paraná en Granadero Baigorria, cuya segunda etapa espera desde hace décadas y daría agua a unos 560.000 habitantes de Rosario, Funes y Villa Gobernador Gálvez; Nación se comprometió en 2024 a hacerla y no avanzó, y en 2026 la provincia volvió a licitar la primera etapa: entra en la cartera con aporte nacional dentro del cupo de obras. También se asegura terminar el Acueducto Biprovincial Santa Fe–Córdoba (toma en Coronda, más de 400.000 habitantes en la primera etapa, 25 % de avance en el bloque A a octubre de 2026, con crédito de fondos árabes) y el Segundo Acueducto del Interior del Chaco (frenado en diciembre de 2024 con 82 % de avance y readjudicado en 2025). Energía eléctrica: las represas Cóndor Cliff y La Barrancosa sobre el río Santa Cruz, con 27 % de avance conjunto y en reactivación, se terminan con su financiamiento externo ya comprometido y prioridad a La Barrancosa (360 MW).",
+  "que_comp": "Se releva la cartera de obras energéticas e hídricas con proyecto ejecutivo (diseño de obra completo), se prioriza por impacto productivo y social, y se reactiva con financiamiento plurianual asegurado antes de licitar. Las nuevas plantas industriales (fertilizantes, petroquímica) actúan como usuarios ancla —grandes clientes que aseguran la demanda— con contratos de largo plazo, lo que mejora la viabilidad financiera de cada obra y permite esquemas de participación privada (iniciativa privada, concesión de obra con tarifa regulada o participación público-privada) donde corresponda.\n\nParte de la ampliación del sistema troncal ya avanza por iniciativa privada: en 2026 se aprobó en el RIGI una ampliación de 14 millones de m³/día con nuevas plantas compresoras (Ministerio de Economía). La propuesta toma esos avances y completa lo que queda detenido, con prioridad a las obras que habilitan industria y agua potable a la vez.\n\nEn concreto, la lista de arranque es esta. Gas: el Tramo II del Gasoducto Perito Moreno, de unos 470 km entre Salliqueló (Buenos Aires) y San Jerónimo (Santa Fe), con la compra de caños licitada en 2023 y el diseño original suspendido en 2024; llevaría unos 20 millones de m³/día de gas de Vaca Muerta al polo industrial del Gran Rosario, con usuarios ancla como el proyecto de urea de Puerto General San Martín (propuesta 32). Se acompaña además la ampliación del Tramo I (Tratayén–Salliqueló) que TGS construye con nuevas plantas compresoras, prevista para el invierno de 2027, y se termina el tramo ya empezado del Gasoducto del Noreste Argentino en Formosa; los tramos hacia Salta se hacen según el estudio técnico de la propuesta 34. Agua: el Acueducto Gran Rosario, con toma en el Paraná en Granadero Baigorria, cuya segunda etapa espera desde hace décadas y daría agua a unos 560.000 habitantes de Rosario, Funes y Villa Gobernador Gálvez; Nación se comprometió en 2024 a hacerla y no avanzó, y en 2026 la provincia volvió a licitar la primera etapa: entra en la cartera con aporte nacional dentro del cupo de obras. También se asegura terminar el Acueducto Biprovincial Santa Fe–Córdoba (toma en Coronda, más de 400.000 habitantes en la primera etapa, 25 % de avance en el bloque A a octubre de 2026, con crédito de fondos árabes) y el Segundo Acueducto del Interior del Chaco (frenado en diciembre de 2024 con 82 % de avance y readjudicado en 2025). Energía eléctrica: las represas Cóndor Cliff y La Barrancosa sobre el río Santa Cruz, con 27 % de avance conjunto y en reactivación, se terminan con su financiamiento externo ya comprometido y prioridad a La Barrancosa (360 MW). A la misma cartera de obras demoradas se suma el Acueducto Región Noroeste de la Provincia de Buenos Aires, proyectado desde 2014 y nunca empezado (propuesta 41).",
   "porque_ext": "La producción de gas alcanzó récords, pero sin caños no llega a las industrias ni a las casas. La obra pública fue llevada prácticamente a cero, y obras ya diseñadas y licitadas quedaron detenidas. Terminar lo que está proyectado es lo más rápido y barato.",
   "porque_comp": "La situación es simple: el activo está bajo tierra y el cuello de botella en la superficie. La reversión del déficit energético depende de infraestructura para transportar la producción (gasoductos, plantas, terminales), y la obra pública nacional se detuvo en el ajuste reciente. Al mismo tiempo, el estudio técnico de base mostró que la restricción de los proyectos industriales no es el gas sino el agua: un acueducto con toma en el Paraná resuelve ambas cosas, la industrial y la de consumo humano.\n\nUna obra detenida es doblemente cara: se pierde lo invertido por deterioro y se pierde el beneficio que hubiera generado. Reactivar con financiamiento asegurado y usuarios ancla es la forma más eficiente de recuperar inversión en infraestructura.",
   "grafico": null,
@@ -3193,6 +3234,46 @@
      "coords": [
       -70.9,
       -50.2
+     ]
+    },
+    {
+     "nombre": "Acueducto Región Noroeste (Buenos Aires)",
+     "detalle": "Proyectado desde 2014 y nunca empezado: del Paraná en San Nicolás a Guaminí, 23 partidos (propuesta 41)",
+     "tipo": "linea",
+     "estado": "paralizada",
+     "coords": [
+      [
+       -60.22,
+       -33.33
+      ],
+      [
+       -60.57,
+       -33.89
+      ],
+      [
+       -60.96,
+       -34.59
+      ],
+      [
+       -61.53,
+       -34.87
+      ],
+      [
+       -61.9,
+       -35.81
+      ],
+      [
+       -62.73,
+       -35.97
+      ],
+      [
+       -62.96,
+       -36.75
+      ],
+      [
+       -62.42,
+       -37.01
+      ]
      ]
     }
    ]
@@ -4317,35 +4398,42 @@
   "area": "IV",
   "titulo": "Obras contra inundaciones y sequías",
   "bandera": false,
-  "resumen": "Obras contra inundaciones y sequías, una Hidrovía que funcione con río alto o bajo, alertas tempranas y seguros para el campo.",
+  "resumen": "Obras contra inundaciones y sequías priorizadas por región y pagadas entre Nación, provincias, municipios y productores, una Hidrovía que funcione con río alto o bajo, alertas tempranas y seguros para el campo.",
   "dato": {
    "valor": "$258.000 M",
    "texto": "del Fondo Hídrico, creado para obras contra inundaciones, estaban invertidos en Letras del Tesoro en lugar de obras",
    "fuente": "Ministerio de Economía, respuesta al Congreso",
    "fecha": "6/4/2026"
   },
-  "que_ext": "Proponemos que la infraestructura se diseñe contra el riesgo climático que amenaza al motor de la economía: obras de manejo de inundaciones en zonas rurales y urbanas, previsión ante las bajantes y crecidas del Paraná y la Hidrovía, gestión del agua para el agro, sistemas de alerta temprana y seguros climáticos accesibles para los productores. Las primeras obras: los tramos IV (Roque Pérez–25 de Mayo) y V (Bragado–Junín) del río Salado y el acueducto San Javier–Tostado en los Bajos Submeridionales.",
-  "que_comp": "Las piezas son: una ley de gestión integral del riesgo hídrico con planes por cuenca y obras priorizadas por criterios públicos; el uso del Fondo Hídrico para lo que fue creado, con ejecución publicada en tiempo real y prohibición de colocarlo en instrumentos financieros mientras haya obras con proyecto; terminación de obras clave (como los tramos pendientes del río Salado); un sistema nacional de alerta temprana integrado (meteorología, hidrología, celulares) con niveles del agua que obligan a evacuar en cada ciudad; y seguros agropecuarios paramétricos (que pagan en forma automática según la lluvia o el nivel del agua medidos) y multirriesgo, con subsidio decreciente a la prima (el costo del seguro) para pequeños productores.\n\nPara la Hidrovía: dragado y mantenimiento sostenidos con control público estricto de la concesión adjudicada en 2026, y planes de contingencia para bajantes y crecidas. La adaptación climática deja de ser un tema ambiental separado y pasa a ser política de seguridad productiva.\n\nEn concreto: el Fondo Hídrico es el Fondo Fiduciario de Infraestructura Hídrica (Decreto 1381/2001, ratificado por la Ley 26.181), que recibe el 4,3 % de lo recaudado por el impuesto a los combustibles. La ley prohíbe colocarlo en Letras del Tesoro (en junio de 2026 tenía más de 290.000 millones de pesos en Letras) y obliga a publicar su ejecución obra por obra. La ley de riesgo hídrico se apoya en el Sistema Nacional para la Gestión Integral del Riesgo (Ley 27.287) y crea comités por cuenca. Las primeras obras son: el tramo IV del Plan Maestro del río Salado (unos 30 km entre la Ruta Nacional 205, en Roque Pérez, y Ernestina, en 25 de Mayo, frenado por falta de fondos nacionales), que es condición para el tramo V (95 km entre Bragado y Junín, ya licitado por la Provincia de Buenos Aires con crédito del Banco Europeo de Inversiones). Se suman las obras interprovinciales del Plan Director de los Bajos Submeridionales (Santa Fe, Chaco y Santiago del Estero), empezando por el acueducto San Javier–Tostado, paralizado con 5 % de avance. El sistema de alerta une al Servicio Meteorológico Nacional, al Instituto Nacional del Agua y a las provincias con el aviso a todos los celulares de una zona que ENACOM habilitó en 2025 (Resolución 960/2025). Los seguros se ordenan modificando la Ley 26.509 de emergencia agropecuaria, para que parte de su fondo subsidie primas y no sólo pague después del desastre. En la Hidrovía, la concesión de la Vía Navegable Troncal adjudicada en 2026 (25 años, desde el Río de la Plata hasta Timbúes) se controla con metas públicas de profundidad, peaje y contingencia.",
+  "que_ext": "Proponemos que la infraestructura se diseñe contra el riesgo climático que amenaza al motor de la economía: obras de manejo de inundaciones en zonas rurales y urbanas, previsión ante las bajantes y crecidas del Paraná y la Hidrovía, gestión del agua para el agro, sistemas de alerta temprana y seguros climáticos accesibles para los productores. Las obras se ordenan en una lista pública de regiones prioritarias y se pagan entre quienes se benefician: el Fondo Hídrico nacional, usado sólo en obras, las provincias, los municipios y los consorcios de productores, con crédito multilateral para las obras grandes. En concreto: las primeras obras son los tramos IV (Roque Pérez–25 de Mayo) y V (Bragado–Junín) del río Salado y el acueducto San Javier–Tostado en los Bajos Submeridionales. Les siguen las defensas del Litoral sobre el Paraná y el Uruguay, la cuenca de la laguna La Picasa y del río Quinto, y el canal Maldonado de Bahía Blanca.",
+  "que_comp": "Las piezas son: una ley de gestión integral del riesgo hídrico con planes por cuenca y obras priorizadas por criterios públicos; el uso del Fondo Hídrico para lo que fue creado, con ejecución publicada en tiempo real y prohibición de colocarlo en instrumentos financieros mientras haya obras con proyecto; terminación de obras clave (como los tramos pendientes del río Salado); un sistema nacional de alerta temprana integrado (meteorología, hidrología, celulares) con niveles del agua que obligan a evacuar en cada ciudad; y seguros agropecuarios paramétricos (que pagan en forma automática según la lluvia o el nivel del agua medidos) y multirriesgo, con subsidio decreciente a la prima (el costo del seguro) para pequeños productores.\n\nPara la Hidrovía: dragado y mantenimiento sostenidos con control público estricto de la concesión adjudicada en 2026, y planes de contingencia para bajantes y crecidas. La adaptación climática deja de ser un tema ambiental separado y pasa a ser política de seguridad productiva.\n\nPrioridades por región. Las obras se ordenan según la población protegida, la superficie productiva en riesgo y la frecuencia de los daños, no por cercanía política. Buenos Aires, cuenca del Salado y centro-noroeste: terminar los tramos IV y V y limpiar canales y caminos rurales, donde en agosto de 2025 las entidades rurales estimaron más de un millón de hectáreas bajo agua. Sur de Santa Fe, sur de Córdoba y noroeste bonaerense: ordenar la cuenca de la laguna La Picasa y del río Quinto, que recibe agua de tres provincias, con reglas de operación comunes, bombeo que funcione y canales mantenidos. Bahía Blanca: terminar la ampliación del canal Maldonado y estudiar la regulación de la cuenca alta del arroyo Napostá, después de la lluvia de cerca de 290 milímetros del 7 de marzo de 2025, que dejó al menos 16 muertos. Chaco, Corrientes y Santa Fe, sobre el Paraná: reforzar las defensas de Resistencia, Barranqueras y Puerto Vilelas, proteger las localidades costeras correntinas como Itatí y construir la defensa oeste de San José del Rincón y Arroyo Leyes, en el Gran Santa Fe. Entre Ríos y la costa correntina del Uruguay: reforzar defensas y relocalizar a las familias de las zonas bajas de Concordia, Colón y Paso de los Libres. Santa Fe, Chaco y Santiago del Estero: las obras de los Bajos Submeridionales. Área metropolitana de Buenos Aires: completar el ensanche del tramo medio del río Luján, incluida la etapa III en Mercedes, y los desagües de las cuencas del Reconquista y del Matanza-Riachuelo. Tucumán y el Noroeste: canales y desagües urbanos para las lluvias de verano, con obras cofinanciadas como las del sur de San Miguel de Tucumán. La respuesta durante la emergencia (evacuación, transporte, hospitales de campaña) corresponde a la propuesta 91; los acueductos y cloacas, a la propuesta 41; y las obras paradas de agua y energía, a la propuesta 33.\n\nCoordinación y pago compartido. Cada obra tiene un convenio entre la Nación, la provincia y, cuando corresponde, los municipios y los consorcios de productores, que fija quién paga, quién ejecuta y quién mantiene. La Nación paga con el Fondo Hídrico, usado entero en obras y mantenimiento, las obras troncales que cruzan provincias y una parte de las provinciales, elegidas por concurso con criterios públicos. Las provincias ponen una contrapartida y ejecutan; los municipios aportan las obras urbanas menores y las relocalizaciones; los consorcios de productores, como los que Córdoba organizó por cuenca, limpian y mantienen canales con fondos afectados y rendición pública. Las obras grandes se completan con crédito multilateral para obras, como el del Banco Europeo de Inversiones en el Salado o el de CAF (Banco de Desarrollo de America Latina) en el río Luján. Las cuencas compartidas se manejan en comités interjurisdiccionales, como el de la región hídrica del noroeste de la llanura pampeana, al que se suma Santa Fe.\n\nEn concreto: el Fondo Hídrico es el Fondo Fiduciario de Infraestructura Hídrica (Decreto 1381/2001, ratificado por la Ley 26.181), que recibe el 4,3 % de lo recaudado por el impuesto a los combustibles. La ley prohíbe colocarlo en Letras del Tesoro (en abril de 2026 tenía 258.000 millones de pesos en Letras) y obliga a publicar su ejecución obra por obra. La ley de riesgo hídrico se apoya en el Sistema Nacional para la Gestión Integral del Riesgo (Ley 27.287) y crea comités por cuenca. Las primeras obras son: el tramo IV del Plan Maestro del río Salado (unos 30 km entre la Ruta Nacional 205, en Roque Pérez, y Ernestina, en 25 de Mayo, frenado por falta de fondos nacionales), que es condición para el tramo V (95 km entre Bragado y Junín, ya licitado por la Provincia de Buenos Aires con crédito del Banco Europeo de Inversiones). Se suman las obras interprovinciales del Plan Director de los Bajos Submeridionales (Santa Fe, Chaco y Santiago del Estero), empezando por el acueducto San Javier–Tostado, paralizado con 5 % de avance. El sistema de alerta une al Servicio Meteorológico Nacional, al Instituto Nacional del Agua y a las provincias con el aviso a todos los celulares de una zona que ENACOM habilitó en 2025 (Resolución 960/2025). Los seguros se ordenan modificando la Ley 26.509 de emergencia agropecuaria, para que parte de su fondo subsidie primas y no sólo pague después del desastre. En la Hidrovía, la concesión de la Vía Navegable Troncal adjudicada en 2026 (25 años, desde el Río de la Plata hasta Timbúes) se controla con metas públicas de profundidad, peaje y contingencia. Reparto y metas. El Fondo Hídrico se divide por ley en tres cuentas: 60 % para obras troncales interjurisdiccionales, 25 % para cofinanciar obras provinciales y municipales por concurso y 15 % para mantenimiento de canales, bombeos y defensas. El proyecto de Presupuesto 2027 prevé que el fondo recaude 510.724 millones de pesos, gaste 393.971 millones en obras y coloque unos 113.130 millones en inversiones financieras; con la ley, esos 113.130 millones van a obras. La contrapartida provincial es de al menos 30 % del costo de cada obra cofinanciada (20 % en las provincias de menores recursos) y no se exige en las obras troncales. Los consorcios de productores reciben equipos y fondos de mantenimiento a cambio de rendir cuentas en público, según el modelo de la Ley 10.936 de Córdoba (consorcios de gestión integrada de cuencas). El Comité Interjurisdiccional de la Región Hídrica del Noroeste de la Llanura Pampeana (Buenos Aires, Córdoba, La Pampa, San Luis y la Nación), que abarca el río Quinto, las nacientes del Salado y La Picasa, suma a Santa Fe y aprueba las reglas de operación de la cuenca. Obras que se suman a la cartera: la ampliación del canal Maldonado de Bahía Blanca (6 km, 16 puentes nuevos y capacidad de 300 a 900 m³/s, con contrato de la primera etapa firmado por la Provincia en febrero de 2026), con aporte nacional; la defensa oeste de San José del Rincón y Arroyo Leyes (terraplén de 9,3 km y seis estaciones de bombeo, licitada dos veces y sin adjudicar); el sistema de La Picasa, cuya cuenca artificial abarca unas 550.000 hectáreas de Córdoba, Santa Fe y Buenos Aires; y la etapa III del ensanche del río Luján, en Mercedes. Metas: más del 95 % del Fondo Hídrico ejecutado en obras y mantenimiento cada año, sin saldos en Letras; acuerdo de operación de La Picasa firmado en el año 1; defensa oeste del Gran Santa Fe adjudicada en el año 2; tramo IV del Salado terminado al año 3 y tramo V con más de la mitad de avance al año 4; todos los canales troncales con plan anual de mantenimiento publicado desde el año 2; y mapas de riesgo con niveles de evacuación para todas las ciudades ribereñas de más de 20.000 habitantes al año 2.",
   "porque_ext": "Con un fenómeno de El Niño muy fuerte en curso, las crecidas ya obligan a evacuar familias en el Litoral y el NEA y no hay emergencia nacional declarada. Mientras tanto, el fondo creado para obras contra inundaciones tenía la mayor parte de su dinero en Letras del Tesoro. Casi ningún productor tiene seguro contra inundación.",
   "porque_comp": "Las sequías y las inundaciones le cuestan al país puntos enteros del PBI: la cosecha de granos cayó 35 % en 2022/23 por la sequía, y para el Niño 2026-27 se estiman, si se repite el evento de 1997-98, daños de USD 2.500 a 6.000 millones (estimación propia). El plan nacional de coordinación actual no tiene presupuesto, metas ni obras nuevas, y según una provincia sólo se ejecutó en obras el 36,7 % de lo asignado al Fondo Hídrico entre 2024 y 2026.\n\nLa Hidrovía, por donde sale el grueso de la producción agroindustrial, sufre con las bajantes (en 2021 cada buque perdía entre 6.000 y 10.000 toneladas de carga) y con las crecidas. Invertir en adaptación es más barato que pagar los daños.",
   "grafico": null,
   "cuando": "Fase I · año 1 (alertas, fondo, seguros); obras en Fase II",
   "instrumento": "Ley de gestión del riesgo hídrico y acuerdos por cuenca",
   "costo": "Medio; Fondo Hídrico existente y multilaterales",
-  "actores": "Obras Públicas, Agricultura, SMN, INA, provincias, aseguradoras, productores",
+  "actores": "Obras Públicas y Subsecretaría de Recursos Hídricos, Consejo Hídrico Federal, Agricultura, SMN, INA, provincias, municipios, comités de cuenca, consorcios de productores, Banco Europeo de Inversiones, CAF y BID, aseguradoras, productores",
   "pasos": [
    "Prohibir por ley colocar el Fondo Fiduciario de Infraestructura Hídrica en Letras y publicar su ejecución obra por obra.",
+   "Publicar en el año 1 la lista de regiones y obras prioritarias, con criterios de población protegida, superficie en riesgo y daño evitado, acordada con las provincias en el Consejo Hídrico Federal.",
+   "Dividir por ley el Fondo Hídrico en obras troncales (60 %), cofinanciamiento de obras provinciales y municipales por concurso (25 %) y mantenimiento de canales, bombeos y defensas (15 %).",
+   "Firmar un convenio por obra entre Nación, provincia, municipios y consorcios de productores que fije aportes, ejecutor y responsable del mantenimiento.",
    "Reactivar el tramo IV del Plan Maestro del río Salado y dar los avales nacionales para el tramo V (Bragado–Junín).",
    "Financiar las obras interprovinciales de los Bajos Submeridionales, empezando por el acueducto San Javier–Tostado.",
+   "Firmar con Córdoba, Santa Fe y Buenos Aires el acuerdo de operación de La Picasa y del río Quinto, con Santa Fe incorporada al comité interjurisdiccional del noroeste de la llanura pampeana.",
+   "Cofinanciar con la Provincia de Buenos Aires la ampliación del canal Maldonado de Bahía Blanca y el estudio de regulación de la cuenca alta del arroyo Napostá.",
+   "Financiar con Chaco, Corrientes, Santa Fe y Entre Ríos el refuerzo de las defensas costeras, empezando por el Gran Resistencia, la defensa oeste de Rincón y Arroyo Leyes, Itatí y Concordia.",
+   "Apoyar a los consorcios de productores con equipos y fondos para limpiar y mantener canales, con rendición de cuentas pública.",
    "Aprobar la ley de gestión del riesgo hídrico, sobre la Ley 27.287, con comités y planes por cuenca.",
    "Integrar SMN, INA y provincias en un sistema de alerta temprana con aviso a celulares y niveles de evacuación definidos para cada ciudad.",
    "Modificar la Ley 26.509 para lanzar seguros agropecuarios paramétricos (de pago automático según mediciones) con subsidio decreciente a la prima.",
    "Controlar la concesión de la Vía Navegable Troncal con metas públicas de profundidad y planes para bajantes y crecidas."
   ],
-  "plazos": "Fondo, alertas y seguros en el primer año; obras por cuenca durante la Fase II.",
-  "costo_detalle": "Se financia en primer lugar con el Fondo Hídrico existente (afectado por ley a obras hídricas), crédito multilateral para obras y el fondo de aranceles, dentro del cupo de obras de la cuenta fiscal (hasta 0,6 % del PIB adicional al año 4). El subsidio a primas de seguro agropecuario es decreciente y transitorio.",
-  "riesgos": "Que el fondo se vuelva a desviar: afectación estricta y publicación en tiempo real. Que las obras se elijan por política: priorización técnica por cuenca. Que los seguros no lleguen a los pequeños: subsidio focalizado y productos simples.",
-  "indicador": "Ejecución del Fondo Hídrico en obras (meta: más del 90 % de lo asignado); superficie protegida; productores asegurados; tiempo de alerta antes de cada evento.",
+  "plazos": "Fondo, lista de prioridades, convenios por obra, alertas y seguros en el primer año, junto con el acuerdo de La Picasa; defensas del Litoral adjudicadas en el año 2; tramo IV del Salado terminado al año 3; resto de las obras por cuenca durante las Fases II y III.",
+  "costo_detalle": "Se financia en primer lugar con el Fondo Hídrico existente, afectado por ley a obras hídricas y dividido en obras troncales (60 %), cofinanciamiento por concurso (25 %) y mantenimiento (15 %). El proyecto de Presupuesto 2027 le asigna 510.724 millones de pesos de recursos y prevé colocar unos 113.130 millones en inversiones financieras: ese monto pasa a obras. Se suman la contrapartida de las provincias (al menos 30 % de cada obra cofinanciada, 20 % en las de menores recursos), y los aportes de municipios y consorcios de productores al mantenimiento. El crédito multilateral para obras (Banco Europeo de Inversiones, CAF, BID) y el fondo de aranceles completan el resto, dentro del cupo de obras de la cuenta fiscal (hasta 0,6 % del PIB adicional al año 4), con un techo de 0,1 punto del PIB para obras hídricas. El subsidio a primas de seguro agropecuario es decreciente y transitorio.",
+  "riesgos": "Que el fondo se vuelva a desviar: afectación estricta y publicación en tiempo real. Que las obras se elijan por política: priorización técnica por cuenca. Que los seguros no lleguen a los pequeños: subsidio focalizado y productos simples. Que las provincias no pongan su parte: el cofinanciamiento se libera contra contrapartida depositada y avance certificado.",
+  "indicador": "Ejecución del Fondo Hídrico en obras y mantenimiento (meta: más del 95 % de lo recaudado, sin saldos en Letras); obras de la lista prioritaria con convenio firmado y avance publicado; superficie protegida; kilómetros de canales con mantenimiento anual; ciudades ribereñas con mapa de riesgo y niveles de evacuación; productores asegurados; tiempo de alerta antes de cada evento.",
   "blindaje": "Afectación por ley del Fondo Hídrico con ejecución pública, planes por cuenca acordados con las provincias y obras financiadas por multilaterales.",
   "fuentes": [
    "Secretaría de Agricultura, producción de granos 2022/23 (vía datosargentina)",
@@ -4354,11 +4442,29 @@
    "La Nación, licitación del tramo V del río Salado (5/1/2026)",
    "Radio Amanecer, Plan Director de los Bajos Submeridionales (26/6/2026)",
    "MundoMarítimo, adjudicación de la Vía Navegable Troncal, Resolución 36/2026 (19/6/2026)",
-   "ENACOM, Resolución 960/2025 (alertas a celulares)"
+   "ENACOM, Resolución 960/2025 (alertas a celulares)",
+   "Provincia de Buenos Aires, Ministerio de Infraestructura, licitación de la reconstrucción del canal Maldonado (7/11/2025)",
+   "Provincia de Buenos Aires, Ministerio de Infraestructura, firma del contrato para las obras del canal Maldonado (27/2/2026)",
+   "Chequeado, Temporal en Bahía Blanca: los factores que explican la magnitud del desastre (marzo de 2025)",
+   "Provincia de Buenos Aires, Recursos Hídricos, licitación de la operación de la estación de bombeo de La Picasa (3/9/2025)",
+   "Bolsa de Comercio de Rosario, la problemática hídrica de la laguna La Picasa (9/8/2019)",
+   "Hoy Día Córdoba, plan provincial de mantenimiento y readecuación de obras hídricas para 2026 (15/12/2025)",
+   "Bichos de Campo, Carbap estima más de un millón de hectáreas bajo agua en el centro y noroeste bonaerense (25/8/2025)",
+   "Bichos de Campo, el Fondo de Infraestructura Hídrica en el proyecto de Presupuesto 2027 (16/9/2026)",
+   "La Nación, polémica por el uso financiero del fondo para obras hídricas (4/5/2026)",
+   "Perfil, Resistencia amplía un lago compensador para reducir el riesgo de inundaciones (16/10/2026)",
+   "C5N, más de 400 evacuados en Corrientes por la crecida del Paraná y el Uruguay (17/10/2026)",
+   "Noticias NQN, inundaciones en el Litoral y emergencia hídrica en Entre Ríos (13/10/2026)",
+   "El Litoral, mantenimiento de las defensas del Gran Santa Fe (19/3/2024)",
+   "El Litoral, licitación de la defensa de Arroyo Leyes y Rincón (14/11/2023)",
+   "Provincia de Buenos Aires, Comité de Cuenca del Río Luján, obras en Luján y Mercedes (1/8/2025) y aniversario del comité (26/3/2026)",
+   "La Gaceta, ampliación de canales en el sur de San Miguel de Tucumán (28/6/2026)",
+   "Legislatura de Córdoba, Ley 10.936 de consorcios de gestión integrada de cuencas agropecuarias (2023)",
+   "Cámara de Diputados, proyecto 6868-D-2022 sobre el Comité Interjurisdiccional de la Región Hídrica del Noroeste de la Llanura Pampeana"
   ],
   "obras": {
    "titulo": "Dónde: obras contra inundaciones y sequías",
-   "fuente": "Provincia de Buenos Aires, La Nación, Radio Amanecer, MundoMarítimo (2026)",
+   "fuente": "Provincia de Buenos Aires, Gobierno de Córdoba, La Nación, El Litoral, Perfil, La Gaceta, Radio Amanecer, MundoMarítimo (2024-2026)",
    "items": [
     {
      "nombre": "Río Salado, tramo IV (Roque Pérez–Ernestina)",
@@ -4488,6 +4594,138 @@
        -56.9,
        -35.1
       ]
+     ]
+    },
+    {
+     "nombre": "Canal Maldonado (Bahía Blanca)",
+     "detalle": "Ampliación de 6 km con 16 puentes nuevos para pasar de 300 a 900 m³/s; contrato de la primera etapa firmado por la Provincia en febrero de 2026; aporte nacional propuesto",
+     "tipo": "punto",
+     "estado": "en_obra",
+     "coords": [
+      -62.29,
+      -38.715
+     ]
+    },
+    {
+     "nombre": "Laguna La Picasa (Santa Fe, Córdoba y Buenos Aires)",
+     "detalle": "Cuenca artificial de unas 550.000 ha; operación del bombeo licitada por Buenos Aires en 2025; falta un acuerdo de operación de las tres provincias",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -62.22,
+      -34.3
+     ]
+    },
+    {
+     "nombre": "Sistema del río Quinto (sur de Córdoba)",
+     "detalle": "Córdoba licitó $2.721 millones de mantenimiento para 2026 en el río Quinto y los canales hacia La Picasa; se coordina con Buenos Aires y Santa Fe",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -63.39,
+      -34.13
+     ]
+    },
+    {
+     "nombre": "Centro y noroeste bonaerense: canales y caminos rurales",
+     "detalle": "Más de un millón de hectáreas bajo agua en 2025 según Carbap (Bolívar, 25 de Mayo, Carlos Casares, Pehuajó, 9 de Julio, Lincoln); limpieza de canales con consorcios",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -61.2,
+      -35.6
+     ]
+    },
+    {
+     "nombre": "Defensa oeste San José del Rincón–Arroyo Leyes (Santa Fe)",
+     "detalle": "Terraplén de 9,3 km y seis estaciones de bombeo sobre la Ruta Provincial 1; licitada dos veces y sin adjudicar",
+     "tipo": "linea",
+     "estado": "propuesta",
+     "coords": [
+      [
+       -60.57,
+       -31.59
+      ],
+      [
+       -60.555,
+       -31.578
+      ],
+      [
+       -60.54,
+       -31.565
+      ],
+      [
+       -60.525,
+       -31.55
+      ]
+     ]
+    },
+    {
+     "nombre": "Defensas del Gran Resistencia (Chaco)",
+     "detalle": "Ampliación del lago compensador y refuerzo de defensas en Resistencia, Barranqueras y Puerto Vilelas",
+     "tipo": "punto",
+     "estado": "en_obra",
+     "coords": [
+      -58.95,
+      -27.48
+     ]
+    },
+    {
+     "nombre": "Costa correntina del Paraná (Itatí)",
+     "detalle": "Costa expuesta a crecidas recurrentes del Paraná; defensas y relocalización de familias de zonas bajas",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -58.245,
+      -27.27
+     ]
+    },
+    {
+     "nombre": "Costa del río Uruguay (Concordia)",
+     "detalle": "Crecidas recurrentes del río Uruguay; la evacuación empieza cuando el río supera los 12,5 m; refuerzo de defensas y relocalización",
+     "tipo": "punto",
+     "estado": "propuesta",
+     "coords": [
+      -58.02,
+      -31.39
+     ]
+    },
+    {
+     "nombre": "Río Luján, tramo medio (Pilar–Luján–Mercedes)",
+     "detalle": "Ensanche de 42 km en ejecución con crédito de CAF; falta la etapa III, en Mercedes",
+     "tipo": "linea",
+     "estado": "en_obra",
+     "coords": [
+      [
+       -59.43,
+       -34.65
+      ],
+      [
+       -59.25,
+       -34.6
+      ],
+      [
+       -59.11,
+       -34.565
+      ],
+      [
+       -59.02,
+       -34.5
+      ],
+      [
+       -58.92,
+       -34.42
+      ]
+     ]
+    },
+    {
+     "nombre": "Canales del sur de San Miguel de Tucumán",
+     "detalle": "Unos 3.000 m de canales con más de 30 % de avance a junio de 2026, pagados en partes iguales por el municipio y la provincia",
+     "tipo": "punto",
+     "estado": "en_obra",
+     "coords": [
+      -65.205,
+      -26.86
      ]
     }
    ]
@@ -4776,17 +5014,17 @@
   "area": "IV",
   "titulo": "Rutas y trenes de carga",
   "bandera": false,
-  "resumen": "Recuperar rutas y trenes de carga para abaratar el traslado de la producción a puertos y ciudades, con obras planificadas a largo plazo.",
+  "resumen": "Recuperar rutas, trenes de carga y caminos rurales para abaratar el traslado de la producción a puertos y ciudades, con obras planificadas a largo plazo y pagadas entre Nación, provincias, municipios y productores.",
   "dato": {
    "valor": "−94 %",
    "texto": "cayeron las transferencias nacionales para obras en las provincias: de 3,1 billones a 0,19 billones de pesos de hoy por año",
    "fuente": "Transferencias de capital a provincias (datos.gob.ar)",
    "fecha": "12 meses a agosto 2026 vs. 2023"
   },
-  "que_ext": "Proponemos un plan plurianual de infraestructura de transporte para producir: recuperar la red vial troncal, reactivar y extender el ferrocarril de carga, mejorar los accesos a puertos y los corredores hacia el Pacífico. Las obras se eligen por cuánto bajan el costo logístico y se financian con reglas que no dependan del gobierno de turno. Las primeras obras: la red de Belgrano Cargas con acceso abierto, el Tren Norpatagónico a Vaca Muerta y los accesos a los puertos del Gran Rosario (Circunvalación, ruta A012 y Timbúes).",
-  "que_comp": "El plan prioriza el ferrocarril de carga para granos, minerales, combustibles y contenedores (más barato y seguro que el camión en largas distancias), con acceso abierto a la red para distintos operadores; la recuperación y el mantenimiento de las rutas nacionales con contratos por resultados (estándar de calidad, no sólo obra); y los accesos a los puertos del Gran Rosario y de la Hidrovía, donde la congestión de camiones encarece cada cosecha.\n\nEl financiamiento combina el fondo de aranceles de transición, crédito multilateral para obras, concesiones y participación público-privada con tarifa regulada, y la contrapartida de las grandes inversiones (propuesta 21). Todo se licita y se sigue en el sistema de compras abiertas, con presupuesto plurianual aprobado por ley.\n\nEn concreto: en trenes, el programa toma la licitación en curso de Belgrano Cargas y Logística (líneas Belgrano, San Martín y Urquiza, 7.594 km en 16 provincias, con apertura de ofertas el 11 de noviembre de 2026) y asegura que el acceso abierto a otros operadores y las obras obligatorias de los primeros cinco años se cumplan y se publiquen: sacar el cuello de botella ferroviario de la ciudad de Santa Fe, recuperar el ramal azucarero del Belgrano, el corredor principal del San Martín (Mendoza–Buenos Aires) y el ramal troncal del Urquiza en la Mesopotamia. Se suma retomar el Tren Norpatagónico Bahía Blanca–Añelo (665 km, con 83 km nuevos entre Contraalmirante Cordero y Añelo), hoy suspendido, por asociación público-privada. En rutas, se mantienen las concesiones de la Red Federal de Concesiones (unos 9.000 km adjudicados) pero con contratos por resultados e indicadores públicos sobre el estado de las rutas, entre ellas la Ruta Nacional 34 (Rosario–Santiago del Estero), la Ruta Nacional 33 (Rosario–Rufino) y la Ruta Nacional 7 (Desaguadero–Puente del Inca, camino al Paso Cristo Redentor). En los puertos del Gran Rosario: la Circunvalación de Rosario (unos 30 km, concesionada), la ruta A012, cedida a Santa Fe en 2026 y con obras en marcha, y el nuevo acceso de camiones a Puerto Timbúes, con 90 % de avance.",
-  "porque_ext": "Los fondos nacionales para obras en las provincias cayeron 94 % desde 2023. Sin rutas mantenidas ni trenes de carga, mover la producción cuesta más, se rompen camiones, hay más accidentes y las regiones lejanas a los puertos quedan afuera.",
-  "porque_comp": "La red de transporte arrastra décadas de subinversión, y el ajuste reciente llevó la obra pública prácticamente a cero. El resultado es un sistema basado en el camión, caro para las distancias argentinas, con rutas deterioradas y puertos congestionados en cada pico de cosecha (en abril de 2026 hubo congestión de camiones en los accesos al Gran Rosario). El costo logístico pesa más sobre las economías regionales del norte, lejos de los puertos.\n\nUn superávit fiscal que destruye capital físico es un ahorro aparente: lo que no se mantiene hoy se paga más caro mañana. Por eso el programa reorienta el ajuste desde el recorte de la infraestructura hacia la inversión productiva, dentro de la regla de déficit cero.",
+  "que_ext": "Proponemos un plan plurianual de infraestructura de transporte para producir: recuperar la red vial troncal, reactivar y extender el ferrocarril de carga, mejorar los accesos a puertos y los corredores hacia el Pacífico. Las obras se eligen por cuánto bajan el costo logístico y se financian con reglas que no dependan del gobierno de turno. Las primeras obras: la red de Belgrano Cargas con acceso abierto, el Tren Norpatagónico a Vaca Muerta y los accesos a los puertos del Gran Rosario (Circunvalación, ruta A012 y Timbúes). También se terminan las rutas troncales con obras paradas o tramos críticos, empezando por los accesos a Vaca Muerta, y se ordena un programa de caminos rurales con gestión y pago compartidos entre productores, municipios, provincias y Nación. En concreto: Belgrano Cargas con acceso abierto, Tren Norpatagónico, accesos al Gran Rosario, rutas de Vaca Muerta, Rutas Nacionales 5, 7, 8, 19, 22, 23, 33, 40 y 151, y la mitad de la red rural de siete provincias agrícolas con mantenimiento regular medido al año 4.",
+  "que_comp": "El plan prioriza el ferrocarril de carga para granos, minerales, combustibles y contenedores (más barato y seguro que el camión en largas distancias), con acceso abierto a la red para distintos operadores; la recuperación y el mantenimiento de las rutas nacionales con contratos por resultados (estándar de calidad, no sólo obra); y los accesos a los puertos del Gran Rosario y de la Hidrovía, donde la congestión de camiones encarece cada cosecha.\n\nEl financiamiento combina el fondo de aranceles de transición, crédito multilateral para obras, concesiones y participación público-privada con tarifa regulada, y la contrapartida de las grandes inversiones (propuesta 21). Todo se licita y se sigue en el sistema de compras abiertas, con presupuesto plurianual aprobado por ley.\n\nAdemás de las concesiones, el plan fija una lista pública de rutas troncales a terminar o recuperar, elegidas por carga transportada, siniestralidad e integración regional. La Red Federal de Concesiones cubre unos 9.000 km de una red nacional de unos 40.000 km, y sus contratos de 2026 se limitan en general a mantenimiento, sin autovías nuevas. Quedan afuera autopistas a medio hacer y tramos críticos. Esas obras se pagan con el cupo de obras, crédito multilateral, peajes donde el tránsito alcanza y, donde hay grandes usuarios, con contrapartidas como las de la propuesta 21. En Vaca Muerta, Neuquén ya muestra un camino: las operadoras adelantan fondos a cuenta de regalías o pagan obras con un fideicomiso, y la provincia las controla y las recibe. La Nación se suma a ese esquema en vez de reemplazarlo.\n\nLos caminos rurales son el primer tramo de cada cosecha. La red terciaria, a cargo de los municipios, suma unos 400.000 km según la Asociación Argentina de Carreteras, casi toda de tierra, y las redes provinciales tienen 55 % de tierra (Consejo Vial Federal, 2023). Hay modelos que funcionan. En Córdoba, 286 consorcios camineros, entidades sin fines de lucro de los productores creadas por la Ley 6.233 de 1978, mantienen unos 57.000 km de caminos de tierra con fondos provinciales y maquinaria propia; además, el Consorcio Caminero Único (Ley 10.546) pavimenta y enripia con el impuesto inmobiliario rural. En Buenos Aires, comisiones viales como la de Benito Juárez manejan con los productores la tasa vial y parte del inmobiliario rural que la provincia gira a los municipios (Ley 13.010). Donde la tasa no se traduce en caminos, la justicia empezó a cuestionar su cobro (Daireaux, 2026). Entre Ríos aprobó en 2026 su propia ley de consorcios camineros.\n\nEl programa nacional no reemplaza a nadie: suma. En cada partido o departamento, un consorcio o comisión vial con productores, municipio y provincia presenta un plan de mantenimiento por kilómetro. El municipio afecta por ordenanza la tasa vial a ese plan y publica cuánto cobra y en qué lo gasta; la provincia aporta parte del inmobiliario rural, su vialidad y maquinaria; los productores aportan cuotas, trabajo y control. La Nación paga por resultados: un monto por kilómetro transitable todo el año, verificado por auditoría independiente, desde un fondo con techo anual. Se arma un registro público de maquinaria vial y una línea de crédito a largo plazo para renovar equipos. Se empieza por las provincias de mayor producción agrícola con más caminos de tierra: Buenos Aires (cuenca del Salado y oeste), Córdoba, Santa Fe, Entre Ríos y La Pampa, y en el norte Santiago del Estero y Chaco, donde la distancia a los puertos encarece más cada tonelada.\n\nEn concreto: en trenes, el programa toma la licitación en curso de Belgrano Cargas y Logística (líneas Belgrano, San Martín y Urquiza, 7.594 km en 16 provincias, con apertura de ofertas el 11 de noviembre de 2026) y asegura que el acceso abierto a otros operadores y las obras obligatorias de los primeros cinco años se cumplan y se publiquen: sacar el cuello de botella ferroviario de la ciudad de Santa Fe, recuperar el ramal azucarero del Belgrano, el corredor principal del San Martín (Mendoza–Buenos Aires) y el ramal troncal del Urquiza en la Mesopotamia. Se suma retomar el Tren Norpatagónico Bahía Blanca–Añelo (665 km, con 83 km nuevos entre Contraalmirante Cordero y Añelo), hoy suspendido, por asociación público-privada. En rutas, se mantienen las concesiones de la Red Federal de Concesiones (unos 9.000 km adjudicados) pero con contratos por resultados e indicadores públicos sobre el estado de las rutas, entre ellas la Ruta Nacional 34 (Rosario–Santiago del Estero), la Ruta Nacional 33 (Rosario–Rufino) y la Ruta Nacional 7 (Desaguadero–Puente del Inca, camino al Paso Cristo Redentor). En los puertos del Gran Rosario: la Circunvalación de Rosario (unos 30 km, concesionada), la ruta A012, cedida a Santa Fe en 2026 y con obras en marcha, y el nuevo acceso de camiones a Puerto Timbúes, con 90 % de avance. Rutas prioritarias fuera de esas concesiones, primero en Vaca Muerta: terminar el bypass de Añelo entre las Rutas Provinciales 7 y 17 (25 km, con crédito de la CAF y los primeros 5 km habilitados en mayo de 2026). También la circunvalación petrolera de 51 km por la Ruta Provincial 8 y el camino de la Tortuga, que pagan diez operadoras con un fideicomiso y cuyo plazo vence en octubre de 2027. Se suman los 158 km de las Rutas Provinciales 7, 8 y 51 del acuerdo de Neuquén con 15 operadoras, que adelantan hasta USD 177,6 millones a cuenta de regalías, sin interés; la Legislatura lo aprobó en octubre de 2026. Con la Ruta Provincial 6, Rincón de los Sauces queda unida a Neuquén por pavimento sin pasar por Añelo. La Nación acompaña a Río Negro, que desde agosto de 2026 administra por 20 años las Rutas Nacionales 22 y 151 sin fondos nacionales: reconstruir la 151 entre Barda del Medio y Catriel y terminar la autovía de la 22 en el Alto Valle, empezada hacia 2010. En el resto del país: reactivar la autopista de la Ruta Nacional 5 entre Mercedes y Suipacha, con crédito de la CAF y parada desde marzo de 2026, y seguir por etapas hacia Bragado y Santa Rosa; terminar la variante Chacabuco de la Ruta Nacional 7 (75 % de avance) y los unos 150 km que faltan de la autopista Luján–Junín. También: cumplir la orden de un juez federal de agosto de 2026 de reparar las Rutas Nacionales 7, 8 y 33 en el sur de Santa Fe, y rehabilitar la 33 entre Rufino y Bahía Blanca; acompañar a Córdoba en la autopista de la Ruta Nacional 19 hasta San Francisco (62,9 km, 25 % de avance en julio de 2026). Y pavimentar los ripios que quedan en troncales: los unos 80 km de la Ruta Nacional 40 entre Bardas Blancas y Ranquil Norte (Mendoza), salida de Mendoza hacia Vaca Muerta; los tramos frenados de la 40 en los Valles Calchaquíes (Salta); y la Ruta Nacional 23, Línea Sur de Río Negro, entre Ingeniero Jacobacci y Dina Huapi. En caminos rurales: un fondo nacional por resultados, armado con una parte de lo que el Fondo Fiduciario del Sistema de Infraestructura del Transporte ya recibe del impuesto a los combustibles (28,58 %), con techo anual. Paga solo donde hay consorcio o comisión vial con productores y tasa vial afectada y publicada. Metas: consorcios o comisiones viales en todos los partidos y departamentos agrícolas de las siete provincias prioritarias al año 2; al año 4, la mitad de su red rural con mantenimiento regular medido y 10.000 km mejorados con ripio, alteo y alcantarillas.",
+  "porque_ext": "Los fondos nacionales para obras en las provincias cayeron 94 % desde 2023. Sin rutas mantenidas ni trenes de carga, mover la producción cuesta más, se rompen camiones, hay más accidentes y las regiones lejanas a los puertos quedan afuera. Además, los caminos rurales de tierra, que son la mayor parte de la red, dejan la cosecha encerrada cada vez que llueve.",
+  "porque_comp": "La red de transporte arrastra décadas de subinversión, y el ajuste reciente llevó la obra pública prácticamente a cero. El resultado es un sistema basado en el camión, caro para las distancias argentinas, con rutas deterioradas y puertos congestionados en cada pico de cosecha (en abril de 2026 hubo congestión de camiones en los accesos al Gran Rosario). El costo logístico pesa más sobre las economías regionales del norte, lejos de los puertos.\n\nUn superávit fiscal que destruye capital físico es un ahorro aparente: lo que no se mantiene hoy se paga más caro mañana. Por eso el programa reorienta el ajuste desde el recorte de la infraestructura hacia la inversión productiva, dentro de la regla de déficit cero.\n\nEl problema empieza antes de la ruta. El 35 % de la producción agrícola está a más de 300 km de los grandes puertos (Bolsa de Comercio de Rosario, campaña 2024/25), y casi toda sale primero por caminos de tierra. En la cuenca del Salado y el sudeste bonaerense, el 79 % de los consultados califica los caminos rurales como malos o muy malos, el 75 % dice que no se transitan todo el año y el 68 % tuvo pérdidas por no poder sacar la producción (UADE, 2026). En las rutas troncales, el atraso ya llegó a la justicia: en agosto de 2026 un juez federal ordenó a Vialidad Nacional reparar de urgencia las Rutas Nacionales 7, 8 y 33 en el sur de Santa Fe por grietas, hundimientos y baches que ponen en riesgo la vida de quienes circulan.",
   "grafico": {
    "tipo": "barras",
    "titulo": "Transferencias de capital de la Nación a las provincias",
@@ -4846,19 +5084,26 @@
   "cuando": "Fase II · años 2-3 (mantenimiento vial desde la Fase I)",
   "instrumento": "Ley de presupuesto plurianual de infraestructura y concesiones",
   "costo": "Alto; aranceles, multilaterales y capital privado",
-  "actores": "Transporte, Vialidad Nacional, Trenes Argentinos, provincias, operadores privados, puertos",
+  "actores": "Transporte, Vialidad Nacional, Trenes Argentinos, provincias, operadores privados, puertos, vialidades provinciales, municipios, consorcios camineros y comisiones viales, entidades de productores, operadoras de Vaca Muerta, Consejo Vial Federal y organismos multilaterales (CAF, BID, Banco Mundial)",
   "pasos": [
    "Aprobar un plan plurianual de transporte con criterios públicos de prioridad.",
    "Hacer cumplir en la concesión de Belgrano Cargas el acceso abierto y las obras de los primeros cinco años: paso por Santa Fe, ramal azucarero, corredor del San Martín y troncal del Urquiza.",
    "Retomar el Tren Norpatagónico Bahía Blanca–Añelo por asociación público-privada.",
    "Controlar por resultados las concesiones viales (Rutas 7, 33 y 34 y el resto de la Red Federal de Concesiones) con indicadores públicos sobre el estado de las rutas.",
    "Terminar con Santa Fe los accesos a los puertos del Gran Rosario: Circunvalación, ruta A012 y acceso a Timbúes.",
-   "Financiar con aranceles, multilaterales y participación privada, publicando cada obra."
+   "Publicar en el primer año la lista de rutas troncales prioritarias, con estado, costo y criterio de elección (carga, siniestralidad e integración regional).",
+   "Vaca Muerta: acompañar a Neuquén para terminar el bypass de Añelo, la circunvalación petrolera y las Rutas Provinciales 7, 8 y 51 del acuerdo con las operadoras, y a Río Negro para reconstruir la Ruta Nacional 151 y terminar la autovía de la 22, con peajes y contrapartidas de la propuesta 21.",
+   "Reactivar en la Fase I las autopistas paradas que ya tienen crédito o gran avance: Ruta Nacional 5 Mercedes–Suipacha (CAF) y variante Chacabuco de la Ruta Nacional 7; licitar por etapas el resto de la autopista Luján–Junín y la continuidad de la 5.",
+   "Cumplir la orden judicial de reparar las Rutas Nacionales 7, 8 y 33 en el sur de Santa Fe y rehabilitar la 33 hasta Bahía Blanca.",
+   "Acompañar a Córdoba en la autopista de la Ruta Nacional 19 y pavimentar los ripios de las Rutas Nacionales 40 (Malargüe y Valles Calchaquíes) y 23 (Línea Sur).",
+   "Caminos rurales: firmar convenios con Buenos Aires, Córdoba, Santa Fe, Entre Ríos, La Pampa, Santiago del Estero y Chaco, con consorcios o comisiones viales con productores, tasa vial afectada y publicada, aporte provincial y pago nacional por kilómetro transitable verificado.",
+   "Crear un registro público de maquinaria vial y una línea de crédito a largo plazo para que consorcios y municipios renueven equipos.",
+   "Financiar con aranceles, multilaterales, peajes, contrapartidas, aportes provinciales y participación privada, publicando cada obra y cada kilómetro de camino rural en el sistema de compras abiertas."
   ],
-  "plazos": "Mantenimiento vial urgente en la Fase I; obras ferroviarias y de accesos portuarios en las Fases II y III.",
-  "costo_detalle": "Se financia sin déficit primario: fondo de aranceles, deuda solo para obras, concesiones con tarifa regulada y contrapartida de grandes inversiones, dentro del cupo de obras de la cuenta fiscal (hasta 0,6 % del PIB adicional al año 4).",
+  "plazos": "Mantenimiento vial urgente, cumplimiento de la orden judicial en el sur de Santa Fe, reactivación de las autopistas con crédito ya otorgado y convenios de caminos rurales en la Fase I; obras ferroviarias, accesos portuarios, autopistas y pavimentos de ripio en las Fases II y III; meta de caminos rurales medida al año 4.",
+  "costo_detalle": "Se financia sin déficit primario: fondo de aranceles, deuda solo para obras, concesiones con tarifa regulada y contrapartida de grandes inversiones, dentro del cupo de obras de la cuenta fiscal (hasta 0,6 % del PIB adicional al año 4). Las rutas prioritarias entran en ese mismo cupo, con crédito multilateral (la autopista de la Ruta Nacional 5 ya tiene crédito de la CAF), peajes donde el tránsito alcanza y contrapartidas de grandes inversiones (propuesta 21). En Vaca Muerta, las operadoras ya adelantan hasta USD 177,6 millones a cuenta de regalías y pagan con un fideicomiso la circunvalación de Añelo, que recuperan con peaje. Las provincias que administran rutas nacionales, como Río Negro, aportan gestión y financiamiento propio. Los caminos rurales se pagan entre cuatro: tasa vial municipal afectada, parte del inmobiliario rural provincial, cuotas y trabajo de los productores, y un fondo nacional por resultados con techo anual, armado con una parte de lo que el Fondo Fiduciario del Sistema de Infraestructura del Transporte ya recibe del impuesto a los combustibles; no es gasto nuevo, es reasignación.",
   "riesgos": "Sobreprecios y obras inconclusas: compras abiertas, contratos por resultados y financiamiento asegurado antes de licitar. Concesiones mal diseñadas: tarifas reguladas y acceso abierto.",
-  "indicador": "Kilómetros de rutas en buen estado y toneladas transportadas por ferrocarril (meta: duplicar la participación del tren en la carga en dos mandatos); costo logístico por tonelada a puerto.",
+  "indicador": "Kilómetros de rutas en buen estado y toneladas transportadas por ferrocarril (meta: duplicar la participación del tren en la carga en dos mandatos); costo logístico por tonelada a puerto; kilómetros de rutas prioritarias terminados por año y siniestros en esas rutas; kilómetros de caminos rurales transitables todo el año en las siete provincias prioritarias (meta al año 4: la mitad de su red rural con mantenimiento regular medido y 10.000 km mejorados).",
   "blindaje": "Presupuesto plurianual por ley, contratos de largo plazo con financiadores y operadores, y publicación de cada obra en tiempo real.",
   "fuentes": [
    "datos.gob.ar, transferencias de capital a provincias (vía datosargentina)",
@@ -4867,11 +5112,40 @@
    "La Capital, concesión del tramo Portuario Norte (11/5/2026)",
    "LM Neuquén, Tren Norpatagónico (17/7/2026)",
    "ArgenPorts, acceso a Puerto Timbúes (20/5/2026)",
-   "OA Web, cesión de la ruta A012 a Santa Fe (21/7/2026)"
+   "OA Web, cesión de la ruta A012 a Santa Fe (21/7/2026)",
+   "NoticiasNQN, la Legislatura aprobó el prefinanciamiento de rutas de Vaca Muerta (7/10/2026)",
+   "Letra P, el plan para que las petroleras financien 158 kilómetros de rutas en Vaca Muerta (8/10/2026)",
+   "NoticiasNQN, Koenig defendió el acuerdo con 15 petroleras para financiar rutas hacia Añelo y Rincón (30/9/2026)",
+   "EconoJournal, petroleras y nuevo paquete de rutas en Neuquén (22/7/2026)",
+   "NoticiasNQN, habilitaron el primer tramo del bypass de Añelo (25/5/2026)",
+   "LM Neuquén, se adjudicó a Losi y Rovella la circunvalación de Añelo (9/4/2026)",
+   "El Economista, así será el anillo vial de Vaca Muerta (23/5/2025)",
+   "El Cronista, Río Negro se hace cargo de las Rutas Nacionales 22 y 151 (24/8/2026)",
+   "Diario Río Negro, la involución de la Ruta 22 (4/6/2023)",
+   "Letra P, Ruta 5: el concesionario y las obras paradas de la autopista Mercedes–Suipacha (2/8/2026)",
+   "Bichos de Campo, Vialidad Nacional decidió no terminar las obras pendientes en la Ruta 7 (2/7/2025)",
+   "Contexto Tucumán, la justicia federal ordenó reparar las Rutas Nacionales 7, 8 y 33 (10/8/2026)",
+   "Contexto Tucumán, la Ruta 9 se concesiona con peajes y bacheo pero sin obras nuevas (22/8/2026)",
+   "BAE Negocios, licitación de la Etapa III de la Red Federal de Concesiones (23/2/2026)",
+   "iProfesional, la autopista de la Ruta 19 ya está lista en un 25 % (26/7/2026)",
+   "La Nación, Ruta 40 en Vaca Muerta: 80 kilómetros de ripio (28/2/2023)",
+   "NoticiasNQN, Mendoza y Neuquén acordaron avanzar en la finalización de la Ruta 40 (22/2/2026)",
+   "La Política Online, Salta negocia completar dos trayectos de la Ruta 40 en los Valles Calchaquíes (12/2/2025)",
+   "Vialidad Nacional, trabajos en la Ruta Nacional 23 en Río Negro (29/10/2025)",
+   "Chequeado, cuántas rutas están asfaltadas, con datos del Consejo Vial Federal de junio de 2023 (2023)",
+   "Bichos de Campo, Córdoba entrega subsidios a sus 286 consorcios camineros (1/4/2025)",
+   "Infonegocios, Córdoba y el modelo de consorcios camineros, Ley 6.233 (3/3/2021)",
+   "Bichos de Campo, balance del Consorcio Caminero Único de Córdoba (2025)",
+   "Gobierno de Entre Ríos, la Ley de Consorcios Camineros (7/9/2026)",
+   "Bichos de Campo, la Comisión Vial Rural de Benito Juárez (8/3/2022)",
+   "iProfesional, fallo que frena la tasa vial en municipios bonaerenses (31/3/2026)",
+   "UADE (INTEC), Evaluación y mejora de la infraestructura rural vial en el sudeste y la cuenca del Salado (2026)",
+   "Bolsa de Comercio de Rosario, el 65 % de la producción agrícola está a menos de 300 km de los puertos (24/7/2026)",
+   "Cámara de Diputados, proyecto 3519-D-2025 sobre la distribución del impuesto a los combustibles (Ley 23.966, art. 19) (2025)"
   ],
   "obras": {
-   "titulo": "Dónde: trenes de carga, rutas y accesos a puertos",
-   "fuente": "Ministerio de Economía (licitación Belgrano Cargas y Red Federal de Concesiones), ArgenPorts, LM Neuquén, La Capital (2026)",
+   "titulo": "Dónde: trenes de carga, rutas, accesos a puertos y acueducto",
+   "fuente": "Ministerio de Economía (licitación Belgrano Cargas y Red Federal de Concesiones), ArgenPorts, LM Neuquén, La Capital (2026); Gobierno de Neuquén y Legislatura de Neuquén (acuerdo con operadoras, 2026), Vialidad Nacional, El Cronista, Letra P, Bichos de Campo, iProfesional, La Nación (2023-2026); acueducto: propuesta 41",
    "items": [
     {
      "nombre": "Línea Belgrano (Salta–Santa Fe–Rosario)",
@@ -5185,6 +5459,550 @@
      "coords": [
       -60.76,
       -32.67
+     ]
+    },
+    {
+     "nombre": "Bypass de Añelo (Rutas Provinciales 7 y 17)",
+     "detalle": "25 km de doble vía de hormigón para sacar los camiones del pueblo; primeros 5 km habilitados en mayo de 2026; crédito de la CAF",
+     "tipo": "linea",
+     "estado": "en_obra",
+     "coords": [
+      [
+       -68.845,
+       -38.37
+      ],
+      [
+       -68.82,
+       -38.335
+      ],
+      [
+       -68.785,
+       -38.32
+      ],
+      [
+       -68.75,
+       -38.325
+      ],
+      [
+       -68.725,
+       -38.345
+      ]
+     ]
+    },
+    {
+     "nombre": "Circunvalación petrolera (Ruta Provincial 8 y camino de la Tortuga)",
+     "detalle": "51 km pagados por diez operadoras con un fideicomiso y peaje por 15 años; adjudicada en abril de 2026, fin previsto en octubre de 2027",
+     "tipo": "linea",
+     "estado": "en_obra",
+     "coords": [
+      [
+       -68.3,
+       -38.62
+      ],
+      [
+       -68.29,
+       -38.5
+      ],
+      [
+       -68.33,
+       -38.37
+      ],
+      [
+       -68.47,
+       -38.28
+      ],
+      [
+       -68.63,
+       -38.24
+      ],
+      [
+       -68.76,
+       -38.26
+      ]
+     ]
+    },
+    {
+     "nombre": "Rutas Provinciales 8 y 6: Neuquén–Rincón de los Sauces",
+     "detalle": "Pavimento nuevo de la RP 8 hasta el camino de la Tortuga con el acuerdo de 15 operadoras (aprobado en octubre de 2026); la RP 6 hasta Rincón, con fondos provinciales",
+     "tipo": "linea",
+     "estado": "propuesta",
+     "coords": [
+      [
+       -68.33,
+       -38.37
+      ],
+      [
+       -68.25,
+       -38.17
+      ],
+      [
+       -68.12,
+       -37.97
+      ],
+      [
+       -68.4,
+       -37.7
+      ],
+      [
+       -68.7,
+       -37.5
+      ],
+      [
+       -68.93,
+       -37.39
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Provincial 51 (Mari Menuco, Neuquén)",
+     "detalle": "Pavimento y repavimento entre las RP 8 y 17, dentro del acuerdo de 158 km con las operadoras",
+     "tipo": "linea",
+     "estado": "propuesta",
+     "coords": [
+      [
+       -68.1,
+       -38.9
+      ],
+      [
+       -68.3,
+       -38.75
+      ],
+      [
+       -68.5,
+       -38.62
+      ],
+      [
+       -68.7,
+       -38.52
+      ],
+      [
+       -68.85,
+       -38.45
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Provincial 7 (límite con Río Negro–Ruta 8)",
+     "detalle": "Repavimentación del acceso principal a Añelo, dentro del acuerdo con las operadoras",
+     "tipo": "linea",
+     "estado": "propuesta",
+     "coords": [
+      [
+       -68.08,
+       -38.92
+      ],
+      [
+       -68.13,
+       -38.83
+      ],
+      [
+       -68.21,
+       -38.73
+      ],
+      [
+       -68.3,
+       -38.63
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Nacional 22: autovía del Alto Valle (Chichinales–Cipolletti)",
+     "detalle": "Ampliación empezada hacia 2010 e inconclusa; desde agosto de 2026 la administra Río Negro por 20 años, sin fondos nacionales",
+     "tipo": "linea",
+     "estado": "paralizada",
+     "coords": [
+      [
+       -66.94,
+       -39.11
+      ],
+      [
+       -67.08,
+       -39.1
+      ],
+      [
+       -67.39,
+       -39.05
+      ],
+      [
+       -67.58,
+       -39.03
+      ],
+      [
+       -67.83,
+       -38.98
+      ],
+      [
+       -67.99,
+       -38.94
+      ],
+      [
+       -68.06,
+       -38.95
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Nacional 151 (Cipolletti–Catriel)",
+     "detalle": "Corredor de camiones de Vaca Muerta muy deteriorado; Río Negro la administra desde 2026 y prioriza reconstruir Barda del Medio–Catriel",
+     "tipo": "linea",
+     "estado": "existente",
+     "coords": [
+      [
+       -67.99,
+       -38.94
+      ],
+      [
+       -68.06,
+       -38.82
+      ],
+      [
+       -68.16,
+       -38.72
+      ],
+      [
+       -68.05,
+       -38.4
+      ],
+      [
+       -67.9,
+       -38.1
+      ],
+      [
+       -67.79,
+       -37.88
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Nacional 5: Mercedes–Bragado–Santa Rosa",
+     "detalle": "Autopista Mercedes–Suipacha con crédito de la CAF, parada desde marzo de 2026; la concesión de 546 km hasta Santa Rosa no incluye obras nuevas",
+     "tipo": "linea",
+     "estado": "paralizada",
+     "coords": [
+      [
+       -59.43,
+       -34.65
+      ],
+      [
+       -60.02,
+       -34.9
+      ],
+      [
+       -60.49,
+       -35.12
+      ],
+      [
+       -60.88,
+       -35.44
+      ],
+      [
+       -61.9,
+       -35.81
+      ],
+      [
+       -62.73,
+       -35.97
+      ],
+      [
+       -63.42,
+       -36.41
+      ],
+      [
+       -64.29,
+       -36.62
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Nacional 7: autopista Luján–Junín",
+     "detalle": "Unos 150 km sin construir; variante Chacabuco con 75 % de avance y tramo Chacabuco–Carmen de Areco con 10 %, parados",
+     "tipo": "linea",
+     "estado": "paralizada",
+     "coords": [
+      [
+       -59.1,
+       -34.57
+      ],
+      [
+       -59.44,
+       -34.45
+      ],
+      [
+       -59.82,
+       -34.38
+      ],
+      [
+       -60.2,
+       -34.55
+      ],
+      [
+       -60.47,
+       -34.64
+      ],
+      [
+       -60.95,
+       -34.59
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Nacional 8: Pergamino–Venado Tuerto–Río Cuarto",
+     "detalle": "Un juez federal ordenó en agosto de 2026 repararla en el sur de Santa Fe; reparación integral por resultados",
+     "tipo": "linea",
+     "estado": "existente",
+     "coords": [
+      [
+       -60.57,
+       -33.89
+      ],
+      [
+       -61.1,
+       -33.9
+      ],
+      [
+       -61.97,
+       -33.75
+      ],
+      [
+       -62.4,
+       -33.64
+      ],
+      [
+       -62.89,
+       -33.56
+      ],
+      [
+       -63.3,
+       -33.42
+      ],
+      [
+       -64.35,
+       -33.12
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Nacional 33: Rufino–Trenque Lauquen–Bahía Blanca",
+     "detalle": "Une los puertos de Rosario y Bahía Blanca; pavimento deteriorado y orden judicial de reparación en el sur de Santa Fe (2026)",
+     "tipo": "linea",
+     "estado": "existente",
+     "coords": [
+      [
+       -62.71,
+       -34.27
+      ],
+      [
+       -63.01,
+       -35.03
+      ],
+      [
+       -62.97,
+       -35.49
+      ],
+      [
+       -62.73,
+       -35.97
+      ],
+      [
+       -62.41,
+       -37.61
+      ],
+      [
+       -62.22,
+       -38.1
+      ],
+      [
+       -62.27,
+       -38.72
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Nacional 19: autopista Córdoba–San Francisco",
+     "detalle": "62,9 km que Córdoba termina con fondos propios tras el abandono nacional; 25 % de avance en julio de 2026",
+     "tipo": "linea",
+     "estado": "en_obra",
+     "coords": [
+      [
+       -64.18,
+       -31.42
+      ],
+      [
+       -63.62,
+       -31.33
+      ],
+      [
+       -63.42,
+       -31.39
+      ],
+      [
+       -63.05,
+       -31.42
+      ],
+      [
+       -62.65,
+       -31.42
+      ],
+      [
+       -62.31,
+       -31.4
+      ],
+      [
+       -62.08,
+       -31.43
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Nacional 40: Bardas Blancas–Ranquil Norte (Mendoza)",
+     "detalle": "Unos 80 km de ripio; obra parada desde la quiebra de la contratista en 2018; Mendoza y Neuquén acordaron destrabarla en 2026",
+     "tipo": "linea",
+     "estado": "paralizada",
+     "coords": [
+      [
+       -69.8,
+       -35.87
+      ],
+      [
+       -69.72,
+       -36.1
+      ],
+      [
+       -69.68,
+       -36.32
+      ],
+      [
+       -69.78,
+       -36.52
+      ],
+      [
+       -69.83,
+       -36.66
+      ],
+      [
+       -69.89,
+       -36.82
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Nacional 40: Valles Calchaquíes (Salta)",
+     "detalle": "Tramos Molinos–Seclantás (80 % de avance) y Payogasta–Palermo (20 %), frenados por falta de fondos nacionales",
+     "tipo": "linea",
+     "estado": "paralizada",
+     "coords": [
+      [
+       -65.97,
+       -26.07
+      ],
+      [
+       -65.93,
+       -25.89
+      ],
+      [
+       -66.16,
+       -25.69
+      ],
+      [
+       -66.31,
+       -25.44
+      ],
+      [
+       -66.25,
+       -25.33
+      ],
+      [
+       -66.16,
+       -25.12
+      ],
+      [
+       -66.1,
+       -25.05
+      ],
+      [
+       -66.07,
+       -24.98
+      ]
+     ]
+    },
+    {
+     "nombre": "Ruta Nacional 23: Línea Sur (Río Negro)",
+     "detalle": "Pavimento empezado en 1986; quedan tramos de ripio entre Ingeniero Jacobacci y Dina Huapi",
+     "tipo": "linea",
+     "estado": "paralizada",
+     "coords": [
+      [
+       -66.16,
+       -40.68
+      ],
+      [
+       -67.27,
+       -40.51
+      ],
+      [
+       -68.08,
+       -40.84
+      ],
+      [
+       -68.73,
+       -41.25
+      ],
+      [
+       -69.55,
+       -41.33
+      ],
+      [
+       -70.27,
+       -41.03
+      ],
+      [
+       -70.72,
+       -41.12
+      ],
+      [
+       -71.16,
+       -41.07
+      ]
+     ]
+    },
+    {
+     "nombre": "Acueducto Región Noroeste (Buenos Aires)",
+     "detalle": "Del Paraná en San Nicolás a Guaminí, unos 1.200 km y 23 partidos; proyectado desde 2014, sin construir. Detalle en la propuesta 41.",
+     "tipo": "linea",
+     "estado": "paralizada",
+     "coords": [
+      [
+       -60.22,
+       -33.33
+      ],
+      [
+       -60.57,
+       -33.89
+      ],
+      [
+       -60.96,
+       -34.59
+      ],
+      [
+       -61.53,
+       -34.87
+      ],
+      [
+       -61.9,
+       -35.81
+      ],
+      [
+       -62.73,
+       -35.97
+      ],
+      [
+       -62.96,
+       -36.75
+      ],
+      [
+       -62.42,
+       -37.01
+      ]
      ]
     }
    ]
@@ -6628,22 +7446,22 @@
   "area": "VI",
   "titulo": "Empleo público por concurso y por mérito",
   "bandera": false,
-  "resumen": "Un Estado más chico pero mejor: ingreso por concurso, carrera por mérito y equipos técnicos que no cambian con cada gobierno. Y nadie entra al Estado por ser pariente de quien manda.",
+  "resumen": "Un Estado más chico pero mejor, donde se entra por concurso y se progresa por mérito: sin parientes de quien manda, sin contratos precarios para tareas permanentes y con legislaturas y plantas provinciales más austeras.",
   "dato": {
    "valor": "3,74 millones",
    "texto": "de puestos asalariados en el sector público (nación, provincias y municipios)",
    "fuente": "INDEC, Cuenta de generación del ingreso",
    "fecha": "1er trimestre 2026"
   },
-  "que_ext": "Proponemos profesionalizar el Estado: ingreso por concurso público, carrera por mérito, evaluación de desempeño y continuidad de los cuadros técnicos a través de los cambios de gobierno. Donde sobra personal, la reducción se acompaña con capacitación y reinserción en el sector privado. Y una ley contra el nepotismo: ningún funcionario puede nombrar ni hacer nombrar a su familia, tampoco en los cargos políticos. En concreto: reforma de la Ley 25.164 para que nadie entre al Estado sin concurso y para que el 90 % de los cargos de dirección se concursen al fin de la Fase III, y una ley que reemplaza el Decreto 93/2018 y prohíbe designar parientes en los tres poderes.",
-  "que_comp": "Se reforma el régimen de empleo público para que todo ingreso a la planta sea por concurso abierto y publicado, con jurados técnicos. La carrera se organiza por niveles con evaluación anual y capacitación obligatoria; los cargos de conducción técnica (directores y coordinadores) se cubren por concurso y con mandatos que no coinciden con el ciclo político.\n\nLa reducción de planta, donde corresponda, aplica al propio Estado las herramientas de transición laboral del área de trabajo: retiros voluntarios, capacitación y reinserción en el sector privado (propuestas 51 y 53). Se publica en tiempo real la cantidad de personal de cada organismo y sus designaciones, transitorias incluidas.\n\nContra el nepotismo, una ley —no un decreto que el gobierno siguiente cambia en un día— prohíbe designar o contratar, bajo cualquier modalidad, a cónyuges, convivientes y parientes hasta el segundo grado del presidente, el vicepresidente, el jefe de Gabinete, los ministros, los secretarios de Estado y las máximas autoridades de cada organismo, en todo el sector público nacional; y a los parientes hasta el cuarto grado de quien designa, dentro de su mismo organismo. La regla alcanza también a los cargos políticos que nombra el Presidente. Nadie puede tener como jefe directo a un familiar. Se prohíben los nombramientos cruzados, en los que un funcionario designa al pariente de otro a cambio de lo mismo, y cada funcionario declara sus vínculos familiares en su declaración jurada, para que se puedan cruzar con las designaciones. Solo quedan exceptuados quienes ya trabajaban en el Estado antes de que asumiera su pariente o entraron por concurso. El Congreso aplica la misma regla a su personal, y se invita a la Corte Suprema a adoptarla por acordada (resolución general de la Corte) para el Poder Judicial y a las provincias a adherir.\n\nEn concreto: se reforma la Ley 25.164 Marco de Regulación de Empleo Público Nacional para que todo ingreso a planta permanente o transitoria sea por concurso abierto, publicado y con jurado que incluya miembros externos al organismo. La carrera del Sistema Nacional de Empleo Público (SINEP, Convenio Colectivo Sectorial homologado por el Decreto 2098/2008) se ordena por niveles, con evaluación anual y capacitación obligatoria a cargo del Instituto Nacional de la Administración Pública (INAP). Los cargos con función ejecutiva (direcciones nacionales, direcciones y coordinaciones) se cubren por concurso, con mandato de 5 años que no coincide con el ciclo presidencial. La regla de hoy, el Decreto 934/2025, que solo permite un alta por cada dos bajas y la valida la Subsecretaría de Modernización y Desarrollo del Empleo Público, se reemplaza por una regla permanente: ningún alta sin concurso. La reducción de planta, donde corresponda, usa el régimen de disponibilidad de la Ley 25.164 reformado por la Ley 27.742, con capacitación y reinserción. Los cambios que toquen el Convenio Colectivo General (Decreto 214/2006) se negocian en paritaria con los gremios estatales. La regla contra el nepotismo hoy es un decreto, el 93/2018, que el Decreto 12/2023 limitó al dejar afuera los nombramientos que el Presidente hace por sus facultades constitucionales; la nueva ley la reemplaza, la extiende a los cargos políticos y suma el registro de vínculos en las declaraciones juradas de la Ley 25.188 de Ética Pública. Metas: el 100 % de los ingresos por concurso desde que rige la ley; las designaciones transitorias vencidas, concursadas o dadas de baja en 24 meses; el 60 % de los cargos con función ejecutiva cubiertos por concurso al fin de la Fase II y el 90 % al fin de la Fase III; y la dotación de cada organismo publicada cada mes.",
-  "porque_ext": "Sin una burocracia profesional no hay Estado inteligente posible. Hoy cada gobierno llega con su gente, los equipos técnicos se pierden y las políticas se reinician desde cero. Y la prohibición de nombrar familiares es apenas un decreto, que cada gobierno recorta a su medida.",
-  "porque_comp": "El sector público argentino ocupa unos 3,74 millones de puestos asalariados entre nación, provincias y municipios (INDEC, 1er trimestre de 2026). El problema no es solo cuántos, sino cómo se ingresa y cómo se conserva el conocimiento.\n\nHay una brecha entre la sofisticación del diseño de las políticas y la capacidad real de ejecutarlas. Una burocracia profesional y estable es, además, el principal seguro de continuidad del programa entero.",
+  "que_ext": "Proponemos profesionalizar el Estado: ingreso por concurso público, carrera por mérito, evaluación de desempeño y continuidad de los cuadros técnicos a través de los cambios de gobierno. Donde sobra personal, la reducción se acompaña con capacitación y reinserción en el sector privado. Y una ley contra el nepotismo: ningún funcionario puede nombrar ni hacer nombrar a su familia, tampoco en los cargos políticos. Las tareas permanentes las hace personal de planta elegido por concurso, no contratados que se renuevan cada año, y todo contrato temporario queda en un registro público. Las provincias se suman por acuerdo federal: legislaturas más austeras, ingreso por concurso y nómina publicada. En concreto: reforma de la Ley 25.164 para que nadie entre al Estado sin concurso y para que el 90 % de los cargos de dirección se concursen al fin de la Fase III, y una ley que reemplaza el Decreto 93/2018 y prohíbe designar parientes en los tres poderes; un registro público de todos los contratos no permanentes, con concurso abierto —no pase automático— para las funciones permanentes que hoy cubren; y un acuerdo federal que pone tope al gasto de las legislaturas provinciales y ata el empleo provincial al mérito, como condición de la ayuda discrecional de la Nación.",
+  "que_comp": "Se reforma el régimen de empleo público para que todo ingreso a la planta sea por concurso abierto y publicado, con jurados técnicos. La carrera se organiza por niveles con evaluación anual y capacitación obligatoria; los cargos de conducción técnica (directores y coordinadores) se cubren por concurso y con mandatos que no coinciden con el ciclo político.\n\nLa reducción de planta, donde corresponda, aplica al propio Estado las herramientas de transición laboral del área de trabajo: retiros voluntarios, capacitación y reinserción en el sector privado (propuestas 51 y 53). Se publica en tiempo real la cantidad de personal de cada organismo y sus designaciones, transitorias incluidas.\n\nContra el nepotismo, una ley —no un decreto que el gobierno siguiente cambia en un día— prohíbe designar o contratar, bajo cualquier modalidad, a cónyuges, convivientes y parientes hasta el segundo grado del presidente, el vicepresidente, el jefe de Gabinete, los ministros, los secretarios de Estado y las máximas autoridades de cada organismo, en todo el sector público nacional; y a los parientes hasta el cuarto grado de quien designa, dentro de su mismo organismo. La regla alcanza también a los cargos políticos que nombra el Presidente. Nadie puede tener como jefe directo a un familiar. Se prohíben los nombramientos cruzados, en los que un funcionario designa al pariente de otro a cambio de lo mismo, y cada funcionario declara sus vínculos familiares en su declaración jurada, para que se puedan cruzar con las designaciones. Solo quedan exceptuados quienes ya trabajaban en el Estado antes de que asumiera su pariente o entraron por concurso. El Congreso aplica la misma regla a su personal, y se invita a la Corte Suprema a adoptarla por acordada (resolución general de la Corte) para el Poder Judicial y a las provincias a adherir.\n\nEl mismo criterio vale para los contratados. En ministerios, institutos como el INTA, el INTI y el CONICET, universidades y provincias trabaja gente con contratos que se renuevan cada año: contratos de la Ley 25.164, monotributistas, convenios con universidades u organismos internacionales, becas. Muchas veces hacen tareas permanentes del organismo, y parte del personal de planta descarga en ellos su trabajo.\n\nSe ordena con tres reglas. Toda contratación no permanente figura en un registro público. Las funciones permanentes las cumple personal de planta elegido por concurso. Los contratos quedan solo para tareas temporarias o proyectos con fecha de fin, y usarlos para tareas permanentes queda prohibido.\n\nLa regularización no es un pase automático a planta. Cada función permanente que hoy cubre un contrato se identifica y se concursa en forma abierta; quien la viene haciendo compite y su experiencia acreditada suma puntaje, pero no le asegura el cargo. El cargo se paga con la partida del contrato que reemplaza, sin cargos nuevos netos.\n\nA la vez, la evaluación de desempeño del personal de planta deja de ser un trámite: metas por puesto, un evaluador además del jefe directo y consecuencias. Una calificación deficiente obliga a capacitación y a un plan de mejora; si se repite, corresponde el pase a disponibilidad. La estabilidad protege al empleado que trabaja, no a quien descarga su tarea en otro.\n\nLas universidades nacionales son autónomas por el artículo 75 inciso 19 de la Constitución, así que la regla no se impone: se acuerda en los contratos-programa y en la fórmula de reparto del presupuesto (propuesta 78). El registro de contratos, el concurso para las funciones permanentes y la cobertura por concurso de los cargos docentes son condición para recibir los fondos por metas.\n\nLas provincias se suman por acuerdo federal, sin tocar su autonomía: cada una decide cómo cumplir, y la Nación solo condiciona lo que da por decisión propia. El acuerdo de saneamiento de la propuesta 18 incorpora dos compromisos: legislaturas más austeras y empleo provincial por mérito, con ingreso por concurso y la nómina nominal (la lista de cada agente, con cargo y sueldo) publicada.\n\nNo se trata de bajar personal en todas partes, sino de gastar mejor. La reducción gradual se pide solo donde el empleo público es excesivo para la población, y se hace sin despidos: dejando de reponer parte de las bajas por jubilación o renuncia y ofreciendo retiros voluntarios.\n\nSe condicionan las transferencias no automáticas: los convenios y programas que la Nación asigna fuera de la coparticipación, los préstamos y refinanciaciones del Fondo Fiduciario para el Desarrollo Provincial y el acceso a nuevas potestades tributarias (propuesta 17). La coparticipación no se toca, y la ayuda por emergencia o catástrofe nunca se condiciona.\n\nEn concreto: se reforma la Ley 25.164 Marco de Regulación de Empleo Público Nacional para que todo ingreso a planta permanente o transitoria sea por concurso abierto, publicado y con jurado que incluya miembros externos al organismo. La carrera del Sistema Nacional de Empleo Público (SINEP, Convenio Colectivo Sectorial homologado por el Decreto 2098/2008) se ordena por niveles, con evaluación anual y capacitación obligatoria a cargo del Instituto Nacional de la Administración Pública (INAP). Los cargos con función ejecutiva (direcciones nacionales, direcciones y coordinaciones) se cubren por concurso, con mandato de 5 años que no coincide con el ciclo presidencial. La regla de hoy, el Decreto 934/2025, que solo permite un alta por cada dos bajas y la valida la Subsecretaría de Modernización y Desarrollo del Empleo Público, se reemplaza por una regla permanente: ningún alta sin concurso. La reducción de planta, donde corresponda, usa el régimen de disponibilidad de la Ley 25.164 reformado por la Ley 27.742, con capacitación y reinserción. Los cambios que toquen el Convenio Colectivo General (Decreto 214/2006) se negocian en paritaria con los gremios estatales. La regla contra el nepotismo hoy es un decreto, el 93/2018, que el Decreto 12/2023 limitó al dejar afuera los nombramientos que el Presidente hace por sus facultades constitucionales; la nueva ley la reemplaza, la extiende a los cargos políticos y suma el registro de vínculos en las declaraciones juradas de la Ley 25.188 de Ética Pública. Metas: el 100 % de los ingresos por concurso desde que rige la ley; las designaciones transitorias vencidas, concursadas o dadas de baja en 24 meses; el 60 % de los cargos con función ejecutiva cubiertos por concurso al fin de la Fase II y el 90 % al fin de la Fase III; y la dotación de cada organismo publicada cada mes. Contratados: una ley crea el Registro Público de Contrataciones No Permanentes, a cargo de la Jefatura de Gabinete. Incluye cada contrato del artículo 9 de la Ley 25.164, cada locación de servicios u obra, cada contrato por convenio con universidades, entes cooperadores u organismos internacionales, cada beca y cada pasantía. De cada uno se publican cada mes el organismo, la tarea, el monto, el plazo y la fuente de financiamiento; lo no registrado no se puede liquidar en el sistema de pagos e-SIDIF (propuesta 56). Los contratos quedan limitados a tareas temporarias o proyectos con fecha de fin, por un máximo de 2 años; firmar uno para una función permanente es falta grave del funcionario que lo firma. El Decreto 336/2016, que ya creó un registro de los convenios con universidades, se absorbe en el registro nuevo. La misma regla rige en el CONICET, el INTA, el INTI y los demás institutos nacionales, y las becas quedan para formación, no para cubrir funciones de apoyo permanentes; el ingreso a la carrera científica sigue la propuesta 78. Provincias: el acuerdo federal que actualiza el Régimen Federal de Responsabilidad Fiscal (Leyes 25.917 y 27.428, propuesta 18) suma el presupuesto de cada legislatura publicado por habitante y por legislador en un formato común, y su nómina nominal. Fija un tope relativo: al año 4, el gasto legislativo no supera el 1 % del gasto total provincial ni 1,5 veces la mediana por habitante de las provincias de población similar. Suma también el ingreso por concurso por ley provincial y la nómina nominal de toda la administración publicada cada mes. En las provincias con más de 75 empleados públicos cada 1.000 habitantes, una vez y media el promedio, rige una sola alta cada dos bajas hasta reducir esa relación un 5 % al año 4, sin despidos. El Consejo Federal de Responsabilidad Fiscal y la Dirección Nacional de Asuntos Provinciales del Ministerio de Economía publican cada año la comparación entre provincias. Metas de esta parte: el registro completo a los 6 meses de la ley; la mitad de las funciones permanentes hoy cubiertas por contrato, concursadas al fin de la Fase II y el 100 % al fin de la Fase III; y al menos 12 provincias adheridas al acuerdo al fin del año 2.",
+  "porque_ext": "Sin una burocracia profesional no hay Estado inteligente posible. Hoy cada gobierno llega con su gente, los equipos técnicos se pierden y las políticas se reinician desde cero. Y la prohibición de nombrar familiares es apenas un decreto, que cada gobierno recorta a su medida. Además, en muchos organismos el trabajo de fondo lo hacen contratados que se renuevan cada año. Y en las provincias hay legislaturas que gastan por legislador veinte veces más que otras, y plantas que más que duplican el promedio de empleados por habitante.",
+  "porque_comp": "El sector público argentino ocupa unos 3,74 millones de puestos asalariados entre nación, provincias y municipios (INDEC, 1er trimestre de 2026). El problema no es solo cuántos, sino cómo se ingresa y cómo se conserva el conocimiento.\n\nHay una brecha entre la sofisticación del diseño de las políticas y la capacidad real de ejecutarlas. Una burocracia profesional y estable es, además, el principal seguro de continuidad del programa entero.\n\nLos contratos se volvieron una forma permanente de trabajar en el Estado. Entre 2003 y 2012 los contratados pasaron del 15 % al 30 % del empleo público nacional (CIPPEC), y en diciembre de 2017 eran 70.000, un tercio de la administración nacional (Ministerio de Modernización, vía Chequeado). En agosto de 2026, 21.650 personas trabajaban en la administración nacional bajo modalidades sin relación laboral, como locaciones de servicios u obra, contratos por entes cooperadores u organismos internacionales o pasantías; 9.232 de ellas en el CONICET (INDEC). El propio INDEC aclara que esas modalidades incluyen contratos «para realizar una tarea habitual del organismo».\n\nEn las provincias, las 24 legislaturas gastan 1,835 billones de pesos en 2026, unos 1.531 millones por cada uno de sus 1.199 legisladores y cerca de 40.000 pesos por habitante (Fundación Libertad). Las diferencias son enormes: un legislador cuesta 3.725 millones al año en Tucumán y 176 millones en San Luis; la legislatura se lleva el 3,66 % del presupuesto en Tucumán y el 1,15 % en promedio. Hay en promedio 27 empleados por legislador, con 72 en Corrientes y 8 en Córdoba.\n\nEl empleo público provincial pasó de 1,34 a 2,27 millones de personas entre 2002 y 2022, un aumento del 69 % contra el 23 % de la población (Fundación Libertad y Progreso, con datos oficiales). A diciembre de 2024 había en promedio 50 empleados públicos provinciales cada 1.000 habitantes (Dirección Nacional de Asuntos Provinciales, vía Fundación Ecosur). Pero eran 130 en Tierra del Fuego, 114 en La Rioja, 106 en Catamarca, 105 en Neuquén y 104 en Santa Cruz, frente a 37 en Buenos Aires y 33 en Córdoba.",
   "grafico": null,
   "cuando": "Fase I (arranque) · se consolida en Fase III",
   "instrumento": "Ley (reforma del régimen de empleo público nacional) + acuerdo federal",
   "costo": "Neutro o ahorro a mediano plazo",
-  "actores": "Jefatura de Gabinete, INAP, gremios estatales, provincias",
+  "actores": "Jefatura de Gabinete, INAP, gremios estatales, CONICET, INTA, INTI y demás institutos, universidades nacionales, provincias y legislaturas provinciales, Consejo Federal de Responsabilidad Fiscal, autoridad de control (propuesta 59)",
   "pasos": [
    "Reforma de la Ley 25.164: concurso abierto y publicado para todo ingreso, con jurado que incluye miembros externos.",
    "Ley contra el nepotismo que reemplaza el Decreto 93/2018 (limitado por el Decreto 12/2023): sin cónyuges, convivientes ni parientes hasta el segundo grado de las autoridades en todo el sector público nacional, ni hasta el cuarto grado en el mismo organismo; incluye cargos políticos, prohíbe nombramientos cruzados y suma los vínculos familiares a las declaraciones juradas de la Ley 25.188.",
@@ -6652,20 +7470,35 @@
    "Regularizar en 24 meses las designaciones transitorias vencidas, por concurso o baja.",
    "Evaluación anual y capacitación obligatoria a cargo del INAP; cambios al Convenio Colectivo General (Decreto 214/2006) en paritaria.",
    "Disponibilidad con capacitación y reinserción donde sobra personal (Ley 25.164 reformada por la Ley 27.742).",
-   "Publicación mensual de la dotación y de las designaciones de cada organismo. Metas: 60 % de cargos ejecutivos por concurso al fin de la Fase II y 90 % al fin de la Fase III."
+   "Publicación mensual de la dotación y de las designaciones de cada organismo. Metas: 60 % de cargos ejecutivos por concurso al fin de la Fase II y 90 % al fin de la Fase III.",
+   "Ley del Registro Público de Contrataciones No Permanentes (contratos del artículo 9 de la Ley 25.164, locaciones de servicios u obra, convenios con universidades, entes cooperadores u organismos internacionales, becas y pasantías), completo a los 6 meses; lo no registrado no se liquida en el e-SIDIF.",
+   "Prohibir los contratos para funciones permanentes: solo tareas temporarias o proyectos con fecha de fin, hasta 2 años, con responsabilidad del funcionario que firma.",
+   "Concurso abierto, sin pase automático, para cada función permanente hoy cubierta por contrato, con la partida del contrato y sin cargos nuevos netos: la mitad al fin de la Fase II y el 100 % al fin de la Fase III.",
+   "Evaluación de desempeño real del personal de planta, con metas por puesto, un evaluador además del jefe directo, plan de mejora ante una calificación deficiente y pase a disponibilidad si se repite.",
+   "Misma regla en el CONICET, el INTA, el INTI y los demás institutos (becas solo para formación) y, por contrato-programa, en las universidades nacionales (propuesta 78).",
+   "Acuerdo federal dentro del saneamiento de la propuesta 18: presupuesto legislativo por habitante y por legislador publicado, tope del 1 % del gasto provincial y de 1,5 veces la mediana por habitante al año 4, nómina nominal publicada e ingreso por concurso.",
+   "En las provincias con más de 75 empleados públicos cada 1.000 habitantes, una alta cada dos bajas hasta reducir esa relación un 5 % al año 4, sin despidos.",
+   "Condicionar las transferencias no automáticas, el Fondo Fiduciario para el Desarrollo Provincial y las nuevas potestades tributarias (propuesta 17) al cumplimiento, nunca la coparticipación ni la ayuda por emergencia; comparación anual publicada por el Consejo Federal de Responsabilidad Fiscal."
   ],
-  "plazos": "Ley en la Fase I; cobertura por concurso de cargos técnicos a lo largo de las Fases II y III.",
-  "costo_detalle": "Los retiros y la capacitación se financian con el ahorro por menor planta donde sobra personal; neutro o con ahorro a mediano plazo.",
-  "riesgos": "Concursos armados a medida. Se evita con jurados externos, publicidad de todo el proceso y revisión por el organismo de control (propuesta 59). Que se cuestione la regla para cargos que la Constitución deja al Presidente, como los ministros: se incorpora en la primera reforma constitucional habilitada. Que se esquive con nombramientos cruzados o en otro organismo: registro de vínculos y cruce automático con cada designación.",
-  "indicador": "Porcentaje de cargos de conducción técnica cubiertos por concurso. Meta: mayoría al fin de la Fase II. Designaciones de familiares de autoridades detectadas en el cruce con las declaraciones juradas (meta: cero).",
-  "blindaje": "Estabilidad de los cuadros técnicos por ley y mandatos desfasados del ciclo político; la prohibición de nombrar familiares pasa de decreto a ley.",
+  "plazos": "Ley de empleo público, ley contra el nepotismo y ley del registro de contrataciones en la Fase I, con el registro completo a los 6 meses; acuerdo federal con las provincias en el año 1. Cobertura por concurso de cargos técnicos y de funciones permanentes hoy cubiertas por contrato a lo largo de las Fases II y III (la mitad al fin de la Fase II). Topes legislativos provinciales cumplidos al año 4.",
+  "costo_detalle": "Los retiros y la capacitación se financian con el ahorro por menor planta donde sobra personal; neutro o con ahorro a mediano plazo. La regularización de contratados no suma gasto: cada cargo concursado se paga con la partida del contrato que reemplaza, y las funciones que no son permanentes ni necesarias no se renuevan. En las provincias, el tope legislativo y la regla de una alta cada dos bajas generan ahorro propio de cada provincia, que queda en su presupuesto.",
+  "riesgos": "Concursos armados a medida. Se evita con jurados externos, publicidad de todo el proceso y revisión por el organismo de control (propuesta 59). Que se cuestione la regla para cargos que la Constitución deja al Presidente, como los ministros: se incorpora en la primera reforma constitucional habilitada. Que se esquive con nombramientos cruzados o en otro organismo: registro de vínculos y cruce automático con cada designación. Que la regularización se convierta en un pase masivo a planta sin concurso: se evita con concurso abierto obligatorio y jurado externo. Que se pierda a quien hoy sostiene el trabajo: su experiencia acreditada suma puntaje y el contrato sigue hasta que se resuelve el concurso. Que el contrato se disfrace de beca o de convenio: el registro incluye todas las modalidades y lo no registrado no se paga. Que las provincias no adhieran o que se cuestione su autonomía: la adhesión es voluntaria y solo se condiciona lo que la Nación da por decisión propia.",
+  "indicador": "Porcentaje de cargos de conducción técnica cubiertos por concurso. Meta: mayoría al fin de la Fase II. Designaciones de familiares de autoridades detectadas en el cruce con las declaraciones juradas (meta: cero). Funciones permanentes cubiertas por contrato (meta: 50 % concursadas al fin de la Fase II y 100 % al fin de la Fase III). Gasto legislativo provincial como porcentaje del gasto total y por habitante, y empleados públicos provinciales cada 1.000 habitantes, publicados cada año por provincia.",
+  "blindaje": "Estabilidad de los cuadros técnicos por ley y mandatos desfasados del ciclo político; la prohibición de nombrar familiares pasa de decreto a ley. El registro de contratos es ley y lo no registrado no se puede pagar; los compromisos provinciales quedan en un acuerdo federal ratificado por cada legislatura, con comparación pública anual.",
   "fuentes": [
    "INDEC, puestos asalariados sector público, 1T-2026",
    "Ley 25.164 Marco de Regulación de Empleo Público Nacional",
    "Decreto 2098/2008, Convenio Colectivo Sectorial del SINEP",
    "Decreto 214/2006, Convenio Colectivo General de la Administración Pública Nacional",
    "Decreto 934/2025, restricciones a designaciones y regla de dos bajas por alta, vía News Digitales (enero 2026)",
-   "Ley 27.742, reforma del empleo público (2024)"
+   "Ley 27.742, reforma del empleo público (2024)",
+   "INDEC, Dotación de personal de la Administración Pública Nacional, empresas y sociedades, agosto 2026 (septiembre 2026)",
+   "Ministerio de Modernización, dotación de la administración nacional a diciembre de 2017, vía Chequeado (enero 2018)",
+   "CIPPEC, Evolución y distribución del empleo público en el sector público nacional argentino (2003-2012), vía Chequeado (2016)",
+   "Fundación Libertad, gasto de las legislaturas provinciales según los presupuestos 2026, vía Forbes Argentina (septiembre 2026)",
+   "Ministerio de Economía, Dirección Nacional de Asuntos Provinciales, empleo público provincial a diciembre 2024, vía Fundación Ecosur y Ámbito (octubre 2025)",
+   "Fundación Libertad y Progreso, empleo público provincial 2002-2022, vía Primera Edición (marzo 2024)",
+   "Decreto 336/2016, registro de convenios de la administración nacional con universidades"
   ]
  },
  {
@@ -8334,19 +9167,19 @@
  {
   "n": 79,
   "area": "VIII",
-  "titulo": "Médico de cabecera cerca de casa y vacunas al día",
+  "titulo": "Salud: médico de cabecera, hospitales y turnos a tiempo",
   "bandera": false,
-  "resumen": "Un equipo de salud de cabecera cerca de tu casa, turnos sin perder meses y vacunas siempre disponibles para todos los chicos.",
+  "resumen": "Un equipo de salud de cabecera cerca de tu casa y vacunas siempre disponibles, hospitales equipados y con profesionales suficientes, cirugías y estudios con plazo máximo, un PAMI que paga en fecha y tratamientos complejos que llegan a tiempo.",
   "dato": {
    "valor": "35,8 %",
    "texto": "de la población depende solo del sistema público de salud",
    "fuente": "INDEC, Censo 2022",
    "fecha": "2022"
   },
-  "que_ext": "Atención primaria con equipos de cabecera responsables de una población concreta, turnos por teléfono o celular y programas para crónicos como hipertensión y diabetes; un sistema que funcione como uno solo, con historia clínica digital única bajo control del paciente y reglas para que hospitales, obras sociales y prepagas se paguen entre sí. Y vacunas al día: stock garantizado, vacunación en escuelas, horarios extendidos y casa por casa, aviso a cada familia cuando le toca y búsqueda activa de cada chico atrasado. En concreto: equipos de cabecera sobre el padrón del Programa SUMAR+, recordatorios desde el registro NOMIVAC y metas de 95 % por vacuna y por departamento, con los refuerzos escolares (hoy 55 % a 58 %) como prioridad.",
-  "que_comp": "Atención primaria e integración: cada persona sin cobertura queda asignada a un centro con equipo de cabecera; metas de control de presión, azúcar en sangre y detección temprana de cánceres frecuentes; telemedicina para zonas rurales (propuesta 44); historia clínica electrónica que comparten todos los sistemas (interoperable), cuyos datos controla el paciente (propuesta 57); recupero ágil de costos cuando el hospital público atiende a afiliados de obras sociales o prepagas; derivaciones con turnos garantizados. Medicamentos: prescripción por nombre genérico, compras conjuntas entre Nación y provincias y doble origen obligatorio para principios activos esenciales (propuestas 39 y 87).\n\nVacunas: la Ley 27.491 ya las define como bien social, gratuitas y obligatorias; el problema es la ejecución. Compras plurianuales (incluido el Fondo Rotatorio de la OPS) con stock de seguridad; registro nominal de cada vacunado y recordatorios automáticos por celular; vacunación en escuelas al inicio de cada ciclo; operativos en los departamentos con menor cobertura; campañas con pediatras, docentes y referentes locales frente a la duda vacunal; metas por departamento publicadas cada trimestre. Organización: acuerdo en el Consejo Federal de Salud con financiamiento nacional por resultados verificables.\n\nEn concreto: la asignación de cada persona sin cobertura a un centro con equipo de cabecera se hace sobre el padrón del Programa SUMAR+, que ya registra a la población con cobertura pública exclusiva y paga a los centros por prestaciones; se amplía su lista de prestaciones pagadas (nomenclador) para pagar por control efectivo de crónicos, como ya prevé el Plan Nacional de Abordaje Integral de Salud Vascular 2026-2030 (Resolución 1445/2026 del Ministerio de Salud), al que se le agregan metas con números: 50 % de los hipertensos y diabéticos asignados con control registrado al final de la Fase II. Medicamentos: en octubre de 2026 el listado nacional de medicamentos esenciales para el primer nivel quedó reducido de 128 a 6 drogas y cada provincia compra el resto por su cuenta; la propuesta arma una compra conjunta Nación-provincias del listado completo, con precios publicados, y hace cumplir la Ley 25.649 de prescripción por nombre genérico, que se cumple en una minoría de las recetas. Vacunas: los recordatorios salen del Registro Nominal de Vacunación electrónico (NOMIVAC), que desde 2023 cubre a los sectores público y privado según los artículos 16 y 18 de la Ley 27.491. Metas: 95 % de cobertura en todas las vacunas del calendario en cada departamento; primeras dosis (hoy entre 83,6 % en triple viral y 95 % en BCG) en dos años, y refuerzos de 5 a 11 años (hoy entre 54,8 % y 58,3 %) al final de la Fase II. Cada trimestre se publica la lista de departamentos por debajo del 80 %, que reciben operativos casa por casa.",
-  "porque_ext": "El 35,8 % de la población depende solo del hospital y el centro de salud públicos (Censo 2022). Las principales causas de muerte son crónicas y se controlan mejor cerca de casa que en una guardia. Y en 2025 la primera dosis de triple viral llegó al 83,6 % de los bebés y su refuerzo al 54,8 %, lejos del 95 % que protege a todos, con el sarampión circulando en la región.",
-  "porque_comp": "El perfil de salud es el de un país que envejece: dominan las enfermedades crónicas no transmisibles, mientras mejora la mortalidad infantil (DEIS). La cobertura está partida entre el sistema público, las obras sociales, el PAMI y las prepagas, con duplicaciones y huecos, y el 35,8 % que solo tiene cobertura pública suele ser la población de menores ingresos. Una guardia saturada es, muchas veces, un control que no se hizo a tiempo.\n\nEn vacunas, algunas coberturas del recién nacido mejoraron (BCG, 95,3 %), pero los refuerzos de edad escolar siguen por debajo del 60 % (Ministerio de Salud, informe de coberturas 2025), mientras el sarampión volvió a circular en varios países de las Américas en 2025 y 2026 (OPS). Entre las causas, los especialistas señalan las barreras de acceso —faltantes, logística, horarios—, la menor percepción de riesgo y el menor control del carné de vacunación en las escuelas. Recuperar coberturas es barato, rápido y de enorme retorno sanitario.",
+  "que_ext": "Atención primaria con equipos de cabecera responsables de una población concreta, turnos por teléfono o celular y programas para crónicos como hipertensión y diabetes; un sistema que funcione como uno solo, con historia clínica digital única bajo control del paciente y reglas para que hospitales, obras sociales y prepagas se paguen entre sí. Y vacunas al día: stock garantizado, vacunación en escuelas, horarios extendidos y casa por casa, aviso a cada familia cuando le toca y búsqueda activa de cada chico atrasado. Hospitales con plan de inversión priorizado y una red de derivación y emergencias que funcione en todo el país; residencias, enfermería e incentivos para que haya profesionales en el interior; plazos máximos garantizados para cirugías y estudios; un PAMI transparente que paga en fecha; y oncología, trasplantes y alto costo sin demoras. En concreto: equipos de cabecera sobre el padrón del Programa SUMAR+, recordatorios desde el registro NOMIVAC y metas de 95 % por vacuna y por departamento, con los refuerzos escolares (hoy 55 % a 58 %) como prioridad; registro público de listas de espera con derivación a otro prestador cuando se vence el plazo; 95 % de los cupos de residencias en especialidades críticas cubiertos en todo el país; pago del PAMI a prestadores en 30 días; y entrega de medicamentos oncológicos en 15 días hábiles.",
+  "que_comp": "Atención primaria e integración: cada persona sin cobertura queda asignada a un centro con equipo de cabecera; metas de control de presión, azúcar en sangre y detección temprana de cánceres frecuentes; telemedicina para zonas rurales (propuesta 44); historia clínica electrónica que comparten todos los sistemas (interoperable), cuyos datos controla el paciente (propuesta 57); recupero ágil de costos cuando el hospital público atiende a afiliados de obras sociales o prepagas; derivaciones con turnos garantizados. Medicamentos: prescripción por nombre genérico, compras conjuntas entre Nación y provincias y doble origen obligatorio para principios activos esenciales (propuestas 39 y 87).\n\nVacunas: la Ley 27.491 ya las define como bien social, gratuitas y obligatorias; el problema es la ejecución. Compras plurianuales (incluido el Fondo Rotatorio de la OPS) con stock de seguridad; registro nominal de cada vacunado y recordatorios automáticos por celular; vacunación en escuelas al inicio de cada ciclo; operativos en los departamentos con menor cobertura; campañas con pediatras, docentes y referentes locales frente a la duda vacunal; metas por departamento publicadas cada trimestre. Organización: acuerdo en el Consejo Federal de Salud con financiamiento nacional por resultados verificables.\n\nHospitales: un relevamiento nacional del estado edilicio y del equipamiento de cada hospital público, hecho con las provincias y publicado, ordena un plan de inversión por prioridad: primero guardias, quirófanos, terapias intensivas, neonatologías y diagnóstico por imágenes de los hospitales con más demanda. Las obras y los equipos se financian dentro del cupo de obras, con crédito de organismos multilaterales y aporte de las provincias, y se compran con la trazabilidad de la propuesta 56. Los hospitales nacionales y de gestión compartida (Garrahan, Posadas, El Cruce y la red SAMIC) siguen siendo públicos, con directores por concurso, contratos de gestión con metas y reglas firmes de aporte de cada jurisdicción.\n\nRed de derivación y emergencias: cada región sanitaria tiene un centro que coordina derivaciones y ve en tiempo real las camas de terapia intensiva, neonatología y quirófano disponibles, públicas y privadas con convenio. Los hospitales de referencia, como el Garrahan en pediatría, acompañan a los del interior por telemedicina (propuesta 44) para que el paciente viaje solo cuando hace falta. Los traslados aéreos usan la flota sanitaria de la propuesta 60 y los aviones provinciales, y las Fuerzas Armadas apoyan en catástrofes (propuesta 91).\n\nRecursos humanos: la beca de residencia se fija por regla, como proporción del salario de ingreso de un médico de planta, y se actualiza con él; las especialidades críticas (terapia intensiva, emergencias, medicina general y familiar, clínica médica, pediatría, neonatología y anestesia) reciben un adicional. Quien se radica en localidades con déficit de profesionales recibe un adicional por zona durante al menos tres años, puntaje en los concursos y vivienda acordada con provincias y municipios. Una carrera del equipo de salud, acordada en el Consejo Federal de Salud, fija ingreso por concurso, capacitación y ascensos. En enfermería se amplían las becas para la licenciatura atadas a años de trabajo en hospitales públicos y se crean más residencias de enfermería.\n\nListas de espera: cada hospital y cada financiador publican su lista de espera por práctica, sin datos personales, en un registro nacional que se alimenta de la historia clínica compartida. Una ley fija plazos máximos garantizados por tipo de práctica, como hace Chile con sus garantías explícitas de oportunidad. Si el plazo vence, el paciente es derivado a otro prestador, público o privado con convenio, y paga quien debía cubrirlo: la provincia, la obra social, la prepaga o el PAMI, a través del recupero entre sistemas.\n\nPAMI: la obra social de los jubilados se maneja con transparencia y paga en fecha. Termina la intervención y se constituye el directorio que prevé la ley, con mayoría de representantes de los afiliados. Pagos a prestadores en plazo fijo y publicados; médico de cabecera con un pago por afiliado más un pago por resultados (crónicos controlados, vacunas, visitas a domicilio); medicamentos con receta electrónica, nombre genérico y compras por licitación; auditoría externa anual. Los aportes al PAMI no cambian con la cuenta propia de la propuesta 73, porque son distintos del aporte jubilatorio.\n\nTratamientos complejos: los medicamentos oncológicos y especiales que entrega la Nación a quien no tiene cobertura se compran por licitación anual consolidada con las provincias, con plazos máximos de entrega y un tablero público de pedidos y entregas. El Instituto Nacional del Cáncer coordina la red oncológica y la meta de iniciar el tratamiento dentro de los 30 días del diagnóstico. El INCUCAI suma coordinadores de trasplante en cada hospital con terapia intensiva. El alto costo de las obras sociales se reintegra en plazo, con evaluación independiente de cada tecnología nueva antes de incorporarla.\n\nEn concreto: la asignación de cada persona sin cobertura a un centro con equipo de cabecera se hace sobre el padrón del Programa SUMAR+, que ya registra a la población con cobertura pública exclusiva y paga a los centros por prestaciones; se amplía su lista de prestaciones pagadas (nomenclador) para pagar por control efectivo de crónicos, como ya prevé el Plan Nacional de Abordaje Integral de Salud Vascular 2026-2030 (Resolución 1445/2026 del Ministerio de Salud), al que se le agregan metas con números: 50 % de los hipertensos y diabéticos asignados con control registrado al final de la Fase II. Medicamentos: en octubre de 2026 el listado nacional de medicamentos esenciales para el primer nivel quedó reducido de 128 a 6 drogas y cada provincia compra el resto por su cuenta; la propuesta arma una compra conjunta Nación-provincias del listado completo, con precios publicados, y hace cumplir la Ley 25.649 de prescripción por nombre genérico, que se cumple en una minoría de las recetas. Vacunas: los recordatorios salen del Registro Nominal de Vacunación electrónico (NOMIVAC), que desde 2023 cubre a los sectores público y privado según los artículos 16 y 18 de la Ley 27.491. Metas: 95 % de cobertura en todas las vacunas del calendario en cada departamento; primeras dosis (hoy entre 83,6 % en triple viral y 95 % en BCG) en dos años, y refuerzos de 5 a 11 años (hoy entre 54,8 % y 58,3 %) al final de la Fase II. Cada trimestre se publica la lista de departamentos por debajo del 80 %, que reciben operativos casa por casa. Hospitales: el plan de inversión toma como prioridad a los hospitales con más demanda; en 2026 Misiones informó 20,8 % más consultas en el Hospital Madariaga que dos años antes y Salta, guardias con hasta 85 % más demanda. Los hospitales SAMIC se rigen por la Ley 17.102; el Garrahan se financia en 80 % por la Nación y 20 % por la Ciudad de Buenos Aires, y los cinco SAMIC bonaerenses (El Cruce, Cuenca Alta, Bicentenario de Esteban Echeverría, René Favaloro y Néstor Kirchner de La Matanza), entre 70 % y 80 % por la Nación. Un convenio nuevo descuenta en forma automática el aporte de cada jurisdicción de la coparticipación, para terminar con las deudas cruzadas entre Nación y Provincia por esos hospitales. Residencias: rige la Ley 22.127 del Sistema Nacional de Residencias. En 2025 se cubrieron 1.088 de los 1.350 cupos de residencias nacionales (81 %) y el 72 % en los hospitales provinciales; en el concurso unificado, terapia intensiva, medicina general, clínica médica y emergentología no cubrieron ni la mitad de sus plazas en la primera adjudicación. La Ley 27.796 de emergencia pediátrica, que pedía recomponer salarios y residencias, venció el 21 de octubre de 2026 con su aplicación suspendida por el Decreto 760/2025; la propuesta convierte sus objetivos en reglas permanentes. Metas: 95 % de los cupos de especialidades críticas cubiertos en todo el país, nacionales y provinciales, al final de la Fase II. Enfermería se rige por la Ley 24.004. Listas de espera: una ley de garantías de tiempos de atención, sobre el modelo de la Ley 19.966 de Chile, fija los plazos máximos iniciales: 30 días para iniciar el tratamiento de un cáncer diagnosticado, 60 días para estudios diagnósticos y consulta con especialista y 180 días para cirugías programadas. El registro público funciona desde la Fase II, y el Consejo Federal de Salud puede acortar los plazos cada dos años. PAMI: el Instituto creado por la Ley 19.032 está intervenido desde 2003 (Decreto 348/2003) y no tiene el directorio de 11 miembros que fija la Ley 25.615, con 7 representantes de los afiliados; se lo constituye en el primer año. En abril de 2026 la deuda con clínicas, farmacias y médicos rondaba 500.000 millones de pesos, el Tesoro la cubrió con 580.000 millones en letras (Resolución Conjunta 26/2026) y la Resolución 1107/2026 pasó a pagar a los médicos de cabecera solo una suma fija por afiliado, lo que llevó a un paro nacional. Metas: 100 % de los pagos a prestadores dentro de los 30 días de aprobada la factura, publicados según la propuesta 56; trámite digital del 100 % de cobertura en medicamentos, con cruce automático de ingresos en lugar de trámite presencial; y auditoría externa anual y de la Auditoría General de la Nación, publicada. Tratamientos complejos: el Banco de Drogas Especiales depende de la Dirección Nacional de Asistencia Directa Compensatoria (Resolución 42/2025 del Ministerio de Salud); en 2025, según el Ministerio de Salud de Santa Fe, el 63 % de los tratamientos oncológicos que pidió la provincia no llegó o llegó incompleto. Meta: entrega en 15 días hábiles desde el pedido aprobado. Trasplantes: rige la Ley 27.447; en mayo de 2025 esperaban 10.193 personas (7.350 un órgano y 2.843 córneas) y en 2024 hubo 17,7 donantes por millón de habitantes; meta: 22 donantes por millón al final de la Fase III. Alto costo: el Sistema Único de Reintegros (SUR) de la Superintendencia de Servicios de Salud, pagado con el Fondo Solidario de Redistribución, reintegra en plazo fijo y publicado, y la Comisión Nacional de Evaluación de Tecnologías Sanitarias (CONETEC) evalúa cada tecnología nueva antes de incorporarla.",
+  "porque_ext": "El 35,8 % de la población depende solo del hospital y el centro de salud públicos (Censo 2022). Las principales causas de muerte son crónicas y se controlan mejor cerca de casa que en una guardia. Y en 2025 la primera dosis de triple viral llegó al 83,6 % de los bebés y su refuerzo al 54,8 %, lejos del 95 % que protege a todos, con el sarampión circulando en la región. Además, los hospitales públicos reciben cada vez más pacientes, faltan residentes en terapia intensiva, emergencias y medicina general, el PAMI acumuló deudas con quienes atienden a los jubilados y muchos tratamientos oncológicos llegan tarde o incompletos.",
+  "porque_comp": "El perfil de salud es el de un país que envejece: dominan las enfermedades crónicas no transmisibles, mientras mejora la mortalidad infantil (DEIS). La cobertura está partida entre el sistema público, las obras sociales, el PAMI y las prepagas, con duplicaciones y huecos, y el 35,8 % que solo tiene cobertura pública suele ser la población de menores ingresos. Una guardia saturada es, muchas veces, un control que no se hizo a tiempo.\n\nEn vacunas, algunas coberturas del recién nacido mejoraron (BCG, 95,3 %), pero los refuerzos de edad escolar siguen por debajo del 60 % (Ministerio de Salud, informe de coberturas 2025), mientras el sarampión volvió a circular en varios países de las Américas en 2025 y 2026 (OPS). Entre las causas, los especialistas señalan las barreras de acceso —faltantes, logística, horarios—, la menor percepción de riesgo y el menor control del carné de vacunación en las escuelas. Recuperar coberturas es barato, rápido y de enorme retorno sanitario.\n\nLos hospitales públicos absorben más demanda. En 2024 los hospitales de la Ciudad de Buenos Aires hicieron más de 50.000 cirugías, 31 % más que el año anterior, y entre 2 % y 5 % de quienes tenían obra social o prepaga perdieron esa cobertura. En 2026 Misiones informó que el Hospital Madariaga atendió 20,8 % más consultas que dos años antes, y Salta, guardias con hasta 85 % más demanda y ocupación de camas superior al 85 %.\n\nFaltan profesionales donde más se los necesita. En 2025 quedó sin cubrir casi uno de cada cinco cupos de residencias nacionales y más de uno de cada cuatro en los hospitales provinciales; terapia intensiva, medicina general, clínica médica y emergencias son las especialidades menos elegidas. En mayo de 2025 los residentes del Garrahan cobraban 797.061 pesos por mes por jornadas de más de 60 horas semanales, y pararon. El Congreso sancionó la emergencia pediátrica (Ley 27.796), pero su aplicación quedó suspendida hasta que venció.\n\nEl PAMI, con más de 5,5 millones de afiliados, llegó en abril de 2026 a una deuda cercana a 500.000 millones de pesos con clínicas, farmacias y médicos. El Tesoro la cubrió con letras de corto plazo, una solución de caja que no cambia la gestión, y en junio las clínicas suspendieron turnos nuevos. Los médicos de cabecera pararon por el cambio en su forma de pago, y desde 2025 la cobertura total de medicamentos exige ingresos menores a 1,5 haberes mínimos y un trámite presencial.\n\nEn tratamientos complejos la demora cuesta vidas. En 2025 el 63 % de los tratamientos oncológicos que Santa Fe pidió al Banco de Drogas nacional no llegó o llegó incompleto, y la provincia compró por su cuenta con precios hasta 92 % menores que en farmacia, lo que muestra cuánto rinde comprar bien. En mayo de 2025 más de 10.000 personas esperaban un trasplante.",
   "grafico": {
    "tipo": "barras",
    "titulo": "Cobertura de vacunación infantil por vacuna, 2025 (meta: 95 %)",
@@ -8379,10 +9212,10 @@
     }
    ]
   },
-  "cuando": "Fase I · desde el primer mes (vacunas) y año 1 (arranque de la cabecera); integración en Fase II",
-  "instrumento": "Acuerdo federal (Consejo Federal de Salud) + resolución ministerial + ley",
-  "costo": "Medio; parte se recupera con compras conjuntas",
-  "actores": "Salud nacional, provincias, municipios, obras sociales, PAMI, escuelas, OPS",
+  "cuando": "Fase I · desde el primer mes (vacunas, pagos del PAMI y entrega de medicamentos oncológicos) y año 1 (arranque de la cabecera, relevamiento de hospitales y régimen de residencias); integración, registro de listas de espera y plazos máximos en Fase II",
+  "instrumento": "Acuerdo federal (Consejo Federal de Salud) + resoluciones ministeriales + leyes (garantías de tiempos de atención, carrera del equipo de salud, normalización del PAMI)",
+  "costo": "Medio: dentro del techo de 0,2 % del PIB; hospitales con cupo de obras y crédito multilateral; PAMI sin gasto nuevo del Tesoro",
+  "actores": "Salud nacional, provincias, municipios, Consejo Federal de Salud, obras sociales, Superintendencia de Servicios de Salud, PAMI, prepagas, hospitales nacionales y SAMIC, INCUCAI, Instituto Nacional del Cáncer, sociedades científicas, universidades, escuelas, OPS y organismos multilaterales de crédito",
   "pasos": [
    "Firmar en los primeros seis meses contratos plurianuales de vacunas (incluido el Fondo Rotatorio de la OPS) con stock de seguridad de todo el calendario.",
    "Enviar recordatorios por celular desde el registro NOMIVAC (Ley 27.491, arts. 16 y 18) y vacunar en las escuelas al inicio de cada ciclo lectivo.",
@@ -8391,13 +9224,21 @@
    "Asignar a cada persona del padrón del Programa SUMAR+ un centro y un equipo de cabecera, y pagar a los centros por control efectivo de hipertensión y diabetes dentro del Plan Nacional de Salud Vascular 2026-2030.",
    "Meta de crónicos: 50 % de los hipertensos y diabéticos asignados con control registrado al final de la Fase II.",
    "Organizar la compra conjunta Nación-provincias del listado completo de medicamentos esenciales del primer nivel y hacer cumplir la Ley 25.649 de prescripción por nombre genérico.",
-   "Establecer en la Fase II la historia clínica compartida entre sistemas (propuesta 57) y la compensación de costos entre hospitales públicos, obras sociales, PAMI y prepagas."
+   "Establecer en la Fase II la historia clínica compartida entre sistemas (propuesta 57) y la compensación de costos entre hospitales públicos, obras sociales, PAMI y prepagas.",
+   "Publicar en el primer año el relevamiento edilicio y de equipamiento de los hospitales públicos y el plan de inversión por prioridad (guardias, quirófanos, terapias, neonatologías e imágenes), financiado dentro del cupo de obras y con crédito multilateral.",
+   "Firmar en el primer año los nuevos convenios de los hospitales SAMIC (Ley 17.102) con aporte automático de cada jurisdicción, directores por concurso y contratos de gestión con metas.",
+   "Poner en marcha en la Fase I los centros regionales de derivación con tablero de camas críticas en tiempo real, telemedicina con los hospitales de referencia (propuesta 44) y traslados aéreos con la flota sanitaria (propuesta 60).",
+   "Fijar por resolución, para el concurso de residencias del primer año, la beca atada al salario de planta y el adicional para especialidades críticas y zonas con déficit; meta: 95 % de los cupos críticos cubiertos al final de la Fase II.",
+   "Enviar en el primer año la ley de carrera del equipo de salud, acordada en el Consejo Federal de Salud, y ampliar becas y residencias de enfermería.",
+   "Sancionar la ley de garantías de tiempos de atención (30 días para iniciar un tratamiento oncológico, 60 para estudios y especialista, 180 para cirugías programadas) y abrir en la Fase II el registro público de listas de espera con derivación cuando se vence el plazo.",
+   "Normalizar el PAMI en el primer año con el directorio de la Ley 25.615, pagar a prestadores dentro de los 30 días, pagar a los médicos de cabecera por afiliado más resultados, digitalizar el trámite de medicamentos y publicar una auditoría externa anual.",
+   "Entregar los medicamentos del Banco de Drogas Especiales en 15 días hábiles con compra anual consolidada con las provincias y tablero público; sumar coordinadores de trasplante en cada hospital con terapia intensiva (meta: 22 donantes por millón al final de la Fase III); y reintegrar el alto costo del SUR en plazo fijo."
   ],
-  "plazos": "Stock de vacunas y recordatorios en los primeros seis meses; 95 % en primeras dosis en dos años y en refuerzos durante la Fase II. Asignación de equipo de cabecera desde la Fase I: la mayoría de la población sin cobertura al final de la Fase II y el total al final de la Fase III; programas de crónicos desde la Fase I; historia clínica interoperable y compensación entre subsistemas en la Fase II.",
-  "costo_detalle": "Las vacunas ya están presupuestadas; el costo adicional es logístico y de comunicación. Equipos de cabecera y sistemas entran en un techo de 0,2 % del PIB al año 4; parte se paga con compras conjuntas, genéricos y recupero de costos entre subsistemas.",
-  "riesgos": "Faltantes por demoras de compra: contratos plurianuales y stock de seguridad. Duda vacunal: referentes de confianza, sin estigmatizar a las familias. Filtración de datos clínicos: estándares de seguridad y control del paciente. Resistencia de subsistemas: reglas de compensación por ley y por convenio.",
-  "indicador": "Cobertura por vacuna y departamento (meta: 95 % en todo el calendario); porcentaje de hipertensos y diabéticos bajo control y tiempos de espera de derivación (meta: mayoría de la población sin cobertura con equipo de cabecera al final de la Fase II y el total al final de la Fase III).",
-  "blindaje": "Ley 27.491 vigente, contratos plurianuales, acuerdo federal con metas públicas y financiamiento por resultados, y estándares de interoperabilidad por ley.",
+  "plazos": "Stock de vacunas y recordatorios en los primeros seis meses; 95 % en primeras dosis en dos años y en refuerzos durante la Fase II. Asignación de equipo de cabecera desde la Fase I: la mayoría de la población sin cobertura al final de la Fase II y el total al final de la Fase III; programas de crónicos desde la Fase I; historia clínica interoperable y compensación entre subsistemas en la Fase II. Pagos del PAMI en 30 días y entrega de medicamentos oncológicos en 15 días hábiles desde la Fase I; relevamiento de hospitales, convenios SAMIC, normalización del PAMI y nuevo régimen de residencias en el primer año; centros de derivación en la Fase I; registro de listas de espera y plazos máximos en la Fase II; 95 % de cupos críticos de residencias cubiertos al final de la Fase II; obras hospitalarias priorizadas a lo largo del mandato; 22 donantes por millón al final de la Fase III.",
+  "costo_detalle": "Las vacunas ya están presupuestadas; el costo adicional es logístico y de comunicación. Equipos de cabecera, sistemas, adicionales de residencias y de radicación en el interior, becas de enfermería y centros de derivación entran en un techo de 0,2 % del PIB al año 4; parte se paga con compras conjuntas, genéricos y recupero de costos entre subsistemas, que en Mendoza casi se triplicó entre 2025 y 2026. Las obras y el equipamiento hospitalario van dentro del cupo de obras de la cuenta fiscal (hasta 0,6 % del PIB adicional al año 4), con crédito de organismos multilaterales y aportes provinciales. El PAMI no recibe gasto nuevo del Tesoro: pagar en fecha se financia con licitaciones de medicamentos, auditoría de prestaciones y control de fraude, y toda asistencia que necesite se presupuesta en lugar de cubrirse con letras de corto plazo. Los medicamentos oncológicos y de alto costo ya tienen partida; la compra consolidada baja su precio. Derivar cuando vence un plazo lo paga el financiador que debía cubrir la práctica.",
+  "riesgos": "Faltantes por demoras de compra: contratos plurianuales y stock de seguridad. Duda vacunal: referentes de confianza, sin estigmatizar a las familias. Filtración de datos clínicos: estándares de seguridad y control del paciente. Resistencia de subsistemas: reglas de compensación por ley y por convenio. Obras hospitalarias que se inauguran sin personal ni mantenimiento: cada obra entra al plan con su dotación y su costo de funcionamiento financiados. Plazos máximos que no se pueden cumplir: arrancan en las prácticas con más demanda, con derivación pagada por el financiador y plazos que se ajustan cada dos años. Profesionales que no quieren ir al interior: adicional por zona, puntaje en concursos y telemedicina con los hospitales de referencia. Resistencia en el PAMI: directorio con mayoría de afiliados, pagos y compras publicados y auditoría externa. Proveedores únicos de drogas de alto costo: compra consolidada, Fondo Estratégico de la OPS y evaluación independiente de tecnologías.",
+  "indicador": "Cobertura por vacuna y departamento (meta: 95 % en todo el calendario); porcentaje de hipertensos y diabéticos bajo control y tiempos de espera de derivación (meta: mayoría de la población sin cobertura con equipo de cabecera al final de la Fase II y el total al final de la Fase III). Además: porcentaje de pacientes atendidos dentro del plazo máximo por práctica (meta: 90 % al final de la Fase III); cupos de residencias críticas cubiertos (meta: 95 % al final de la Fase II); días de pago del PAMI a prestadores (meta: 30 o menos); días de entrega del Banco de Drogas Especiales (meta: 15 hábiles); y donantes por millón de habitantes (meta: 22 al final de la Fase III).",
+  "blindaje": "Ley 27.491 vigente, contratos plurianuales, acuerdo federal con metas públicas y financiamiento por resultados, y estándares de interoperabilidad por ley. Ley de garantías de tiempos de atención con registro público, directorio del PAMI según la Ley 25.615 con mayoría de afiliados, convenios SAMIC con aporte automático y carrera del equipo de salud por ley.",
   "fuentes": [
    "INDEC, Censo 2022, cobertura de salud",
    "Ministerio de Salud, informe de coberturas 2025 (vía Chequeado, 24/07/2026)",
@@ -8407,8 +9248,57 @@
    "Ministerio de Salud, Resolución 1445/2026, Plan Nacional de Abordaje Integral de Salud Vascular 2026-2030 (vía Primera Edición, oct. 2026)",
    "Análisis Digital, fin del programa Remediar: listado de esenciales de 128 a 6 drogas (16/10/2026)",
    "Análisis Digital, coberturas de vacunación 2025 y NOMIVAC (21/07/2026)",
-   "Ley 25.649 de prescripción por nombre genérico"
-  ]
+   "Ley 25.649 de prescripción por nombre genérico",
+   "Ministerio de Salud de la Nación, finalizó el proceso de toma de cargos de residentes 2025 (07/11/2025)",
+   "Ministerio de Salud de la Nación, se cubrieron todos los cargos de especialidades críticas en la primera readjudicación (06/10/2025)",
+   "La Nación, adjudicaron el 81 % de las vacantes de residencias: las especialidades más y menos elegidas (01/09/2025)",
+   "Perfil, el Garrahan en crisis: paro de residentes y medida judicial (28/05/2025)",
+   "Decreto 760/2025, promulgación de la Ley 27.796 de emergencia pediátrica con aplicación suspendida (vía Dólar Hoy, 21/10/2025)",
+   "Tiempo Argentino, a días de vencerse la emergencia pediátrica (19/10/2026)",
+   "Ley 17.102, Servicios de Atención Médica Integral para la Comunidad (SAMIC)",
+   "Letra P, hospitales SAMIC de gestión compartida y aportes de Nación y Provincia (07/01/2026)",
+   "El Marplatense, deuda bonaerense por los cinco hospitales SAMIC (07/11/2024)",
+   "Ámbito, provincias alertan la saturación del sistema público de salud (09/06/2026)",
+   "Perfil, aumentaron un 31 % las cirugías en hospitales públicos porteños (24/04/2025)",
+   "Los Andes, médicos de cabecera del PAMI y la Resolución 1107/2026 (14/04/2026)",
+   "Los Andes, el Gobierno busca cancelar la deuda del PAMI con prestadores (17/04/2026)",
+   "Canal 26, Resolución Conjunta 26/2026: asistencia de $580.000 millones al PAMI (22/05/2026)",
+   "El Ancasti, el PAMI entre la crisis financiera y el impacto en la salud de los afiliados (28/05/2026)",
+   "La Capital, requisitos para el 100 % de cobertura de medicamentos del PAMI en 2025 (30/12/2024)",
+   "Ley 19.032 (INSSJP-PAMI) y Ley 25.615; Decreto 348/2003",
+   "Ministerio de Salud, Resolución 42/2025, reglamento de la Dirección Nacional de Asistencia Directa Compensatoria (08/01/2025)",
+   "La Capital, Santa Fe refuerza con fondos propios la cobertura de medicamentos oncológicos (22/03/2026)",
+   "Chequeado, Día Nacional de la Donación de Órganos: trasplantes y lista de espera del INCUCAI (30/05/2025)",
+   "Ley 27.447 de Trasplante de Órganos, Tejidos y Células",
+   "Ley 22.127, Sistema Nacional de Residencias del Equipo de Salud; Ley 24.004 de ejercicio de la enfermería",
+   "Ley 19.966 de Chile, Régimen General de Garantías en Salud"
+  ],
+  "obras": {
+   "titulo": "Dónde: hospitales nacionales de referencia",
+   "fuente": "Ministerio de Salud de la Nación y prensa (2025-2026); ubicación aproximada",
+   "items": [
+    {
+     "nombre": "Hospital de Pediatría Garrahan (SAMIC, Parque Patricios, CABA)",
+     "detalle": "Referencia nacional pediátrica; 80 % Nación y 20 % Ciudad. Prioridad: residencias, equipamiento y telemedicina con los hospitales pediátricos del interior.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -58.3933,
+      -34.6308
+     ]
+    },
+    {
+     "nombre": "Hospital Nacional Alejandro Posadas (El Palomar, Buenos Aires)",
+     "detalle": "Hospital nacional de alta complejidad del oeste del conurbano. Prioridad: guardia, terapias y cupos de residencias críticas.",
+     "tipo": "punto",
+     "estado": "existente",
+     "coords": [
+      -58.5751,
+      -34.6299
+     ]
+    }
+   ]
+  }
  },
  {
   "n": 80,
