@@ -128,6 +128,95 @@ a{color:var(--acc)}
 .more{display:block;width:100%;border:0;border-top:1px solid var(--rule);background:transparent;color:var(--acc);font:700 .85rem var(--f);padding:12px;cursor:pointer}
 .prop[data-nivel="3"] .more{display:none}
 
+/* normas y organismos */
+.blk.nor,.blk.org{background:var(--paper)}
+.blk .sub{font-size:.9rem;color:var(--muted);margin-bottom:10px;max-width:70ch}
+.docs{border-top:1px solid var(--rule)}
+.doc{border-bottom:1px solid var(--rule)}
+.doc>summary{list-style:none;cursor:pointer;padding:12px 30px 12px 0;position:relative;display:grid;gap:3px}
+.doc>summary::-webkit-details-marker{display:none}
+.doc>summary::after{content:"+";position:absolute;right:4px;top:12px;color:var(--acc);font-weight:800;font-size:1.15rem}
+.doc[open]>summary::after{content:"–"}
+.doc .tp{justify-self:start;font:800 .62rem var(--f);letter-spacing:.09em;text-transform:uppercase;padding:2px 8px;border-radius:999px;background:var(--sheet);color:var(--ink);border:1px solid var(--rule)}
+.doc .tp.ley_nacional{background:#cc5214;color:#fff;border-color:#cc5214}
+.doc .tp.decreto{background:#3b3b3b;color:#fff;border-color:#3b3b3b}
+.doc .tp.ley_provincial{background:var(--amber-bg);color:var(--amber);border-color:transparent}
+.doc .tp.tratado,.doc .tp.ley_aprobatoria{background:#1f5f8b;color:#fff;border-color:#1f5f8b}
+.doc summary b{font-size:.98rem;line-height:1.3}
+.doc summary span.sm{font-size:.86rem;color:var(--muted)}
+.doc summary em{font-style:normal;font:700 .72rem var(--f);color:var(--acc)}
+.legal{background:var(--sheet);border-radius:10px;padding:16px 16px 18px;margin:0 0 14px;font-size:.9rem;line-height:1.55}
+.legal h5{margin:0 0 4px;font-size:.95rem;text-align:center;text-transform:uppercase;letter-spacing:.03em}
+.legal .mt{font:700 .68rem var(--f);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:14px 0 4px}
+.legal .fm{text-align:center;font-weight:700;margin:14px 0 8px}
+.legal .cap{font-weight:800;text-align:center;margin:16px 0 6px;font-size:.88rem}
+.legal .art{margin-top:8px}
+.legal .art b{font-weight:800}
+.legal .ct p+p{margin-top:6px}
+.legal ul{margin:6px 0 0;padding-left:18px}
+.legal .tool{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.legal .tool button{border:1px solid var(--rule);background:var(--paper);color:var(--ink);border-radius:999px;padding:6px 12px;font:700 .78rem var(--f);cursor:pointer}
+.legal .ver{max-height:none}
+.legal.corto .arts{max-height:340px;overflow:hidden;-webkit-mask-image:linear-gradient(#000 70%,transparent);mask-image:linear-gradient(#000 70%,transparent)}
+.norcarga{font-size:.85rem;color:var(--muted)}
+.otree,.otree ul{list-style:none;margin:0;padding:0}
+.otree ul{margin-left:14px;padding-left:14px;border-left:2px solid var(--rule)}
+.otree li{position:relative;padding-top:8px}
+.otree ul>li::before{content:"";position:absolute;left:-16px;top:26px;width:14px;border-top:2px solid var(--rule)}
+.onode{display:inline-block;max-width:100%;background:var(--paper);border:1px solid var(--rule);border-left:5px solid #8a8a8a;border-radius:10px;padding:7px 11px}
+.onode b{display:block;font-size:.88rem;line-height:1.3}
+.onode small{display:block;font-size:.78rem;color:var(--muted);line-height:1.35;margin-top:2px}
+.onode small.hoy{font-size:.7rem;font-style:italic;opacity:.85}
+.onode i{font-style:normal;font:800 .58rem var(--f);letter-spacing:.09em;text-transform:uppercase;margin-left:6px;vertical-align:1px}
+.onode.raiz{border-left-color:var(--ink)}
+.onode.nuevo{border-left-color:#1f8b4c}.onode.nuevo i{color:#1f8b4c}
+.onode.modificado{border-left-color:var(--sun)}.onode.modificado i{color:var(--amber)}
+.onode.suprimido{border-left-color:var(--red);opacity:.75}.onode.suprimido b{text-decoration:line-through}.onode.suprimido i{color:var(--red)}
+.onode.act{border-left-color:var(--orange)}
+.oleg{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:.76rem;color:var(--muted);margin:10px 0 0}
+.oleg span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px;background:var(--c)}
+.otree ul ul ul{margin-left:6px;padding-left:10px}
+@media (max-width:480px){.otree ul{margin-left:8px;padding-left:10px}.otree ul>li::before{left:-12px;width:10px}}
+.oext{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.oext div{border:1px dashed var(--rule);border-radius:10px;padding:6px 10px;font-size:.8rem;max-width:100%}
+.oext b{display:block;font-size:.82rem}
+.oext small{color:var(--muted)}
+.oex-h{font:700 .68rem var(--f);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-top:14px}
+
+/* primeros 100 días */
+.cien{padding-block:60px 20px;border-top:1px solid var(--rule)}
+.cien h2{font-size:clamp(1.5rem,3vw,2rem);font-weight:800;letter-spacing:-.02em;margin-top:8px}
+.cien .intro{color:var(--muted);max-width:70ch;margin-top:10px}
+.cnum{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:20px}
+.cnum button{border:1px solid var(--rule);background:var(--paper);border-radius:12px;padding:12px;text-align:left;cursor:pointer;color:var(--ink);font-family:var(--f)}
+.cnum button[aria-pressed="true"]{border-color:var(--acc);box-shadow:0 0 0 1px var(--acc)}
+.cnum b{display:block;font-size:1.7rem;font-weight:800;line-height:1.1;color:var(--c)}
+.cnum small{font-size:.78rem;font-weight:700;color:var(--muted)}
+.ctodo{margin-top:8px;border:0;background:none;color:var(--acc);font:700 .8rem var(--f);cursor:pointer;padding:4px 0}
+.tline{margin-top:22px;position:relative}
+.tramo{position:relative;padding:0 0 22px 30px}
+.tramo::before{content:"";position:absolute;left:9px;top:6px;bottom:0;border-left:2px solid var(--rule)}
+.tramo:last-child::before{display:none}
+.tramo .dot{position:absolute;left:0;top:2px;width:20px;height:20px;border-radius:50%;background:var(--grad)}
+.tramo h3{font-size:1.05rem;font-weight:800}
+.tramo .lema{color:var(--muted);font-size:.9rem;margin-top:2px}
+.citems{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px;margin-top:10px}
+.citem{border:1px solid var(--rule);border-top:4px solid var(--c);border-radius:10px;padding:10px 12px;background:var(--paper)}
+.citem .tp{font:800 .6rem var(--f);letter-spacing:.09em;text-transform:uppercase;color:var(--c)}
+.citem b{display:block;font-size:.92rem;line-height:1.3;margin-top:3px}
+.citem p{font-size:.84rem;color:var(--muted);margin-top:4px}
+.citem .dt{display:none}.citem.ab .dt{display:block}
+.citem{cursor:pointer}.citem b::after{content:" +";color:var(--c);font-weight:800}.citem.ab b::after{content:" –"}
+.citem .pr{font-size:.76rem;margin-top:6px}
+.citem .pr{color:var(--muted)}.citem .pr a{font-weight:700;text-decoration:none}
+.citem.oc{display:none}
+.tline:not(.filtro) .tramo:not(.todo) .citem.mas{display:none}
+.cmas{margin-top:10px;border:1px solid var(--rule);background:var(--paper);color:var(--acc);border-radius:999px;padding:7px 14px;font:700 .8rem var(--f);cursor:pointer}
+.tline.filtro .cmas,.tramo.todo .cmas{display:none}
+
+.anexo{display:none}
+@media print{.anexo{display:block;break-before:page;padding:0}.anexo h2{font-size:18pt;margin:4pt 0 6pt}.anexo .sub{font-size:9pt;color:#444;margin-bottom:8pt}.anx-p{break-inside:avoid;margin-top:8pt}.anx-p h4{font-size:9.5pt;margin:0 0 2pt}.anx-p h4 small{color:#cc5214;font-weight:800;margin-right:4pt}.anx-p ul{margin:0;padding-left:12pt}.anx-p li{font-size:8.3pt;line-height:1.35;margin:0}.anx-p li i{font-style:normal;font-weight:700}.anx-p li span{color:#666}}
+
 /* gráficos */
 .chart{margin-top:12px;background:var(--paper);border:1px solid var(--rule);border-radius:12px;padding:12px}
 .chart h4{margin:0 0 6px;font-size:.86rem;font-weight:700}
@@ -260,6 +349,14 @@ footer a{color:var(--muted)}
 /* impresión / PDF */
 @page{size:A4;margin:16mm 15mm 16mm 15mm}
 @media print{
+  .blk.nor,.blk.org,.cmas,.ctodo{display:none!important}
+  .cien{break-before:page;padding-top:0;border:0}
+  .cien .citem,.cien .citem.mas{display:block!important;break-inside:avoid;cursor:auto}
+  .cien .citem .dt{display:block}
+  .cien .citem b::after{content:none}
+  .cien .tramo{break-inside:auto}
+  .cien .citems{grid-template-columns:1fr 1fr}
+
   html,body{background:#fff!important;color:#111}
   body{font-size:10.5pt;line-height:1.5}
   .top,.indice,.seg,.more,.share,.buscar,.ideas,.contacto,.howto,.dl,.leer,.texto .tsel,.hero a.leermas,footer{display:none!important}
@@ -286,6 +383,7 @@ footer a{color:var(--muted)}
   .blk>.label{break-after:avoid;page-break-after:avoid;margin-bottom:1.5mm}
   .blk>.label+*{break-before:avoid}
   .prop [data-n="2"],.prop [data-n="3"]{display:block!important}
+  .prop .blk.nor[data-n],.prop .blk.org[data-n]{display:none!important}
   .prop .meta[data-n="2"]{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))}
   .prop .meta div{border-color:#ccc;padding:2mm}
   .prop .solo1{display:none!important}
@@ -346,7 +444,8 @@ footer a{color:var(--muted)}
     <p class="lema"><span>Una patria.</span> <span>Un pueblo.</span> <em>Bajo un mismo cielo.</em></p>
     <h1>100 propuestas para <em>la Argentina</em></h1>
     <p class="lede">La Argentina tiene recursos y gente para mucho más. Pero la obra pública se planifica poco y se termina menos, la economía se abrió y se cerró de golpe sin preparar a la industria, los impuestos castigan a quien produce y contrata, y la escuela no prepara para el trabajo que viene. Así no hay empleo de calidad ni servicios a la altura.</p>
-    <p class="lede">Debajo de eso hay un problema de reglas: demasiados cargos, contratos y oportunidades dependen del apellido o de los contactos, con un gobierno y con otro. Estas 100 propuestas no buscan cambiar de bando, sino planificar, invertir y terminar lo que se empieza; abrir con tiempo; bajar los impuestos que frenan el trabajo; modernizar la educación; y que todo poder rinda cuentas. <a class="leermas" href="#porque">Por qué, al final&nbsp;→</a></p>
+    <p class="lede">Debajo de eso hay un problema de reglas: demasiados cargos, contratos y oportunidades dependen del apellido o de los contactos, con un gobierno y con otro. Estas 100 propuestas no buscan cambiar de bando, sino planificar, invertir y terminar lo que se empieza; abrir con tiempo; bajar los impuestos que frenan el trabajo; modernizar la educación; y que todo poder rinda cuentas.</p>
+    <p class="lede">Y todo eso, sin odio: firmes con la ley y en las ideas, pero sin desprecio por nadie, porque en el que piensa distinto, y aun en quien violó la ley, sigue habiendo una persona con derechos. <a class="leermas" href="#porque">Por qué, al final&nbsp;→</a></p>
   </div>
 </section>
 <section class="leer"><div class="in">
@@ -377,10 +476,10 @@ footer a{color:var(--muted)}
   <div class="cg">
     <div class="chart"><h4>Impuestos que bajan · 3,1 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Impuestos que bajan en el mandato", "datos": [{"x": "Ingresos Brutos (¼)", "y": 0.9}, {"x": "Cheque (mitad)", "y": 0.8}, {"x": "Retenciones", "y": 0.6}, {"x": "Sellos", "y": 0.4}, {"x": "Ganancias sueldo", "y": 0.4}]}'></div></div>
     <div class="chart"><h4>Con qué se reemplazan · 3,1 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Con qué se reemplazan", "datos": [{"x": "Impuesto al suelo", "y": 1.2}, {"x": "Menos evasión", "y": 1.2}, {"x": "Menos subsidios", "y": 0.5}, {"x": "Herencias grandes", "y": 0.2}]}'></div></div>
-    <div class="chart"><h4>Qué se paga con el crecimiento · 1,7 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Qué se paga con el crecimiento", "datos": [{"x": "Programas nuevos", "y": 1.1}, {"x": "Jubilaciones y salarios", "y": 0.5}, {"x": "Defensa", "y": 0.1}]}'></div><p class="cn">Supone 3,5 % de crecimiento anual. Si se crece menos, primero se cumplen salud, primera infancia, desempleo, violencia y discapacidad, y el resto se escalona.</p></div>
+    <div class="chart"><h4>Qué se paga con el crecimiento · 1,9 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Qué se paga con el crecimiento", "datos": [{"x": "Programas nuevos", "y": 1.1}, {"x": "Jubilaciones y salarios", "y": 0.5}, {"x": "Universidades (Ley 27.795)", "y": 0.2}, {"x": "Defensa", "y": 0.1}]}'></div><p class="cn">Supone 3,5 % de crecimiento anual. Si se crece menos, primero se cumplen salud, primera infancia, desempleo, violencia y discapacidad, y el resto se escalona.</p></div>
   </div>
   <div class="cx">
-    <div><b>Superávit todo el mandato</b><span>El resultado primario (ingresos menos gastos, sin contar intereses) baja de 1,2 a cerca de 0,6 % del PIB, pero nunca pasa a déficit. Los intereses se pagan con superávit.</span></div>
+    <div><b>Superávit todo el mandato</b><span>El resultado primario (ingresos menos gastos, sin contar intereses) baja de 1,2 a cerca de 0,4 % del PIB, pero nunca pasa a déficit. Los intereses se pagan con superávit.</span></div>
     <div><b>Deuda solo para obras</b><span>Hasta 0,6 % del PIB más de obra por año al final del mandato, con organismos internacionales de crédito, aranceles de transición y contrapartidas de inversores.</span></div>
     <div><b>Lo que queda para después</b><span>El resto de Ingresos Brutos y del cheque, y el IVA al 10,5 %: unos 6,5 puntos más. El camino del IVA queda fijado por ley y cada escalón baja solo cuando entra su reemplazo. Lo que hoy no paga IVA no pasa a pagarlo.</span></div>
   </div>
@@ -416,6 +515,7 @@ footer a{color:var(--muted)}
       <p>El resultado se ve en el trabajo: casi cuatro de cada diez asalariados no tienen aportes jubilatorios. Y se suma una escuela que no prepara para el mundo que viene y servicios sociales de calidad muy desigual.</p>
       <p>Debajo de todo hay un problema de reglas. Demasiados cargos, contratos y oportunidades dependen del apellido o de los contactos, y eso ocurre con más Estado y con más mercado. La ley nos reconoce los mismos derechos, pero la realidad no nos da las mismas oportunidades. Y la tecnología que llevamos encima puede servir para vigilar a todos sin que nadie controle a quien vigila.</p>
       <p>Por eso estas propuestas combinan las dos tareas. Planificar, financiar y terminar la infraestructura. Abrir la economía por etapas y con reglas de competencia. Bajar los impuestos que frenan el trabajo, reemplazándolos sin déficit. Modernizar la escuela y los servicios. Y cambiar las reglas para que nadie herede un lugar y todo poder rinda cuentas.</p>
+      <p>Y nada de esto se logra con odio. Al que piensa distinto, e incluso a quien violó la ley, se lo enfrenta con argumentos y con juicios justos, no con burla ni desprecio: en el otro sigue habiendo una persona con derechos.</p>
       <p class="remate">A la Argentina no se la hereda terminada: se la funda cada vez.</p>
     </div>
 
@@ -431,7 +531,9 @@ footer a{color:var(--muted)}
       <p>Debajo de todo hay un problema que atraviesa a todos los gobiernos. Demasiados cargos, contratos y oportunidades dependen del apellido o de los contactos. La ley nos reconoce los mismos derechos, pero la realidad no nos da las mismas oportunidades: no es igual crecer con alguien que te respalde que sin nadie. Con más Estado, el privilegio se esconde en los favores; con un mercado capturado, se compra. Y las instituciones que alguna vez igualaron no tenían forma de renovarse, y quedaron en manos de los mismos.</p>
       <p>A eso se suma algo nuevo. El celular, el auto, las cámaras y los centros de datos saben dónde estamos y qué hacemos. En manos de un gobierno, de una empresa, de un servicio de inteligencia o de una mafia, eso alcanza para vigilar sin rendir cuentas.</p>
       <h3>Cambiar las reglas, no el bando</h3>
-      <p>La salida no es pasarse al otro lado de la grieta. Es que las instituciones estén obligadas a abrirse, medirse y renovarse: <a href="#p61">empleo público por concurso y sin parientes</a>, <a href="#p63">jueces por concurso</a>, <a href="#p56">compras del Estado</a> y <a href="#p98">financiamiento de campañas</a> a la vista de todos, <a href="#p97">una sola reelección</a>, <a href="#p14">herencias grandes que pagan</a> y <a href="#p57">un Estado transparente con un ciudadano privado</a>.</p>
+      <p>La salida no es pasarse al otro lado de la grieta. Es que las instituciones estén obligadas a abrirse, medirse y renovarse: <a href="#p61">empleo público por concurso y sin parientes</a>, <a href="#p63">jueces por concurso</a>, <a href="#p56">compras del Estado</a> y <a href="#p98">financiamiento de campañas</a> a la vista de todos, <a href="#p97">una sola reelección y retiro a los 70</a>, <a href="#p14">herencias grandes que pagan</a> y <a href="#p57">un Estado transparente con un ciudadano privado</a>.</p>
+      <h3>Sin odio</h3>
+      <p>Hay algo que ninguna ley resuelve sola: el odio. Al que piensa distinto, al que votó a otro, incluso a quien cometió un delito. Empieza con una burla en las redes, sigue con la humillación y la persecución, y a veces termina en violencia; y se propaga como si fuera gratis. Pero en el otro, por grandes que sean las diferencias o por grave que sea lo que hizo, sigue habiendo una persona con derechos. Eso no es impunidad: las diferencias se discuten, la ley se cumple y quien la viola va a juicio. Es juzgar los hechos sin despreciar a las personas. La empatía es la base de cualquier país que quiera vivir junto.</p>
       <p>No prometemos que sea fácil ni rápido. Prometemos que cada propuesta diga qué se hace, por qué y cómo, con su costo, para que cualquiera pueda controlarla.</p>
       <p class="remate">A la Argentina no se la hereda terminada: se la funda cada vez.</p>
     </div>
@@ -470,7 +572,12 @@ footer a{color:var(--muted)}
       <p>Por eso proponemos <a href="#p57">prohibir la vigilancia masiva y que cada uno pueda ver quién consultó sus datos y para qué</a>, y <a href="#p58">servicios de inteligencia bajo control del Congreso, sin espionaje interno y sin servicios extranjeros operando en el país sin orden de un juez argentino</a>. El Estado, transparente; el ciudadano, privado.</p>
 
       <h3>Cambiar las reglas, no el bando</h3>
-      <p>La salida no es pasarse al otro lado de la grieta: el que cambia de bando hereda el mismo sistema. La salida es que las instituciones estén obligadas a abrirse, medirse y renovarse, para que ningún grupo pueda quedarse con ellas. En concreto: <a href="#p61">empleo público por concurso y sin parientes</a>, <a href="#p63">jueces por concurso</a>, <a href="#p56">compras del Estado</a> a la vista de todos el mismo día y <a href="#p98">el financiamiento de campañas</a> en 72 horas, <a href="#p97">una sola reelección en la vida</a>, <a href="#p59">el control en manos de la oposición</a>, <a href="#p65">que la corrupción no prescriba</a> y <a href="#p9">un INDEC que ningún gobierno pueda tocar</a>.</p>
+      <p>La salida no es pasarse al otro lado de la grieta: el que cambia de bando hereda el mismo sistema. La salida es que las instituciones estén obligadas a abrirse, medirse y renovarse, para que ningún grupo pueda quedarse con ellas. En concreto: <a href="#p61">empleo público por concurso y sin parientes</a>, <a href="#p63">jueces por concurso</a>, <a href="#p56">compras del Estado</a> a la vista de todos el mismo día y <a href="#p98">el financiamiento de campañas</a> en 72 horas, <a href="#p97">una sola reelección en la vida y ningún cargo público después de los 70 años</a>, <a href="#p59">el control en manos de la oposición</a>, <a href="#p65">que la corrupción no prescriba</a> y <a href="#p9">un INDEC que ningún gobierno pueda tocar</a>.</p>
+
+      <h3>Terminar con el odio</h3>
+      <p>Hay algo más que ninguna reforma resuelve sola. Se volvió normal odiar: al que piensa distinto, al que votó a otro, al que cometió un delito. Empieza con un comentario, sigue con la burla y la humillación en las redes, se vuelve escrache y persecución, y a veces termina en violencia. Y se propaga como si fuera gratis, como si despreciar al otro no costara nada. Cuesta, y mucho: deteriora la convivencia, envenena la conversación pública, aleja a la gente de la política y vuelve imposible cualquier acuerdo. Es un síntoma de decadencia, y hay que cortarlo.</p>
+      <p>La civilización, desde la filosofía hasta las religiones, se construyó sobre una idea simple y difícil: en el otro, por grandes que sean las diferencias e incluso después de lo peor que haya hecho, sigue habiendo una persona, con dignidad y con derechos. Es la misma idea que sostiene la Constitución: los derechos no se ganan por pensar como la mayoría ni se pierden por equivocarse.</p>
+      <p>Terminar con el odio no es impunidad ni falta de firmeza. Las diferencias políticas se discuten con fuerza; quien viola la ley responde ante un juez, con un juicio justo y una pena; y el Estado de derecho no se negocia. Lo que cambia es la forma: se juzgan los hechos, no se desprecia a las personas. La empatía no es debilidad; es la condición para vivir juntos. Y empieza por casa: este programa no habla del adversario con desprecio.</p>
 
       <h3>Lo que no prometemos</h3>
       <p>No prometemos soluciones mágicas. Transformar la infraestructura, la producción, la escuela y las instituciones lleva tiempo, y por eso este programa está ordenado en etapas y pensado para durar más que quien lo empiece. Tampoco buscamos culpables con nombre y apellido: apuntamos a las reglas, no a las personas. El que vota distinto no es un enemigo; es un compatriota que rema en el mismo bote.</p>
@@ -481,6 +588,9 @@ footer a{color:var(--muted)}
 </section>
 
 <section class="faq" id="preguntas"><div class="in"><span class="label">Preguntas difíciles</span><h2>Lo que nos van a preguntar</h2><div class="lst"><details><summary>¿Cómo se paga todo esto?</summary><p>Sin subir la presión total: lo que baja, se reemplaza. Cada impuesto que baja se reemplaza en el mismo presupuesto con impuestos al suelo y a las herencias grandes, menos evasión y menos subsidios y privilegios: 3,1 puntos del PIB en el mandato. Lo nuevo se paga con el crecimiento, y las obras, con deuda que solo puede usarse para obras, sin déficit primario (sin gastar más de lo que entra, antes de pagar intereses). <a href="#cuenta">Ver la cuenta</a>.</p></details><details><summary>¿Gradual no es lo mismo que no hacer nada?</summary><p>No. Gradual es hacer lo correcto a la velocidad que la sociedad puede sostener, con un orden donde cada paso habilita al siguiente. Las reglas duras —déficit cero, tope de emisión— se votan en el primer año y rigen desde el presupuesto siguiente; el superávit se sostiene desde el primer día. Lo que lleva tiempo es transformar la producción y el empleo, y eso ningún país lo logró de golpe sin pagar un costo enorme.</p></details><details><summary>¿El impuesto a la herencia no es confiscatorio?</summary><p>No toca la vivienda única ni la pequeña empresa familiar, y no se suma: reemplaza impuestos que hoy castigan al que trabaja, produce y consume. Cobra sobre lo que alguien recibe sin haberlo ganado. Premia el mérito y castiga el privilegio heredado; es lo contrario de que todo dependa de la cuna.</p></details><details><summary>¿Esto es liberalismo o estatismo?</summary><p>Ninguna de las dos cosas. Baja los impuestos que traban la producción, abre la economía y libera el mercado de cambios, pero con tiempo y con red. El Estado actúa por la vía mínima —destraba, coordina, protege— e invierte directamente solo donde nadie más lo hace y está en juego algo estratégico.</p></details><details><summary>¿Por qué no hay perdón para los ex presidentes?</summary><p>Porque la corrupción no se cierra con un indulto. Proponemos una Comisión contra la Corrupción independiente del Poder Ejecutivo, que la prescripción no corra mientras el acusado conserve poder, y que el Estado recupere lo robado. No se persigue a nadie por su color político: se desarma un sistema.</p></details><details><summary>¿Legalizar algunas drogas no aumenta el consumo?</summary><p>La propuesta no es liberar sino regular con supervisión médica: tratar el consumo como un problema de salud y no como un negocio del crimen organizado. Qué sustancias y con qué reglas lo define una ley, con evaluación sanitaria, y los recursos que hoy van a perseguir consumidores pasan a prevención y tratamiento.</p></details><details><summary>¿Abrir la economía no destruye la industria?</summary><p>Abrir de golpe, sí. Por eso la apertura es por etapas, empieza por lo que no cumple estándares laborales o ambientales, usa aranceles de transición con fecha de vencimiento y exige contenido nacional a las grandes inversiones. Primero se gana competitividad; después se abre más.</p></details><details><summary>¿Malvinas sin conflicto no es resignarse?</summary><p>No se renuncia a nada: el reclamo es permanente e irrenunciable, como dice la Constitución. Bajamos tensiones con el Reino Unido, trabajamos con los isleños respetando su modo de vida y marcamos límites claros sobre pesca, recursos y militarización. Firmeza en el objetivo, sensatez en el camino.</p></details><details><summary>¿Por qué condenar también a países aliados?</summary><p>Porque los derechos humanos se defienden con una sola vara. Una Argentina que condena a unos y calla ante otros según la conveniencia del momento pierde la única herramienta que tiene un país mediano frente a una potencia: el derecho internacional.</p></details><details><summary>¿Por qué un plan de dos a seis mandatos?</summary><p>Porque ningún país resolvió una combinación de inflación, deuda, pobreza e informalidad como la argentina en menos de una generación sin autoritarismo. Lo que nos faltó no son ideas, es sostener el rumbo. Por eso cada reforma se diseña para sobrevivir a quien la empezó.</p></details><details><summary>¿Esto es la plataforma de un partido?</summary><p>No. Es un programa técnico que cualquier fuerza política puede tomar. Una política de Estado, por definición, no puede ser de un solo partido.</p></details></div></div></section>
+<section class="cien" id="cien" hidden><div class="in"><span class="label">Agenda de gobierno</span><h2>Los primeros 100 días</h2><p class="intro" id="cintro"></p>
+<div class="cnum" id="cnum"></div><button type="button" class="ctodo" id="ctodo" hidden>Ver todo</button><div class="tline" id="tline"></div></div></section>
+<section class="anexo" id="anexo"><div class="in"><span class="label">Anexo</span><h2>Las normas del programa</h2><p class="sub">Cada propuesta, con las leyes, decretos, resoluciones, acuerdos y tratados que la ponen en marcha y cuándo se dictan. Los textos completos están en propuestasargentina.netlify.app, en el nivel Completo de cada propuesta.</p><div id="anx"></div></div></section>
 <section class="autor" id="autor"><div class="in">
   <div class="bio">
     <span class="label">Quién escribe</span>
@@ -531,7 +641,7 @@ footer a{color:var(--muted)}
 </section>
 </main>
 
-<footer><div class="in"><span>Programa técnico de Franco Martín López · Argentina</span><span><a href="#cuenta">La cuenta</a> · <a href="#preguntas">Preguntas</a> · <a href="#autor">Autor</a> · <a href="privacidad.html">Privacidad</a> · Datos a octubre de 2026</span></div></footer>
+<footer><div class="in"><span>Programa técnico de Franco Martín López · Argentina</span><span><a href="#cuenta">La cuenta</a> · <a href="#preguntas">Preguntas</a> · <a href="#cien">100 días</a> · <a href="#autor">Autor</a> · <a href="privacidad.html">Privacidad</a> · Datos a octubre de 2026</span></div></footer>
 
 <script>
 (function(){
@@ -656,6 +766,39 @@ function chart(g){
   return '<figure class="chart" style="margin:12px 0 0"><h4>'+esc(g.titulo)+(g.unidad?' <span style="color:var(--muted);font-weight:500">· '+esc(g.unidad)+'</span>':'')+'</h4>'+body+(g.fuente?'<p class="src">Fuente: '+esc(g.fuente)+'</p>':'')+'</figure>';
 }
 
+var NORMAS={},NCACHE={};
+var TIPO={ley_nacional:"Ley nacional",decreto:"Decreto",ley_provincial:"Modelo de ley provincial",tratado:"Tratado",ley_aprobatoria:"Ley aprobatoria",resolucion:"Resolución",acuerdo_federal:"Acuerdo federal",ordenanza_modelo:"Ordenanza modelo",invitacion:"Invitación"};
+var EORG={nuevo:"Nuevo",modificado:"Cambia",suprimido:"Se suprime"};
+function fmHTML(d){var f=d.formula||"";if(!f)return "";if(f.length<220)return '<p class="fm">'+esc(f)+'</p>';var ps=f.split(/\n\s*\n/).filter(function(x){return x.trim()&&norm(x)!==norm(d.titulo)});return '<p class="mt">Preámbulo</p><div class="ct">'+ps.map(function(x){return '<p>'+esc(x.trim())+'</p>'}).join("")+'</div>'}
+function docHTML(d,i,n){
+  var arts=(d.capitulos||[]).map(function(c){return (c.titulo?'<p class="cap">'+esc(c.titulo)+'</p>':'')+(c.articulos||[]).map(function(a){return '<p class="art"><b>ARTÍCULO '+a.n+'°.-</b> '+(a.epigrafe?'<b>'+esc(a.epigrafe)+'.</b> ':'')+esc(a.texto).replace(/\n/g,"<br>")+'</p>'}).join("")}).join("");
+  var na=(d.capitulos||[]).reduce(function(t,c){return t+(c.articulos||[]).length},0);
+  var head=(d.visto||(d.considerando||[]).length)?
+    (d.visto?'<p class="mt">Visto</p><p>'+esc(d.visto.replace(/^\s*VISTO:?\s*/i,""))+'</p>':'')+((d.considerando||[]).length?'<p class="mt">Considerando</p><div class="ct">'+d.considerando.map(function(c){return '<p>'+esc(c)+'</p>'}).join("")+'</div>':''):
+    (d.motivos?'<p class="mt">'+(d.tipo==="tratado"?"Preámbulo":"Fundamentos")+'</p><div class="ct">'+paras(d.motivos)+'</div>':'');
+  var vari=(d.variantes||[]).filter(function(v){return v.variante!=="a"}).map(function(v){return '<p class="mt">Variante '+esc(v.variante)+'</p><p><i>'+esc(v.condicion||"")+'</i></p>'+(v.sustituye_articulos||[]).map(function(a){return '<p class="art"><b>ARTÍCULO '+a.n+'°.-</b> '+(a.epigrafe?'<b>'+esc(a.epigrafe)+'.</b> ':'')+esc(a.texto).replace(/\n/g,"<br>")+'</p>'}).join("")}).join("");
+  if((d.variantes||[]).length){var va=(d.variantes||[]).filter(function(v){return v.variante==="a"})[0];if(va)vari='<p class="mt">Variante a (texto principal)</p><p><i>'+esc(va.condicion||"")+'</i></p>'+vari}
+  var mod=((d.modifica||[]).length?'<p class="mt">Modifica</p><ul>'+d.modifica.map(function(x){return '<li>'+esc(x)+'</li>'}).join("")+'</ul>':'')+((d.deroga||[]).length?'<p class="mt">Deroga</p><ul>'+d.deroga.map(function(x){return '<li>'+esc(x)+'</li>'}).join("")+'</ul>':'');
+  return '<details class="doc"><summary><span class="tp '+esc(d.tipo)+'">'+(TIPO[d.tipo]||esc(d.tipo))+'</span><b>'+esc(d.titulo)+'</b><span class="sm">'+esc(d.sumilla||"")+'</span>'+(d.cuando||na?'<em>'+[d.cuando?esc(d.cuando):"",na?na+' artículos':""].filter(Boolean).join(" · ")+'</em>':'')+(d.tramite?'<span class="sm">Trámite: '+esc(d.tramite)+'</span>':'')+((d.otras||[]).length?'<span class="sm">También ejecuta la propuesta '+d.otras.join(", ")+'.</span>':'')+'</summary>'+
+   '<div class="legal corto" data-doc="'+n+'-'+i+'"><h5>'+esc(d.titulo)+'</h5>'+'<div class="arts">'+head+fmHTML(d)+arts+vari+mod+'</div>'+
+   '<div class="tool"><button type="button" data-ver>Ver texto completo</button><button type="button" data-word>Descargar (Word)</button></div></div></details>';
+}
+function nodoOrg(x,raiz){var e=x.estado&&EORG[x.estado]?x.estado:(raiz?"raiz":(x.rol?"act":""));
+  return '<li><div class="onode '+e+'"><b>'+esc(x.nombre)+(EORG[x.estado]?'<i>'+EORG[x.estado]+'</i>':'')+'</b>'+(x.rol?'<small>'+esc(x.rol)+'</small>':'')+(x.hoy?'<small class="hoy">Hoy: '+esc(x.hoy)+'</small>':'')+'</div>'+((x.hijos||[]).length?'<ul>'+x.hijos.map(function(h){return nodoOrg(h)}).join("")+'</ul>':'')+'</li>'}
+function orgHTML(o){if(!o||!o.arbol)return "";
+  var usa={};(function rec(x){usa[x.estado||""]=1;(x.hijos||[]).forEach(rec)})(o.arbol);
+  var leg='<div class="oleg"><span style="--c:var(--orange)">Interviene</span>'+(usa.nuevo?'<span style="--c:#1f8b4c">Nuevo</span>':'')+(usa.modificado?'<span style="--c:var(--sun)">Cambia</span>':'')+(usa.suprimido?'<span style="--c:var(--red)">Se suprime</span>':'')+'</div>';
+  return (o.nota?'<p class="sub">'+esc(o.nota)+'</p>':'')+'<ul class="otree">'+nodoOrg(o.arbol,true)+'</ul>'+leg+((o.externos||[]).length?'<p class="oex-h">Fuera del Poder Ejecutivo</p><div class="oext">'+o.externos.map(function(x){return '<div><b>'+esc(x.nombre)+'</b><small>'+esc(x.rol||"")+'</small></div>'}).join("")+'</div>':'');
+}
+function cargarNormas(el){var n=el.id.slice(1);if(!NORMAS[n]||el.getAttribute("data-nor"))return;el.setAttribute("data-nor","1");
+  var pon=function(j){NCACHE[n]=j;var a=el.querySelector("[data-norx]"),b=el.querySelector("[data-orgx]");if(a)a.innerHTML='<div class="docs">'+(j.normas||[]).map(function(d,i){return docHTML(d,i,n)}).join("")+'</div>';if(b)b.innerHTML=orgHTML(j.organismos)};
+  fetch("datos/normas/"+n+".json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(pon).catch(function(){var a=el.querySelector("[data-norx]");if(a)a.innerHTML='<p class="norcarga">No se pudieron cargar los textos.</p>';el.removeAttribute("data-nor")});
+}
+function docPlano(d){var t=[];t.push(d.titulo.toUpperCase(),"");if(d.visto||(d.considerando||[]).length){if(d.visto)t.push("VISTO "+d.visto.replace(/^\s*VISTO:?\s*/i,""),"");if((d.considerando||[]).length){t.push("CONSIDERANDO:");d.considerando.forEach(function(c){t.push(c)});t.push("")}}else if(d.motivos){t.push(d.tipo==="tratado"?"PREÁMBULO":"FUNDAMENTOS",d.motivos,"")}
+  if(d.formula)t.push(d.formula.split(/\n\s*\n/).filter(function(x){return norm(x)!==norm(d.titulo)}).join("\n"),"");(d.capitulos||[]).forEach(function(c){if(c.titulo)t.push(c.titulo.toUpperCase());(c.articulos||[]).forEach(function(a){t.push("ARTÍCULO "+a.n+"°.- "+(a.epigrafe?a.epigrafe+". ":"")+a.texto)});t.push("")});return t}
+function bajarWord(n,i){var d=NCACHE[n].normas[i];var html='<html><head><meta charset="utf-8"><title>'+esc(d.titulo)+'</title></head><body style="font-family:Times New Roman;font-size:12pt;line-height:1.5">'+docPlano(d).map(function(l){return '<p>'+esc(l)+'</p>'}).join("")+'<p style="color:#666;font-size:9pt">Propuesta '+n+' · 100 propuestas para la Argentina · Modelo de trabajo</p></body></html>';
+  var b=new Blob(["﻿"+html],{type:"application/msword"}),a=document.createElement("a");a.href=URL.createObjectURL(b);a.download="propuesta-"+n+"-"+(d.tipo||"norma")+".doc";document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},500)}
+
 function card(p){
   var d=p.dato||{};
   var pasos=(p.pasos||[]).length?'<ol>'+p.pasos.map(function(x){return "<li>"+esc(x)+"</li>"}).join("")+'</ol>':"";
@@ -675,6 +818,8 @@ function card(p){
      '<div class="meta" data-n="2"><div><small>Cuándo</small><b>'+esc(p.cuando)+'</b></div><div><small>Instrumento</small><b>'+esc(p.instrumento)+'</b></div><div><small>Costo</small><b>'+esc(p.costo)+'</b></div><div><small>Actores</small><b>'+esc(p.actores)+'</b></div></div>'+
      '<div data-n="2">'+chartObras(p.obras)+'</div>'+'<dl class="dims" data-n="3">'+dims+'</dl>'+
      ((p.fuentes||[]).length?'<p class="fuentes" data-n="3">Fuentes: '+p.fuentes.map(esc).join(" · ")+'</p>':'')+'</div>'+
+   (NORMAS[p.n]?'<div class="blk nor" data-n="3"><span class="label">Normas</span><p class="sub">Los textos que habría que aprobar para ponerla en marcha. Están ordenadas por fase: primero las de los primeros 100 días y del primer año, después las de las Fases II y III. Son modelos de trabajo, para discutir y mejorar.</p><div class="norx" data-norx="'+p.n+'"><p class="norcarga">Cargando…</p></div></div>'+
+    '<div class="blk org" data-n="3"><span class="label">Organismos</span><div class="orgx" data-orgx="'+p.n+'"></div></div>':'')+
    '<button type="button" class="more">Ver más ↓</button></article>';
 }
 
@@ -696,7 +841,7 @@ function buscar(q){
     var a=h.id.slice(1),any=document.querySelector('.prop[data-area="'+a+'"]:not(.oculta)');h.classList.toggle("oculta",!any)});
   document.getElementById("qn").textContent=q?vis+" de 100":"";
 }
-function setProp(el,n){el.setAttribute("data-nivel",n);el.querySelectorAll("[data-p]").forEach(function(b){b.setAttribute("aria-pressed",b.getAttribute("data-p")===String(n)?"true":"false")})}
+function setProp(el,n){el.setAttribute("data-nivel",n);if(String(n)==="3")cargarNormas(el);el.querySelectorAll("[data-p]").forEach(function(b){b.setAttribute("aria-pressed",b.getAttribute("data-p")===String(n)?"true":"false")})}
 function setAll(n){document.querySelectorAll(".prop").forEach(function(el){setProp(el,n)});document.querySelectorAll("[data-g]").forEach(function(b){b.setAttribute("aria-pressed",b.getAttribute("data-g")===String(n)?"true":"false")});try{localStorage.setItem("nivel",String(n))}catch(e){}}
 
 function render(lista){
@@ -715,6 +860,8 @@ function render(lista){
       var b=ev.target.closest("[data-p]");if(b){setProp(el,b.getAttribute("data-p"));return}
       if(ev.target.closest(".more"))setProp(el,Math.min(3,+el.getAttribute("data-nivel")+1));
       var sh=ev.target.closest("[data-share]");if(sh)compartir(sh,el);
+      var vv=ev.target.closest("[data-ver]");if(vv){var lg=vv.closest(".legal");lg.classList.toggle("corto");vv.textContent=lg.classList.contains("corto")?"Ver texto completo":"Ver menos"}
+      var ww=ev.target.closest("[data-word]");if(ww){var k=ww.closest(".legal").getAttribute("data-doc").split("-");bajarWord(k[0],+k[1])}
     });
   });
   var s=null;try{s=localStorage.getItem("nivel")}catch(e){}
@@ -726,6 +873,23 @@ document.querySelectorAll("[data-g]").forEach(function(b){b.addEventListener("cl
 function setTexto(n){var t=document.getElementById("porque");if(!t)return;t.setAttribute("data-nivel",n);t.querySelectorAll("[data-t]").forEach(function(b){b.setAttribute("aria-pressed",b.getAttribute("data-t")===String(n)?"true":"false")})}
 document.querySelectorAll("[data-t]").forEach(function(b){b.addEventListener("click",function(){setTexto(b.getAttribute("data-t"))})});
 
+var CT={decreto:["Decretos","Decreto","#3b3b3b"],ley:["Leyes al Congreso","Proyecto de ley","#cc5214"],ejecutiva:["Medidas ejecutivas","Medida ejecutiva","#1f5f8b"]};
+function cien(c){var sc=document.getElementById("cien");if(!c||!c.tramos||!sc)return;sc.hidden=false;
+  document.getElementById("cintro").textContent=c.intro||"";
+  var cnt={decreto:0,ley:0,ejecutiva:0};c.tramos.forEach(function(t){t.items.forEach(function(i){cnt[i.tipo]=(cnt[i.tipo]||0)+1})});
+  document.getElementById("cnum").innerHTML=Object.keys(CT).map(function(k){return '<button type="button" data-ct="'+k+'" aria-pressed="false" style="--c:'+CT[k][2]+'"><b>'+cnt[k]+'</b><small>'+CT[k][0]+'</small></button>'}).join("");
+  document.getElementById("tline").innerHTML=c.tramos.map(function(t){return '<div class="tramo"><span class="dot"></span><h3>'+esc(t.tramo)+'</h3>'+(t.lema?'<p class="lema">'+esc(t.lema)+'</p>':'')+'<div class="citems">'+t.items.map(function(i,j){var k=CT[i.tipo]||CT.ejecutiva;return '<div class="citem'+(j>=4?' mas':'')+'" data-tp="'+esc(i.tipo)+'" style="--c:'+k[2]+'"><span class="tp">'+k[1]+'</span><b>'+esc(i.titulo)+'</b><p class="dt">'+esc(i.detalle||"")+'</p>'+((i.props||[]).length?'<p class="pr">'+(i.props.length>1?'Propuestas ':'Propuesta ')+i.props.map(function(n){return '<a href="#p'+n+'" data-ir="'+n+'">'+n+'</a>'}).join(" · ")+'</p>':'')+'</div>'}).join("")+'</div>'+(t.items.length>4?'<button type="button" class="cmas">Ver las '+(t.items.length-4)+' medidas restantes</button>':'')+'</div>'}).join("");
+  var todo=document.getElementById("ctodo");
+  function filtra(k){document.querySelectorAll("[data-ct]").forEach(function(b){b.setAttribute("aria-pressed",b.getAttribute("data-ct")===k?"true":"false")});document.querySelectorAll(".citem").forEach(function(e){e.classList.toggle("oc",!!k&&e.getAttribute("data-tp")!==k)});document.querySelectorAll(".tramo").forEach(function(t){t.hidden=!t.querySelector(".citem:not(.oc)")});document.getElementById("tline").classList.toggle("filtro",!!k);todo.hidden=!k}
+  document.querySelectorAll(".cmas").forEach(function(b){b.addEventListener("click",function(){b.closest(".tramo").classList.add("todo")})});
+  document.querySelectorAll("[data-ct]").forEach(function(b){b.addEventListener("click",function(){filtra(b.getAttribute("aria-pressed")==="true"?"":b.getAttribute("data-ct"))})});
+  todo.addEventListener("click",function(){filtra("")});
+  document.querySelectorAll(".citem").forEach(function(e){e.addEventListener("click",function(ev){if(ev.target.closest("a"))return;e.classList.toggle("ab")})});
+  document.querySelectorAll("[data-ir]").forEach(function(a){a.addEventListener("click",function(){qi.value="";buscar("");var t=document.getElementById("p"+a.getAttribute("data-ir"));if(t)setProp(t,2)})});
+}
+
+fetch("datos/anexo.json").then(function(r){return r.ok?r.json():[]}).then(function(a){var el=document.getElementById("anx");if(!el||!a.length)return;el.innerHTML=a.map(function(p){return '<div class="anx-p"><h4><small>'+p.n+'</small>'+esc(p.t)+'</h4><ul>'+p.l.map(function(x){return '<li><i>'+esc(x[0])+':</i> '+esc(x[1])+(x[2]?' <span>· '+esc(x[2])+'</span>':'')+'</li>'}).join("")+'</ul></div>'}).join("")}).catch(function(){});
+
 var qi=document.getElementById("q");qi.addEventListener("input",function(){buscar(qi.value)});
 document.querySelectorAll(".idea").forEach(function(a){a.addEventListener("click",function(){var h=a.getAttribute("href");if(/^#p\d+$/.test(h)){qi.value="";buscar("");var t=document.querySelector(h);if(t)setProp(t,2)}})});
 var sel=document.getElementById("p");PROV.forEach(function(n){var o=document.createElement("option");o.textContent=n;sel.appendChild(o)});
@@ -733,8 +897,10 @@ document.querySelector("form.f").addEventListener("submit",function(ev){if(/clau
 
 Promise.all([
   fetch("datos/propuestas.json").then(function(r){if(!r.ok)throw new Error(r.status);return r.json()}),
-  fetch("datos/mapa.json").then(function(r){return r.ok?r.json():null}).catch(function(){return null})
-]).then(function(res){MAPA=res[1];render(res[0])}).catch(function(e){
+  fetch("datos/mapa.json").then(function(r){return r.ok?r.json():null}).catch(function(){return null}),
+  fetch("datos/normas/indice.json").then(function(r){return r.ok?r.json():[]}).catch(function(){return []}),
+  fetch("datos/cien_dias.json").then(function(r){return r.ok?r.json():null}).catch(function(){return null})
+]).then(function(res){MAPA=res[1];(res[2]||[]).forEach(function(n){NORMAS[n]=1});render(res[0]);cien(res[3])}).catch(function(e){
   document.getElementById("lista").innerHTML='<p class="cargando">No se pudieron cargar las propuestas ('+esc(e.message)+').</p>';
 });
 document.querySelectorAll("[data-chart]").forEach(function(el){try{el.innerHTML=chartBars(JSON.parse(el.getAttribute("data-chart")))}catch(e){}});
