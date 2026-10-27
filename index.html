@@ -65,6 +65,11 @@ a{color:var(--acc)}
 .hero h1 em{font-style:normal;color:#111}
 .hero .lede{font-size:1.06rem;font-weight:500;max-width:62ch;margin-top:16px}
 .hero .lede+.lede{margin-top:10px}
+.hero .lema{font-size:clamp(1.35rem,3.4vw,2.1rem);font-weight:800;letter-spacing:-.02em;line-height:1.2;color:#fff;margin:0}
+.hero .lema span,.hero .lema em{white-space:nowrap}
+.hero .lema em{font-style:normal;color:#111}
+.leer .in{padding-block:22px 4px}
+.leer .howto{margin-top:0;box-shadow:none;border:1px solid var(--rule)}
 .howto{margin-top:26px;background:#fff;color:#111;border-radius:14px;padding:18px 18px 16px;display:grid;gap:8px;box-shadow:0 18px 40px rgba(60,20,0,.18)}
 .howto .row{display:grid;grid-template-columns:96px 1fr;gap:10px;font-size:.9rem;align-items:baseline}
 .howto b{font-weight:800}
@@ -212,6 +217,18 @@ footer .in{max-width:1120px;display:flex;flex-wrap:wrap;justify-content:space-be
 /* compartir */
 .ctrl{display:flex;flex-direction:column;align-items:flex-end;gap:6px}
 .share{font:700 .74rem var(--f);border:0;background:transparent;color:var(--acc);cursor:pointer;padding:4px 6px}
+/* texto largo */
+.hero a.leermas{color:#111;font-weight:800;white-space:nowrap;text-decoration:underline;text-underline-offset:3px}
+.texto{background:var(--paper)}
+.texto .barra{height:10px;background:var(--grad)}
+.texto .in{padding-block:56px 40px;max-width:760px}
+.texto h2{font-size:clamp(1.6rem,3.6vw,2.4rem);font-weight:800;letter-spacing:-.02em;margin-top:10px}
+.texto .tsel{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:22px 0 8px;font-size:.8rem;font-weight:700;color:var(--muted)}
+.texto h3{font-size:1.15rem;font-weight:800;margin-top:30px;letter-spacing:-.01em}
+.texto p{margin-top:14px;font-size:1.04rem;line-height:1.7;max-width:66ch}
+.texto .remate{font-weight:800;font-size:1.2rem;line-height:1.4;margin-top:30px;padding-top:18px;border-top:3px solid var(--orange)}
+.texto .v{display:none}
+.texto[data-nivel="1"] .v1,.texto[data-nivel="2"] .v2,.texto[data-nivel="3"] .v3{display:block}
 /* preguntas */
 .faq{padding-block:60px 20px}
 .faq h2,.autor h2{font-size:clamp(1.5rem,3vw,2rem);font-weight:800;letter-spacing:-.02em;margin-top:8px}
@@ -240,15 +257,68 @@ footer .in{max-width:1120px;display:flex;flex-wrap:wrap;justify-content:space-be
 .consent input{accent-color:var(--orange);width:18px!important;min-width:18px;flex:0 0 18px;height:18px;padding:0;margin-top:2px;flex-shrink:0}
 footer a{color:var(--muted)}
 /* impresión / PDF */
+@page{size:A4;margin:16mm 15mm 16mm 15mm}
 @media print{
-  .top,.indice,.seg,.more,.share,.buscar,.ideas,.contacto,.howto,.dl{display:none!important}
-  .prop{break-inside:avoid-page;border-top-width:3px}
+  html,body{background:#fff!important;color:#111}
+  body{font-size:10.5pt;line-height:1.5}
+  .top,.indice,.seg,.more,.share,.buscar,.ideas,.contacto,.howto,.dl,.leer,.texto .tsel,.hero a.leermas,footer{display:none!important}
+  p,li,dd{orphans:3;widows:3}
+  h1,h2,h3,h4,.label,.code,dt{break-after:avoid;page-break-after:avoid}
+  figure,.chart,.stat,.meta,.fases,.cx>div,.faq details,.obl li,.dims li,.rotulo,.obm,.map{break-inside:avoid;page-break-inside:avoid}
+  /* portada */
+  .hero{min-height:262mm;display:flex;align-items:center;break-after:page;page-break-after:always;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .hero::after{display:none}
+  .hero .in{padding:0 14mm}
+  .hero .lede{font-size:12.5pt;max-width:none}
+  /* áreas: cada una empieza en página nueva */
+  .area-h{break-before:page;page-break-before:always;padding:0 0 6mm;border-bottom:2px solid var(--orange);margin-bottom:2mm}
+  .area-h .ic{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  /* propuestas como documento, no como tarjetas */
+  .prop{border:0;border-top:1.5px solid #111;border-radius:0;margin-top:9mm;padding-top:1mm;overflow:visible;break-inside:auto;page-break-inside:auto}
+  .prop .ph1{padding:0;break-after:avoid;page-break-after:avoid;display:block;break-inside:avoid}
+  .prop .ph1>div{break-inside:avoid}
+  .prop .code{display:block;break-after:avoid}
+  .prop .blk.que{break-before:avoid}
+  .prop .blk.que .one{orphans:4}
+  .prop h3{font-size:15pt;margin-top:1mm}
+  .blk{background:none!important;padding:3mm 0 0;margin-top:3mm;border-top:0}
+  .blk>.label{break-after:avoid;page-break-after:avoid;margin-bottom:1.5mm}
+  .blk>.label+*{break-before:avoid}
   .prop [data-n="2"],.prop [data-n="3"]{display:block!important}
-  .prop .meta[data-n="2"],.prop .dims[data-n="3"]{display:grid!important}
+  .prop .meta[data-n="2"]{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))}
+  .prop .meta div{border-color:#ccc;padding:2mm}
   .prop .solo1{display:none!important}
-  .faq details{break-inside:avoid}.faq details p{display:block}
-  body{font-size:11pt}
-  .chart svg{max-width:420px}
+  .prop .dims[data-n="3"]{display:block!important;margin-top:3mm}
+  .dims dt{border:0;padding:2.5mm 0 .5mm;font-size:9.5pt;text-transform:uppercase;letter-spacing:.06em;color:var(--acc)}
+  .dims dd{border:0;border-bottom:1px solid #e5e5e5;padding:0 0 2.5mm;font-size:10pt;color:#333}
+  .stat .n{font-size:20pt}
+  .chart{border:1px solid #ddd;border-radius:6px;padding:3mm;margin-top:3mm!important}
+  .chart svg{max-width:150mm;max-height:95mm}
+  .chart.obras{break-inside:auto;page-break-inside:auto}
+  .chart.obras h4{break-after:avoid}
+  .obm svg{max-height:115mm;width:auto;margin:0 auto}
+  .obl{font-size:9pt}
+  .fuentes{font-size:8.5pt;color:#555}
+  /* la cuenta, el cierre, el texto largo y las preguntas en página nueva */
+  .cuenta,.cierre,.texto,.faq,.autor{break-before:page;page-break-before:always}
+  .cuenta .cg{grid-template-columns:1fr 1fr}
+  .cierre{margin-top:0;background:#fff!important;color:#111!important}
+  .cierre .in{padding-block:0}
+  .cierre p{color:#333!important}
+  .fases div{border-color:#ccc!important}
+  .fases span{color:#555!important}
+  .cuenta .chart svg{max-height:52mm}
+  .cuenta{padding-block:0}
+  .texto .barra{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .texto .in{padding-block:8mm 0;max-width:none}
+  .texto .v1,.texto .v2{display:none!important}.texto .v3{display:block!important}
+  .texto p{font-size:11pt;max-width:none}
+  .texto .remate{break-inside:avoid}
+  .faq{padding-block:0}
+  .faq details p{display:block}
+  .faq summary::after{display:none}
+  .autor .in{padding-block:8mm}
+  a{color:inherit;text-decoration:none}
 }
 
 </style>
@@ -272,19 +342,21 @@ footer a{color:var(--muted)}
 <main id="inicio">
 <section class="hero">
   <div class="in">
-    <span class="label">Programa para la Argentina · una generación</span>
+    <p class="lema"><span>Una nación.</span> <span>Una patria.</span> <em>Bajo un mismo cielo.</em></p>
     <h1>100 propuestas para <em>la Argentina</em></h1>
-    <p class="lede">La Argentina bajó la inflación, pero lo hizo achicando salarios, jubilaciones y obra pública, no cambiando lo que la hace caer una y otra vez. Estabilizar era necesario; transformar es la tarea.</p>
-    <p class="lede">Este programa no es un shock ni es quedarse quietos: es cambiar de verdad, con tiempo y con red, en tres etapas dentro del primer mandato, y sostenido a lo largo de varios gobiernos. Acá están las 100 propuestas, una por una, con qué se propone, por qué y cómo se hace.</p>
-    <div class="howto">
+    <p class="lede">En la Argentina, demasiados cargos, contratos y oportunidades no dependen de lo que cada uno hace, sino de quién es su familia o a quién conoce. La ley nos reconoce los mismos derechos; la realidad no nos da las mismas oportunidades. Y eso ocurre con un gobierno y con el otro, con más Estado y con más mercado.</p>
+    <p class="lede">Estas 100 propuestas no buscan cambiar de bando, sino cambiar las reglas: que nadie herede un lugar, que se sepa quién recibe qué y que todo poder rinda cuentas, el político, el económico y el de la tecnología que llevamos en el bolsillo. <a class="leermas" href="#porque">Por qué, al final&nbsp;→</a></p>
+  </div>
+</section>
+<section class="leer"><div class="in">
+<div class="howto">
       <span class="label">Cómo leer</span>
       <div class="row"><b>Resumido</b><small>Qué, por qué y cómo, en pocas líneas.</small></div>
       <div class="row"><b>Extendido</b><small>Más detalle, el porqué con gráficos, cuándo, con qué herramienta, a qué costo y con quién.</small></div>
       <div class="row"><b>Completo</b><small>Todo: pasos, plazos, financiamiento, riesgos, cómo se mide, cómo se protege y las fuentes.</small></div>
       <small>Toda propuesta dice qué se hace, por qué y cómo; cada nivel lo amplía. Cada una tiene sus botones y arriba podés pasar todas al mismo nivel.</small>
     </div>
-  </div>
-</section>
+</div></section>
 
 <section class="ideas"><div class="in">
   <span class="label">En 10 ideas</span>
@@ -323,6 +395,90 @@ footer a{color:var(--muted)}
       <div><small>Fase I · año 1</small><b>Cimientos</b><span>Estabilizar sin achicar a la gente: ancla, cuentas, red social y transparencia.</span></div>
       <div><small>Fase II · años 2 y 3</small><b>Corrección</b><span>Con la red tendida: cambio libre, apertura gradual, nuevos impuestos y trabajo.</span></div>
       <div><small>Fase III · año 4</small><b>Transformación</b><span>Industria, regiones, jubilaciones y blindaje de todo lo logrado.</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="texto" id="porque" data-nivel="1">
+  <div class="barra" aria-hidden="true"></div>
+  <div class="in">
+    <span class="label">El porqué</span>
+    <h2>Los mismos derechos en el papel. No las mismas oportunidades.</h2>
+    <div class="tsel"><span>Elegí cuánto leer:</span>
+      <div class="seg" role="group" aria-label="Largo del texto">
+        <button type="button" data-t="1" aria-pressed="true">Resumido</button><button type="button" data-t="2" aria-pressed="false">Extendido</button><button type="button" data-t="3" aria-pressed="false">Completo</button>
+      </div>
+    </div>
+
+    <div class="v v1">
+      <p>Lo vemos todos los días. El cargo que fue para el hijo de un funcionario. El turno médico que obtuvo quien tenía un conocido. La causa judicial que avanzó rápido para unos y nunca avanzó para otros. La justicia, la salud, la escuela y el acceso al trabajo no tratan igual al que tiene contactos que al que no.</p>
+      <p>La igualdad ante la ley es real y costó siglos. Pero dice hasta dónde llegan las reglas, no de dónde sale cada uno. Entre el joven que tiene a alguien que lo respalde y el que no tiene a nadie hay una distancia que la ley no ve, y que nadie tuvo que violar una ley para producir.</p>
+      <p>No es un problema de izquierda o de derecha. Con más Estado, el privilegio se esconde en los favores y los contactos; con un mercado capturado, se compra. Y hoy tiene una herramienta nueva: la tecnología que está en cada casa y en cada bolsillo, que puede servir para vigilar a todos sin que nadie controle a quien vigila.</p>
+      <p>Por eso estas propuestas no vienen a cambiar de bando. Vienen a cambiar las reglas: concursos en lugar de apellidos, el dinero y las decisiones a la vista, herencias grandes que pagan, controles que no elige el controlado, un Estado transparente y un ciudadano privado.</p>
+      <p class="remate">A la Argentina no se la hereda terminada: se la funda cada vez.</p>
+    </div>
+
+    <div class="v v2">
+      <h3>Lo que todos sabemos</h3>
+      <p>Lo vemos todos los días. El cargo que fue para el hijo de un funcionario. El turno médico que obtuvo quien tenía un conocido. La causa judicial que avanzó rápido para unos y nunca avanzó para otros. La justicia, la salud, la escuela y el acceso al trabajo no tratan igual al de abajo que al de arriba, ni al que tiene contactos que al que no.</p>
+      <p>Casi todos estamos cansados de eso. No de que alguien progrese: de que progrese sin que importe lo que hizo.</p>
+      <h3>Mismo rasgo, distinta consecuencia</h3>
+      <p>Las ganas de arriesgar, la impulsividad, la facilidad para engancharse con algo se reparten más o menos parejo entre ricos y pobres. Lo que no se reparte parejo es lo que viene después. Al joven difícil de una familia con recursos se lo llama rebelde: tiene un abogado, un tratamiento, un trabajo que lo espera. Al joven difícil que no tiene a nadie le queda la calle.</p>
+      <p>Se hereda mucho más que dinero. Se heredan la formación, los contactos, la manera de hablar. Y también se hereda la casa: la violencia, el silencio, las deudas que nadie nombra. La ventaja se acumula de una generación a la otra, y la desventaja también. La igualdad ante la ley es real y costó siglos, pero dice hasta dónde llegan las reglas, no de dónde sale cada uno. Esa distancia la ley no la ve, y nadie tuvo que violar una ley para producirla.</p>
+      <h3>No es de un bando</h3>
+      <p>Con más Estado, la desigualdad no aparece en los sueldos: aparece en el acceso. La casa que consiguió el hijo del funcionario, el permiso, el turno, el cargo. Con un mercado capturado, aparece en la licencia, en la protección o en la regla escrita a medida de una sola empresa. La Argentina, que mezcla las dos cosas, sufre las dos. Por eso vemos los mismos apellidos de un lado y del otro, disfrazados de rivales, repartiéndose el país como una herencia de familia.</p>
+      <h3>El poder que no se ve</h3>
+      <p>Las instituciones que alguna vez igualaron —la escuela pública, la universidad, el concurso, el crédito— no tenían forma de renovarse, y fueron ocupadas. Hoy muchas decisiones se toman en otro lado: en una reunión reservada, en una excepción firmada a tiempo, en un fondo que se amplía por decreto. Ninguno de esos hechos es, por sí solo, un delito. Todos juntos son un método.</p>
+      <p>Y ese poder tiene una herramienta nueva. El celular, el auto, la heladera conectada, las cámaras de la calle y los centros de datos saben dónde estamos, qué compramos y con quién hablamos. En manos de un gobierno, de una empresa, de un servicio de inteligencia propio o extranjero, o de una mafia, eso alcanza para vigilar, premiar y castigar sin cerrar el Congreso. Cuando reprimir deja de costar, la libertad deja de estar garantizada.</p>
+      <h3>Cambiar las reglas, no el bando</h3>
+      <p>La salida no es pasarse al otro lado de la grieta. Es que las instituciones estén obligadas a abrirse, a medirse y a renovarse, para que ningún grupo pueda quedarse con ellas. Por eso proponemos <a href="#p61">empleo público</a> y <a href="#p63">jueces por concurso</a>, <a href="#p56">compras del Estado</a> y <a href="#p98">financiamiento de campañas</a> a la vista de todos, <a href="#p59">controles en manos de la oposición</a>, que <a href="#p65">la corrupción no prescriba</a>, que <a href="#p14">las herencias grandes paguen</a> y que <a href="#p68">el dinero del narcotráfico se siga hasta arriba</a>. Y un principio que no se negocia: <a href="#p57">el Estado, transparente; el ciudadano, privado</a>.</p>
+      <p>No prometemos que sea fácil ni rápido. Prometemos que cada propuesta diga qué se hace, por qué y cómo, para que cualquiera pueda controlarla.</p>
+      <p class="remate">A la Argentina no se la hereda terminada: se la funda cada vez.</p>
+    </div>
+
+    <div class="v v3">
+      <h3>Lo que todos sabemos</h3>
+      <p>Lo vemos todos los días. El cargo que fue para el hijo de un funcionario. El turno médico que obtuvo quien tenía un conocido. La causa judicial que avanzó rápido para unos y nunca avanzó para otros. El contrato que ganó siempre la misma empresa. La justicia, la salud, la escuela y el acceso al trabajo no tratan igual al de abajo que al de arriba, ni al que tiene contactos que al que no.</p>
+      <p>Casi todos estamos cansados de eso. No de que alguien progrese: de que progrese sin que importe lo que hizo. Y de que nos pidan esfuerzo a los que no tenemos a nadie que nos abra una puerta.</p>
+
+      <h3>Lo que la ley no ve</h3>
+      <p>La igualdad ante la ley es real. Costó siglos y no se negocia. Pero la ley dice hasta dónde llegan las reglas, no de dónde sale cada uno. Entre el joven que tiene quien lo respalde y el que no tiene a nadie hay una distancia que ninguna ley ve, y que nadie tuvo que violar una ley para producir.</p>
+      <p>Una mujer tiene en el papel todos sus derechos. ¿De qué le sirven si no tiene un peso propio y se tiene que quedar en una casa donde le pegan, porque si se va no comen sus hijos? Una mujer libre es una mujer que puede irse. La educación es pública, pero vivir mientras se estudia no lo es. Se ganó el papel. El papel no llega a todos lados.</p>
+
+      <h3>Mismo rasgo, distinta consecuencia</h3>
+      <p>Las ganas de arriesgar, la impulsividad, la facilidad para engancharse con algo se reparten más o menos parejo entre ricos y pobres. Lo que no se reparte parejo es lo que viene después. Al joven difícil de una familia con recursos se lo llama rebelde: tiene un abogado, un tratamiento, un trabajo que lo espera. Al joven difícil que no tiene a nadie le quitan lo único que tenía, y le queda la calle.</p>
+      <p>Y después el Estado hace lo mismo: causa el problema y castiga el síntoma. Manda al joven a una cárcel que no corrige a nadie y lo devuelve peor. Expulsar no es ordenar. Lo que saca a alguien adelante casi nunca es un castigo: es alguien que se queda y pone condiciones. Ese tiene que ser el Estado: el que llega <a href="#p75">desde que nacen</a>, el que sostiene <a href="#p76">una escuela que nadie abandona</a>, el que protege <a href="#p71">a quien denuncia violencia</a> y hace que <a href="#p69">las cárceles no sean escuelas del delito</a>.</p>
+      <p>Muchas familias se mueven toda la vida y no salen nunca: de un barrio a otro igual, de un trabajo a otro igual. Escaparse no es lo mismo que salir.</p>
+
+      <h3>Lo que se hereda</h3>
+      <p>Se hereda mucho más que dinero. Se heredan la formación, los contactos, la manera de hablar, lo que a uno le parece normal. Y también se hereda la casa: la violencia, el silencio, las deudas que nadie nombra. No es la sangre: la vulnerabilidad se hereda, el destino no. Lo que decide es lo que pasa después, y eso sí depende de cómo nos organizamos.</p>
+      <p>La ventaja se acumula de una generación a la otra, y la desventaja también. Cuando la gente siente que el juego está arreglado y que nada de lo que haga lo cambia, aparecen el resentimiento y la apatía. Y una democracia donde la mayoría deja de creer que el esfuerzo sirve es una democracia en peligro. Por eso <a href="#p14">las herencias grandes pagan y la casa familiar no</a>: no se castiga el mérito, se castiga el privilegio heredado.</p>
+
+      <h3>No es de un bando</h3>
+      <p>Esto no es un problema de izquierda o de derecha, ni de mercado contra Estado. Pasa en los dos.</p>
+      <p>Con más Estado, la desigualdad no aparece en los sueldos: aparece en el acceso. La casa que consiguió el hijo del funcionario, el permiso, el turno, el cargo, el servicio que el resto no tiene. Esa riqueza no figura en ninguna cuenta bancaria ni en ninguna estadística, y por eso parece que no existe. Con un mercado capturado, aparece en la licencia, en la protección, en el subsidio o en la regla escrita a medida de una sola empresa. Uno convierte el poder político en dinero; el otro, el dinero en poder político.</p>
+      <p>La Argentina, que mezcla las dos cosas, sufre las dos. Cuanto más reparte el Estado a su criterio, más vale capturarlo, y el talento se va al lobby en lugar de ir a crear. Por eso vemos los mismos apellidos de un lado y del otro, disfrazados de rivales, repartiéndose el país como una herencia de familia. Hay privilegiados por parentesco o por amistad en la política, en los sindicatos, en las empresas, en los tribunales y en las fuerzas de seguridad. Viven de la suerte, del apellido o de sus contactos, mientras el resto sostiene el país con su trabajo.</p>
+
+      <h3>Instituciones ocupadas</h3>
+      <p>Hubo herramientas que alguna vez igualaron: la escuela pública, la universidad gratuita, el concurso, el crédito, el oficio. No eran perfectas, y sobre todo no tenían forma de renovarse. Generación tras generación fueron ocupadas por los mismos grupos. El sistema no fue desplazado: fue ocupado.</p>
+      <p>La captura casi nunca es un gran delito. Es una suma de pequeñas excepciones: el trámite que se saltea, el acta que se firma en una reunión reservada, el fondo que se amplía por decreto, el organismo de control cuyo jefe elige el controlado. Ninguno de esos hechos es, por sí solo, un delito. Todos juntos son un método. Un Estado se vuelve capturable no cuando sus funcionarios son deshonestos, sino cuando sus reglas admiten excepciones que no cuestan nada.</p>
+
+      <h3>El poder que no se ve</h3>
+      <p>Así se llega a una democracia de fachada. Se vota, se debate y se protesta, pero muchas decisiones se toman en otro lado, por gente que nadie eligió y nadie puede remover. Cuando algo de eso sale a la luz, muchas veces se castiga a quien lo hizo saber y no a quien lo hizo. En 2026, el presupuesto de inteligencia se amplió por decreto en más de la mitad, y una parte se gasta sin rendir cuentas en público. No hace falta cerrar el Congreso cuando se lo puede saltear.</p>
+
+      <h3>La tecnología que llevamos encima</h3>
+      <p>Ese poder tiene hoy una herramienta que ningún régimen tuvo nunca. El celular, el auto, la heladera conectada, la billetera digital, las cámaras de la calle, las plataformas y los centros de datos saben dónde estamos, qué compramos, qué leemos y con quién hablamos. No hace falta un dictador para usarlo. Alcanza con un gobierno, una parte del Estado que actúa por su cuenta, una empresa, un servicio de inteligencia propio o extranjero, o una mafia.</p>
+      <p>Con eso se puede vigilar, predecir, premiar, castigar, excluir y empujar la opinión sin tanques y sin cerrar nada. Cuando reprimir deja de costar, la libertad deja de estar garantizada. Y lo que se acepta por comodidad se vuelve obligatorio: sin celular no hay banco, ni trámite, ni trabajo. La privacidad que se entrega no vuelve.</p>
+      <p>Hoy es al revés de como tendría que ser: el poder sabe todo de nosotros y nosotros casi nada de él. Por eso proponemos <a href="#p57">prohibir la vigilancia masiva, que cada uno pueda ver quién consultó sus datos y para qué, y que nadie sea perfilado por el Estado</a>. Y queremos <a href="#p58">servicios de inteligencia bajo control del Congreso, sin espionaje sobre opositores, periodistas ni ciudadanos, y sin servicios extranjeros operando en el país sin orden de un juez argentino</a>. El Estado, transparente; el ciudadano, privado. Libertad, en este siglo, es que nadie pueda saberlo todo de cada uno de nosotros sin que sepamos qué sabe y para qué.</p>
+
+      <h3>Cambiar las reglas, no el bando</h3>
+      <p>La salida no es pasarse al otro lado de la grieta: el que cambia de bando hereda el mismo sistema. La salida es que las instituciones estén obligadas a abrirse, a medirse y a renovarse, para que ningún grupo pueda quedarse con ellas, y que nadie pueda heredar un lugar.</p>
+      <p>En concreto, eso es <a href="#p61">empleo público por concurso</a> y <a href="#p63">jueces por concurso</a>. Son <a href="#p56">compras del Estado</a> y <a href="#p98">financiamiento de campañas</a> a la vista de todos, el mismo día. Es <a href="#p59">el control en manos de la oposición</a>, <a href="#p62">causas judiciales con plazos</a>, que <a href="#p65">la corrupción no prescriba</a> y <a href="#p94">una comisión contra la corrupción que no dependa del gobierno</a>. Son <a href="#p67">policías que rotan</a>, <a href="#p68">el dinero del narcotráfico seguida hasta arriba</a>, <a href="#p60">sin autos ni aviones oficiales para uso personal</a> y <a href="#p9">un INDEC que ningún gobierno pueda tocar</a>. Cada regla de estas cierra una puerta por donde hoy entra el privilegio.</p>
+
+      <h3>Lo que no prometemos</h3>
+      <p>No prometemos magia: prometer magia es la forma más vieja de estafar a un pueblo. Esto lleva tiempo, y por eso está ordenado en etapas y pensado para durar más que quien lo empiece. Tampoco venimos a buscar culpables con nombre y apellido. Apuntamos al procedimiento, no a la persona: el que vota distinto no es el enemigo, es el que rema en el mismo bote. Se cambia el sistema; no se persigue a las personas.</p>
+      <p>Lo que sí prometemos es que cada propuesta diga qué se hace, por qué y cómo, con su costo y con la forma de medir si se cumplió, para que cualquiera pueda controlarla. Empezando por nosotros.</p>
+      <p class="remate">A la Argentina no se la hereda terminada: se la funda cada vez. Una nación. Una patria. Bajo un mismo cielo.</p>
     </div>
   </div>
 </section>
@@ -568,7 +724,10 @@ function render(lista){
   if(location.hash&&/^#p\d+$/.test(location.hash)){var t=document.querySelector(location.hash);if(t){setProp(t,2);t.scrollIntoView()}}
 }
 
-document.querySelectorAll("[data-g]").forEach(function(b){b.addEventListener("click",function(){setAll(b.getAttribute("data-g"))})});
+document.querySelectorAll("[data-g]").forEach(function(b){b.addEventListener("click",function(){setAll(b.getAttribute("data-g"));setTexto(b.getAttribute("data-g"))})});
+function setTexto(n){var t=document.getElementById("porque");if(!t)return;t.setAttribute("data-nivel",n);t.querySelectorAll("[data-t]").forEach(function(b){b.setAttribute("aria-pressed",b.getAttribute("data-t")===String(n)?"true":"false")})}
+document.querySelectorAll("[data-t]").forEach(function(b){b.addEventListener("click",function(){setTexto(b.getAttribute("data-t"))})});
+
 var qi=document.getElementById("q");qi.addEventListener("input",function(){buscar(qi.value)});
 document.querySelectorAll(".idea").forEach(function(a){a.addEventListener("click",function(){var h=a.getAttribute("href");if(/^#p\d+$/.test(h)){qi.value="";buscar("");var t=document.querySelector(h);if(t)setProp(t,2)}})});
 var sel=document.getElementById("p");PROV.forEach(function(n){var o=document.createElement("option");o.textContent=n;sel.appendChild(o)});
