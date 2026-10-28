@@ -155,6 +155,7 @@ a{color:var(--acc)}
 .legal .ct p+p{margin-top:6px}
 .legal ul{margin:6px 0 0;padding-left:18px}
 .legal .tool{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.legal .tool a.pdfb{border:1px solid var(--rule);background:var(--paper);color:var(--ink);border-radius:999px;padding:6px 12px;font:700 .78rem var(--f);text-decoration:none}
 .legal .tool button{border:1px solid var(--rule);background:var(--paper);color:var(--ink);border-radius:999px;padding:6px 12px;font:700 .78rem var(--f);cursor:pointer}
 .legal .ver{max-height:none}
 .legal.corto .arts{max-height:340px;overflow:hidden;-webkit-mask-image:linear-gradient(#000 70%,transparent);mask-image:linear-gradient(#000 70%,transparent)}
@@ -474,14 +475,14 @@ footer a{color:var(--muted)}
   <h2>Cómo se paga</h2>
   <p class="sub">Dos reglas. Ningún impuesto baja si no entra otro que lo reemplace en el mismo presupuesto. Y lo nuevo se paga con el crecimiento, nunca con emisión ni con deuda para gastos. Cifras en % del PIB al cuarto año, Nación y provincias juntas.</p>
   <div class="cg">
-    <div class="chart"><h4>Impuestos que bajan · 3,1 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Impuestos que bajan en el mandato", "datos": [{"x": "Ingresos Brutos (¼)", "y": 0.9}, {"x": "Cheque (mitad)", "y": 0.8}, {"x": "Retenciones", "y": 0.6}, {"x": "Sellos", "y": 0.4}, {"x": "Ganancias sueldo", "y": 0.4}]}'></div></div>
+    <div class="chart"><h4>Impuestos que bajan · 3,1 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Impuestos que bajan en el mandato", "datos": [{"x": "Cheque (mitad)", "y": 0.8}, {"x": "Ingresos Brutos (15 %)", "y": 0.6}, {"x": "Retenciones", "y": 0.6}, {"x": "Sellos", "y": 0.4}, {"x": "Ganancias sueldo", "y": 0.4}, {"x": "Contribuciones", "y": 0.3}]}'></div></div>
     <div class="chart"><h4>Con qué se reemplazan · 3,1 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Con qué se reemplazan", "datos": [{"x": "Impuesto al suelo", "y": 1.2}, {"x": "Menos evasión", "y": 1.2}, {"x": "Menos subsidios", "y": 0.5}, {"x": "Herencias grandes", "y": 0.2}]}'></div></div>
-    <div class="chart"><h4>Qué se paga con el crecimiento · 1,9 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Qué se paga con el crecimiento", "datos": [{"x": "Programas nuevos", "y": 1.1}, {"x": "Jubilaciones y salarios", "y": 0.5}, {"x": "Universidades (Ley 27.795)", "y": 0.2}, {"x": "Defensa", "y": 0.1}]}'></div><p class="cn">Supone 3,5 % de crecimiento anual. Si se crece menos, primero se cumplen salud, primera infancia, desempleo, violencia y discapacidad, y el resto se escalona.</p></div>
+    <div class="chart"><h4>Qué se paga con el crecimiento · 1,9 puntos</h4><div data-chart='{"tipo": "barras", "titulo": "Qué se paga con el crecimiento", "datos": [{"x": "Programas nuevos", "y": 1.1}, {"x": "Jubilaciones y salarios", "y": 0.5}, {"x": "Universidades", "y": 0.2}, {"x": "Defensa", "y": 0.1}]}'></div><p class="cn">Supone 3,5 % de crecimiento anual. Si se crece menos, primero se cumplen salud, primera infancia, desempleo, violencia y discapacidad, y el resto se escalona.</p></div>
   </div>
   <div class="cx">
     <div><b>Superávit todo el mandato</b><span>El resultado primario (ingresos menos gastos, sin contar intereses) baja de 1,2 a cerca de 0,4 % del PIB, pero nunca pasa a déficit. Los intereses se pagan con superávit.</span></div>
     <div><b>Deuda solo para obras</b><span>Hasta 0,6 % del PIB más de obra por año al final del mandato, con organismos internacionales de crédito, aranceles de transición y contrapartidas de inversores.</span></div>
-    <div><b>Lo que queda para después</b><span>El resto de Ingresos Brutos y del cheque, y el IVA al 10,5 %: unos 6,5 puntos más. El camino del IVA queda fijado por ley y cada escalón baja solo cuando entra su reemplazo. Lo que hoy no paga IVA no pasa a pagarlo.</span></div>
+    <div><b>Lo que queda para después</b><span>El resto de Ingresos Brutos y del cheque, y el IVA al 10,5 %: unos 6,8 puntos más. El camino del IVA queda fijado por ley y cada escalón baja solo cuando entra su reemplazo. Lo que hoy no paga IVA no pasa a pagarlo.</span></div>
   </div>
   <p class="cn">Base: ARCA (recaudación 2025), INDEC, Ministerio de Economía, Dirección Nacional de Asuntos Provinciales y estadísticas de la OCDE. Las fuentes nuevas son estimaciones con rango: impuesto al suelo entre 0,8 y 1,6 puntos, menos evasión entre 0,8 y 1,6. Si rinden menos, los impuestos bajan más despacio; nunca a crédito.</p>
 </div></section>
@@ -781,7 +782,7 @@ function docHTML(d,i,n){
   var mod=((d.modifica||[]).length?'<p class="mt">Modifica</p><ul>'+d.modifica.map(function(x){return '<li>'+esc(x)+'</li>'}).join("")+'</ul>':'')+((d.deroga||[]).length?'<p class="mt">Deroga</p><ul>'+d.deroga.map(function(x){return '<li>'+esc(x)+'</li>'}).join("")+'</ul>':'');
   return '<details class="doc"><summary><span class="tp '+esc(d.tipo)+'">'+(TIPO[d.tipo]||esc(d.tipo))+'</span><b>'+esc(d.titulo)+'</b><span class="sm">'+esc(d.sumilla||"")+'</span>'+(d.cuando||na?'<em>'+[d.cuando?esc(d.cuando):"",na?na+' artículos':""].filter(Boolean).join(" · ")+'</em>':'')+(d.tramite?'<span class="sm">Trámite: '+esc(d.tramite)+'</span>':'')+((d.otras||[]).length?'<span class="sm">También ejecuta la propuesta '+d.otras.join(", ")+'.</span>':'')+'</summary>'+
    '<div class="legal corto" data-doc="'+n+'-'+i+'"><h5>'+esc(d.titulo)+'</h5>'+'<div class="arts">'+head+fmHTML(d)+arts+vari+mod+'</div>'+
-   '<div class="tool"><button type="button" data-ver>Ver texto completo</button><button type="button" data-word>Descargar (Word)</button></div></div></details>';
+   '<div class="tool"><button type="button" data-ver>Ver texto completo</button><a class="pdfb" href="datos/normas/pdf/'+esc(d.id)+'.pdf" target="_blank" rel="noopener" download>Descargar PDF</a></div></div></details>';
 }
 function nodoOrg(x,raiz){var e=x.estado&&EORG[x.estado]?x.estado:(raiz?"raiz":(x.rol?"act":""));
   return '<li><div class="onode '+e+'"><b>'+esc(x.nombre)+(EORG[x.estado]?'<i>'+EORG[x.estado]+'</i>':'')+'</b>'+(x.rol?'<small>'+esc(x.rol)+'</small>':'')+(x.hoy?'<small class="hoy">Hoy: '+esc(x.hoy)+'</small>':'')+'</div>'+((x.hijos||[]).length?'<ul>'+x.hijos.map(function(h){return nodoOrg(h)}).join("")+'</ul>':'')+'</li>'}
