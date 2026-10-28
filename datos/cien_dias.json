@@ -8,9 +8,9 @@
     {
      "tipo": "decreto",
      "titulo": "Convocatoria del Congreso a sesiones extraordinarias",
-     "detalle": "Decreto que convoca a sesiones extraordinarias (art. 99 inc. 9 de la Constitución) para tratar desde diciembre los proyectos de esta agenda; el temario se amplía por decreto a medida que se envían, hasta el inicio de las sesiones ordinarias el 1 de marzo. Lo prevé la propuesta 66.",
+     "detalle": "Decreto que convoca a sesiones extraordinarias (art. 99 inc. 9 de la Constitución) para tratar desde diciembre los proyectos de esta agenda; el temario se amplía por decreto a medida que se envían, hasta el inicio de las sesiones ordinarias el 1 de marzo. Lo prevé la propuesta 67.",
      "props": [
-      66
+      67
      ]
     },
     {
@@ -18,7 +18,7 @@
      "titulo": "Cada compra y cada pago del Estado, publicados el mismo día",
      "detalle": "Toda compra y contratación del Estado nacional se publica el día de la firma y los pagos se publican de oficio. Empieza la unificación de COMPR.AR y CONTRAT.AR y el portal de pagos, operativos en seis meses.",
      "props": [
-      56
+      57
      ]
     },
     {
@@ -26,7 +26,7 @@
      "titulo": "Fin del uso personal de autos, aviones y residencias oficiales",
      "detalle": "Se termina el uso personal de bienes oficiales, la flota aérea pasa al SINAGIR y se modifica el Decreto 1176/2026 para sacar Olivos y Chapadmalal de la órbita presidencial. Se ordena el inventario público de inmuebles, vehículos y aeronaves, a publicar en seis meses.",
      "props": [
-      60
+      61
      ]
     },
     {
@@ -42,7 +42,7 @@
      "titulo": "Menos decretos, más Congreso: límites a los DNU",
      "detalle": "Reforma de la Ley 26.122: los DNU caducan sin ratificación expresa de ambas cámaras en 90 días, alcanza el rechazo de una sola y se limitan la materia y el plazo de la delegación legislativa. Es la señal de autolimitación del propio Ejecutivo.",
      "props": [
-      66
+      67
      ]
     },
     {
@@ -62,7 +62,7 @@
      "props": [
       5,
       18,
-      85
+      86
      ]
     },
     {
@@ -78,7 +78,7 @@
      "titulo": "Preservar la obra del reactor CAREM 25",
      "detalle": "Se preserva de inmediato la obra civil construida del CAREM 25; los hitos para terminarlo se fijan en el plan nuclear plurianual.",
      "props": [
-      35
+      37
      ]
     },
     {
@@ -86,7 +86,7 @@
      "titulo": "Asegurar la licencia del Gasoducto del Mercosur",
      "detalle": "Si no se renovó antes del cambio de gobierno, se renueva la licencia del gasoducto Aldea Brasilera–Uruguaiana, base del futuro gasoducto Uruguaiana–Triunfo con Brasil.",
      "props": [
-      86
+      87
      ]
     }
    ]
@@ -106,11 +106,15 @@
     },
     {
      "tipo": "ley",
-     "titulo": "Responsabilidad fiscal: déficit cero, deuda para obras y fondo anticíclico",
-     "detalle": "Resultado primario no negativo con cláusula de emergencia aprobada por el Congreso, deuda solo para inversión o refinanciación con mejora, y Fondo de Estabilización Fiscal con reglas de depósito y retiro. Rige desde el presupuesto siguiente.",
+     "titulo": "Consulta popular vinculante: la ciudadanía decide seis leyes",
+     "detalle": "Diputados del oficialismo presentan la ley que convoca a consulta popular vinculante (art. 40 de la Constitución) y el Ejecutivo la incluye en el temario de extraordinarias. En el primer semestre de 2028, año sin elecciones nacionales, la ciudadanía vota por sí o por no seis proyectos por separado: déficit cero y deuda solo para obras, comisión contra la corrupción, imprescriptibilidad de la corrupción, juicio por jurados, libertad sindical y acceso regulado a las drogas bajo supervisión médica. Cada uno que la mayoría apruebe es ley sin veto posible. La regla fiscal rige desde el presupuesto siguiente.",
      "props": [
       5,
-      7
+      94,
+      66,
+      65,
+      48,
+      81
      ]
     },
     {
@@ -119,8 +123,8 @@
      "detalle": "Adecúa el presupuesto heredado: asigna íntegro el Fondo de Bosques (0,3 % del presupuesto), fija los gastos reservados con tope del 10 % del presupuesto de inteligencia sin ampliación por decreto y protege las partidas de memoria, verdad y justicia. El primer presupuesto propio es el de 2029.",
      "props": [
       5,
-      45,
-      58,
+      42,
+      59,
       95
      ]
     },
@@ -153,7 +157,7 @@
      "titulo": "Ningún ingreso a la planta estatal sin concurso",
      "detalle": "Reemplaza la regla de un alta por dos bajas del Decreto 934/2025 por la regla permanente de ningún ingreso sin concurso, mientras se tramita la reforma de la Ley 25.164.",
      "props": [
-      61
+      62
      ]
     },
     {
@@ -166,7 +170,7 @@
       16,
       17,
       18,
-      61
+      62
      ]
     },
     {
@@ -174,7 +178,7 @@
      "titulo": "PAMI al día y medicamentos oncológicos en plazo",
      "detalle": "Desde el primer mes, el PAMI paga a los prestadores dentro de los 30 días y el Banco de Drogas Especiales entrega los medicamentos oncológicos en 15 días hábiles. Empieza la contratación plurianual de vacunas con stock de seguridad, a firmar en seis meses.",
      "props": [
-      79
+      80
      ]
     },
     {
@@ -182,7 +186,7 @@
      "titulo": "Relevar las obras energéticas e hídricas paradas",
      "detalle": "Comienza el relevamiento de obras con proyecto ejecutivo, a completar en seis meses, como paso previo a reactivar las prioritarias con financiamiento plurianual asegurado.",
      "props": [
-      33
+      35
      ]
     },
     {
@@ -190,8 +194,8 @@
      "titulo": "Completar los hitos energéticos de 2027 si están pendientes",
      "detalle": "Si al asumir no están cumplidos, se completan en el año 1: regreso de Atucha I a la red, puesta en marcha del RA-10 y habilitación del Gasoducto Regional Centro II (Recreo–Sunchales).",
      "props": [
-      34,
-      35
+      36,
+      37
      ]
     },
     {
@@ -199,7 +203,7 @@
      "titulo": "Padrón único para el Ingreso Universal Único",
      "detalle": "ANSES, ARCA, el Ministerio de Salud y las provincias cruzan sus bases para armar el padrón, condición para migrar en el año 1 la AUH, la Asignación por Embarazo, la Prestación Alimentar y el Plan de los 1000 Días.",
      "props": [
-      72
+      73
      ]
     }
    ]
@@ -211,12 +215,12 @@
     {
      "tipo": "ley",
      "titulo": "Paquete tributario: liquidación propuesta, monotributo indexado y formalización",
-     "detalle": "ARCA propone la liquidación a las personas humanas (Ley 11.683), el monotributo se actualiza cada mes por IPC con escalón de salida y el régimen de incentivo a la formalización se reabre y pasa a ser permanente. La baja escalonada de cargas se aplica en la Fase II, con el tramo joven del incentivo a la formalización (propuesta 55).",
+     "detalle": "ARCA propone la liquidación a las personas humanas (Ley 11.683), el monotributo se actualiza cada mes por IPC con escalón de salida y el régimen de incentivo a la formalización se reabre y pasa a ser permanente. La baja escalonada de cargas se aplica en la Fase II, con el tramo joven del incentivo a la formalización (propuesta 56).",
      "props": [
       19,
       20,
-      49,
-      55
+      50,
+      56
      ]
     },
     {
@@ -232,8 +236,8 @@
      "titulo": "Contrataciones abiertas y prohibición del uso personal de bienes",
      "detalle": "Convierte en ley la publicación obligatoria de compras y pagos, con nulidad de lo no publicado y adhesión provincial, y prohíbe en la Ley 25.188 el uso personal de bienes del Estado.",
      "props": [
-      56,
-      60
+      57,
+      61
      ]
     },
     {
@@ -241,7 +245,7 @@
      "titulo": "Autoridad Nacional de Control conducida por la oposición",
      "detalle": "Fusiona la AGN y la Oficina Anticorrupción en una autoridad con autonomía, conducida por el partido de oposición con más legisladores (art. 85 de la Constitución) y con acceso en tiempo real a compras, pagos y cuentas. La SIGEN sigue en el Ejecutivo, con titular por concurso.",
      "props": [
-      59
+      60
      ]
     },
     {
@@ -249,7 +253,7 @@
      "titulo": "Empleo público por concurso, sin nepotismo y con contratos registrados",
      "detalle": "Reforma de la Ley 25.164 con concurso para todo ingreso, ley contra el nepotismo y Registro Público de Contrataciones No Permanentes, completo a los seis meses: lo no registrado no se liquida.",
      "props": [
-      61
+      62
      ]
     },
     {
@@ -257,7 +261,7 @@
      "titulo": "Inteligencia acotada y controlada por el Congreso",
      "detalle": "Reescribe la Ley 25.520: misión limitada a amenazas externas, terrorismo y crimen organizado complejo, escuchas solo con orden judicial y Auditor General de Inteligencia elegido con dos tercios.",
      "props": [
-      58
+      59
      ]
     },
     {
@@ -265,7 +269,7 @@
      "titulo": "Protección de datos, autoridad independiente y libertad de expresión",
      "detalle": "Nueva ley de datos personales que sigue el Convenio 108+, AAIP con titular por concurso y mandato fijo, prohibición de la vigilancia masiva sin orden judicial y leyes de plataformas y de publicidad oficial.",
      "props": [
-      57
+      58
      ]
     },
     {
@@ -273,7 +277,7 @@
      "titulo": "Jueces por concurso con plazos y procedimientos públicos",
      "detalle": "Reforma de la Ley 24.937 con plazos máximos por etapa, procedimientos de preselección con rango legal, Procuración General por concurso y límites a las subrogancias.",
      "props": [
-      63
+      64
      ]
     },
     {
@@ -281,16 +285,15 @@
      "titulo": "Competencia independiente y conciliación previa para el consumidor",
      "detalle": "Presupuesto propio por ley para la Autoridad Nacional de la Competencia y restitución de la conciliación previa nacional, digital, gratuita y con resolución en menos de 60 días.",
      "props": [
-      31
+      33
      ]
     },
     {
      "tipo": "ley",
-     "titulo": "Comisiones independientes sobre violencia estatal y corrupción",
-     "detalle": "Crea la Comisión Nacional de la Verdad sobre la Violencia Estatal en Democracia y la Comisión Nacional contra la Corrupción, ambas independientes del Ejecutivo, con miembros por concurso y acuerdo de dos tercios del Congreso.",
+     "titulo": "Comisión independiente sobre la violencia estatal",
+     "detalle": "Crea la Comisión Nacional de la Verdad sobre la Violencia Estatal en Democracia, independiente del Ejecutivo, con miembros por concurso y acuerdo de dos tercios del Congreso. La comisión contra la corrupción va a la consulta popular vinculante.",
      "props": [
-      93,
-      94
+      93
      ]
     },
     {
@@ -298,8 +301,8 @@
      "titulo": "Política exterior con consejo plural y evaluación de inversiones estratégicas",
      "detalle": "Ley marco que crea el Consejo de Política Exterior con todos los bloques y ley que crea la Comisión de Evaluación de Inversiones Estratégicas, aplicable a cualquier origen, con control bicameral.",
      "props": [
-      84,
-      85
+      85,
+      86
      ]
     },
     {
@@ -316,7 +319,7 @@
      "titulo": "Unidad de Seguridad de Suministro en Economía",
      "detalle": "Crea la unidad con acceso a los datos de Aduana, dentro del plazo de seis meses, para publicar al año el primer mapa de dependencias de insumos críticos.",
      "props": [
-      39
+      41
      ]
     },
     {
@@ -324,7 +327,7 @@
      "titulo": "Empresa en 24 horas en una sola plataforma",
      "detalle": "Integra en TAD y Mi Argentina el registro societario, la CUIT, el alta de empleador y la apertura de cuenta, con plazo de 24 horas; la plataforma debe estar operativa en doce meses y se abren los convenios con provincias y municipios.",
      "props": [
-      28
+      29
      ]
     },
     {
@@ -332,9 +335,9 @@
      "titulo": "Consejo Federal de Educación antes del ciclo lectivo",
      "detalle": "Se convoca al Consejo para acordar núcleos y metas de alfabetización por provincia, la actualización de Educación Digital con inteligencia artificial, los acuerdos de formación dual y el piloto de alertas de trayectoria.",
      "props": [
-      53,
-      55,
-      76
+      54,
+      56,
+      77
      ]
     },
     {
@@ -342,7 +345,7 @@
      "titulo": "Fondo Hídrico a obras y Consejo Hídrico Federal",
      "detalle": "Se dejan de colocar recursos del Fondo Hídrico en Letras y se convoca al Consejo Hídrico Federal para acordar la lista pública de obras prioritarias, los convenios por obra y el acuerdo de La Picasa.",
      "props": [
-      40
+      42
      ]
     },
     {
@@ -350,7 +353,7 @@
      "titulo": "Mantenimiento vial urgente y orden judicial en el sur santafesino",
      "detalle": "Arranca el mantenimiento urgente de la red troncal y el cumplimiento de la orden judicial de reparar las Rutas Nacionales 7, 8 y 33 en el sur de Santa Fe.",
      "props": [
-      42
+      44
      ]
     },
     {
@@ -358,7 +361,7 @@
      "titulo": "Acuerdo Nación–Santa Fe contra el narcotráfico en Rosario",
      "detalle": "Se firma el acuerdo sobre la base del Plan Bandera, con metas públicas y datos abiertos, y se forman los equipos conjuntos para seguir el dinero del delito.",
      "props": [
-      68
+      69
      ]
     },
     {
@@ -366,7 +369,7 @@
      "titulo": "Mesa con las provincias mineras",
      "detalle": "Se convoca a las provincias mineras para acordar el proyecto de ley de presupuestos mínimos, respetando su dominio sobre los recursos.",
      "props": [
-      38
+      40
      ]
     }
    ]
@@ -398,7 +401,7 @@
      "titulo": "Ley de acceso a energía segura",
      "detalle": "Fija metas anuales de redes y conexiones internas en cuotas o con subsidio focalizado, mientras se releva a los hogares sin gas de red y se cambian 100.000 artefactos inseguros en el año 1.",
      "props": [
-      34
+      36
      ]
     },
     {
@@ -406,7 +409,7 @@
      "titulo": "Minería con presupuestos mínimos y consulta a las comunidades",
      "detalle": "Proyecto acordado con las provincias mineras: consulta previa según el Convenio 169, revisión de la ley de glaciares con validación del IANIGLA y evaluación ambiental por cuenca.",
      "props": [
-      38
+      40
      ]
     },
     {
@@ -414,7 +417,7 @@
      "titulo": "Stocks estratégicos y mapa público de dependencias",
      "detalle": "Excepción acotada al secreto fiscal para la unidad técnica, publicación anual obligatoria del mapa de insumos críticos y régimen de stocks estratégicos.",
      "props": [
-      39
+      41
      ]
     },
     {
@@ -422,8 +425,8 @@
      "titulo": "Riesgo hídrico, seguros paramétricos y Fondo del Manejo del Fuego",
      "detalle": "Ley de gestión del riesgo hídrico con planes por cuenca y división del Fondo Hídrico (60, 25 y 15 %), seguros agropecuarios paramétricos y restitución del fideicomiso y el destino exclusivo del Fondo Nacional del Manejo del Fuego.",
      "props": [
-      40,
-      45
+      42,
+      42
      ]
     },
     {
@@ -431,8 +434,8 @@
      "titulo": "Red de empleo: desempleo y trabajo comunitario",
      "detalle": "Seguro de desempleo con piso y tope en salarios mínimos y abierto a monotributistas, ley marco de trabajo comunitario con piloto de 50.000 lugares.",
      "props": [
-      51,
-      52
+      52,
+      53
      ]
     },
     {
@@ -440,7 +443,7 @@
      "titulo": "Libre elección de obra social y portabilidad del aporte",
      "detalle": "Reforma de las Leyes 23.660 y 23.661: libre elección entre obras sociales y prepagas, portabilidad operativa en 18 meses y cobertura de 12 meses para desempleados desde el inicio de la Fase II.",
      "props": [
-      50
+      51
      ]
     },
     {
@@ -448,7 +451,7 @@
      "titulo": "Ingreso Universal Único",
      "detalle": "Ley con sus cuatro módulos, la lista cerrada de programas que absorbe, la cláusula de no pérdida y el cronograma de migración, completo al cierre del año 2.",
      "props": [
-      72
+      73
      ]
     },
     {
@@ -456,7 +459,7 @@
      "titulo": "Movilidad jubilatoria con piso de inflación",
      "detalle": "Reescribe el artículo 32 de la Ley 24.241: inflación mensual como piso más un componente de recuperación atado a la recaudación, prioridad a la mínima e informe trimestral de la Oficina de Presupuesto del Congreso.",
      "props": [
-      74
+      75
      ]
     },
     {
@@ -464,18 +467,18 @@
      "titulo": "Primera infancia, evaluación educativa y financiamiento universitario",
      "detalle": "Piso presupuestario plurianual para la primera infancia, Instituto Nacional de Evaluación Educativa, restitución de los pisos de inversión educativa y ley plurianual de universidades y ciencia, con calendarios compatibles con la regla fiscal.",
      "props": [
-      75,
       76,
-      78
+      77,
+      79
      ]
     },
     {
      "tipo": "ley",
      "titulo": "Carrera del equipo de salud y apuestas online",
-     "detalle": "Ley de carrera del equipo de salud acordada en el Consejo Federal de Salud y ley de apuestas online con verificación de edad, autoexclusión nacional y límites de depósito.",
+     "detalle": "Ley de carrera del equipo de salud acordada en el Consejo Federal de Salud y ley de apuestas online con verificación de edad, autoexclusión nacional y límites de depósito. Se publica la evaluación sanitaria independiente de las sustancias, previa a la consulta sobre la reforma de drogas.",
      "props": [
-      79,
-      80
+      80,
+      81
      ]
     },
     {
@@ -483,7 +486,7 @@
      "titulo": "Crédito hipotecario con cuota protegida e integración urbana",
      "detalle": "Cláusula de protección de cuota en créditos ajustados por inflación, fondo de garantía para la primera vivienda y financiamiento de la integración socio-urbana dentro del cupo de obras.",
      "props": [
-      81
+      82
      ]
     },
     {
@@ -491,7 +494,7 @@
      "titulo": "Licencia por paternidad de 15 días",
      "detalle": "Modifica la Ley 20.744 y crea en la Ley 24.714 una asignación por paternidad pagada por ANSES: 15 días desde la sanción y ampliación por etapas hasta 30 días al año 4.",
      "props": [
-      82
+      83
      ]
     },
     {
@@ -499,7 +502,7 @@
      "titulo": "Protección inmediata a quien denuncia violencia",
      "detalle": "Reforma de la Ley 26.485: paquete automático al denunciar, retención de la cuota alimentaria, registro nacional de deudores y fondo de garantía.",
      "props": [
-      71
+      72
      ]
     },
     {
@@ -531,7 +534,7 @@
      "titulo": "Discapacidad: CUD en plazo y pagos en fecha",
      "detalle": "Certificado Único de Discapacidad digital en menos de 60 días con renovación automática, pago en fecha a prestadores y auditoría por cruce de datos sin cortar el pago durante la revisión.",
      "props": [
-      83
+      84
      ]
     },
     {
@@ -539,7 +542,7 @@
      "titulo": "Mesa de diálogo laboral sobre el trípode completo",
      "detalle": "Se convoca a trabajadores y empresas a negociar flexibilidad, libertad sindical y participación; la reforma entra en vigencia en la Fase II, con la red ya tendida.",
      "props": [
-      46
+      47
      ]
     },
     {
@@ -547,7 +550,7 @@
      "titulo": "Consejo estratégico Argentina–India e instrucciones a negociadores",
      "detalle": "Dentro de los primeros 180 días se constituye el consejo y se instruye a los negociadores para la ampliación del acuerdo Mercosur–India, con prioridad en aceites.",
      "props": [
-      87
+      88
      ]
     },
     {
@@ -563,7 +566,7 @@
      "titulo": "Tarifas previsibles, tarifa social única y zonas climáticas",
      "detalle": "Cronograma de ocho escalones semestrales hasta que la tarifa cubra el costo, con tope de 10 % real por escalón; una tarifa social para luz, gas, agua y transporte; zona fría y zona cálida definidas con datos de clima; subsidio al transporte por pasajero, igual en todo el país.",
      "props": [
-      34
+      36
      ]
     }
    ]
@@ -575,18 +578,19 @@
   "ejecutiva": 17
  },
  "notas_para_el_autor": [
-  "Presupuesto 2028: ninguna propuesta dice si en los primeros 100 días se envía una modificación del presupuesto heredado. Se incluyó un ítem de adecuación con los puntos que las propuestas 45, 58 y 95 atan al 'primer presupuesto' o a la ley de presupuesto; si 'primer presupuesto' significa el de 2029, ese ítem debe salir y conviene aclararlo en las propuestas 45 y 74.",
+  "Presupuesto 2028: ninguna propuesta dice si en los primeros 100 días se envía una modificación del presupuesto heredado. Se incluyó un ítem de adecuación con los puntos que las propuestas 42, 59 y 95 atan al 'primer presupuesto' o a la ley de presupuesto; si 'primer presupuesto' significa el de 2029, ese ítem debe salir y conviene aclararlo en las propuestas 42 y 75.",
   "Sesiones extraordinarias: entre el 10/12 y el 1/3 el Congreso solo trata lo que el Ejecutivo incluye en el temario. El decreto de convocatoria no figura en ninguna propuesta; se agregó porque es condición para enviar las leyes en diciembre. Confirmar si se acepta.",
   "Propuesta 10: la ley del cheque debe sancionarse antes del 31/12/2027, o sea en los primeros 21 días de mandato y en extraordinarias. El plazo es muy ajustado; conviene prever qué pasa si no se llega (prórroga simple del impuesto con el cronograma después).",
-  "Propuesta 86: pide renovar la licencia del Gasoducto del Mercosur 'antes de diciembre de 2027', fecha anterior al inicio del mandato. Se ubicó en la Semana 1 condicionado a que no se haya hecho antes; revisar la redacción.",
-  "Propuestas 34 y 35: hitos fijados 'en 2027' (Gasoducto Regional Centro II, regreso de Atucha I, RA-10) caen en los 21 días de 2027 del mandato o dependen del gobierno saliente. Se incluyeron como ítem de verificación; quizá convenga redactarlos como 'si no se completaron'.",
-  "Propuesta 49: el Régimen de Incentivo a la Formalización Laboral admite altas hasta el 30/04/2027, antes del mandato; hacerlo 'permanente' implica reabrirlo. Lo mismo con la ventana del RIGI (propuesta 21, vence en julio de 2027), que la propuesta ya resuelve con una nueva ventana.",
-  "Propuesta 61: el reemplazo del Decreto 934/2025 por la regla de 'ningún ingreso sin concurso' figura entre los pasos de una propuesta cuyo instrumento es ley. Se adelantó como decreto porque modifica un decreto; si se prefiere que vaya solo por ley, pasarlo al proyecto de empleo público.",
+  "Propuesta 87: pide renovar la licencia del Gasoducto del Mercosur 'antes de diciembre de 2027', fecha anterior al inicio del mandato. Se ubicó en la Semana 1 condicionado a que no se haya hecho antes; revisar la redacción.",
+  "Propuestas 36 y 37: hitos fijados 'en 2027' (Gasoducto Regional Centro II, regreso de Atucha I, RA-10) caen en los 21 días de 2027 del mandato o dependen del gobierno saliente. Se incluyeron como ítem de verificación; quizá convenga redactarlos como 'si no se completaron'.",
+  "Propuesta 50: el Régimen de Incentivo a la Formalización Laboral admite altas hasta el 30/04/2027, antes del mandato; hacerlo 'permanente' implica reabrirlo. Lo mismo con la ventana del RIGI (propuesta 21, vence en julio de 2027), que la propuesta ya resuelve con una nueva ventana.",
+  "Propuesta 62: el reemplazo del Decreto 934/2025 por la regla de 'ningún ingreso sin concurso' figura entre los pasos de una propuesta cuyo instrumento es ley. Se adelantó como decreto porque modifica un decreto; si se prefiere que vaya solo por ley, pasarlo al proyecto de empleo público.",
   "Propuesta 8: el contenido de la ley sobre el BCRA depende de que se haya sancionado o no la reforma de la Carta Orgánica que estaba en trámite en octubre de 2026.",
   "Orden de dependencias: la ley de minería (38) se envía después de la mesa con las provincias mineras, y la del registro patrimonial (16) debería aprobar un acuerdo del Consejo Federal del Catastro que quizá no esté cerrado a los 60 días. Si el acuerdo se demora, conviene mover el envío de la 16 a los días 61-100 o más adelante.",
   "Medidas del año 1 sin fecha que quedaron fuera de los 100 días porque nada obliga a adelantarlas: Lista Nacional de Excepciones al AEC (24), simplificación cambiaria para exportadores de servicios (25), normas de la CNV (29), contratos de gas (32), registro de oferta local (22), mapa de cobertura de internet (44), tablero judicial (62, que corresponde al Poder Judicial), cobertura de las vacantes de la Corte (63), aislamiento de líderes criminales (69), protocolos y cámaras policiales (70), registro nominal de primera infancia (75), normalización del PAMI, convenios SAMIC y relevamiento de hospitales (79), estrategia de política exterior (84), comisión binacional con Brasil (86), migraciones (92) y resoluciones de la IGJ, la UIF y tarifa social para clubes (100).",
   "Leyes sin fase clara, que no se incluyeron: uso de la fuerza (70; plazos solo para protocolos), migraciones (92), garantías de tiempos de atención (79; registro y plazos en la Fase II), fondo de Servicio Universal (44) y sociedad de fosfatados (32). Conviene precisar en cada una si la ley es de la Fase I o de la II.",
   "Leyes incluidas con fase implícita: la del Instituto de Evaluación y los pisos de inversión educativa (76), y la del FONDEF y la vigilancia marítima (90 y 91) no dicen en qué fase se envían; se tomaron como Fase I por el resto de la propuesta (centro de monitoreo en 18 meses, directiva y protocolos en el año 1). Confirmar.",
-  "Propuesta 87: fija 'primeros 180 días' para el consejo con la India; se ubicó en los días 61-100 sin contradicción, pero también podría quedar fuera de los 100 días."
+  "Propuesta 88: fija 'primeros 180 días' para el consejo con la India; se ubicó en los días 61-100 sin contradicción, pero también podría quedar fuera de los 100 días.",
+  "Consultas populares: la ley de convocatoria a consulta vinculante (N414) es de iniciativa de la Cámara de Diputados; el Ejecutivo no puede presentarla. La consulta no vinculante sobre la reforma constitucional, la cuenta previsional propia y la ley de humedales (N415) se convoca por decreto a mediados de 2028 y queda fuera de los 100 días."
  ]
 }
