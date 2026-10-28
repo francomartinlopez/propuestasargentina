@@ -14,6 +14,14 @@
      ]
     },
     {
+     "tipo": "ley",
+     "titulo": "Ocho ministerios y sin subsecretarías",
+     "detalle": "Ley de ministerios: Jefatura de Gabinete y ocho ministerios fijados por ley, solo ministros y secretarios como cargos políticos, tope de 32 secretarías, sin subsecretarías ni vicejefaturas, direcciones por concurso y organigrama completo publicado. Se envía al Congreso con las extraordinarias, no por decreto de necesidad y urgencia; hasta su sanción rige la estructura vigente.",
+     "props": [
+      62
+     ]
+    },
+    {
      "tipo": "decreto",
      "titulo": "Cada compra y cada pago del Estado, publicados el mismo día",
      "detalle": "Toda compra y contratación del Estado nacional se publica el día de la firma y los pagos se publican de oficio. Empieza la unificación de COMPR.AR y CONTRAT.AR y el portal de pagos, operativos en seis meses.",
@@ -316,7 +324,15 @@
     },
     {
      "tipo": "decreto",
-     "titulo": "Unidad de Seguridad de Suministro en Economía",
+     "titulo": "Organigrama de 32 secretarías, en una sola página",
+     "detalle": "Dentro de los 30 días de la ley de ministerios, un decreto aprueba las 32 secretarías, suprime las subsecretarías y vicejefaturas, asigna cada organismo a un solo ministerio y publica el organigrama completo con cada responsable, su función y su sueldo.",
+     "props": [
+      62
+     ]
+    },
+    {
+     "tipo": "decreto",
+     "titulo": "Unidad de Seguridad de Suministro en el Ministerio de Economía",
      "detalle": "Crea la unidad con acceso a los datos de Aduana, dentro del plazo de seis meses, para publicar al año el primer mapa de dependencias de insumos críticos.",
      "props": [
       41
@@ -573,8 +589,8 @@
   }
  ],
  "conteo": {
-  "decreto": 8,
-  "ley": 38,
+  "decreto": 10,
+  "ley": 39,
   "ejecutiva": 17
  },
  "notas_para_el_autor": [
