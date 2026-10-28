@@ -25,13 +25,13 @@
 :root{
   --paper:#ffffff;--sheet:#f5f5f4;--ink:#111111;--muted:#5b5b5b;--rule:#e3e1de;
   --acc:#cc5214;--amber:#8a5d00;--amber-bg:#fff3d4;
-  --orange:#eb671c;--sun:#f9b50f;--red:#e84b49;--pos:#3b3b3b;
+  --orange:#eb671c;--sun:#f9b50f;--red:#e84b49;--pos:#3b3b3b;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;
   --grad:linear-gradient(115deg,#f9b50f 0%,#eb671c 34%,#e84f2b 68%,#e84b49 100%);
   --f:"Plus Jakarta Sans",system-ui,sans-serif;
 }
 @media (prefers-color-scheme:dark){:root{
   --paper:#0e0e0e;--sheet:#181818;--ink:#f2f2f2;--muted:#a6a6a6;--rule:#2d2d2d;
-  --acc:#f58a4c;--amber:#f9b50f;--amber-bg:#2c220c;--pos:#d8d8d8;color-scheme:dark}}
+  --acc:#f58a4c;--amber:#f9b50f;--amber-bg:#2c220c;--pos:#d8d8d8;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;color-scheme:dark}}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:112px}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
@@ -226,6 +226,9 @@ a{color:var(--acc)}
 .chart .ax{font:500 13px var(--f);fill:var(--muted)}
 .chart .vl{font:700 13px var(--f);fill:var(--ink)}
 .chart .grid{stroke:var(--rule);stroke-width:1}
+.chart .ref{stroke:var(--muted);stroke-width:1}.chart .mk{stroke:var(--muted);stroke-width:1;stroke-dasharray:3 3}.chart .mt{font:600 12px var(--f);fill:var(--muted)}
+.chart .ley{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:4px 14px;margin:8px 0 0;padding:0;list-style:none;font-size:.8rem;color:var(--ink)}.chart .ley li{display:flex;align-items:center;gap:7px}.chart .ley i{flex:0 0 18px;height:3px;border-radius:2px}.chart .ley b{margin-left:auto;font-weight:700}
+.chart .nota{font-size:.74rem;color:var(--muted);margin:6px 0 0}
 .obm{overflow:hidden;max-width:100%}
 .obm svg{display:block;width:100%;max-width:560px;max-height:520px;height:auto;overflow:hidden}
 .obm .ck{font-family:var(--f);font-weight:500;fill:var(--muted)}
@@ -760,9 +763,26 @@ function chartObras(o){
   var leg='<div class="leg ob">'+Object.keys(usados).map(function(q){var e=EST[q];return '<span><i style="background:'+e[0]+'"></i>'+e[2]+'</span>'}).join("")+'</div>';
   return '<figure class="chart obras" style="margin:12px 0 0"><h4>'+esc(o.titulo||"Dónde")+'</h4><div class="obm"><svg viewBox="'+vb+'" role="img" aria-label="'+esc(o.titulo||"Mapa de obras")+'">'+base+cit+L+LL+P+'</svg>'+leg+'</div><ol class="obl">'+lst+'</ol>'+(o.fuente?'<p class="src">Fuente: '+esc(o.fuente)+'</p>':'')+'</figure>';
 }
+function chartLines(g){
+  var C=["var(--s1)","var(--s2)","var(--s3)","var(--pos)","var(--s4)","var(--s5)"];
+  var S=(g.series||[]).map(function(se,k){return {n:se.nombre,c:se.color?"var(--"+se.color+")":C[k%C.length],w:se.color==="pos"?2.6:2,d:se.datos.map(function(p){return {x:String(p.x),y:num(p.y)}}).filter(function(p){return p.y!=null})}}).filter(function(se){return se.d.length>1});
+  if(!S.length)return "";
+  var X=[];S.forEach(function(se){se.d.forEach(function(p){if(X.indexOf(p.x)<0)X.push(p.x)})});X.sort();
+  var W=420,H=250,L=34,R=40,T=14,B=26,all=[];S.forEach(function(se){se.d.forEach(function(p){all.push(p.y)})});
+  var mn=Math.floor(Math.min.apply(null,all)/20)*20,mx=Math.ceil(Math.max.apply(null,all)/20)*20;
+  var sx=function(x){return L+(W-L-R)*X.indexOf(x)/(X.length-1)},sy=function(v){return T+(H-T-B)*(1-(v-mn)/(mx-mn))},s="";
+  for(var t=mn;t<=mx;t+=20){s+='<line class="'+(t===100?"ref":"grid")+'" x1="'+L+'" x2="'+(W-R)+'" y1="'+sy(t)+'" y2="'+sy(t)+'"/><text class="ax" x="'+(L-5)+'" y="'+(sy(t)+4)+'" text-anchor="end">'+t+'</text>'}
+  X.forEach(function(x){if(/-01$/.test(x)&&+x.slice(0,4)%2===0)s+='<text class="ax" x="'+sx(x)+'" y="'+(H-6)+'" text-anchor="middle">'+x.slice(0,4)+'</text>'});
+  if(g.marca&&X.indexOf(g.marca.x)>=0){var mxp=sx(g.marca.x);s+='<line class="mk" x1="'+mxp+'" x2="'+mxp+'" y1="'+T+'" y2="'+(H-B)+'"/><text class="mt" x="'+(mxp+4)+'" y="'+(T+10)+'">'+esc(g.marca.texto)+'</text>'}
+  S.forEach(function(se){s+='<path d="'+se.d.map(function(p,i){return (i?"L":"M")+sx(p.x).toFixed(1)+","+sy(p.y).toFixed(1)}).join("")+'" fill="none" stroke="'+se.c+'" stroke-width="'+se.w+'" stroke-linejoin="round"/>'});
+  var ends=S.map(function(se){var p=se.d[se.d.length-1];return {y:sy(p.y),v:p.y,c:se.c,x:sx(p.x)}}).sort(function(a,b){return a.y-b.y}),prev=-99;
+  ends.forEach(function(e){var ly=Math.max(e.y,prev+13);prev=ly;s+='<circle cx="'+e.x+'" cy="'+e.y+'" r="3" fill="'+e.c+'"/><text class="vl" x="'+(W-R+6)+'" y="'+(ly+4)+'">'+Math.round(e.v)+'</text>'});
+  var ley='<ul class="ley">'+S.map(function(se){return '<li><i style="background:'+se.c+'"></i>'+esc(se.n)+'<b>'+Math.round(se.d[se.d.length-1].y)+'</b></li>'}).join("")+'</ul>';
+  return '<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="'+esc(g.titulo)+'">'+s+'</svg>'+ley+(g.nota?'<p class="nota">'+esc(g.nota)+'</p>':'');
+}
 function chart(g){
-  if(!g||!g.datos||!g.datos.length)return "";
-  var body=g.tipo==="mapa"?chartMap(g):g.tipo==="linea"?chartLine(g):chartBars(g);
+  if(!g||!((g.datos&&g.datos.length)||(g.series&&g.series.length)))return "";
+  var body=g.tipo==="lineas"?chartLines(g):g.tipo==="mapa"?chartMap(g):g.tipo==="linea"?chartLine(g):chartBars(g);
   if(!body)return "";
   return '<figure class="chart" style="margin:12px 0 0"><h4>'+esc(g.titulo)+(g.unidad?' <span style="color:var(--muted);font-weight:500">· '+esc(g.unidad)+'</span>':'')+'</h4>'+body+(g.fuente?'<p class="src">Fuente: '+esc(g.fuente)+'</p>':'')+'</figure>';
 }
@@ -812,7 +832,7 @@ function card(p){
      '<div data-n="2" style="margin-top:10px">'+paras(p.que_ext)+'</div><div data-n="3" style="margin-top:10px">'+paras(p.que_comp)+'</div></div>'+
    '<div class="blk why"><span class="label">Por qué</span>'+
      (d.valor?'<div class="stat"><span class="n">'+esc(d.valor)+'</span><span class="t">'+esc(d.texto)+'</span></div><p class="src">'+esc([d.fuente,d.fecha].filter(Boolean).join(" · "))+'</p>':'')+
-     '<div data-n="2" style="margin-top:10px">'+paras(p.porque_ext)+chart(p.grafico)+'</div>'+
+     '<div data-n="2" style="margin-top:10px">'+paras(p.porque_ext)+chart(p.grafico)+chart(p.grafico2)+'</div>'+
      '<div data-n="3" style="margin-top:10px">'+paras(p.porque_comp)+'</div></div>'+
    '<div class="blk how"><span class="label">Cómo</span>'+
      '<p class="solo1">'+esc([p.cuando,p.instrumento,p.actores].filter(Boolean).join(" · "))+'</p>'+
