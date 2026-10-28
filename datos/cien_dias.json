@@ -557,13 +557,21 @@
      "props": [
       89
      ]
+    },
+    {
+     "tipo": "ley",
+     "titulo": "Tarifas previsibles, tarifa social única y zonas climáticas",
+     "detalle": "Cronograma de ocho escalones semestrales hasta que la tarifa cubra el costo, con tope de 10 % real por escalón; una tarifa social para luz, gas, agua y transporte; zona fría y zona cálida definidas con datos de clima; subsidio al transporte por pasajero, igual en todo el país.",
+     "props": [
+      34
+     ]
     }
    ]
   }
  ],
  "conteo": {
   "decreto": 8,
-  "ley": 37,
+  "ley": 38,
   "ejecutiva": 17
  },
  "notas_para_el_autor": [
