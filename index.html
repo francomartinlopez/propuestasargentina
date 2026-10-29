@@ -425,6 +425,48 @@ footer a{color:var(--muted)}
   a{color:inherit;text-decoration:none}
 }
 
+
+/* test de coincidencia */
+.test{padding-block:34px 0}
+.tbtn{display:flex;align-items:center;gap:14px;width:100%;text-align:left;font:inherit;color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-radius:14px;padding:16px 18px;cursor:pointer}
+.tbtn:hover{border-color:var(--acc)}
+.tbtn .ti{flex-shrink:0;width:42px;height:42px;border-radius:50%;background:var(--grad);display:grid;place-items:center;color:#fff;font-weight:800;font-size:1.1rem}
+.tbtn b{display:block;font-size:1.05rem;font-weight:800;letter-spacing:-.01em}
+.tbtn small{color:var(--muted);font-size:.86rem}
+.tbtn .tch{margin-left:auto;font-size:1.3rem;color:var(--acc);transition:transform .2s}
+.tbtn[aria-expanded="true"] .tch{transform:rotate(180deg)}
+.tpanel{border:1px solid var(--rule);border-top:0;border-radius:0 0 14px 14px;padding:20px 18px 22px;margin-top:-10px;padding-top:28px}
+.tpanel[hidden]{display:none}
+.tprog{display:flex;justify-content:space-between;font-size:.8rem;font-weight:700;color:var(--muted)}
+.tbar{height:6px;background:var(--sheet);border-radius:3px;margin:8px 0 18px;overflow:hidden}
+.tbar i{display:block;height:100%;background:var(--grad);border-radius:3px;transition:width .25s}
+.tarea{font:700 .72rem/1.3 var(--f);letter-spacing:.1em;text-transform:uppercase;color:var(--acc)}
+.tq{font-size:clamp(1.08rem,2.4vw,1.28rem);font-weight:700;line-height:1.4;margin:8px 0 18px;min-height:3.6em}
+.topts{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+@media (max-width:520px){.topts{grid-template-columns:1fr}}
+.topts button{font:700 .92rem var(--f);padding:13px 10px;border-radius:10px;border:1.5px solid var(--rule);background:var(--paper);color:var(--ink);cursor:pointer}
+.topts button:hover{border-color:var(--acc)}
+.topts button[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.tnav{display:flex;justify-content:space-between;align-items:center;margin-top:14px;font-size:.84rem}
+.tnav button{font:700 .84rem var(--f);background:none;border:0;color:var(--acc);cursor:pointer;padding:6px 0}
+.tnav button[disabled]{visibility:hidden}
+.tnav a{color:var(--muted)}
+.tres .tpct{font-size:clamp(2.6rem,8vw,3.6rem);font-weight:800;letter-spacing:-.03em;line-height:1;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.tres h3{font-size:1.2rem;font-weight:800;margin-top:8px}
+.tres p.tsub{color:var(--muted);margin-top:4px;font-size:.92rem}
+.tareas{display:grid;gap:7px;margin-top:20px}
+.tar{display:grid;grid-template-columns:96px 1fr 42px;gap:10px;align-items:center;font-size:.84rem}
+.tar span:first-child{font-weight:700}
+.tar .tb{height:8px;background:var(--sheet);border-radius:4px;overflow:hidden}
+.tar .tb i{display:block;height:100%;background:var(--acc);border-radius:4px}
+.tar span:last-child{text-align:right;font-weight:700;font-variant-numeric:tabular-nums}
+.tlis{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:22px}
+@media (max-width:640px){.tlis{grid-template-columns:1fr}}
+.tlis h4{margin:0 0 6px;font-size:.92rem;font-weight:800}
+.tlis ul{margin:0;padding-left:18px;font-size:.86rem;display:grid;gap:5px}
+.tlis li small{color:var(--muted)}
+.tagain{margin-top:20px;font:700 .88rem var(--f);padding:10px 16px;border-radius:999px;border:1.5px solid var(--ink);background:none;color:var(--ink);cursor:pointer}
+.tnota{font-size:.78rem;color:var(--muted);margin-top:14px}
 </style>
 </head>
 <body>
@@ -463,6 +505,10 @@ footer a{color:var(--muted)}
     </div>
 </div></section>
 
+<section class="test" id="test"><div class="in">
+  <button type="button" class="tbtn" id="tbtn" aria-expanded="false" aria-controls="tpanel"><span class="ti" aria-hidden="true">%</span><span><b>¿Cuánto coincidís con este programa?</b><small>Hacé el test: 26 afirmaciones, unos 5 minutos.</small></span><span class="tch" aria-hidden="true">▾</span></button>
+  <div class="tpanel" id="tpanel" hidden aria-live="polite"></div>
+</div></section>
 <section class="ideas"><div class="in">
   <span class="label">En 10 ideas</span>
   <h2>Si tenés un minuto</h2>
@@ -932,6 +978,60 @@ Promise.all([
   document.getElementById("lista").innerHTML='<p class="cargando">No se pudieron cargar las propuestas ('+esc(e.message)+').</p>';
 });
 document.querySelectorAll("[data-chart]").forEach(function(el){try{el.innerHTML=chartBars(JSON.parse(el.getAttribute("data-chart")))}catch(e){}});
+})();
+</script>
+<script>
+(function(){
+"use strict";
+var Q=[{"a": "I", "t": "La emisión de pesos debe tener un tope fijado por ley, y el Banco Central debe dedicarse solo a cuidar el valor de la moneda.", "p": [1, 8]}, {"a": "I", "t": "Cada persona debe poder comprar dólares libremente y ahorrar, cobrar y contratar en la moneda que elija.", "p": [2, 4]}, {"a": "I", "t": "El Estado no debe gastar más de lo que recauda: déficit cero por ley y deuda solo para obras.", "p": [5, 7]}, {"a": "II", "t": "Las retenciones, Ingresos Brutos, sellos y el impuesto al cheque deben bajar por etapas, y el IVA también.", "p": [10, 11, 12]}, {"a": "II", "t": "Las herencias grandes deben pagar un impuesto, con la vivienda familiar y la pequeña empresa exentas.", "p": [14]}, {"a": "II", "t": "Cada provincia debe cobrar sus propios impuestos en vez de depender del reparto de la Nación.", "p": [17, 18]}, {"a": "III", "t": "La economía debe abrirse a las importaciones de a poco, con un calendario por sector fijado por ley.", "p": [23, 24]}, {"a": "III", "t": "Las grandes inversiones deben recibir beneficios fiscales solo a cambio de obras para la región.", "p": [21, 22]}, {"a": "IV", "t": "La energía nuclear argentina debe ser el pilar de la matriz eléctrica, junto con el gas de Vaca Muerta.", "p": [37, 38]}, {"a": "IV", "t": "La minería debe avanzar solo con consulta previa a las comunidades y con prioridad del agua para consumo humano.", "p": [40]}, {"a": "V", "t": "Las reglas para contratar deben flexibilizarse, con un fondo de cese en lugar de la indemnización que termina en juicio, siempre junto con una red para quien pierde el empleo.", "p": [47, 52]}, {"a": "V", "t": "Cada trabajador debe poder elegir su sindicato, y los aportes sindicales deben ser voluntarios.", "p": [48]}, {"a": "V", "t": "Los trabajadores deben poder tener una parte de la propiedad y asientos en el directorio de las grandes empresas.", "p": [49]}, {"a": "VI", "t": "El Poder Ejecutivo debe tener ocho ministerios fijados por ley, y los cargos técnicos deben cubrirse por concurso.", "p": [62]}, {"a": "VI", "t": "Los organismos de control deben estar encabezados por la oposición, y cada compra del Estado debe publicarse en internet el mismo día.", "p": [57, 60]}, {"a": "VI", "t": "Los delitos graves deben juzgarse con jurados de ciudadanos, y los jueces deben elegirse por concurso con plazos.", "p": [64, 65]}, {"a": "VII", "t": "Firmeza contra el delito y apoyo a las fuerzas, con controles estrictos contra el abuso policial.", "p": [68, 71]}, {"a": "VII", "t": "El consumo de algunas drogas debe legalizarse bajo supervisión médica, y la persecución debe concentrarse en el dinero del narcotráfico.", "p": [69, 81]}, {"a": "VIII", "t": "Los planes sociales deben unificarse en un solo ingreso, pagado directo y sin intermediarios.", "p": [73]}, {"a": "VIII", "t": "Quien empieza a trabajar debe poder destinar parte de su aporte a una cuenta jubilatoria propia, con un haber mínimo garantizado por el Estado.", "p": [74, 75]}, {"a": "VIII", "t": "El dinero para educación debe asignarse por alumno, para que las familias puedan elegir entre la escuela estatal y la privada con aporte estatal.", "p": [78]}, {"a": "VIII", "t": "Las universidades y la ciencia deben tener un presupuesto mínimo fijado por ley, a cambio de auditoría externa.", "p": [79]}, {"a": "IX", "t": "La Argentina debe comerciar con todos los países y condenar las violaciones de derechos humanos con la misma vara, sea rival o aliado.", "p": [85, 86]}, {"a": "IX", "t": "Sobre Malvinas: retomar el diálogo con el Reino Unido y cooperar con los isleños, sin renunciar al reclamo.", "p": [89]}, {"a": "X", "t": "Una sola reelección en toda la vida para cada cargo, y renunciar al cargo para ser candidato a otro.", "p": [97]}, {"a": "X", "t": "Mantener la Boleta Única y las PASO, y publicar cada aporte de campaña en 72 horas.", "p": [96, 98]}];
+var AR={I:"Moneda, cuentas y deuda",II:"Impuestos y federalismo",III:"Producción, comercio e inversión",IV:"Energía, infraestructura y ambiente",V:"Trabajo",VI:"Estado, transparencia y justicia",VII:"Seguridad",VIII:"Ingreso, salud, educación y vivienda",IX:"Mundo, defensa y soberanía",X:"Memoria, democracia y convivencia"};
+var CO={I:"Moneda",II:"Impuestos",III:"Producción",IV:"Energía",V:"Trabajo",VI:"Estado",VII:"Seguridad",VIII:"Social",IX:"Mundo",X:"Democracia"};
+var OP=[[1,"De acuerdo"],[0.5,"Parcialmente"],[0,"En desacuerdo"]];
+var btn=document.getElementById("tbtn"),pan=document.getElementById("tpanel");
+if(!btn||!pan)return;
+var R=[],i=0;
+function e(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function props(p){return p.map(function(n){return '<a href="#p'+n+'">'+n+'</a>'}).join(", ")}
+function pregunta(){
+  var q=Q[i];
+  var h='<div class="tprog"><span>Pregunta '+(i+1)+' de '+Q.length+'</span><span>'+e(CO[q.a])+'</span></div>'+
+    '<div class="tbar"><i style="width:'+(i/Q.length*100)+'%"></i></div>'+
+    '<div class="tarea">'+e(AR[q.a])+'</div><p class="tq">'+e(q.t)+'</p><div class="topts" role="group" aria-label="Tu respuesta">';
+  OP.forEach(function(o){h+='<button type="button" data-v="'+o[0]+'" aria-pressed="'+(R[i]===o[0])+'">'+o[1]+'</button>'});
+  h+='</div><div class="tnav"><button type="button" id="tant"'+(i===0?' disabled':'')+'>← Anterior</button><span>Propuesta'+(q.p.length>1?'s ':' ')+props(q.p)+'</span></div>';
+  pan.innerHTML=h;
+  pan.querySelectorAll("[data-v]").forEach(function(b){b.addEventListener("click",function(){
+    R[i]=parseFloat(b.getAttribute("data-v"));
+    pan.querySelectorAll("[data-v]").forEach(function(x){x.setAttribute("aria-pressed",x===b?"true":"false")});
+    setTimeout(function(){if(i<Q.length-1){i++;pregunta()}else resultado()},180);
+  })});
+  var a=document.getElementById("tant");if(a)a.addEventListener("click",function(){if(i>0){i--;pregunta()}});
+}
+function frase(p){return p>=70?"Alta coincidencia":p>=40?"Coincidencia parcial":"Poca coincidencia"}
+function resultado(){
+  var tot=0;R.forEach(function(v){tot+=v});
+  var pct=Math.round(tot/Q.length*100);
+  var por={},ord=[];
+  Q.forEach(function(q,k){if(!por[q.a]){por[q.a]=[];ord.push(q.a)}por[q.a].push(R[k])});
+  var h='<div class="tres"><div class="tpct">'+pct+' %</div><h3>'+frase(pct)+' con el programa</h3>'+
+    '<p class="tsub">Cada respuesta vale igual: de acuerdo suma 1, parcialmente 0,5 y en desacuerdo 0.</p><div class="tareas">';
+  ord.forEach(function(a){var s=0;por[a].forEach(function(v){s+=v});var p=Math.round(s/por[a].length*100);
+    h+='<div class="tar"><span>'+e(CO[a])+'</span><span class="tb"><i style="width:'+p+'%"></i></span><span>'+p+' %</span></div>'});
+  h+='</div>';
+  var si=[],no=[];
+  Q.forEach(function(q,k){var li='<li>'+e(q.t)+' <small>('+props(q.p)+')</small></li>';if(R[k]===1)si.push(li);else if(R[k]===0)no.push(li)});
+  h+='<div class="tlis"><div><h4>Donde más coincidís</h4>'+(si.length?'<ul>'+si.join("")+'</ul>':'<p class="tsub">Ninguna afirmación con acuerdo pleno.</p>')+'</div>'+
+     '<div><h4>Donde menos coincidís</h4>'+(no.length?'<ul>'+no.join("")+'</ul>':'<p class="tsub">Ninguna afirmación en desacuerdo.</p>')+'</div></div>';
+  h+='<button type="button" class="tagain" id="tagain">Volver a empezar</button><p class="tnota">Tus respuestas no se guardan ni se envían: el test funciona solo en tu navegador.</p></div>';
+  pan.innerHTML=h;
+  document.getElementById("tagain").addEventListener("click",function(){R=[];i=0;pregunta();btn.scrollIntoView({block:"start"})});
+}
+btn.addEventListener("click",function(){
+  var abierto=btn.getAttribute("aria-expanded")==="true";
+  btn.setAttribute("aria-expanded",abierto?"false":"true");
+  pan.hidden=abierto;
+  if(!abierto&&!pan.innerHTML){pregunta()}
+});
 })();
 </script>
 </body>
