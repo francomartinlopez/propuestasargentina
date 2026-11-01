@@ -865,9 +865,9 @@ footer a{color:var(--muted)}
       </fieldset>
       <div><label class="t" for="n">Nombre</label><input id="n" name="nombre" autocomplete="name" required></div>
       <div><label class="t" for="p">Provincia</label><select id="p" name="provincia" required><option value="">Elegí tu provincia</option></select></div>
-      <div><label class="t" for="e">Correo o WhatsApp para responderte</label><input id="e" name="contacto" required></div>
+      <div><label class="t" for="e">Correo electrónico</label><input id="e" name="email" type="email" autocomplete="email" inputmode="email" required></div><div><label class="t" for="tel">Teléfono o WhatsApp <small>(opcional)</small></label><input id="tel" name="telefono" type="tel" autocomplete="tel" inputmode="tel" placeholder="Con código de área, por ejemplo 341 555 1234"></div>
       <div><label class="t" for="m">Mensaje</label><textarea id="m" name="mensaje" rows="4" required></textarea></div>
-      <p class="nota">Por ahora solo registramos el interés en aportar fondos: no se recibe dinero por esta vía.</p>
+      <p class="nota">Te llega una copia de tu mensaje al correo que dejes. Por ahora solo registramos el interés en aportar fondos: no se recibe dinero por esta vía.</p>
       <label class="consent"><input type="checkbox" name="consentimiento" value="Acepto" required> <span>Acepto que mis datos se usen solo para responderme, según la <a href="privacidad.html">política de privacidad</a>.</span></label>
       <button class="btn" type="submit">Enviar</button>
       <p class="ok" id="ok">Vista previa: el formulario funciona una vez publicado en Netlify.</p>
