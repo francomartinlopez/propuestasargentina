@@ -611,6 +611,19 @@ footer a{color:var(--muted)}
 .cargos[data-pn="2"] th:last-child,.cargos[data-pn="2"] td.c{display:none}
 .cargos[data-pn="2"] td:first-child{width:auto}
 }
+
+/* cifras */
+.cifras{background:linear-gradient(100deg,#ffd23f 0%,#f9b50f 38%,#f08a1c 72%,#eb671c 100%);color:#111;border-top:3px solid #fff;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.cifras .in{padding-block:22px}
+.cifras ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px 22px}
+.cifras li{display:grid;gap:2px;border-left:2px solid rgba(17,17,17,.25);padding-left:12px}
+.cifras b{font-size:clamp(1.35rem,3vw,1.9rem);font-weight:800;letter-spacing:-.02em;line-height:1.05;white-space:nowrap}
+.cifras span{font-size:.84rem;font-weight:600;line-height:1.3}
+.cifras small{display:block;font-size:.72rem;font-weight:500;opacity:.8}
+.cifras a{color:inherit;text-decoration:none;display:grid;gap:3px;align-content:start}
+.cifras a:hover b{text-decoration:underline;text-underline-offset:4px}
+@media (max-width:640px){.cifras ul{grid-template-columns:repeat(2,minmax(0,1fr))}.cifras li:last-child{grid-column:1/-1}}
+@media print{.cifras{display:none!important}}
 </style>
 </head>
 <body>
@@ -644,6 +657,14 @@ footer a{color:var(--muted)}
     <p class="lede">Y todo eso, sin odio: firmes con la ley y en las ideas, pero sin desprecio por nadie, porque en el que piensa distinto, y aun en quien violó la ley, sigue habiendo una persona con derechos. <a class="leermas" href="#porque">Por qué, al final&nbsp;→</a></p>
   </div>
 </section>
+<section class="cifras" aria-label="El programa en cifras"><div class="in"><ul>
+<li><a href="#aI"><b>100</b><span>propuestas</span></a></li>
+<li><a href="#anexo"><b id="cf-normas">395</b><span>normas redactadas</span></a></li>
+<li><a href="#autor"><b id="cf-pags">1.628</b><span>páginas escritas<small id="cf-pdet">400 del programa y 1.228 de normas</small></span></a></li>
+<li><a href="#cargos"><b>≈ 2.670</b><span>cargos a elegir o designar</span></a></li>
+<li><a href="#cargos"><b>≈ 2.230</b><span>cargos por concurso, sin elección</span></a></li>
+<li><a href="#cargos"><b>hasta ≈ 169.700</b><span>lugares a cubrir en el mandato<small>universidades, ascensos, ingresos, becas y jurados</small></span></a></li>
+</ul></div></section>
 <section class="leer"><div class="in">
 <div class="howto">
       <span class="label">Cómo leer</span>
