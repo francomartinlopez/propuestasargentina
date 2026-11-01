@@ -624,6 +624,12 @@ footer a{color:var(--muted)}
 .cifras a:hover b{text-decoration:underline;text-underline-offset:4px}
 @media (max-width:640px){.cifras ul{grid-template-columns:repeat(2,minmax(0,1fr))}.cifras li:last-child{grid-column:1/-1}}
 @media print{.cifras{display:none!important}}
+
+/* sugerencias de localidad */
+.locw{position:relative}
+.sug{position:absolute;left:0;right:0;top:100%;z-index:20;margin:4px 0 0;padding:4px;list-style:none;background:var(--paper);border:1px solid var(--rule);border-radius:10px;box-shadow:0 10px 28px rgba(0,0,0,.16);max-height:280px;overflow-y:auto}
+.sug li{padding:10px 12px;border-radius:8px;cursor:pointer;font-size:.95rem;line-height:1.3}
+.sug li:hover,.sug li[aria-selected="true"]{background:var(--sheet);color:var(--acc)}
 </style>
 </head>
 <body>
@@ -864,7 +870,7 @@ footer a{color:var(--muted)}
         
       </fieldset>
       <div><label class="t" for="n">Nombre</label><input id="n" name="nombre" autocomplete="name" required></div>
-      <div><label class="t" for="p">Provincia</label><select id="p" name="provincia" required><option value="">Elegí tu provincia</option></select></div><div><label class="t" for="loc">Localidad</label><input id="loc" name="localidad" list="locs" autocomplete="off" required disabled placeholder="Elegí primero la provincia"><datalist id="locs"></datalist></div>
+      <div><label class="t" for="p">Provincia</label><select id="p" name="provincia" required><option value="">Elegí tu provincia</option></select></div><div class="locw"><label class="t" for="loc">Localidad</label><input id="loc" name="localidad" autocomplete="off" autocapitalize="words" required disabled placeholder="Elegí primero la provincia" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="locs"><ul id="locs" class="sug" role="listbox" hidden></ul></div>
       <div><label class="t" for="e">Correo electrónico</label><input id="e" name="email" type="email" autocomplete="email" inputmode="email" required></div><div><label class="t" for="tel">Teléfono o WhatsApp <small>(opcional)</small></label><input id="tel" name="telefono" type="tel" autocomplete="tel" inputmode="tel" placeholder="Con código de área, por ejemplo 341 555 1234"></div>
       <div><label class="t" for="m">Mensaje</label><textarea id="m" name="mensaje" rows="4" required></textarea></div>
       <p class="nota">Te llega una copia de tu mensaje al correo que dejes. Por ahora solo registramos el interés en aportar fondos: no se recibe dinero por esta vía.</p>
@@ -1151,11 +1157,26 @@ fetch("datos/anexo.json").then(function(r){return r.ok?r.json():[]}).then(functi
 var qi=document.getElementById("q");qi.addEventListener("input",function(){buscar(qi.value)});
 document.querySelectorAll(".idea").forEach(function(a){a.addEventListener("click",function(){var h=a.getAttribute("href");if(/^#p\d+$/.test(h)){qi.value="";buscar("");var t=document.querySelector(h);if(t)setProp(t,2)}})});
 var sel=document.getElementById("p");PROV.forEach(function(n){var o=document.createElement("option");o.textContent=n;sel.appendChild(o)});
-(function(){var loc=document.getElementById("loc"),dl=document.getElementById("locs"),LOC=null;
+(function(){var loc=document.getElementById("loc"),ul=document.getElementById("locs"),LOC=null,lista=[],act=-1;
+function n(s){return s.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase()}
 function cargar(){return LOC?Promise.resolve(LOC):fetch("datos/localidades.json").then(function(r){return r.json()}).then(function(j){LOC=j;return j})}
-sel.addEventListener("change",function(){loc.value="";dl.innerHTML="";if(!sel.value){loc.disabled=true;loc.placeholder="Elegí primero la provincia";return}
+function cerrar(){ul.hidden=true;ul.innerHTML="";act=-1;loc.setAttribute("aria-expanded","false")}
+function marcar(i){var it=ul.children;if(!it.length)return;act=(i+it.length)%it.length;for(var k=0;k<it.length;k++)it[k].setAttribute("aria-selected",k===act?"true":"false");it[act].scrollIntoView({block:"nearest"})}
+function mostrar(){var q=n(loc.value.trim());if(!q){cerrar();return}
+var a=[],b=[];lista.forEach(function(x){var v=n(x);if(v.indexOf(q)===0)a.push(x);else if(v.indexOf(q)>0)b.push(x)});
+var r=a.concat(b).slice(0,8);ul.innerHTML="";act=-1;
+if(!r.length){cerrar();return}
+r.forEach(function(x){var li=document.createElement("li");li.setAttribute("role","option");li.textContent=x;
+li.addEventListener("mousedown",function(e){e.preventDefault()});li.addEventListener("click",function(){loc.value=x;cerrar();loc.blur()});ul.appendChild(li)});
+ul.hidden=false;loc.setAttribute("aria-expanded","true")}
+loc.addEventListener("input",mostrar);loc.addEventListener("focus",mostrar);
+loc.addEventListener("blur",function(){setTimeout(cerrar,250)});
+loc.addEventListener("keydown",function(e){if(ul.hidden)return;
+if(e.key==="ArrowDown"){e.preventDefault();marcar(act+1)}else if(e.key==="ArrowUp"){e.preventDefault();marcar(act-1)}
+else if(e.key==="Enter"&&act>=0){e.preventDefault();loc.value=ul.children[act].textContent;cerrar()}else if(e.key==="Escape"){cerrar()}});
+sel.addEventListener("change",function(){loc.value="";cerrar();lista=[];if(!sel.value){loc.disabled=true;loc.placeholder="Elegí primero la provincia";return}
 loc.disabled=false;loc.placeholder="Empezá a escribir y elegí tu localidad";
-cargar().then(function(j){var f=document.createDocumentFragment();(j[sel.value]||[]).forEach(function(n){var o=document.createElement("option");o.value=n;f.appendChild(o)});dl.appendChild(f)}).catch(function(){loc.placeholder="Escribí tu localidad"})})})();
+cargar().then(function(j){lista=j[sel.value]||[]}).catch(function(){loc.placeholder="Escribí tu localidad"})})})();
 document.querySelector("form.f").addEventListener("submit",function(ev){if(/claude|localhost|127\.0\.0\.1|^$/.test(location.hostname)){ev.preventDefault();document.getElementById("ok").style.display="block"}});
 
 Promise.all([
