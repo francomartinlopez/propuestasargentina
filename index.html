@@ -542,6 +542,75 @@ footer a{color:var(--muted)}
 .znota{margin:12px 0 4px;padding:9px 12px;border-left:3px solid var(--acc);background:var(--sheet);border-radius:0 8px 8px 0;font-size:.88rem}
 .znota b{color:var(--acc)}
 @media print{.dd,.zban,.znota{display:none!important}}
+
+/* los cargos */
+.cargos{padding-block:60px 40px}
+.cargos h2{font-size:clamp(1.5rem,3vw,2rem);font-weight:800;letter-spacing:-.02em;margin-top:8px}
+.cargos .chead{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap}
+.cargos .cseg{flex-shrink:0}
+.cargos .clede{color:var(--muted);margin-top:12px;max-width:66ch}
+.cargos .ckpi{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:24px}
+.cargos .ckpi div{background:var(--sheet);border:1px solid var(--rule);border-radius:14px;padding:14px 16px}
+.cargos .ckpi b{display:block;white-space:nowrap;font-size:clamp(1.4rem,3.4vw,2rem);font-weight:800;letter-spacing:-.02em;line-height:1.1}
+.cargos .ckpi div:last-child b{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.cargos .ckpi span{font-size:.84rem;color:var(--muted);line-height:1.35;display:block;margin-top:4px}
+@media (max-width:560px){.cargos .ckpi{grid-template-columns:1fr}.cargos .ckpi div{display:flex;align-items:baseline;gap:12px}.cargos .ckpi span{margin:0}}
+.cargos #clista{margin-top:20px}
+.cargos summary{cursor:pointer;list-style:none;display:grid;grid-template-columns:1fr auto 18px;gap:12px;align-items:center}
+.cargos summary::-webkit-details-marker{display:none}
+.cargos summary::after{content:"+";color:var(--acc);font-weight:800;font-size:1.2rem;text-align:center}
+.cargos details[open]>summary::after{content:"–"}
+.cargos .cgr{margin-top:14px}
+.cargos .cgr>summary{padding:12px 0 10px;border-bottom:2px solid var(--ink)}
+.cargos .cgr>summary .t{font-size:1.05rem;font-weight:800}
+.cargos .cgr>summary .n{font:700 .9rem var(--f);color:var(--acc);text-align:right}
+.cargos .cgr>summary:hover .t{color:var(--acc)}
+.cargos .cin{padding-bottom:10px}
+.cargos .csec{border-bottom:1px solid var(--rule)}
+.cargos .csec>summary{padding:14px 0}
+.cargos .csec>summary .t{font-weight:700}
+.cargos .csec>summary .n{font:800 .95rem var(--f);white-space:nowrap;background:var(--sheet);border:1px solid var(--rule);border-radius:999px;padding:3px 12px}
+.cargos .csec>summary:hover .t{color:var(--acc)}
+.cargos table{width:100%;border-collapse:collapse;margin:0 0 18px;font-size:.92rem}
+.cargos th{text-align:left;font:700 .72rem/1.3 var(--f);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:8px 10px;border-bottom:1px solid var(--rule)}
+.cargos td{padding:10px;border-bottom:1px solid var(--rule);vertical-align:top}
+.cargos td.p{font-weight:800;white-space:nowrap;text-align:right}
+.cargos th.p{text-align:right}
+.cargos td.c{color:var(--muted)}
+.cargos td:first-child{width:38%}
+.cargos tbody tr:last-child td{border-bottom:0}
+@media (max-width:640px){.cargos table,.cargos thead,.cargos tbody,.cargos tr,.cargos td{display:block}.cargos thead{display:none}.cargos tr{padding:12px 0;border-bottom:1px solid var(--rule)}.cargos tbody tr:last-child{border-bottom:0}.cargos td{border:0;padding:0;width:auto!important}.cargos td.p{text-align:left;margin:2px 0 4px;color:var(--acc)}.cargos .cgr>summary .n{font-size:.8rem;white-space:normal}}
+.cargos .cnota{font-size:.82rem;color:var(--muted);margin-top:24px;max-width:70ch}
+@media print{
+.cargos{display:block!important;break-before:page;page-break-before:always;padding:0}
+.cargos .cseg,.cargos .cweb{display:none!important}
+.cargos h2{font-size:18pt}
+.cargos .clede{font-size:10pt;color:#333;max-width:none}
+.cargos .ckpi{gap:6pt;margin-top:10pt}
+.cargos .ckpi div{padding:8pt 10pt;border-radius:8pt;break-inside:avoid;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.cargos .ckpi b{font-size:16pt}
+.cargos .ckpi span{font-size:8.5pt}
+.cargos summary{grid-template-columns:1fr auto;break-after:avoid}
+.cargos summary::after{display:none}
+.cargos .cgr{margin-top:10pt}
+.cargos .cgr>summary{padding:4pt 0}
+.cargos .cgr>summary .t{font-size:11pt}
+.cargos .csec{break-inside:auto;border-bottom:1px solid #ddd}
+.cargos .csec>summary{padding:6pt 0 4pt}
+.cargos .csec>summary .t{font-size:10pt}
+.cargos .csec>summary .n{font-size:9.5pt;background:none;border:0;padding:0;color:#cc5214}
+.cargos table{font-size:8.5pt;margin:0 0 6pt}
+.cargos th{font-size:7pt;padding:3pt 5pt}
+.cargos td{padding:4pt 5pt}
+.cargos tr{break-inside:avoid}
+.cargos .cnota{font-size:8pt;margin-top:10pt}
+.cargos[data-pn="1"] .csec table{display:none}
+.cargos[data-pn="1"] .csec{border-bottom:1px dotted #ddd}
+.cargos[data-pn="1"] .csec>summary{padding:3pt 0}
+.cargos[data-pn="1"] .cnor,.cargos[data-pn="2"] .cnor{display:none}
+.cargos[data-pn="2"] th:last-child,.cargos[data-pn="2"] td.c{display:none}
+.cargos[data-pn="2"] td:first-child{width:auto}
+}
 </style>
 </head>
 <body>
@@ -560,7 +629,7 @@ footer a{color:var(--muted)}
     <div class="dd" id="ddz"><button type="button" class="ddb" aria-expanded="false" aria-haspopup="true" aria-label="Filtrar por región o provincia"><span class="ddl" id="zonl">Todo el país</span> <span aria-hidden="true">▾</span></button>
       <div class="ddp ddz" hidden><p class="ddt">Ver las propuestas de</p><div id="zlist"></div></div></div>
     <div class="menu"><button type="button" class="mbtn" id="mbtn" aria-expanded="false" aria-controls="mlist" aria-label="Menú"><span aria-hidden="true">☰</span><span class="mt"> Menú</span></button>
-      <nav class="mlist" id="mlist" hidden aria-label="Secciones"><a href="#inicio">Inicio</a><a href="#test">Test de coincidencia</a><a href="#aI">Las 100 propuestas</a><a href="#cuenta">La cuenta</a><a href="#cierre">Las etapas</a><a href="#porque">El porqué</a><a href="#preguntas">Preguntas difíciles</a><a href="#cien">Los primeros 100 días</a><a href="#autor">Descargas (PDF)</a><a href="#contacto">Contacto</a><a href="#fin">Ir al final de la página</a></nav>
+      <nav class="mlist" id="mlist" hidden aria-label="Secciones"><a href="#inicio">Inicio</a><a href="#test">Test de coincidencia</a><a href="#aI">Las 100 propuestas</a><a href="#cuenta">La cuenta</a><a href="#cargos">Los cargos</a><a href="#cierre">Las etapas</a><a href="#porque">El porqué</a><a href="#preguntas">Preguntas difíciles</a><a href="#cien">Los primeros 100 días</a><a href="#autor">Descargas (PDF)</a><a href="#contacto">Contacto</a><a href="#fin">Ir al final de la página</a></nav>
     </div></div>
   </div>
 </header>
@@ -616,6 +685,18 @@ footer a{color:var(--muted)}
     <div><b>Lo que queda para después</b><span>El resto de Ingresos Brutos y del cheque, y el IVA al 10,5 %: unos 6,8 puntos más. El camino del IVA queda fijado por ley y cada escalón baja solo cuando entra su reemplazo. Lo que hoy no paga IVA no pasa a pagarlo.</span></div>
   </div>
   <p class="cn">Base: ARCA (recaudación 2025), INDEC, Ministerio de Economía, Dirección Nacional de Asuntos Provinciales y estadísticas de la OCDE. Las fuentes nuevas son estimaciones con rango: impuesto al suelo entre 0,8 y 1,6 puntos, menos evasión entre 0,8 y 1,6. Si rinden menos, los impuestos bajan más despacio; nunca a crédito. La recompra de lo que se haya vendido de las empresas estratégicas es compra de activos, no gasto corriente: se paga con prioridad sobre el gasto no obligatorio, y su monto depende de lo que se venda antes de asumir.</p>
+</div></section>
+<section class="cargos" id="cargos" data-cn="1"><div class="in">
+<span class="label">Los cargos</span>
+<div class="chead"><h2>Cuántas personas hacen falta para gobernar</h2><div class="seg cseg" role="group" aria-label="Nivel de detalle de los cargos"><button type="button" data-c="1" aria-pressed="true">Resumido</button><button type="button" data-c="2" aria-pressed="false">Extendido</button><button type="button" data-c="3" aria-pressed="false">Completo</button></div></div>
+<p class="clede">Estas cifras salen de cómo queda organizado el Estado nacional con este programa de propuestas: sus ministerios, sus organismos y sus reglas de designación. Desde diciembre de 2027 hay que elegir, designar o concursar estos cargos.<span class="cweb"> Abrí cada parte con el +, o elegí Completo para ver todo junto.</span></p>
+<div class="ckpi">
+<div><b>≈ 2.670</b><span>cargos con alguna decisión de por medio</span></div>
+<div><b>≈ 2.230</b><span>cargos por concurso, sin elección</span></div>
+<div><b>≈ 4.900</b><span>cargos en total</span></div>
+</div>
+<div id="clista"></div>
+<p class="cnota">≈ Estimación con datos de 2026: las cifras de la justicia, los directorios, las empresas, las universidades, los ascensos y los ingresos van a cambiar hasta 2027. <span class="cnor">Entre paréntesis, la norma del programa que fija cada regla. </span>No se cuenta el personal de planta permanente que ya trabaja en el Estado. En "Además, a lo largo del mandato", los jurados y evaluadores son lugares a cubrir, no personas distintas.</p>
 </div></section>
 <section class="cierre" id="cierre">
   <div class="in">
@@ -731,7 +812,7 @@ footer a{color:var(--muted)}
     <p>Arquitecto egresado con honores de la UAI Rosario y auditor interno ISO 9001:2015 certificado por IRAM. Cursó los posgrados en Economía Urbana (UTDT) y en Políticas de Infraestructura (UNR), con tesis en instancia de defensa.</p>
     <p>Su trayectoria en la industria abarca, a nivel gerencial, producción, calidad, compras, ventas, recursos humanos, comercio exterior y logística. Trabajó en investigación, docencia y consultoría legislativa municipal y provincial. Su novela <i>La Última Frontera</i> fue finalista del Premio Nadal.</p>
     <p>Este programa reúne un trabajo de diagnóstico y propuestas sobre 22 temas, hecho entre 2025 y 2026.</p>
-    <div class="dls"><a class="dl" href="100-propuestas-resumido.pdf" download>Programa resumido (PDF, 70 páginas)</a><a class="dl" href="100-propuestas-extendido.pdf" download>Programa extendido (PDF, 172 páginas)</a><a class="dl" href="100-propuestas.pdf">Programa completo (PDF, 396 páginas)</a><a class="dl dl2" href="datos/normas/todas-las-normas.pdf" download>Descargar todas las normas (PDF, 21 MB)</a></div>
+    <div class="dls"><a class="dl" href="100-propuestas-resumido.pdf" download>Programa resumido (PDF, 70 páginas)</a><a class="dl" href="100-propuestas-extendido.pdf" download>Programa extendido (PDF, 176 páginas)</a><a class="dl" href="100-propuestas.pdf">Programa completo (PDF, 400 páginas)</a><a class="dl dl2" href="datos/normas/todas-las-normas.pdf" download>Descargar todas las normas (PDF, 21 MB)</a></div>
   </div>
   <aside class="rotulo" aria-label="Ficha del programa">
     <div class="rh"><span>Ficha del programa</span><span>Rev. 01</span></div>
@@ -1203,5 +1284,16 @@ zl.addEventListener("click",function(e){var b=e.target.closest("[data-z]");if(!b
 var tries=0;(function esperar(){if(document.querySelector(".prop")){var z="";try{z=localStorage.getItem("zona")||""}catch(e){}if(z)aplicar(z)}else if(tries++<50)setTimeout(esperar,200)})();
 })();
 </script>
+<script id="cargos-datos" type="application/json">[{"g": "Cargos con alguna decisión de por medio", "id": "elec", "t": "Electivos nacionales 2027", "tot": "199", "rows": [["Presidente y vicepresidente", "2", "Voto directo, en fórmula, con segunda vuelta si nadie alcanza el umbral"], ["Senadores", "24", "Voto directo en 8 provincias (Catamarca, Chubut, Córdoba, Corrientes, La Pampa, Mendoza, Santa Fe y Tucumán): 2 por la lista más votada y 1 por la segunda"], ["Diputados", "130", "Voto directo, por lista en cada provincia: se renueva la mitad de la Cámara"], ["Parlamentarios del Mercosur", "43", "Voto directo: 19 en distrito nacional y 1 por cada provincia y la Ciudad (Ley 27.120)"]]}, {"g": "Cargos con alguna decisión de por medio", "id": "ases", "t": "Asesores de legisladores", "tot": "≈ 940", "rows": [["Asesores de diputados (4 por diputado)", "520", "Los designa cada diputado, en planta temporaria, y cesan con su mandato"], ["Asesores de senadores (unos 10 por senador)", "≈ 250", "Los designa cada senador, en planta temporaria"], ["Asesores de parlamentarios del Mercosur (4 por parlamentario)", "172", "Los designa cada parlamentario"]]}, {"g": "Cargos con alguna decisión de por medio", "id": "ejec", "t": "Poder Ejecutivo", "tot": "≈ 360", "rows": [["Jefe de Gabinete, 8 ministros y 32 secretarios", "41", "Decreto del Presidente (ley de ministerios, N416)"], ["Asesores (hasta 5 por ministro y 2 por secretario)", "122", "Los designa cada ministro y secretario, dentro del tope legal"], ["Titulares de organismos (ARCA, ANSES, CONICET, fuerzas de seguridad y los demás)", "≈ 83", "Decreto del Presidente; algunos por concurso con terna o con acuerdo del Senado, según su ley"], ["Organismos nuevos: directorio de la Superintendencia previsional (5), Agencia de Recupero de Activos (1) y Oficina de Asuntos Internos (1)", "7", "El Ejecutivo, previo concurso público (N263 y N230); el ministro, en Asuntos Internos (N247)"], ["Comisión Técnica de Parámetros Previsionales", "5", "El Ejecutivo (2), la Oficina de Presupuesto del Congreso (1), la Superintendencia (1) y el Consejo Interuniversitario Nacional (1) (N263)"], ["Jefes del Ejército, la Armada y la Fuerza Aérea", "3", "Decreto del Presidente, como comandante en jefe"], ["Subjefes de las Fuerzas Armadas y de las fuerzas de seguridad", "8", "Decreto del Presidente"], ["Embajadores políticos (tope)", "25", "Decreto del Presidente con acuerdo del Senado"], ["Embajadores de carrera", "≈ 65", "Decreto del Presidente con acuerdo del Senado, entre diplomáticos de carrera"]]}, {"g": "Cargos con alguna decisión de por medio", "id": "dire", "t": "Directorios y empresas del Estado", "tot": "≈ 595", "rows": [["Resto de los directorios de organismos (INTA, CONICET, entes reguladores y otros)", "≈ 390", "El Ejecutivo, las provincias, las universidades o los sectores, según la ley de cada organismo"], ["Directores en empresas con participación estatal", "≈ 205", "La asamblea de accionistas, a propuesta del Estado, por antecedentes técnicos (N422)"]]}, {"g": "Cargos con alguna decisión de por medio", "id": "just", "t": "Justicia", "tot": "≈ 475", "rows": [["Corte Suprema y Procuración General", "3", "El Presidente propone con audiencia pública y observaciones ciudadanas; el Procurador sale de los 3 mejores de un concurso; acuerdo del Senado por dos tercios (N224)"], ["Jueces federales y nacionales", "298", "Concurso del Consejo de la Magistratura con terna; el Presidente elige de la terna y el Senado presta acuerdo"], ["Fiscales", "≈ 99", "Concurso del Ministerio Público con terna; el Presidente elige y el Senado presta acuerdo"], ["Defensores oficiales", "≈ 73", "Concurso de la Defensoría General con terna; el Presidente elige y el Senado presta acuerdo"]]}, {"g": "Cargos con alguna decisión de por medio", "id": "orga", "t": "Órganos de control y consejos", "tot": "≈ 103", "rows": [["Autoridad Nacional de Control y Transparencia", "7", "Presidentes de las Cámaras, a propuesta de la oposición, y el Congreso (N204)"], ["Instituto de Evaluación Educativa, otros miembros", "4", "Consejo Federal de Educación (2) y consejos de universidades (2) (N279)"], ["Consejo Académico de Estadística (INDEC)", "7", "Consejo Interuniversitario Nacional (5) y CONICET (2) (N025)"], ["Auditor General de Inteligencia", "1", "Comisión Bicameral, por dos tercios (N199)"], ["Comisión de la Verdad sobre la Violencia Estatal", "5", "Concurso; una bicameral elige del orden de mérito y las Cámaras dan acuerdo por dos tercios (N364)"], ["Comisión contra la Corrupción", "5", "Igual que la anterior (N367)"], ["Consejo de Política Exterior", "≈ 35", "Cada bloque parlamentario elige a su representante; el Ejecutivo invita a 5 ex cancilleres y elige 5 académicos de listas de las universidades (N326)"], ["Directorio del PAMI", "11", "Los jubilados eligen 7, las centrales obreras proponen 2 y el Ejecutivo designa 2 (N293)"], ["Defensor del Pueblo y 2 adjuntos", "3", "El Congreso, por dos tercios"], ["Consejo de la Magistratura, sin legisladores ni el presidente de la Corte", "11", "Los jueces (4), los abogados (4), los académicos (2) y el Ejecutivo (1)"], ["Comité contra la Tortura, sin legisladores", "≈ 7", "El Congreso, los mecanismos locales y las organizaciones"], ["Defensor de Niñas, Niños y Adolescentes y 2 adjuntos", "3", "El Congreso"], ["Procurador Penitenciario", "1", "El Congreso"], ["Defensor del Público de Servicios de Comunicación Audiovisual", "1", "El Congreso"]]}, {"g": "Cargos por concurso, sin elección", "id": "auto", "t": "Concurso con asignación automática", "tot": "≈ 2.230", "rows": [["Directores nacionales y generales", "≈ 350", "Concurso abierto con jurado sorteado: asume quien encabeza el orden de mérito, por 5 años (N212)"], ["Directores y coordinadores", "≈ 1.750", "Igual: asume el primero del orden de mérito (N212)"], ["Auditores internos de cada organismo", "≈ 120", "Concurso de la SIGEN: asume el primero del orden de mérito (N207)"], ["Directores de hospitales nacionales SAMIC", "≈ 10", "Concurso con jurado sorteado: asume el primero del orden de mérito (N300)"]]}, {"g": "Además, a lo largo del mandato", "id": "univ", "t": "Universidades nacionales", "tot": "≈ 9.200", "rows": [["Rector y vicerrector de las 61 universidades", "≈ 120", "La asamblea universitaria o el voto directo de los claustros, según cada estatuto"], ["Decanos y vicedecanos", "≈ 900", "El consejo directivo o el voto directo, según cada estatuto"], ["Consejeros superiores, sin los decanos", "≈ 1.400", "Voto de cada claustro: docentes, graduados, estudiantes y no docentes"], ["Consejeros directivos de facultad", "≈ 6.750", "Voto de cada claustro"]]}, {"g": "Además, a lo largo del mandato", "id": "asce", "t": "Ascensos en las fuerzas", "tot": "≈ 1.800", "rows": [["Oficiales generales de las Fuerzas Armadas: generales, almirantes y brigadieres", "≈ 100", "Orden de mérito de las juntas de calificaciones, con un miembro civil sorteado; acuerdo del Senado (N433)"], ["Oficiales superiores de las Fuerzas Armadas: coroneles, capitanes de navío, comodoros y sus grados inferiores", "≈ 700", "Igual que los anteriores (N433)"], ["Grados superiores de Gendarmería, Prefectura, Policía Federal, PSA y Servicio Penitenciario", "≈ 1.000", "Orden de mérito de las juntas, con un miembro civil sorteado (N433)"]]}, {"g": "Además, a lo largo del mandato", "id": "ingr", "t": "Ingresos al Estado", "tot": "≈ 17.000 a 37.000", "rows": [["Funciones permanentes hoy cubiertas sin relación laboral", "hasta ≈ 12.400", "Concurso abierto: entra el primero del orden de mérito (N212)"], ["Reposición de quienes se jubilan o se van", "≈ 10.000 a 22.000", "Concurso abierto: entra el primero del orden de mérito (N212)"], ["Contratos del artículo 9° y designaciones transitorias vencidas", "a relevar", "Concurso o baja dentro de los 24 meses (N212)"], ["Carrera del Investigador del CONICET", "2.100", "Orden de mérito de comisiones sorteadas, dentro de cupos publicados (N286)"], ["Carrera del Personal de Apoyo del CONICET", "a relevar", "Igual que la anterior (N286)"]]}, {"g": "Además, a lo largo del mandato", "id": "beca", "t": "Becas del CONICET", "tot": "≈ 8.400", "rows": [["Becas doctorales (1.000 por año)", "≈ 4.000", "Orden de mérito de comisiones sorteadas (N286)"], ["Becas de finalización de doctorado (300 por año)", "≈ 1.200", "Igual (N286)"], ["Becas posdoctorales (800 por año)", "≈ 3.200", "Igual (N286)"]]}, {"g": "Además, a lo largo del mandato", "id": "jura", "t": "Jurados y evaluadores", "tot": "≈ 33.300 a 113.300 lugares", "rows": [["Concursos de direcciones, coordinaciones, auditorías y hospitales (3 por concurso)", "≈ 6.700", "Sorteo público del Registro Nacional de Jurados, al que entra quien cumple requisitos fijos (N212)"], ["Concursos de jueces, fiscales, defensores y Procurador (5 por concurso)", "hasta ≈ 2.400", "Sorteo público entre profesores titulares de derecho (N224 y N225)"], ["Concursos de titulares de organismos (5 por concurso)", "≈ 225", "Sorteo público, según la ley de cada organismo"], ["Concursos de ingreso a la planta (3 por concurso)", "≈ 20.000 a 100.000", "Sorteo público del Registro Nacional de Jurados (N212)"], ["Evaluadores del CONICET: ingresos, becas y promociones", "≈ 4.000", "Sorteo público del Registro de Evaluadores, con un tercio de fuera del CONICET (N286)"]]}]</script>
+<script>(function(){var S=JSON.parse(document.getElementById('cargos-datos').textContent),C=document.getElementById('cargos'),L=document.getElementById('clista');if(!C||!L)return;
+var SUB={"Cargos con alguna decisión de por medio":"≈ 2.670","Cargos por concurso, sin elección":"≈ 2.230","Además, a lo largo del mandato":"fuera del total (≈ 69.700 a 169.700)"},g=null,box=null;
+S.forEach(function(s){if(s.g!==g){g=s.g;var G=document.createElement('details');G.className='cgr';G.innerHTML='<summary><span class="t">'+g+'</span><span class="n">'+SUB[g]+'</span></summary><div class="cin"></div>';L.appendChild(G);box=G.querySelector('.cin')}
+ var d=document.createElement('details');d.className='csec';d.id='c-'+s.id;
+ d.innerHTML='<summary><span class="t">'+s.t+'</span><span class="n">'+s.tot+'</span></summary><table><thead><tr><th>Cargo</th><th class="p">Personas</th><th>Cómo se elige o designa</th></tr></thead><tbody>'+
+ s.rows.map(function(r){return '<tr><td>'+r[0]+'</td><td class="p">'+r[1]+'</td><td class="c">'+r[2]+'</td></tr>'}).join('')+'</tbody></table>';box.appendChild(d)});
+function nivel(n){n=String(n);C.setAttribute('data-cn',n);C.querySelectorAll('.cseg button').forEach(function(b){b.setAttribute('aria-pressed',b.getAttribute('data-c')===n?'true':'false')});
+ L.querySelectorAll('details.cgr').forEach(function(x){x.open=n!=='1'});L.querySelectorAll('details.csec').forEach(function(x){x.open=n==='3'})}
+C.querySelectorAll('.cseg button').forEach(function(b){b.addEventListener('click',function(){nivel(b.getAttribute('data-c'))})});
+window.cargosNivel=nivel;nivel('1');})();</script>
 </body>
 </html>
