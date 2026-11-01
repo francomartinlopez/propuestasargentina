@@ -864,7 +864,7 @@ footer a{color:var(--muted)}
         
       </fieldset>
       <div><label class="t" for="n">Nombre</label><input id="n" name="nombre" autocomplete="name" required></div>
-      <div><label class="t" for="p">Provincia</label><select id="p" name="provincia" required><option value="">Elegí tu provincia</option></select></div>
+      <div><label class="t" for="p">Provincia</label><select id="p" name="provincia" required><option value="">Elegí tu provincia</option></select></div><div><label class="t" for="loc">Localidad</label><input id="loc" name="localidad" list="locs" autocomplete="off" required disabled placeholder="Elegí primero la provincia"><datalist id="locs"></datalist></div>
       <div><label class="t" for="e">Correo electrónico</label><input id="e" name="email" type="email" autocomplete="email" inputmode="email" required></div><div><label class="t" for="tel">Teléfono o WhatsApp <small>(opcional)</small></label><input id="tel" name="telefono" type="tel" autocomplete="tel" inputmode="tel" placeholder="Con código de área, por ejemplo 341 555 1234"></div>
       <div><label class="t" for="m">Mensaje</label><textarea id="m" name="mensaje" rows="4" required></textarea></div>
       <p class="nota">Te llega una copia de tu mensaje al correo que dejes. Por ahora solo registramos el interés en aportar fondos: no se recibe dinero por esta vía.</p>
@@ -1151,6 +1151,11 @@ fetch("datos/anexo.json").then(function(r){return r.ok?r.json():[]}).then(functi
 var qi=document.getElementById("q");qi.addEventListener("input",function(){buscar(qi.value)});
 document.querySelectorAll(".idea").forEach(function(a){a.addEventListener("click",function(){var h=a.getAttribute("href");if(/^#p\d+$/.test(h)){qi.value="";buscar("");var t=document.querySelector(h);if(t)setProp(t,2)}})});
 var sel=document.getElementById("p");PROV.forEach(function(n){var o=document.createElement("option");o.textContent=n;sel.appendChild(o)});
+(function(){var loc=document.getElementById("loc"),dl=document.getElementById("locs"),LOC=null;
+function cargar(){return LOC?Promise.resolve(LOC):fetch("datos/localidades.json").then(function(r){return r.json()}).then(function(j){LOC=j;return j})}
+sel.addEventListener("change",function(){loc.value="";dl.innerHTML="";if(!sel.value){loc.disabled=true;loc.placeholder="Elegí primero la provincia";return}
+loc.disabled=false;loc.placeholder="Empezá a escribir y elegí tu localidad";
+cargar().then(function(j){var f=document.createDocumentFragment();(j[sel.value]||[]).forEach(function(n){var o=document.createElement("option");o.value=n;f.appendChild(o)});dl.appendChild(f)}).catch(function(){loc.placeholder="Escribí tu localidad"})})})();
 document.querySelector("form.f").addEventListener("submit",function(ev){if(/claude|localhost|127\.0\.0\.1|^$/.test(location.hostname)){ev.preventDefault();document.getElementById("ok").style.display="block"}});
 
 Promise.all([

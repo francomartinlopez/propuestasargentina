@@ -19,7 +19,7 @@ export const handler = async (event) => {
     const to = process.env.NOTIFY_TO || user;
     const email = limpio(d.email);
     const campos = [
-      ['Motivo', d.motivo], ['Nombre', d.nombre], ['Provincia', d.provincia],
+      ['Motivo', d.motivo], ['Nombre', d.nombre], ['Provincia', d.provincia], ['Localidad', d.localidad],
       ['Correo', email], ['Teléfono o WhatsApp', d.telefono || '(no lo dejó)'], ['Mensaje', d.mensaje],
     ];
     const texto = 'Esta es una copia del mensaje enviado desde el formulario de 100 propuestas para la Argentina.\n\n' +
