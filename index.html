@@ -630,6 +630,16 @@ footer a{color:var(--muted)}
 .sug{position:absolute;left:0;right:0;top:100%;z-index:20;margin:4px 0 0;padding:4px;list-style:none;background:var(--paper);border:1px solid var(--rule);border-radius:10px;box-shadow:0 10px 28px rgba(0,0,0,.16);max-height:280px;overflow-y:auto}
 .sug li{padding:10px 12px;border-radius:8px;cursor:pointer;font-size:.95rem;line-height:1.3}
 .sug li:hover,.sug li[aria-selected="true"]{background:var(--sheet);color:var(--acc)}
+
+/* video */
+.video{padding-block:44px 8px}
+.video .in{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,340px);gap:36px;align-items:center}
+.video h2{font-size:clamp(1.5rem,3vw,2rem);font-weight:800;letter-spacing:-.02em;margin-top:8px}
+.video p.vt{color:var(--muted);margin-top:12px;max-width:52ch}
+.video .vmarco{position:relative;aspect-ratio:9/16;border-radius:16px;overflow:hidden;background:#111;box-shadow:0 18px 40px rgba(60,20,0,.18)}
+.video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+@media (max-width:720px){.video .in{grid-template-columns:1fr;gap:18px}.video .vmarco{max-width:420px;width:100%;margin:0 auto}}
+@media print{.video{display:none!important}}
 </style>
 </head>
 <body>
@@ -648,7 +658,7 @@ footer a{color:var(--muted)}
     <div class="dd" id="ddz"><button type="button" class="ddb" aria-expanded="false" aria-haspopup="true" aria-label="Filtrar por región o provincia"><span class="ddl" id="zonl">Todo el país</span> <span aria-hidden="true">▾</span></button>
       <div class="ddp ddz" hidden><p class="ddt">Ver las propuestas de</p><div id="zlist"></div></div></div>
     <div class="menu"><button type="button" class="mbtn" id="mbtn" aria-expanded="false" aria-controls="mlist" aria-label="Menú"><span aria-hidden="true">☰</span><span class="mt"> Menú</span></button>
-      <nav class="mlist" id="mlist" hidden aria-label="Secciones"><a href="#inicio">Inicio</a><a href="#test">Test de coincidencia</a><a href="#aI">Las 100 propuestas</a><a href="#cuenta">La cuenta</a><a href="#cargos">Los cargos</a><a href="#cierre">Las etapas</a><a href="#porque">El porqué</a><a href="#preguntas">Preguntas difíciles</a><a href="#cien">Los primeros 100 días</a><a href="#autor">Descargas (PDF)</a><a href="#contacto">Contacto</a><a href="#fin">Ir al final de la página</a></nav>
+      <nav class="mlist" id="mlist" hidden aria-label="Secciones"><a href="#inicio">Inicio</a><a href="#video">La canción</a><a href="#test">Test de coincidencia</a><a href="#aI">Las 100 propuestas</a><a href="#cuenta">La cuenta</a><a href="#cargos">Los cargos</a><a href="#cierre">Las etapas</a><a href="#porque">El porqué</a><a href="#preguntas">Preguntas difíciles</a><a href="#cien">Los primeros 100 días</a><a href="#autor">Descargas (PDF)</a><a href="#contacto">Contacto</a><a href="#fin">Ir al final de la página</a></nav>
     </div></div>
   </div>
 </header>
@@ -671,6 +681,11 @@ footer a{color:var(--muted)}
 <li><a href="#cargos"><b>≈ 2.230</b><span>cargos por concurso, sin elección</span></a></li>
 <li><a href="#cargos"><b>hasta ≈ 169.700</b><span>lugares a cubrir en el mandato<small>universidades, ascensos, ingresos, becas y jurados</small></span></a></li>
 </ul></div></section>
+<section class="video" id="video"><div class="in">
+<div><span class="label">Una canción</span><h2>Todos juntos bajo un mismo cielo</h2>
+<p class="vt">Los que cruzaron el mar, los que ya estaban, los que construyeron el país y los que lo siguen haciendo todos los días. Una canción sobre lo que nos une, para mirar y compartir.</p></div>
+<div class="vmarco"><iframe src="https://www.youtube-nocookie.com/embed/x24Z3IEepIs?rel=0&amp;modestbranding=1&amp;playsinline=1" title="Todos juntos bajo un mismo cielo" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div></section>
 <section class="leer"><div class="in">
 <div class="howto">
       <span class="label">Cómo leer</span>
