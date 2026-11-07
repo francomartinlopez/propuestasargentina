@@ -49,7 +49,9 @@ svg{width:100%;height:auto;max-height:78vh;display:block;margin:0 auto;overflow:
 .leg2{display:none;flex-wrap:wrap;gap:12px;font-size:12px;color:var(--muted);margin:6px 4px 0}
 .leg2 .l{display:inline-block;width:20px;height:0;border-top-width:3px;border-top-style:solid;margin-right:5px;vertical-align:3px}
 .est{font-size:11px;border-radius:999px;padding:1px 7px;margin-left:4px;background:var(--sheet);color:var(--muted);white-space:nowrap}
+.emb .volver,.emb .tag,.emb h1,.emb p.lead{display:none}.emb .wrap{padding:12px 12px 16px}.emb body{background:transparent}
 </style></head><body><div class="wrap">
+<script>var EMB=/[?&]embed=1/.test(location.search);if(EMB)document.documentElement.classList.add("emb")</script>
 <a class="volver" href="index.html#p27">← Volver a la propuesta 27</a><br>
 <span class="tag">Propuesta 27 · Integración productiva</span>
 <h1>Mapa de encadenamientos productivos</h1>
@@ -144,4 +146,5 @@ function ficha(n,v,c){document.querySelectorAll('.pt.sel').forEach(e=>e.classLis
 document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tabs button').forEach(x=>x.classList.toggle('on',x===b));grupo=b.dataset.g;render()});
 ['urb','inf','inl'].forEach(k=>{const i=$('#x-'+k);i.onchange=()=>{X[k]=i.checked;i.parentNode.classList.toggle('on',i.checked);render()}});
 render();
+if(EMB&&window.parent!==window){var envia=function(){parent.postMessage({mapaAlto:document.documentElement.scrollHeight},"*")};new ResizeObserver(envia).observe(document.body);envia()}
 </script></body></html>
