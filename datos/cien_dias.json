@@ -650,14 +650,32 @@
           "props": [
             67
           ]
+        },
+        {
+          "tipo": "ley",
+          "titulo": "Perdón y reparación al Paraguay; reconocimiento del guaraní",
+          "detalle": "Ley que pide perdón al pueblo paraguayo por la Guerra de la Triple Alianza, con comisión de historiadores, archivos abiertos y cien años sin peaje para las barcazas paraguayas (y bolivianas) entre Santa Fe y la Confluencia, compensado por el Tesoro. Junto con ella, la ley que declara al guaraní patrimonio cultural, da derechos a sus hablantes y promueve su enseñanza.",
+          "props": [
+            87,
+            99
+          ]
+        },
+        {
+          "tipo": "ejecutiva",
+          "titulo": "Acuerdos con los vecinos",
+          "detalle": "Firma del acuerdo con Brasil para la región del Sur (alerta de crecidas del río Uruguay con aviso previo de apertura de compuertas, brigadas de emergencia), del protocolo con Bolivia (trenes por Pocitos y La Quiaca, gas, salida fluvial) y del programa científico antártico con Chile; firma del Tratado de Asociación Plena con Uruguay y su envío al Congreso.",
+          "props": [
+            87,
+            90
+          ]
         }
       ]
     }
   ],
   "conteo": {
     "decreto": 11,
-    "ley": 46,
-    "ejecutiva": 17
+    "ley": 47,
+    "ejecutiva": 18
   },
   "notas_para_el_autor": [
     "Presupuesto 2028: ninguna propuesta dice si en los primeros 100 días se envía una modificación del presupuesto heredado. Se incluyó un ítem de adecuación con los puntos que las propuestas 42, 59 y 95 atan al 'primer presupuesto' o a la ley de presupuesto; si 'primer presupuesto' significa el de 2029, ese ítem debe salir y conviene aclararlo en las propuestas 42 y 75.",
