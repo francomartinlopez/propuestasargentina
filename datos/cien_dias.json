@@ -668,13 +668,22 @@
             87,
             90
           ]
+        },
+        {
+          "tipo": "ley",
+          "titulo": "Ley de la Vía Navegable Troncal",
+          "detalle": "Metas de profundidad por tramo (40 pies hasta Timbúes y etapa obligatoria a 42, recuperar 25 hasta Santa Fe, 10 garantizados hasta la Confluencia), Canal Magdalena acordado con Uruguay, Consejo Federal Hidrovía con dictamen previo, datos abiertos, auditoría anual y tarifas por tramo según su costo.",
+          "props": [
+            44,
+            42
+          ]
         }
       ]
     }
   ],
   "conteo": {
     "decreto": 11,
-    "ley": 47,
+    "ley": 48,
     "ejecutiva": 18
   },
   "notas_para_el_autor": [

@@ -686,8 +686,8 @@ footer a{color:var(--muted)}
 </section>
 <section class="cifras" aria-label="El programa en cifras"><div class="in"><ul>
 <li><a href="#aI"><b>100</b><span>propuestas</span></a></li>
-<li><a href="#anexo"><b id="cf-normas">410</b><span>normas redactadas</span></a></li>
-<li><a href="#autor"><b id="cf-pags">1.678</b><span>páginas escritas<small id="cf-pdet">410 del programa y 1.268 de normas</small></span></a></li>
+<li><a href="#anexo"><b id="cf-normas">411</b><span>normas redactadas</span></a></li>
+<li><a href="#autor"><b id="cf-pags">1.684</b><span>páginas escritas<small id="cf-pdet">412 del programa y 1.272 de normas</small></span></a></li>
 <li><a href="#cargos"><b>≈ 2.670</b><span>cargos a elegir o designar</span></a></li>
 <li><a href="#cargos"><b>≈ 2.230</b><span>cargos por concurso, sin elección</span></a></li>
 <li><a href="#cargos"><b>hasta ≈ 169.700</b><span>lugares a cubrir en el mandato<small>universidades, ascensos, ingresos, becas y jurados</small></span></a></li>
@@ -877,7 +877,7 @@ footer a{color:var(--muted)}
     <p>Arquitecto egresado con honores de la UAI Rosario y auditor interno ISO 9001:2015 certificado por IRAM. Cursó los posgrados en Economía Urbana (UTDT) y en Políticas de Infraestructura (UNR), con tesis en instancia de defensa.</p>
     <p>Su trayectoria en la industria abarca, a nivel gerencial, producción, calidad, compras, ventas, recursos humanos, comercio exterior y logística. Trabajó en investigación, docencia y consultoría legislativa municipal y provincial. Su novela <i>La Última Frontera</i> fue finalista del Premio Nadal.</p>
     <p>Este programa reúne un trabajo de diagnóstico y propuestas sobre 22 temas, hecho entre 2025 y 2026.</p>
-    <div class="dls"><a class="dl" href="100-propuestas-resumido.pdf" download>Programa resumido (PDF, 74 páginas)</a><a class="dl" href="100-propuestas-extendido.pdf" download>Programa extendido (PDF, 180 páginas)</a><a class="dl" href="100-propuestas.pdf">Programa completo (PDF, 410 páginas)</a><a class="dl dl2" href="datos/normas/todas-las-normas.pdf" download>Descargar todas las normas (PDF, 21 MB)</a></div>
+    <div class="dls"><a class="dl" href="100-propuestas-resumido.pdf" download>Programa resumido (PDF, 76 páginas)</a><a class="dl" href="100-propuestas-extendido.pdf" download>Programa extendido (PDF, 180 páginas)</a><a class="dl" href="100-propuestas.pdf">Programa completo (PDF, 412 páginas)</a><a class="dl dl2" href="datos/normas/todas-las-normas.pdf" download>Descargar todas las normas (PDF, 21 MB)</a></div>
   </div>
   <aside class="rotulo" aria-label="Ficha del programa">
     <div class="rh"><span>Ficha del programa</span><span>Rev. 01</span></div>
@@ -1119,7 +1119,7 @@ function card(p){
    '<div class="blk how"><span class="label">Cómo</span>'+
      '<p class="solo1">'+esc([p.cuando,p.instrumento,p.actores].filter(Boolean).join(" · "))+'</p>'+
      '<div class="meta" data-n="2"><div><small>Cuándo</small><b>'+esc(p.cuando)+'</b></div><div><small>Instrumento</small><b>'+esc(p.instrumento)+'</b></div><div><small>Costo</small><b>'+esc(p.costo)+'</b></div><div><small>Actores</small><b>'+esc(p.actores)+'</b></div></div>'+
-     '<div data-n="2">'+chartObras(p.obras)+'</div>'+(p.mapa?'<div class="mapaw" data-n="3"><h4>'+esc(p.mapa.titulo)+'</h4><p class="sub">'+esc(p.mapa.texto)+'</p><div class="mapah"></div><a class="mapax" href="'+esc(p.mapa.url)+'" target="_blank" rel="noopener">Abrir el mapa en pantalla completa ↗</a></div>':'')+'<dl class="dims" data-n="3">'+dims+'</dl>'+
+     '<div data-n="2">'+chartObras(p.obras)+'</div>'+(p.mapa?'<div class="mapaw" data-n="3"><h4>'+esc(p.mapa.titulo)+'</h4><p class="sub">'+esc(p.mapa.texto)+'</p><div class="mapah" data-js="'+esc(p.mapa.js||'mapa-embed.js')+'" data-fn="'+esc(p.mapa.fn||'montarMapa')+'"></div><a class="mapax" href="'+esc(p.mapa.url)+'" target="_blank" rel="noopener">Abrir el mapa en pantalla completa ↗</a></div>':'')+'<dl class="dims" data-n="3">'+dims+'</dl>'+
      ((p.fuentes||[]).length?'<p class="fuentes" data-n="3">Fuentes: '+p.fuentes.map(esc).join(" · ")+'</p>':'')+'</div>'+
    (NORMAS[p.n]?'<div class="blk nor" data-n="3"><span class="label">Normas</span><p class="sub">Los textos que habría que aprobar para ponerla en marcha. Están ordenadas por fase: primero las de los primeros 100 días y del primer año, después las de las Fases II y III. Son modelos de trabajo, para discutir y mejorar.</p><div class="norx" data-norx="'+p.n+'"><p class="norcarga">Cargando…</p></div></div>'+
     '<div class="blk org" data-n="3"><span class="label">Organismos</span><div class="orgx" data-orgx="'+p.n+'"></div></div>':'')+
@@ -1144,7 +1144,7 @@ function buscar(q){
     var a=h.id.slice(1),any=document.querySelector('.prop[data-area="'+a+'"]:not(.oculta):not(.fz)');h.classList.toggle("oculta",!any)});
   document.getElementById("qn").textContent=q?vis+" de 100":"";
 }
-function montarMapas(el){var h=el.querySelector(".mapah:not([data-ok])");if(!h)return;h.setAttribute("data-ok","1");var go=function(){requestAnimationFrame(function(){window.montarMapa(h)})};if(window.montarMapa)go();else{var sc=document.createElement("script");sc.src="mapa-embed.js";sc.onload=go;document.head.appendChild(sc)}}
+function montarMapas(el){var h=el.querySelector(".mapah:not([data-ok])");if(!h)return;h.setAttribute("data-ok","1");var js=h.getAttribute("data-js")||"mapa-embed.js",fn=h.getAttribute("data-fn")||"montarMapa";var go=function(){requestAnimationFrame(function(){window[fn](h)})};if(window[fn])go();else{var sc=document.createElement("script");sc.src=js;sc.onload=go;document.head.appendChild(sc)}}
 function setProp(el,n){el.setAttribute("data-nivel",n);if(String(n)==="3")cargarNormas(el);if(String(n)==="3")montarMapas(el);el.querySelectorAll("[data-p]").forEach(function(b){b.setAttribute("aria-pressed",b.getAttribute("data-p")===String(n)?"true":"false")})}
 function setAll(n){document.querySelectorAll(".prop").forEach(function(el){setProp(el,n)});document.querySelectorAll("[data-g]").forEach(function(b){b.setAttribute("aria-pressed",b.getAttribute("data-g")===String(n)?"true":"false")});try{localStorage.setItem("nivel",String(n))}catch(e){}}
 
