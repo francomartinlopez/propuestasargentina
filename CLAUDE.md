@@ -22,6 +22,7 @@ Sitio estático de Franco Martín López: https://propuestasargentina.netlify.ap
 | PDF de cada norma, compendio, PDF del programa | `datos/normas/pdf/`, `datos/normas/todas-las-normas.pdf`, `100-propuestas*.pdf` | **no** |
 | Páginas e imágenes para compartir | `p/<n>/`, `og.jpg`, `icono-180.png` | **no**: las arma `compartir.py` |
 | Cifras de la portada (normas, páginas, MB, fecha) | `index.html` | **no**: las pone `cifras.py` |
+| Datos para la web de informes de Plexum (cada propuesta como novedad permanente, sin nada visible en el sitio) | `datos-informe.json`, `_headers` | **no**: lo arma `datos_informe.py`; el `id_informe` de cada propuesta en `datos/propuestas.json` no se cambia nunca |
 | Datos de los mapas interactivos (tramos, puertos, lugares, capas, obras) | `fuente/mapas/<mapa>/datos.json` | sí |
 | Textos fijos, estilos y código de los mapas | `fuente/mapas/<mapa>/interior.html`, `pagina.html`, `embed.js` | sí, con cuidado |
 | Mapas armados e imágenes para el PDF | `mapa-hidrovia.html`, `mapa-hidrovia-embed.js`, `mapa-integracion.html`, `mapa-embed.js`, `mapa-*.png` | **no**: los arma `mapas.py` |
@@ -36,7 +37,7 @@ Una norma nueva necesita su archivo y su lugar en `normas_por_propuesta.json`; l
 bash herramientas/armar.sh
 ```
 
-Hace todo en orden: `armar_normas.py` → `pdf_normas.cjs` → `compendio.py` → `mapas.py` → `pdf_programa.cjs` → `compartir.py` → `cifras.py` → `verificar.py`. Tarda unos 4 minutos. Necesita python3 con pypdf, node con playwright (chromium) y poppler-utils. Si solo cambió el texto de una norma alcanza con `armar_normas.py`, `node herramientas/pdf_normas.cjs N###`, `compendio.py`, `pdf_programa.cjs completo` y `cifras.py`, pero ante la duda se corre todo. `verificar.py` tiene que terminar en «Todo en orden».
+Hace todo en orden: `armar_normas.py` → `pdf_normas.cjs` → `compendio.py` → `mapas.py` → `pdf_programa.cjs` → `compartir.py` → `cifras.py` → `datos_informe.py` → `verificar.py`. Tarda unos 4 minutos. Necesita python3 con pypdf, node con playwright (chromium) y poppler-utils. Si solo cambió el texto de una norma alcanza con `armar_normas.py`, `node herramientas/pdf_normas.cjs N###`, `compendio.py`, `pdf_programa.cjs completo` y `cifras.py`, pero ante la duda se corre todo. `verificar.py` tiene que terminar en «Todo en orden».
 
 ## Reglas de contenido (no negociables)
 

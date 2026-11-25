@@ -32,6 +32,11 @@ for f in os.listdir('fuente/normas'):
 for f in ('100-propuestas.pdf', '100-propuestas-extendido.pdf', '100-propuestas-resumido.pdf', 'datos/normas/todas-las-normas.pdf'):
     if not os.path.exists(f): mal.append(f'falta {f}')
 
+try:
+    di = json.load(open('datos-informe.json'))
+    if di.get('web') != '100 Propuestas' or len(di.get('novedades', [])) != 100: mal.append('datos-informe.json: no tiene las 100 propuestas')
+except Exception as e: mal.append(f'datos-informe.json: {e}')
+
 if '--sin-navegador' not in sys.argv:
     js = r"""const {chromium}=require('playwright');const {spawn}=require('child_process');
 (async()=>{const s=spawn('python3',['-m','http.server','8771'],{stdio:'ignore'});await new Promise(r=>setTimeout(r,1000));
