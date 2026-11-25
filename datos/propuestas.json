@@ -142,7 +142,8 @@
       "INDEC, IPC octubre 2026: 2,2 % mensual y 33,1 % interanual (12/11/2026)",
       "Cámara de Diputados, sesión especial sin quórum (18/11/2026)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-tope-por-ley-a-la-emision-de-pesos"
   },
   {
     "n": 2,
@@ -184,7 +185,8 @@
       "DNU 609/2019 (ingreso y liquidación de cobros de exportación)",
       "BCRA, texto ordenado 'Exterior y Cambios', última comunicación incorporada A 8481 (14/9/2026)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-dolar-libre-entre-privados"
   },
   {
     "n": 3,
@@ -225,7 +227,8 @@
       "Decreto 557/2023, Nomenclatura Común del Mercosur (Anexos III y IV)",
       "Decreto 513/2025, modificación de los Anexos II, III y V del Decreto 557/2023"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-dolares-primero-para-producir-maquinas-e-insumos"
   },
   {
     "n": 4,
@@ -263,7 +266,8 @@
       "BCRA, depósitos privados en dólares (octubre 2026)",
       "Ley 25.561, art. 4 (redacción vigente de los arts. 7 y 10 de la Ley 23.928)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-ahorrar-y-cobrar-en-la-moneda-que-cada-uno-elija"
   },
   {
     "n": 5,
@@ -359,7 +363,8 @@
       "Tiempo Argentino, qué dice el DNU 846/2024 sobre el artículo 65 (2024)",
       "Ley 27.343 (Oficina de Presupuesto del Congreso)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-deficit-cero-por-ley-y-deuda-solo-para-obras"
   },
   {
     "n": 6,
@@ -504,7 +509,8 @@
       "Decreto de Necesidad y Urgencia 179/2025, acuerdo de Facilidades Extendidas con el FMI",
       "Ministerio de Economía, Sostenibilidad de la deuda: el Stand-By de 2018"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-revisar-la-deuda-que-se-debe-y-por-que"
   },
   {
     "n": 7,
@@ -546,7 +552,8 @@
       "Ley 25.917, artículo 20, fondos anticíclicos provinciales (2004)",
       "Cámara de Diputados, proyecto 0375-D-2024, Fondo Anticíclico de Estabilización y Desarrollo"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-ahorrar-en-los-anos-buenos-para-los-malos"
   },
   {
     "n": 8,
@@ -586,7 +593,8 @@
       "Parlamentario, Diputados comienza a debatir la reforma de la Carta Orgánica del Banco Central (25/10/2026)",
       "BCRA, Carta Orgánica (Ley 24.144), texto vigente"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-un-banco-central-que-solo-cuide-la-moneda"
   },
   {
     "n": 9,
@@ -625,7 +633,8 @@
       "INDEC, IPC e índices provinciales para el período 2007-2016",
       "⚠ iProfesional, Economía frena la nueva base del IPC y evalúa una nueva encuesta de gastos (5/2/2026)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-un-indec-que-ningun-gobierno-pueda-tocar"
   },
   {
     "n": 10,
@@ -773,7 +782,8 @@
       "Los Andes, Mendoza: Ley Impositiva 2027 y cronograma de baja de sellos (octubre 2026)",
       "⚠ La Nación, Chubut exime de Ingresos Brutos y sellos a la construcción de viviendas (mayo 2026)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-chau-sellos-y-menos-ingresos-brutos-e-impuesto-al-cheque"
   },
   {
     "n": 11,
@@ -869,7 +879,8 @@
       "Código Aduanero (Ley 22.415), artículo 755",
       "Corte Suprema de Justicia, Camaronera Patagónica S.A. (2014)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-retenciones-a-cero-por-etapas"
   },
   {
     "n": 12,
@@ -909,7 +920,8 @@
       "Ley 23.966, art. 5, Título II, num. 2 (11 % del IVA al Régimen Nacional de Previsión Social)",
       "Ministerio de Economía, esquema de distribución de impuestos 2021-presente"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-iva-mas-bajo-por-etapas-fijadas-por-ley-hacia-el-10-5"
   },
   {
     "n": 13,
@@ -949,7 +961,8 @@
       "KPMG, alcances de los cambios en Ganancias de la Ley 27.743 (2024)",
       "⚠ Infobae, salario mínimo en octubre de 2026 (6/10/2026)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-el-sueldo-no-paga-ganancias"
   },
   {
     "n": 14,
@@ -990,7 +1003,8 @@
       "⚠ iProfesional, impuesto a la herencia: qué es y quién lo paga (Entre Ríos lo derogó en 2017)",
       "⚠ La Nación, editorial sobre el impuesto a la herencia (11/12/2025)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-herencias-grandes-pagan-la-casa-familiar-no"
   },
   {
     "n": 15,
@@ -1101,7 +1115,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-construir-no-se-castiga-se-cobra-la-tierra"
   },
   {
     "n": 16,
@@ -1143,7 +1158,8 @@
       "IDECOR, Mapa de valores de la tierra urbana 2024 (Córdoba)",
       "Ley 25.326 de Protección de Datos Personales"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-saber-de-quien-es-cada-tierra-y-cada-bien"
   },
   {
     "n": 17,
@@ -1283,7 +1299,8 @@
       "Ley 23.548, régimen transitorio de coparticipación federal (1988)",
       "Constitución Nacional, cláusula transitoria sexta"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-cada-provincia-cobra-sus-impuestos"
   },
   {
     "n": 18,
@@ -1426,7 +1443,8 @@
       "⚠ Infobae, qué provincias fueron las más beneficiadas con ATN (7/6/2026)",
       "Infobae, qué dice la ley de reparto de ATN y qué tiene que pasar para que quede vigente (18/9/2025)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-plata-de-emergencia-a-las-provincias-con-reglas-y-sin-favore"
   },
   {
     "n": 19,
@@ -1465,7 +1483,8 @@
       "Infobae, el Gobierno reglamentó Inocencia Fiscal II: Decreto 1253/2026 (23/10/2026)",
       "elDiarioAR, ARCA reglamentó el régimen de declaración jurada simplificada, RG 5916/2026 (26/10/2026)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-el-estado-calcula-el-impuesto"
   },
   {
     "n": 20,
@@ -1504,7 +1523,8 @@
       "INDEC, EPH: asalariados sin descuento jubilatorio (2º trimestre 2026)",
       "Ley 24.977, Anexo, arts. 20, 21 y 52 (texto según las Leyes 27.430, 27.618 y 27.743)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-monotributo-actualizado-todos-los-meses"
   },
   {
     "n": 21,
@@ -4244,7 +4264,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-beneficios-a-grandes-inversiones-a-cambio-de-obras"
   },
   {
     "n": 22,
@@ -4288,7 +4309,8 @@
       "DNU 70/2023, artículo 10 (derogación parcial de la Ley 27.437)",
       "Infobae, el Súper RIGI en el Senado (18/10/2026)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-grandes-inversiones-que-compran-en-el-pais"
   },
   {
     "n": 23,
@@ -4329,7 +4351,8 @@
       "Mercosur, aplicación provisional del acuerdo con la UE desde el 1/5/2026 (mercosur.int)",
       "Decreto 33/2025, régimen antidumping (Boletín Oficial"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-abrir-la-economia-de-a-poco-y-con-fecha"
   },
   {
     "n": 24,
@@ -4371,7 +4394,8 @@
       "Decreto 33/2025, reforma del sistema antidumping (CNCE)",
       "Mercosur, ampliación de las listas nacionales de excepciones al Arancel Externo Común (2025)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-aranceles-con-fecha-de-vencimiento"
   },
   {
     "n": 25,
@@ -4414,7 +4438,8 @@
       "⚠ Infobae, récord exportador de los servicios basados en el conocimiento (5/10/2026)",
       "Acuerdo de intercambio de información tributaria Argentina–Estados Unidos (2016) y acuerdo FATCA (2022, RG AFIP 5303/2022)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-exportar-software-y-servicios"
   },
   {
     "n": 26,
@@ -4634,7 +4659,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-que-vengan-mas-turistas-dolares-y-empleo"
   },
   {
     "n": 27,
@@ -4845,7 +4871,8 @@
       "texto": "Cada complejo exportador y cada economía regional, con su núcleo, sus proveedores, sus corredores, las obras que faltan, las zonas que necesitan desarrollo urbano y su área de influencia.",
       "img": "mapa-integracion.png"
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-cadenas-productivas-integradas-e-industria-de-alta-tecnologi"
   },
   {
     "n": 28,
@@ -5331,7 +5358,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-rutas-energia-y-agua-para-el-norte"
   },
   {
     "n": 29,
@@ -5461,7 +5489,8 @@
       "IGJ, Resolución General 12/2024 (argentina.gob.ar, abr-2024) y Resolución General 11/2026 (Colegio de Escribanos, sep-2026)",
       "Ley 27.802, art. 103 (art. 84 de la Ley 24.467)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-empresa-en-24-horas-y-menos-tramites-en-todo-el-pais"
   },
   {
     "n": 30,
@@ -5505,7 +5534,8 @@
       "CNV, Resolución General 1047/2025, régimen de autorización automática",
       "⚠ La Nación, crédito privado en 13,6 % del PIB (26/01/2026)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-credito-a-largo-plazo-para-pymes"
   },
   {
     "n": 31,
@@ -5601,7 +5631,8 @@
       "⚠ Letra P, media sanción bonaerense del régimen de sobreendeudamiento familiar (29/09/2026)"
     ],
     "obras": null,
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-segunda-oportunidad-para-familias-y-pymes-endeudadas"
   },
   {
     "n": 32,
@@ -5642,7 +5673,8 @@
       "Ley 13.246, arts. 2, 21 a 39 (texto actualizado según la Ley 22.298, argentina.gob.ar)",
       "AFIP, Resolución General 4310/2018 (Sistema de Información Simplificado Agrícola, SISA), que abrogó la RG 4096/2017"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-alquiler-del-campo-como-porcentaje-de-la-cosecha"
   },
   {
     "n": 33,
@@ -5687,7 +5719,8 @@
       "Ley 27.442, arts. 60 y siguientes (programa de clemencia)",
       "BCRA, Comunicaciones A 8298 (2025), A 8471 y A 8473 (2026), prevención del fraude"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-castigo-a-los-carteles-y-mas-poder-al-consumidor"
   },
   {
     "n": 34,
@@ -5906,7 +5939,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-fertilizantes-hechos-en-el-pais"
   },
   {
     "n": 35,
@@ -6202,7 +6236,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-terminar-las-obras-paradas"
   },
   {
     "n": 36,
@@ -6722,7 +6757,8 @@
         "fuente": "Ministerio de Economía, Presupuesto Abierto: Fondo Fiduciario del Sistema de Infraestructura del Transporte, devengado por ubicación (interprovincial frente a nacional); 2026 hasta octubre"
       }
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-gas-de-red-en-cada-casa-y-tarifas-claras-con-tarifa-social"
   },
   {
     "n": 37,
@@ -6854,7 +6890,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-energia-nuclear-argentina-y-gas-de-vaca-muerta"
   },
   {
     "n": 38,
@@ -7235,7 +7272,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-vender-gas-de-vaca-muerta-a-brasil"
   },
   {
     "n": 39,
@@ -7368,7 +7406,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-litio-procesado-en-el-pais-hasta-baterias"
   },
   {
     "n": 40,
@@ -7411,7 +7450,8 @@
       "Ley 24.071 (Convenio 169 de la OIT) y Ley 27.566 (Acuerdo de Escazú)",
       "Ley 25.675, arts. 19 a 21, y Ley 25.688 de gestión ambiental de aguas"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-mineria-si-con-consulta-a-las-comunidades"
   },
   {
     "n": 41,
@@ -7452,7 +7492,8 @@
       "DNU 70/2023, derogación de la Ley 20.680 de Abastecimiento",
       "Ley 11.683, art. 101 (secreto fiscal)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-que-no-nos-falten-insumos-vitales"
   },
   {
     "n": 42,
@@ -7900,7 +7941,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-inundaciones-sequias-e-incendios-obras-bosques-y-humedales"
   },
   {
     "n": 43,
@@ -8180,7 +8222,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-cloacas-y-agua-segura-en-todas-las-casas"
   },
   {
     "n": 44,
@@ -9244,7 +9287,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-rutas-trenes-de-carga-y-la-hidrovia"
   },
   {
     "n": 45,
@@ -9384,7 +9428,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-viviendas-y-servicios-donde-llega-la-inversion"
   },
   {
     "n": 46,
@@ -9646,7 +9691,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-internet-en-todo-el-pais"
   },
   {
     "n": 47,
@@ -9755,7 +9801,8 @@
       "Decreto 549/2025, Tabla de Evaluación de Incapacidades Laborales",
       "UART, juicios por accidentes laborales 2025 (vía La Nación, 21/02/2026)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-reglas-simples-para-contratar-con-red-para-quien-pierde-el-t"
   },
   {
     "n": 48,
@@ -9797,7 +9844,8 @@
       "Ley 27.802, arts. 133, 135, 136 y 141 (modifica las Leyes 14.250 y 23.551), texto oficial",
       "Ley 23.551, arts. 25 a 41 (texto actualizado, argentina.gob.ar)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-cada-trabajador-elige-su-sindicato"
   },
   {
     "n": 49,
@@ -9838,7 +9886,8 @@
       "Ley 23.696, Programa de Propiedad Participada (arts. 21 a 40)",
       "Ley 27.802, art. 34 (sustituye el art. 105 de la Ley de Contrato de Trabajo)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-el-trabajador-socio-de-la-empresa"
   },
   {
     "n": 50,
@@ -9951,7 +10000,8 @@
       "Ley 27.802, Título XX (RIFL), arts. 156 a 163, y Decreto 315/2026",
       "Ley 27.541, art. 22 (detracción de la base de contribuciones, texto actualizado en Infoleg, sin cambios por la Ley 27.802)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-que-trabajar-en-blanco-convenga"
   },
   {
     "n": 51,
@@ -9991,7 +10041,8 @@
       "Ley 23.660, art. 10, y Ley 23.661, art. 22 (texto actualizado)",
       "Decreto 170/2024 (libre elección de obras sociales y prepagas)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-elegir-quien-da-la-salud-la-jubilacion-y-el-seguro"
   },
   {
     "n": 52,
@@ -10036,7 +10087,8 @@
       "Seguridad Social, beneficiarios de la prestación por desempleo, septiembre de 2026",
       "Ley 27.802, arts. 99 y 152"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-seguro-de-desempleo-que-alcance-con-capacitacion"
   },
   {
     "n": 53,
@@ -10078,7 +10130,8 @@
       "INDEC, EPH, desocupación por aglomerado, 2.º trimestre 2026",
       "Ley 27.802, art. 152 (Programa de Formación Laboral Básica)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-trabajo-comunitario-para-quien-no-consigue-empleo"
   },
   {
     "n": 54,
@@ -10118,7 +10171,8 @@
       "INET, régimen de crédito fiscal de la Ley 22.317 (convocatoria 2026)",
       "Ley 27.802, art. 152 (Programa de Formación Laboral Básica)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-aprender-a-trabajar-con-inteligencia-artificial"
   },
   {
     "n": 55,
@@ -10159,7 +10213,8 @@
       "⚠ Chequeado, científicos repatriados por RAÍCES 2001-2018",
       "Secretaría de Educación (Ministerio de Capital Humano), Resolución 480/2026 (convalidación de títulos secundarios)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-que-los-que-se-fueron-vuelvan"
   },
   {
     "n": 56,
@@ -10206,7 +10261,8 @@
       "Ley 26.058 de Educación Técnico Profesional",
       "Ley 26.427 de Pasantías Educativas"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-primer-empleo-y-primera-casa-para-los-jovenes"
   },
   {
     "n": 57,
@@ -10311,7 +10367,8 @@
       "Oficina Nacional de Contrataciones, datos de CONTRAT.AR en el Estándar de Datos para las Contrataciones Abiertas (argentina.gob.ar, may-2023)",
       "Decreto 1023/2001, arts. 9, 18 y 32, y Ley 27.275, art. 32 (textos actualizados, argentina.gob.ar)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-cada-compra-del-estado-en-internet-el-mismo-dia"
   },
   {
     "n": 58,
@@ -10358,7 +10415,8 @@
       "Resoluciones 428/2024 y 710/2024 del Ministerio de Seguridad",
       "Decreto 89/2023 y sus prórrogas por la Resolución 7147/2024 y la Resolución 57/2025 de la Secretaría de Comunicación y Prensa (Boletín Oficial, 31/12/2025)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-el-estado-no-vigila-ni-censura"
   },
   {
     "n": 59,
@@ -10404,7 +10462,8 @@
       "Congreso, rechazo del DNU 656/2024 de fondos reservados (septiembre 2024)",
       "Ley 25.520 de Inteligencia Nacional, arts. 31, 42 y 43"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-servicios-de-inteligencia-controlados-por-el-congreso"
   },
   {
     "n": 60,
@@ -10449,7 +10508,8 @@
       "Ley 25.233, art. 13, y Decreto 102/1999, creación y organización de la Oficina Anticorrupción",
       "Oficina Anticorrupción, normativa institucional (2026)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-control-en-manos-de-la-oposicion"
   },
   {
     "n": 61,
@@ -10571,7 +10631,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-el-estado-no-es-de-quien-gobierna-sin-autos-aviones-ni-nombr"
   },
   {
     "n": 62,
@@ -10663,7 +10724,8 @@
       "Decreto 240/1999, alcances de la desregulación de los regímenes profesionales (argentina.gob.ar)",
       "Ministerio de Economía, Subsecretaría de Coordinación Fiscal Provincial: empleo público provincial cada 1.000 habitantes (diciembre de 2025)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-un-estado-simple-ocho-ministerios-menos-normas-y-empleo-por"
   },
   {
     "n": 63,
@@ -10746,7 +10808,8 @@
       "Ministerio de Justicia, Resolución 417/2026, acusatorio en Paraná desde el 30/11/2026",
       "Ley 26.685 de expediente electrónico"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-causas-judiciales-con-plazos-y-a-la-vista"
   },
   {
     "n": 64,
@@ -10794,7 +10857,8 @@
       "⚠ La Nación, vacantes judiciales y mandato del Procurador (julio 2026)",
       "0264 Noticias, el Ejecutivo posterga las vacantes de la Corte y la Procuración (agosto 2026)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-jueces-por-concurso-corte-completa"
   },
   {
     "n": 65,
@@ -10965,7 +11029,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-juicio-por-jurados"
   },
   {
     "n": 66,
@@ -11011,7 +11076,8 @@
       "Corte Suprema, Acordada 22/2025, reglamento de bienes secuestrados y decomisados (Boletín Oficial, 18/07/2025)",
       "Ley 26.097, Convención de las Naciones Unidas contra la Corrupción"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-que-la-corrupcion-no-prescriba"
   },
   {
     "n": 67,
@@ -11079,7 +11145,8 @@
       "Ley 26.122",
       "Ley 26.122, arts. 12, 13, 17, 22 y 24 (texto de la Cámara de Diputados)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-menos-decretos-mas-congreso"
   },
   {
     "n": 68,
@@ -11189,7 +11256,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-policias-que-rotan-para-cortar-lazos-con-el-delito"
   },
   {
     "n": 69,
@@ -11456,7 +11524,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-narcotrafico-trata-y-estafas-seguir-la-plata-hasta-arriba"
   },
   {
     "n": 70,
@@ -11592,7 +11661,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-carceles-que-no-sean-escuelas-del-delito"
   },
   {
     "n": 71,
@@ -11635,7 +11705,8 @@
       "Ministerio de Seguridad (hoy de Seguridad Nacional), entrega de cámaras corporales a las fuerzas federales (argentina.gob.ar, 2021)",
       "Ley 26.743 de identidad de género"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-mano-firme-con-el-delito-cero-abuso-policial"
   },
   {
     "n": 72,
@@ -11680,7 +11751,8 @@
       "Ministerio de Justicia, dispositivos duales (argentina.gob.ar)",
       "Ley 26.743 de identidad de género"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-proteccion-real-a-quien-denuncia-violencia-en-el-hogar"
   },
   {
     "n": 73,
@@ -11813,7 +11885,8 @@
       "Decreto 198/2024, Resolución Conjunta 1/2024 y Resolución 90/2026 de Capital Humano, Programa de Acompañamiento Social",
       "⚠ Diario Río Negro y BAE Negocios, fin de Volver al Trabajo y prórroga de Acompañamiento Social (2026)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-un-solo-ingreso-en-lugar-de-todos-los-planes"
   },
   {
     "n": 74,
@@ -11858,7 +11931,8 @@
       "⚠ Los Andes, qué pasa tras el fin de la moratoria previsional (26/02/2025)",
       "Leyes 24.018 (modificada por la Ley 27.546) y 22.731, regímenes previsionales especiales"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-jubilacion-con-piso-garantizado-cuenta-propia-a-eleccion-y-s"
   },
   {
     "n": 75,
@@ -11964,7 +12038,8 @@
       "⚠ Río Negro, haberes y bono de octubre de 2026",
       "Ley 27.343 (Oficina de Presupuesto del Congreso)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-jubilaciones-que-suben-cuando-crece-la-economia"
   },
   {
     "n": 76,
@@ -12031,7 +12106,8 @@
       "Ley 27.045, sala de 4 obligatoria y universalización de la sala de 3 (2014)",
       "Ley 26.233, Centros de Desarrollo Infantil (2007)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-jardin-salud-y-nutricion-desde-que-nacen"
   },
   {
     "n": 77,
@@ -12184,7 +12260,8 @@
       "Ley 27.798 de Presupuesto 2026, artículo 30",
       "Ley 27.440 de Financiamiento Productivo, art. 211 (educación financiera en la Estrategia Nacional de Inclusión Financiera)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-una-escuela-que-ensena-y-que-nadie-abandona"
   },
   {
     "n": 78,
@@ -12225,7 +12302,8 @@
       "Ley 26.206, arts. 65 y 94 a 97 (argentina.gob.ar)",
       "Ministerio de Capital Humano, Resolución 61/2024, Programa de Asistencia Voucher Educativo"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-las-familias-eligen-la-escuela"
   },
   {
     "n": 79,
@@ -12362,7 +12440,8 @@
       "Periferia, CONICET: 1.800 becas y 400 ingresos a carrera en 2026",
       "Ley 24.521 de Educación Superior, artículo 58 (texto según la Ley 27.204)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-presupuesto-fijo-por-ley-para-universidades-y-ciencia"
   },
   {
     "n": 80,
@@ -12503,7 +12582,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-salud-medico-de-cabecera-hospitales-y-turnos-a-tiempo"
   },
   {
     "n": 81,
@@ -12548,7 +12628,8 @@
       "SEDRONAR, Línea 141 (argentina.gob.ar)",
       "Ley 27.654 de situación de calle y familias sin techo; Decretos 183/2023 y 373/2025"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-salud-mental-y-adicciones-tratar-no-perseguir"
   },
   {
     "n": 82,
@@ -12705,7 +12786,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-credito-para-la-casa-que-se-pague-con-un-sueldo"
   },
   {
     "n": 83,
@@ -12751,7 +12833,8 @@
       "Decreto 475/2021 y ANSES, reconocimiento de aportes por tareas de cuidado (vigente en 2026, BAE Negocios, 29/05/2026)",
       "Ley 24.714 de Asignaciones Familiares"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-mas-lugares-de-cuidado-y-licencias-para-madres-y-padres"
   },
   {
     "n": 84,
@@ -12896,7 +12979,8 @@
       "DNU 942/2025, arts. 4 a 6 (Secretaría Nacional de Discapacidad en el Ministerio de Salud, continuador de la ANDIS) y Decreto 27/2026, organigrama del Ministerio de Salud (26/01/2026)",
       "⚠ El Cisne, Programa Federal Incluir Salud (13/07/2026)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-discapacidad-prestaciones-a-tiempo-y-pagos-en-fecha"
   },
   {
     "n": 85,
@@ -12959,7 +13043,8 @@
       "Cancillería (CEI), Intercambio Comercial Argentino, año 2025",
       "Constitución Nacional, arts. 75, incs. 22 y 28, y 99, inc. 11"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-comerciar-con-todos-y-la-misma-vara-para-los-derechos-humano"
   },
   {
     "n": 86,
@@ -13083,7 +13168,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-comerciar-con-china-sin-depender-de-ella"
   },
   {
     "n": 87,
@@ -13311,7 +13397,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-brasil-los-vecinos-y-el-mercosur-primero"
   },
   {
     "n": 88,
@@ -13569,7 +13656,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-nuevos-socios-india-africa-y-los-paises-del-sur"
   },
   {
     "n": 89,
@@ -13613,7 +13701,8 @@
       "⚠ Escenario Mundial, por qué no avanza la nueva fase del Proyecto Humanitario (19/04/2026)",
       "⚠ Falkland Islands Tourism, Getting here (rutas de LATAM)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-malvinas-sin-renunciar-y-sin-conflicto"
   },
   {
     "n": 90,
@@ -13778,7 +13867,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-frenar-la-pesca-ilegal-y-cuidar-la-antartida"
   },
   {
     "n": 91,
@@ -13914,7 +14004,8 @@
         }
       ]
     },
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-fuerzas-armadas-que-defienden-y-llegan-en-las-emergencias"
   },
   {
     "n": 92,
@@ -14062,7 +14153,8 @@
       "Niño Legal, la Cámara Civil y Comercial Federal declaró inconstitucionales los arts. 37 a 43 del DNU 366/2025 (18/06/2026)",
       "Argentina Visa Law, DNU 366/2025 y fallo de la Cámara Nacional Electoral (30/06/2026)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-migracion-con-papeles-rapidos-y-reglas-claras"
   },
   {
     "n": 93,
@@ -14107,7 +14199,8 @@
       "⚠ CELS, el desalojo del Parque Indoamericano (2014)",
       "Tribunal Oral en lo Criminal 4 de La Plata, Masacre de San Miguel del Monte (2023)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-investigar-los-crimenes-del-estado-en-democracia"
   },
   {
     "n": 94,
@@ -14216,7 +14309,8 @@
       "Infobae, causa por los sueldos de la Legislatura bonaerense elevada a juicio (27/5/2025); vacunación irregular elevada a juicio (7/4/2026)",
       "Ministerio Público Fiscal, causa Cuadernos en juicio oral (2025-2026)"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-una-comision-independiente-contra-la-corrupcion"
   },
   {
     "n": 95,
@@ -14356,7 +14450,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-nunca-mas-siguen-los-juicios-y-la-busqueda-de-nietos"
   },
   {
     "n": 96,
@@ -14398,7 +14493,8 @@
       "Ley 15.262 (simultaneidad de elecciones) y Ley 24.007 (electores residentes en el exterior)",
       "iProfesional, Decreto 239/2025: voto por correo postal desde el exterior"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-boleta-unica-y-paso-para-quedarse"
   },
   {
     "n": 97,
@@ -14448,7 +14544,8 @@
       "⚠ La Gaceta, acoples en Tucumán para 2027 (2026)",
       "Constitución Nacional, arts. 48, 55, 89 y 99 inc. 4; Ley 27.700 (jerarquía constitucional de la Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-una-sola-reeleccion-renunciar-para-ser-candidato-y-retiro-a"
   },
   {
     "n": 98,
@@ -14492,7 +14589,8 @@
       "⚠ Letra P, cómo se financian las campañas (2023)",
       "AFIP (hoy ARCA), Resoluciones Generales 4697/2020 y 5529/2024 (Registro Público de Beneficiarios Finales)"
     ],
-    "sinext": true
+    "sinext": true,
+    "id_informe": "propuesta-ver-quien-financia-a-cada-candidato"
   },
   {
     "n": 99,
@@ -14697,7 +14795,8 @@
         }
       ]
     },
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-tierras-agua-y-escuela-para-los-pueblos-originarios"
   },
   {
     "n": 100,
@@ -14742,6 +14841,7 @@
       "Ministerio de Seguridad Nacional, programa Tribuna Segura (2026)",
       "Leyes 27.098, 27.218, 23.184 (texto según Leyes 24.192 y 26.358), 20.337 y 20.321"
     ],
-    "sinext": false
+    "sinext": false,
+    "id_informe": "propuesta-clubes-de-barrio-cooperativas-y-futbol-limpio"
   }
 ]

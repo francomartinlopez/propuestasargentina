@@ -1,0 +1,1956 @@
+{
+ "web": "100 Propuestas",
+ "version": "1.0",
+ "generado": "2026-11-25T10:56:17-03:00",
+ "indicadores": [],
+ "novedades": [
+  {
+   "id": "propuesta-tope-por-ley-a-la-emision-de-pesos",
+   "fecha_dato": null,
+   "titulo": "Propuesta 1: Tope por ley a la emisión de pesos",
+   "resumen": "Ponerle un tope por ley a cuánta plata nueva puede imprimir el Banco Central, para que la inflación baje sin depender de un dólar barato.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/1/"
+  },
+  {
+   "id": "propuesta-dolar-libre-entre-privados",
+   "fecha_dato": null,
+   "titulo": "Propuesta 2: Dólar libre entre privados",
+   "resumen": "El Banco Central deja de vender dólares: quien los necesite los compra a otro privado, con una transición ordenada para evitar saltos de precios.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/2/"
+  },
+  {
+   "id": "propuesta-dolares-primero-para-producir-maquinas-e-insumos",
+   "fecha_dato": null,
+   "titulo": "Propuesta 3: Dólares primero para producir: máquinas e insumos",
+   "resumen": "Mientras se ordena el dólar, las empresas que importan máquinas, repuestos o insumos que no se fabrican en el país y que necesitan para producir tienen acceso preferente a las divisas.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Importa insumos"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/3/"
+  },
+  {
+   "id": "propuesta-ahorrar-y-cobrar-en-la-moneda-que-cada-uno-elija",
+   "fecha_dato": null,
+   "titulo": "Propuesta 4: Ahorrar y cobrar en la moneda que cada uno elija",
+   "resumen": "Que puedas ahorrar, cobrar y firmar contratos en la moneda que prefieras, y ajustarlos por inflación si así lo acordás.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/4/"
+  },
+  {
+   "id": "propuesta-deficit-cero-por-ley-y-deuda-solo-para-obras",
+   "fecha_dato": null,
+   "titulo": "Propuesta 5: Déficit cero por ley y deuda solo para obras",
+   "resumen": "Que el Estado no gaste más de lo que recauda y que solo pueda endeudarse para obras que quedan, con una ley difícil de cambiar.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/5/"
+  },
+  {
+   "id": "propuesta-revisar-la-deuda-que-se-debe-y-por-que",
+   "fecha_dato": null,
+   "titulo": "Propuesta 6: Revisar la deuda: qué se debe y por qué",
+   "resumen": "Revisar con expertos qué deuda tenemos, cómo se tomó y para qué, y con ese informe negociar mejores plazos y tasas, sin dejar de pagar.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/6/"
+  },
+  {
+   "id": "propuesta-ahorrar-en-los-anos-buenos-para-los-malos",
+   "fecha_dato": null,
+   "titulo": "Propuesta 7: Ahorrar en los años buenos para los malos",
+   "resumen": "Guardar parte de la plata extra de los años buenos para usarla en los años malos, en lugar de gastarla toda.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/7/"
+  },
+  {
+   "id": "propuesta-un-banco-central-que-solo-cuide-la-moneda",
+   "fecha_dato": null,
+   "titulo": "Propuesta 8: Un Banco Central que solo cuide la moneda",
+   "resumen": "Que el Banco Central tenga una sola tarea —cuidar el valor de la moneda— y un directorio que no cambie con cada gobierno.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/8/"
+  },
+  {
+   "id": "propuesta-un-indec-que-ningun-gobierno-pueda-tocar",
+   "fecha_dato": null,
+   "titulo": "Propuesta 9: Un INDEC que ningún gobierno pueda tocar",
+   "resumen": "Un INDEC independiente del gobierno, que mida inflación, pobreza y empleo con reglas técnicas que nadie pueda manipular.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/9/"
+  },
+  {
+   "id": "propuesta-chau-sellos-y-menos-ingresos-brutos-e-impuesto-al-cheque",
+   "fecha_dato": null,
+   "titulo": "Propuesta 10: Chau sellos, y menos Ingresos Brutos e impuesto al cheque",
+   "resumen": "Eliminar de a poco Ingresos Brutos, el impuesto al cheque y sellos, que encarecen cada venta, cada movimiento bancario y cada contrato.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/10/"
+  },
+  {
+   "id": "propuesta-retenciones-a-cero-por-etapas",
+   "fecha_dato": null,
+   "titulo": "Propuesta 11: Retenciones a cero, por etapas",
+   "resumen": "Bajar a cero, de a poco y con fecha, los impuestos a las exportaciones, que castigan a quien produce y vende al mundo.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Exporta"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/11/"
+  },
+  {
+   "id": "propuesta-iva-mas-bajo-por-etapas-fijadas-por-ley-hacia-el-10-5",
+   "fecha_dato": null,
+   "titulo": "Propuesta 12: IVA más bajo, por etapas fijadas por ley, hacia el 10,5 %",
+   "resumen": "Una ley fija desde ahora el camino del IVA hacia el 10,5 %: cada escalón baja solo cuando entran los nuevos impuestos al patrimonio, y nada de lo que hoy no paga IVA pasa a pagarlo.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/12/"
+  },
+  {
+   "id": "propuesta-el-sueldo-no-paga-ganancias",
+   "fecha_dato": null,
+   "titulo": "Propuesta 13: El sueldo no paga Ganancias",
+   "resumen": "El sueldo deja de pagar Ganancias hasta un tope alto: solo pagan los sueldos muy altos, y las empresas y las rentas altas siguen pagando.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/13/"
+  },
+  {
+   "id": "propuesta-herencias-grandes-pagan-la-casa-familiar-no",
+   "fecha_dato": null,
+   "titulo": "Propuesta 14: Herencias grandes pagan; la casa familiar, no",
+   "resumen": "Que pague quien hereda mucho, no quien hereda la casa familiar o la pyme, y que lo que se recaude por encima de lo previsto dé un capital inicial a cada joven en las provincias que adhieran.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/14/"
+  },
+  {
+   "id": "propuesta-construir-no-se-castiga-se-cobra-la-tierra",
+   "fecha_dato": null,
+   "titulo": "Propuesta 15: Construir no se castiga: se cobra la tierra",
+   "resumen": "Cobrar sobre el valor de la tierra y no sobre lo que se construye arriba: construir no se castiga; tener un lote vacío sí.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/15/"
+  },
+  {
+   "id": "propuesta-saber-de-quien-es-cada-tierra-y-cada-bien",
+   "fecha_dato": null,
+   "titulo": "Propuesta 16: Saber de quién es cada tierra y cada bien",
+   "resumen": "Saber con precisión qué tierra y qué bienes hay y de quién son, porque no se puede cobrar con justicia lo que no se mide.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/16/"
+  },
+  {
+   "id": "propuesta-cada-provincia-cobra-sus-impuestos",
+   "fecha_dato": null,
+   "titulo": "Propuesta 17: Cada provincia cobra sus impuestos",
+   "resumen": "Devolver a las provincias la capacidad de cobrar sus propios impuestos y los recursos de su suelo, para que no dependan de la Nación.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/17/"
+  },
+  {
+   "id": "propuesta-plata-de-emergencia-a-las-provincias-con-reglas-y-sin-favore",
+   "fecha_dato": null,
+   "titulo": "Propuesta 18: Plata de emergencia a las provincias, con reglas y sin favores",
+   "resumen": "Que las provincias ordenen sus cuentas y que la plata de emergencia de la Nación se reparta con reglas públicas, no a dedo.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/18/"
+  },
+  {
+   "id": "propuesta-el-estado-calcula-el-impuesto",
+   "fecha_dato": null,
+   "titulo": "Propuesta 19: El Estado calcula el impuesto",
+   "resumen": "ARCA calcula cuánto tiene que pagar cada contribuyente con los datos que ya tiene y le envía el recibo, en lugar de obligarlo a hacer declaraciones juradas.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/19/"
+  },
+  {
+   "id": "propuesta-monotributo-actualizado-todos-los-meses",
+   "fecha_dato": null,
+   "titulo": "Propuesta 20: Monotributo actualizado todos los meses",
+   "resumen": "Que el monotributo se actualice todos los meses por inflación y que el paso al régimen general sea gradual, con aviso y posibilidad de volver.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/20/"
+  },
+  {
+   "id": "propuesta-beneficios-a-grandes-inversiones-a-cambio-de-obras",
+   "fecha_dato": null,
+   "titulo": "Propuesta 21: Beneficios a grandes inversiones a cambio de obras",
+   "resumen": "Cualquier empresa que haga una gran inversión, en cualquier sector, recibe beneficios; a cambio construye rutas, agua, energía, escuelas o salud en la región.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía",
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/21/"
+  },
+  {
+   "id": "propuesta-grandes-inversiones-que-compran-en-el-pais",
+   "fecha_dato": null,
+   "titulo": "Propuesta 22: Grandes inversiones que compran en el país",
+   "resumen": "Las grandes inversiones con beneficios compran en el país lo que se hace acá, con un mínimo decreciente, y litigan en Argentina.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/22/"
+  },
+  {
+   "id": "propuesta-abrir-la-economia-de-a-poco-y-con-fecha",
+   "fecha_dato": null,
+   "titulo": "Propuesta 23: Abrir la economía de a poco y con fecha",
+   "resumen": "Abrir la economía de a poco y con calendario, empezando por frenar productos hechos con trabajo forzado, daño ambiental o copia de patentes.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/23/"
+  },
+  {
+   "id": "propuesta-aranceles-con-fecha-de-vencimiento",
+   "fecha_dato": null,
+   "titulo": "Propuesta 24: Aranceles con fecha de vencimiento",
+   "resumen": "Aranceles con fecha de vencimiento para dar tiempo a los sectores que lo necesitan; todo lo que recaudan va a infraestructura productiva.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/24/"
+  },
+  {
+   "id": "propuesta-exportar-software-y-servicios",
+   "fecha_dato": null,
+   "titulo": "Propuesta 25: Exportar software y servicios",
+   "resumen": "Apostar al software, los servicios profesionales y la tecnología que se exportan, como un motor de crecimiento propio y no como un apéndice.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [
+    "Exporta"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/25/"
+  },
+  {
+   "id": "propuesta-que-vengan-mas-turistas-dolares-y-empleo",
+   "fecha_dato": null,
+   "titulo": "Propuesta 26: Que vengan más turistas: dólares y empleo",
+   "resumen": "Que vengan más turistas de afuera y gasten en todo el país: vuelos directos a las provincias, el IVA devuelto al turista extranjero y promoción profesional, para que entren dólares y haya más trabajo.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/26/"
+  },
+  {
+   "id": "propuesta-cadenas-productivas-integradas-e-industria-de-alta-tecnologi",
+   "fecha_dato": null,
+   "titulo": "Propuesta 27: Cadenas productivas integradas e industria de alta tecnología",
+   "resumen": "Conectar cada complejo exportador con los proveedores, los oficios y las economías regionales de todo el país, con las obras que faltan para unirlos, y apoyar las industrias de mayor tecnología, para que el crecimiento genere empleo en cada región y no solo exportaciones.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria",
+    "Agro",
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [
+    "Exporta",
+    "Mano de obra intensiva",
+    "Vende a minería y energía"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/27/"
+  },
+  {
+   "id": "propuesta-rutas-energia-y-agua-para-el-norte",
+   "fecha_dato": null,
+   "titulo": "Propuesta 28: Rutas, energía y agua para el Norte",
+   "resumen": "Un plan de infraestructura para el Noroeste y el Nordeste —rutas, energía, agua, logística— para cerrar la brecha con el resto del país.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía",
+    "Construcción",
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/28/"
+  },
+  {
+   "id": "propuesta-empresa-en-24-horas-y-menos-tramites-en-todo-el-pais",
+   "fecha_dato": null,
+   "titulo": "Propuesta 29: Empresa en 24 horas y menos trámites en todo el país",
+   "resumen": "Abrir una empresa por internet, en menos de un día, sin gestores ni papeles, y un acuerdo con provincias y municipios para que habilitaciones y permisos de obra salgan en plazo, con menos trámites y tasas claras.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/29/"
+  },
+  {
+   "id": "propuesta-credito-a-largo-plazo-para-pymes",
+   "fecha_dato": null,
+   "titulo": "Propuesta 30: Crédito a largo plazo para pymes",
+   "resumen": "Que las pymes consigan crédito a largo plazo para invertir, con banca pública, garantías y mercado de capitales, y no solo crédito caro para consumir.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/30/"
+  },
+  {
+   "id": "propuesta-segunda-oportunidad-para-familias-y-pymes-endeudadas",
+   "fecha_dato": null,
+   "titulo": "Propuesta 31: Segunda oportunidad para familias y pymes endeudadas",
+   "resumen": "Que quien no puede pagar sus deudas pueda acordar un plan que pueda cumplir, sin perder su casa ni lo que necesita para vivir, y empezar de nuevo; y que una pyme viable pueda reorganizarse rápido sin cerrar.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/31/"
+  },
+  {
+   "id": "propuesta-alquiler-del-campo-como-porcentaje-de-la-cosecha",
+   "fecha_dato": null,
+   "titulo": "Propuesta 32: Alquiler del campo como porcentaje de la cosecha",
+   "resumen": "Que el dueño del campo cobre un porcentaje de la cosecha, no un alquiler fijo, y comparta el riesgo con quien la trabaja.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Agro",
+    "Minería",
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/32/"
+  },
+  {
+   "id": "propuesta-castigo-a-los-carteles-y-mas-poder-al-consumidor",
+   "fecha_dato": null,
+   "titulo": "Propuesta 33: Castigo a los carteles y más poder al consumidor",
+   "resumen": "Mercados donde gane el que mejor atiende y no el que tiene privilegios: castigo a los carteles y a los abusos de monopolios y oligopolios, y reclamos de consumidores resueltos rápido; y si a alguien le vacían la cuenta con una estafa, el banco le devuelve la plata en 48 horas y después investiga.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/33/"
+  },
+  {
+   "id": "propuesta-fertilizantes-hechos-en-el-pais",
+   "fecha_dato": null,
+   "titulo": "Propuesta 34: Fertilizantes hechos en el país",
+   "resumen": "Fabricar en el país los fertilizantes que hoy importamos: urea privada con gas argentino y una planta de fosfatados con mayoría estatal y socios de toda la cadena agropecuaria, como reserva estratégica.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria",
+    "Agro",
+    "Minería",
+    "Energía"
+   ],
+   "subrubros": [],
+   "exposicion": [
+    "Importa insumos"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/34/"
+  },
+  {
+   "id": "propuesta-terminar-las-obras-paradas",
+   "fecha_dato": null,
+   "titulo": "Propuesta 35: Terminar las obras paradas",
+   "resumen": "Terminar las obras ya diseñadas y paradas —la etapa siguiente del gasoducto troncal y un acueducto desde el Paraná— antes de inventar nuevas.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía",
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/35/"
+  },
+  {
+   "id": "propuesta-gas-de-red-en-cada-casa-y-tarifas-claras-con-tarifa-social",
+   "fecha_dato": null,
+   "titulo": "Propuesta 36: Gas de red en cada casa y tarifas claras, con tarifa social",
+   "resumen": "Llevar gas de red a los hogares que cocinan y se calientan con garrafa o leña, y ordenar las tarifas de luz, gas, agua y transporte: que se acerquen a su costo de a poco, en cuatro años y con escalones conocidos, con tarifa social para quien no puede pagar y zonas frías y cálidas definidas por el clima.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía",
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [
+    "Energía intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/36/"
+  },
+  {
+   "id": "propuesta-energia-nuclear-argentina-y-gas-de-vaca-muerta",
+   "fecha_dato": null,
+   "titulo": "Propuesta 37: Energía nuclear argentina y gas de Vaca Muerta",
+   "resumen": "Energía nuclear, tecnología argentina, como base limpia y firme, y gas de Vaca Muerta en centrales eficientes: energía limpia y propia.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/37/"
+  },
+  {
+   "id": "propuesta-vender-gas-de-vaca-muerta-a-brasil",
+   "fecha_dato": null,
+   "titulo": "Propuesta 38: Vender gas de Vaca Muerta a Brasil",
+   "resumen": "Una empresa de energía entre YPF y Petrobras para vender el gas de Vaca Muerta a Brasil, compartir gasoductos, plantas y transporte, y competir juntas en el mercado internacional.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía",
+    "Construcción",
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/38/"
+  },
+  {
+   "id": "propuesta-litio-procesado-en-el-pais-hasta-baterias",
+   "fecha_dato": null,
+   "titulo": "Propuesta 39: Litio procesado en el país, hasta baterías",
+   "resumen": "Que el litio no se vaya solo como carbonato: procesarlo acá hasta baterías, cuidando el agua y consultando a las comunidades de la Puna.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/39/"
+  },
+  {
+   "id": "propuesta-mineria-si-con-consulta-a-las-comunidades",
+   "fecha_dato": null,
+   "titulo": "Propuesta 40: Minería sí, con consulta a las comunidades",
+   "resumen": "Sí a la minería, pero con consulta obligatoria a las comunidades antes de autorizar, glaciares y cuencas protegidos y el agua para la gente siempre primero.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/40/"
+  },
+  {
+   "id": "propuesta-que-no-nos-falten-insumos-vitales",
+   "fecha_dato": null,
+   "titulo": "Propuesta 41: Que no nos falten insumos vitales",
+   "resumen": "Saber qué insumos vitales dependen de pocos proveedores lejanos —fármacos, electrónica, fertilizantes, uranio— y armar cadenas cortas para resistir crisis ajenas.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria",
+    "Minería"
+   ],
+   "subrubros": [],
+   "exposicion": [
+    "Importa insumos",
+    "Vende a minería y energía"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/41/"
+  },
+  {
+   "id": "propuesta-inundaciones-sequias-e-incendios-obras-bosques-y-humedales",
+   "fecha_dato": null,
+   "titulo": "Propuesta 42: Inundaciones, sequías e incendios: obras, bosques y humedales",
+   "resumen": "Obras contra inundaciones y sequías pagadas entre todos los que se benefician, alertas y seguros para el campo, y bosques y humedales cuidados con un fondo del fuego que no se desvíe, para que haya menos incendios.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Agro",
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/42/"
+  },
+  {
+   "id": "propuesta-cloacas-y-agua-segura-en-todas-las-casas",
+   "fecha_dato": null,
+   "titulo": "Propuesta 43: Cloacas y agua segura en todas las casas",
+   "resumen": "Un plan para que todas las casas tengan cloacas y agua segura, empezando por las provincias y barrios más atrasados, y el acueducto que lleve agua del Paraná al noroeste bonaerense.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/43/"
+  },
+  {
+   "id": "propuesta-rutas-trenes-de-carga-y-la-hidrovia",
+   "fecha_dato": null,
+   "titulo": "Propuesta 44: Rutas, trenes de carga y la hidrovía",
+   "resumen": "Recuperar rutas, trenes de carga, caminos rurales y la hidrovía para abaratar el traslado de la producción a puertos y ciudades, con obras planificadas a largo plazo y pagadas entre Nación, provincias, municipios y productores.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Agro",
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/44/"
+  },
+  {
+   "id": "propuesta-viviendas-y-servicios-donde-llega-la-inversion",
+   "fecha_dato": null,
+   "titulo": "Propuesta 45: Viviendas y servicios donde llega la inversión",
+   "resumen": "Que los pueblos donde llega la inversión tengan viviendas, escuelas, salud y servicios a tiempo, con planes urbanos hechos antes de que llegue la gente.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción",
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/45/"
+  },
+  {
+   "id": "propuesta-internet-en-todo-el-pais",
+   "fecha_dato": null,
+   "titulo": "Propuesta 46: Internet en todo el país",
+   "resumen": "Internet de calidad en cada pueblo, escuela y centro de salud, para que vivir en el interior no sea quedar afuera.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/46/"
+  },
+  {
+   "id": "propuesta-reglas-simples-para-contratar-con-red-para-quien-pierde-el-t",
+   "fecha_dato": null,
+   "titulo": "Propuesta 47: Reglas simples para contratar, con red para quien pierde el trabajo",
+   "resumen": "Reglas de trabajo más simples para que contratar no dé miedo, siempre junto a una red que cuide a quien pierde el empleo.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/47/"
+  },
+  {
+   "id": "propuesta-cada-trabajador-elige-su-sindicato",
+   "fecha_dato": null,
+   "titulo": "Propuesta 48: Cada trabajador elige su sindicato",
+   "resumen": "Cada trabajador elige si se afilia y a qué sindicato, organizado por empresa y por planta, sin un gremio único impuesto.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/48/"
+  },
+  {
+   "id": "propuesta-el-trabajador-socio-de-la-empresa",
+   "fecha_dato": null,
+   "titulo": "Propuesta 49: El trabajador, socio de la empresa",
+   "resumen": "Los empleados pueden tener una parte de la empresa y voz en sus decisiones; más cuanto más grande es la empresa.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/49/"
+  },
+  {
+   "id": "propuesta-que-trabajar-en-blanco-convenga",
+   "fecha_dato": null,
+   "titulo": "Propuesta 50: Que trabajar en blanco convenga",
+   "resumen": "Que trabajar en blanco convenga: menos carga, monotributo actualizado, controles inteligentes y una jubilación que premie el aporte.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/50/"
+  },
+  {
+   "id": "propuesta-elegir-quien-da-la-salud-la-jubilacion-y-el-seguro",
+   "fecha_dato": null,
+   "titulo": "Propuesta 51: Elegir quién da la salud, la jubilación y el seguro",
+   "resumen": "Salud, jubilación y seguros como red básica: cada uno elige quién se los da, y quien pierde el trabajo los sigue recibiendo gratis por un tiempo.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/51/"
+  },
+  {
+   "id": "propuesta-seguro-de-desempleo-que-alcance-con-capacitacion",
+   "fecha_dato": null,
+   "titulo": "Propuesta 52: Seguro de desempleo que alcance, con capacitación",
+   "resumen": "Si perdés el trabajo, un seguro que alcance y capacitación para el próximo empleo, con beneficios que acompañan a cada trabajador de un empleo a otro.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/52/"
+  },
+  {
+   "id": "propuesta-trabajo-comunitario-para-quien-no-consigue-empleo",
+   "fecha_dato": null,
+   "titulo": "Propuesta 53: Trabajo comunitario para quien no consigue empleo",
+   "resumen": "Quien no consigue trabajo puede, si quiere, sumarse a tareas útiles para su comunidad con ingreso y formación, mientras busca empleo.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/53/"
+  },
+  {
+   "id": "propuesta-aprender-a-trabajar-con-inteligencia-artificial",
+   "fecha_dato": null,
+   "titulo": "Propuesta 54: Aprender a trabajar con inteligencia artificial",
+   "resumen": "Formar a cada persona para trabajar con la inteligencia artificial y no ser reemplazada por ella, durante toda la vida.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/54/"
+  },
+  {
+   "id": "propuesta-que-los-que-se-fueron-vuelvan",
+   "fecha_dato": null,
+   "titulo": "Propuesta 55: Que los que se fueron vuelvan",
+   "resumen": "Que los profesionales formados en el país quieran quedarse, y que los que se fueron tengan motivos y facilidades para volver.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/55/"
+  },
+  {
+   "id": "propuesta-primer-empleo-y-primera-casa-para-los-jovenes",
+   "fecha_dato": null,
+   "titulo": "Propuesta 56: Primer empleo y primera casa para los jóvenes",
+   "resumen": "Que el primer trabajo sea en blanco, que los jóvenes puedan formarse trabajando y acceder a su primera casa, sin tener que irse del país.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/56/"
+  },
+  {
+   "id": "propuesta-cada-compra-del-estado-en-internet-el-mismo-dia",
+   "fecha_dato": null,
+   "titulo": "Propuesta 57: Cada compra del Estado, en internet el mismo día",
+   "resumen": "Todo lo que el Estado compra, cobra y paga, publicado en internet el mismo día, en un sistema abierto. Arranca en la primera semana.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/57/"
+  },
+  {
+   "id": "propuesta-el-estado-no-vigila-ni-censura",
+   "fecha_dato": null,
+   "titulo": "Propuesta 58: El Estado no vigila ni censura",
+   "resumen": "Los datos de cada persona son suyos, y lo que dice también: para meterse en la vida privada hace falta orden de un juez, y el Estado no puede mandar a bajar opiniones ni perseguir periodistas.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/58/"
+  },
+  {
+   "id": "propuesta-servicios-de-inteligencia-controlados-por-el-congreso",
+   "fecha_dato": null,
+   "titulo": "Propuesta 59: Servicios de inteligencia controlados por el Congreso",
+   "resumen": "Los servicios de inteligencia, con control civil y del Congreso, gastos auditables y prohibición absoluta de espiar a opositores, periodistas o ciudadanos. Y lo que hacen en el país los servicios de otros países, también bajo control.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/59/"
+  },
+  {
+   "id": "propuesta-control-en-manos-de-la-oposicion",
+   "fecha_dato": null,
+   "titulo": "Propuesta 60: Control en manos de la oposición",
+   "resumen": "Los organismos de control externo y anticorrupción, unificados y conducidos por el partido de oposición con más legisladores en el Congreso, independientes del Poder Ejecutivo.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/60/"
+  },
+  {
+   "id": "propuesta-el-estado-no-es-de-quien-gobierna-sin-autos-aviones-ni-nombr",
+   "fecha_dato": null,
+   "titulo": "Propuesta 61: El Estado no es de quien gobierna: sin autos, aviones ni nombres propios",
+   "resumen": "Sin autos ni aviones oficiales para uso personal; Olivos, Chapadmalal y la flota pasan a emergencias y salud. Y lo público deja de llevar la marca de quien gobierna: nombres aprobados por el Congreso, billetes sin figuras, una sola imagen del Estado y traspaso del mando obligatorio.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/61/"
+  },
+  {
+   "id": "propuesta-un-estado-simple-ocho-ministerios-menos-normas-y-empleo-por",
+   "fecha_dato": null,
+   "titulo": "Propuesta 62: Un Estado simple: ocho ministerios, menos normas y empleo por concurso",
+   "resumen": "Un Estado más chico pero mejor y fácil de entender: ocho ministerios, sin subsecretarías, con directores de carrera, y menos normas y trámites; se entra por concurso y se progresa por mérito, sin parientes de quien manda, sin contratos precarios para tareas permanentes y con legislaturas y plantas provinciales más austeras.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/62/"
+  },
+  {
+   "id": "propuesta-causas-judiciales-con-plazos-y-a-la-vista",
+   "fecha_dato": null,
+   "titulo": "Propuesta 63: Causas judiciales con plazos y a la vista",
+   "resumen": "Expedientes digitales que cualquiera puede seguir, plazos máximos que se cumplen, juicios orales y datos públicos del desempeño de cada juzgado.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/63/"
+  },
+  {
+   "id": "propuesta-jueces-por-concurso-corte-completa",
+   "fecha_dato": null,
+   "titulo": "Propuesta 64: Jueces por concurso, Corte completa",
+   "resumen": "Cubrir los juzgados vacíos por concursos rápidos y transparentes, y completar la Corte Suprema con criterios públicos.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/64/"
+  },
+  {
+   "id": "propuesta-juicio-por-jurados",
+   "fecha_dato": null,
+   "titulo": "Propuesta 65: Juicio por jurados",
+   "resumen": "Que los delitos graves los juzguen ciudadanos comunes, como manda la Constitución desde 1853, también en la justicia federal.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/65/"
+  },
+  {
+   "id": "propuesta-que-la-corrupcion-no-prescriba",
+   "fecha_dato": null,
+   "titulo": "Propuesta 66: Que la corrupción no prescriba",
+   "resumen": "Que el paso del tiempo no salve a nadie: los plazos no corren mientras el acusado conserve poder, y lo robado se recupera de verdad.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/66/"
+  },
+  {
+   "id": "propuesta-menos-decretos-mas-congreso",
+   "fecha_dato": null,
+   "titulo": "Propuesta 67: Menos decretos, más Congreso",
+   "resumen": "Que las leyes las haga el Congreso: límites estrictos a los decretos de necesidad y urgencia y a la delegación de poderes.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/67/"
+  },
+  {
+   "id": "propuesta-policias-que-rotan-para-cortar-lazos-con-el-delito",
+   "fecha_dato": null,
+   "titulo": "Propuesta 68: Policías que rotan para cortar lazos con el delito",
+   "resumen": "Que los policías roten entre ciudades y provincias para cortar los lazos con el delito, con mejores sueldos y controles internos.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/68/"
+  },
+  {
+   "id": "propuesta-narcotrafico-trata-y-estafas-seguir-la-plata-hasta-arriba",
+   "fecha_dato": null,
+   "titulo": "Propuesta 69: Narcotráfico, trata y estafas: seguir la plata hasta arriba",
+   "resumen": "Una estrategia nacional contra el narcotráfico que va hasta arriba: seguir la plata hasta quien financia, lava o protege, desde el Estado o desde las empresas, controlar puertos y cárceles, y recuperar los barrios. Y un cuerpo federal especial contra la trata de personas y las estafas digitales.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/69/"
+  },
+  {
+   "id": "propuesta-carceles-que-no-sean-escuelas-del-delito",
+   "fecha_dato": null,
+   "titulo": "Propuesta 70: Cárceles que no sean escuelas del delito",
+   "resumen": "Cárceles seguras, sin hacinamiento, donde se estudie y se trabaje, y desde donde no se manden órdenes al delito.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/70/"
+  },
+  {
+   "id": "propuesta-mano-firme-con-el-delito-cero-abuso-policial",
+   "fecha_dato": null,
+   "titulo": "Propuesta 71: Mano firme con el delito, cero abuso policial",
+   "resumen": "Mano firme con el delito y tolerancia cero con el abuso de autoridad: un Estado que protege no puede atropellar.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/71/"
+  },
+  {
+   "id": "propuesta-proteccion-real-a-quien-denuncia-violencia-en-el-hogar",
+   "fecha_dato": null,
+   "titulo": "Propuesta 72: Protección real a quien denuncia violencia en el hogar",
+   "resumen": "Quien denuncia violencia física, sexual, psicológica o económica en su casa —sea mujer, varón, chico o persona mayor, con o sin matrimonio— sale con protección e ingreso propio; el agresor se va, un juez revisa la medida en 72 horas, se cobra la cuota y hay cuidado para los chicos.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/72/"
+  },
+  {
+   "id": "propuesta-un-solo-ingreso-en-lugar-de-todos-los-planes",
+   "fecha_dato": null,
+   "titulo": "Propuesta 73: Un solo ingreso en lugar de todos los planes",
+   "resumen": "Un solo ingreso reemplaza la maraña de planes y llega directo a quien lo necesita: chicos, personas con discapacidad, desempleados y mayores sin aportes.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/73/"
+  },
+  {
+   "id": "propuesta-jubilacion-con-piso-garantizado-cuenta-propia-a-eleccion-y-s",
+   "fecha_dato": null,
+   "titulo": "Propuesta 74: Jubilación con piso garantizado, cuenta propia a elección y sin privilegios",
+   "resumen": "Una jubilación con dos pisos: uno solidario que garantiza un mínimo digno para todos, y una cuenta propia que los nuevos trabajadores pueden elegir, con la plata protegida del Estado. Y se terminan las jubilaciones de privilegio: jueces, altos funcionarios y diplomáticos que ingresen se jubilan como cualquier trabajador.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/74/"
+  },
+  {
+   "id": "propuesta-jubilaciones-que-suben-cuando-crece-la-economia",
+   "fecha_dato": null,
+   "titulo": "Propuesta 75: Jubilaciones que suben cuando crece la economía",
+   "resumen": "Las jubilaciones recuperan poder de compra a medida que la economía crece: una parte de lo que se recauda de más va a los haberes.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/75/"
+  },
+  {
+   "id": "propuesta-jardin-salud-y-nutricion-desde-que-nacen",
+   "fecha_dato": null,
+   "titulo": "Propuesta 76: Jardín, salud y nutrición desde que nacen",
+   "resumen": "Los primeros años deciden casi todo: nutrición, salud, crianza y jardín de calidad para cada chico, empezando por los que más lo necesitan.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/76/"
+  },
+  {
+   "id": "propuesta-una-escuela-que-ensena-y-que-nadie-abandona",
+   "fecha_dato": null,
+   "titulo": "Propuesta 77: Una escuela que enseña y que nadie abandona",
+   "resumen": "Que todos los chicos aprendan a leer, hacer cuentas, inglés, computación y finanzas personales, y que nadie deje la secundaria sin que alguien lo acompañe.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/77/"
+  },
+  {
+   "id": "propuesta-las-familias-eligen-la-escuela",
+   "fecha_dato": null,
+   "titulo": "Propuesta 78: Las familias eligen la escuela",
+   "resumen": "Que la plata de la educación siga a cada alumno, para que las familias elijan escuela, con calidad evaluada y la escuela pública gratuita fortalecida.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/78/"
+  },
+  {
+   "id": "propuesta-presupuesto-fijo-por-ley-para-universidades-y-ciencia",
+   "fecha_dato": null,
+   "titulo": "Propuesta 79: Presupuesto fijo por ley para universidades y ciencia",
+   "resumen": "Universidades y ciencia con un presupuesto que no dependa del humor de cada año: piso por ley, metas claras y cuentas auditadas.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/79/"
+  },
+  {
+   "id": "propuesta-salud-medico-de-cabecera-hospitales-y-turnos-a-tiempo",
+   "fecha_dato": null,
+   "titulo": "Propuesta 80: Salud: médico de cabecera, hospitales y turnos a tiempo",
+   "resumen": "Un equipo de salud de cabecera cerca de cada casa y vacunas siempre disponibles, hospitales equipados y con profesionales suficientes, cirugías y estudios con plazo máximo, un PAMI que paga en fecha y tratamientos complejos que llegan a tiempo.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/80/"
+  },
+  {
+   "id": "propuesta-salud-mental-y-adicciones-tratar-no-perseguir",
+   "fecha_dato": null,
+   "titulo": "Propuesta 81: Salud mental y adicciones: tratar, no perseguir",
+   "resumen": "Salud mental cerca de casa, prevención en escuelas, drogas tratadas como problema de salud y no de delito, y reglas firmes para apuestas online.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/81/"
+  },
+  {
+   "id": "propuesta-credito-para-la-casa-que-se-pague-con-un-sueldo",
+   "fecha_dato": null,
+   "titulo": "Propuesta 82: Crédito para la casa que se pague con un sueldo",
+   "resumen": "Crédito hipotecario que se pueda pagar con un sueldo, barrios populares urbanizados con título y más viviendas para alquilar.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción",
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/82/"
+  },
+  {
+   "id": "propuesta-mas-lugares-de-cuidado-y-licencias-para-madres-y-padres",
+   "fecha_dato": null,
+   "titulo": "Propuesta 83: Más lugares de cuidado y licencias para madres y padres",
+   "resumen": "Reconocer el trabajo de cuidar: más espacios de cuidado, licencias compartidas entre madres y padres y años de aporte por criar.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/83/"
+  },
+  {
+   "id": "propuesta-discapacidad-prestaciones-a-tiempo-y-pagos-en-fecha",
+   "fecha_dato": null,
+   "titulo": "Propuesta 84: Discapacidad: prestaciones a tiempo y pagos en fecha",
+   "resumen": "Que las prestaciones por discapacidad lleguen a tiempo, que se pague en fecha a quien atiende y que se controle sin castigar al que cumple.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/84/"
+  },
+  {
+   "id": "propuesta-comerciar-con-todos-y-la-misma-vara-para-los-derechos-humano",
+   "fecha_dato": null,
+   "titulo": "Propuesta 85: Comerciar con todos y la misma vara para los derechos humanos",
+   "resumen": "Comerciar con todos sin exclusividades y medir a todos los gobiernos con la misma vara en derechos humanos, sean rivales o aliados.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/85/"
+  },
+  {
+   "id": "propuesta-comerciar-con-china-sin-depender-de-ella",
+   "fecha_dato": null,
+   "titulo": "Propuesta 86: Comerciar con China sin depender de ella",
+   "resumen": "Comerciar con China sin depender de ella: diversificar proveedores, transparentar los acuerdos y cuidar los activos estratégicos.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Vende a minería y energía"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/86/"
+  },
+  {
+   "id": "propuesta-brasil-los-vecinos-y-el-mercosur-primero",
+   "fecha_dato": null,
+   "titulo": "Propuesta 87: Brasil, los vecinos y el Mercosur primero",
+   "resumen": "Los vecinos primero: una relación de Estado con Brasil, Uruguay, Paraguay, Bolivia y Chile que no dependa de quién gobierne, entre iguales, con energía, ríos, trenes y Mercosur en el centro.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía",
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/87/"
+  },
+  {
+   "id": "propuesta-nuevos-socios-india-africa-y-los-paises-del-sur",
+   "fecha_dato": null,
+   "titulo": "Propuesta 88: Nuevos socios: India, África y los países del sur",
+   "resumen": "Sumar socios que nos compran mucho y no piden obediencia —la India ahora y África occidental para la próxima generación— y unirnos con países del sur para asegurar juntos fertilizantes, minerales, cables y satélites.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria",
+    "Minería"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/88/"
+  },
+  {
+   "id": "propuesta-malvinas-sin-renunciar-y-sin-conflicto",
+   "fecha_dato": null,
+   "titulo": "Propuesta 89: Malvinas: sin renunciar y sin conflicto",
+   "resumen": "Malvinas es argentina y no renunciamos a nada: bajamos la tensión con el Reino Unido, trabajamos con los isleños y marcamos límites claros.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/89/"
+  },
+  {
+   "id": "propuesta-frenar-la-pesca-ilegal-y-cuidar-la-antartida",
+   "fecha_dato": null,
+   "titulo": "Propuesta 90: Frenar la pesca ilegal y cuidar la Antártida",
+   "resumen": "Vigilar el mar todo el día para frenar la pesca ilegal, aprovechar la plataforma que la ONU nos reconoció y cuidar la Antártida.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Agro"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/90/"
+  },
+  {
+   "id": "propuesta-fuerzas-armadas-que-defienden-y-llegan-en-las-emergencias",
+   "fecha_dato": null,
+   "titulo": "Propuesta 91: Fuerzas Armadas que defienden y llegan en las emergencias",
+   "resumen": "Fuerzas Armadas modernas para defender el mar, el cielo y la Antártida, y para llegar primero cuando hay inundaciones, incendios o catástrofes.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/91/"
+  },
+  {
+   "id": "propuesta-migracion-con-papeles-rapidos-y-reglas-claras",
+   "fecha_dato": null,
+   "titulo": "Propuesta 92: Migración con papeles rápidos y reglas claras",
+   "resumen": "Una migración ordenada y humana: papeles rápidos, reglas claras y refugio con trabajo, escuela y salud para quien escapa de la persecución.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [
+    "Mano de obra intensiva"
+   ],
+   "url": "https://propuestasargentina.netlify.app/p/92/"
+  },
+  {
+   "id": "propuesta-investigar-los-crimenes-del-estado-en-democracia",
+   "fecha_dato": null,
+   "titulo": "Propuesta 93: Investigar los crímenes del Estado en democracia",
+   "resumen": "Una comisión independiente que investigue los crímenes de lesa humanidad cometidos desde el Estado en democracia, desde 1983 hasta hoy.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/93/"
+  },
+  {
+   "id": "propuesta-una-comision-independiente-contra-la-corrupcion",
+   "fecha_dato": null,
+   "titulo": "Propuesta 94: Una comisión independiente contra la corrupción",
+   "resumen": "Una comisión independiente investiga la corrupción y el uso del Estado como botín en la Nación, provincias y municipios. Sin amnistías y con el compromiso de no indultar.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/94/"
+  },
+  {
+   "id": "propuesta-nunca-mas-siguen-los-juicios-y-la-busqueda-de-nietos",
+   "fecha_dato": null,
+   "titulo": "Propuesta 95: Nunca Más: siguen los juicios y la búsqueda de nietos",
+   "resumen": "El Nunca Más no se negocia: siguen los juicios por crímenes de lesa humanidad, la búsqueda de los nietos y los sitios de memoria.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/95/"
+  },
+  {
+   "id": "propuesta-boleta-unica-y-paso-para-quedarse",
+   "fecha_dato": null,
+   "titulo": "Propuesta 96: Boleta Única y PASO, para quedarse",
+   "resumen": "Mantener la Boleta Única, que hace el voto simple y limpio, y las PASO, para que la gente y no las cúpulas elija candidatos.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/96/"
+  },
+  {
+   "id": "propuesta-una-sola-reeleccion-renunciar-para-ser-candidato-y-retiro-a",
+   "fecha_dato": null,
+   "titulo": "Propuesta 97: Una sola reelección, renunciar para ser candidato y retiro a los 70",
+   "resumen": "Nadie puede ser reelegido en el mismo cargo más de una vez en toda su vida, y el que tiene un cargo electivo y quiere ser candidato a otro, primero renuncia. Y en las provincias, sin ley de lemas ni colectoras.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/97/"
+  },
+  {
+   "id": "propuesta-ver-quien-financia-a-cada-candidato",
+   "fecha_dato": null,
+   "titulo": "Propuesta 98: Ver quién financia a cada candidato",
+   "resumen": "Que cualquiera pueda ver desde el celular quién le dio plata a cada candidato, cuánto y cuándo, y si después ganó contratos del Estado.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/98/"
+  },
+  {
+   "id": "propuesta-tierras-agua-y-escuela-para-los-pueblos-originarios",
+   "fecha_dato": null,
+   "titulo": "Propuesta 99: Tierras, agua y escuela para los pueblos originarios",
+   "resumen": "Pagar deudas viejas con los pueblos originarios: títulos de sus tierras, agua potable, educación en su idioma y consulta antes de decidir sobre su territorio.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/99/"
+  },
+  {
+   "id": "propuesta-clubes-de-barrio-cooperativas-y-futbol-limpio",
+   "fecha_dato": null,
+   "titulo": "Propuesta 100: Clubes de barrio, cooperativas y fútbol limpio",
+   "resumen": "Cuidar lo que el mercado no debe liquidar: clubes de barrio y cooperativas fuertes, y un fútbol limpio, con cuentas claras y sin violencia.",
+   "tipo": "otro",
+   "eje": "Región y rubro",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://propuestasargentina.netlify.app/p/100/"
+  }
+ ],
+ "agenda": [],
+ "faltantes": []
+}
