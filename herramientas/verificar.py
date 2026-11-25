@@ -16,6 +16,8 @@ for p in P:
     for m in set(re.findall(VOSEO, s)): mal.append(f'propuesta {p["n"]}: voseo «{m}» en un texto formal')
     if re.search(r'\bsólo\b', s, re.I): mal.append(f'propuesta {p["n"]}: «sólo» con tilde (va «solo»)')
     if re.search(r'\b[BD]\d{2}\b', s): mal.append(f'propuesta {p["n"]}: código interno de decisión (B## o D##)')
+    for t in ('Transformar sin tiempo', 'La moral, la política y el Estado', 'Los Pilares de la Sociedad Abierta', 'Cryptocracy', 'Criptocracia'):
+        if t in s: mal.append(f'propuesta {p["n"]}: cita un escrito propio del autor («{t}»)')
     for i in set(re.findall(r'\bN\d{3}[a-z]?\b', s)):
         if i not in normas: mal.append(f'propuesta {p["n"]}: cita {i}, que no existe en fuente/normas')
 C = json.load(open('datos/cien_dias.json'))
