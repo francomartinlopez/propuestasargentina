@@ -22,9 +22,13 @@ Sitio estático de Franco Martín López: https://propuestasargentina.netlify.ap
 | PDF de cada norma, compendio, PDF del programa | `datos/normas/pdf/`, `datos/normas/todas-las-normas.pdf`, `100-propuestas*.pdf` | **no** |
 | Páginas e imágenes para compartir | `p/<n>/`, `og.jpg`, `icono-180.png` | **no**: las arma `compartir.py` |
 | Cifras de la portada (normas, páginas, MB, fecha) | `index.html` | **no**: las pone `cifras.py` |
-| Mapas interactivos | `mapa-integracion.html`, `mapa-hidrovia.html` y sus `*-embed.js` | sí, con cuidado (no hay generador) |
+| Datos de los mapas interactivos (tramos, puertos, lugares, capas, obras) | `fuente/mapas/<mapa>/datos.json` | sí |
+| Textos fijos, estilos y código de los mapas | `fuente/mapas/<mapa>/interior.html`, `pagina.html`, `embed.js` | sí, con cuidado |
+| Mapas armados e imágenes para el PDF | `mapa-hidrovia.html`, `mapa-hidrovia-embed.js`, `mapa-integracion.html`, `mapa-embed.js`, `mapa-*.png` | **no**: los arma `mapas.py` |
 
-Campos de una norma: `id`, `tipo` (ley_nacional, decreto, resolucion, acuerdo_federal, ley_provincial, tratado, ley_aprobatoria, ordenanza_modelo, invitacion), `titulo`, `sumilla`, `cuando`, `cuando_breve` (lo que muestra el anexo del PDF), `tramite`, `motivos`, `visto`, `considerando`, `formula`, `capitulos` (con `articulos`: `n`, `epigrafe`, `texto`), `modifica`, `deroga`, `variantes`. Una norma nueva necesita su archivo y su lugar en `normas_por_propuesta.json`; los números siguen la serie (la próxima es la siguiente libre).
+Campos de una norma: `id`, `tipo` (ley_nacional, decreto, resolucion, acuerdo_federal, ley_provincial, tratado, ley_aprobatoria, ordenanza_modelo, invitacion), `titulo`, `sumilla`, `cuando`, `cuando_breve` (lo que muestra el anexo del PDF), `tramite`, `motivos`, `visto`, `considerando`, `formula`, `capitulos` (con `articulos`: `n`, `epigrafe`, `texto`), `modifica`, `deroga`, `variantes`. Mapas: un puerto, un tramo o un lugar nuevo se puede cargar con longitud y latitud (`lonlat`, `puntos` o `xy_lonlat`); `mapas.py` lo pasa a coordenadas del dibujo con la `proyeccion` de cada mapa. Si solo cambió un mapa: `python3 herramientas/mapas.py hidrovia` y después `pdf_programa.cjs completo`.
+
+Una norma nueva necesita su archivo y su lugar en `normas_por_propuesta.json`; los números siguen la serie (la próxima es la siguiente libre).
 
 ## Armar y verificar
 
@@ -32,7 +36,7 @@ Campos de una norma: `id`, `tipo` (ley_nacional, decreto, resolucion, acuerdo_fe
 bash herramientas/armar.sh
 ```
 
-Hace todo en orden: `armar_normas.py` → `pdf_normas.cjs` → `compendio.py` → `pdf_programa.cjs` → `compartir.py` → `cifras.py` → `verificar.py`. Tarda unos 4 minutos. Necesita python3 con pypdf, node con playwright (chromium) y poppler-utils. Si solo cambió el texto de una norma alcanza con `armar_normas.py`, `node herramientas/pdf_normas.cjs N###`, `compendio.py`, `pdf_programa.cjs completo` y `cifras.py`, pero ante la duda se corre todo. `verificar.py` tiene que terminar en «Todo en orden».
+Hace todo en orden: `armar_normas.py` → `pdf_normas.cjs` → `compendio.py` → `mapas.py` → `pdf_programa.cjs` → `compartir.py` → `cifras.py` → `verificar.py`. Tarda unos 4 minutos. Necesita python3 con pypdf, node con playwright (chromium) y poppler-utils. Si solo cambió el texto de una norma alcanza con `armar_normas.py`, `node herramientas/pdf_normas.cjs N###`, `compendio.py`, `pdf_programa.cjs completo` y `cifras.py`, pero ante la duda se corre todo. `verificar.py` tiene que terminar en «Todo en orden».
 
 ## Reglas de contenido (no negociables)
 
