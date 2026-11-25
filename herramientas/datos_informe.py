@@ -1,4 +1,4 @@
-# Arma datos-informe.json para la web de informes de Plexum (especificación «Datos que cada web publica», v1.2).
+# Arma datos-informe.json para la web de informes de Plexum (especificación «Datos que cada web publica», v1.3).
 # 100 Propuestas publica cada propuesta como novedad «otro», contenido permanente (fecha_dato null).
 # No cambia nada visible del sitio. El id de cada propuesta es estable: se guarda en datos/propuestas.json
 # (campo id_informe) la primera vez y no se cambia aunque cambie el número o el título.
@@ -52,7 +52,7 @@ for p in sorted(D, key=lambda x: x['n']):
                 'url': f'{SITE}p/{p["n"]}/'})
 
 ahora = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).replace(microsecond=0)
-out = {'web': '100 Propuestas', 'version': '1.0', 'generado': ahora.isoformat(),
+out = {'web': '100 Propuestas', 'version': '1.3', 'generado': ahora.isoformat(),
        'indicadores': [], 'novedades': nov, 'agenda': [], 'faltantes': []}
 json.dump(out, open('datos-informe.json', 'w'), ensure_ascii=False, indent=1)
 print(f'datos-informe.json: {len(nov)} propuestas')
