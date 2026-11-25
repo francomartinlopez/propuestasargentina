@@ -1,0 +1,167 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Direcciones de personal de las fuerzas",
+    "estado": "modificado",
+    "rol": "Ejecutan la rotación escalonada y llevan el registro de permanencia. Elaboran y ejecutan los planes anuales de rotación y llevan el registro.",
+    "hoy": "Dirección General de Personal de la PFA (Estatuto, art. 40) y áreas equivalentes de GNA, PNA, PSA y SPF",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Aprueba los planes de rotación, las prórrogas y los adicionales. Firma por la Nación, brinda asistencia técnica y publica el tablero de metas. Aprueba protocolos, custodia las grabaciones, lleva los registros de detenciones, de armas y de denuncias e informa al Congreso. Cumple las mismas funciones respecto de las fuerzas federales.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Seguridad del Ministerio de Justicia y Seguridad",
+      "estado": "modificado",
+      "rol": "Declara las zonas críticas, aprueba los planes de rotación, fija los adicionales y publica el cumplimiento. Diseña la carrera que valora la movilidad.",
+      "hoy": "Ministerio de Seguridad Nacional",
+      "hijos": []
+     },
+     {
+      "nombre": "Consejo de Seguridad Interior",
+      "estado": "existente",
+      "rol": "Ámbito de negociación y de seguimiento anual; no firma.",
+      "hoy": "Consejo de Seguridad Interior (Ley 24.059, arts. 9 a 11)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Seguridad",
+      "estado": "modificado",
+      "rol": "Seguimiento de las metas por provincia.",
+      "hoy": "Subsecretaría de Intervención Federal (Secretaría de Seguridad Nacional, MSN; Decreto 727/2025)",
+      "hijos": []
+     },
+     {
+      "nombre": "Fuerzas federales",
+      "estado": "existente",
+      "rol": "Aplican la ley, usan cámaras corporales y alimentan los registros.",
+      "hoy": "PFA, GNA, PNA, PSA y SPF (MSN)",
+      "hijos": [
+       {
+        "nombre": "Oficina ministerial de asuntos internos",
+        "estado": "nuevo",
+        "rol": "Investiga con facultades propias el uso de armas con lesiones o muerte, abusos, corrupción y faltas graves en las cuatro fuerzas y el SPF («Ley de Uso de la Fuerza de las Fuerzas Federales» arts. 18 a 24). Investiga uso de armas con lesiones o muerte, abusos, corrupción y faltas graves; instruye sumarios y denuncia delitos al fiscal (ejecuta «Ley de Uso de la Fuerza de las Fuerzas Federales» y «Ley de Uso de la Fuerza de las Fuerzas Federales»).",
+        "hoy": "",
+        "hijos": []
+       },
+       {
+        "nombre": "Unidad especial de investigación de la corrupción policial vinculada a la oferta sexual y a la trata",
+        "estado": "nuevo",
+        "rol": "Investiga cobros, extorsiones, detenciones arbitrarias y protección de redes; recibe denuncias protegidas y audita patrimonios.",
+        "hoy": "",
+        "hijos": []
+       },
+       {
+        "nombre": "Juntas de calificación de las fuerzas",
+        "estado": "modificado",
+        "rol": "Se integran por antigüedad y con un miembro civil sorteado; califican con puntaje y publican el orden de mérito que la autoridad debe respetar.",
+        "hoy": "Juntas de calificación de cada fuerza",
+        "hijos": []
+       }
+      ]
+     },
+     {
+      "nombre": "Oficina de Asuntos Internos de las Fuerzas Federales",
+      "estado": "existente",
+      "rol": "Oficina en la que funciona la unidad especial.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Asuntos internos de la policía federal",
+    "estado": "modificado",
+    "rol": "Sale de la Jefatura y pasa a la Oficina.",
+    "hoy": "Dirección General de Asuntos Internos de la PFA (Jefatura; Decreto 383/2025, arts. 17 y 36)",
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos internos de gendarmería",
+    "estado": "modificado",
+    "rol": "Sale de la dependencia del Jefe.",
+    "hoy": "Dirección de Asuntos Internos de la GNA (Jefe de la fuerza; Decreto 454/2025)",
+    "hijos": []
+   },
+   {
+    "nombre": "Control externo de la policía aeroportuaria",
+    "estado": "modificado",
+    "rol": "Se integra a la Oficina y conserva sus órganos. Se integra como delegación y conserva sus órganos y funciones.",
+    "hoy": "Dirección de Control Policial Externo (Ley 26.102, art. 75, texto Decreto 456/2025; Subsecretaría de Intervención Federal, MSN)",
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos internos de prefectura",
+    "estado": "nuevo",
+    "rol": "Nueva; hoy la disciplina es interna de la fuerza (Prefecto Nacional Naval). Investiga en la PNA las materias de la Oficina (hoy la disciplina está a cargo del Prefecto Nacional Naval, art. 11 Ley 18.398).",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos internos penitenciarios",
+    "estado": "nuevo",
+    "rol": "Nueva. Investiga en el SPF las materias de la Oficina.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Mecanismo nacional contra la tortura",
+    "estado": "existente",
+    "rol": "Coordina el registro público de denuncias y accede al registro de detenciones.",
+    "hoy": "Comité Nacional (Ley 26.827), ámbito del Poder Legislativo",
+    "hijos": []
+   },
+   {
+    "nombre": "Fiscalía federal",
+    "estado": "existente",
+    "rol": "Acceso directo a las grabaciones y a los registros; recibe las denuncias de la Oficina.",
+    "hoy": "Ministerio Público Fiscal de la Nación",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+    "estado": "existente",
+    "rol": "Inscribe en el monotributo con un código genérico que no revela la actividad.",
+    "hoy": "ARCA",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Trabajo y Desarrollo Social",
+    "estado": "existente",
+    "rol": "Da prioridad en capacitación, trabajo comunitario e ingreso único a quien quiera dejar la actividad.",
+    "hoy": "Ministerio de Capital Humano (Decreto 378/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Defensa",
+    "estado": "modificado",
+    "rol": "Fija las vacantes de cada ciclo, resuelve las impugnaciones y publica los órdenes de mérito y los ascensos de las Fuerzas Armadas.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Audita las declaraciones juradas de los mandos."
+  },
+  {
+   "nombre": "Gobiernos provinciales",
+   "rol": "Adoptan la regla por norma propia, rotan sus mandos y publican el cumplimiento."
+  },
+  {
+   "nombre": "Comisión parlamentaria de control de seguridad",
+   "rol": "Recibe el informe anual."
+  }
+ ]
+}

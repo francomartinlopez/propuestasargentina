@@ -1,0 +1,71 @@
+{
+ "id": "N411",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de turismo receptivo",
+ "sumilla": "Reglamenta los reintegros del IVA al turista extranjero (medios de pago, cruce con Migraciones, tope anual), el plan de promoción del INPROTUR y el convenio de estadísticas con el INDEC.",
+ "cuando": "Fase I · año 1 (dentro de los 90 días de la ley)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Decreto simple (art. 99, incs. 1 y 2, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "el Expediente N° [—], la Ley N° [—] de turismo receptivo, la Ley de Impuesto al Valor Agregado (t.o. 1997) y sus modificaciones, la Ley N° 25.997 y el Decreto N° 1043/2016, y",
+ "considerando": [
+  "Que la Ley N° [—] fijó en todo el país la devolución del impuesto al valor agregado del alojamiento a los turistas del exterior y creó, hasta el 31 de diciembre de 2031 y con tope anual, la devolución en restaurantes.",
+  "Que corresponde establecer los medios de pago admitidos, el control de la condición de no residente y la forma de aplicar el tope.",
+  "Que corresponde reglamentar el plan de promoción internacional y el financiamiento de las estadísticas de turismo.",
+  "Que el servicio jurídico permanente ha tomado la intervención de su competencia.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Medios de pago",
+     "texto": "El reintegro se aplica cuando la prestación se paga con tarjeta de crédito, débito o prepaga emitida en el exterior, con transferencia desde una cuenta del exterior o mediante billetera virtual del exterior habilitada por la Agencia de Recaudación y Control Aduanero (ARCA). El prestador factura la operación con discriminación del impuesto y la identificación del pasaporte o documento extranjero del turista."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Control",
+     "texto": "ARCA cruzará en línea los datos del turista con los registros de ingreso de la Dirección Nacional de Migraciones. No corresponde el reintegro a residentes argentinos ni a extranjeros con residencia en el país."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Tope anual de restaurantes",
+     "texto": "ARCA publicará el tope anual del reintegro en restaurantes fijado por la ley de presupuesto y su ejecución mensual. Alcanzado el tope, el reintegro se suspende hasta el año siguiente, con aviso previo de TREINTA (30) días."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Compras",
+     "texto": "ARCA habilitará la devolución del impuesto por compras de bienes en todos los aeropuertos internacionales y en los pasos fronterizos de mayor tránsito que determine junto con la Dirección Nacional de Migraciones y la Dirección General de Aduanas, con acreditación en el medio de pago del exterior."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Plan de promoción",
+     "texto": "El Instituto Nacional de Promoción Turística (INPROTUR) presentará su plan cuatrienal por mercados dentro de los CIENTO OCHENTA (180) días, con metas de visitantes y de gasto por mercado, y lo publicará junto con su ejecución anual."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Estadísticas",
+     "texto": "La Secretaría de Producción y Comercio del Ministerio de Economía suscribirá con el Instituto Nacional de Estadística y Censos (INDEC), dentro de los SESENTA (60) días, el convenio de financiamiento de las encuestas previstas en la ley."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Normas que se adecuan",
+     "texto": "ARCA adecuará sus resoluciones generales sobre reintegro del impuesto a turistas del exterior a lo dispuesto en la ley y en el presente decreto."
+    },
+    {
+     "n": 8,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 1043/2016 (en lo que se oponga)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

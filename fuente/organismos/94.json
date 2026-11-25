@@ -1,0 +1,120 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Dirección Nacional Electoral",
+    "estado": "modificado",
+    "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada proyecto. Organiza la elección de convencionales con la Justicia Nacional Electoral.",
+    "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Oficina Anticorrupción",
+    "estado": "modificado",
+    "rol": "Coopera y suministra declaraciones juradas e información.",
+    "hoy": "Oficina Anticorrupción, desconcentrada del Ministerio de Justicia",
+    "hijos": []
+   },
+   {
+    "nombre": "Unidad de inteligencia financiera",
+    "estado": "modificado",
+    "rol": "Suministra información financiera con excepción expresa al secreto del art. 22 Ley 25.246.",
+    "hoy": "UIF, descentralizada en jurisdicción del Ministerio de Justicia",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia tributaria nacional",
+    "estado": "modificado",
+    "rol": "Suministra información tributaria y de beneficiarios finales con excepción al secreto fiscal.",
+    "hoy": "Agencia de Recaudación y Control Aduanero (ARCA), Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Registro y control de sociedades y asociaciones",
+    "estado": "modificado",
+    "rol": "Suministra información societaria y de beneficiarios finales.",
+    "hoy": "Inspección General de Justicia (Ministerio de Justicia)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio Público Fiscal",
+    "estado": "modificado",
+    "rol": "Recibe las pruebas remitidas.",
+    "hoy": "Procuración General de la Nación; PIA (Ley 27.148)",
+    "hijos": []
+   },
+   {
+    "nombre": "Enlace institucional",
+    "estado": "modificado",
+    "rol": "Recibe requerimientos de la Comisión y coordina respuestas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+    "estado": "modificado",
+    "rol": "Entrega información tributaria y de beneficiarios finales por canal seguro.",
+    "hoy": "ARCA, descentralizada del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Inspección General de Justicia (IGJ)",
+    "estado": "modificado",
+    "rol": "Entrega legajos y declaraciones de beneficiario final. Suministra información societaria y de beneficiarios finales.",
+    "hoy": "Inspección General de Justicia (Ministerio de Justicia)",
+    "hijos": []
+   },
+   {
+    "nombre": "Unidad de Información Financiera (UIF)",
+    "estado": "modificado",
+    "rol": "Acuerda con la Comisión un procedimiento de requerimientos (por encomienda, no por instrucción). Suministra información financiera con excepción expresa al secreto del art. 22 Ley 25.246.",
+    "hoy": "UIF, descentralizada con autonomía en jurisdicción del Ministerio de Justicia",
+    "hijos": []
+   },
+   {
+    "nombre": "ARCA",
+    "estado": "modificado",
+    "rol": "Suspende la exención impositiva de las entidades vinculadas que no publiquen sus aportantes.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Convención reformadora",
+    "estado": "nuevo",
+    "rol": "Sanciona la reforma dentro de los temas habilitados, en un plazo de noventa días; se disuelve al concluir.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Sindicatura General de la Nación (SIGEN)",
+    "estado": "modificado",
+    "rol": "Se incorpora a la Autoridad si la Convención aprueba el tema del artículo 3.",
+    "hoy": "SIGEN (Ley 24.156, Título VI), en el Poder Ejecutivo",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comisión Nacional contra la Corrupción y el Uso Patrimonial del Estado",
+   "rol": "Investiga la corrupción como sistema desde 1983, publica informes sectoriales y remite a la Justicia."
+  },
+  {
+   "nombre": "Comisión bicameral",
+   "rol": "Propone a los miembros del orden de mérito, con al menos dos propuestos por la oposición."
+  },
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Presta el acuerdo de dos tercios y aloja la partida propia."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Integra el jurado y coopera en auditorías forenses."
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": "N171",
+ "tipo": "ley_nacional",
+ "titulo": "Ley marco del Programa Nacional de Trabajo Comunitario de Transición",
+ "sumilla": "Crea un programa voluntario para personas sin empleo registrado: 20 horas semanales (12 de tarea comunitaria y 8 de formación), complemento de medio salario mínimo pagado en cuenta y permanencia máxima de 12 meses, con banco público de proyectos y un piloto de 50.000 lugares.",
+ "cuando": "Días 61-100 (envío; paquete 'Red de empleo')",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta. Requiere crédito en la ley de presupuesto.",
+ "motivos": "En el segundo trimestre de 2026, la Encuesta Permanente de Hogares del INDEC registró tasas de desocupación superiores al 9 % en Gran Rosario, Gran Córdoba, Mar del Plata, Bahía Blanca–Cerri, Comodoro Rivadavia–Rada Tilly y Corrientes. El Programa Volver al Trabajo, creado por el Decreto N° 198/2024, finalizó en 2026 y no tuvo reemplazo. El presente proyecto crea un programa de trabajo comunitario de transición, voluntario y abierto a argentinos y residentes legales, para quienes no consiguen empleo. Cada participante dedica veinte horas semanales: doce a tareas útiles para la comunidad y ocho a formación en el Programa de Formación Laboral Básica de la Ley N° 27.802 y a búsqueda asistida de empleo. Percibe un complemento de medio salario mínimo, depositado directamente en su cuenta bancaria, durante un máximo de doce meses. Para evitar el clientelismo y el empleo público encubierto, el proyecto prohíbe sustituir puestos existentes, exige que todo proyecto se publique con su costo y su resultado, y fija un plazo máximo de permanencia. Empieza con un piloto de cincuenta mil lugares en los seis aglomerados con más desocupación, que se evaluará antes de su extensión a todo el país, y se financia con la reasignación de programas de empleo existentes.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y principios",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Créase el Programa Nacional de Trabajo Comunitario de Transición, destinado a las personas sin empleo registrado, con el objeto de ofrecerles tareas útiles para la comunidad, un ingreso complementario, formación y búsqueda asistida de empleo, como puente hacia el empleo registrado."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Voluntariedad",
+     "texto": "La participación en el Programa es voluntaria. Ninguna persona podrá perder ni ver reducida una prestación de la seguridad social o del ingreso universal que establezca la ley por no inscribirse en el Programa o por dejarlo."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Destinatarios",
+     "texto": "Podrán participar las personas mayores de dieciocho (18) años sin empleo registrado que sean argentinas o residentes legales en el país conforme la Ley de Migraciones N° 25.871, sin distinción alguna entre ellas. La reglamentación establecerá las compatibilidades con otras prestaciones."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Naturaleza",
+     "texto": "La participación en el Programa no constituye relación de empleo público ni privado, ni genera derecho a la incorporación a planta alguna. La autoridad de aplicación contratará un seguro de accidentes personales para cada participante durante sus actividades."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Actividades, dedicación y complemento",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Dedicación",
+     "texto": "Cada participante cumplirá veinte (20) horas semanales: doce (12) horas de tarea comunitaria y ocho (8) horas de formación y búsqueda asistida de empleo. La formación se realiza en el Programa de Formación Laboral Básica del artículo 152 de la Ley N° 27.802 o en otras acciones acreditadas, y la búsqueda asistida, por el Portal Empleo y las Oficinas de Empleo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Tareas comunitarias",
+     "texto": "Las tareas comunitarias comprenden mantenimiento urbano, cuidado de personas, obras menores, apoyo escolar y otras de utilidad pública que establezca la reglamentación. Se organizan en proyectos con objetivos, costo y resultado medibles, propuestos por municipios, provincias u organizaciones sociales sin fines de lucro."
+    },
+    {
+     "n": 7,
+     "epigrafe": "No sustitución",
+     "texto": "Las tareas del Programa no podrán sustituir puestos de planta permanente o transitoria del sector público ni empleo privado existente, ni ejecutarse en beneficio de personas o empresas con fines de lucro. La autoridad de aplicación rechazará o dará de baja los proyectos que incumplan esta regla."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Complemento por actividad",
+     "texto": "Cada participante percibirá un complemento mensual por actividad equivalente a la mitad (1/2) del salario mínimo, vital y móvil vigente, adicional y compatible con el ingreso universal que establezca la ley. El complemento se deposita directamente en una cuenta bancaria a nombre del participante, sin intermediarios, y no tiene carácter remuneratorio."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Permanencia",
+     "texto": "La permanencia en el Programa es de hasta doce (12) meses. Podrá renovarse por única vez, por hasta seis (6) meses, para quien se encuentre terminando una formación. Vencido el plazo, la persona no podrá reingresar al Programa hasta transcurridos doce (12) meses."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Prioridad en la intermediación",
+     "texto": "Las personas que completen el Programa tendrán prioridad en la intermediación laboral del Portal Empleo y de las Oficinas de Empleo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Banco público de proyectos y transparencia",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Banco público de proyectos",
+     "texto": "La autoridad de aplicación llevará un banco público de proyectos comunitarios, en el que se publicarán en formato abierto, por cada proyecto, la entidad que lo propone, la localidad, los objetivos, la cantidad de participantes, el costo y los resultados alcanzados. Solo podrán asignarse participantes a proyectos publicados en el banco."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Transparencia y control",
+     "texto": "La autoridad de aplicación publicará cada mes, en formato abierto y con resguardo de los datos personales, la cantidad de participantes por proyecto y localidad, los montos pagados y el destino laboral de quienes egresan. La gestión será digital y auditable."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Implementación",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Piloto",
+     "texto": "Durante el primer año de vigencia, el Programa funcionará como piloto con hasta cincuenta mil (50.000) lugares en los aglomerados con mayor tasa de desocupación según la Encuesta Permanente de Hogares del Instituto Nacional de Estadística y Censos (INDEC): Gran Rosario, Gran Córdoba, Mar del Plata, Bahía Blanca–Cerri, Comodoro Rivadavia–Rada Tilly y Corrientes, mediante convenios con los municipios respectivos."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Escala nacional",
+     "texto": "Concluido el primer año, la autoridad de aplicación publicará una evaluación del piloto. El Poder Ejecutivo nacional podrá extender el Programa a todo el país según esos resultados y con los créditos que asigne la ley de presupuesto, mediante convenios con provincias y municipios."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Meta",
+     "texto": "Es meta del Programa que al menos cuatro (4) de cada diez (10) participantes se encuentren en empleo registrado a los doce (12) meses de su egreso."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Financiamiento",
+     "texto": "El Programa se financia con: a) la reasignación de los créditos presupuestarios que correspondían al Programa Volver al Trabajo creado por el artículo 1° del Decreto N° 198/2024 y de los programas de empleo y planes sociales que reemplace el ingreso universal que establezca la ley, que la ley de presupuesto identificará en forma expresa; y b) los recursos que aporten provincias y municipios en virtud de los convenios celebrados. Si al momento de la sanción no hubiera créditos reasignados, el piloto se pondrá en marcha con la ley de presupuesto del ejercicio siguiente. El costo adicional del Programa se computa dentro del límite de gasto que la ley de presupuesto fije para las políticas de transición laboral."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación la Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social, que podrá encomendar el pago del complemento a la Administración Nacional de la Seguridad Social (ANSES)."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

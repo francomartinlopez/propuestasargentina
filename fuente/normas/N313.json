@@ -1,0 +1,95 @@
+{
+ "id": "N313",
+ "tipo": "resolucion",
+ "titulo": "Comunicación modelo del BCRA: cláusula de protección de cuota en los préstamos hipotecarios para vivienda ajustables",
+ "sumilla": "Texto modelo de Comunicación \"A\" por la que el BCRA incorpora a sus normas la cláusula de protección de cuota de la ley «Ley de crédito hipotecario con cuota protegida y fondo de garantía»: créditos alcanzados, cálculo de la cuota protegida con los parámetros del decreto reglamentario «Decreto reglamentario de la Ley de crédito hipotecario con cuota protegida y Fondo de Garantía para la Primera Vivienda», extensión del plazo sin cargos, recuperación, información al deudor, adhesión de los créditos vigentes y régimen informativo.",
+ "cuando": "Fase I (después del decreto reglamentario «Decreto reglamentario de la Ley de crédito hipotecario con cuota protegida y Fondo de Garantía para la Primera Vivienda»; la cláusula rige para los créditos que se otorguen desde los 30 días de esta norma, art. 17 de «Ley de crédito hipotecario con cuota protegida y fondo de garantía»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: Comunicación \"A\" del Banco Central de la República Argentina, dictada por su Directorio en ejercicio de su autarquía. No pasa por el Congreso.",
+ "motivos": "",
+ "visto": "",
+ "considerando": [
+  "Que el artículo 4°, inciso b), de la Carta Orgánica del Banco Central de la República Argentina (Ley N° 24.144) le asigna la función de regular y orientar el crédito.",
+  "Que la Ley N° [●] de crédito hipotecario con cuota protegida dispuso que los créditos hipotecarios para vivienda ajustados por inflación incluyan una cláusula de protección de cuota y encomendó a esta Institución, en su artículo 9°, dictar las normas para su aplicación por las entidades financieras.",
+  "Que el Decreto N° [●] reglamentó los parámetros de la cláusula y encomendó a esta Institución las normas de cálculo, información y régimen informativo.",
+  "Que el Directorio de esta Institución resolvió adoptar las disposiciones que se comunican."
+ ],
+ "formula": "A LAS ENTIDADES FINANCIERAS:\nRef.: Circular [●]. Préstamos hipotecarios para vivienda ajustables. Cláusula de protección de cuota.\nNos dirigimos a ustedes para comunicarles que esta Institución adoptó la siguiente resolución:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Punto 1 – Alcance",
+     "texto": "Las disposiciones de esta sección se aplican a los préstamos con garantía hipotecaria destinados a la adquisición, construcción, ampliación o refacción de vivienda única y de ocupación permanente, otorgados a personas humanas, cuyo capital se ajuste por Unidades de Valor Adquisitivo, por Unidades de Vivienda, por el Coeficiente de Estabilización de Referencia o por cualquier otro índice de precios, conforme el artículo 2° de la Ley N° [●]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Punto 2 – Cláusula obligatoria",
+     "texto": "Los contratos de los préstamos alcanzados deben incluir la cláusula de protección de cuota con el texto mínimo que figura en el Anexo de esta Comunicación. Si no la incluyen, se tiene por incorporada de pleno derecho."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Punto 3 – Activación",
+     "texto": "En cada liquidación, la entidad verifica si se configura alguno de los supuestos de activación previstos en el artículo 4° de la Ley N° [●], con los parámetros fijados por el Decreto N° [●]: a) que la cuota supere el porcentaje del ingreso del deudor; o b) que la variación acumulada del índice de ajuste supere la del Índice de Salarios del INDEC en el porcentaje reglamentario. Para el supuesto a), el ingreso se determina conforme ese decreto, y la entidad debe recibir y procesar la acreditación de un ingreso menor dentro de los treinta (30) días."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Punto 4 – Cuota protegida",
+     "texto": "Activada la cláusula, la cuota se fija en el mayor valor que no exceda el límite del supuesto que la activó. La diferencia entre la cuota contractual y la cuota protegida se capitaliza sobre el saldo de capital, en la unidad de ajuste del préstamo, y se recalcula el número de cuotas restantes, sin aplicar intereses punitorios, comisiones ni cargos de ninguna clase."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Punto 5 – Extensión máxima",
+     "texto": "La extensión del plazo no puede exceder el máximo fijado por el Decreto N° [●]. Alcanzado ese máximo, la entidad comunica al deudor y al fiduciario del Fondo de Garantía para la Primera Vivienda la diferencia subsistente, para su cobertura por el Fondo, si correspondiera, o para acordar con el deudor una reestructuración que respete los mismos límites."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Punto 6 – Recuperación",
+     "texto": "Cuando cesa el supuesto que activó la cláusula, la cuota se ajusta nuevamente según el contrato, sin superar los límites del punto 3, hasta recuperar el plazo original en la medida de lo posible."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Punto 7 – Clasificación",
+     "texto": "La extensión del plazo por aplicación de la cláusula de protección de cuota no constituye por sí misma una refinanciación ni un indicio de deterioro a los fines de la clasificación del deudor."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Punto 8 – Información al deudor",
+     "texto": "La entidad informa en cada resumen o liquidación la cuota contractual, la cuota protegida, la variación acumulada del índice de ajuste y del Índice de Salarios desde el otorgamiento, el saldo de capital y el plazo restante. Comunica por escrito, dentro de los cinco (5) días hábiles, la activación y el cese de la cláusula y el nuevo plazo resultante."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Punto 9 – Préstamos vigentes",
+     "texto": "Los deudores de préstamos alcanzados otorgados antes de la vigencia de la Ley N° [●] pueden solicitar la incorporación de la cláusula. La entidad no puede rechazarla cuando el deudor esté al día y debe formalizarla dentro de los treinta (30) días de la solicitud, sin costo para el deudor. La entidad informa esta opción a todos sus deudores alcanzados dentro de los sesenta (60) días de la vigencia de esta Comunicación."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Punto 10 – Régimen informativo",
+     "texto": "Las entidades informan a esta Institución cada mes la cantidad y el saldo de los préstamos alcanzados, los préstamos con la cláusula activada, la extensión de plazo acumulada y las solicitudes de incorporación recibidas, aceptadas y rechazadas. Esta Institución publica la información en forma agregada cada trimestre."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Punto 11 – Vigencia",
+     "texto": "Estas disposiciones se aplican a los préstamos que se otorguen a partir de los treinta (30) días de la fecha de esta Comunicación, y el punto 9, desde esa misma fecha."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Anexo – Texto mínimo de la cláusula",
+     "texto": "«Cláusula de protección de cuota (Ley N° [●]). Si la cuota supera el porcentaje del ingreso del deudor fijado por la reglamentación, o si el índice de ajuste de este préstamo crece más que el Índice de Salarios del INDEC en el porcentaje reglamentario, la cuota no aumenta por encima de ese límite: la diferencia se suma al saldo y se extiende el plazo, sin intereses punitorios, comisiones ni cargos. Cuando la situación cesa, la cuota vuelve a ajustarse según el contrato hasta recuperar el plazo original en la medida de lo posible. Esta cláusula no puede dejarse sin efecto.»"
+    },
+    {
+     "n": 13,
+     "epigrafe": "Cierre",
+     "texto": "Saludamos a ustedes atentamente. BANCO CENTRAL DE LA REPÚBLICA ARGENTINA. [Gerencia Principal de Emisión y Aplicaciones Normativas] [Subgerencia General de Regulación Financiera]."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Normas del BCRA aplicables a los préstamos hipotecarios para vivienda ajustables por UVA, UVI y CER (texto ordenado a identificar): se incorpora la sección de protección de cuota"
+ ],
+ "deroga": [],
+ "variantes": null
+}

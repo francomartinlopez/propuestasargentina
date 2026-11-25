@@ -1,0 +1,137 @@
+{
+ "id": "N170",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de formación continua",
+ "sumilla": "Crea la acreditación de saberes y oficios con certificado de validez nacional, la acreditación independiente de las instituciones de formación y un financiamiento con pago condicionado a la inserción registrada de los egresados, usables en el Programa de Formación Laboral Básica y en las cuentas de formación de la ley de desempleo, que no repite.",
+ "cuando": "Fase II (años 2-3): envío al inicio de la Fase II, cuando las cuentas de formación de «Ley de reforma del sistema integral de prestaciones por desempleo» ya funcionan; el gasto se activa con el presupuesto del ejercicio siguiente. Meta: 100.000 adultos por año desde el primer ejercicio completo.",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple; cámara de origen indistinta (no toca contribuciones ni crea tributos).",
+ "motivos": "Las transformaciones tecnológicas, y en particular la inteligencia artificial, cambian las tareas a un ritmo mayor que las transiciones anteriores, y la formación de las personas adultas debe acompañarlas. La Ley N° 27.802 creó el Programa de Formación Laboral Básica, que incluye la alfabetización digital, y asignó a la autoridad laboral la definición del mecanismo de certificación de competencias. La reforma del sistema de prestaciones por desempleo creó las cuentas individuales de formación, que cada persona usa en ese programa o en instituciones acreditadas. Falta un marco común que asegure que lo aprendido se reconozca y que los recursos públicos financien formación de calidad con salida laboral. El presente proyecto organiza la acreditación de los saberes y oficios adquiridos por la experiencia, con normas de competencia elaboradas con los sectores productivos y certificados de validez nacional; establece que las instituciones que reciban fondos nacionales sean acreditadas por evaluadores independientes; y condiciona una parte de cada pago a la inserción laboral registrada de los egresados, con información pública por institución y curso. No crea fondos: se financia con las cuentas de formación existentes y con el reordenamiento de programas de capacitación identificados en cada ley de presupuesto.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y principios",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley organiza la formación continua de las personas adultas mediante: a) la acreditación de los saberes y oficios adquiridos por la experiencia laboral o por la formación no formal; b) la acreditación independiente de las instituciones de formación; y c) un financiamiento de la formación atado a la inserción laboral de sus egresados. Sus instrumentos se aplican al Programa de Formación Laboral Básica creado por el artículo 152 de la Ley N° 27.802 y a las cuentas individuales de formación del artículo 119 bis de la Ley N° 24.013, incorporado por la Ley N° [—], que se rigen por esa ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Principios",
+     "texto": "La formación continua se rige por los siguientes principios: a) formación a lo largo de toda la vida; b) prioridad de los saberes que permiten trabajar con la inteligencia artificial y las nuevas tecnologías y de los oficios que las complementan; c) libertad de la persona para elegir entre instituciones públicas y privadas acreditadas, en igualdad de condiciones; d) evaluación por resultados y publicidad de la información."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Acreditación de saberes y oficios",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Sistema de acreditación de saberes",
+     "texto": "La Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social, autoridad de aplicación del Programa de Formación Laboral Básica, en ejercicio de la competencia que le asigna el artículo 153 de la Ley N° 27.802 para definir el mecanismo de certificación de competencias, organizará un sistema de acreditación de saberes y oficios con normas de competencia por ocupación, elaboradas con la participación de las cámaras empresarias y de las asociaciones sindicales de cada sector. La evaluación estará a cargo de evaluadores acreditados e independientes de la institución que haya brindado la formación, y concluirá con un certificado digital de validez nacional, inscripto en un registro público."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Uso de los certificados",
+     "texto": "Los certificados de saberes y oficios acreditan los módulos equivalentes del Programa de Formación Laboral Básica, permiten acceder a trayectos de formación profesional de mayor nivel conforme los acuerdos del artículo 13 y son válidos como antecedente en los procesos de selección de la Administración Pública Nacional."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Saberes digitales y de inteligencia artificial",
+     "texto": "Las normas de competencia incorporarán, según la ocupación, la alfabetización digital y el uso de herramientas de inteligencia artificial. La autoridad de aplicación actualizará las normas al menos cada tres (3) años."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Acreditación independiente de instituciones",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Instituciones acreditadas",
+     "texto": "Solo las instituciones de formación públicas o privadas acreditadas conforme el presente capítulo podrán recibir pagos con cargo a las cuentas individuales de formación, al Programa de Formación Laboral Básica o a otros programas nacionales de formación para el empleo. La acreditación se inscribirá en el Registro Federal de Instituciones de Educación Técnico Profesional que administra el Instituto Nacional de Educación Tecnológica (INET) conforme los artículos 32 a 35 de la Ley N° 26.058."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Evaluación independiente",
+     "texto": "La acreditación estará a cargo de entidades evaluadoras independientes de la institución evaluada y de quien la financie, como universidades, organismos técnicos o entidades privadas inscriptas a ese fin por el INET y la autoridad de aplicación. La evaluación considerará la calidad de los contenidos, la idoneidad docente, el equipamiento y la inserción laboral de los egresados. La acreditación durará tres (3) años, y sus resultados y dictámenes se publicarán."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Incompatibilidades",
+     "texto": "Ninguna entidad evaluadora podrá acreditar a una institución con la que tenga o haya tenido en los dos (2) años anteriores vínculos societarios, contractuales o de dependencia, ni la autoridad que financia podrá acreditar a las instituciones que financia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Financiamiento atado a la inserción",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Pago por resultados",
+     "texto": "Los pagos a las instituciones acreditadas con cargo a las cuentas individuales de formación y a los programas nacionales de formación para el empleo se dividirán en un pago al completarse la formación y un pago condicionado a la inserción laboral registrada de cada egresado dentro de los doce (12) meses, medida con la información de la Administración Nacional de la Seguridad Social (ANSES) y de la Agencia de Recaudación y Control Aduanero (ARCA). La reglamentación fijará la proporción de cada pago."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Información pública",
+     "texto": "La autoridad de aplicación publicará cada semestre, en formato abierto y por institución y curso, la cantidad de inscriptos, la tasa de finalización, la inserción laboral registrada a los doce (12) meses y la remuneración media de los egresados, sin datos que permitan identificar a las personas."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Pérdida de la acreditación",
+     "texto": "La institución cuya inserción laboral se ubique durante dos (2) años consecutivos por debajo del mínimo que fije la reglamentación para su especialidad y región perderá la acreditación a los fines de esta ley, sin perjuicio de su reconocimiento educativo."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Fuente y cronograma del gasto",
+     "texto": "Los pagos de la presente ley se atienden con: a) los recursos de las cuentas individuales de formación, conforme la Ley N° 24.013; b) los créditos de los programas de capacitación y formación para el empleo de la Administración Pública Nacional que la ley de presupuesto de cada ejercicio identifique en forma expresa para su reordenamiento, con indicación del programa y del monto. La presente ley no crea fondos ni recursos afectados. Su mayor gasto se activa con la ley de presupuesto del ejercicio siguiente al de su entrada en vigencia y avanza, ejercicio por ejercicio, según las metas del artículo 14."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Coordinación, metas y disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Coordinación federal",
+     "texto": "La autoridad de aplicación y el INET promoverán en el Consejo Federal de Educación acuerdos para el reconocimiento recíproco de los certificados de saberes y de la acreditación de instituciones con las provincias y la Ciudad Autónoma de Buenos Aires, a las que se invita a adoptar los criterios de la presente ley para sus propios programas."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Metas",
+     "texto": "Son metas de la presente ley que, desde el primer ejercicio completo de su vigencia, al menos cien mil (100.000) personas adultas por año completen una formación acreditada, y que la inserción laboral registrada de los egresados a los doce (12) meses aumente cada año. La autoridad de aplicación informará anualmente su cumplimiento a las comisiones de Trabajo y de Educación de ambas Cámaras del Congreso de la Nación."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Autoridades de aplicación",
+     "texto": "La Secretaría de Trabajo y Empleo, autoridad de aplicación del Programa de Formación Laboral Básica, lo es de los Capítulos II y IV. El INET y esa autoridad lo son, en forma conjunta, del Capítulo III."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Instituciones acreditadas a los fines de la Ley N° 24.013",
+     "texto": "Las instituciones acreditadas a las que se refiere el artículo 119 bis de la Ley N° 24.013 son las acreditadas conforme el Capítulo III de la presente ley. Las acreditadas en forma transitoria por la reglamentación de esa norma conservan su condición hasta que se resuelva su acreditación conforme la presente, por un plazo máximo de dieciocho (18) meses."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.802, arts. 152 y 153 (complementa: certificación de competencias y uso en el Programa de Formación Laboral Básica)",
+  "Ley 26.058, arts. 32 a 35 (complementa: acreditación en el Registro Federal de Instituciones de Educación Técnico Profesional)",
+  "Ley 24.013, art. 119 bis según Ley N° [—]: precisa qué son 'institutos acreditados'"
+ ],
+ "deroga": [],
+ "variantes": null
+}

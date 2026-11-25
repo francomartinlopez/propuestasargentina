@@ -1,0 +1,31 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Administración Nacional de la Seguridad Social (ANSES)",
+    "estado": "modificado",
+    "rol": "Aplica la fórmula y los tramos del bono; informa a la OPC. Resoluciones mensuales de movilidad, cálculo del componente de recuperación y tramos del bono.",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Publica cada año el aumento real de la recaudación. Publica antes del 15 de febrero el aumento real de la recaudación con su metodología.",
+    "hoy": "Ministerio de Economía (Secretaría de Hacienda)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Oficina de Presupuesto del Congreso (OPC)",
+   "rol": "Informe trimestral público del cálculo de la movilidad (ejecuta el organigrama «Ley de movilidad jubilatoria con piso de inflación»)."
+  }
+ ]
+}

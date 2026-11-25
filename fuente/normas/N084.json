@@ -1,0 +1,91 @@
+{
+ "id": "N084",
+ "tipo": "acuerdo_federal",
+ "titulo": "Convenio federal modelo para integrar registros provinciales y municipios a la Ventanilla Única «Empresa en 24 horas»",
+ "sumilla": "Convenio tipo Nación-provincia, con adhesión de municipios: mismo estatuto modelo y plazo de 24 horas en los registros públicos provinciales, habilitaciones de bajo riesgo con plazo máximo, aprobación automática y control posterior, y el estándar de balances auditados y beneficiario final para ligas y clubes de fútbol.",
+ "cuando": "Fase I",
+ "cuando_breve": "Fase I",
+ "tramite": "Convenio Nación-provincia (art. 125 CN), con adhesión municipal por ordenanza. Lo firman el titular de la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros y el Gobernador; ratificación nacional en la ley «Ley de Ventanilla Única Digital para Empresas» (Fase II) y provincial según cada Constitución.",
+ "motivos": null,
+ "visto": "",
+ "considerando": [
+  "Que en el presente Convenio intervienen el ESTADO NACIONAL, representado por el titular de la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros, y la PROVINCIA DE [Provincia], representada por su Gobernador, en adelante «las partes», con la adhesión de los municipios que lo suscriban.",
+  "Que el Decreto N° […] creó la Ventanilla Única Digital «Empresa en 24 horas», que integra la inscripción societaria, la identificación tributaria, el alta como empleador, la apertura de cuenta y las habilitaciones de las jurisdicciones que adhieran, y facultó a la autoridad de aplicación a suscribir convenios con las provincias y los municipios.",
+  "Que el artículo 38 de la Ley N° 27.349 obliga a los registros públicos a inscribir las sociedades por acciones simplificadas dentro de las veinticuatro (24) horas cuando se utiliza el modelo tipo de instrumento constitutivo.",
+  "Que la inscripción societaria fuera de la Ciudad Autónoma de Buenos Aires y las habilitaciones comerciales son competencias provinciales y municipales, por lo que su integración solo puede convenirse.",
+  "Que la Inspección General de Justicia solo controla a las entidades con domicilio en la Ciudad Autónoma de Buenos Aires, y que la transparencia de las ligas y los clubes de fútbol del resto del país requiere la cooperación de los registros provinciales de personas jurídicas."
+ ],
+ "formula": "Por ello, LAS PARTES ACUERDAN:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cláusula primera – Objeto",
+     "texto": "Las partes acuerdan integrar el registro público de la Provincia y las habilitaciones comerciales de los municipios que adhieran a la Ventanilla Única Digital «Empresa en 24 horas» creada por el Decreto N° […], con el mismo estatuto modelo y el mismo plazo de inscripción que rigen en el orden nacional y con un régimen de aprobación automática y control posterior para las habilitaciones de bajo riesgo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cláusula segunda – Registro público provincial",
+     "texto": "La Provincia, por medio de su registro público, se compromete a: a) admitir la constitución de sociedades por acciones simplificadas con el modelo tipo de instrumento constitutivo y firma digital a través de la Ventanilla Única, sin certificación notarial; b) inscribirlas dentro de las VEINTICUATRO (24) horas hábiles de presentada la documentación completa, conforme al artículo 38 de la Ley N° 27.349; c) aplicar control posterior por riesgo; y d) adecuar su normativa dentro de los CIENTO OCHENTA (180) días de la firma."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cláusula tercera – Habilitaciones de bajo riesgo",
+     "texto": "La Provincia promoverá que sus municipios adhieran al presente Convenio y adopten por ordenanza, para las actividades de bajo riesgo: a) un listado público de esas actividades; b) un trámite digital único a través de la Ventanilla Única; c) un plazo máximo para resolver, fijado y publicado por cada municipio; d) la aprobación automática si el organismo no se pronuncia en ese plazo; y e) el control posterior de las condiciones de seguridad, higiene y localización, con facultades de clausura ante incumplimientos graves. Las habilitaciones provinciales de bajo riesgo se regirán por las mismas reglas."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cláusula cuarta – Adhesión de los municipios",
+     "texto": "Los municipios adhieren al presente Convenio mediante acta de adhesión suscripta por su Intendente, previa ordenanza que adopte las reglas de la cláusula tercera. La adhesión se comunicará a la Nación, que habilitará su integración a la Ventanilla Única."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula quinta – Personas jurídicas deportivas",
+     "texto": "El registro de personas jurídicas de la Provincia aplicará a las ligas y a los clubes con domicilio en su territorio que participen en competencias de fútbol el mismo estándar que la Inspección General de Justicia (IGJ) exija en el orden nacional: a) balances anuales auditados y publicados, con el detalle de los derechos de televisión, las transferencias, las comisiones y los intermediarios; y b) la identificación del beneficiario final de las personas que los financien, les presten, los patrocinen o comercialicen sus derechos, incluidas las casas de apuestas. Las partes compartirán esa información con la IGJ y con la Unidad de Información Financiera (UIF)."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cláusula sexta – Obligaciones de la Nación",
+     "texto": "La Nación pone a disposición de la Provincia y de los municipios adheridos, sin costo, la Ventanilla Única, la firma digital, la validación de identidad en línea y la asistencia técnica para la integración de sus sistemas."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula séptima – Datos personales",
+     "texto": "Los datos que las partes intercambien a través de la Ventanilla Única solo podrán usarse para el trámite respectivo y para las funciones propias de cada organismo, conforme a la Ley N° 25.326 de Protección de los Datos Personales y a la legislación provincial aplicable. Cada intercambio quedará registrado."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cláusula octava – Publicación de resultados",
+     "texto": "Las partes publicarán cada mes, por jurisdicción y en formato abierto, la cantidad de sociedades inscriptas, el plazo efectivo de inscripción, las habilitaciones otorgadas por aprobación expresa y por aprobación automática, y los resultados del control posterior."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cláusula novena – Financiamiento",
+     "texto": "Cada parte atenderá las obligaciones que asume con su propio presupuesto. El presente Convenio no genera transferencias de fondos entre las partes."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cláusula décima – Vigencia",
+     "texto": "El presente Convenio rige desde su firma y por CUATRO (4) años, y se renueva automáticamente por períodos iguales, salvo denuncia con una anticipación no menor de ciento ochenta (180) días."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Cláusula undécima – Controversias",
+     "texto": "Las partes resolverán de común acuerdo las controversias sobre la interpretación o la ejecución del presente Convenio. En su defecto, quedarán sometidas a la competencia originaria de la Corte Suprema de Justicia de la Nación."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cláusula duodécima – Ratificación",
+     "texto": "El Estado nacional someterá los convenios suscriptos a la ratificación del Honorable Congreso de la Nación en la ley de ventanilla única para empresas. La Provincia someterá el presente Convenio a la aprobación de su Legislatura si así lo exige su Constitución, y los municipios lo aprobarán por ordenanza de su Concejo Deliberante."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Normas provinciales de registro público y ordenanzas municipales de habilitación (por adecuación de cada jurisdicción)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

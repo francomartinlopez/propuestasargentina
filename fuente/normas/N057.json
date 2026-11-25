@@ -1,0 +1,136 @@
+{
+ "id": "N057",
+ "tipo": "resolucion",
+ "titulo": "Resolución General de la Agencia de Recaudación y Control Aduanero: liquidación propuesta del impuesto a las ganancias para las personas humanas",
+ "sumilla": "Ejecuta la ley «Ley de liquidación propuesta del impuesto para las personas humanas (reforma del artículo 11 de la Ley 11.683)»: regula el recibo digital con cada dato y su fuente, la integración de la información de empleadores, bancos y registros, la aceptación, corrección o impugnación en 30 días, la resolución de las impugnaciones, el registro de accesos y la extensión por etapas (desde el período 2028; 50 % de los inscriptos al 31/12/2029 y 80 % al 31/12/2031), con la recategorización propuesta para el monotributo.",
+ "cuando": "Fase I: dentro de los 120 días de la publicación de la ley «Ley de liquidación propuesta del impuesto para las personas humanas (reforma del artículo 11 de la Ley 11.683)» (art. 9 de esa ley); primer período alcanzado: el que cierra en el año de entrada en vigencia de la ley (2028).",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: resolución general de ARCA, publicada en el Boletín Oficial.",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° 11.683 (t.o. 1998) y sus modificaciones, la Ley N° [—] de liquidación propuesta del impuesto para las personas humanas (en adelante, «la Ley»), la Ley N° 27.799 y sus modificaciones, el Decreto N° 1253/2026, la Resolución General N° 5820/2026 y su modificatoria N° 5916/2026, y",
+ "considerando": [
+  "Que la Ley incorporó al artículo 11 de la Ley N° 11.683 (t.o. 1998) la liquidación que propone esta Agencia como regla para la determinación del impuesto a las ganancias de las personas humanas, sobre la base de la información de empleadores, entidades financieras, agentes de información y registros públicos, con plazo de treinta (30) días para aceptarla, corregirla o impugnarla, y la facultó a extenderla a otros gravámenes y a los pequeños contribuyentes.",
+  "Que la Ley dispuso que la liquidación propuesta se aplique sobre la base del régimen de declaración jurada simplificada del Capítulo III del Título II de la Ley N° 27.799, reglamentado por la Resolución General N° 5820/2026 y su modificatoria, y fijó metas de cobertura de la mitad de las personas humanas inscriptas al 31 de diciembre de 2029 y del ochenta por ciento (80 %) al 31 de diciembre de 2031.",
+  "Que la Ley estableció que los datos se usen solo con fines tributarios, que cada acceso quede registrado y que el contribuyente pueda conocer ese registro.",
+  "Que han tomado intervención las áreas técnicas y el servicio jurídico de esta Agencia.",
+  "Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 9° de la Ley y por el artículo 6° del Decreto N° 1253/2026."
+ ],
+ "formula": "Por ello, EL DIRECTOR EJECUTIVO DE LA AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "Título I – Alcance y etapas",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente establece el procedimiento de la liquidación propuesta del impuesto a las ganancias de las personas humanas previsto en el artículo 11 de la Ley N° 11.683 (t.o. 1998), en el texto de la Ley, y complementa la Resolución General N° 5820/2026 y su modificatoria."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Etapas",
+     "texto": "La liquidación propuesta se aplicará: a) desde el período fiscal 2028, a las personas humanas inscriptas en el impuesto cuyas rentas provengan principalmente del trabajo en relación de dependencia, de jubilaciones y pensiones o de rentas informadas por agentes de retención o de información; b) en los períodos siguientes, a las demás personas humanas inscriptas, de modo que al 31 de diciembre de 2029 la reciba al menos la mitad de ellas y al 31 de diciembre de 2031 al menos el ochenta por ciento (80 %). Antes del inicio de cada período fiscal, esta Agencia publicará los grupos de contribuyentes alcanzados."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Pequeños contribuyentes",
+     "texto": "En ejercicio de la facultad del artículo 11 de la Ley N° 11.683, en el texto de la Ley, extiéndese el procedimiento de esta resolución a la recategorización de los pequeños contribuyentes inscriptos en el Régimen Simplificado, a quienes esta Agencia propondrá la categoría que corresponda según la facturación electrónica y los demás datos que reciba, con las mismas reglas de notificación, aceptación, corrección e impugnación."
+    }
+   ]
+  },
+  {
+   "titulo": "Título II – Integración de la información",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Fuentes",
+     "texto": "La liquidación propuesta se elaborará con: a) las declaraciones de los empleadores y de los agentes de retención sobre remuneraciones, haberes previsionales, retenciones y deducciones; b) la información de las entidades financieras y demás agentes de información sobre cuentas, inversiones, rendimientos y operaciones; c) la información de los registros públicos de bienes, incluido el registro patrimonial; d) los comprobantes electrónicos emitidos y recibidos; e) las deducciones, cargas de familia y demás datos aportados por el propio contribuyente."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Plazos de los agentes",
+     "texto": "Los empleadores, agentes de retención, entidades financieras y agentes de información suministrarán la información de cada período fiscal dentro de los sesenta (60) días corridos de su cierre, en los formatos que establezca esta Agencia. Los regímenes de información vigentes se adecuarán a ese plazo dentro de los noventa (90) días de la publicación de la presente."
+    }
+   ]
+  },
+  {
+   "titulo": "Título III – Recibo digital y procedimiento",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Recibo digital",
+     "texto": "La liquidación propuesta se emitirá como recibo digital que contendrá: a) cada dato utilizado, con indicación de su fuente; b) el cálculo de la ganancia neta, las deducciones computadas y el impuesto determinado; c) las retenciones, percepciones y pagos a cuenta computados; d) el saldo a pagar o a favor; e) la fecha límite para responder y las opciones de aceptar, corregir, impugnar o presentar declaración jurada."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Notificación",
+     "texto": "El recibo se notificará en el domicilio fiscal electrónico del contribuyente y se le dará aviso, además, por los medios de contacto que haya registrado. Esta Agencia publicará antes del inicio de cada año el calendario de emisión de los recibos, que no podrá ser posterior al vencimiento general de la declaración jurada del período."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Respuesta del contribuyente",
+     "texto": "Dentro de los treinta (30) días corridos de notificado el recibo, el contribuyente podrá, por medio digital y sin necesidad de patrocinio letrado: a) aceptarlo; b) corregir uno o más datos, indicando el valor correcto y, si lo desea, adjuntando su respaldo; c) impugnarlo en forma total o parcial, con indicación de sus motivos. Vencido el plazo sin respuesta, la liquidación se tendrá por aceptada. La liquidación aceptada o corregida tiene los efectos de la declaración jurada y goza de presunción de exactitud."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Resolución de las impugnaciones",
+     "texto": "Esta Agencia resolverá cada impugnación en forma fundada dentro de los treinta (30) días corridos de presentada y notificará la resolución en el domicilio fiscal electrónico. Si no resolviera en ese plazo, regirá la liquidación corregida por el contribuyente. Todo ajuste posterior se hará mediante el procedimiento de determinación de oficio, con la carga de la prueba a cargo de esta Agencia."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Pago y devolución",
+     "texto": "El saldo a pagar se ingresará hasta el vencimiento general del período o dentro de los diez (10) días hábiles de aceptada o firme la liquidación, el que sea posterior, sin intereses hasta esa fecha. El saldo a favor se devolverá o acreditará conforme a las normas vigentes."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Declaración jurada y rectificación",
+     "texto": "El contribuyente podrá en todos los casos optar por presentar su declaración jurada en lugar de responder el recibo, y rectificar la liquidación aceptada dentro del plazo de prescripción, mediante el mismo servicio digital."
+    }
+   ]
+  },
+  {
+   "titulo": "Título IV – Privacidad y trazabilidad",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Finalidad y acceso",
+     "texto": "Los datos reunidos para la liquidación propuesta solo podrán usarse con fines tributarios y están sujetos al secreto fiscal. Cada agente de esta Agencia accederá a ellos con usuario personal y solo en la medida necesaria para las tareas que tenga asignadas."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Registro de accesos",
+     "texto": "Cada acceso a los datos de un contribuyente quedará registrado en forma inalterable, con identificación del agente, fecha, datos consultados y motivo. El contribuyente podrá consultar ese registro en forma gratuita por el servicio digital de esta Agencia. Las reservas que correspondan por las excepciones de la Ley N° 25.326 se dispondrán por acto fundado."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Responsabilidad",
+     "texto": "El acceso o uso de los datos en violación de este título dará lugar a las actuaciones disciplinarias que correspondan, sin perjuicio de las sanciones previstas en la Ley N° 11.683 (t.o. 1998) y en la Ley N° 25.326."
+    }
+   ]
+  },
+  {
+   "titulo": "Título V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Informe anual",
+     "texto": "Esta Agencia publicará cada año, antes del 30 de junio, y remitirá al Honorable Congreso de la Nación el informe previsto en el artículo 7° de la Ley, con la proporción de contribuyentes que recibió la liquidación propuesta, la que la aceptó, la que la corrigió, la tasa de impugnación y su resultado, los plazos de resolución y los accesos a datos observados por el órgano de control de la Ley N° 25.326."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Vigencia",
+     "texto": "La presente entrará en vigencia el día de su publicación en el Boletín Oficial y se aplicará desde el período fiscal 2028."
+    },
+    {
+     "n": 17,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "RG ARCA 5820/2026 (modificada por RG 5916/2026): se complementa con la liquidación propuesta, sin sustituir artículos"
+ ],
+ "deroga": [],
+ "variantes": null
+}

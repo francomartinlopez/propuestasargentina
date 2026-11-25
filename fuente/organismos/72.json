@@ -1,0 +1,103 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Dirección de monitoreo electrónico",
+    "estado": "modificado",
+    "rol": "Único proveedor y monitor de dispositivos duales y botones antipánico, también para las provincias adheridas. Provee y monitorea los dispositivos de las provincias adheridas.",
+    "hoy": "Dirección de Asistencia de Personas Bajo Vigilancia Electrónica (Subsecretaría de Asuntos Penitenciarios, Ministerio de Seguridad Nacional; Decreto 327/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "estado": "existente",
+    "rol": "Puede pagar los adelantos del Fondo por convenio; prioridad en el IUU.",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Justicia de familia y penal; registro judicial de femicidios",
+    "estado": "existente",
+    "rol": "Dictan las medidas; aportan datos para la revisión de casos por convenio.",
+    "hoy": "Justicia nacional y federal; poderes judiciales provinciales; Oficina de la Mujer (Registro Nacional de Femicidios)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Evaluación de riesgo, paquete de asistencia, Registro, Fondo, revisión de casos e información. Firma por la Nación, lleva el Registro Nacional y preside la comisión de seguimiento.",
+    "hoy": "Ministerio de Justicia (Subsecretaría de Acceso a la Justicia)",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Justicia",
+      "estado": "modificado",
+      "rol": "Evaluación de riesgo, paquete de asistencia, Registro Nacional de Deudores, Fondo de Garantía y revisión pública de casos. Línea 144 como punto único de contacto y coordinación del patrocinio. Fija la dotación mínima y conduce el servicio.",
+      "hoy": "Ministerio de Justicia",
+      "hijos": [
+       {
+        "nombre": "Registro nacional de deudores alimentarios",
+        "estado": "nuevo",
+        "rol": "Inscribe por orden judicial e integra los registros provinciales por convenio.",
+        "hoy": "",
+        "hijos": []
+       },
+       {
+        "nombre": "Fondo de garantía de alimentos",
+        "estado": "nuevo",
+        "rol": "Adelanta la cuota a niñas, niños y adolescentes y la recupera del obligado.",
+        "hoy": "",
+        "hijos": []
+       },
+       {
+        "nombre": "Línea nacional de atención a víctimas de violencia",
+        "estado": "modificado",
+        "rol": "Atiende 24 h, asigna el número único de caso, evalúa riesgo y deriva.",
+        "hoy": "Línea 144 (Subsecretaría de Acceso a la Justicia, Secretaría de Políticas de Vinculación Ciudadana, Ministerio de Justicia; dependencia según la propuesta)",
+        "hijos": []
+       }
+      ]
+     },
+     {
+      "nombre": "Patrocinio jurídico gratuito a víctimas",
+      "estado": "modificado",
+      "rol": "Patrocinio gratuito automático a pedido de la víctima.",
+      "hoy": "Cuerpo de la Ley 27.210",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Jefatura de Gabinete",
+    "estado": "existente",
+    "rol": "Asigna el programa de dispositivos y transfiere los créditos al organismo único.",
+    "hoy": "Jefatura de Gabinete de Ministros",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social; Agencia de Recaudación y Control Aduanero",
+    "estado": "existente",
+    "rol": "Sistema electrónico de órdenes de retención; ANSES paga los adelantos del Fondo.",
+    "hoy": "ANSES (Ministerio de Capital Humano) y ARCA (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Servicios locales de atención",
+    "estado": "existente",
+    "rol": "Reciben las derivaciones e informan las prestaciones.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Provincias",
+   "rol": "Adhieren por ley, responden a las alertas e integran sus registros."
+  }
+ ]
+}

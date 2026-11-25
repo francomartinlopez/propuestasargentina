@@ -1,0 +1,88 @@
+{
+ "id": "N044",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de coordinación federal de los impuestos a la transmisión gratuita de bienes",
+ "sumilla": "Ley de coordinación: no crea el tributo ni fija alícuotas ni mínimos; atribuye a una sola jurisdicción cada herencia, legado o donación para evitar la doble imposición entre provincias, ordena el cómputo de las donaciones acumuladas y el intercambio de información con ARCA, remite al piso común del acuerdo federal y resuelve su convivencia con el impuesto sobre los bienes personales.",
+ "cuando": "Fase II (años 2-3): junto con las primeras leyes provinciales, donde el registro patrimonial esté operativo.",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple; Senado como cámara de origen sugerido por su contenido federal (no crea ni modifica tributos nacionales). Obliga a las provincias solo por adhesión.",
+ "motivos": "Gravar lo que recibe cada heredero, y no la masa que deja el causante, es una forma progresiva de tributar sobre la riqueza recibida sin esfuerzo propio. Es una potestad de las provincias: la Provincia de Buenos Aires aplica desde 2010 un impuesto a la transmisión gratuita de bienes, y las jurisdicciones acordaron en el Acuerdo Federal de Sustitución Tributaria un piso común que protege la vivienda única y la empresa familiar y acumula las donaciones de los diez años anteriores. Cuando varias provincias aplican el mismo tributo, una herencia con bienes en distintos territorios o un causante con vínculos en más de una jurisdicción pueden quedar gravados dos veces, o ninguna. El proyecto no crea el impuesto ni fija sus alícuotas o mínimos, que corresponden a cada provincia: atribuye cada transmisión a una sola jurisdicción —la de ubicación de los inmuebles y, para los demás bienes, la del domicilio del causante o del donante—, ordena el cómputo de las donaciones recibidas en otras jurisdicciones y organiza el intercambio de información con la Agencia de Recaudación y Control Aduanero, con las garantías del secreto fiscal y de la protección de datos. Precisa también que el impuesto sobre los bienes personales sigue rigiendo sin cambios y que los impuestos locales a la transmisión gratuita, que gravan la adquisición y no la tenencia del patrimonio, no son análogos a él.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley coordina entre las jurisdicciones que adhieran a ella los impuestos locales sobre la transmisión gratuita de bienes por herencia, legado o donación, para evitar que una misma transmisión sea gravada por más de una jurisdicción y para organizar el intercambio de información con la Agencia de Recaudación y Control Aduanero (ARCA). No crea tributos ni fija sus alícuotas, mínimos o exenciones, que corresponden a cada jurisdicción."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por: a) «impuesto local»: el impuesto provincial o de la Ciudad Autónoma de Buenos Aires que grava el enriquecimiento a título gratuito de cada heredero, legatario o donatario (en adelante, «beneficiario»); b) «jurisdicción adherida»: la provincia o la Ciudad Autónoma de Buenos Aires que haya adherido a la presente ley por ley local; c) «transmisión»: cada herencia, legado, donación, anticipo de herencia u otro acto que produzca un enriquecimiento a título gratuito."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Atribución de cada transmisión",
+     "texto": "Cada transmisión solo podrá ser gravada por una jurisdicción adherida, conforme a las siguientes reglas: a) los inmuebles, por la jurisdicción en que estén situados; b) los demás bienes, por la jurisdicción del último domicilio del causante o del domicilio del donante a la fecha de la donación; c) si el causante o el donante tuviera su domicilio en el exterior, los bienes situados en el país distintos de los inmuebles, por la jurisdicción del domicilio del beneficiario. Las demás jurisdicciones adheridas se abstendrán de gravar esa transmisión."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Domicilio",
+     "texto": "El domicilio se determinará conforme al Código Civil y Comercial de la Nación. Se presume, salvo prueba en contrario, que coincide con el domicilio fiscal registrado ante la ARCA a la fecha del fallecimiento o de la donación."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Donaciones acumuladas",
+     "texto": "Cuando una jurisdicción adherida acumule las transmisiones recibidas por un beneficiario en los diez (10) años anteriores, computará las atribuidas a otras jurisdicciones solo para determinar la alícuota aplicable, y no como base imponible propia."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Conflictos y doble imposición",
+     "texto": "Los conflictos de atribución entre jurisdicciones adheridas serán resueltos por la Comisión Federal de Impuestos, cuyas decisiones serán obligatorias para ellas. Mientras el conflicto no se resuelva, el impuesto pagado a una jurisdicción adherida por una transmisión se computará como pago a cuenta del que reclame otra por la misma transmisión, y la jurisdicción a la que la Comisión no la atribuya restituirá lo percibido."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Intercambio de información",
+     "texto": "La ARCA suministrará a las administraciones tributarias de las jurisdicciones adheridas, mediante convenio, la información de que disponga sobre los bienes de los causantes y sobre las donaciones declaradas que sea necesaria para liquidar y fiscalizar el impuesto local, y recibirá de ellas las liquidaciones practicadas. El suministro se limitará a esa finalidad, estará sujeto al secreto fiscal establecido en el artículo 101 de la Ley N° 11.683 (t.o. 1998) y a la Ley N° 25.326, y cada acceso quedará registrado. Las jurisdicciones adheridas utilizarán, para valuar los inmuebles, los datos del registro patrimonial previsto en la Ley N° 26.209 con las modificaciones de la Ley N° [—]."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Piso común",
+     "texto": "Las jurisdicciones adheridas aplicarán el piso común del impuesto a la transmisión gratuita de bienes acordado en la cláusula octava del Acuerdo Federal de Sustitución Tributaria aprobado por la Ley N° [—]."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Convivencia con el impuesto sobre los bienes personales",
+     "texto": "El impuesto sobre los bienes personales continúa rigiendo conforme a la Ley N° [—] de continuidad tributaria, sin modificaciones. Los impuestos locales sobre la transmisión gratuita de bienes gravan la adquisición a título gratuito y no la tenencia de un patrimonio, y el Estado nacional no los considera análogos al impuesto sobre los bienes personales a los fines del régimen de coparticipación federal."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Adhesión",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a la presente ley. La adhesión se comunicará a la Comisión Federal de Impuestos y a la ARCA, y la presente ley regirá entre las jurisdicciones adheridas desde esa comunicación."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Financiamiento y normas de aplicación",
+     "texto": "La presente ley no autoriza gasto. La ARCA dictará las normas de aplicación de su artículo 7° dentro de los noventa (90) días de su publicación, con sus propios créditos."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

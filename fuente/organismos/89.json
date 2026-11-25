@@ -1,0 +1,55 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Negocia, encabeza la delegación argentina y aplica la Ley 26.659 (Decreto 868/2026). Negocia y representa a la Argentina en el Comité de Seguimiento.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Comisión de Pesca del Atlántico Sur",
+      "estado": "modificado",
+      "rol": "Se reactiva: intercambio de datos, evaluación conjunta de calamar y merluza y recomendaciones de conservación, con Subcomité Científico.",
+      "hoy": "Inactiva (creada en 1990)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Prefectura Naval Argentina",
+    "estado": "modificado",
+    "rol": "Coordinación de búsqueda y salvamento marítimo y respuesta a derrames.",
+    "hoy": "Prefectura Naval Argentina (Ministerio de Seguridad Nacional)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de Aviación Civil (ANAC)",
+    "estado": "modificado",
+    "rol": "Otorga en 30 días las autorizaciones de la ruta y la escala en Córdoba.",
+    "hoy": "ANAC (Ministerio de Economía, Secretaría de Transporte)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Protocolo de derivación para atención de alta complejidad.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Educación, Ciencia y Cultura",
+    "estado": "modificado",
+    "rol": "Programa anual de becas universitarias.",
+    "hoy": "Ministerio de Capital Humano",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

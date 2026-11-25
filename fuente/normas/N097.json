@@ -1,0 +1,97 @@
+{
+ "id": "N097",
+ "tipo": "resolucion",
+ "titulo": "Resolución General de ARCA: registro de los contratos agrícolas a porcentaje en el SISA y cruce con datos de acopio",
+ "sumilla": "Crea dentro del SISA el registro obligatorio de los contratos de arrendamiento agrícola a porcentaje (incluidos los accidentales), con datos del predio georreferenciado, porcentaje y piso, liquidación por campaña, cruce con cartas de porte y operaciones de granos, constancia para la deducción en Ganancias y sanciones por incumplimiento.",
+ "cuando": "Fase II (años 2-3), dentro de los 90 días del decreto «Reglamentación de la reforma de la Ley N° 13.246 (arrendamiento agrícola a porcentaje)» (art. 7 de ese decreto)",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (resolución general de ARCA).",
+ "motivos": null,
+ "visto": "El Expediente N° [—], la Ley N° 13.246 de Arrendamientos y Aparcerías Rurales (texto según la Ley N° 22.298), la Ley N° [—] de reforma de la Ley N° 13.246, la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones, el Decreto N° [—] y la Resolución General N° 4310, sus modificatorias y complementarias, y",
+ "considerando": [
+  "Que la Ley N° [—] incorporó a la Ley N° 13.246 el artículo 2° septies, que dispone el registro de los contratos de arrendamiento con destino agrícola ante esta Agencia y su cruce con la información de acopio y comercialización de granos, y condiciona a ese registro el tratamiento tributario preferente.",
+  "Que el Sistema de Información Simplificado Agrícola (SISA), aprobado por la Resolución General N° 4310, que reemplazó al Registro Fiscal de Tierras Rurales Explotadas, ya reúne la información sobre los productores, las tierras explotadas y la producción, por lo que corresponde integrar en él el nuevo registro.",
+  "Que el Decreto N° [—] encomendó a esta Agencia establecer el régimen de registro dentro de los NOVENTA (90) días.",
+  "Que el cruce de los contratos con las cartas de porte y las operaciones de compraventa de granos permite verificar la producción declarada, que es la base de cálculo de la participación del arrendador.",
+  "Que han tomado la intervención que les compete las áreas técnicas y el servicio jurídico de esta Agencia.",
+  "Que la presente se dicta en ejercicio de las facultades conferidas por la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones, y por el Decreto N° [—]."
+ ],
+ "formula": "Por ello, EL TITULAR DE LA AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Establécese, en el marco del Sistema de Información Simplificado Agrícola (SISA) aprobado por la Resolución General N° 4310, el régimen de registro de los contratos de arrendamiento rural con destino agrícola previsto en el artículo 2° septies de la Ley N° 13.246, incorporado por la Ley N° [—]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sujetos obligados",
+     "texto": "Deberán registrar el contrato el arrendatario y el arrendador. El registro efectuado por una de las partes deberá ser confirmado por la otra dentro de los QUINCE (15) días corridos; vencido ese plazo sin observaciones, se tendrá por confirmado. Quedan comprendidos los contratos accidentales del inciso a) del artículo 39 de la Ley N° 13.246 con destino agrícola."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Plazo",
+     "texto": "El contrato se registrará antes del inicio de la siembra de la primera campaña que comprenda y, en todo caso, dentro de los TREINTA (30) días corridos de su celebración o renovación. Las modificaciones se registrarán dentro de los TREINTA (30) días corridos de convenidas."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Datos del registro",
+     "texto": "El registro contendrá, como mínimo: a) la identificación de las partes y su CUIT; b) la identificación catastral y la superficie del predio, con su georreferenciación en el SISA; c) el plazo y las campañas comprendidas; d) los cultivos previstos; e) el porcentaje pactado y la modalidad de cálculo del artículo 2° bis de la Ley N° 13.246; f) en su caso, el piso del artículo 2° quinquies de esa ley, con la declaración jurada de las condiciones del pequeño propietario; y g) la copia digital del contrato firmado."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Liquidación por campaña",
+     "texto": "Al finalizar cada cosecha, el arrendatario informará en el SISA, dentro de los SESENTA (60) días corridos, los frutos obtenidos en el predio, los costos directos computados cuando corresponda y la participación liquidada al arrendador, con referencia a las cartas de porte, certificados de depósito y comprobantes de comercialización respectivos. El arrendador confirmará la liquidación en el mismo plazo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cruce con datos de acopio",
+     "texto": "Esta Agencia cruzará en forma sistemática la producción y la participación informadas con los datos de las cartas de porte, de los operadores de granos incluidos en el SISA y de las liquidaciones de compraventa de granos correspondientes al predio, y con los rendimientos de referencia que publique la autoridad de aplicación de la Ley N° 13.246. Las diferencias significativas habilitarán los controles previstos en la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Constancia",
+     "texto": "Cumplido el registro, el sistema emitirá una constancia con código de verificación, que acredita el registro a los fines del tratamiento tributario preferente del artículo 10 de la Ley N° [—] y podrá ser consultada por terceros con interés legítimo."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Deducción en el impuesto a las ganancias",
+     "texto": "La deducción del artículo 10 de la Ley N° [—] solo podrá computarse respecto de contratos con constancia de registro vigente emitida antes del inicio de la campaña y con la liquidación del artículo 5° confirmada por ambas partes. El formulario de declaración jurada del impuesto a las ganancias de las personas humanas y sucesiones indivisas incorporará el campo correspondiente, con el número de constancia."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Información a la autoridad de aplicación",
+     "texto": "Esta Agencia remitirá a la autoridad de aplicación de la Ley N° 13.246, antes del inicio de cada campaña, la información agregada por zona y cultivo de los contratos registrados, los porcentajes pactados y la producción declarada, sin datos que permitan identificar a los contribuyentes, con resguardo del secreto fiscal previsto en el artículo 101 de la Ley N° 11.683 (t.o. 1998) y sus modificaciones."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Incumplimientos",
+     "texto": "La falta de registro, de confirmación o de información de la liquidación hará pasible a los responsables de las sanciones previstas en la Ley N° 11.683 para el incumplimiento de los regímenes de información, y excluirá el contrato del tratamiento tributario preferente."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Incorporación al SISA",
+     "texto": "Las disposiciones de la presente se incorporarán a la Resolución General N° 4310, sus modificatorias y complementarias, en el texto que esta Agencia ordene."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución general entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial y se aplicará a los contratos que se celebren o renueven desde la fecha de aplicación prevista en el artículo 14 de la Ley N° [—]."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Resolución General AFIP 4310/2018 (SISA): incorpora el registro de contratos agrícolas a porcentaje"
+ ],
+ "deroga": [],
+ "variantes": null
+}

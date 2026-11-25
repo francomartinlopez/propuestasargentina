@@ -1,0 +1,38 @@
+{
+ "id": "N132b",
+ "tipo": "ley_nacional",
+ "titulo": "Ley aprobatoria del Acuerdo de operación y financiamiento de la cuenca de la laguna La Picasa",
+ "sumilla": "Aprueba el acuerdo con Córdoba, Santa Fe y Buenos Aires que da presupuesto y equipo propios a la Comisión de La Picasa, y fija la fuente del aporte nacional.",
+ "cuando": "Fase I · año 1 (después de la firma del acuerdo)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Aprobación por ley del Congreso; mayoría simple; cámara de origen indistinta.",
+ "motivos": "El presente proyecto somete a la aprobación del Honorable Congreso de la Nación el Acuerdo celebrado con las Provincias de Córdoba, Santa Fe y Buenos Aires para la operación de la cuenca de la laguna La Picasa. La Comisión Interjurisdiccional reconocida por la Ley N° 27.509 existe, pero no ha contado con recursos estables, y una cuenca que se desborda en los años húmedos necesita un órgano que funcione todos los años. El Acuerdo le asigna la operación de la cuenca, un presupuesto anual propio que la Nación y las provincias aportan por mitades y transfieren a comienzo de cada año, una unidad técnica permanente seleccionada por concurso y la obligación de rendir cuentas en un informe público anual. Como compromete aportes de ejercicios futuros, requiere aprobación por ley; conforme a la regla según la cual toda ley que pueda dar lugar a gastos debe identificar su fuente, el proyecto precisa cómo se atiende el aporte nacional.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Aprobación",
+     "texto": "Apruébase el Acuerdo de operación y financiamiento de la cuenca de la laguna La Picasa celebrado entre el Estado nacional y las Provincias de Córdoba, de Santa Fe y de Buenos Aires, suscripto en […] el […], cuya copia autenticada forma parte de la presente ley como Anexo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Fuente del aporte nacional",
+     "texto": "El aporte nacional al presupuesto de la Comisión Interjurisdiccional de la Cuenca de la Laguna La Picasa previsto en la cláusula tercera del Acuerdo se atiende con los recursos del Fondo Fiduciario de Infraestructura Hídrica destinados a mantenimiento y operación de obras interjurisdiccionales, sin aumento del gasto total. La ley de presupuesto de cada ejercicio lo consignará en forma expresa."
+    },
+    {
+     "n": 3,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,133 @@
+{
+ "id": "N014",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de Responsabilidad Fiscal y del Fondo de Estabilización Fiscal",
+ "sumilla": "Reglamenta la ley «Ley de Responsabilidad Fiscal y del Fondo de Estabilización Fiscal»: designa la autoridad de aplicación del Fondo de Estabilización Fiscal, fija la metodología del ingreso extraordinario y de su tendencia, los depósitos, la política de inversión y los retiros, y regula la publicación del destino de cada emisión de deuda, el cálculo de la mejora en las reestructuraciones y la estrategia anual de sostenibilidad de la deuda.",
+ "cuando": "Fase I: dentro de los 90 días de la publicación de la ley «Ley de Responsabilidad Fiscal y del Fondo de Estabilización Fiscal» (art. 22 de esa ley).",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: decreto reglamentario (art. 99 inc. 2 CN).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° 24.156 de Administración Financiera y de los Sistemas de Control del Sector Público Nacional y su reglamentación aprobada por el Decreto N° 1344/2007, la Ley N° [—] de Responsabilidad Fiscal y del Fondo de Estabilización Fiscal (en adelante, «la Ley»), y",
+ "considerando": [
+  "Que la Ley incorporó al Título II de la Ley N° 24.156 la regla de resultado primario no negativo y la obligación de presentar con cada proyecto de presupuesto una estrategia de sostenibilidad de la deuda pública, y sustituyó sus artículos 56 y 65 para limitar el destino del crédito público a la inversión y a la refinanciación con mejora de condiciones.",
+  "Que el artículo 56 de la Ley N° 24.156, en el texto de la Ley, obliga al órgano rector del sistema de crédito público a publicar el día de la liquidación de cada operación sus condiciones y su destino, y cada trimestre la aplicación efectiva de los fondos, y que el artículo 65 le exige publicar el cálculo que acredite la mejora de cada reestructuración.",
+  "Que la Ley creó el Fondo de Estabilización Fiscal y dispuso que lo administre la autoridad de aplicación que designe el Poder Ejecutivo nacional, que la reglamentación determine los tributos comprendidos en el ingreso extraordinario y la metodología de cálculo de su tendencia, y que la política de inversión se apruebe previa opinión del Banco Central de la República Argentina.",
+  "Que corresponde fijar procedimientos verificables y públicos para cada depósito y retiro, de modo que el Fondo cumpla su función de amortiguar el ciclo económico sin margen de discrecionalidad.",
+  "Que la reglamentación no amplía las excepciones a las reglas de la Ley, conforme a su artículo 22.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Regla de resultado primario y estrategia de sostenibilidad de la deuda",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Seguimiento de la regla",
+     "texto": "El Ministerio de Economía publicará cada mes, dentro de los treinta (30) días del cierre del mes, el resultado primario acumulado de la Administración Nacional calculado conforme al artículo 55 bis de la Ley N° 24.156 y su proyección al cierre del ejercicio. Cuando la proyección arroje un resultado primario negativo, elevará dentro de los quince (15) días a la Jefatura de Gabinete de Ministros las medidas de ejecución necesarias a los efectos del artículo 55 quáter de esa ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Estrategia de sostenibilidad de la deuda",
+     "texto": "La estrategia prevista en el artículo 55 septies de la Ley N° 24.156 será elaborada por el órgano rector del sistema de crédito público y contendrá, además de lo exigido por ese artículo: a) el stock de deuda pública por moneda, tenedor, tasa y plazo al cierre del último trimestre; b) la proyección de vencimientos de capital e intereses de los cinco (5) ejercicios siguientes; c) la meta de reducción del stock de deuda en relación con el producto interno bruto para el ejercicio y para los tres (3) siguientes, con sus supuestos macroeconómicos; d) el plan de cancelación o refinanciación de los pasivos en pesos transferidos del Banco Central de la República Argentina (BCRA) al Tesoro nacional, con montos y fechas; e) el grado de cumplimiento de la estrategia del año anterior. Se publicará el mismo día de la remisión del proyecto de ley de presupuesto, en formato abierto."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Destino del crédito público y reestructuraciones",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Identificación del destino",
+     "texto": "El acto que autorice cada operación de crédito público, conforme al artículo 56 de la Ley N° 24.156, indicará: a) si financia inversión, refinanciación o el resultado autorizado por una ley de emergencia; b) en caso de inversión, la obra o el bien de capital, su crédito presupuestario y su identificación en el banco de proyectos de inversión pública; c) en caso de refinanciación, los pasivos que se cancelan. No se dará curso a operaciones cuyo acto de autorización omita esa indicación."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Publicación de cada operación",
+     "texto": "El órgano rector del sistema de crédito público publicará en su sitio oficial, el día de la liquidación de cada operación, el instrumento, el monto, la moneda, el precio, la tasa, el plazo, la ley o el acto que la autoriza y el destino identificado conforme al artículo anterior. Dentro de los treinta (30) días del cierre de cada trimestre publicará la aplicación efectiva de los fondos obtenidos, por obra y por pasivo cancelado, conciliada con la ejecución presupuestaria."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cálculo de la mejora",
+     "texto": "A los efectos del artículo 65 de la Ley N° 24.156, se considera que una reestructuración mejora las condiciones de las operaciones originales cuando cumple al menos una de estas condiciones sin desmejorar las otras: a) el valor presente de los nuevos servicios, descontados a la misma tasa que los originales, es menor que el de los servicios originales; b) el plazo promedio es mayor sin incremento del valor presente; c) la tasa de interés es menor sin reducción del plazo promedio. La tasa de descuento será la de mercado de la deuda del Tesoro de plazo comparable a la fecha de la operación, informada en la publicación. El cálculo se publicará antes de la liquidación de la operación, con sus supuestos y fuentes."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Fondo de Estabilización Fiscal",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase autoridad de aplicación del Fondo de Estabilización Fiscal, en los términos del artículo 10 de la Ley, al Ministerio de Economía, que actuará por intermedio de su Secretaría de Finanzas. La autoridad de aplicación celebrará con el BCRA, dentro de los sesenta (60) días, el convenio de agencia financiera previsto en el mismo artículo."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Tributos comprendidos",
+     "texto": "A los efectos del artículo 11 de la Ley, el ingreso extraordinario se calcula sobre la recaudación de los derechos de exportación. La autoridad de aplicación podrá proponer la inclusión de otros tributos cuya recaudación esté ligada a los precios internacionales de los bienes exportados, cuando pueda medirse en forma separada con datos de la Agencia de Recaudación y Control Aduanero (ARCA); la inclusión se dispondrá por decreto y regirá desde el ejercicio siguiente al de su publicación."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Tendencia de largo plazo",
+     "texto": "La tendencia de largo plazo de cada tributo comprendido es el promedio de su recaudación anual de los diez (10) ejercicios cerrados anteriores, expresada a valores constantes del último ejercicio mediante el índice de precios al consumidor que publica el Instituto Nacional de Estadística y Censos (INDEC). El ingreso extraordinario de cada ejercicio es la diferencia positiva entre la recaudación del ejercicio, a valores constantes, y esa tendencia. La autoridad de aplicación publicará la tendencia aplicable a cada ejercicio, con sus datos y cálculos, junto con el proyecto de ley de presupuesto; una vez publicada, no podrá modificarse para ese ejercicio."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Depósitos",
+     "texto": "Dentro de los sesenta (60) días del cierre de cada ejercicio, la autoridad de aplicación determinará el ingreso extraordinario del ejercicio y el monto a depositar conforme al inciso a) del artículo 12 de la Ley, que será el menor entre ese ingreso y el resultado primario positivo del ejercicio, y lo publicará con su cálculo. El depósito se efectuará dentro del plazo de noventa (90) días previsto en ese artículo. Cuando el saldo del Fondo alcance el tope del artículo 13 de la Ley, el excedente se aplicará a la cancelación de deuda pública según lo determine el órgano rector del sistema de crédito público, que lo publicará."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Política de inversión",
+     "texto": "La política de inversión del artículo 14 de la Ley se aprobará dentro de los ciento veinte (120) días de la entrada en vigencia del presente, previa opinión del BCRA, y contendrá al menos: a) las monedas de inversión; b) las clases de activos admitidas y su calificación crediticia mínima, que será de grado de inversión; c) los límites por emisor, por clase de activo y por plazo; d) el índice de referencia para medir el rendimiento; e) las reglas de gestión de riesgos. Se publicará y se revisará cada dos (2) años, con el mismo procedimiento."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Condición de retiro",
+     "texto": "A los efectos del artículo 15 de la Ley, la recaudación tributaria nacional comprende la de todos los tributos a cargo de ARCA, incluidos los recursos de la seguridad social, y se expresa a valores constantes con el índice de precios al consumidor del INDEC. La caída por causas ajenas a la política tributaria se calcula descontando de la variación observada el efecto estimado de los cambios normativos en los tributos producidos en los últimos veinticuatro (24) meses, según la estimación de la Secretaría de Hacienda del Ministerio de Economía, que se publicará con su metodología."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Gasto esencial y resolución de retiro",
+     "texto": "Se considera gasto esencial, a los efectos del inciso b) del artículo 15 de la Ley, el previsto en el presupuesto vigente para prestaciones de la seguridad social, asignaciones familiares, salud, educación y seguridad. La resolución que disponga un retiro indicará el monto, los datos oficiales que acreditan la condición del artículo 15 de la Ley, los créditos presupuestarios que financia y el saldo del Fondo al inicio del año, y se publicará en el Boletín Oficial y en el sitio oficial de la autoridad de aplicación el día de su dictado."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Informes trimestrales y auditoría",
+     "texto": "El informe trimestral del artículo 16 de la Ley incluirá cada depósito y retiro con su fecha y acto, el rendimiento del período y acumulado comparado con el índice de referencia, la composición de las inversiones por moneda, clase de activo y emisor, y los costos de administración. La autoridad de aplicación y el BCRA pondrán a disposición de la Autoridad Nacional de Control y Transparencia toda la información necesaria para la auditoría anual."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Transferencia del Fondo Anticíclico Fiscal",
+     "texto": "Dentro del plazo de treinta (30) días previsto en el artículo 17 de la Ley, el órgano que administre el Fondo Anticíclico Fiscal transferirá su saldo a la cuenta del Fondo de Estabilización Fiscal en el BCRA y publicará el monto transferido y el estado de sus inversiones a la fecha de la transferencia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase a la autoridad de aplicación del Fondo y al órgano rector del sistema de crédito público a dictar, en sus respectivos ámbitos, las normas complementarias del presente, que no podrán ampliar las excepciones a las reglas de la Ley. Las disposiciones del presente complementan la reglamentación de la Ley N° 24.156 aprobada por el Decreto N° 1344/2007."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial. Los artículos 1° y 2° se aplicarán desde el primer ejercicio en que rija el Capítulo IV del Título II de la Ley N° 24.156, conforme al artículo 21 de la Ley."
+    },
+    {
+     "n": 17,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 1344/2007 (reglamentario de la Ley 24.156): se complementa, sin sustituir artículos"
+ ],
+ "deroga": [],
+ "variantes": null
+}

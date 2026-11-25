@@ -1,0 +1,134 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Cultura y Deportes",
+    "estado": "modificado",
+    "rol": "Lleva el registro y controla las operaciones. Aplica la reglamentación sobre sociedades anónimas deportivas. Opera el registro en 90 días y firma convenios de cooperación. Envía cada mes el padrón del Registro de Clubes de Barrio y de Pueblo.",
+    "hoy": "Subsecretaría de Deportes, Vicejefatura de Gabinete del Interior",
+    "hijos": [
+     {
+      "nombre": "Registro de Financistas y Cesionarios del Deporte",
+      "estado": "nuevo",
+      "rol": "Inscribe financistas y cesionarios con beneficiario final y publica contratos y tasas.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Registro de financistas del deporte",
+      "estado": "modificado",
+      "rol": "Inscribe, verifica beneficiario final, publica contratos y excluye con defensa.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Unidad de Información Financiera (UIF)",
+    "estado": "modificado",
+    "rol": "Coopera en la verificación de beneficiarios finales y operaciones sospechosas. Recibe comunicaciones de exclusión y coopera por convenio. Recibe la información de beneficiario final de financistas del fútbol. Dicta la resolución, recibe reportes y cruza datos con el registro de financistas, IGJ y registros provinciales.",
+    "hoy": "UIF, descentralizada en jurisdicción del Ministerio de Justicia",
+    "hijos": []
+   },
+   {
+    "nombre": "Inspección General de Justicia (IGJ)",
+    "estado": "modificado",
+    "rol": "Coopera en la verificación societaria; convenios con registros provinciales. Controla el cómputo de la mayoría al inscribir la transformación (CABA). Fija el estándar para clubes y recibe la información provincial. Exige y publica balances auditados y beneficiarios finales (solo entidades con domicilio en CABA).",
+    "hoy": "Inspección General de Justicia (solo entidades con domicilio en CABA)",
+    "hijos": []
+   },
+   {
+    "nombre": "Entidades deportivas",
+    "estado": "modificado",
+    "rol": "Solo operan con inscriptos y publican las tasas en sus estados contables. Presentan y publican estados contables auditados y beneficiarios finales de contrapartes. Identifican beneficiario final de contrapartes y reportan. Emiten entradas nominativas y controlan la identidad en el acceso. Adoptan protocolos, designan responsables de cuidado y adecuan pensiones.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Coteja beneficiarios finales por convenio.",
+    "hoy": "ARCA",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros",
+    "estado": "existente",
+    "rol": "Firma por la Nación y provee la plataforma y la asistencia técnica.",
+    "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete – Secretaría de Innovación, Ciencia y Tecnología (Subsecretaría de Innovación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior de la Jefatura de Gabinete de Ministros",
+    "estado": "existente",
+    "rol": "Consulta y promoción de la adhesión de provincias y municipios.",
+    "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete del Interior (Subsecretarías de Relaciones con las Provincias y con los Municipios)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Seguridad",
+    "estado": "modificado",
+    "rol": "Administra la Base Única de Derecho de Admisión, resuelve las inclusiones administrativas y sanciona a los organizadores.",
+    "hoy": "Ministerio de Seguridad Nacional (programa Tribuna Segura)",
+    "hijos": []
+   },
+   {
+    "nombre": "Unidad de Información Financiera (UIF) y Ministerio Público Fiscal",
+    "estado": "existente",
+    "rol": "Reciben la información para la investigación patrimonial.",
+    "hoy": "UIF (Ministerio de Justicia) y Ministerio Público Fiscal (órgano extrapoder)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Energía",
+    "estado": "modificado",
+    "rol": "Incorpora de oficio a los clubes en la tarifa y publica datos.",
+    "hoy": "Secretaría de Energía (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "estado": "modificado",
+    "rol": "Instruye a las distribuidoras de jurisdicción nacional.",
+    "hoy": "ENRGE, descentralizado en el ámbito de la Secretaría de Energía",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Asociativismo y Economía Social",
+    "estado": "modificado",
+    "rol": "Intima, asiste y aprueba planes de regularización antes de suspender.",
+    "hoy": "INAES, descentralizado del Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Cultura y Deportes del Ministerio de Educación, Ciencia y Cultura",
+    "estado": "modificado",
+    "rol": "Registro de protocolos y pensiones, inspección y sanciones.",
+    "hoy": "Subsecretaría de Deportes, Vicejefatura de Gabinete del Interior",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Niñez, Adolescencia y Familia del Ministerio de Trabajo y Desarrollo Social",
+    "estado": "modificado",
+    "rol": "Opera el canal de denuncia independiente y deriva a las autoridades locales.",
+    "hoy": "Secretaría Nacional de Niñez, Adolescencia y Familia (Ministerio de Capital Humano)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Provincias y municipios",
+   "rol": "Inscriben SAS en 24 horas y otorgan habilitaciones de bajo riesgo con aprobación automática."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Adoptan reglas equivalentes por convenio."
+  }
+ ]
+}

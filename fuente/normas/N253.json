@@ -1,0 +1,154 @@
+{
+ "id": "N253",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de protección inmediata a quien denuncia violencia y de garantía de la cuota alimentaria",
+ "sumilla": "Reforma las Leyes 26.485 y 24.417 y el Código Civil y Comercial: medidas urgentes en el día con dispositivo dual en riesgo alto y audiencia de control ante el juez en 72 horas, para la violencia contra las mujeres y para toda violencia física, sexual, psicológica o económica en el hogar, cualquiera sea el género y el vínculo, con o sin matrimonio (garantía mínima en la justicia nacional y federal, con adhesión provincial), y paquete de asistencia al denunciar. Agrega retención automática de la cuota alimentaria, registro nacional de deudores, fondo de garantía y seguimiento público de los casos con denuncia previa.",
+ "cuando": "Días 61-100 (envío); registro y fondo operativos en 12 meses",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta (crea un fondo con asignación presupuestaria; no crea tributos).",
+ "motivos": "La Ley N° 26.485 ya prevé medidas urgentes para proteger a quien denuncia violencia, entre ellas la prohibición de acercamiento y la exclusión de la parte agresora de la residencia común (artículo 26). La experiencia muestra, sin embargo, que la protección llega tarde o no se controla, y que muchas víctimas vuelven a convivir con quien las agrede por falta de vivienda, de ingresos o de asistencia legal. La violencia dentro del hogar, además, no se limita a la pareja ni a un solo género: alcanza a hijas e hijos, a personas mayores, a varones y a cualquier persona que conviva con quien la ejerce, y la Ley N° 24.417 solo cubre la que surge del matrimonio o de las uniones de hecho y los malos tratos físicos o psíquicos. El proyecto amplía esa ley a toda persona conviviente, con o sin vínculo formal, y a la violencia sexual y económica. El presente proyecto establece una garantía mínima para la justicia nacional y federal, común a las dos leyes: las medidas se resuelven en el día y, en los casos de riesgo alto, la prohibición de acercamiento va siempre acompañada de un dispositivo dual de localización, provisto por un único organismo nacional. Para resguardar también el derecho de defensa, un juez revisa cada exclusión o prohibición de acercamiento en una audiencia de control dentro de las setenta y dos horas, en la que escucha a ambas partes por separado y confirma, modifica o levanta la medida. Las provincias pueden adherir y recibir los dispositivos. La denuncia activa además un paquete de asistencia: patrocinio jurídico gratuito, acceso prioritario a vivienda transitoria y prioridad en el ingreso universal. Para que la cuota alimentaria se cobre, el proyecto dispone la retención automática sobre los ingresos de la persona obligada, crea un registro nacional de deudores y un fondo que adelanta la cuota a niñas, niños y adolescentes y luego la recupera. Por último, ordena revisar y publicar cada caso de femicidio con denuncia previa, para corregir las fallas del sistema.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y ámbito",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto asegurar a quien denuncia violencia contra las mujeres en los términos de la Ley N° 26.485, o violencia física, sexual, psicológica o económica en el hogar en los términos de la Ley N° 24.417, una protección inmediata y efectiva, mediante: a) una garantía mínima de medidas urgentes que se dictan en el día, con dispositivo dual en los casos de riesgo alto y revisión judicial dentro de las setenta y dos (72) horas; b) un paquete de asistencia que se activa con la denuncia; c) la retención automática de la cuota alimentaria, un registro nacional de deudores alimentarios morosos y un fondo de garantía de la cuota; y d) el seguimiento público de los casos con denuncia previa."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito y violencia en el hogar",
+     "texto": "La garantía mínima del Capítulo II rige en la justicia nacional y federal, tanto para la violencia contra las mujeres de la Ley N° 26.485 como para la violencia en el hogar de la Ley N° 24.417, cualquiera sea el género y la edad de la víctima y de la persona denunciada. Las provincias y la Ciudad Autónoma de Buenos Aires podrán adherir a ella conforme el artículo 19 de la Ley N° 26.485 y el artículo 17 de la presente ley. A tal fin:\na) Sustitúyese el artículo 1° de la Ley N° 24.417 por el siguiente: «ARTÍCULO 1°.- Toda persona que sufriese violencia física, sexual, psicológica o económica por parte de alguno de los integrantes del grupo familiar o de otra persona con quien conviva —incluida la motivada por su orientación sexual o su identidad de género— podrá denunciar estos hechos en forma verbal o escrita ante el juez con competencia en asuntos de familia y solicitar medidas cautelares conexas. A los efectos de esta ley se entiende por grupo familiar el originado en el parentesco, el matrimonio o la unión convivencial, registrada o no, aunque haya cesado la convivencia, y comprende a toda persona que conviva o haya convivido en la misma vivienda, cualquiera sea su vínculo y su género.»\nb) Incorpórase como último párrafo del artículo 4° de la Ley N° 24.417 el siguiente: «Las medidas de exclusión del autor de la vivienda y de prohibición de acceso se rigen por la garantía mínima y la audiencia de control previstas en el último párrafo del artículo 26 de la Ley N° 26.485, con el mismo dispositivo dual en los casos de riesgo alto.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Protección inmediata",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Incorporación al artículo 26 de la Ley N° 26.485",
+     "texto": "Incorpórase como último párrafo del artículo 26 de la Ley N° 26.485 el siguiente:\n«Garantía mínima. Las medidas de prohibición de acercamiento del apartado a.1 y de exclusión de la parte agresora de la residencia común del apartado b.2 de este artículo deberán resolverse en el mismo día en que se reciba la denuncia o el pedido, sin necesidad de otra prueba que la que surja de la denuncia y de la evaluación de riesgo. Cuando la evaluación de riesgo indique riesgo alto, la prohibición de acercamiento se dispondrá siempre con un dispositivo dual de localización, que se colocará a la persona denunciada y se entregará a la víctima con su consentimiento, y se proveerá a la víctima un botón antipánico. Dentro de las setenta y dos (72) horas de dictada la exclusión o la prohibición de acercamiento, el juez celebrará una audiencia de control en la que oirá a la víctima y a la persona denunciada, por separado y con asistencia letrada, y por resolución fundada confirmará, modificará o dejará sin efecto la medida. La víctima no estará obligada a encontrarse con la persona denunciada, y la sola falta de la audiencia en ese plazo no hace caer la medida. Esta garantía rige en la justicia nacional y federal y en las jurisdicciones que adhieran.»"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Evaluación de riesgo",
+     "texto": "La autoridad de aplicación aprobará, con consulta a los poderes judiciales y ministerios públicos, un instrumento único de evaluación de riesgo, que se aplicará al recibir la denuncia y cuyo resultado se comunicará en el acto al juez competente."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Dispositivos duales",
+     "texto": "La provisión, la colocación y el monitoreo permanente de los dispositivos duales y de los botones antipánico están a cargo de un único organismo nacional, que será el que opere el monitoreo electrónico al momento de la designación que efectúe el Poder Ejecutivo nacional. Ese organismo funcionará las veinticuatro (24) horas, informará de inmediato a la fuerza de seguridad competente y a la autoridad judicial todo incumplimiento, y proveerá los dispositivos a las jurisdicciones que adhieran."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Paquete de asistencia",
+     "texto": "Recibida la denuncia, la autoridad de aplicación asegurará a la víctima, dentro de las veinticuatro (24) horas y si ella lo solicita: a) patrocinio jurídico gratuito por intermedio del Cuerpo de Abogadas y Abogados para Víctimas de Violencia de Género de la Ley N° 27.210 o, cuando la víctima no esté comprendida en esa ley, por intermedio de la Defensoría General de la Nación o de los servicios jurídicos gratuitos del Ministerio de Justicia y Seguridad; b) acceso prioritario a una vivienda transitoria, con prioridad absoluta para las y los adolescentes que hayan debido dejar su hogar por la violencia sufrida, incluida la motivada por su orientación sexual o su identidad de género, por sí o mediante convenios con provincias, municipios y organizaciones de la sociedad civil; c) prioridad en el acceso al ingreso universal que establezca la ley, desde la vigencia de ésta; y d) la atención de la Línea 144, o de la línea nacional que la reglamentación determine según la edad de la víctima, como punto único de contacto para su seguimiento, de modo que no deba relatar su situación en más de una oficina."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Cuota alimentaria",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Incorporación al artículo 551 del Código Civil y Comercial de la Nación",
+     "texto": "Incorpórase como último párrafo del artículo 551 del Código Civil y Comercial de la Nación el siguiente:\n«Fijada la cuota alimentaria por sentencia o por convenio homologado, si la persona obligada percibe remuneraciones, haberes o prestaciones de un empleador o pagador registrado, el juez ordenará de oficio su retención directa y su depósito en la cuenta de la persona alimentada. La orden se comunicará por medios electrónicos y deberá cumplirse desde el período de pago siguiente. Cuando la persona obligada cambie de empleador o de pagador, la orden seguirá vigente respecto del nuevo, al que se comunicará con la información de los registros de la seguridad social.»"
+    },
+    {
+     "n": 8,
+     "epigrafe": "Incorporación al artículo 553 del Código Civil y Comercial de la Nación",
+     "texto": "Incorpórase como último párrafo del artículo 553 del Código Civil y Comercial de la Nación el siguiente:\n«Ante el incumplimiento de la cuota alimentaria, el juez podrá ordenar, aun de oficio, la retención de las sumas adeudadas sobre las cuentas bancarias y de pago de la persona obligada, y dispondrá su inscripción en el Registro Nacional de Deudores Alimentarios Morosos cuando adeude tres (3) cuotas consecutivas o cinco (5) alternadas.»"
+    },
+    {
+     "n": 9,
+     "epigrafe": "Registro Nacional de Deudores Alimentarios Morosos",
+     "texto": "Créase el Registro Nacional de Deudores Alimentarios Morosos en el ámbito de la autoridad de aplicación, que inscribirá a las personas por orden judicial y las dará de baja cuando el juez lo disponga por cancelación de la deuda. El Registro integrará, mediante convenios, los registros provinciales existentes. La información será consultable por los jueces y por los organismos públicos con interés legítimo, con los resguardos de la Ley N° 25.326 de Protección de los Datos Personales, Mientras figure inscripta, la persona no podrá ser designada ni contratada, bajo ninguna modalidad, en el Sector Público Nacional, ni ser proveedora o contratista del Estado nacional. Las provincias y la Ciudad Autónoma de Buenos Aires podrán establecer, al adherir, efectos propios en sus jurisdicciones."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Fondo de Garantía de Cuota Alimentaria",
+     "texto": "Créase el Fondo de Garantía de Cuota Alimentaria, con destino específico, que adelantará el pago de la cuota alimentaria fijada a favor de niñas, niños y adolescentes cuando la persona obligada haya incumplido dos (2) cuotas, consecutivas o no, en los últimos doce (12) meses, y la persona alimentada lo solicite. El adelanto se pagará mientras subsista el incumplimiento, hasta el monto de la cuota fijada y con el tope mensual por hija o hijo que establezca la reglamentación."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Subrogación y recupero",
+     "texto": "Por el adelanto, el Fondo se subroga en los derechos de la persona alimentada contra la persona obligada, por el monto pagado más sus intereses, y lo recupera mediante la retención prevista en el Código Civil y Comercial de la Nación y las demás vías legales. La persona alimentada conserva su derecho por la diferencia no cubierta."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Recursos del Fondo",
+     "texto": "El Fondo se integra con: a) los créditos que le asigne la ley de presupuesto, mediante la reasignación de créditos del Ministerio de Justicia y Seguridad identificados en forma expresa; b) los montos recuperados conforme el artículo anterior; c) las donaciones y legados; y d) las rentas de sus recursos. El Fondo queda expresamente excluido de la facultad de disolución de fondos fiduciarios prevista en el artículo 5° de la Ley N° 27.742, y sus recursos no podrán destinarse a fines distintos de los previstos en esta ley."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Administración del Fondo",
+     "texto": "La autoridad de aplicación administra el Fondo y podrá encomendar los pagos a la Administración Nacional de la Seguridad Social (ANSES) mediante convenio. Publicará cada trimestre los adelantos pagados, los montos recuperados y el porcentaje de cuotas cobradas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Seguimiento público",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Revisión de casos con denuncia previa",
+     "texto": "En cada caso de femicidio o de tentativa de femicidio, y de homicidio o tentativa de homicidio de un integrante del grupo familiar, en el que haya existido una denuncia previa, la autoridad de aplicación revisará la respuesta del Estado y publicará cada año, sin datos que permitan identificar a las personas, si existía una medida de protección vigente, los plazos en que se dictaron las medidas y las fallas detectadas, con recomendaciones. A tal fin, celebrará convenios con la Corte Suprema de Justicia de la Nación y con las provincias."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Información y metas",
+     "texto": "La autoridad de aplicación publicará cada mes, en formato abierto, las medidas urgentes dictadas en la justicia nacional y federal y en las jurisdicciones adheridas, el tiempo transcurrido entre la denuncia y la medida, el porcentaje de medidas revisadas en audiencia de control dentro de las setenta y dos (72) horas, y los dispositivos duales activos. Son metas de la presente ley que el cien por ciento (100 %) de las exclusiones con riesgo alto cuenten con dispositivo dual y que no haya femicidios con denuncia previa sin medida de protección vigente."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación de la presente ley es la Secretaría de Justicia del Ministerio de Justicia y Seguridad."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Adhesión provincial y provisión de dispositivos",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a la garantía mínima del Capítulo II y a integrar sus registros de deudores alimentarios al Registro Nacional. A las jurisdicciones que adhieran, la Nación les proveerá los dispositivos duales y los botones antipánico por intermedio del organismo del artículo 5°, conforme los convenios que se celebren y con los créditos que asigne a tal fin la ley de presupuesto."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Financiamiento",
+     "texto": "Los dispositivos, el patrocinio jurídico, la vivienda transitoria y el Fondo se financian con la reasignación de créditos del Ministerio de Justicia y Seguridad que la ley de presupuesto identifique en forma expresa, dentro de un costo anual que no podrá superar el cero coma cero tres por ciento (0,03 %) del producto interno bruto. Si al sancionarse la presente ley no hubiera créditos asignados, el Fondo y la provisión de dispositivos a las jurisdicciones adheridas se activarán con la ley de presupuesto del ejercicio siguiente; la garantía mínima en la justicia nacional y federal rige desde la vigencia de la presente ley con los dispositivos existentes."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial. El Registro Nacional de Deudores Alimentarios Morosos y el Fondo de Garantía de Cuota Alimentaria deberán estar en funcionamiento dentro de los doce (12) meses de esa fecha."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 26.485, art. 26 (incorpora último párrafo)",
+  "Ley 24.417, art. 1 (sustituye)",
+  "Ley 24.417, art. 4 (incorpora último párrafo)",
+  "Código Civil y Comercial, art. 551 (incorpora último párrafo)",
+  "Código Civil y Comercial, art. 553 (incorpora último párrafo)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

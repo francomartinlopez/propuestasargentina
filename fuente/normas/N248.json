@@ -1,0 +1,127 @@
+{
+ "id": "N248",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de Uso de la Fuerza de las Fuerzas Federales",
+ "sumilla": "Reglamenta «Ley de Uso de la Fuerza de las Fuerzas Federales»: designa la autoridad de aplicación, fija armamento autorizado, informes posteriores al uso de armas, protocolos, especificaciones y custodia de las cámaras corporales, el registro digital de detenciones y de armas, y la estructura de la Oficina de Asuntos Internos con sus delegaciones.",
+ "cuando": "Fase I (dentro de los 90 días de publicada la ley «Ley de Uso de la Fuerza de las Fuerzas Federales»; rige con ella)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (decreto reglamentario, art. 99 inc. 2 CN; estructura, art. 99 inc. 1).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° [—] de Uso de la Fuerza de las Fuerzas Federales, la Ley de Ministerios N° 22.520 (t.o. Decreto N° 438/92) y sus modificatorias, la Ley N° 25.326 y el Decreto N° 50/2019 y sus modificatorios, y",
+ "considerando": [
+  "Que la Ley N° [—] de Uso de la Fuerza de las Fuerzas Federales regula el empleo de la fuerza y de las armas de fuego por las fuerzas federales y el Servicio Penitenciario Federal conforme los Principios Básicos de las Naciones Unidas, y dispone su reglamentación por el Poder Ejecutivo nacional.",
+  "Que la Ley establece el uso obligatorio de cámaras corporales, con grabación inalterable y acceso del Ministerio Público Fiscal, y los registros digitales de detenciones y de empleo de armas, cuyas condiciones técnicas corresponde precisar.",
+  "Que la Ley crea la Oficina de Asuntos Internos de las Fuerzas Federales fuera de la cadena de mando de cada fuerza, y corresponde incorporarla a la estructura del Ministerio de Justicia y Seguridad y ordenar la transferencia de las áreas que pasan a constituir sus delegaciones.",
+  "Que el artículo 19, inciso 6, de la Ley de Ministerios, en el texto de la Ley N° [—], asigna al Ministerio de Justicia y Seguridad la dirección y coordinación de las fuerzas policiales y de seguridad federales.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes y la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros y la Secretaría de Hacienda del Ministerio de Economía.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° [—] de Uso de la Fuerza de las Fuerzas Federales al Ministerio de Justicia y Seguridad, que dictará las normas complementarias necesarias para su ejecución."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Medios menos letales y armamento (artículos 3° y 8°)",
+     "texto": "La autoridad de aplicación aprobará, dentro de los sesenta (60) días, el listado de armas, municiones y medios menos letales autorizados para cada fuerza y para el Servicio Penitenciario Federal, con sus condiciones de uso, y lo publicará en el Boletín Oficial. Ningún agente podrá portar en servicio armas o municiones no incluidas en ese listado ni distintas de las asignadas en el registro del artículo 17 de la Ley."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Advertencia y empleo de armas de fuego (artículos 6° y 7°)",
+     "texto": "Los protocolos del artículo 12 de la Ley desarrollarán, para cada tipo de procedimiento, las fórmulas de advertencia, las distancias y los medios alternativos que deben agotarse antes del empleo de armas de fuego, y los criterios para apreciar los supuestos de excepción a la advertencia previa."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Informe posterior (artículo 10)",
+     "texto": "El agente que haya empleado un arma de fuego, o la fuerza con resultado de lesiones o muerte, presentará un informe escrito a su superior dentro de las doce (12) horas, en el formulario digital que apruebe la autoridad de aplicación, que se incorporará al registro del artículo 17 de la Ley. El superior lo remitirá al Ministerio Público Fiscal y a la Oficina de Asuntos Internos de las Fuerzas Federales dentro del plazo de veinticuatro (24) horas previsto en el inciso b) del artículo 10 de la Ley, junto con la grabación de la cámara corporal."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Capacitación y asistencia legal (artículo 11)",
+     "texto": "La certificación anual de aptitud del inciso a) del artículo 11 de la Ley será condición para la portación de armas en servicio. La asistencia legal del inciso c) se prestará por intermedio del servicio jurídico de la autoridad de aplicación o de profesionales que ésta contrate, a pedido del agente, y cesará si se acredita en la investigación administrativa o judicial que el agente no actuó conforme a la Ley."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Protocolos (artículo 12)",
+     "texto": "La autoridad de aplicación aprobará los protocolos de actuación dentro de los noventa (90) días de la entrada en vigencia de la Ley, al menos para: a) controles y requisas; b) detenciones y traslados; c) allanamientos; d) operativos de orden público y reuniones públicas; e) persecución de vehículos; y f) intervención ante personas en crisis. Los protocolos dictados antes de la Ley se adecuarán en el mismo plazo."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cámaras corporales (artículo 13)",
+     "texto": "Las cámaras corporales deberán: a) registrar imagen y sonido con indicación de fecha, hora y ubicación; b) activarse al inicio de cada procedimiento y, en su caso, en forma automática al desenfundar el arma; c) contar con identificación única asociada al agente que la porta; y d) transmitir o descargar sus grabaciones al sistema centralizado al finalizar cada turno. Los supuestos en que el uso no resulte materialmente posible se registrarán con su fundamento dentro del mismo turno. La autoridad de aplicación aprobará, dentro de los sesenta (60) días, el cronograma de despliegue, con prioridad para las patrullas que actúan en zonas de mayor conflictividad, de modo que todas las patrullas cuenten con cámara al 10 de diciembre de 2029, y publicará cada semestre su grado de avance."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Custodia y conservación de las grabaciones (artículo 14)",
+     "texto": "El sistema centralizado aplicará funciones de verificación de integridad a cada grabación desde su descarga y registrará la identidad de quien acceda a ella, la fecha y el motivo. Ningún integrante de la fuerza a la que pertenece el agente grabado podrá suprimir ni editar grabaciones. Vencido el plazo de conservación, la supresión se hará en forma automática, salvo que exista una denuncia, una investigación o un proceso judicial vinculado."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Acceso a las grabaciones (artículo 15)",
+     "texto": "La autoridad de aplicación habilitará al Ministerio Público Fiscal un acceso electrónico directo a las grabaciones, mediante convenio. La remisión de oficio prevista en el artículo 15 de la Ley se hará dentro de las cuarenta y ocho (48) horas de concluido el procedimiento. Las solicitudes de la persona grabada o de su defensa se tramitarán ante la autoridad judicial o fiscal competente."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Registro digital de detenciones (artículo 16)",
+     "texto": "El registro digital de detenciones funcionará en un sistema único para todas las fuerzas federales, que se completará desde el lugar de la detención o, si no fuera posible, desde la primera dependencia a la que se traslade a la persona, y no admitirá modificaciones posteriores sin constancia de su autor y de su motivo. La autoridad de aplicación celebrará convenios con el Ministerio Público Fiscal, el Ministerio Público de la Defensa y el Comité Nacional para la Prevención de la Tortura para su acceso."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Registro de empleo de armas (artículo 17)",
+     "texto": "El registro de empleo de armas se integrará con el inventario de armamento y munición de cada fuerza y del Servicio Penitenciario Federal. Cada fuerza conciliará cada mes la munición asignada y la consumida, y toda diferencia se comunicará a la Oficina de Asuntos Internos de las Fuerzas Federales."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Estructura de la Oficina de Asuntos Internos (artículo 18)",
+     "texto": "Incorpórase a la estructura organizativa de primer nivel operativo del Ministerio de Justicia y Seguridad, en el decreto de estructura previsto en el artículo 8° de la Ley de Ministerios, la Oficina de Asuntos Internos de las Fuerzas Federales, con nivel de dirección nacional, sin rango de Secretaría, y dependencia directa del Ministro, con el objetivo de investigar las materias del artículo 21 de la Ley, conducir sus delegaciones en cada fuerza federal y en el Servicio Penitenciario Federal, y llevar el registro público de denuncias del artículo 25 de la Ley. La Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros y la Secretaría de Hacienda del Ministerio de Economía intervendrán para aprobar sus unidades inferiores dentro de los sesenta (60) días."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Selección del titular (artículo 19)",
+     "texto": "El procedimiento público de selección del titular de la Oficina comprenderá la publicación de la convocatoria y de los antecedentes de las personas inscriptas, un plazo de quince (15) días para observaciones de la ciudadanía y una entrevista pública. El acto de designación será fundado y se publicará en el Boletín Oficial."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Transferencia de las delegaciones (artículo 20)",
+     "texto": "Las jefaturas de la Policía Federal Argentina, de la Gendarmería Nacional y de la Policía de Seguridad Aeroportuaria transferirán a la Oficina, dentro de los treinta (30) días de su puesta en funcionamiento, los expedientes en trámite, los registros, los bienes y el personal de sus áreas de asuntos internos y de control externo. La Prefectura Naval Argentina y el Servicio Penitenciario Federal pondrán a disposición de la Oficina, en el mismo plazo, los espacios y el personal que ésta les requiera para constituir sus delegaciones."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Investigaciones (artículos 21 a 23)",
+     "texto": "La Oficina actuará de oficio o por denuncia, que podrá presentarse por medios electrónicos y en forma anónima. Notificará al agente investigado la apertura de la investigación, salvo que ello comprometa la preservación de la prueba, y le asegurará el acceso a las actuaciones y la presentación de descargos. La prórroga del plazo previsto en el artículo 23 de la Ley no podrá exceder de seis (6) meses."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Régimen propio del Servicio Penitenciario Federal (artículo 27)",
+     "texto": "La autoridad de aplicación aprobará, dentro de los noventa (90) días, el régimen de empleo de la fuerza y de las armas dentro de los establecimientos del Servicio Penitenciario Federal, que deberá ajustarse a los principios y reglas del Capítulo II de la Ley y contemplar, al menos, las situaciones de motín, evasión, agresión entre internos y requisas de pabellones."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Registro público de denuncias e información (artículos 25 y 26)",
+     "texto": "La autoridad de aplicación celebrará el convenio con el Comité Nacional para la Prevención de la Tortura dentro de los noventa (90) días y publicará el registro público de denuncias en su sitio oficial, en formato abierto, con actualización mensual del estado de cada denuncia, sin datos que permitan identificar a las personas denunciantes."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el mismo día que la Ley N° [—] de Uso de la Fuerza de las Fuerzas Federales."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 50/2019, Anexos del Ministerio de Seguridad Nacional (incorpora la Oficina de Asuntos Internos)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

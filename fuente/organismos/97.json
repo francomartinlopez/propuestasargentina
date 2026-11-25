@@ -1,0 +1,114 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Dirección Nacional Electoral",
+    "estado": "modificado",
+    "rol": "Coordina cronogramas y logística con las provincias y publica el costo de cada elección. Verifica la condición al recibir cada comunicación de simultaneidad y publica el resultado. Asiste técnicamente, firma los convenios de cofinanciamiento y publica cada año el estado de cada jurisdicción. Ofrece las cláusulas modelo (Anexo II del Acuerdo «Acuerdo Federal de Reglas Electorales Limpias») y publica cada año el estado de cada provincia. Organiza la consulta y publica la información oficial objetiva sobre cada pregunta. Organiza la elección de convencionales con la Justicia Nacional Electoral.",
+    "hoy": "Dirección Nacional Electoral, Vicejefatura de Gabinete del Interior (JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Asiste el voto presencial y por correo desde el exterior.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Correo Oficial de la República Argentina S.A.",
+    "estado": "modificado",
+    "rol": "Logística del voto por correo postal.",
+    "hoy": "Correo Oficial de la República Argentina S.A. (órbita JGM – Vicejefatura de Gabinete del Interior)",
+    "hijos": []
+   },
+   {
+    "nombre": "Oficina Nacional de Contrataciones",
+    "estado": "modificado",
+    "rol": "Provee en forma automática el registro de proveedores y contratistas para el cruce.",
+    "hoy": "Oficina Nacional de Contrataciones (JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+    "estado": "modificado",
+    "rol": "Provee el registro de beneficiarios finales.",
+    "hoy": "ARCA (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Partidos políticos",
+    "estado": "modificado",
+    "rol": "Informan aportes en 48 horas y adecuan sus cartas orgánicas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior de la Jefatura de Gabinete de Ministros",
+    "estado": "existente",
+    "rol": "Convoca a los gobernadores, negocia y firma por la Nación (por el Jefe de Gabinete).",
+    "hoy": "Vicejefatura de Gabinete del Interior, Jefatura de Gabinete de Ministros (DNU 571/2026; Decreto 581/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión federal de seguimiento",
+    "estado": "nuevo",
+    "rol": "Verifica el cumplimiento de las metas y publica sus actas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior",
+    "estado": "modificado",
+    "rol": "Certifica metas, celebra convenios, transfiere el cofinanciamiento y publica el estado de cada provincia. Ofrece el diseño de la Boleta Única y cofinancia por convenio.",
+    "hoy": "Dirección Nacional Electoral, Vicejefatura de Gabinete del Interior, Jefatura de Gabinete de Ministros (DNU 571/2026; Decreto 581/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Convención reformadora",
+    "estado": "nuevo",
+    "rol": "Sanciona la reforma dentro de los temas habilitados, en un plazo de noventa días; se disuelve al concluir.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Sindicatura General de la Nación (SIGEN)",
+    "estado": "modificado",
+    "rol": "Se incorpora a la Autoridad si la Convención aprueba el tema del artículo 3.",
+    "hoy": "SIGEN (Ley 24.156, Título VI), en el Poder Ejecutivo",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Justicia Nacional Electoral",
+   "rol": "Publica los aportes en 72 horas, cruza beneficiarios finales, recibe el software para auditoría y aplica sanciones."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia y Unidad de Información Financiera (UIF)",
+   "rol": "Cooperan en el control de los aportes."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Adecuan su legislación para acceder a la simultaneidad."
+  },
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Ratifica el Acuerdo y recibe el informe anual."
+  },
+  {
+   "nombre": "Junta electoral provincial independiente",
+   "rol": "Organiza las elecciones, oficializa candidaturas y boletas, escruta y controla las cuentas de campaña."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Con la reforma adquiere rango constitucional ampliado e integra el control interno."
+  }
+ ]
+}

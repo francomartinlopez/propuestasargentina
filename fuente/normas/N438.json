@@ -1,0 +1,89 @@
+{
+ "id": "N438",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de Integración Productiva Federal",
+ "sumilla": "Reglamenta la ley «Ley de Integración Productiva Federal»: metodología y calendario del Mapa Federal de Encadenamientos Productivos, cálculo de la nómina de grandes exportadores por ARCA, contenido y formato del plan anual de compras, funcionamiento de las mesas por complejo, ponderación del nuevo criterio de prioridad de obras y procedimiento sancionatorio.",
+ "cuando": "Fase II, dentro de los 90 días de publicada la ley «Ley de Integración Productiva Federal»",
+ "cuando_breve": "Fase II, dentro de los 90 días de publicada la ley «Ley de Integración Productiva Federal»",
+ "tramite": "Decreto reglamentario (art. 99 inc. 2 CN); refrenda el ministro de Economía. Solo puede dictarse después de la ley «Ley de Integración Productiva Federal».",
+ "motivos": null,
+ "visto": "El Expediente N° […], la Ley N° [—] de Integración Productiva Federal, y",
+ "considerando": [
+  "Que la Ley N° [—] creó el Programa Federal de Integración Productiva, con un Mapa Federal de Encadenamientos Productivos, mesas por complejo exportador y un plan anual de compras para las empresas que explican el ochenta por ciento de las exportaciones de cada complejo.",
+  "Que su artículo 23 encomienda al Poder Ejecutivo nacional su reglamentación dentro de los noventa (90) días de su publicación.",
+  "Que la metodología del Mapa y el cálculo de la nómina deben conocerse de antemano y basarse en fuentes oficiales, para que su alcance no dependa de decisiones discrecionales.",
+  "Que ha tomado intervención el servicio jurídico permanente del Ministerio de Economía.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "texto": "Desígnase autoridad de aplicación de la Ley N° [—] al Ministerio de Economía, que la ejercerá por intermedio de la Secretaría de Producción y Comercio.",
+     "epigrafe": "Autoridad de aplicación"
+    },
+    {
+     "n": 2,
+     "texto": "Dentro de los SESENTA (60) días, la autoridad de aplicación publicará la metodología del Mapa Federal de Encadenamientos Productivos, que precisará: a) los complejos y regiones comprendidos; b) los indicadores para delimitar el núcleo y las áreas de influencia local y alejada por departamento o partido, con datos del INDEC y del Sistema Integrado Previsional Argentino; c) los criterios para identificar proveedores actuales y potenciales a partir del Registro Público de Oferta Local, de las cámaras y de las mesas; d) la clasificación de las obras de conectividad en nuevas, de refacción y de ampliación; y e) los indicadores de déficit urbano de las zonas de desarrollo urbano local.",
+     "epigrafe": "Metodología del Mapa"
+    },
+    {
+     "n": 3,
+     "texto": "El Mapa se publicará en formato de datos abiertos, con capas separadas para el núcleo, los proveedores, los corredores, las obras de conectividad, las zonas de desarrollo urbano local y las áreas de influencia, sobre la cartografía del Instituto Geográfico Nacional. Su versión interactiva permitirá consultar cada capa por complejo, por región y para todo el país.",
+     "epigrafe": "Publicación del Mapa"
+    },
+    {
+     "n": 4,
+     "texto": "La Agencia de Recaudación y Control Aduanero (ARCA) calculará la nómina del artículo 9° de la ley antes del 31 de marzo de cada año, con el valor FOB de las destinaciones de exportación oficializadas en el año calendario anterior, clasificadas por complejo según la correspondencia que publica el INDEC. Cuando una empresa exporte en más de un complejo, se considerará por separado en cada uno. La comunicación a cada empresa se hará por su domicilio fiscal electrónico.",
+     "epigrafe": "Cálculo de la nómina"
+    },
+    {
+     "n": 5,
+     "texto": "El plan anual de compras se presentará en el formulario que apruebe la autoridad de aplicación, por la plataforma de Trámites a Distancia (TAD), y contendrá al menos: los rubros y posiciones de la Nomenclatura Común del MERCOSUR, los volúmenes y montos estimados, el semestre previsto de compra y un punto de contacto para proveedores. Los planes se publicarán sin datos comerciales que la empresa acredite como confidenciales.",
+     "epigrafe": "Plan anual de compras"
+    },
+    {
+     "n": 6,
+     "texto": "La consulta al Registro Público de Oferta Local del inciso b) del artículo 10 de la ley se acreditará con la constancia de la invitación a cotizar cursada a los proveedores inscriptos en el rubro. Cuando la empresa adjudique a un proveedor no inscripto o del exterior pese a existir oferta inscripta, informará el motivo en su informe anual.",
+     "epigrafe": "Consulta al Registro Público de Oferta Local"
+    },
+    {
+     "n": 7,
+     "texto": "Las mesas por complejo se reunirán al menos dos veces por año. La autoridad de aplicación dictará su reglamento de funcionamiento, publicará sus convocatorias con QUINCE (15) días de anticipación y sus actas dentro de los DIEZ (10) días de cada reunión.",
+     "epigrafe": "Mesas por complejo"
+    },
+    {
+     "n": 8,
+     "texto": "A los fines del artículo 12 de la ley y del inciso g) del artículo 9° de la Ley de Presupuesto Plurianual de Infraestructura, el criterio de encadenamientos productivos tendrá una ponderación no inferior al QUINCE POR CIENTO (15 %) del puntaje total de cada obra. La autoridad con competencia en obras públicas publicará el puntaje de cada obra con el detalle de cada criterio.",
+     "epigrafe": "Ponderación en la prioridad de obras"
+    },
+    {
+     "n": 9,
+     "texto": "Las sanciones del artículo 11 de la ley se aplicarán previo sumario con vista de TREINTA (30) días hábiles. La multa no podrá superar el CERO COMA UNO POR CIENTO (0,1 %) del valor FOB exportado en el año anterior en la primera infracción ni el CERO COMA CINCO POR CIENTO (0,5 %) en caso de reincidencia dentro de los TRES (3) años.",
+     "epigrafe": "Procedimiento sancionatorio"
+    },
+    {
+     "n": 10,
+     "texto": "El informe del artículo 21 de la ley se remitirá antes del 30 de septiembre de cada año y se publicará el mismo día en el sitio oficial de la autoridad de aplicación.",
+     "epigrafe": "Informe al Congreso"
+    },
+    {
+     "n": 11,
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el BOLETÍN OFICIAL.",
+     "epigrafe": "Vigencia"
+    },
+    {
+     "n": 12,
+     "texto": "Comuníquese, publíquese, dése a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese.",
+     "epigrafe": "Comuníquese"
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

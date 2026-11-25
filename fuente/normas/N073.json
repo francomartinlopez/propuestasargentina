@@ -1,0 +1,89 @@
+{
+ "id": "N073",
+ "tipo": "decreto",
+ "titulo": "Reglamentación de la ley de estabilidad de la economía del conocimiento",
+ "sumilla": "Reglamenta la ley «Ley de estabilidad de la economía del conocimiento»: adecua el Decreto 1034/2020 a la prórroga hasta 2039, fija la prioridad de pymes y nuevas empresas dentro del cupo fiscal, organiza la selección, la metodología y el calendario de la evaluación bienal independiente y define el comprobante que identifica los cobros de exportaciones de servicios de libre disponibilidad.",
+ "cuando": "Fase II (años 2-3), dentro de los 90 días de publicada la ley «Ley de estabilidad de la economía del conocimiento»",
+ "cuando_breve": "Fase II",
+ "tramite": "Decreto reglamentario (art. 99 inc. 2 CN); refrenda el ministro con competencia en economía. Solo puede dictarse después de la ley «Ley de estabilidad de la economía del conocimiento».",
+ "motivos": null,
+ "visto": "El Expediente N° […], la Ley N° [—] de Estabilidad de la Economía del Conocimiento, las Leyes Nros. 27.506 y 27.570, el Decreto N° 1034/2020, y",
+ "considerando": [
+  "Que la Ley N° [—] prorrogó hasta el 31 de diciembre de 2039 el Régimen de Promoción de la Economía del Conocimiento de la Ley N° 27.506, con sus beneficios centrales y una evaluación pública independiente cada dos años, y estableció la libre disponibilidad de las divisas que cobran los exportadores de servicios.",
+  "Que su artículo 12 encomienda al Poder Ejecutivo nacional su reglamentación dentro de los noventa (90) días de su publicación.",
+  "Que el Decreto N° 1034/2020 reglamenta la Ley N° 27.506 y corresponde adecuarlo a la nueva fecha de vigencia del régimen.",
+  "Que el cupo fiscal anual del régimen tiene un tope en proporción del producto interno bruto, por lo que conviene fijar un orden de prioridad que favorezca a las micro y pequeñas empresas, a los independientes y a las nuevas empresas.",
+  "Que la evaluación debe ser independiente, con metodología conocida de antemano y acceso a la información necesaria con resguardo del secreto fiscal.",
+  "Que la regulación del mercado de cambios corresponde al Banco Central de la República Argentina, por lo que el presente decreto se limita a identificar el comprobante fiscal al que se vinculan los cobros.",
+  "Que ha tomado intervención el servicio jurídico permanente del Ministerio de Economía.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Prórroga",
+     "texto": "Las referencias al plazo de vigencia del Régimen de Promoción de la Economía del Conocimiento contenidas en el Decreto N° 1034/2020 y en las normas complementarias de la autoridad de aplicación se entienden referidas al 31 de diciembre de 2039, conforme al artículo 2° de la Ley N° [—]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Inscriptos",
+     "texto": "Los beneficiarios inscriptos en el régimen a la fecha de entrada en vigencia de la ley conservan su inscripción sin nuevo trámite. La autoridad de aplicación continuará verificando el cumplimiento anual de los requisitos del régimen."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Prioridad dentro del cupo",
+     "texto": "Cuando las solicitudes de beneficios de un ejercicio superen el cupo fiscal fijado conforme al artículo 10 de la Ley N° [—], la autoridad de aplicación las atenderá en el siguiente orden: a) micro y pequeñas empresas y personas humanas que exporten servicios; b) empresas con menos de CINCO (5) años desde su inscripción ante la Agencia de Recaudación y Control Aduanero (ARCA); c) medianas empresas; y d) las demás. Dentro de cada grupo, por orden de presentación."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Selección del evaluador",
+     "texto": "La autoridad de aplicación seleccionará al evaluador del artículo 4° de la ley mediante convocatoria pública a universidades nacionales e instituciones académicas públicas, con criterios de antecedentes en evaluación de políticas públicas y de idoneidad del equipo. El convenio comprenderá DOS (2) evaluaciones y no podrá celebrarse con la misma institución por más de DOS (2) períodos consecutivos. Los integrantes del equipo evaluador declararán no tener vínculos laborales ni contractuales con beneficiarios del régimen."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Metodología",
+     "texto": "El evaluador publicará su metodología antes de iniciar cada evaluación. Medirá los indicadores del artículo 4° de la ley y, cuando los datos lo permitan, comparará a los beneficiarios con empresas similares no inscriptas. Las erogaciones de la evaluación se atenderán con los créditos asignados a la autoridad de aplicación en la ley de presupuesto."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Calendario",
+     "texto": "Cada evaluación se publicará antes del 31 de agosto del año que corresponda, para su remisión al Honorable Congreso de la Nación junto con el proyecto de ley de presupuesto conforme al artículo 5° de la ley."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Información",
+     "texto": "La autoridad de aplicación y la ARCA entregarán al evaluador la información solicitada dentro de los SESENTA (60) días, en forma anonimizada y agregada, conforme a un protocolo que aprobarán en conjunto para resguardar el secreto fiscal, en los términos del artículo 6° de la ley."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Respuesta a la evaluación",
+     "texto": "Dentro de los SESENTA (60) días de publicada cada evaluación, la autoridad de aplicación publicará una respuesta con las medidas adoptadas o propuestas a partir de sus conclusiones."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Comprobante de exportación",
+     "texto": "A los fines del artículo 8° de la Ley N° [—], el comprobante de exportación al que corresponde cada cobro es el comprobante electrónico de exportación de servicios emitido conforme a las normas de la ARCA, incluido el emitido por el canal simplificado para exportadores de servicios. La ARCA pondrá a disposición del Banco Central de la República Argentina (BCRA) la consulta de esos comprobantes."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el BOLETÍN OFICIAL."
+    },
+    {
+     "n": 11,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 1034/2020 (reglamentario de la Ley 27.506): las referencias al plazo de vigencia se entienden al 31/12/2039"
+ ],
+ "deroga": [],
+ "variantes": null
+}

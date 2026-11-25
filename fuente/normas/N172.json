@@ -1,0 +1,109 @@
+{
+ "id": "N172",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley marco del Programa Nacional de Trabajo Comunitario de Transición",
+ "sumilla": "Reglamenta «Ley marco del Programa Nacional de Trabajo Comunitario de Transición»: inscripción, compatibilidades, banco público de proyectos con evaluación y publicación previa, control de la no sustitución, formación obligatoria con registro de asistencia, pago directo del complemento por ANSES y distribución de los 50.000 lugares del piloto según los desocupados de cada aglomerado.",
+ "cuando": "Fase I (dentro de los 90 días de publicada la ley «Ley marco del Programa Nacional de Trabajo Comunitario de Transición»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (decreto reglamentario, art. 99 inc. 2 CN).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° [—] marco del Programa Nacional de Trabajo Comunitario de Transición, las Leyes Nros. 24.013 y 27.802 y el Decreto N° 198/2024, y",
+ "considerando": [
+  "Que la Ley N° [—] marco del Programa Nacional de Trabajo Comunitario de Transición creó un programa voluntario de tareas comunitarias, formación y búsqueda asistida de empleo para las personas sin empleo registrado, con un complemento de medio salario mínimo, vital y móvil pagado en cuenta bancaria, permanencia máxima de doce (12) meses, un banco público de proyectos y un piloto de cincuenta mil (50.000) lugares.",
+  "Que corresponde reglamentar la inscripción, las compatibilidades, la presentación y evaluación de proyectos, el control de la no sustitución de empleo, la formación obligatoria, el pago directo del complemento y la distribución de los lugares del piloto.",
+  "Que la gestión digital y el pago directo, sin intermediarios, aseguran la transparencia del Programa.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° [—] marco del Programa Nacional de Trabajo Comunitario de Transición, en adelante 'la Ley', a la Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social, que gestionará el Programa en forma digital."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Inscripción y asignación",
+     "texto": "La inscripción en el Programa se realizará por el Portal Empleo o en las Oficinas de Empleo, con la acreditación de la identidad y, en su caso, de la residencia legal conforme el artículo 3° de la Ley. Las personas inscriptas se asignarán a los proyectos publicados en el banco público según el orden de inscripción y la cercanía de su domicilio al lugar de la tarea."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Compatibilidades",
+     "texto": "La participación en el Programa es compatible con el ingreso universal que establezca la ley y con las asignaciones familiares y demás prestaciones de la seguridad social no contributivas. Es incompatible con la percepción de la prestación por desempleo del Título IV de la Ley N° 24.013 y con una relación laboral registrada. Quien obtenga un empleo registrado egresará del Programa al fin del mes en que se registre el alta, sin reintegro de lo percibido."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Seguro de accidentes personales",
+     "texto": "La autoridad de aplicación contratará el seguro de accidentes personales del artículo 4° de la Ley en forma colectiva, con cobertura durante las actividades del Programa y en el trayecto entre el domicilio y el lugar de la tarea o de la formación."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Banco público de proyectos",
+     "texto": "Los municipios, las provincias y las organizaciones sociales sin fines de lucro presentarán sus proyectos por la plataforma digital del banco público del artículo 11 de la Ley, con sus objetivos, el lugar de ejecución, la cantidad de participantes, la persona responsable de la supervisión, el costo de los materiales a su cargo y los indicadores de resultado. La autoridad de aplicación evaluará cada proyecto dentro de los treinta (30) días y lo publicará antes de asignarle participantes. Al concluir el proyecto, la entidad proponente cargará los resultados alcanzados, que también se publicarán."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Control de la no sustitución",
+     "texto": "La entidad proponente declarará bajo juramento que el proyecto no sustituye puestos de planta ni empleo privado existente. La autoridad de aplicación verificará esa declaración con la información de la registración laboral y de las plantas de personal del proponente, recibirá denuncias por el sitio del banco público y dará de baja el proyecto que incumpla el artículo 7° de la Ley, con reasignación de sus participantes."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Formación y búsqueda asistida",
+     "texto": "Las ocho (8) horas semanales de formación y búsqueda asistida del artículo 5° de la Ley se cumplirán en el Programa de Formación Laboral Básica del artículo 152 de la Ley N° 27.802 o en acciones acreditadas por la autoridad de aplicación, y en la búsqueda por el Portal Empleo con el acompañamiento de la Oficina de Empleo. La asistencia se registrará en forma digital. Las inasistencias injustificadas que superen el veinte por ciento (20 %) de las horas de un mes darán lugar a la pérdida del complemento de ese mes y, si se reiteran en tres (3) meses, a la baja del Programa."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Pago del complemento",
+     "texto": "Encomiéndase a la Administración Nacional de la Seguridad Social (ANSES) el pago del complemento por actividad del artículo 8° de la Ley, que se depositará cada mes en la cuenta bancaria a nombre del participante, por el equivalente a la mitad (1/2) del salario mínimo, vital y móvil vigente en el mes de pago, contra la certificación digital de asistencia que la entidad proponente y la institución de formación registren en la plataforma. Ninguna entidad proponente podrá recibir ni administrar fondos destinados al complemento."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Renovación",
+     "texto": "La renovación por única vez prevista en el artículo 9° de la Ley procederá cuando el participante se encuentre cursando una formación cuya conclusión esté prevista dentro de los seis (6) meses siguientes al vencimiento de su permanencia."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Prioridad de los egresados",
+     "texto": "El Portal Empleo identificará a quienes completen el Programa y los presentará en forma prioritaria ante las búsquedas laborales compatibles con su perfil, conforme el artículo 10 de la Ley."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Piloto",
+     "texto": "Los cincuenta mil (50.000) lugares del piloto del artículo 13 de la Ley se distribuirán entre los aglomerados allí previstos en proporción a la cantidad de personas desocupadas que registre en cada uno la Encuesta Permanente de Hogares del Instituto Nacional de Estadística y Censos (INDEC) correspondiente al segundo trimestre de 2026, mediante los convenios con los municipios respectivos. Los lugares que no se cubran dentro de los noventa (90) días de la firma de cada convenio podrán reasignarse a los demás aglomerados del piloto."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Transparencia",
+     "texto": "La publicación mensual del artículo 12 de la Ley se hará en el sitio del banco público, por proyecto, municipio y aglomerado, dentro de los quince (15) días de concluido cada mes."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Evaluación del piloto",
+     "texto": "La evaluación del piloto prevista en el artículo 14 de la Ley será realizada por una universidad nacional u otra institución académica independiente seleccionada por concurso, con un diseño que permita comparar la inserción laboral de los participantes con la de personas de características similares que no participaron, y se publicará dentro de los noventa (90) días de concluido el primer año."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Financiamiento",
+     "texto": "La Jefatura de Gabinete de Ministros, al distribuir los créditos de cada ejercicio, asignará al Programa los créditos que la ley de presupuesto identifique conforme el artículo 16 de la Ley, incluidos los que correspondían al Programa Volver al Trabajo creado por el artículo 1° del Decreto N° 198/2024."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

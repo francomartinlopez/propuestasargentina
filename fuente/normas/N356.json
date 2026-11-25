@@ -1,0 +1,82 @@
+{
+ "id": "N356",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de restitución del aporte del Tesoro al Fondo Nacional de la Defensa (FONDEF)",
+ "sumilla": "Restituye el inciso 1 del artículo 4° de la Ley 27.565 con un calendario que arranca en 0,35 % de los ingresos corrientes y sube hasta 0,8 % solo si la regla fiscal lo permite, para el reequipamiento y la vigilancia marítima y antártica; excluye al fondo de la facultad de disolución del art. 5 de la Ley 27.742.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Mayoría simple; cámara de origen indistinta (gasto, no tributo).",
+ "motivos": "La Ley N° 27.565 creó en 2020 el Fondo Nacional de la Defensa (FONDEF) para financiar la recuperación, modernización e incorporación de material de las Fuerzas Armadas, con un aporte del Tesoro nacional que comenzaba en el 0,35 % de los ingresos corrientes del presupuesto consolidado del Sector Público Nacional en 2020 y alcanzaba el 0,8 % desde 2023. El artículo 30, inciso d), de la Ley N° 27.798 de Presupuesto 2026 derogó ese aporte. Según datos del Ministerio de Economía, el gasto nacional en defensa y seguridad descendió del 1,19 % del PIB en 2003 al 0,88 % en 2023. Un reequipamiento previsible requiere una fuente estable y plurianual, que no dependa de la negociación de cada año. El presente proyecto restituye el aporte con un calendario que vuelve a comenzar en el 0,35 % y solo aumenta, en escalones de 0,15 puntos porcentuales hasta el 0,8 %, cuando el presupuesto con ese incremento cumple la regla de resultado fiscal. Fija como prioridades la vigilancia marítima y del espacio aéreo, el transporte aéreo y el apoyo logístico antártico, con participación de la industria nacional, prevé la verificación de la Oficina de Presupuesto del Congreso y excluye expresamente al fondo de la facultad de disolución de fondos del artículo 5° de la Ley N° 27.742.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley restituye el aporte del Tesoro nacional al Fondo Nacional de la Defensa (FONDEF) creado por la Ley N° 27.565, con un calendario gradual compatible con la regla de resultado fiscal vigente."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ley N° 27.798",
+     "texto": "Déjase sin efecto el inciso d) del artículo 30 de la Ley N° 27.798."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Restitución del aporte del Tesoro",
+     "texto": "Restablécese el inciso 1 del artículo 4° de la Ley N° 27.565, con el siguiente texto: «1. Los créditos que anualmente asigne la Ley de Presupuesto General de la Administración Nacional, que no podrán ser inferiores al porcentaje del total de los ingresos corrientes previstos en el presupuesto consolidado del Sector Público Nacional que resulte del siguiente calendario: a) TREINTA Y CINCO CENTÉSIMOS POR CIENTO (0,35 %) en el primer ejercicio de aplicación; b) en cada ejercicio posterior, el porcentaje del ejercicio anterior incrementado en QUINCE CENTÉSIMOS (0,15) de punto porcentual, hasta alcanzar el OCHO DÉCIMOS POR CIENTO (0,8 %), que se mantendrá en los ejercicios siguientes. El incremento previsto en el inciso b) solo procede cuando el proyecto de ley de presupuesto del ejercicio respectivo, con el incremento incluido, cumpla la regla de resultado fiscal vigente; en caso contrario, se mantiene el porcentaje del ejercicio anterior. Estos créditos son adicionales a los asignados a la jurisdicción de defensa y a las Fuerzas Armadas.»"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Primer ejercicio de aplicación",
+     "texto": "El primer ejercicio de aplicación del calendario del artículo 3° es el correspondiente al primer proyecto de ley de presupuesto que el Poder Ejecutivo nacional remita al Honorable Congreso de la Nación después de la entrada en vigencia de la presente ley."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Fuente de financiamiento",
+     "texto": "El aporte se financia con rentas generales del Tesoro nacional y se incluye dentro del límite de gasto compatible con la regla de resultado fiscal vigente. La afectación específica de recursos que dispone la presente ley se establece en los términos del artículo 23 de la Ley N° 24.156 de Administración Financiera y de los Sistemas de Control del Sector Público Nacional."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Verificación de la regla fiscal",
+     "texto": "El mensaje del proyecto de ley de presupuesto de cada ejercicio indicará el porcentaje aplicado conforme el calendario del artículo 3° y, en su caso, las razones por las que no procede el incremento. La Oficina de Presupuesto del Congreso (OPC), creada por la Ley N° 27.343, informará en su análisis del proyecto de presupuesto si el porcentaje propuesto se ajusta al calendario y a la regla de resultado fiscal vigente."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Prioridades",
+     "texto": "Dentro del destino fijado por los artículos 2° y 3° de la Ley N° 27.565, los recursos del FONDEF se aplicarán con prioridad a la recuperación, modernización e incorporación de material para el patrullaje y la vigilancia marítima, la vigilancia del espacio aéreo, el transporte aéreo y el apoyo logístico antártico, incluidos los medios que la Armada Argentina afecte al Sistema Nacional de Vigilancia Marítima, con participación de la industria nacional de la defensa."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Plan plurianual",
+     "texto": "El Ministerio de Defensa elaborará un plan plurianual de reequipamiento financiado con el FONDEF, conforme las prioridades del artículo 7° y la Directiva de Política de Defensa Nacional vigente, y lo presentará a las comisiones de Defensa Nacional de ambas Cámaras del Honorable Congreso de la Nación, conforme el artículo 6° de la Ley N° 27.565."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Exclusión de la facultad de disolución",
+     "texto": "El Fondo Nacional de la Defensa (FONDEF) queda expresamente excluido de la facultad de disolver fondos fiduciarios prevista en el artículo 5° de la Ley N° 27.742, en cuanto pudiera resultarle aplicable. Su disolución, unificación o la modificación de su destino solo podrán disponerse por ley."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entra en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.565, art. 4 inc. 1 (restablece con nuevo texto)"
+ ],
+ "deroga": [
+  "Ley 27.798, art. 30 inc. d"
+ ],
+ "variantes": null
+}

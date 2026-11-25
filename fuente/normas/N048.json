@@ -1,0 +1,85 @@
+{
+ "id": "N048",
+ "tipo": "ordenanza_modelo",
+ "titulo": "Ordenanza municipal modelo del componente mensual del impuesto al valor del suelo",
+ "sumilla": "Modelo para los municipios piloto y los bonaerenses que se adhieran: establece en el ejido el componente mensual sobre el valor del suelo, incluido el suelo ocioso, con la base del catastro provincial, el pago a cuenta en cada compraventa descontable de las cuotas, el piso de vivienda única, y destina su recaudación a sostener la baja de la tasa de Seguridad e Higiene; remite al capítulo habilitante de la ley provincial «Modelo de ley provincial del impuesto al valor del suelo» donde haga falta.",
+ "cuando": "Fase II (desde el año 2): después de la ley provincial «Modelo de ley provincial del impuesto al valor del suelo» en cada provincia; en los municipios piloto, desde la publicación de su mapa de valores del suelo.",
+ "cuando_breve": "Fase II",
+ "tramite": "No pasa por el Congreso: modelo que cada Concejo Deliberante sanciona según la ley orgánica municipal o la carta orgánica; en la Provincia de Buenos Aires, con la habilitación del capítulo municipal de la ley provincial «Modelo de ley provincial del impuesto al valor del suelo». En la Ciudad Autónoma de Buenos Aires el texto se adapta como ley de la Legislatura.",
+ "motivos": "El Municipio adhirió al compromiso de reducir la tasa por inspección de seguridad e higiene, que funciona como otro gravamen sobre la facturación, a medida que reciba una recaudación de reemplazo basada en el suelo. La ley provincial del impuesto al valor del suelo habilita a los municipios a cobrar su componente mensual en el ejido. La presente ordenanza establece ese componente sobre el valor de mercado del suelo de cada parcela, edificada o no, nunca sobre las construcciones, con la base que determina el catastro provincial con datos de mercado. Quien compra un inmueble ingresa un pago a cuenta que se descuenta íntegramente de sus cuotas siguientes, de modo que no se trata de un tributo sobre la operación. La vivienda única familiar tiene un piso protegido y el suelo ocioso no tiene reducción alguna, para que retener tierra vacante deje de ser un buen negocio. La recaudación se destina en primer lugar a sostener la baja de la tasa de seguridad e higiene, y se publica cada año junto con la de los tributos que reemplaza.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Concejo Deliberante de [Municipio] sanciona con fuerza de Ordenanza:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Establécese en el ejido del Municipio de [Municipio] el componente mensual del impuesto al valor del suelo, conforme al Capítulo IV de la Ley provincial N° [—] [o: en ejercicio de la potestad tributaria que le reconoce su carta orgánica], que grava el valor de mercado del suelo de cada parcela, edificada o no, con exclusión de las construcciones y mejoras."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Base imponible",
+     "texto": "La base imponible de cada parcela es la que determine el catastro provincial conforme a los artículos 3° y 4° de la Ley provincial N° [—], con sus revaluaciones en cada compraventa y en cada transmisión por causa de muerte."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Alícuota y cuotas",
+     "texto": "El componente mensual resulta de aplicar a la base la alícuota anual que fije la Ordenanza Tarifaria, que no podrá superar la máxima que fije la Ley Impositiva provincial, dividida en doce (12) cuotas mensuales."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Pago a cuenta en la compraventa",
+     "texto": "En cada compraventa de un inmueble situado en el ejido, el adquirente ingresará al Municipio el pago a cuenta previsto en el artículo 7° de la Ley provincial N° [—], que se descontará íntegramente de sus cuotas siguientes y no constituye un tributo sobre la operación."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Vivienda única",
+     "texto": "Se aplicará a la vivienda única y permanente la deducción del artículo 8° de la Ley provincial N° [—], que la Ordenanza Tarifaria podrá ampliar."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Suelo ocioso",
+     "texto": "Las parcelas baldías o sin edificación tributan sobre el valor total de su suelo, sin deducción ni reducción alguna."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Impugnación",
+     "texto": "Las impugnaciones de la valuación se tramitarán conforme al artículo 5° de la Ley provincial N° [—]. Las demás cuestiones se rigen por la Ordenanza Fiscal."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Destino",
+     "texto": "La recaudación del componente se destinará prioritariamente a sostener la reducción de la tasa por inspección de seguridad e higiene, o del tributo municipal equivalente sobre los ingresos o la facturación, conforme a la Ordenanza N° [—] de adhesión al Acuerdo Federal de Sustitución Tributaria, y se computará como recaudación de reemplazo a esos fines."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Otras contribuciones",
+     "texto": "El componente se aplicará sin perjuicio de las contribuciones por valorización inmobiliaria vigentes en el Municipio [en la Provincia de Buenos Aires: la participación municipal en las valorizaciones inmobiliarias de los artículos 46 a 52 de la Ley provincial N° 14.449]."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Publicación",
+     "texto": "El Departamento Ejecutivo publicará cada año, antes del 30 de junio, la recaudación del año anterior del componente mensual y del pago a cuenta, la de la tasa que se reduce y la superficie de parcelas baldías en zonas urbanas."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vigencia",
+     "texto": "La presente Ordenanza entrará en vigencia el día siguiente al de su publicación. El componente se aplicará desde el 1° de enero siguiente a la publicación del mapa de valores del suelo del ejido por el catastro provincial."
+    },
+    {
+     "n": 12,
+     "epigrafe": "",
+     "texto": "Comuníquese al Departamento Ejecutivo, publíquese, regístrese y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ordenanza fiscal y tarifaria de [Municipio] (se incorpora el componente mensual del impuesto al valor del suelo)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

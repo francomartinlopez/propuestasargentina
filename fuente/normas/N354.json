@@ -1,0 +1,135 @@
+{
+ "id": "N354",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la ley del Sistema Nacional de Vigilancia Marítima",
+ "sumilla": "Designa autoridad de aplicación al Ministerio de Justicia y Seguridad, crea el Comité de Coordinación Prefectura–Armada–CONAE, fija el cronograma de 18 meses del Centro Unificado de Monitoreo, los protocolos de datos, el plan de patrullaje y la trazabilidad exigida a los buques (90 días de derrotero, aviso con 72 horas y denegación de servicios).",
+ "cuando": "Fase I (dentro de los 90 días de la promulgación de «Ley del Sistema Nacional de Vigilancia Marítima»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (decreto reglamentario, art. 99 inc. 2 de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° […] del Sistema Nacional de Vigilancia Marítima, las Leyes Nros. 18.398, 24.922 y 27.565, y",
+ "considerando": [
+  "Que la Ley N° […] del Sistema Nacional de Vigilancia Marítima creó el Sistema Nacional de Vigilancia Marítima y el Centro Unificado de Monitoreo Marítimo, en el ámbito de la PREFECTURA NAVAL ARGENTINA, y estableció la obligación de trazabilidad de los buques que soliciten servicios en puertos argentinos.",
+  "Que la ley dispuso que el Centro funcione dentro de los DIECIOCHO (18) meses de su entrada en vigencia y que las obligaciones de trazabilidad sean exigibles a los CIENTO OCHENTA (180) días de la publicación de su reglamentación.",
+  "Que la eficacia del Sistema depende de la coordinación entre la PREFECTURA NAVAL ARGENTINA, la ARMADA ARGENTINA y la COMISIÓN NACIONAL DE ACTIVIDADES ESPACIALES (CONAE), con protocolos de datos y un cronograma verificable.",
+  "Que la ARMADA ARGENTINA participa del Sistema con datos y patrullaje, sin funciones policiales ni de seguridad interior, conforme las Leyes Nros. 23.554 y 24.059.",
+  "Que los servicios jurídicos permanentes del MINISTERIO DE JUSTICIA Y SEGURIDAD y del MINISTERIO DE DEFENSA han tomado la intervención que les compete.",
+  "Que el presente decreto se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Autoridad de aplicación y coordinación",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación (artículo 17)",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° […] del Sistema Nacional de Vigilancia Marítima al MINISTERIO DE JUSTICIA Y SEGURIDAD."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Comité de Coordinación (artículos 5° y 17)",
+     "texto": "Créase el Comité de Coordinación del Sistema Nacional de Vigilancia Marítima, presidido por un representante de la autoridad de aplicación e integrado por UN (1) representante de cada organismo del artículo 5° de la ley; la ARMADA ARGENTINA actúa por intermedio del MINISTERIO DE DEFENSA. El Comité se reúne al menos cada TRES (3) meses, aprueba los protocolos del artículo 5° de este decreto y da seguimiento al cronograma del artículo 4°. Sus integrantes actúan con carácter adicional a sus funciones y sin remuneración adicional."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Centro Unificado de Monitoreo Marítimo (artículo 6°)",
+     "texto": "El Centro está a cargo de un oficial superior de la PREFECTURA NAVAL ARGENTINA designado por su titular. La ARMADA ARGENTINA y la COMISIÓN NACIONAL DE ACTIVIDADES ESPACIALES (CONAE) asignarán al Centro, en forma permanente, oficiales o agentes de enlace con acceso a sus propios sistemas, que aseguran el flujo de datos y la coordinación operativa."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cronograma (artículo 10)",
+     "texto": "El Centro se pondrá en funcionamiento según el siguiente cronograma, contado desde la entrada en vigencia de la ley: a) a los SEIS (6) meses, integración de los datos de los sistemas de identificación automática y de seguimiento satelital de la flota pesquera; b) a los DOCE (12) meses, integración de las imágenes de radar de las misiones SAOCOM y de los datos del patrullaje de la ARMADA ARGENTINA; y c) a los DIECIOCHO (18) meses, funcionamiento pleno, con imagen marítima común de todos los espacios del artículo 2° de la ley. Los datos de la misión SABIA-Mar se integrarán desde que esté operativa. La autoridad de aplicación informará públicamente el cumplimiento de cada etapa."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Datos y patrullaje",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Protocolos de datos (artículo 8°)",
+     "texto": "Dentro de los CIENTO VEINTE (120) días corridos de la entrada en vigencia del presente decreto, el Comité aprobará los protocolos de intercambio de datos, que fijarán para cada fuente el formato, la frecuencia y la demora máxima de transmisión, las medidas de seguridad de la información y el tratamiento de la información clasificada de la defensa nacional, que conservará su clasificación y solo será accesible a personal habilitado."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Programación satelital (artículo 8°)",
+     "texto": "La CONAE y el Centro acordarán cada mes un plan de adquisición de imágenes con prioridad en el borde exterior de la zona económica exclusiva durante las temporadas de mayor presencia de flota extranjera. Las solicitudes urgentes del Centro se atenderán en la primera ventana de adquisición disponible."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Plan anual de patrullaje (artículo 9°)",
+     "texto": "La PREFECTURA NAVAL ARGENTINA y la ARMADA ARGENTINA aprobarán el plan anual de patrullaje coordinado antes del 1° de diciembre de cada año; el primero, dentro de los NOVENTA (90) días corridos de la entrada en vigencia del presente decreto. Cuando un medio de la ARMADA ARGENTINA detecte un buque que requiera medidas de policía, lo comunicará de inmediato al Centro y a la PREFECTURA NAVAL ARGENTINA, que adoptará las medidas que correspondan."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Trazabilidad",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Equipos y transmisiones (artículos 3° y 11)",
+     "texto": "Los sistemas de identificación automática y de seguimiento satelital deberán transmitir la posición del buque con la frecuencia mínima que fijen los protocolos del artículo 5°, que no podrá ser inferior a UNA (1) transmisión por hora para el seguimiento satelital. Toda interrupción de las transmisiones superior a DOCE (12) horas consecutivas deberá justificarse con constancia técnica."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Período de trazabilidad (artículo 11, inciso b)",
+     "texto": "Los buques pesqueros y de apoyo a la pesca deberán acreditar la trazabilidad de su derrotero durante los NOVENTA (90) días corridos anteriores a la solicitud de servicios portuarios o, si fuera menor, desde su última escala en un puerto."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Acreditación (artículo 12)",
+     "texto": "La trazabilidad se acredita con la solicitud de servicios portuarios, que se presentará por medios electrónicos ante la PREFECTURA NAVAL ARGENTINA con al menos SETENTA Y DOS (72) horas de anticipación al arribo, salvo fuerza mayor, e incluirá los registros de los sistemas de identificación automática y de seguimiento satelital, las escalas y los transbordos del período y los permisos de pesca con que operó. La PREFECTURA NAVAL ARGENTINA verificará la información con los datos del Centro dentro de las CUARENTA Y OCHO (48) horas y registrará el resultado."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Denegación (artículos 13 y 14)",
+     "texto": "La denegación de servicios portuarios se dispondrá por acto fundado de la PREFECTURA NAVAL ARGENTINA y se comunicará en el mismo día al buque, a la autoridad portuaria, a los operadores del puerto y al Estado del pabellón. La PREFECTURA NAVAL ARGENTINA mantendrá una nómina actualizada de buques con servicios denegados, de consulta obligatoria para las autoridades portuarias y los operadores antes de prestar servicios. Las excepciones del artículo 13 de la ley se aplicarán con la inspección del buque y se limitarán a lo indispensable para atender la situación que las motiva."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Seguimiento satelital de la flota con permiso (artículo 15)",
+     "texto": "La SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA, autoridad de aplicación de la Ley N° 24.922, integrará en tiempo real al Centro los datos de seguimiento satelital de los buques con permiso de pesca dentro de los SEIS (6) meses de la entrada en vigencia del presente decreto."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Cooperación internacional (artículos 7°, inciso f, y 16)",
+     "texto": "El intercambio de información con otros Estados se realizará conforme los acuerdos que se celebren. El MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO, con la asistencia de la autoridad de aplicación, negociará los acuerdos regionales del artículo 16 de la ley."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Informe anual (artículo 7°, inciso g)",
+     "texto": "El Centro publicará su informe anual antes del 31 de marzo de cada año, con las detecciones, las alertas, las denegaciones de servicios portuarios y las medidas adoptadas, sin información reservada."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Financiamiento (artículo 18)",
+     "texto": "La autoridad de aplicación reasignará los créditos de la PREFECTURA NAVAL ARGENTINA previstos en el inciso b) del artículo 18 de la ley; el MINISTERIO DE DEFENSA imputará al Fondo Nacional de la Defensa los gastos de los medios de la ARMADA ARGENTINA afectados al Sistema, y la CONAE atenderá la provisión de imágenes con sus créditos. Cada jurisdicción incluirá en su anteproyecto de presupuesto los gastos que no puedan atenderse en el ejercicio en curso."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Exigibilidad (artículo 20)",
+     "texto": "Las obligaciones del Capítulo III de la ley son exigibles desde los CIENTO OCHENTA (180) días corridos de la publicación del presente decreto. La PREFECTURA NAVAL ARGENTINA difundirá las nuevas exigencias a la industria pesquera y, por intermedio del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO, a los Estados de pabellón."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase a la autoridad de aplicación y al MINISTERIO DE DEFENSA a dictar, en forma conjunta, las normas complementarias del presente decreto."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,112 @@
+{
+ "id": "N389",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de integridad deportiva y de protección de la forma jurídica de los clubes",
+ "sumilla": "Crea un registro público de financistas y cesionarios del deporte, con beneficiario final. Los clubes solo pueden tomar préstamos o ceder derechos con inscriptos y a tasas declaradas. Exige dos tercios del padrón total de asociados para convertir un club en sociedad anónima deportiva o asociarlo a una (arts. 19 bis de la Ley 20.655 y 77 de la Ley 19.550).",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "Los clubes son instituciones de sus asociados y cumplen una función comunitaria que el mercado no reemplaza. Por eso la decisión de cambiar su forma jurídica debe expresar la voluntad del conjunto de sus asociados. Hoy, según el artículo 77, inciso 1, de la Ley General de Sociedades y su reglamentación, la mayoría de dos tercios para transformar una asociación civil deportiva o hacerla socia de una sociedad anónima deportiva se cuenta sobre los asociados presentes en la asamblea. Este proyecto exige, en la Ley del Deporte y en la Ley General de Sociedades, el voto de dos tercios del total de los asociados con derecho a voto inscriptos en el padrón, cualquiera sea el número de presentes. Además, protege la integridad financiera de las entidades deportivas. Crea un registro público de financistas y cesionarios del deporte, con identificación del beneficiario final y actividad real comprobable, y dispone que los clubes solo puedan tomar préstamos o ceder derechos con personas inscriptas, y siempre a tasas declaradas y publicadas. Los intereses que excedan la tasa declarada no son exigibles, y las cesiones a personas no inscriptas son inoponibles al club. El registro funciona con los recursos existentes y coopera con la Unidad de Información Financiera, ante la cual las entidades deportivas ya son sujetos obligados.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y ámbito",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto proteger la integridad financiera de las entidades deportivas y asegurar que su forma jurídica dependa de la voluntad de sus asociados."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "La presente ley se aplica a las entidades deportivas comprendidas en la Ley N° 20.655 del Deporte, cualquiera sea su forma jurídica, y a toda persona humana o jurídica que les otorgue préstamos o financiamiento o que adquiera, por cesión, derechos de transmisión, derechos económicos sobre deportistas u otros derechos de contenido patrimonial."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Préstamos y cesiones de derechos",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Registro de financistas y cesionarios del deporte",
+     "texto": "Créase el Registro de Financistas y Cesionarios del Deporte, a cargo de la Secretaría de Cultura y Deportes del Ministerio de Educación, Ciencia y Cultura, autoridad de aplicación de la Ley N° 20.655. Para inscribirse, el solicitante debe identificar a su beneficiario final, acreditar actividad económica real y origen lícito de los fondos, y declarar su domicilio y sus autoridades. El registro es público y se publica en formato de datos abiertos."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Operaciones permitidas",
+     "texto": "Las entidades deportivas solo pueden recibir préstamos o financiamiento, y ceder derechos de contenido patrimonial, de personas inscriptas en el registro. Se consideran inscriptas, sin otro trámite, las entidades financieras autorizadas por el Banco Central de la República Argentina, las personas registradas ante la Comisión Nacional de Valores para operar en el mercado de capitales y los organismos del sector público."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Tasa declarada",
+     "texto": "Todo contrato de préstamo, financiamiento o cesión con una entidad deportiva debe consignar la tasa de interés efectiva anual y el costo financiero total o, en el caso de cesiones, el precio y la contraprestación. El contrato se informa al registro dentro de los diez (10) días de su firma y su existencia, monto, plazo y tasa se publican. La entidad deportiva incluye esos datos en sus estados contables."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Efectos del incumplimiento",
+     "texto": "Los intereses que excedan la tasa declarada e informada no son exigibles. Las cesiones a personas no inscriptas o no informadas al registro son inoponibles a la entidad deportiva y a terceros. Los directivos de la entidad deportiva que celebren operaciones en infracción a este capítulo responden en forma personal y solidaria por los daños que causen a la entidad."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Prohibición de sociedades sin actividad real",
+     "texto": "No pueden inscribirse en el registro, y quedan excluidas de él, las sociedades sin actividad económica real comprobable o cuyos titulares no acrediten capacidad patrimonial acorde con las operaciones que realizan."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cooperación",
+     "texto": "La autoridad de aplicación coopera con la Unidad de Información Financiera y con la Inspección General de Justicia (IGJ), y puede celebrar convenios con los registros provinciales de personas jurídicas, para la verificación de los beneficiarios finales y la detección de operaciones sospechosas, sin perjuicio de las obligaciones que el artículo 20, inciso 23, de la Ley N° 25.246 impone a las entidades deportivas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Forma jurídica de los clubes",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Mayoría en la Ley del Deporte",
+     "texto": "Incorpórase como último párrafo del artículo 19 bis de la Ley N° 20.655 el siguiente: «La transformación de una asociación civil deportiva en sociedad anónima, su participación como socia de una sociedad anónima deportiva y la cesión a esta de la gestión de su actividad deportiva requieren el voto favorable de las dos terceras partes del total de los asociados con derecho a voto inscriptos en el padrón, cualquiera sea el número de asociados presentes en la asamblea.»"
+    },
+    {
+     "n": 10,
+     "epigrafe": "Mayoría en la Ley General de Sociedades",
+     "texto": "Sustitúyese el inciso 1) del artículo 77 de la Ley General de Sociedades N° 19.550 (t.o. 1984) y sus modificatorias por el siguiente: «1) Cuando se tratare de sociedades comerciales, acuerdo unánime de los socios, salvo pacto en contrario a lo dispuesto para algunos tipos societarios. Cuando se tratare de asociación civil que se transformare en sociedad comercial o resolviera ser socia de sociedades anónimas, voto de los dos tercios de los asociados; si la asociación civil es deportiva, los dos tercios se computan sobre el total de los asociados con derecho a voto inscriptos en el padrón y no sobre los presentes en la asamblea;»"
+    },
+    {
+     "n": 11,
+     "epigrafe": "Normas reglamentarias",
+     "texto": "El artículo 1° del Decreto N° 730/2024 y las demás normas reglamentarias que computen la mayoría para la transformación o participación de las asociaciones civiles deportivas sobre los asociados presentes en la asamblea quedan sin efecto en esa parte desde la entrada en vigencia de la presente ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos del registro se atienden con los créditos del presupuesto vigente de la jurisdicción del Ministerio de Educación, Ciencia y Cultura, sin incremento del gasto total."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Adecuación",
+     "texto": "Las entidades deportivas y sus financistas y cesionarios tienen ciento ochenta (180) días desde la entrada en vigencia de la presente ley para adecuar a ella los contratos en curso y para inscribirse en el registro."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 20.655, art. 19 bis (texto DNU 70/2023; incorpora último párrafo)",
+  "Ley 19.550 (t.o. 1984), art. 77 inc. 1 (texto DNU 70/2023; sustituye)",
+  "Decreto 730/2024, art. 1 (deja sin efecto el cómputo sobre presentes)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

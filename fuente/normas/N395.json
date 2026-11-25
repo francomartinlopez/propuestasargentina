@@ -1,0 +1,88 @@
+{
+ "id": "N395",
+ "tipo": "resolucion",
+ "titulo": "Resolución de la Secretaría de Energía del Ministerio de Infraestructura y Energía: alta automática de los clubes de barrio y de pueblo en la tarifa de entidades de bien público",
+ "sumilla": "Todo club inscripto en el Registro Nacional de Clubes de Barrio y de Pueblo (Ley 27.098) queda incorporado de oficio a la tarifa de la Ley 27.218, sin el doble registro ni la declaración jurada que exige la Res. SE 276/2025, que se deroga. La Secretaría de Cultura y Deportes envía el padrón cada mes y el Ente Nacional Regulador del Gas y la Electricidad instruye a las distribuidoras.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Resolución de la Secretaría de Energía; no pasa por el Congreso.",
+ "motivos": null,
+ "visto": "El Expediente N° [número], las Leyes N° 27.098 y N° 27.218, el Decreto N° 943/2025 y las Resoluciones de esta Secretaría N° 992/2021, N° 95/2023 y N° 276/2025, y",
+ "considerando": [
+  "Que la Ley N° 27.218 estableció un régimen tarifario específico para las entidades de bien público, y que el artículo 16 de la Ley N° 27.098 prevé una tarifa social básica para las entidades inscriptas en el Registro Nacional de Clubes de Barrio y de Pueblo.",
+  "Que el artículo 3° de la Resolución N° 992/2021 de esta Secretaría, en el texto de la Resolución N° 95/2023, otorga a los clubes de barrio y de pueblo un tratamiento tarifario equivalente al de las entidades de bien público de la Ley N° 27.218, y que el artículo 9° del Decreto N° 943/2025 mantiene las bonificaciones del régimen de Subsidios Energéticos Focalizados para la totalidad del volumen que consumen esas entidades y clubes.",
+  "Que la Resolución N° 276/2025 de esta Secretaría exige a los clubes, además de la inscripción en ese registro, la inscripción en el «Registro de Beneficiarios - Clubes de Barrio Res. SE 992/21» creado por el artículo 3° de la Resolución N° 95/2023 de esta Secretaría y la presentación de una declaración jurada.",
+  "Que la inscripción en el Registro Nacional de Clubes de Barrio y de Pueblo ya acredita la condición que la ley protege, por lo que exigir un segundo registro y un reempadronamiento deja fuera a clubes que tienen derecho a la tarifa.",
+  "Que el alta automática, con criterios públicos y sin intermediación, asegura el acceso de todos los clubes inscriptos en igualdad de condiciones.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente se dicta en uso de las facultades conferidas por las Leyes N° 27.098 y N° 27.218."
+ ],
+ "formula": "Por ello, EL SECRETARIO DE ENERGÍA RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Alta automática",
+     "texto": "Todo club inscripto en el Registro Nacional de Clubes de Barrio y de Pueblo de la Ley N° 27.098 queda incorporado de oficio, por esa sola inscripción, al tratamiento tarifario equivalente al de las entidades de bien público de la Ley N° 27.218 que otorga el artículo 3° de la Resolución N° 992/2021 de esta Secretaría, a las bonificaciones del artículo 9° del Decreto N° 943/2025 y a la tarifa social del artículo 16 de la Ley N° 27.098, para los suministros de energía eléctrica y de gas natural de los inmuebles que declare en ese registro."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sin trámites adicionales",
+     "texto": "Los clubes inscriptos no deben inscribirse en otro registro ni presentar declaraciones juradas para acceder a la tarifa. La inscripción en el «Registro de Beneficiarios - Clubes de Barrio Res. SE 992/21», cuando sea necesaria, la realiza esta Secretaría de oficio con los datos del Registro Nacional de Clubes de Barrio y de Pueblo."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Padrón",
+     "texto": "La Secretaría de Cultura y Deportes del Ministerio de Educación, Ciencia y Cultura, a cargo del Registro Nacional de Clubes de Barrio y de Pueblo, remite a esta Secretaría, el primer día hábil de cada mes, la nómina de clubes inscriptos con sus inmuebles y los números de suministro declarados, y las altas y bajas del mes anterior."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Aplicación por las distribuidoras",
+     "texto": "El Ente Nacional Regulador del Gas y la Electricidad instruye a las distribuidoras bajo jurisdicción nacional para que apliquen la tarifa a los suministros informados desde el primer período de facturación siguiente a la recepción del padrón, sin requerir trámite alguno al club."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Baja",
+     "texto": "La tarifa solo cesa cuando el club es dado de baja del Registro Nacional de Clubes de Barrio y de Pueblo, desde el período de facturación siguiente a la comunicación de la baja."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Clubes ya beneficiarios",
+     "texto": "Los clubes que gocen de la tarifa a la entrada en vigencia de la presente la conservan sin necesidad de reempadronarse."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Jurisdicciones provinciales",
+     "texto": "Se invita a los entes reguladores y a las distribuidoras de jurisdicción provincial y municipal a aplicar el mismo procedimiento de alta automática, para lo cual esta Secretaría les pone a disposición el padrón mensual."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Información pública",
+     "texto": "Esta Secretaría publica cada trimestre, en formato de datos abiertos, la cantidad de clubes y de suministros alcanzados por provincia."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Derogación",
+     "texto": "Derógase la Resolución de esta Secretaría N° 276/2025."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución entra en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [
+  "Resolución SE 276/2025"
+ ],
+ "variantes": null
+}

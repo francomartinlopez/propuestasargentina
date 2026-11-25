@@ -1,0 +1,131 @@
+{
+ "id": "N399",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas",
+ "sumilla": "Designa las autoridades de aplicación y reglamenta el cálculo del costo y de la cobertura, el cronograma y el tope de cada escalón, el registro único y el alta de oficio, la tarifa social en energía y transporte, el procedimiento de los mapas climáticos y el pago de la tarifa social por pasajero.",
+ "cuando": "Fase I · año 1 (dentro de los 60 días de la ley)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "No aplica: decreto reglamentario (art. 99, inc. 2, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° […] de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas, las Leyes Nros. 24.065, 24.076 (T.O. 2025, Decreto N° 451/2025), 25.565, 26.221, 27.742, 27.828 y […] del Ingreso Universal Único, los Decretos Nros. 976/2001, 1377/2001, 652/2002, 452/2025 y 943/2025, la Ley de Ministerios N° 22.520 (t.o. Decreto N° 438/92) y sus modificatorias, y",
+ "considerando": [
+  "Que la Ley N° […] ordena publicar el costo de los servicios públicos de jurisdicción nacional y la parte que cubre la tarifa, cerrar la diferencia en ocho escalones semestrales con un tope de aumento real, aplicar una tarifa social única con un solo registro, definir la zona fría y la zona cálida por grados-día y pagar la tarifa social del transporte por pasajero.",
+  "Que su artículo 4° encomienda al Poder Ejecutivo nacional designar las autoridades de aplicación en energía y en transporte, y su artículo 34 ordena reglamentarla dentro de los sesenta días de su promulgación.",
+  "Que el Decreto N° 943/2025 creó el régimen de Subsidios Energéticos Focalizados y el Registro de Subsidios Energéticos Focalizados (ReSEF) en la órbita de la SUBSECRETARÍA DE TRANSICIÓN Y PLANEAMIENTO ENERGÉTICO, que la ley amplía como registro único de tarifa social.",
+  "Que el artículo 12 del Decreto N° 976/2001 constituyó el fideicomiso administrado por el BANCO DE LA NACIÓN ARGENTINA, en cuyo marco los Decretos Nros. 1377/2001 y 652/2002 organizaron el Sistema de Infraestructura de Transporte y las compensaciones al transporte de pasajeros.",
+  "Que corresponde precisar la metodología de cálculo del costo y de la cobertura, el cómputo del tope, la operación del registro único, el procedimiento de los mapas climáticos y la liquidación automática de la tarifa social por pasajero, para que la ejecución sea verificable.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que el presente se dicta en uso de las atribuciones conferidas por el artículo 99, incisos 1 y 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridades de aplicación (art. 4°)",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° [—] de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas, en energía eléctrica, gas por redes, registro único y tarifa social, a la SECRETARÍA DE ENERGÍA del MINISTERIO DE INFRAESTRUCTURA Y ENERGÍA, y en transporte público de pasajeros, a la SECRETARÍA DE TRANSPORTE del MINISTERIO DE INFRAESTRUCTURA Y ENERGÍA, o a los organismos que las reemplacen en esas competencias. En adelante, «la ley» designa a la Ley N° [—] de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Costo del servicio y cobertura inicial (arts. 3° y 6°)",
+     "texto": "El costo del servicio se determinará, por categoría de usuario de los cuadros tarifarios vigentes, con la siguiente base:\na) energía eléctrica: el costo medio de abastecimiento de la energía y la potencia en el Mercado Eléctrico Mayorista que informe el Organismo Encargado del Despacho, más las remuneraciones de transporte y distribución aprobadas por el ente regulador;\nb) gas por redes: el costo medio ponderado de abastecimiento del gas, incluido el importado, más las tarifas de transporte y distribución aprobadas por el ente regulador;\nc) transporte de pasajeros: el costo por pasajero transportado de una operación eficiente de cada modo y región, con la metodología que publique la autoridad de aplicación en transporte.\nLa cobertura inicial se calculará con las tarifas vigentes al 31 de diciembre de 2027 y el costo del mismo mes. La metodología, las fuentes y las planillas de cálculo se publicarán junto con los resultados."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cronograma (art. 7°)",
+     "texto": "El cronograma de cada servicio fijará, para cada escalón y categoría de usuario, la cobertura objetivo, que es la cobertura inicial más tantos octavos de la brecha inicial como escalones se hayan aplicado. Las autoridades de aplicación lo aprobarán por resolución, previo procedimiento de participación conforme al artículo 10 de la ley. El cronograma de los precios de la energía eléctrica y del gas lo aprueba la autoridad de aplicación en energía; el de las tarifas de transporte y distribución de jurisdicción nacional, el ente regulador nacional del gas y la electricidad, con la misma cobertura objetivo; el del transporte de pasajeros, la autoridad de aplicación en transporte."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Tope (art. 8°)",
+     "texto": "A los fines del artículo 8° de la ley:\na) la factura residencial media de cada servicio se calcula con el consumo medio mensual de la categoría residencial de los DOCE (12) meses anteriores, por región tarifaria;\nb) la variación del índice de precios al consumidor es la del nivel general publicado por el INDEC entre el último índice conocido al aplicarse el escalón anterior y el último conocido al aplicarse el escalón de que se trate;\nc) si el escalón supera el tope, la cobertura objetivo se reduce hasta el tope y la diferencia se suma a la del escalón siguiente, lo que se publica con el cuadro tarifario.\nEn el transporte de pasajeros, el tope se aplica sobre la tarifa media por viaje de los usuarios sin tarifa social."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cuadros tarifarios y publicación (arts. 10 y 11)",
+     "texto": "Los entes reguladores publicarán los cuadros tarifarios de cada escalón con QUINCE (15) días de anticipación. La publicación semestral del artículo 11 de la ley se realizará antes del 15 de febrero y del 15 de agosto de cada año en el sitio oficial de cada autoridad, en formato de datos abiertos, con series desde la cobertura inicial."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Registro único (art. 14)",
+     "texto": "El registro único funciona en la SECRETARÍA DE ENERGÍA, sobre la base del Registro de Subsidios Energéticos Focalizados (ReSEF). La ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL remitirá cada mes la nómina de hogares del inciso b) del artículo 13 de la ley, con la composición del grupo conviviente. El registro identificará a cada integrante del hogar beneficiario por su Documento Nacional de Identidad, a los fines de la tarifa social del transporte."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Incorporación de oficio (art. 15)",
+     "texto": "Dentro de los NOVENTA (90) días de la entrada en vigencia del presente, la autoridad de aplicación en energía incorporará al registro único a los hogares del inciso b) del artículo 13 de la ley y comunicará a los prestadores de electricidad y gas, al administrador del sistema de pago del transporte y al ENTE REGULADOR DE AGUA Y SANEAMIENTO, en el área de la Ley N° 26.221, la condición de beneficiario de cada suministro o persona. Las actualizaciones posteriores se comunicarán cada mes. La consulta, la actualización de datos y la revisión se realizan por la plataforma Mi Argentina, la plataforma Trámites a Distancia (TAD) y las oficinas de la Administración Nacional de la Seguridad Social (ANSES)."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Exclusiones patrimoniales (art. 13, inc. a)",
+     "texto": "La autoridad de aplicación en energía publicará los indicadores de exteriorización patrimonial que justifican la exclusión de un hogar. La exclusión se notificará al hogar con el indicador verificado y podrá recurrirse en los términos de la Ley N° 19.549; mientras se resuelve el recurso, el hogar que ya era beneficiario conserva la tarifa social."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Bonificación en energía eléctrica y gas (art. 16)",
+     "texto": "Los mínimos del artículo 16 de la ley son el porcentaje de la bonificación general y los bloques de consumo base vigentes a la fecha de sanción de la ley conforme a los artículos 4°, 5° y 7° del Decreto N° 943/2025 y a las normas dictadas en su consecuencia. La autoridad de aplicación en energía fijará cada año el porcentaje de bonificación dentro de los créditos de la ley de presupuesto, sin perforar esos mínimos."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Tarifa social del transporte (arts. 17 y 28)",
+     "texto": "El descuento de la tarifa social del transporte se aplica en el momento de cada validación a las tarjetas SUBE asociadas al Documento Nacional de Identidad de una persona del registro único. La autoridad de aplicación en transporte fijará cada año el porcentaje de descuento, igual en todo el país, dentro de los créditos y recursos del artículo 32 de la ley y sin perforar el mínimo del artículo 17. El administrador del sistema de pago liquidará cada mes, por prestador y por jurisdicción, los viajes con descuento y el monto a cargo del Estado nacional, y la autoridad de aplicación en transporte instruirá su pago dentro de los TREINTA (30) días."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Zonas climáticas (arts. 20 a 22)",
+     "texto": "El SERVICIO METEOROLÓGICO NACIONAL elevará, dentro de los CIENTO OCHENTA (180) días, el dictamen técnico con los grados-día de calefacción y de refrigeración de cada departamento, calculados con la serie climática normal más reciente, la temperatura base propuesta para cada indicador y su fundamento. La autoridad de aplicación en energía publicará el dictamen con sus datos, recibirá observaciones durante TREINTA (30) días y, dentro de los DOCE (12) meses de la entrada en vigencia de la ley, fijará por resolución las temperaturas base y los umbrales y aprobará los mapas de la zona fría y de la zona cálida por departamento, que aplicarán desde el invierno y el verano siguientes."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Meses de invierno y de calor (arts. 23 y 24)",
+     "texto": "A los fines de la bonificación de zona fría, son meses de invierno los comprendidos entre el 1° de mayo y el 30 de septiembre. A los fines del bloque ampliado de zona cálida, son meses de calor los comprendidos entre el 1° de diciembre y el 31 de marzo. La autoridad de aplicación en energía podrá ajustar esos períodos al aprobar cada mapa, con fundamento en el dictamen del SERVICIO METEOROLÓGICO NACIONAL."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Fondo de zona fría (arts. 23 y 25)",
+     "texto": "La autoridad de aplicación en energía fijará cada año el porcentaje de la bonificación adicional por zona fría según los recursos disponibles del Fondo Fiduciario para Subsidios de Consumos de Gas, una vez atendidas las compensaciones del inciso a) del primer párrafo del artículo 75 de la Ley N° 25.565, y lo publicará antes del 31 de marzo."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Compensaciones al transporte (art. 27)",
+     "texto": "La autoridad de aplicación en transporte determinará, por empresa y por modo, la compensación inicial al 31 de diciembre de 2027 y su reducción en cada escalón en la misma proporción en que aumente la cobertura, y la publicará con el cronograma. Las compensaciones y la tarifa social por pasajero se pagan por intermedio del Fideicomiso del Sistema de Infraestructura de Transporte, conforme a las instrucciones que la autoridad de aplicación en transporte imparta al BANCO DE LA NACIÓN ARGENTINA en su carácter de fiduciario. En el transporte ferroviario, la reducción se detiene cuando la tarifa de cada línea cubre el cincuenta por ciento (50 %) de su costo de operación eficiente por pasajero; desde entonces se paga por el mismo fideicomiso el subsidio explícito por línea que fije la ley de presupuesto, contra el cumplimiento de las metas publicadas (art. 27 de la ley)."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Acuerdo federal (art. 31)",
+     "texto": "La autoridad de aplicación en energía y la autoridad de aplicación en transporte, con la SECRETARÍA DEL INTERIOR de la JEFATURA DE GABINETE DE MINISTROS, propondrán a las provincias y a la Ciudad Autónoma de Buenos Aires el texto del Acuerdo Federal de Tarifas y Tarifa Social dentro de los NOVENTA (90) días. El Acuerdo suscripto se aprobará por decreto."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Financiamiento (art. 32)",
+     "texto": "El JEFE DE GABINETE DE MINISTROS dispondrá en el ejercicio de entrada en vigencia de la ley las reasignaciones de créditos necesarias, dentro de los créditos de subsidios a la energía y al transporte y sin aumento del gasto total autorizado. Los proyectos de ley de presupuesto incluirán el nivel anual de la bonificación de la tarifa social, del descuento por viaje y de las compensaciones decrecientes."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Informe al Congreso (art. 33)",
+     "texto": "El informe anual del artículo 33 de la ley será presentado en forma conjunta por ambas autoridades de aplicación, con los datos del ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase a las autoridades de aplicación, en sus respectivas competencias, a dictar las normas complementarias y aclaratorias del presente decreto."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 20,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,67 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Educación",
+    "estado": "modificado",
+    "rol": "Convalidación digital en 90 días, lista cerrada de requisitos y tablero mensual.",
+    "hoy": "Dirección de Validez Nacional de Títulos y Estudios (Secretaría de Educación, Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Trabajo y Empleo",
+    "estado": "modificado",
+    "rol": "Certificación de oficios adquiridos en el exterior.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Dirección Nacional de Migraciones",
+    "estado": "modificado",
+    "rol": "Radica en 30 días con trámite digital; pierde la competencia sobre la carta de ciudadanía, que vuelve a los jueces federales. Resuelve la radicación en 20 días con trámite digital y residencia precaria automática. Opera la plataforma digital de radicación con plazo máximo de 20 días para resolver.",
+    "hoy": "Dirección Nacional de Migraciones (organismo descentralizado del Ministerio de Seguridad Nacional)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión de refugio",
+    "estado": "modificado",
+    "rol": "Resuelve las solicitudes de refugio en 6 meses como máximo y expide el documento provisorio en 5 días hábiles. Resuelve en 6 meses con plazos internos por etapa y ejecuta el plan de atraso.",
+    "hoy": "Comisión Nacional para los Refugiados (Ley 26.165; Jefatura de Gabinete de Ministros, Vicejefatura de Gabinete del Interior)",
+    "hijos": []
+   },
+   {
+    "nombre": "Registro Nacional de las Personas",
+    "estado": "modificado",
+    "rol": "Inicia de oficio y emite el DNI de la persona radicada dentro del plazo total de 30 días. Inicia de oficio y emite el DNI en 10 días.",
+    "hoy": "Registro Nacional de las Personas (Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Nacional para los Refugiados",
+    "estado": "modificado",
+    "rol": "Resuelve en 6 meses y expide el documento provisorio en 5 días hábiles; plan para el atraso.",
+    "hoy": "Comisión Nacional para los Refugiados (Jefatura de Gabinete de Ministros; secretaría ejecutiva en la DNM)",
+    "hijos": [
+     {
+      "nombre": "Secretaría ejecutiva de la comisión de refugio",
+      "estado": "modificado",
+      "rol": "Formaliza, expide el documento provisorio en 5 días hábiles, entrevista e informa.",
+      "hoy": "Secretaría Ejecutiva (con sede en la Dirección Nacional de Migraciones)",
+      "hijos": []
+     }
+    ]
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Justicia federal",
+   "rol": "Recuperan el otorgamiento de la carta de ciudadanía (Ley 346) y la revisión de las decisiones migratorias en primera instancia, con apelación ante las cámaras federales."
+  }
+ ]
+}

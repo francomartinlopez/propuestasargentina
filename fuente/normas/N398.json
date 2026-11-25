@@ -1,0 +1,233 @@
+{
+ "id": "N398",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas",
+ "sumilla": "Ordena publicar el costo de la electricidad, el gas, el agua y el transporte de jurisdicción nacional y la parte que cubre la tarifa, y cerrar la diferencia en ocho escalones semestrales con tope de aumento real; crea una tarifa social única y automática con un solo registro; define la zona fría y la zona cálida por grados-día; y pasa el subsidio al transporte de la empresa al pasajero.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "Las tarifas de los servicios públicos se fijaron durante años sin reglas estables: a los períodos de congelamiento siguieron correcciones bruscas, y los subsidios se pagaron a la oferta, de modo que recibían la misma ayuda quienes podían pagar y quienes no. Según los considerandos del Decreto N° 943/2025, los subsidios energéticos pasaron del 1,42 % del Producto Interno Bruto en 2023 al 0,60 % en 2025. Hacen falta ahora reglas que den previsibilidad a familias e inversores. El proyecto ordena que cada servicio de jurisdicción nacional publique su costo y la parte que cubre la tarifa, y que la diferencia se cierre en ocho escalones semestrales conocidos de antemano, con un tope de aumento real por escalón y sin aumentos en los meses de mayor consumo, conforme a los principios de gradualidad y previsibilidad señalados por la Corte Suprema de Justicia de la Nación (Fallos 339:1077). Establece una tarifa social única para la electricidad, el gas, el agua y el transporte, automática para los hogares del régimen de Subsidios Energéticos Focalizados y del Ingreso Universal Único, con un solo registro y sin trámites nuevos. Define la zona fría y la zona cálida con los grados-día que mide el Servicio Meteorológico Nacional. En el transporte, el subsidio deja de pagarse a las empresas y se paga por pasajero, con el mismo criterio en todo el país. Cada gasto tiene su fuente, y su nivel anual lo fija la ley de presupuesto.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto dar previsibilidad a las tarifas de los servicios públicos de energía eléctrica, gas por redes, agua potable y desagües cloacales y transporte público de pasajeros de jurisdicción nacional, mediante un cronograma público que acerca cada tarifa a su costo en escalones conocidos de antemano; establecer una tarifa social única para esos servicios, automática y sin trámites nuevos, para los hogares que no pueden pagar su costo pleno; y definir con datos del clima la zona fría para el gas y la zona cálida para la electricidad."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Servicios comprendidos",
+     "texto": "La presente ley comprende:\na) energía eléctrica: el precio estacional de la energía del Mercado Eléctrico Mayorista que se traslada a las tarifas de los usuarios finales y las tarifas de transporte y de distribución de jurisdicción nacional;\nb) gas natural y gas propano indiluido por redes: el precio del gas que se traslada a las tarifas de los usuarios finales y las tarifas de transporte y de distribución de jurisdicción nacional;\nc) agua potable y desagües cloacales: el servicio del área de la concesión regida por la Ley N° 26.221, en los términos de los artículos 6° y 18;\nd) transporte público de pasajeros por automotor y ferroviario de jurisdicción nacional.\nLos cargos de distribución de electricidad y de gas que regulan las provincias, sus servicios de agua y su transporte público de pasajeros se incorporan por el acuerdo federal del artículo 31."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por:\na) costo del servicio: el costo económico de prestar cada servicio a cada categoría de usuario, que incluye el abastecimiento de la energía, el transporte, la distribución o la operación y una rentabilidad razonable para el prestador que opere en forma eficiente, conforme a los marcos regulatorios de cada servicio; en el transporte de pasajeros, el costo por pasajero de una operación eficiente;\nb) cobertura: la proporción del costo del servicio que paga la tarifa, sin bonificaciones de tarifa social, para cada categoría de usuario;\nc) cobertura inicial: la cobertura de las tarifas vigentes al 31 de diciembre de 2027;\nd) brecha inicial: la diferencia entre el CIEN POR CIENTO (100 %) y la cobertura inicial;\ne) escalón: cada aumento semestral de la cobertura previsto en el cronograma del artículo 7°;\nf) factura residencial media: la factura mensual de un usuario residencial sin tarifa social con el consumo medio de su categoría, a consumo constante; en el transporte de pasajeros, la tarifa media por viaje del usuario sin tarifa social;\ng) consumo base: el volumen mensual de consumo de energía eléctrica o de gas sobre el que se aplica la bonificación de la tarifa social, fijado por bloques según la época del año y la zona climática;\nh) grados-día de calefacción y grados-día de refrigeración: la suma anual de las diferencias diarias entre una temperatura base y la temperatura media diaria, cuando esta es inferior a aquella, en el primer caso, o superior, en el segundo, calculada con las series del Servicio Meteorológico Nacional."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Autoridades de aplicación",
+     "texto": "Son autoridades de aplicación de la presente ley:\na) en energía eléctrica, gas por redes, registro único y tarifa social, la Secretaría de Energía del Ministerio de Infraestructura y Energía;\nb) en transporte público de pasajeros, la Secretaría de Transporte del Ministerio de Infraestructura y Energía.\nEl Ente Nacional Regulador del Gas y la Electricidad aplica la presente ley en las tarifas de transporte y de distribución de jurisdicción nacional. El Ente Regulador de Agua y Saneamiento (ERAS) ejerce las funciones de los artículos 6° y 18. El Servicio Meteorológico Nacional, o el organismo que lo reemplace en sus funciones, provee los datos climáticos y el dictamen técnico del artículo 22. La Administración Nacional de la Seguridad Social (ANSES) informa los hogares del inciso b) del artículo 13."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Relación con otras normas",
+     "texto": "La presente ley complementa las Leyes N° 24.065 y N° 24.076 (t.o. 2025): las tarifas de transporte y de distribución continúan sujetas a los principios del artículo 40 de la primera y del artículo 38 de la segunda, y el cronograma de esta ley fija el ritmo con que las tarifas y los precios de la energía alcanzan el costo del servicio. El régimen de Subsidios Energéticos Focalizados creado por el Decreto N° 943/2025 constituye la tarifa social de esta ley en energía eléctrica y gas por redes, con las modificaciones que ella dispone. Los hogares del registro único acceden al subsidio focalizado a la conexión previsto en la Ley N° [—] de acceso a energía segura en el hogar, que se aplica en forma coordinada con la presente."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Costo, cobertura y cronograma",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Costo y cobertura inicial",
+     "texto": "Las autoridades de aplicación y el Ente Nacional Regulador del Gas y la Electricidad, cada uno en su ámbito, publicarán el costo del servicio y la cobertura inicial de cada servicio comprendido, por categoría de usuario, con la metodología y los datos utilizados. Si a la entrada en vigencia de la presente ley no se hubieran publicado, se publicarán dentro de los TREINTA (30) días. En el servicio del inciso c) del artículo 2°, la publicación la realiza su ente regulador."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cronograma de ocho escalones",
+     "texto": "Las tarifas de los servicios de los incisos a), b) y d) del artículo 2° se acercan a su costo en OCHO (8) escalones semestrales, que se aplican el 1° de marzo y el 1° de septiembre de cada año, desde el 1° de marzo de 2028 hasta el 1° de septiembre de 2031. Cada escalón eleva la cobertura de cada categoría de usuario en UN OCTAVO (1/8) de su brecha inicial, de modo que con el octavo escalón la tarifa cubra el CIEN POR CIENTO (100 %) del costo del servicio para los usuarios sin tarifa social. En el transporte ferroviario de pasajeros la meta es el CINCUENTA POR CIENTO (50 %) del costo del servicio, conforme al artículo 27; si la cobertura inicial ya la alcanza, no se aplican escalones y la cobertura no puede reducirse.\nLas autoridades de aplicación aprobarán, dentro de los SESENTA (60) días de la entrada en vigencia de la presente ley, el cronograma de cada servicio, con la cobertura que corresponde a cada escalón y categoría de usuario. Si a esa fecha no se hubiera aplicado el escalón del 1° de marzo de 2028, su parte de la brecha se suma a los escalones siguientes, con el tope del artículo 8°.\nEntre escalones, las actualizaciones previstas en los marcos regulatorios y en los contratos mantienen la cobertura alcanzada y no pueden reducirla. En el servicio del inciso c) del artículo 2°, la tarifa se rige por el marco regulatorio de la Ley N° 26.221 y el contrato de concesión, conforme al artículo 30."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Tope de cada escalón",
+     "texto": "El aumento de la factura residencial media de cada servicio que resulte de un escalón, sumado a las actualizaciones aplicadas desde el escalón anterior, no podrá superar en más de un DIEZ POR CIENTO (10 %) la variación del índice de precios al consumidor del Instituto Nacional de Estadística y Censos (INDEC) acumulada en el mismo período. La parte de la brecha que no pueda cerrarse por aplicación del tope se suma al escalón siguiente.\nSi después del octavo escalón subsistiera brecha, se cerrará en hasta DOS (2) escalones adicionales, el 1° de marzo y el 1° de septiembre de 2032; el último de ellos cierra la brecha restante. El cierre total no podrá demorarse más de UN (1) año respecto del octavo escalón."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Meses sin escalones",
+     "texto": "No se aplicarán escalones en los meses de mayor consumo de cada servicio. En gas por redes no se aplicarán escalones entre el 1° de junio y el 31 de agosto de cada año. Las autoridades de aplicación no podrán adelantar, desdoblar ni postergar los escalones fuera de las fechas del artículo 7°, salvo lo previsto en el artículo 8°."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Participación y cuadros tarifarios",
+     "texto": "El cronograma de cada servicio se someterá, antes de su aprobación, a audiencia pública o al procedimiento de participación que prevea su marco regulatorio. Aprobado el cronograma, cada escalón se aplica en su fecha sin nuevo procedimiento, siempre que no supere la cobertura y el tope aprobados. Los entes reguladores aprobarán y publicarán los cuadros tarifarios de cada escalón con QUINCE (15) días de anticipación a su aplicación."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Publicación semestral",
+     "texto": "Cada semestre, antes de cada escalón, las autoridades de aplicación y los entes reguladores publicarán, por servicio y por categoría de usuario, en formato de datos abiertos: el costo del servicio actualizado y su metodología; la cobertura alcanzada y la prevista para el escalón siguiente; el avance respecto de la brecha inicial; la parte de la brecha trasladada por aplicación del tope; los hogares y las personas con tarifa social y el monto de las bonificaciones; y las compensaciones y transferencias del Estado nacional a cada prestador."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Tarifa social única",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Tarifa social única",
+     "texto": "Establécese una tarifa social única para los servicios de energía eléctrica, gas natural y gas propano indiluido por redes, agua potable y desagües cloacales y transporte público de pasajeros, con un solo criterio de inclusión y un solo registro, que se aplica en forma automática en cada servicio a los hogares beneficiarios. La tarifa social no está sujeta al cronograma del artículo 7°. Con el cierre de la brecha, el aporte del Tesoro nacional a los servicios comprendidos queda limitado a la tarifa social, a las bonificaciones de zona fría y de zona cálida de los hogares con tarifa social y a la tarifa social por pasajero del artículo 28.\nDesde la entrada en vigencia de la presente ley y hasta el último escalón del artículo 8°, la factura media de un hogar con tarifa social, a consumo constante dentro del consumo base, no podrá aumentar en cada servicio más que la variación del índice de precios al consumidor del INDEC acumulada desde el escalón anterior. Si un escalón la superara, la bonificación se incrementará en la medida necesaria para cumplir este límite, con cargo a los créditos del artículo 32."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Beneficiarios",
+     "texto": "Son beneficiarios de la tarifa social, sin necesidad de solicitarla:\na) los hogares que califiquen en el régimen de Subsidios Energéticos Focalizados conforme a los criterios de inclusión y exclusión del Anexo I del Decreto N° 943/2025, y en particular aquellos cuyos integrantes registren, en conjunto, ingresos netos iguales o inferiores a TRES (3) Canastas Básicas Totales para un «Hogar 2» según el INDEC, salvo que se verifiquen respecto de alguno de sus integrantes los indicadores de exteriorización patrimonial que publique la Secretaría de Energía;\nb) los hogares de las personas titulares del Ingreso Universal Único previsto en la Ley N° [—] del Ingreso Universal Único y, hasta la conclusión de cada tramo de migración previsto en esa ley, los de las personas titulares de los programas que ese ingreso absorbe."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Registro único",
+     "texto": "El Registro de Subsidios Energéticos Focalizados (ReSEF), creado por el artículo 3° del Decreto N° 943/2025, se amplía y funciona como registro único de tarifa social para todos los servicios comprendidos en la presente ley y para los que se incorporen por el acuerdo federal del artículo 31. Lo administra la Secretaría de Energía. La ANSES le informa de oficio, cada mes, los hogares del inciso b) del artículo 13. Las provincias, la Ciudad Autónoma de Buenos Aires y los municipios que adhieran incorporan al registro único a los beneficiarios de sus tarifas sociales y lo usan como registro de ellas. No se crearán otros registros nacionales de tarifa social."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Incorporación de oficio",
+     "texto": "La incorporación al registro único y la aplicación de la tarifa social en cada servicio se realizan de oficio, mediante el cruce de las bases del registro, de la ANSES, de la Agencia de Recaudación y Control Aduanero (ARCA) y de los prestadores, sin trámites nuevos para los hogares. Los hogares inscriptos en el ReSEF a la fecha de sanción de la presente ley conservan su inscripción. Los hogares podrán consultar su situación, actualizar sus datos y pedir la revisión de su categorización por los canales digitales y presenciales vigentes. La exclusión de un hogar se notificará con sus fundamentos y podrá recurrirse; mientras se resuelve el recurso, el hogar que ya era beneficiario conserva la tarifa social."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Tarifa social en energía eléctrica y gas",
+     "texto": "En energía eléctrica y en gas por redes, la tarifa social consiste en una bonificación sobre el precio de la energía o del gas que se traslada a la tarifa, aplicable a un consumo base fijado por bloques según la época del año y la zona climática. Los consumos que excedan el consumo base no se bonifican. El porcentaje de bonificación y los bloques de consumo base no podrán ser inferiores a los vigentes a la fecha de sanción de la presente ley. El nivel anual de la bonificación lo fija la ley de presupuesto de cada ejercicio, con ese mínimo."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Tarifa social en el transporte",
+     "texto": "En el transporte público de pasajeros, la tarifa social consiste en un descuento sobre cada viaje de las personas que integran los hogares con tarifa social, que se aplica mediante la tarjeta del Sistema Único de Boleto Electrónico (SUBE), o el sistema de pago interoperable que la complemente o reemplace, asociada a la persona beneficiaria. El porcentaje de descuento es el mismo en el área metropolitana de Buenos Aires y en el resto del país, no podrá ser inferior al vigente para la tarifa social del transporte de jurisdicción nacional a la fecha de sanción de la presente ley, y su nivel anual lo fija la ley de presupuesto de cada ejercicio, con ese mínimo."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Tarifa social del agua",
+     "texto": "En el servicio de agua potable y desagües cloacales del área de la concesión regida por la Ley N° 26.221, la tarifa social se rige por el artículo 76 del Marco Regulatorio aprobado como Anexo 2 de esa ley (texto ordenado por el Decreto N° 805/2025) y por las reglas de su ente regulador, sin aportes del Tesoro nacional para la operación. El registro único queda a disposición del ente regulador y de la concesionaria a los fines de identificar los casos prioritarios previstos en ese artículo, y el Estado nacional promoverá ante el ente que los hogares del registro único accedan a la tarifa social de oficio. Las provincias y los municipios que adhieran aplican la tarifa social de sus servicios de agua a los hogares del registro único."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Datos personales",
+     "texto": "El tratamiento de los datos del registro único se rige por la Ley N° 25.326. La presente ley es la base legal de la cesión de datos entre la autoridad de aplicación, la ANSES, ARCA, los entes reguladores, el administrador del sistema de pago del transporte y las jurisdicciones adheridas, con la finalidad exclusiva de determinar, aplicar y controlar la tarifa social. Los prestadores solo reciben la condición de beneficiario de cada suministro o tarjeta, sin datos de ingresos ni patrimoniales. Se publicarán datos agregados por servicio, jurisdicción y mes, que no permitan identificar a los hogares."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Zonas climáticas",
+   "articulos": [
+    {
+     "n": 20,
+     "epigrafe": "Zona fría",
+     "texto": "La zona fría para el servicio de gas por redes se integra con los departamentos cuyos grados-día de calefacción anuales, en promedio de las series del Servicio Meteorológico Nacional, superen el umbral que fije la reglamentación. La Secretaría de Energía aprobará el mapa de la zona fría por departamento."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Zona cálida",
+     "texto": "La zona cálida para el servicio de energía eléctrica se integra con los departamentos cuyos grados-día de refrigeración anuales, en promedio de las series del Servicio Meteorológico Nacional, superen el umbral que fije la reglamentación. La Secretaría de Energía aprobará el mapa de la zona cálida por departamento."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Umbrales, dictamen técnico y revisión",
+     "texto": "La reglamentación fijará las temperaturas base, el período de las series y los umbrales de los artículos 20 y 21, sobre la base de un dictamen técnico del Servicio Meteorológico Nacional. El dictamen y sus datos se publicarán al menos TREINTA (30) días antes de la aprobación de cada mapa, para recibir observaciones, que se responderán en forma fundada. Los primeros mapas se aprobarán dentro de los DOCE (12) meses de la entrada en vigencia de la presente ley. Los mapas se revisarán cada CINCO (5) años con el mismo procedimiento; fuera de esa revisión, ningún departamento se incorpora ni se excluye, salvo por error material acreditado en el dictamen."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Bonificación de zona fría",
+     "texto": "Los hogares con tarifa social ubicados en la zona fría reciben, durante los meses de invierno, una bonificación adicional sobre su consumo base de gas por redes, conforme al inciso b) del primer párrafo del artículo 75 de la Ley N° 25.565, en el texto del artículo 25 de la presente ley. Se financia con el Fondo Fiduciario para Subsidios de Consumos de Gas de ese artículo y con su recargo vigente."
+    },
+    {
+     "n": 24,
+     "epigrafe": "Bloque ampliado de zona cálida",
+     "texto": "Los hogares con tarifa social ubicados en la zona cálida tienen, durante los meses de calor que fije la reglamentación, un bloque de consumo base de energía eléctrica bonificado mayor que el del resto del país, que la Secretaría de Energía fija en proporción a los grados-día de refrigeración del departamento. Se financia con los créditos del régimen de Subsidios Energéticos Focalizados que asigne la ley de presupuesto."
+    },
+    {
+     "n": 25,
+     "epigrafe": "Modificación de la Ley N° 25.565",
+     "texto": "Sustitúyese el inciso b) del primer párrafo del artículo 75 de la Ley N° 25.565 y del artículo 148 de la Ley Complementaria Permanente de Presupuesto N° 11.672 (t.o. 2014), en el texto del artículo 1° de la Ley N° 27.828, por el siguiente:\n«b) Una bonificación \"adicional por Zona Fría\", bajo el régimen de tarifa social de la Ley N° [—] de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas, respecto de los subsidios al gas natural por redes y al gas propano indiluido por redes, aplicable durante los meses de invierno sobre los Consumos Base de los usuarios residenciales que: i) integren el registro único de tarifa social previsto en esa ley; ii) se encuentren en los departamentos que integran la zona fría determinada por sus grados-día de calefacción conforme a esa ley; y iii) no estén incluidos en el inciso a) precedente; y»"
+    },
+    {
+     "n": 26,
+     "epigrafe": "Transición",
+     "texto": "Hasta que se apruebe el primer mapa de la zona fría, el apartado ii) del inciso b) del primer párrafo del artículo 75 de la Ley N° 25.565, en el texto del artículo 25 de la presente ley, se aplica a los usuarios que se encuentren en las subzonas IIIa, IVa, IVb, IVc, IVd, V y VI de las zonas bioambientales de la norma IRAM 11.603/12. Hasta que se apruebe el primer mapa de la zona cálida, rigen los consumos base diferenciales para las zonas cálidas que haya fijado la Secretaría de Energía conforme al régimen de Subsidios Energéticos Focalizados."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Transporte público de pasajeros",
+   "articulos": [
+    {
+     "n": 27,
+     "epigrafe": "Compensaciones decrecientes y trenes",
+     "texto": "Las compensaciones tarifarias y las transferencias para la operación que el Estado nacional paga a las empresas de transporte público de pasajeros por automotor de jurisdicción nacional se reducen en los escalones y en las fechas del artículo 7°, en la proporción que resulte del aumento de la cobertura, hasta extinguirse con el octavo escalón, con el tope y la prórroga del artículo 8°. Desde entonces, el Estado nacional solo financia, en ese transporte, la tarifa social por pasajero del artículo 28. No se celebrarán nuevos convenios de compensación ni se ampliarán los vigentes.\nEn el transporte ferroviario de pasajeros de jurisdicción nacional, las transferencias para la operación se reducen del mismo modo hasta que la tarifa cubra el CINCUENTA POR CIENTO (50 %) del costo de operación eficiente por pasajero de cada línea. Desde entonces, el Estado nacional financia la diferencia mediante un subsidio explícito a la operación, fijado por línea en la ley de presupuesto de cada ejercicio, además de la tarifa social por pasajero del artículo 28.\nEl subsidio de cada línea queda sujeto a metas anuales de costo por pasajero, puntualidad, frecuencia y pasajeros transportados, que fija la Secretaría de Transporte y que se publican con su cumplimiento en formato de datos abiertos. Si la operación de una línea se concede o se privatiza, el subsidio y sus metas se incorporan al contrato y no podrán superar, en términos reales, el monto por pasajero vigente a la fecha de la concesión. La meta de cobertura podrá elevarse por ley."
+    },
+    {
+     "n": 28,
+     "epigrafe": "Tarifa social por pasajero",
+     "texto": "El Estado nacional financia la tarifa social por pasajero en los servicios de transporte público de pasajeros por automotor y ferroviario de jurisdicción nacional y en los de jurisdicción provincial y municipal de las jurisdicciones adheridas al acuerdo federal del artículo 31, con el mismo criterio en el área metropolitana de Buenos Aires y en el resto del país. El monto a cargo del Estado nacional es el descuento efectivamente aplicado en cada viaje registrado de una persona beneficiaria, y se transfiere en forma automática, cada mes, al prestador o a la jurisdicción que corresponda, sin convenio por prestador ni asignación discrecional."
+    },
+    {
+     "n": 29,
+     "epigrafe": "Protección de los fondos",
+     "texto": "El fideicomiso constituido por el artículo 12 del Decreto N° 976/2001, en el marco del Sistema de Infraestructura de Transporte creado por el Decreto N° 1377/2001 (Fideicomiso del Sistema de Infraestructura de Transporte), queda excluido de la facultad de disolver fondos fiduciarios prevista en el artículo 5° de la Ley N° 27.742. Su disolución o el cambio de su destino solo podrán disponerse por ley. El Fondo Fiduciario para Subsidios de Consumos de Gas del artículo 75 de la Ley N° 25.565 continúa excluido de esa facultad conforme al último párrafo del artículo 5° de la Ley N° 27.742."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Agua y saneamiento",
+   "articulos": [
+    {
+     "n": 30,
+     "epigrafe": "Apoyo nacional al agua",
+     "texto": "El Estado nacional no financia la operación de ninguna prestadora de servicios de agua potable y desagües cloacales. El apoyo nacional al sector se destina exclusivamente a obras, con criterios de asignación que se publican antes de cada asignación, en el marco del plan nacional de agua y saneamiento."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VII – Acuerdo federal, financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 31,
+     "epigrafe": "Acuerdo federal",
+     "texto": "El Poder Ejecutivo nacional suscribirá con las provincias y la Ciudad Autónoma de Buenos Aires un Acuerdo Federal de Tarifas y Tarifa Social, por el cual las jurisdicciones adheridas:\na) se incorporan al registro único y aplican la tarifa social a los hogares registrados en los servicios que regulan;\nb) aplican un cronograma equivalente al del artículo 7°, con el tope del artículo 8° y las restricciones del artículo 9°, a los cargos de distribución de electricidad y de gas que regulan, a sus servicios de agua potable y desagües cloacales y a su transporte público de pasajeros;\nc) publican el costo, la cobertura y el avance conforme al artículo 11.\nEl Estado nacional financia en las jurisdicciones adheridas la tarifa social por pasajero del artículo 28. Los compromisos financieros nacionales del Acuerdo son los de la presente ley, con los recursos del artículo 32; el Poder Ejecutivo nacional lo aprueba por decreto y cada jurisdicción lo ratifica conforme a su Constitución. Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a la presente ley y a suscribir el Acuerdo."
+    },
+    {
+     "n": 32,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la presente ley se atenderán con:\na) la tarifa social en energía eléctrica y gas por redes y el bloque ampliado de zona cálida: los créditos del régimen de Subsidios Energéticos Focalizados que asigne cada ley de presupuesto a la jurisdicción del Ministerio de Infraestructura y Energía;\nb) la bonificación de zona fría: los recursos del Fondo Fiduciario para Subsidios de Consumos de Gas del artículo 75 de la Ley N° 25.565, integrado con el recargo vigente;\nc) la tarifa social por pasajero: los recursos del Fideicomiso del Sistema de Infraestructura de Transporte destinados a compensaciones al transporte público de pasajeros, que se liberan a medida que esas compensaciones se reducen, y los créditos para transporte que asigne cada ley de presupuesto;\nd) la publicación de costos, el registro único y los mapas climáticos: los créditos de cada jurisdicción.\nEn el ejercicio de su entrada en vigencia, la presente ley no aumenta el gasto total autorizado: reordena los créditos y recursos existentes para subsidios a la energía y al transporte. Desde el ejercicio siguiente, cada ley de presupuesto fija el nivel anual de la bonificación y del descuento, con los mínimos de los artículos 16 y 17, y el ahorro que resulta de la reducción de las compensaciones y de los subsidios."
+    },
+    {
+     "n": 33,
+     "epigrafe": "Informe al Congreso",
+     "texto": "Las autoridades de aplicación presentarán al Congreso de la Nación, antes del 30 de abril de cada año, un informe sobre el cumplimiento del cronograma por servicio, la parte de la brecha trasladada por aplicación del tope, los hogares y personas con tarifa social, las bonificaciones de zona fría y de zona cálida, las compensaciones y transferencias a los prestadores y la tarifa social por pasajero pagada en cada jurisdicción."
+    },
+    {
+     "n": 34,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los SESENTA (60) días de su promulgación."
+    },
+    {
+     "n": 35,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 25.565, art. 75, primer párrafo, inc. b) (texto según art. 1° de la Ley 27.828): zona fría por grados-día y tarifa social (art. 25)",
+  "Ley 11.672 (t.o. 2014), art. 148, primer párrafo, inc. b): mismo texto (art. 25)",
+  "Decreto 943/2025, art. 3° y Anexo I: el ReSEF pasa a ser registro único de tarifa social de todos los servicios y el criterio de ingreso queda fijado por ley (arts. 13 y 14)",
+  "Decreto 976/2001, art. 12 (Fideicomiso del Sistema de Infraestructura de Transporte): excluido del art. 5° de la Ley 27.742 y destinado también a la tarifa social por pasajero (arts. 29 y 32)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

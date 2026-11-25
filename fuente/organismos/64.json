@@ -1,0 +1,39 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Publica candidatos, recibe observaciones, hace la audiencia pública para la Corte y remite los pliegos en plazo. Publica candidatos, recibe observaciones, celebra la audiencia para la Corte, remite los pliegos en plazo, convoca el concurso del Procurador General e informa al tablero. Remite la nota y el texto modelo; informa al tablero los datos del Ejecutivo.",
+    "hoy": "Ministerio de Justicia, Secretaría de Justicia (Subsecretaría de Relaciones con el Poder Judicial y la Comunidad Académica)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio Público Fiscal",
+    "estado": "modificado",
+    "rol": "Titular por concurso, con mandato de cinco años.",
+    "hoy": "Procuración General de la Nación (art. 120 CN; Ley 27.148)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Consejo de la Magistratura",
+   "rol": "Cumple plazos por etapa, examen anónimo y entrevistas públicas; publica el tablero de vacantes."
+  },
+  {
+   "nombre": "Senado de la Nación",
+   "rol": "Da acuerdo a los pliegos; invitado a fijar un plazo reglamentario."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Querellante en las causas de corrupción contra funcionarios, con legitimación para recurrir y pedir la reapertura."
+  }
+ ]
+}

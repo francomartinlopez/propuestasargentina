@@ -1,0 +1,38 @@
+{
+ "id": "N444b",
+ "tipo": "ley_aprobatoria",
+ "titulo": "Ley aprobatoria del Tratado de Asociación Plena entre la República Argentina y la República Oriental del Uruguay",
+ "sumilla": "Aprueba el tratado redactado en «Tratado de Asociación Plena entre la República Argentina y la República Oriental del Uruguay» (art. 75 inc. 22 CN) y fija la fuente de sus gastos.",
+ "cuando": "Después de la firma del instrumento (Fase I)",
+ "cuando_breve": "Después de la firma del instrumento",
+ "tramite": "Aprobación por ley del Congreso (art. 75 inc. 22 CN); mayoría simple; cámara de origen indistinta.",
+ "motivos": "El presente proyecto somete a la aprobación del Honorable Congreso de la Nación el Tratado de Asociación Plena entre la República Argentina y la República Oriental del Uruguay. El Tratado refuerza la consulta previa sobre las obras en el Río de la Plata y el río Uruguay, el reconocimiento automático de los títulos de grado acreditados, un mercado de trabajo integrado y la conexión ferroviaria Concordia–Salto por el puente de Salto Grande. Conforme al artículo 75, inciso 22, de la Constitución Nacional, corresponde al Congreso aprobar o desechar los tratados concluidos con las demás naciones, y esa aprobación es condición para que el Poder Ejecutivo nacional pueda ratificarlo. El proyecto aprueba el texto sin reservas y precisa la fuente de los gastos.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Aprobación",
+     "texto": "Apruébase el Tratado de Asociación Plena entre la República Argentina y la República Oriental del Uruguay, suscripto en […] el […], cuya copia autenticada forma parte de la presente ley como Anexo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Fuente de los gastos",
+     "texto": "Las obras ferroviarias del artículo 7 del Tratado se financian con los créditos del Presupuesto Plurianual de Infraestructura asignados a la Secretaría de Transporte. Los demás compromisos se atienden con los créditos que la ley de presupuesto de cada ejercicio asigne a los organismos competentes, sin aumento del gasto total."
+    },
+    {
+     "n": 3,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

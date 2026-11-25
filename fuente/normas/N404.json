@@ -1,0 +1,234 @@
+{
+ "id": "N404",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de segunda oportunidad: insolvencia de las personas humanas, concurso preventivo simplificado y prevención del sobreendeudamiento",
+ "sumilla": "Crea un régimen de insolvencia para personas humanas sobreendeudadas (pasivo de hasta 300 salarios mínimos) con conciliación extrajudicial gratuita y digital de 90 días, suspensión de ejecuciones, plan de hasta 3 años (5 para conservar la vivienda), protección de la vivienda única y de un ingreso mínimo, y liberación del saldo al cumplir; reforma los arts. 288 y 289 de la Ley 24.522 e incorpora los arts. 289 bis a quater (concurso simplificado para micro y pequeñas empresas); obliga a todo prestamista habitual a informar a la Central de Deudores y repone el tope de 50 % a los intereses punitorios.",
+ "cuando": "Fase I (año 1): se envía en el segundo semestre del año 1; rige a los 180 días de su publicación (los topes a los punitorios, desde el día siguiente).",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La mora de los préstamos de bancos y entidades financieras a las familias pasó del 2,6 % en diciembre de 2024 al 12,8 % en agosto de 2026, el nivel más alto desde 2010, según el Banco Central de la República Argentina; en los proveedores no financieros de crédito, incluidas las billeteras virtuales, alcanzó el 26,2 % en febrero de 2026. Quien no puede pagar no tiene una salida a su medida: el concurso de la Ley N° 24.522 fue concebido para empresas y su costo excede el de una deuda de pocos salarios, y las ejecuciones individuales se prolongan sin que el acreedor cobre. El proyecto, dictado en ejercicio del artículo 75, inciso 12, de la Constitución Nacional, crea un régimen de insolvencia para las personas humanas sobreendeudadas: una conciliación extrajudicial gratuita y digital con todos los acreedores, la suspensión de las ejecuciones, un plan de hasta tres años, o cinco para conservar la vivienda, la protección de la vivienda única y de un ingreso para la subsistencia del hogar, y la liberación del saldo una vez cumplido el plan, reservada a los deudores de buena fe. Reforma los artículos 288 y 289 de la Ley N° 24.522 para establecer un concurso preventivo simplificado para las micro y pequeñas empresas, con plazos breves y mayorías accesibles. Previene el sobreendeudamiento con la información de la deuda total, las consecuencias de prestar sin evaluar al deudor y un tope a los intereses punitorios. No requiere aportes del Tesoro.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto:\na) establecer un régimen de insolvencia para las personas humanas sobreendeudadas, con una conciliación extrajudicial gratuita y digital, un plan de pagos con suspensión de las ejecuciones, la protección de la vivienda única y de un ingreso para la subsistencia del hogar, y la liberación del saldo impago una vez cumplido el plan;\nb) establecer un concurso preventivo simplificado para las micro y pequeñas empresas, mediante la reforma de la Ley N° 24.522 de Concursos y Quiebras;\nc) prevenir el sobreendeudamiento mediante la información de la deuda total de cada persona, las consecuencias del incumplimiento de los estándares de préstamo responsable y un tope a los intereses punitorios en el crédito para consumo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sujetos y sobreendeudamiento",
+     "texto": "Pueden acogerse al régimen de los Capítulos II a IV las personas humanas domiciliadas en el país, sean o no consumidores, trabajadores en relación de dependencia, jubilados o pensionados, inscriptos en el Régimen Simplificado para Pequeños Contribuyentes, trabajadores autónomos o pequeños comerciantes, que se encuentren en situación de sobreendeudamiento y cuyo pasivo total no supere el equivalente a TRESCIENTOS (300) Salarios Mínimos, Vitales y Móviles.\nEstá sobreendeudada la persona humana que, de buena fe, no puede pagar regularmente sus deudas exigibles, o las que vencerán dentro de los DOCE (12) meses siguientes, con sus ingresos y bienes sin resignar el ingreso protegido del artículo 3°. La cesación de pagos del artículo 1° de la Ley N° 24.522 es una de sus formas.\nLos cónyuges y convivientes podrán presentar una solicitud conjunta. Las personas humanas cuyo pasivo supere el límite del primer párrafo se rigen por la Ley N° 24.522."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Ingreso protegido",
+     "texto": "Ingreso protegido es la suma mensual que la persona deudora conserva para la subsistencia de su hogar desde la admisión de su solicitud y hasta la conclusión del plan. No podrá ser inferior al mayor de los siguientes importes: a) el importe inembargable de las remuneraciones que fije la normativa vigente; b) el valor de la Canasta Básica Total que publica el Instituto Nacional de Estadística y Censos (INDEC) para la composición del hogar de la persona deudora. El conciliador o el juez podrán aumentarlo en forma fundada por gastos de salud, discapacidad o cuidado de personas a cargo.\nDurante ese período, las remuneraciones, haberes previsionales, prestaciones, honorarios y demás ingresos de la persona deudora son inembargables hasta el monto del ingreso protegido, cualquiera sea la cuenta en que se acrediten, y no podrán debitarse de ellos cuotas de créditos comprendidos por encima del monto que fije el plan."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Vivienda única",
+     "texto": "Desde la admisión de la solicitud y hasta la conclusión del plan o de la liquidación, el inmueble que constituya la vivienda única y de ocupación permanente de la persona deudora y de su familia no podrá ser ejecutado ni liquidado por los acreedores comprendidos en el régimen, aunque no esté afectado conforme a los artículos 244 y siguientes del Código Civil y Comercial de la Nación. Quedan a salvo los créditos enumerados en los incisos a) a d) del artículo 249 de ese Código. Si el valor del inmueble excede manifiestamente las necesidades de vivienda del grupo familiar, el juez podrá disponer su venta y la entrega a la persona deudora de la suma necesaria para adquirir una vivienda adecuada; el excedente se distribuye entre los acreedores.\nLa persona deudora podrá pedir en su solicitud la afectación de la vivienda conforme al artículo 244 del Código Civil y Comercial de la Nación, que el juez ordenará al homologar el plan."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Exclusiones",
+     "texto": "No pueden acogerse al régimen las personas que:\na) hayan obtenido la liberación del artículo 18 dentro de los CINCO (5) años anteriores a la solicitud;\nb) hayan sido condenadas por sentencia firme por un delito cometido en perjuicio de sus acreedores dentro de los DIEZ (10) años anteriores;\nc) falseen u oculten datos sobre sus ingresos, bienes o deudas en la solicitud o durante el procedimiento.\nLa persona humana que tenga un concurso preventivo en trámite podrá pedir su conversión al régimen de la presente ley, con la conformidad del juez del concurso."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Créditos comprendidos y excluidos",
+     "texto": "El régimen comprende todos los créditos de causa o título anterior a la solicitud, cualquiera sea su origen y su acreedor, con las siguientes reglas:\na) los créditos con garantía real conservan su garantía; el plan solo los modifica con la conformidad del acreedor; la suspensión del artículo 9° alcanza la subasta de la vivienda única por el plazo que allí se indica;\nb) los créditos por alimentos, las indemnizaciones por daños a la persona causados con dolo y las multas penales no admiten quita ni se extinguen por la liberación;\nc) los créditos tributarios y de la seguridad social no admiten quita y se pagan conforme a los planes de facilidades de pago que ofrezca el organismo recaudador, cuyas cuotas se computan en el plan; no se extinguen por la liberación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Conciliación extrajudicial",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Solicitud",
+     "texto": "La solicitud se presenta en forma gratuita por medio de la plataforma digital del artículo 30, sin patrocinio letrado obligatorio, en un formulario único con carácter de declaración jurada que contiene los ingresos y gastos del hogar, los bienes, las deudas y los acreedores. Se incorpora de oficio a la solicitud el informe de deuda total del artículo 27. La persona deudora podrá ser asistida por un abogado, por la defensoría pública o por una asociación de consumidores."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Conciliadores y centros",
+     "texto": "La conciliación está a cargo de un conciliador inscripto en el registro que lleve la autoridad de aplicación, que deberá ser abogado, contador público o mediador matriculado, con la capacitación que fije la reglamentación. Pueden actuar como centros de conciliación los servicios públicos de mediación de la Nación, de las provincias y de la Ciudad Autónoma de Buenos Aires, el Servicio Nacional de Conciliación Previa en las Relaciones de Consumo creado por la Ley N° [—] de defensa de la competencia y del consumidor, las defensorías públicas y del pueblo, y los colegios profesionales y universidades que se inscriban.\nLa conciliación es gratuita para la persona deudora. El conciliador percibe un honorario fijo, según la escala que fije la reglamentación, a cargo de los acreedores comprendidos que sean entidades financieras, proveedores no financieros de crédito, proveedores de servicios de pago o proveedores de bienes y servicios en relaciones de consumo, en proporción a sus créditos, que se paga con la homologación del plan o la conclusión de la conciliación. Los conciliadores de los servicios públicos no perciben honorarios de las partes."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Admisión y efectos",
+     "texto": "Dentro de los DIEZ (10) días hábiles de presentada la solicitud, el conciliador verificará que se cumplan los requisitos de los artículos 2° y 5°, la admitirá o rechazará en forma fundada y notificará la admisión a los acreedores en su domicilio electrónico y al registro público de procedimientos de la plataforma. La admisión produce, por NOVENTA (90) días desde su notificación:\na) la suspensión de los juicios de contenido patrimonial, las ejecuciones, los embargos y las subastas por créditos comprendidos, salvo las ejecuciones de garantías reales sobre bienes que no sean la vivienda única;\nb) la suspensión de los intereses punitorios y de los cargos por mora o gestión de cobranza de los créditos comprendidos;\nc) la protección del ingreso protegido y de la vivienda única de los artículos 3° y 4°;\nd) la obligación de la persona deudora de no contraer nuevas deudas, salvo las necesarias para su subsistencia, ni disponer de bienes registrables sin autorización del conciliador.\nLa admisión se informa a la Central de Deudores del Banco Central de la República Argentina como «en conciliación». Las suspensiones se mantienen hasta la homologación del plan o, si no hay acuerdo, hasta que el juez resuelva la apertura del procedimiento judicial conforme al artículo 13."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Lista de créditos y propuesta",
+     "texto": "Los acreedores tienen QUINCE (15) días desde la notificación para confirmar u observar en la plataforma el monto de su crédito, con su documentación. Con esos datos el conciliador forma la lista de créditos.\nLa persona deudora, con la asistencia del conciliador, propone un plan de pagos que podrá incluir quitas, esperas, reducción o eliminación de intereses y venta de bienes que no estén protegidos. El plan no podrá exceder de TRES (3) años, o de CINCO (5) años cuando sea necesario para conservar la vivienda única; sus cuotas no superarán la capacidad de pago, que es la diferencia entre los ingresos del hogar y el ingreso protegido, deducida la cuota de un crédito con garantía real sobre la vivienda única. El plan dará igual trato a los acreedores en igual situación, y podrá agruparlos en categorías."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Mayoría",
+     "texto": "El plan se aprueba con la conformidad de los acreedores que representen más de la mitad del capital quirografario computable. Se considera que presta conformidad el acreedor comprendido que, notificado en su domicilio electrónico, no exprese su rechazo fundado en la plataforma dentro de los VEINTE (20) días de la presentación del plan. La notificación deberá advertir en forma destacada ese efecto. No se computan el cónyuge, el conviviente ni los parientes de la persona deudora dentro del cuarto grado de consanguinidad o segundo de afinidad, ni los cesionarios de sus créditos dentro del año anterior a la solicitud."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Homologación y efectos",
+     "texto": "Aprobado el plan, el conciliador lo remite por medios electrónicos, con la lista de créditos, al juez competente conforme al artículo 3° de la Ley N° 24.522. Dentro de los CINCO (5) días de recibido, cualquier acreedor que no haya prestado conformidad podrá impugnarlo solo por error en el cómputo de la mayoría, ocultación de bienes o de ingresos, trato desigual a acreedores en igual situación o porque el plan le otorga menos de lo que obtendría con la liquidación de los bienes no protegidos. El juez resolverá las impugnaciones y la homologación en un solo acto, dentro de los DIEZ (10) días.\nEl plan homologado obliga a todos los acreedores quirografarios comprendidos, aunque no hayan participado, en los términos del artículo 56 de la Ley N° 24.522. Durante su cumplimiento, la deuda se informa a la Central de Deudores como «en plan de pagos homologado» y su cumplimiento regular se refleja en la clasificación de la persona deudora."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Conclusión sin acuerdo",
+     "texto": "La conciliación concluye a los NOVENTA (90) días de la admisión, plazo que la persona deudora y los acreedores que representen la mayoría del capital podrán prorrogar por única vez por TREINTA (30) días. Si no se aprueba un plan, el conciliador emite un certificado con la lista de créditos, la capacidad de pago y la última propuesta, y la persona deudora podrá pedir la apertura del procedimiento judicial dentro de los TREINTA (30) días siguientes. Si no lo pide, cesan los efectos de la admisión."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Procedimiento judicial",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Apertura y trámite",
+     "texto": "El procedimiento judicial tramita ante el juez competente conforme al artículo 3° de la Ley N° 24.522, en forma electrónica y con audiencias que podrán celebrarse a distancia. Con el pedido de la persona deudora y el certificado del artículo 13, el juez dispondrá la apertura dentro de los DIEZ (10) días, que mantiene los efectos del artículo 9° y produce además los de los artículos 19 y 21 de la Ley N° 24.522 respecto de los créditos comprendidos. No se aplica la inhabilitación de los artículos 234 y siguientes de esa ley.\nEl conciliador continúa como funcionario del procedimiento, con las funciones del síndico respecto de la lista de créditos y la vigilancia del plan; el juez solo designará síndico si hay bienes a liquidar. La lista de créditos del conciliador vale como informe; los interesados podrán observarla dentro de los DIEZ (10) días y el juez resolverá en una audiencia."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Plan judicial",
+     "texto": "Si no se alcanzó la mayoría del artículo 11, el juez podrá imponer a todos los acreedores quirografarios comprendidos el plan que proponga la persona deudora, siempre que:\na) su duración no exceda de TRES (3) años, o de CINCO (5) años cuando sea necesario para conservar la vivienda única;\nb) destine al pago de los acreedores toda la capacidad de pago definida en el artículo 10 durante su vigencia;\nc) ningún acreedor reciba menos de lo que obtendría con la liquidación de los bienes no protegidos;\nd) dé igual trato a los acreedores en igual situación.\nEl juez podrá reducir los intereses de los créditos conforme al artículo 771 del Código Civil y Comercial de la Nación y al artículo 26 de la presente ley."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Liquidación",
+     "texto": "Si la persona deudora no tiene capacidad de pago, o lo solicita, el juez dispondrá la liquidación de sus bienes no protegidos mediante subasta electrónica y la distribución de su producido conforme al orden de privilegios de la Ley N° 24.522. Están protegidos y excluidos de la liquidación la vivienda única, en los términos del artículo 4°, el ingreso protegido, los bienes del artículo 744 del Código Civil y Comercial de la Nación y los del artículo 108 de la Ley N° 24.522. Concluida la liquidación, se aplica el artículo 18."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Incumplimiento y modificación del plan",
+     "texto": "Si la persona deudora deja de pagar TRES (3) cuotas consecutivas del plan acordado o judicial sin causa justificada, el juez, a pedido de un acreedor y con audiencia de la persona deudora, declarará el incumplimiento: los acreedores recuperan sus acciones por el saldo impago, con deducción de lo percibido. Si el incumplimiento obedece a una causa sobreviniente ajena a la persona deudora, como la pérdida del empleo o una enfermedad, el juez podrá reducir las cuotas o extender el plazo hasta UN (1) año, sin superar el máximo de CINCO (5) años."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Liberación",
+   "articulos": [
+    {
+     "n": 18,
+     "epigrafe": "Liberación",
+     "texto": "Cumplido el plan acordado o judicial, o concluida la liquidación, el juez declarará a pedido de la persona deudora, con vista a los acreedores por CINCO (5) días, la extinción del saldo impago de los créditos comprendidos, aunque sus titulares no hayan participado en el procedimiento, salvo los de los incisos b) y c) del artículo 6°. La liberación no beneficia a los codeudores ni a los fiadores, salvo que se hayan acogido al régimen en forma conjunta con la persona deudora."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Buena fe y revocación",
+     "texto": "La liberación requiere que la persona deudora haya actuado de buena fe, haya cumplido sus deberes de información y no haya incurrido en las conductas del artículo 5°. Podrá revocarse a pedido de cualquier acreedor dentro de los DOS (2) años de declarada, si se acredita que la persona deudora ocultó bienes o ingresos; en ese caso, los acreedores recuperan sus acciones por el saldo extinguido."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Información crediticia",
+     "texto": "Declarada la liberación, los créditos extinguidos se informan como «extinguidos por liberación» y se aplica a su registro el plazo reducido previsto para las obligaciones extinguidas en el inciso 4 del artículo 26 de la Ley N° 25.326. El procedimiento no da lugar a otros registros de deudores que los previstos en la presente ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Concurso preventivo simplificado (modificaciones a la Ley N° 24.522)",
+   "articulos": [
+    {
+     "n": 21,
+     "epigrafe": "Pequeños concursos y concurso simplificado",
+     "texto": "Sustitúyese el artículo 288 de la Ley N° 24.522 por el siguiente:\n«ARTICULO 288.- Pequeños concursos y quiebras. Concurso preventivo simplificado. A los efectos de esta ley se consideran pequeños concursos y quiebras aquellos en los cuales se presente, en forma indistinta, cualquiera de estas circunstancias:\n1. Que el pasivo denunciado no alcance el equivalente a trescientos (300) salarios mínimos vitales y móviles.\n2. Que el proceso no presente más de veinte (20) acreedores quirografarios.\n3. Que el deudor no posea más de veinte (20) trabajadores en relación de dependencia sin necesidad de declaración judicial.\nEl concurso preventivo de los deudores comprendidos en este artículo, y el de las micro y pequeñas empresas que acrediten esa condición conforme a la categorización vigente del régimen de las micro, pequeñas y medianas empresas aunque superen los límites anteriores, tramita por el procedimiento simplificado de los artículos 289 a 289 quater. Las personas humanas sobreendeudadas que no realicen actividad empresaria podrán optar por el régimen de la Ley N° [—] de segunda oportunidad.»"
+    },
+    {
+     "n": 22,
+     "epigrafe": "Régimen aplicable",
+     "texto": "Sustitúyese el artículo 289 de la Ley N° 24.522 por el siguiente:\n«ARTICULO 289.- Régimen aplicable. En los pequeños concursos y quiebras y en el concurso preventivo simplificado no serán necesarios los dictámenes previstos en el artículo 11, incisos 3 y 5, ni la constitución de los comités de acreedores, y no regirá el régimen de supuestos especiales previstos en el artículo 48. El controlador del cumplimiento del acuerdo estará a cargo del síndico en caso de no haberse constituido comité de acreedores. Los honorarios por su labor en esta etapa serán del uno por ciento (1 %) de lo pagado a los acreedores.\nLa petición se presenta en forma electrónica, con el formulario que apruebe la reglamentación, y el expediente tramita íntegramente en forma electrónica. La publicación de edictos del artículo 27 se cumple por UN (1) día en el Boletín Oficial de la República Argentina, en forma gratuita, y en el registro público electrónico de procedimientos concursales que lleve la autoridad de aplicación de la Ley N° [—] de segunda oportunidad. En lo no previsto en los artículos 289 bis a 289 quater rigen las demás disposiciones de esta ley.»"
+    },
+    {
+     "n": 23,
+     "epigrafe": "Plazos abreviados",
+     "texto": "Incorpórase como artículo 289 bis de la Ley N° 24.522 el siguiente:\n«ARTICULO 289 bis.- Plazos abreviados. En el concurso preventivo simplificado:\n1. La resolución de apertura se dicta dentro de los CINCO (5) días de la presentación.\n2. Los acreedores presentan sus pedidos de verificación al síndico, por medios electrónicos, dentro de los QUINCE (15) días de la publicación del edicto.\n3. El informe individual se presenta dentro de los QUINCE (15) días del vencimiento del plazo de observaciones, y el juez resuelve sobre la verificación dentro de los DIEZ (10) días.\n4. El informe general se presenta dentro de los QUINCE (15) días de la resolución sobre la verificación.\n5. El período de exclusividad del artículo 43 es de SESENTA (60) días, prorrogable por el juez por única vez por QUINCE (15) días.\n6. La audiencia informativa podrá celebrarse a distancia.»"
+    },
+    {
+     "n": 24,
+     "epigrafe": "Mayorías y conformidades",
+     "texto": "Incorpórase como artículo 289 ter de la Ley N° 24.522 el siguiente:\n«ARTICULO 289 ter.- Mayorías y conformidades. En el concurso preventivo simplificado, la propuesta de acuerdo se aprueba con la conformidad de la mayoría absoluta de los acreedores quirografarios dentro de cada categoría, que representen más de la mitad del capital computable dentro de cada categoría, calculado conforme al artículo 45. Las conformidades podrán expresarse con firma digital o en el expediente electrónico, sin necesidad de certificación por escribano. Si no se alcanzan las mayorías en todas las categorías, rige el inciso 2, apartado b), del artículo 52.»"
+    },
+    {
+     "n": 25,
+     "epigrafe": "Continuidad de la empresa y honorarios",
+     "texto": "Incorpórase como artículo 289 quater de la Ley N° 24.522 el siguiente:\n«ARTICULO 289 quater.- Continuidad de la empresa y honorarios. En el concurso preventivo simplificado, la propuesta deberá acompañarse de un plan de continuidad de la actividad que indique las fuentes de pago y el mantenimiento de los puestos de trabajo. Los trabajadores serán informados de la propuesta y podrán ser oídos en la audiencia informativa.\nLos honorarios totales de los funcionarios y de los letrados del síndico y del deudor por la etapa del artículo 266 no podrán superar el TRES POR CIENTO (3 %) del pasivo verificado, y no rige el mínimo previsto en el segundo párrafo de ese artículo.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Prevención del sobreendeudamiento",
+   "articulos": [
+    {
+     "n": 26,
+     "epigrafe": "Préstamo responsable en la insolvencia",
+     "texto": "En los procedimientos de la presente ley y en el concurso preventivo simplificado, si se acredita que un crédito para consumo fue otorgado o ampliado sin cumplir los deberes del artículo 36 bis de la Ley N° 24.240, incorporado por la Ley N° [—] de defensa de la competencia y del consumidor, el conciliador lo informará y el juez reducirá sus intereses al costo medio del dinero para operaciones similares, conforme al artículo 771 del Código Civil y Comercial de la Nación, y dispondrá que se pague después de los demás créditos quirografarios.\nSe presume, salvo prueba en contrario a cargo del acreedor, que no se cumplieron esos deberes cuando el crédito se otorgó o amplió mientras la suma de las cuotas mensuales de todas las financiaciones de la persona deudora, incluida esa, superaba el TREINTA POR CIENTO (30 %) de sus ingresos mensuales netos, salvo que el acreedor acredite haberle entregado la evaluación y obtenido su consentimiento expreso conforme a las normas del Banco Central de la República Argentina, y que la persona podía razonablemente pagarlo con lo que superaba su ingreso protegido."
+    },
+    {
+     "n": 27,
+     "epigrafe": "Información de deuda total",
+     "texto": "Toda persona humana o jurídica que ofrezca crédito al público en forma habitual, incluidas las entidades financieras, los proveedores no financieros de crédito, los proveedores de servicios de pago que otorguen crédito por medio de billeteras o cuentas digitales, las empresas emisoras de tarjetas de crédito o de compra, las mutuales, las cooperativas y los comercios que financien sus ventas, deberá informar a la Central de Deudores del Banco Central de la República Argentina, conforme a las normas que dicte esa Institución, el saldo, la cuota mensual y la situación de las financiaciones que otorgue a personas humanas. El Banco Central de la República Argentina podrá eximir a quienes otorguen financiaciones de monto total ínfimo.\nEl Banco Central de la República Argentina pondrá a disposición de cada persona, en forma gratuita y en línea, un informe de deuda total con todas sus financiaciones, la cuota mensual comprometida y su situación. Los proveedores deberán consultarlo antes de otorgar o ampliar un crédito para consumo."
+    },
+    {
+     "n": 28,
+     "epigrafe": "Tope a los intereses punitorios en el crédito para consumo",
+     "texto": "Incorpórase como artículo 36 ter de la Ley N° 24.240 y sus modificaciones el siguiente:\n«Artículo 36 ter.- Intereses punitorios. En las operaciones de crédito para consumo, los intereses punitorios no podrán superar el CINCUENTA POR CIENTO (50 %) de la tasa de interés compensatoria pactada y no serán capitalizables. No podrán cobrarse al consumidor cargos por mora o por gestión de cobranza distintos de los intereses punitorios, sin perjuicio de las costas judiciales. Lo cobrado en exceso se imputa al capital y, extinguido este, debe restituirse. El Banco Central de la República Argentina dictará las normas pertinentes respecto de las entidades y proveedores sujetos a su supervisión.»"
+    },
+    {
+     "n": 29,
+     "epigrafe": "Tope a los intereses punitorios en las tarjetas de crédito",
+     "texto": "Sustitúyese el artículo 18 de la Ley N° 25.065 por el siguiente:\n«ARTICULO 18. Interés punitorio. Los intereses punitorios no podrán superar el cincuenta por ciento (50 %) de la tasa de interés compensatoria o financiera que el emisor aplique al titular. Independientemente de lo dispuesto por las leyes de fondo, los intereses punitorios no serán capitalizables.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VII – Organización y disposiciones finales",
+   "articulos": [
+    {
+     "n": 30,
+     "epigrafe": "Autoridad de aplicación, plataforma y datos",
+     "texto": "La autoridad de aplicación de la presente ley es la Secretaría de Justicia del Ministerio de Justicia y Seguridad. Tendrá a su cargo:\na) la plataforma digital única de solicitudes, conciliación y registro público de procedimientos, integrada con los sistemas de trámites a distancia del Estado nacional e interoperable con los poderes judiciales;\nb) el registro de conciliadores y centros, su capacitación y la escala de honorarios del artículo 8°;\nc) la publicación trimestral, en formato abierto y sin datos que permitan identificar a las personas, de las solicitudes, admisiones, planes acordados, judiciales y homologados, liberaciones, incumplimientos y duración de cada etapa, por jurisdicción;\nd) un informe anual al Congreso de la Nación sobre el funcionamiento del régimen.\nLas entidades y proveedores del artículo 27 deberán constituir domicilio electrónico en la plataforma. El tratamiento de datos personales se rige por la Ley N° 25.326; la presente ley es la base legal de la cesión de datos entre la autoridad de aplicación, el Banco Central de la República Argentina, los organismos de la seguridad social y tributarios y los poderes judiciales, con la finalidad exclusiva de tramitar los procedimientos."
+    },
+    {
+     "n": 31,
+     "epigrafe": "Jurisdicciones locales e invitación",
+     "texto": "Los procedimientos judiciales de la presente ley y el concurso preventivo simplificado tramitan ante los tribunales competentes de cada jurisdicción, conforme a sus leyes de organización judicial. La conciliación extrajudicial se presta en todo el país por la plataforma nacional desde la entrada en vigencia de la presente ley.\nInvítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a la presente ley para que sus servicios públicos de mediación actúen como centros de conciliación, a eximir de tasas de justicia y de sellos a los procedimientos de las personas humanas, y a sus poderes judiciales a asignar juzgados o secretarías y a integrar su expediente electrónico con la plataforma."
+    },
+    {
+     "n": 32,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos de la plataforma digital, del registro y de los servicios públicos de conciliación nacionales se atenderán con la reasignación de los créditos de la Secretaría de Justicia que identifique en forma expresa la ley de presupuesto del ejercicio en que la presente entre en vigencia, sin incremento del gasto total de esa Secretaría. Los honorarios de los conciliadores se rigen por el artículo 8°. La presente ley no autoriza aportes del Tesoro nacional para el pago de deudas de particulares."
+    },
+    {
+     "n": 33,
+     "epigrafe": "Aplicación temporal",
+     "texto": "La presente ley se aplica a los créditos de causa anterior a su entrada en vigencia. La admisión de la solicitud suspende las ejecuciones en trámite conforme al artículo 9°. Los concursos preventivos en trámite que reúnan las condiciones del artículo 288 de la Ley N° 24.522, en el texto del artículo 21 de la presente, podrán continuar por el procedimiento simplificado en la etapa en que se encuentren. El artículo 36 ter de la Ley N° 24.240 y el artículo 18 de la Ley N° 25.065, en el texto de los artículos 28 y 29 de la presente, se aplican a los intereses punitorios que se devenguen desde su entrada en vigencia."
+    },
+    {
+     "n": 34,
+     "epigrafe": "Reglamentación y vigencia",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su publicación. La presente ley entrará en vigencia a los CIENTO OCHENTA (180) días de su publicación en el Boletín Oficial, salvo los artículos 28 y 29, que rigen desde el día siguiente al de su publicación."
+    },
+    {
+     "n": 35,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.522, art. 288 (sustituye; mantiene el texto de la Ley 27.170 y agrega el concurso simplificado)",
+  "Ley 24.522, art. 289 (sustituye; mantiene sus exenciones y agrega trámite electrónico y edicto gratuito)",
+  "Ley 24.522, arts. 289 bis, 289 ter y 289 quater (incorpora)",
+  "Ley 24.240, art. 36 ter (incorpora)",
+  "Ley 25.065, art. 18 (sustituye el texto del art. 20 del DNU 70/2023)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

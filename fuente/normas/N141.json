@@ -1,0 +1,90 @@
+{
+ "id": "N141",
+ "tipo": "ordenanza_modelo",
+ "titulo": "Ordenanza municipal modelo de afectación de la tasa vial y de consorcio o comisión vial de caminos rurales",
+ "sumilla": "Modelo para los municipios de los convenios de caminos rurales: afecta la tasa vial en forma exclusiva al plan de mantenimiento de la red rural, obliga a publicar cuánto se cobra y en qué se gasta, crea o reconoce un consorcio o comisión vial con productores y ordena rendir cuentas por kilómetro transitable.",
+ "cuando": "Fase I (junto con la adhesión del municipio al acuerdo «Acuerdo federal de caminos rurales entre el Estado Nacional y las Provincias de Buenos Aires, Córdoba, Santa Fe, Entre Ríos, La Pampa, Santiago del Estero y Chaco»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No pasa por el Congreso: modelo que cada Concejo Deliberante sanciona por mayoría simple, según la ley orgánica municipal de su provincia.",
+ "motivos": "Los caminos rurales de tierra concentran buena parte del tránsito de la producción y, en su mayoría, están a cargo de los municipios, que cobran para conservarlos una tasa vial. La legitimidad de esa tasa depende de que exista un servicio efectivo y verificable: cuando el producido no se traduce en caminos transitables, el tributo pierde su causa y su cobro se vuelve discutible. La presente ordenanza afecta en forma exclusiva el producido de la tasa vial a un plan de mantenimiento de la red rural por kilómetro, elaborado y controlado junto con los productores mediante un consorcio caminero o una comisión vial, y obliga a publicar cada año cuánto se recauda, en qué se aplica y cuántos kilómetros se mantienen transitables. Con ello, el municipio cumple las condiciones que el acuerdo federal de caminos rurales y el Fondo Nacional de Caminos Rurales por Resultados exigen para que la Nación pague por kilómetro transitable verificado, de modo que cada peso de la tasa se sume al aporte provincial, al de los productores y al nacional. La ordenanza no crea tributos ni modifica alícuotas: ordena el destino y la rendición de cuentas de la tasa existente.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Concejo Deliberante de [Municipio] sanciona con fuerza de Ordenanza:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente Ordenanza afecta el producido de la [denominación de la tasa] (en adelante, 'la tasa vial') a la conservación de la red vial rural del Municipio de [Municipio], organiza su gestión compartida con los productores y establece la publicación de su recaudación y aplicación y la rendición de cuentas por kilómetro transitable."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Afectación exclusiva",
+     "texto": "El producido de la tasa vial se afecta en forma exclusiva a la conservación y mejora de los caminos rurales del Municipio, conforme al plan de mantenimiento del artículo 5°. Se depositará en una cuenta especial y no podrá destinarse a gastos de personal ajeno a la red vial, a gastos generales de la administración ni a otras finalidades."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Comisión Vial",
+     "texto": "Créase la Comisión Vial de [Municipio], integrada por: a) DOS (2) representantes del Departamento Ejecutivo; b) un número de representantes de los productores rurales del partido no inferior al de los representantes del Departamento Ejecutivo, designados por las entidades de productores con actuación en el partido o, en su defecto, por asamblea de contribuyentes de la tasa vial convocada al efecto; y c) UN (1) representante de la vialidad provincial, que se invita a designar. Los integrantes se desempeñan en forma honoraria."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Consorcios existentes",
+     "texto": "Donde existan consorcios camineros constituidos conforme a la legislación provincial, el Municipio los reconoce como entidades de gestión de los caminos de su jurisdicción y celebrará con ellos convenios para la aplicación de la tasa vial. En tal caso, las funciones de la Comisión Vial serán ejercidas por el consorcio o los consorcios respectivos, con la participación municipal que fije el convenio."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Plan de mantenimiento",
+     "texto": "La Comisión Vial elaborará cada año, antes de la aprobación del presupuesto municipal, un plan de mantenimiento de la red vial rural que identifique cada camino, su longitud, su estado, las tareas previstas por kilómetro, el costo estimado, los aportes de cada parte y la meta de kilómetros transitables todo el año. El plan será aprobado por el Departamento Ejecutivo y comunicado a este Concejo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Funciones de la Comisión",
+     "texto": "Corresponde a la Comisión Vial: a) elaborar y controlar el plan de mantenimiento; b) proponer las prioridades de obra; c) verificar el estado de los caminos y la ejecución de las tareas; d) recibir y canalizar los reclamos de los vecinos; y e) emitir un informe anual sobre el cumplimiento del plan."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Publicación",
+     "texto": "El Departamento Ejecutivo publicará en el sitio oficial del Municipio, en formato abierto y al menos cada trimestre: a) lo recaudado por la tasa vial; b) los gastos aplicados, con detalle de obras, tareas, insumos, combustible y maquinaria; c) los kilómetros mantenidos y su estado; y d) el informe anual de la Comisión Vial."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Rendición por kilómetro transitable",
+     "texto": "El Departamento Ejecutivo rendirá cuentas cada año ante este Concejo del costo por kilómetro y de los kilómetros que se mantuvieron transitables todo el año, comparados con la meta del plan."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Adhesión al programa federal",
+     "texto": "Autorízase al Departamento Ejecutivo a adherir al acuerdo federal de caminos rurales celebrado entre la Nación y la Provincia de [Provincia] y a suscribir los convenios necesarios para recibir los pagos por resultado del Fondo Nacional de Caminos Rurales por Resultados. Los fondos que el Municipio, la Comisión Vial o los consorcios reciban por ese concepto se aplicarán al plan de mantenimiento y se publicarán conforme al artículo 7°."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Aportes provinciales y de los productores",
+     "texto": "Los fondos que la Provincia transfiera al Municipio con destino vial y los aportes de los productores en dinero, trabajo o maquinaria se integrarán al plan de mantenimiento y se registrarán y publicarán con el mismo detalle que la tasa vial."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Reglamentación",
+     "texto": "El Departamento Ejecutivo reglamentará la presente Ordenanza dentro de los SESENTA (60) días de su promulgación y convocará a la constitución de la Comisión Vial dentro del mismo plazo."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente Ordenanza entrará en vigencia el día siguiente al de su publicación, y la afectación del artículo 2° se aplicará a la recaudación del ejercicio en curso desde esa fecha."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese al Departamento Ejecutivo, publíquese, regístrese y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ordenanza fiscal y tarifaria de [Municipio]: destino de la tasa vial (sin cambiar hecho imponible ni alícuotas)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

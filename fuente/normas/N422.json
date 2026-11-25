@@ -1,0 +1,90 @@
+{
+ "id": "N422",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de empresas del Estado: sin nuevas privatizaciones, gestión por resultados y empresas estratégicas estatales",
+ "sumilla": "Deja sin efecto las autorizaciones de privatización pendientes de la Ley 27.742; las empresas que dan ganancia no se privatizan y las que pierden firman un contrato-programa de eficiencia con metas hasta dar resultado positivo; declara estratégicas, con propiedad estatal total, a ARSAT, Nucleoeléctrica Argentina, Dioxitek y las empresas de la defensa, y ordena recuperar, cualquiera sea su costo, las participaciones que se hayan vendido.",
+ "cuando": "Semana 1 (envío); contratos-programa en el año 1",
+ "cuando_breve": "Semana 1",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "El país necesita reglas estables sobre sus empresas públicas, y no vaivenes de privatización y estatización en cada gobierno. El presente proyecto fija tres reglas. Primero, durante el mandato no se privatiza ninguna empresa más: se dejan sin efecto las declaraciones de privatización pendientes de la Ley N° 27.742, sin afectar las operaciones concluidas. Segundo, las empresas que dan ganancia siguen en manos del Estado, y las que pierden dinero firman un contrato-programa con metas de eficiencia, de calidad de servicio y de resultado, auditadas y públicas, hasta tener resultado operativo positivo. Tercero, las empresas de seguridad o de interés estratégico nacional —las comunicaciones satelitales, la energía nuclear y su combustible y la industria de la defensa— quedan con propiedad estatal total: si alguna fue privatizada total o parcialmente, el Estado recompra las acciones cualquiera sea su costo, y si no hay acuerdo con los compradores, las expropia.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Sin nuevas privatizaciones",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autorizaciones pendientes",
+     "texto": "Déjanse sin efecto las declaraciones de «sujeta a privatización» de los artículos 7° y 8° de la Ley N° 27.742 respecto de las empresas y participaciones cuya transferencia no se haya perfeccionado a la fecha de vigencia de la presente ley. Las operaciones perfeccionadas antes de esa fecha no se ven afectadas."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Nuevas privatizaciones",
+     "texto": "Durante los cuatro (4) años siguientes a la vigencia de la presente ley no podrá transferirse al sector privado el control ni la mayoría del capital de ninguna empresa o sociedad del Estado nacional, salvo por ley especial."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Gestión por resultados",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Contrato-programa",
+     "texto": "Toda empresa o sociedad del Estado nacional con resultado operativo negativo en el último ejercicio firmará con el Ministerio de Economía, dentro de los ciento ochenta (180) días, un contrato-programa de hasta cuatro (4) años con metas anuales de eficiencia, de calidad y cobertura de servicio, de dotación y de resultado, hasta alcanzar el resultado operativo positivo. Las transferencias del Tesoro nacional que reciba se ajustarán a la senda del contrato."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Directorios y auditoría",
+     "texto": "Los directores de las empresas del Estado nacional serán seleccionados por antecedentes técnicos, con concurso público para los directores ejecutivos, y sus estados contables serán auditados cada año por la Autoridad Nacional de Control y Transparencia o por auditores externos independientes."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Información pública",
+     "texto": "Cada empresa publicará cada trimestre sus estados contables, su dotación, las transferencias recibidas del Tesoro y el cumplimiento de su contrato-programa."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Empresas estratégicas",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Declaración",
+     "texto": "Decláranse empresas estratégicas de propiedad estatal total a la Empresa Argentina de Soluciones Satelitales S.A. (ARSAT), a Nucleoeléctrica Argentina S.A., a Dioxitek S.A. y a las empresas de la producción para la defensa del Estado nacional. El Poder Ejecutivo nacional podrá proponer por ley la incorporación de otras de igual nivel de interés nacional."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Recompra",
+     "texto": "Si a la fecha de vigencia de la presente ley se hubiera transferido al sector privado una parte del capital de alguna empresa estratégica, el Estado nacional recomprará esas acciones dentro del mandato, cualquiera sea su precio, con prioridad sobre cualquier otro gasto no obligatorio de la ley de presupuesto. Si dentro de los doce (12) meses no se alcanzara un acuerdo con sus titulares, decláranse de utilidad pública y sujetas a expropiación esas acciones, conforme a la Ley N° 21.499."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Gobierno",
+     "texto": "Las empresas estratégicas se rigen por las reglas de gestión del Capítulo II y no podrán ser privatizadas sino por ley sancionada con las dos terceras partes de los miembros de cada Cámara."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.742, arts. 7 y 8 (deja sin efecto las declaraciones de privatización pendientes)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

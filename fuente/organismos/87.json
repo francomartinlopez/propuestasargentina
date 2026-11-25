@@ -1,0 +1,205 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Grupo de Trabajo de Integración Energética",
+    "estado": "nuevo",
+    "rol": "Cancillerías y autoridades de energía: seguimiento del Tratado, facilitación de permisos y gestión con Bolivia; sin poder sobre ENERSUD.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Negocia (desde la Fase I), firma y canjea las notificaciones; integra el Grupo de Trabajo. Preside la Sección Argentina. Propone y negocia la Decisión. Transmite el pedido de perdón, propone la Comisión Binacional de Historiadores y acuerda la aplicación de la exención con el Paraguay y Bolivia. Promueve el guaraní como lengua de trabajo del Mercosur. Negocia y firma el Tratado y coordina el informe anual conjunto. Negocia y firma el Acuerdo y coordina la Comisión Regional del Sur. la Dirección Nacional del Antártico coordina su aplicación. Negocia y firma el Protocolo y coordina el Grupo de Seguimiento. Lleva el proyecto del Canal Magdalena a la Comisión Administradora del Río de la Plata.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Comisión binacional de coordinación",
+      "estado": "nuevo",
+      "rol": "Coordina sin facultades decisorias; aprueba y publica metas anuales y su cumplimiento.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Instituto Antártico Argentino",
+      "estado": "modificado",
+      "rol": "Integra el Comité Científico binacional.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Energía",
+    "estado": "existente",
+    "rol": "Negociación técnica; aplica a ENERSUD el régimen general de exportación de gas; integra el Grupo de Trabajo. Ordena el transporte de gas en ambos sentidos.",
+    "hoy": "Secretaría de Energía (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "Regulador del gas",
+      "estado": "modificado",
+      "rol": "Evalúa la prestación, propone la renovación, aprueba el procedimiento de contratos firmes e instrumenta la licencia.",
+      "hoy": "Ente Nacional Regulador del Gas y la Electricidad (ENRGE)",
+      "hijos": []
+     },
+     {
+      "nombre": "YPF S.A.",
+      "estado": "existente",
+      "rol": "Socia argentina: aporta el 50 % y designa la mitad del directorio, por decisión de sus propios órganos.",
+      "hoy": "YPF S.A. (Ley 26.741, art. 15; 51 % expropiado, compartido entre el Estado nacional y las provincias productoras)",
+      "hijos": [
+       {
+        "nombre": "Sociedad anónima privada de energía con capital argentino y brasileño por mitades",
+        "estado": "nuevo",
+        "rol": "Vende gas argentino al Brasil, desarrolla el gasoducto Uruguaiana–Triunfo, contrata GNL de San Matías y coopera en petroquímica y fertilizantes.",
+        "hoy": "",
+        "hijos": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría técnica binacional",
+    "estado": "nuevo",
+    "rol": "Un secretario por Sección; prepara el programa, mide metas y elabora el informe anual; sede alternada cada dos años.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Prepara el decreto de incorporación (art. 664 del Código Aduanero).",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Autoridad de aplicación de la Ley 24.076",
+      "estado": "modificado",
+      "rol": "Promueve los contratos de transporte firme de largo plazo.",
+      "hoy": "Secretaría de Energía (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Instituto Nacional de Estadística y Censos (INDEC)",
+      "estado": "modificado",
+      "rol": "Mide el uso del guaraní y de otras lenguas en toda la población.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Agencia Nacional de Puertos y Navegación",
+    "estado": "modificado",
+    "rol": "Aplica la exención, compensa al concesionario y publica el informe anual. Facilita la salida fluvial y portuaria boliviana. Autoridad de aplicación: exige las metas de profundidad, publica costos, tarifas y datos abiertos y acuerda las adendas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Archivo General de la Nación",
+    "estado": "modificado",
+    "rol": "Coordina la apertura y digitalización de los archivos de la guerra.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Binacional de Historiadores",
+    "estado": "nuevo",
+    "rol": "Investiga y publica informes independientes sobre la guerra.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Educación",
+    "estado": "modificado",
+    "rol": "Aprueba los contenidos comunes para la enseñanza del guaraní.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Educación, Ciencia y Cultura",
+    "estado": "modificado",
+    "rol": "Propone contenidos, forma docentes y produce materiales.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Cultura y Deportes",
+      "estado": "modificado",
+      "rol": "Administra el Fondo de Restauración de los Sitios Históricos.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Universidades y Ciencia",
+      "estado": "modificado",
+      "rol": "Registra el reconocimiento automático de títulos uruguayos.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Transporte",
+    "estado": "modificado",
+    "rol": "Ejecuta las obras Concordia–Salto Grande y promueve el servicio de pasajeros. Rehabilita los ramales a Pocitos y estudia La Quiaca–Villazón.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Administradora del Río Uruguay (CARU) y Comisión Administradora del Río de la Plata (CARP)",
+    "estado": "modificado",
+    "rol": "Tramitan la consulta previa y el estudio ambiental conjunto de las obras en los ríos compartidos.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Regional del Sur",
+    "estado": "nuevo",
+    "rol": "Integra a los estados y provincias fronterizos y fija los umbrales de aviso de las represas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional del Agua",
+    "estado": "modificado",
+    "rol": "Integra la red de alerta de la cuenca del lado argentino. Publica la serie histórica de niveles y monitorea sedimentos y tomas de agua.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia Federal de Emergencias",
+    "estado": "modificado",
+    "rol": "Coordina las brigadas que cruzan la frontera.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Defensa",
+    "estado": "modificado",
+    "rol": "Aporta la logística y la Patrulla Antártica Naval Combinada.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Órganos del MERCOSUR",
+   "rol": "Adopta la Decisión por consenso y elabora el cronograma de revisión del AEC."
+  },
+  {
+   "nombre": "Consejo Federal Hidrovía",
+   "rol": "Dictamen previo sobre cambios de contrato, tarifas y metas; pedido de información y auditorías."
+  },
+  {
+   "nombre": "Auditoría General de la Nación",
+   "rol": "Audita cada año la concesión."
+  }
+ ]
+}

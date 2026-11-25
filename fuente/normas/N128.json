@@ -1,0 +1,105 @@
+{
+ "id": "N128",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de Seguridad de Suministro de Insumos Críticos y Stocks Estratégicos",
+ "sumilla": "Designa la autoridad de aplicación y la unidad técnica, reglamenta el mapa de dependencias y el acceso a la información, y fija el procedimiento y los criterios con que se establece, para cada insumo de riesgo alto, el stock mínimo en días de consumo, quién lo guarda y cómo se paga.",
+ "cuando": "Fase I · año 1 (dentro de los 90 días de promulgada la ley «Ley de seguridad de suministro de insumos críticos, mapa público de dependencias y stocks estratégicos»)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "No aplica: decreto reglamentario (art. 99, inc. 2, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° […] de Seguridad de Suministro de Insumos Críticos, la Ley N° 11.683 y sus modificatorias, la Ley de Ministerios N° 22.520 (t.o. Decreto N° 438/92) y sus modificatorias, el Decreto N° […] de creación de la Unidad de Seguridad de Suministro, y",
+ "considerando": [
+  "Que la Ley N° […] tiene por objeto conocer y reducir el riesgo de interrupción del suministro de los insumos críticos de los que depende el país, mediante un mapa público de dependencias, respuestas proporcionales al riesgo y un régimen de stocks estratégicos.",
+  "Que su artículo 3° encomienda al Poder Ejecutivo nacional designar la autoridad de aplicación en el ámbito del Ministerio de Economía, que contará con una unidad técnica de seguridad de suministro.",
+  "Que su artículo 13 dispone que el Poder Ejecutivo nacional fije, para cada insumo de riesgo alto cuya respuesta sea un stock estratégico, el stock mínimo en días de consumo, el sujeto que lo guarda, la forma de pago y las condiciones de uso, con fundamento público.",
+  "Que corresponde establecer la metodología de clasificación del riesgo, el procedimiento para fijar cada stock y los criterios para asignar su custodia y su costo, de modo que cada decisión sea proporcional, previsible y verificable, sin controles de precios ni sanciones al comercio.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que el presente se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación y unidad técnica (art. 3°)",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° […] de Seguridad de Suministro de Insumos Críticos al MINISTERIO DE ECONOMÍA. La Unidad de Seguridad de Suministro creada por el Decreto N° […] ejercerá las funciones de unidad técnica de seguridad de suministro previstas en la ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Metodología de riesgo (arts. 2° y 4°)",
+     "texto": "La unidad técnica aprobará y publicará, dentro de los CIENTO OCHENTA (180) días, la metodología de clasificación del riesgo de suministro, que considerará como mínimo: la participación de los principales proveedores y países de origen en el abastecimiento; la existencia de restricciones a la exportación o de rutas expuestas a conflictos; la producción nacional y la posibilidad de reemplazo en el corto plazo; el stock disponible en días de consumo; y la gravedad de la falta del insumo para la salud, la producción de alimentos, la energía o la defensa. La metodología clasificará cada insumo en riesgo alto, medio o bajo."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Mapa de dependencias (arts. 5° a 8°)",
+     "texto": "El mapa de dependencias se publicará en el sitio oficial de la autoridad de aplicación antes del 30 de junio de cada año, en formato de datos abiertos, con la metodología aplicada. La versión reservada se mantendrá con registro de cada acceso y solo podrá consultarse por los organismos enumerados en el artículo 8° de la ley, mediante solicitud fundada."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Información de la Agencia de Recaudación y Control Aduanero (arts. 10 y 11)",
+     "texto": "El convenio previsto en el artículo 11 de la ley se celebrará entre la autoridad de aplicación y la Agencia de Recaudación y Control Aduanero (ARCA) dentro de los SESENTA (60) días de la entrada en vigencia del presente decreto. Fijará la periodicidad mensual de la entrega, los campos de información limitados a los del artículo 10 de la ley, los medios electrónicos de transmisión y el registro de los agentes de la unidad técnica autorizados a acceder."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Información de las empresas (art. 12)",
+     "texto": "Los requerimientos de información de la unidad técnica a importadores, productores y distribuidores de insumos de riesgo alto se formularán por escrito, con indicación de su finalidad, y otorgarán un plazo no menor de QUINCE (15) días hábiles para responder. La información se tratará con el deber de reserva previsto en la ley."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Procedimiento para fijar un stock estratégico (art. 13)",
+     "texto": "Para cada insumo de riesgo alto respecto del cual la unidad técnica proponga un stock estratégico, se seguirá el siguiente procedimiento:\na) la unidad técnica elaborará un informe con el riesgo identificado, las alternativas consideradas y la razón por la cual el stock es la respuesta proporcional, con preferencia por la diversificación de proveedores;\nb) el informe y la propuesta se someterán a consulta pública por TREINTA (30) días, con participación de los operadores del insumo;\nc) la autoridad de aplicación elevará la propuesta al Poder Ejecutivo nacional con la respuesta a las observaciones recibidas;\nd) el stock se fijará por decreto, que contendrá los elementos del artículo 13 de la ley y se publicará con el informe que lo fundamenta."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Stock mínimo en días",
+     "texto": "El stock mínimo se expresará en días del consumo nacional promedio del insumo en los DOCE (12) meses anteriores, y se fijará considerando el tiempo necesario para sustituir al proveedor de mayor riesgo y, para los insumos de uso estacional, el período de mayor demanda. Se revisará al menos cada dos años o ante una crisis internacional que modifique el riesgo."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Quién guarda el stock (arts. 14 y 15)",
+     "texto": "La custodia del stock se asignará: a) a los importadores y productores, cuando existan operadores con capacidad de almacenamiento en el país y el stock pueda integrarse a su operación habitual; b) al Estado nacional, por compra directa, contratos de almacenamiento o compras conjuntas regionales, solo cuando no existan operadores en condiciones de mantenerlo o cuando el insumo se destine a un servicio público a cargo del Estado. Cuando se asigne a los operadores, la obligación se distribuirá en proporción a las ventas o consumos de cada uno en los doce meses anteriores, con el plazo de adecuación del artículo 14 de la ley."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cómo se paga (arts. 14 y 19)",
+     "texto": "El costo de los stocks a cargo de operadores será soportado por ellos, que podrán trasladarlo libremente a sus precios. El decreto que fije un stock podrá prever un reconocimiento parcial de su costo financiero solo cuando el stock exceda el que el operador mantiene en su operación habitual y exista partida presupuestaria asignada conforme al artículo 19 de la ley. Los stocks a cargo del Estado nacional se financiarán con las partidas específicas que asigne la ley de presupuesto a partir del ejercicio siguiente al de la entrada en vigencia de la ley."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Uso y reposición del stock",
+     "texto": "El stock podrá utilizarse cuando la unidad técnica constate una interrupción o una reducción grave del suministro del insumo y la autoridad de aplicación lo autorice por resolución fundada y publicada. La resolución fijará el volumen liberado y el plazo de reposición, que no será inferior a NOVENTA (90) días. El uso del stock no habilita la fijación de precios ni la requisa."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Incumplimiento (art. 18)",
+     "texto": "La intimación prevista en el artículo 18 de la ley otorgará un plazo no menor de TREINTA (30) días para regularizar el stock o acreditar el proveedor alternativo exigido conforme al artículo 17 de la ley. La nómina de incumplidores se publicará en el sitio oficial de la autoridad de aplicación y se actualizará cada trimestre."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Informe al Congreso (art. 9°)",
+     "texto": "El informe anual al Congreso de la Nación se remitirá junto con la publicación del mapa e incluirá el estado de cada stock estratégico fijado, su custodio y su grado de cumplimiento."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase al MINISTERIO DE ECONOMÍA a dictar las normas complementarias y aclaratorias del presente decreto."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 15,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

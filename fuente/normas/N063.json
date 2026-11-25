@@ -1,0 +1,141 @@
+{
+ "id": "N063",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Desarrollo de Proveedores y de preferencia pyme en las compras del Estado nacional",
+ "sumilla": "Repone por ley el programa de desarrollo de proveedores que hacía la Ley 27.437 (calificación, normas, capital de trabajo y certificación del INTI), suma una preferencia fija, temporal (4 años) y publicada para pymes en las compras del Estado y ordena los artículos 22 y 23 de la Ley 27.437, que siguen vigentes.",
+ "cuando": "Fase I (junto con la reforma del RIGI o después de ella)",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; cámara de origen indistinta (no crea tributos ni bonifica tasas).",
+ "motivos": "El Decreto de Necesidad y Urgencia N° 70/2023 derogó, por su artículo 10, los artículos 1 a 21 y 24 a 30 de la Ley N° 27.437 de Compre Argentino y Desarrollo de Proveedores. Quedaron vigentes solo los artículos 22 y 23, que remiten a penas del Código Penal y cuyo alcance resulta dudoso sin las normas a las que se referían. Con ella desapareció el programa que ayudaba a las empresas locales a calificarse, normalizarse, financiarse y certificarse. La reforma del Régimen de Incentivo para Grandes Inversiones introduce una curva decreciente de contenido nacional medida sobre los rubros con oferta local registrada. Para que esa exigencia se traduzca en compras efectivas y no en excepciones, hace falta una oferta local con la calidad y la escala que los proyectos requieren. Este proyecto repone el programa de desarrollo de proveedores en los rubros de mayor demanda —metalmecánica, química, ingeniería, servicios ambientales, logística y mantenimiento—, con certificación técnica del Instituto Nacional de Tecnología Industrial y financiamiento de la banca pública con sus propios recursos. Se agrega una preferencia para las micro, pequeñas y medianas empresas en las compras del Estado nacional, con un margen fijo que no puede alterarse por reglamentación, vigencia de cuatro años y publicación de cada adjudicación y de su costo, de modo que el beneficio sea acotado, temporal y verificable. Por último, se da nuevo texto a los artículos 22 y 23 de la Ley N° 27.437 para que sus penas se refieran a reglas vigentes.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece el Programa Nacional de Desarrollo de Proveedores, destinado a que las empresas radicadas en el país, en especial las micro, pequeñas y medianas, alcancen la calidad, la escala y el financiamiento necesarios para abastecer a las grandes inversiones y a la demanda pública y privada; fija una preferencia acotada y temporal para las micro, pequeñas y medianas empresas en las compras del Estado nacional; y ordena los artículos 22 y 23 de la Ley N° 27.437."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación de la presente ley la Secretaría de Producción y Comercio del Ministerio de Economía."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Programa Nacional de Desarrollo de Proveedores",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Rubros",
+     "texto": "El Programa comprende a los proveedores de bienes y servicios de los rubros metalmecánica, química, ingeniería, servicios ambientales, logística y mantenimiento, y de los servicios basados en el conocimiento vinculados a ellos. La autoridad de aplicación podrá incorporar otros rubros con demanda de las grandes inversiones, por resolución fundada y publicada."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Componentes",
+     "texto": "El Programa tendrá los siguientes componentes: a) calificación técnica: diagnóstico y planes de mejora de la capacidad productiva, de gestión y de calidad de los proveedores; b) normas: elaboración y difusión de normas técnicas y de calidad por rubro, en coordinación con los organismos nacionales de normalización; c) capital de trabajo e inversión: acceso a financiamiento y garantías para los proveedores que se califiquen; d) certificación: certificación técnica de la capacidad de los proveedores a cargo del Instituto Nacional de Tecnología Industrial (INTI), conforme a la función que le asigna el artículo 176 quinquies de la Ley N° 27.742."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Vinculación con el registro de oferta local",
+     "texto": "Los proveedores calificados y certificados en el marco del Programa se inscribirán en el registro público de oferta local previsto en el artículo 176 quinquies de la Ley N° 27.742, que será la base de la medición del contenido nacional de las grandes inversiones. La autoridad de aplicación priorizará los rubros en los que la curva de contenido nacional del artículo 176 quater de esa ley no pueda cumplirse por falta de oferta local registrada."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Financiamiento y garantías para proveedores",
+     "texto": "El Banco de Inversión y Comercio Exterior (BICE) ofrecerá a los proveedores calificados líneas de capital de trabajo e inversión con sus propios recursos y conforme a sus políticas de riesgo. Los créditos podrán contar con garantías de las sociedades de garantía recíproca de la Ley N° 24.467 y del Fondo de Garantías Argentino de la Ley N° 25.300. La presente ley no autoriza bonificación de tasas ni aportes del Tesoro nacional."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Acuerdos con grandes inversores y cámaras",
+     "texto": "La autoridad de aplicación podrá celebrar acuerdos con los vehículos de proyecto único del RIGI, con empresas demandantes y con cámaras de proveedores para identificar demandas futuras por rubro, compartir especificaciones técnicas y programar la calificación de proveedores. Los acuerdos se publicarán."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Metas e informe",
+     "texto": "La autoridad de aplicación fijará y publicará metas anuales de proveedores calificados, certificados e inscriptos por rubro, y publicará cada año un informe con su cumplimiento, el financiamiento otorgado y la evolución del contenido nacional de las grandes inversiones."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Preferencia para micro, pequeñas y medianas empresas en las compras del Estado nacional",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Preferencia",
+     "texto": "En los procedimientos de selección del Régimen de Contrataciones de la Administración Nacional, se preferirá la oferta de bienes de origen nacional, o de servicios prestados desde el país, presentada por una micro, pequeña o mediana empresa en los términos de la Ley N° 25.300 y sus normas complementarias, cuando su precio no supere en más del OCHO POR CIENTO (8 %) al de la mejor oferta de bienes o servicios que no reúnan esas condiciones, en igualdad de condiciones técnicas. El margen es fijo y no podrá ser modificado por la reglamentación. El origen nacional se determinará con los criterios vigentes y con el registro público de oferta local."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Ámbito",
+     "texto": "La preferencia se aplica a las jurisdicciones y entidades de la Administración Nacional comprendidas en la Ley N° 24.156. Invítase a los demás sujetos del sector público nacional, a las provincias, a la Ciudad Autónoma de Buenos Aires y a los municipios a adoptar un régimen equivalente."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Plazo",
+     "texto": "La preferencia regirá durante CUATRO (4) años contados desde la entrada en vigencia de la presente ley y caducará de pleno derecho a su vencimiento. Solo podrá prorrogarse por ley."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Publicación de cada adjudicación",
+     "texto": "Toda adjudicación en la que se aplique la preferencia se publicará el mismo día en el sistema público de contrataciones abiertas, con la identificación del adjudicatario, el precio adjudicado, el precio de la mejor oferta desplazada y la diferencia resultante. La autoridad de aplicación publicará cada año el costo total de la preferencia para el Estado nacional y la cantidad de empresas beneficiadas."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Declaración jurada",
+     "texto": "El oferente que invoque la preferencia acreditará, con declaración jurada, su condición de micro, pequeña o mediana empresa y el origen nacional del bien o del servicio ofrecido. La falsedad de la declaración importa la pérdida de la adjudicación y la aplicación de las sanciones del régimen de contrataciones, sin perjuicio del artículo 23 de la Ley N° 27.437."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Modificaciones a la Ley N° 27.437",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Incumplimiento por funcionarios",
+     "texto": "Sustitúyese el artículo 22 de la Ley N° 27.437 por el siguiente:\n«Artículo 22.- Se considerarán incursos en el artículo 249 del Código Penal, si no concurriere otro delito reprimido con una pena mayor, los funcionarios públicos que omitieren o hicieren omitir, rehusaren cumplir o no cumplieren debidamente la preferencia en las contrataciones del Estado nacional prevista en la Ley N° […] de Desarrollo de Proveedores, sin perjuicio de la responsabilidad administrativa que corresponda.»"
+    },
+    {
+     "n": 15,
+     "epigrafe": "Obtención fraudulenta de beneficios",
+     "texto": "Sustitúyese el artículo 23 de la Ley N° 27.437 por el siguiente:\n«Artículo 23.- El que por informes falsos o reticentes, declaraciones incorrectas, documentación fraguada o cualquier otra forma de engaño obtuviere indebidamente, o hiciere obtener a otro, la preferencia en las contrataciones del Estado nacional o los beneficios del Programa Nacional de Desarrollo de Proveedores previstos en la Ley N° […], incurrirá en la sanción establecida en el artículo 172 del Código Penal.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Financiamiento",
+     "texto": "Las erogaciones que demande el Programa se atenderán con los créditos asignados a la autoridad de aplicación y al INTI en la ley de presupuesto, mediante la reasignación de partidas que disponga el Jefe de Gabinete de Ministros, sin incremento del gasto total. El financiamiento a proveedores del artículo 6° se otorga con los recursos propios de las entidades que lo concedan. La presente ley no crea fondos."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su publicación."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial. La preferencia del Capítulo III se aplicará a los procedimientos de selección que se convoquen a partir de los TREINTA (30) días de esa fecha."
+    },
+    {
+     "n": 19,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.437, art. 22",
+  "Ley 27.437, art. 23"
+ ],
+ "deroga": [],
+ "variantes": null
+}

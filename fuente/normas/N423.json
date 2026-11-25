@@ -1,0 +1,68 @@
+{
+ "id": "N423",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de devolución inmediata en fraudes bancarios y digitales",
+ "sumilla": "Obliga a bancos y billeteras virtuales a devolver en 48 horas hábiles el dinero de las operaciones que el usuario desconoce por fraude, salvo que prueben su culpa grave o su participación; la entidad investiga después y repite contra quien corresponda. Fija límites de monto para operaciones nuevas, demoras de seguridad y responsabilidad de la entidad que recibe el dinero en una cuenta usada para estafar.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "Las estafas virtuales crecieron con los pagos digitales, y hoy la carga de la prueba y la espera las sufre la víctima. El Banco Central avanzó en la prevención —la Central de Prevención de Fraude creada por la Comunicación «A» 8298 de 2025 y el marco de gestión del riesgo de fraude de la Comunicación «A» 8471 de 2026—, pero no hay una regla legal de devolución. El presente proyecto la establece: ante una operación desconocida por fraude, la entidad devuelve el dinero en 48 horas hábiles y después investiga; solo puede negarse si prueba la culpa grave o la participación del usuario. Comparten la responsabilidad la entidad que envía y la que recibe el dinero en una cuenta usada para estafar, para que ambas tengan incentivos a prevenir.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto y alcance",
+     "texto": "La presente ley protege a las personas usuarias de servicios financieros y de pago frente a las operaciones realizadas sin su autorización o mediante engaño, y se aplica a las entidades financieras y a los proveedores de servicios de pago que ofrecen cuentas de pago."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Devolución inmediata",
+     "texto": "Cuando una persona desconozca una operación realizada desde su cuenta por haber sido víctima de un fraude, la entidad acreditará el importe dentro de las cuarenta y ocho (48) horas hábiles de recibido el reclamo, sin perjuicio de la investigación posterior. Solo podrá negarse si prueba, en forma fundada, que la persona actuó con dolo o con culpa grave; la mera entrega de datos o claves inducida por engaño no constituye por sí sola culpa grave."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Responsabilidad compartida",
+     "texto": "La entidad en la que se haya acreditado el dinero producto del fraude responderá en partes iguales con la entidad de origen por el importe devuelto, cuando no haya aplicado las medidas de conocimiento del cliente y de monitoreo exigidas por el Banco Central de la República Argentina."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Prevención",
+     "texto": "El Banco Central de la República Argentina establecerá límites de monto para las primeras operaciones hacia destinatarios nuevos, demoras de seguridad configurables por el usuario, la confirmación reforzada de las operaciones inusuales y el bloqueo inmediato de la cuenta por un canal disponible las veinticuatro (24) horas."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Investigación y repetición",
+     "texto": "Devuelto el importe, la entidad investigará el hecho, denunciará penalmente y podrá repetir contra los autores y contra los titulares de las cuentas utilizadas para recibir el dinero."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Información pública",
+     "texto": "El Banco Central publicará cada trimestre, por entidad, los reclamos por fraude, el monto devuelto, el tiempo de devolución y los casos rechazados."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Sanciones",
+     "texto": "El incumplimiento de la presente ley constituye infracción a la Ley N° 24.240 de Defensa del Consumidor y a la Ley N° 21.526 de Entidades Financieras, sin perjuicio de la devolución debida."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional y el Banco Central de la República Argentina reglamentarán la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

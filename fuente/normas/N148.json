@@ -1,0 +1,118 @@
+{
+ "id": "N148",
+ "tipo": "resolucion",
+ "titulo": "Resolución del Ente Nacional de Comunicaciones: fideicomiso, reglamento y primeras licitaciones del Servicio Universal",
+ "sumilla": "Reconstituye el fideicomiso del Servicio Universal según la ley «Ley de restitución del Fondo Fiduciario del Servicio Universal y de adjudicación de sus programas por licitación pública», aprueba un reglamento con licitación obligatoria, metas verificables y datos abiertos, convoca los primeros programas (escuelas y centros de salud, última milla y puntos de conexión pública) y ordena el mapa público de cobertura.",
+ "cuando": "Fase I (dentro de los 90 días de la entrada en vigencia de la ley «Ley de restitución del Fondo Fiduciario del Servicio Universal y de adjudicación de sus programas por licitación pública»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No pasa por el Congreso: resolución de la Autoridad de Aplicación de la Ley 27.078 (ENACOM), en ejercicio de los arts. 20, 24 y 25 de esa ley y de la ley «Ley de restitución del Fondo Fiduciario del Servicio Universal y de adjudicación de sus programas por licitación pública».",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° 27.078 de Argentina Digital y sus modificatorias, la Ley N° […] de restitución del Fondo Fiduciario del Servicio Universal, el Decreto N° 6/2025 y la Resolución ENACOM N° 1182/2025, y",
+ "considerando": [
+  "Que los artículos 20 y 24 de la Ley N° 27.078 encomiendan a la Autoridad de Aplicación reglamentar el Servicio Universal y diseñar sus programas.",
+  "Que la Ley N° […] restableció el Fondo Fiduciario del Servicio Universal con destino exclusivo, mantuvo el aporte de inversión del artículo 22 de la Ley N° 27.078 y dispuso que los programas se adjudiquen por licitación pública, con metas verificables y publicación en datos abiertos.",
+  "Que esa ley encomendó a esta Autoridad celebrar el contrato de fideicomiso, adecuar el reglamento del Servicio Universal y convocar a las primeras licitaciones dentro de los noventa días de su entrada en vigencia.",
+  "Que el Reglamento General del Servicio Universal aprobado por la Resolución ENACOM N° 1182/2025 no prevé la licitación obligatoria de los programas, por lo que corresponde reemplazarlo.",
+  "Que, según datos de este Ente, el país alcanzó 85,4 accesos fijos a internet cada cien hogares en el segundo trimestre de 2026, con provincias muy por debajo de ese promedio, y que conectar a todas las escuelas y centros de salud es la primera prioridad fijada por la ley.",
+  "Que ha tomado intervención el servicio jurídico permanente de este Ente.",
+  "Que la presente se dicta en ejercicio de las facultades conferidas por los artículos 20, 24 y 25 de la Ley N° 27.078 y por la Ley N° […]."
+ ],
+ "formula": "Por ello,\nEL DIRECTORIO DEL ENTE NACIONAL DE COMUNICACIONES\nRESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Fideicomiso del Servicio Universal",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Contrato de fideicomiso",
+     "texto": "Celébrese, con la entidad financiera pública que designe el Poder Ejecutivo nacional, el contrato del fideicomiso que instrumenta el Fondo Fiduciario del Servicio Universal conforme al artículo 21 de la Ley N° 27.078, en el texto restablecido por la Ley N° […]. El contrato preverá, como mínimo: a) la cuenta de integración de los aportes del artículo 22 de la Ley N° 27.078; b) la obligación del fiduciario de pagar a los adjudicatarios solo contra el certificado de cumplimiento de metas que emita este Ente; c) las limitaciones a la inversión de los saldos que fija la ley; d) la rendición de cuentas trimestral del fiduciario y su publicación; y e) el control de la Autoridad Nacional de Control y Transparencia."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Transferencia de aportes y saldos",
+     "texto": "Los aportes de inversión percibidos se transferirán al fideicomiso dentro de los DIEZ (10) días hábiles. Las áreas de este Ente informarán, dentro de los TREINTA (30) días, los saldos de aportes sin aplicar a programas que deban transferirse al fideicomiso conforme a la ley, que se transferirán al constituirse."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Reglamento del Servicio Universal",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Programas",
+     "texto": "Los fondos del Servicio Universal se aplican exclusivamente por medio de programas aprobados por este Ente. Cada programa contendrá los elementos que exige la ley y, además, su fundamento en el mapa de cobertura del artículo 11 y el indicador con el que se medirá su resultado."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Licitación obligatoria",
+     "texto": "La ejecución de cada programa se adjudicará por licitación pública, nacional o internacional, convocada con una antelación no menor de TREINTA (30) días y publicada en el sitio de este Ente y en el sistema de compras públicas abiertas. No se admite la adjudicación ni la encomienda directa."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Oferentes",
+     "texto": "Podrán ofertar los licenciatarios de Servicios de TIC, en forma individual o asociada, incluidas las cooperativas, las pequeñas y medianas empresas, los proveedores locales y las empresas con participación estatal, en igualdad de condiciones. Las ofertas podrán basarse en capacidad mayorista de terceros, incluida la de la Red Federal de Fibra Óptica de la Empresa Argentina de Soluciones Satelitales S.A. (AR-SAT), a los precios que esta publique."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Adjudicación",
+     "texto": "Se adjudicará a la oferta que, cumpliendo las metas y requisitos técnicos del pliego, pida el menor financiamiento del Fondo. Las convocatorias podrán dividirse por lotes geográficos para facilitar la participación de proveedores locales."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Verificación de metas y pagos",
+     "texto": "El cumplimiento de cada hito se verificará con mediciones de este Ente y con el informe de un auditor técnico independiente seleccionado por concurso. Los pagos se efectuarán solo contra hitos verificados. El adjudicatario constituirá una garantía de cumplimiento, que se ejecutará en caso de incumplimiento, junto con la pérdida de los pagos pendientes."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Datos abiertos",
+     "texto": "Este Ente publicará en formato de datos abiertos, dentro de los CINCO (5) días hábiles de producida, toda la información que enumera la ley sobre el Fondo, sus programas, convocatorias, ofertas, adjudicaciones, contratos, pagos y verificaciones, y un tablero de avance de cada programa actualizado al menos cada mes."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Programas iniciales",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Escuelas y centros de salud conectados",
+     "texto": "Apruébase el Programa Escuelas y Centros de Salud Conectados, cuya meta es conectar, con la velocidad mínima que fije cada convocatoria, a la totalidad de las escuelas y de los centros de salud públicos del país al 10 de diciembre de 2030. El programa comprende la continuidad, una vez cumplido su tercer año, de la conexión satelital de escuelas rurales prevista en el acuerdo celebrado en 2026, de modo que no quede a cargo de las provincias ni de los municipios. Su primera convocatoria se publicará dentro de los CIENTO VEINTE (120) días de la presente."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Última milla y puntos de conexión pública",
+     "texto": "Apruébanse el Programa de Última Milla, para llevar acceso fijo a las localidades y zonas rurales sin cobertura o con menos accesos por hogar, con prioridad en las Provincias de Formosa, Chaco, Misiones y Corrientes, y el Programa de Puntos de Conexión Pública en localidades pequeñas. Sus primeras convocatorias se publicarán dentro de los CIENTO OCHENTA (180) días de la presente."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Mapa público de cobertura y disposiciones finales",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Mapa público de cobertura",
+     "texto": "Este Ente publicará, dentro de los CIENTO OCHENTA (180) días de la presente, un mapa público de cobertura y velocidad del servicio por localidad, con sus datos y los que aporte AR-SAT sobre su red, que se actualizará al menos cada trimestre y servirá de base para definir y evaluar los programas."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Derogación",
+     "texto": "Derógase la Resolución ENACOM N° 1182/2025. Los programas en ejecución a la fecha continuarán hasta el vencimiento de sus obligaciones vigentes, sin prórroga ni ampliación, y sus renovaciones se adjudicarán conforme a la presente."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 14,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [
+  "Resolución ENACOM 1182/2025 (Reglamento General del Servicio Universal)"
+ ],
+ "variantes": null
+}

@@ -1,0 +1,140 @@
+{
+ "id": "N188",
+ "tipo": "decreto",
+ "titulo": "Reglamentación de la Ley de Contrataciones Abiertas y de Publicación de los Pagos y las Cuentas del Estado Nacional",
+ "sumilla": "Reglamenta la ley «Ley de contrataciones abiertas y de publicación de los pagos y las cuentas del Estado nacional»: fija el estándar de datos de la plataforma única y del portal de pagos, el procedimiento y la publicidad de los parámetros de las alertas automáticas, la forma de publicar en forma agregada las únicas excepciones legales y la certificación de las interrupciones del sistema.",
+ "cuando": "Fase I (dentro de los 90 días de la promulgación de la ley «Ley de contrataciones abiertas y de publicación de los pagos y las cuentas del Estado nacional»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (decreto reglamentario, art. 99, inc. 2, de la Constitución Nacional)",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° [—] de Contrataciones Abiertas y de Publicación de los Pagos y las Cuentas del Estado Nacional, el Régimen de Contrataciones de la Administración Nacional aprobado por el Decreto N° 1023/01 y sus modificatorios, su Reglamento aprobado por el Decreto N° 1030/16 y sus modificatorios, la Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional N° 24.156 y sus modificatorias, la Ley de Derecho de Acceso a la Información Pública N° 27.275 y su modificatoria, los Decretos N° 206/17 y N° 780/24, y",
+ "considerando": [
+  "Que la Ley N° [—] de Contrataciones Abiertas y de Publicación de los Pagos y las Cuentas del Estado Nacional estableció que toda contratación, todo pago, todo ingreso y el saldo de toda cuenta del Estado nacional se publiquen de oficio, en internet, en formatos abiertos y en el día, y declaró nulos los actos de contratación que no se publiquen el mismo día de su firma.",
+  "Que el artículo 9° del Régimen de Contrataciones de la Administración Nacional, en el texto establecido por el artículo 3° de esa ley, ordena gestionar todas las contrataciones en una plataforma electrónica única, con un identificador por contratación, conforme al Estándar de Datos para las Contrataciones Abiertas, y emitir alertas públicas automáticas por sobreprecio, fraccionamiento y concentración de adjudicaciones.",
+  "Que los artículos 84 bis y 91 bis de la Ley N° 24.156, incorporados por los artículos 6° y 7° de la misma ley, obligan a la Tesorería General de la Nación y a la Contaduría General de la Nación a publicar cada pago, cada ingreso, el saldo de cada cuenta y la ejecución diaria del presupuesto.",
+  "Que la ley enumera en forma taxativa las excepciones a la publicación individual, dispone que se publiquen en forma agregada y prohíbe a la reglamentación ampliarlas, por lo que corresponde fijar solo la forma de esa publicación.",
+  "Que el Decreto N° [—]/2027, dictado en la primera semana de gestión, puso en marcha la plataforma única, el portal de pagos y las alertas, y que corresponde ahora reglamentar su régimen permanente.",
+  "Que el artículo 7° del Decreto N° 780/24 reglamentó el primer párrafo del artículo 32 de la Ley N° 27.275 y que sus incisos quedaron sin reglamentar, por lo que corresponde adecuar esa reglamentación al texto establecido por el artículo 8° de la ley que se reglamenta.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional y por el artículo 17 de la Ley N° [—] de Contrataciones Abiertas y de Publicación de los Pagos y las Cuentas del Estado Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Plataforma única y estándar de datos",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Plataforma única",
+     "texto": "La plataforma electrónica única prevista en el artículo 9° del Régimen de Contrataciones de la Administración Nacional, en el texto establecido por el artículo 3° de la Ley N° [—] de Contrataciones Abiertas y de Publicación de los Pagos y las Cuentas del Estado Nacional, será administrada por la Oficina Nacional de Contrataciones, órgano rector del sistema de contrataciones de la Administración Nacional, en el ámbito de la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros. Integrará los sistemas de gestión de contrataciones de bienes y servicios y de obra pública y concesiones, y será el único medio válido para la publicación de los actos a que se refieren los artículos 9°, 18 y 32 de ese Régimen."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Estándar de datos",
+     "texto": "La información de cada contratación se publicará conforme al Estándar de Datos para las Contrataciones Abiertas (Open Contracting Data Standard), en su versión vigente, con las siguientes reglas mínimas:\na) cada contratación tendrá un identificador único y permanente, que se asignará al registrar la necesidad y se mantendrá en todas sus etapas, modificaciones y pagos;\nb) cada acto se publicará como entrega de datos con la fecha y la hora de su firma o emisión y la de su publicación;\nc) se publicarán, además de los datos estructurados, los documentos completos en formato abierto y legible por máquina;\nd) los proveedores se identificarán por su Clave Única de Identificación Tributaria y, en el caso de las personas jurídicas, con la nómina de sus socios y accionistas principales conforme al inciso g) del artículo 32 de la Ley N° 27.275;\ne) los datos estarán disponibles en descargas masivas diarias y mediante interfaces de programación de acceso público, sin registro ni costo;\nf) se conservará el historial completo de versiones de cada contratación; ninguna corrección reemplazará el dato anterior, que seguirá visible con la fecha y el motivo de la corrección.\nLa Oficina Nacional de Contrataciones publicará, dentro de los treinta (30) días de la entrada en vigencia del presente, el esquema de datos y el diccionario de campos obligatorios, y los actualizará con aviso público previo de treinta (30) días."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Interrupciones del sistema",
+     "texto": "A los efectos del artículo 18 del Régimen de Contrataciones de la Administración Nacional, en el texto establecido por el artículo 4° de la ley que se reglamenta, la Oficina Nacional de Contrataciones certificará cada interrupción del funcionamiento de la plataforma mediante constancia publicada en ella, con indicación de su comienzo, su fin y su causa. Solo las interrupciones así certificadas extienden el plazo de publicación hasta el día hábil siguiente al de su restablecimiento. Las fallas de los sistemas propios de cada jurisdicción o entidad no extienden el plazo."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Contrataciones directas",
+     "texto": "El acto que encuadre una contratación directa en la causal de excepción invocada se publicará en la plataforma junto con la convocatoria o invitación, con su fundamentación y los antecedentes que la acreditan, en un campo específico que permita filtrar las contrataciones directas por causal, por jurisdicción y por proveedor."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Alertas automáticas",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Alertas obligatorias",
+     "texto": "La plataforma emitirá, al menos, las siguientes alertas públicas automáticas:\na) sobreprecio: cuando el precio adjudicado supere el precio de referencia del bien, servicio u obra en el porcentaje que fije la Oficina Nacional de Contrataciones;\nb) fraccionamiento: cuando una misma unidad operativa de contrataciones tramite, dentro del período que fije la Oficina Nacional de Contrataciones, varias contrataciones de bienes, servicios u obras de la misma naturaleza cuyos montos, sumados, superen el límite del procedimiento de selección que se habría debido utilizar;\nc) concentración y recurrencia: cuando un mismo proveedor reúna, en una jurisdicción o entidad y en un período determinado, una proporción de las adjudicaciones o de las contrataciones directas superior a la que fije la Oficina Nacional de Contrataciones.\nLa Oficina Nacional de Contrataciones podrá agregar otras alertas."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Parámetros y metodología",
+     "texto": "La Oficina Nacional de Contrataciones fijará por resolución, dentro de los sesenta (60) días de la entrada en vigencia del presente, los parámetros de cada alerta y la metodología de cálculo de los precios de referencia, y los publicará en la plataforma. La Sindicatura General de la Nación (SIGEN) aportará sus precios testigo y de referencia. Los parámetros se revisarán al menos una vez por año, con publicación de los fundamentos del cambio, y no podrán modificarse para una contratación en curso."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Efectos de las alertas",
+     "texto": "Cada alerta quedará visible para cualquier persona junto con la contratación a la que se refiere. La unidad operativa de contrataciones publicará, dentro de los cinco (5) días hábiles, una respuesta fundada. La alerta no suspende el procedimiento ni importa por sí sola presunción de irregularidad. Las alertas y sus respuestas se comunicarán en forma automática a la SIGEN y a la unidad de auditoría interna de la jurisdicción o entidad."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Pagos, ingresos y cuentas",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Portal de pagos",
+     "texto": "La publicación prevista en los artículos 84 bis y 91 bis de la Ley N° 24.156, incorporados por los artículos 6° y 7° de la ley que se reglamenta, se realizará en un portal público administrado por la Secretaría de Hacienda del Ministerio de Economía, alimentado en forma automática por el Sistema Integrado de Información Financiera (e-SIDIF). Cada pago vinculado a una contratación llevará el identificador único del artículo 2°, inciso a), del presente. La Secretaría de Hacienda publicará el esquema de datos del portal dentro de los treinta (30) días de la entrada en vigencia del presente."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cuentas bancarias",
+     "texto": "Las jurisdicciones y entidades informarán a la Tesorería General de la Nación cada cuenta bancaria de su titularidad, cualquiera sea la entidad financiera, dentro de los diez (10) días hábiles de su apertura. Las cuentas no informadas no podrán operar. El saldo diario se publicará con la denominación de la cuenta, su titular, la entidad financiera y la fuente de los fondos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Excepciones y transparencia activa",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Publicación agregada de las excepciones",
+     "texto": "La información exceptuada de la publicación individual por el artículo 32 del Régimen de Contrataciones de la Administración Nacional y por el artículo 84 bis de la Ley N° 24.156, en los textos establecidos por la ley que se reglamenta, se publicará en forma agregada por jurisdicción o entidad, por programa presupuestario y por mes, con indicación del monto total, de la cantidad de operaciones y de la ley que funda la excepción, y, en las contrataciones declaradas secretas, del número y la fecha del acto que declaró el secreto. Ninguna resolución, disposición ni instrucción podrá exceptuar otra información."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Reglamentación del artículo 32 de la Ley N° 27.275",
+     "texto": "Sustitúyese la reglamentación del artículo 32 de la Ley N° 27.275, aprobada por el Decreto N° 206/17 en el texto establecido por el artículo 7° del Decreto N° 780/24, por la siguiente:\n«ARTÍCULO 32.- Transparencia activa. La información prevista en los incisos e), f), g), h) y t) del artículo 32 de la Ley se publicará en los plazos que ella establece y conforme a los estándares de datos que fijen la Oficina Nacional de Contrataciones y la Secretaría de Hacienda. La información de los demás incisos se actualizará al menos una vez por mes. Ninguna disposición de esta reglamentación podrá invocarse para restringir la publicación de la información que la Ley define como pública.»"
+    },
+    {
+     "n": 12,
+     "epigrafe": "Informe de cumplimiento",
+     "texto": "El informe trimestral previsto en el artículo 11 de la ley que se reglamenta incluirá, por jurisdicción y entidad, además de los indicadores allí previstos: el porcentaje de actos publicados fuera de plazo; las interrupciones certificadas de la plataforma; las alertas emitidas y el porcentaje respondido en término; y el monto publicado en forma agregada por cada excepción legal. La Oficina Nacional de Contrataciones y la Secretaría de Hacienda proveerán a la Agencia de Acceso a la Información Pública acceso de lectura a los datos necesarios."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Contrataciones en curso",
+     "texto": "A los efectos del artículo 18 de la ley que se reglamenta, cada jurisdicción y entidad publicará, dentro de los noventa (90) días de su entrada en vigencia, la totalidad de las actuaciones de los procedimientos y contratos en curso, y la Oficina Nacional de Contrataciones publicará la nómina de los que no las hayan completado. Los servicios administrativo-financieros no liquidarán pagos de los contratos incluidos en esa nómina."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Normas complementarias",
+     "texto": "Las disposiciones del Reglamento aprobado por el Decreto N° 1030/16 y sus modificatorios se aplicarán en cuanto no se opongan a la ley que se reglamenta y al presente. Facúltase a la Oficina Nacional de Contrataciones y a la Secretaría de Hacienda a dictar, en sus respectivas materias, las normas aclaratorias y complementarias, las que no podrán ampliar las excepciones a la publicación."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande el presente se atenderán con los créditos asignados en el Presupuesto de la Administración Nacional a las jurisdicciones intervinientes, incluidos los destinados a modernización y sistemas de información."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el mismo día que la ley que reglamenta."
+    },
+    {
+     "n": 17,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 206/2017, reglamentación del art. 32 de la Ley 27.275 (texto Decreto 780/2024, art. 7) (sustituida)",
+  "Decreto 1030/2016 (se aplica en cuanto no se oponga)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

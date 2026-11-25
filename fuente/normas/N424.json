@@ -1,0 +1,73 @@
+{
+ "id": "N424",
+ "tipo": "ley_nacional",
+ "titulo": "Ley del Cuerpo Federal contra la Trata de Personas y el Fraude Digital",
+ "sumilla": "Crea en la Policía Federal Argentina un cuerpo especializado con dos divisiones, una contra la trata de personas y otra contra el fraude y los delitos digitales, con personal propio, formación específica y trabajo conjunto con la fiscalía especializada en trata, la Unidad de Información Financiera y las provincias; declara prioritaria su persecución.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "La trata de personas y las estafas digitales son delitos de organizaciones que mueven personas y dinero entre provincias y países, y que la persecución dispersa no alcanza. El presente proyecto declara prioritaria su persecución y crea un cuerpo federal especializado, con personal elegido y formado para esa tarea, que trabaja con la Procuraduría de Trata y Explotación de Personas, con la Unidad de Información Financiera para seguir el dinero y con las policías provinciales, y que asegura la asistencia a las víctimas conforme la Ley N° 26.364.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Prioridad",
+     "texto": "Declárase prioritaria en la política de seguridad nacional la persecución de la trata y explotación de personas, en los términos de la Ley N° 26.364 y sus modificatorias, y del fraude y los delitos cometidos por medios digitales."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Creación",
+     "texto": "Créase en la Policía Federal Argentina el Cuerpo Federal contra la Trata de Personas y el Fraude Digital, con dos divisiones: a) Trata y Explotación de Personas; y b) Fraude y Delitos Digitales."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Personal",
+     "texto": "El Cuerpo se integra con personal seleccionado por concurso interno y externo, con formación específica en investigación financiera, análisis de datos, informática forense y atención a víctimas, y permanece en la función al menos cinco (5) años."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Funciones",
+     "texto": "El Cuerpo investiga, bajo la dirección del Ministerio Público Fiscal, las organizaciones dedicadas a la trata y al fraude digital; sigue el dinero en coordinación con la Unidad de Información Financiera; solicita el congelamiento de cuentas y bienes; y coopera con las fuerzas provinciales y con organismos internacionales."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Víctimas",
+     "texto": "En los casos de trata, el Cuerpo actúa con el Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata, y garantiza a las víctimas asistencia, alojamiento y protección, conforme la Ley N° 26.364."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Denuncias",
+     "texto": "Las denuncias por trata recibidas por la Línea 145 y las denuncias por fraude digital se derivan al Cuerpo en el día, con un número único de seguimiento para la persona denunciante."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Acuerdos con provincias",
+     "texto": "El Ministerio de Justicia y Seguridad celebrará convenios con las provincias para que sus policías integren equipos conjuntos con el Cuerpo y compartan información."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Información pública",
+     "texto": "El Ministerio de Justicia y Seguridad publicará cada año las investigaciones iniciadas, las víctimas asistidas, los bienes decomisados y las condenas obtenidas."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Financiamiento",
+     "texto": "El Cuerpo se financia con la reasignación de créditos del Ministerio de Justicia y Seguridad y con los bienes decomisados en las causas de su competencia que la ley destine a ese fin."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

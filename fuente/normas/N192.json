@@ -1,0 +1,147 @@
+{
+ "id": "N192",
+ "tipo": "decreto",
+ "titulo": "Reglamentación de la Ley de Protección de los Datos Personales y contra la Vigilancia Masiva",
+ "sumilla": "Reglamenta la ley «Ley de Protección de los Datos Personales y contra la Vigilancia Masiva»: pone en marcha el registro de accesos a datos personales del sector público, consultable en Mi Argentina, con un cronograma que llega al 100 % a los 24 meses; fija el procedimiento para que el patrullaje de redes, la inteligencia artificial y el reconocimiento facial se usen solo con orden judicial y registro auditable; regla el concurso del director de la AAIP; y deroga la reglamentación de la Ley 25.326.",
+ "cuando": "Fase I (dentro de los 180 días de la promulgación de la ley «Ley de Protección de los Datos Personales y contra la Vigilancia Masiva»; rige con su entrada en vigencia)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (decreto reglamentario, art. 99, inc. 2, de la Constitución Nacional)",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° [—] de Protección de los Datos Personales y contra la Vigilancia Masiva, la Ley de Derecho de Acceso a la Información Pública N° 27.275 y su modificatoria, la Ley N° 27.699, los Decretos N° 1558/01 y sus modificatorios, N° 746/17 y N° 302/25, las Resoluciones N° 428/2024 y N° 710/2024 del Ministerio de Seguridad y sus modificatorias, y",
+ "considerando": [
+  "Que la Ley N° [—] de Protección de los Datos Personales y contra la Vigilancia Masiva reemplazó la Ley N° 25.326 con el estándar del Convenio para la Protección de las Personas con respecto al Tratamiento de Datos Personales, en su texto modificado por el Protocolo aprobado por la Ley N° 27.699.",
+  "Que el artículo 11 de esa ley dispone que todo acceso, consulta, cruce o cesión de datos personales en bases del sector público nacional quede registrado en forma inalterable y sea consultable por su titular, y que el registro alcance al cien por ciento de los accesos dentro de los veinticuatro meses de su entrada en vigencia, conforme al cronograma que fije la reglamentación.",
+  "Que los artículos 15, 16 y 17 de la ley prohíben la vigilancia masiva y limitan el patrullaje de redes, el uso de inteligencia artificial con fines de seguridad y el reconocimiento facial en la vía pública a investigaciones con orden judicial o a la búsqueda de personas con orden de captura o de paradero, con registro auditable.",
+  "Que el artículo 21 de la Ley N° 27.275, en el texto establecido por la ley que se reglamenta, dispone la selección del director de la Agencia de Acceso a la Información Pública por concurso público, y que corresponde reglar la integración del jurado y el procedimiento.",
+  "Que el artículo 29 de la ley dispone que el Decreto N° 1558/01 y sus modificatorios queden derogados desde la entrada en vigencia de su reglamentación.",
+  "Que el Decreto N° 302/25 asignó a una dependencia de la Administración Pública Nacional centralizada funciones de intervención en el cumplimiento de la Ley N° 27.275, que deben adecuarse a la independencia que la ley reconoce a la Agencia.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional y por el artículo 31 de la Ley N° [—] de Protección de los Datos Personales y contra la Vigilancia Masiva."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Bases de datos del sector público",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Inventario y finalidad declarada",
+     "texto": "Dentro de los noventa (90) días de la entrada en vigencia de la Ley N° [—] de Protección de los Datos Personales y contra la Vigilancia Masiva, cada jurisdicción, entidad y organismo del sector público nacional remitirá a la Agencia de Acceso a la Información Pública el inventario de las bases de datos personales a su cargo, con la finalidad declarada en la norma que las crea, los datos que contienen, el organismo responsable, el plazo de conservación y las habilitaciones legales de cruce o cesión vigentes, a los efectos de los artículos 9° y 10 de la ley. La Agencia publicará el inventario consolidado. La base que no tenga finalidad declarada en una norma no podrá ser consultada sino por su responsable hasta que esa norma se dicte."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Habilitaciones de cruce",
+     "texto": "Cada habilitación legal de interconexión, cruce o cesión prevista en el artículo 10 de la ley se publicará en la página oficial del organismo responsable con la norma que la autoriza, la finalidad, los datos alcanzados y los organismos intervinientes. Los convenios de intercambio de datos vigentes que no se ajusten a una habilitación legal expresa quedarán suspendidos a los noventa (90) días de la entrada en vigencia de la ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Registro de accesos",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Contenido del registro",
+     "texto": "El registro previsto en el artículo 11 de la ley consignará, para cada acceso, consulta, cruce o cesión: el organismo y el agente que lo realizó, identificado por su cuenta personal de acceso; la fecha y la hora; la base y los datos consultados; la finalidad invocada; y la norma, el expediente o la orden judicial que lo habilita. Los sistemas no permitirán accesos con cuentas genéricas o compartidas. Las entradas del registro serán inalterables, contarán con sello de tiempo y se conservarán por diez (10) años."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cronograma",
+     "texto": "El registro alcanzará:\na) dentro de los doce (12) meses de la entrada en vigencia de la ley, a las bases de identificación y datos biométricos de las personas, de la seguridad social, tributarias, de salud, de antecedentes penales y de movimientos migratorios, y a todas las bases a las que accedan las fuerzas policiales y de seguridad federales y los organismos de inteligencia;\nb) dentro de los veinticuatro (24) meses, al cien por ciento (100 %) de los accesos a bases de datos personales del sector público nacional.\nLa Agencia de Acceso a la Información Pública publicará cada trimestre el grado de avance por organismo."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Consulta por el titular",
+     "texto": "La Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros habilitará en la aplicación oficial de servicios digitales del Estado nacional (Mi Argentina), o en la que la reemplace, la consulta gratuita del registro por cada titular, que mostrará el organismo, la fecha, los datos consultados y la finalidad de cada acceso, y proveerá a los organismos un servicio común de registro que podrán utilizar para cumplir el cronograma. Quien no utilice la aplicación podrá solicitar la consulta ante la Agencia o ante cualquier oficina de atención al público del Estado nacional."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Accesos en causas penales",
+     "texto": "Los accesos ordenados en una causa penal se registrarán con indicación de la orden judicial. Su visualización por el titular se diferirá solo mientras el juez mantenga el secreto de las actuaciones; el organismo que accedió deberá consultar al juzgado cada seis (6) meses si el secreto subsiste y habilitará la visualización dentro de los cinco (5) días hábiles de levantado."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Límites a la vigilancia estatal",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Patrullaje de redes e inteligencia artificial",
+     "texto": "Toda búsqueda, monitoreo o análisis de información de personas en redes sociales y fuentes abiertas, y todo uso de sistemas de inteligencia artificial con fines de prevención o investigación de delitos, por parte de las fuerzas policiales y de seguridad federales o de cualquier organismo del Estado nacional, requerirá una orden judicial previa referida a una investigación concreta. El registro auditable del artículo 16 de la ley consignará la orden, el juzgado, las personas o cuentas alcanzadas, las fuentes consultadas, las herramientas utilizadas, el agente interviniente y el resultado. Queda prohibido el uso de esas herramientas para elaborar perfiles en los términos del artículo 14, inciso a), de la ley."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Adecuación de los protocolos de seguridad",
+     "texto": "El Ministerio de Justicia y Seguridad sustituirá, dentro de los treinta (30) días de la entrada en vigencia de la ley, las Resoluciones N° 428/2024 y sus modificatorias y N° 710/2024 por protocolos ajustados a la ley y al presente decreto, previa consulta a la Agencia de Acceso a la Información Pública. Hasta su sustitución, ninguna de las tareas que esas resoluciones regulan podrá realizarse sin orden judicial."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Reconocimiento facial",
+     "texto": "Los sistemas de reconocimiento facial u otra identificación biométrica a distancia previstos en el artículo 17 de la ley solo podrán comparar las imágenes captadas con las de personas que tengan una orden de captura o de paradero vigente, incorporadas desde el registro oficial de esas órdenes, que se actualizará al menos una vez por día. Las imágenes y los datos de las demás personas se descartarán en forma automática en el mismo momento de su captación, sin almacenarse ni cruzarse con otra base. Cada coincidencia deberá ser verificada por un agente antes de cualquier medida y se comunicará al juzgado que ordenó la captura o el paradero."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Inventario y auditoría de sistemas biométricos",
+     "texto": "Dentro de los sesenta (60) días de la entrada en vigencia de la ley, cada organismo nacional que opere o utilice sistemas de reconocimiento facial, de identificación biométrica a distancia, de patrullaje de redes o de inteligencia artificial con fines de seguridad informará a la Agencia de Acceso a la Información Pública su ubicación, su proveedor, las bases con que se comparan y sus registros. La Agencia auditará esos sistemas al menos una vez por año y publicará el resultado, con resguardo de la información cuya reserva disponga la ley."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Acceso de organismos de inteligencia y seguridad",
+     "texto": "Los requerimientos de los organismos de inteligencia y de las fuerzas policiales y de seguridad a bases de datos personales, en los términos del artículo 12 de la ley, se formularán por escrito con indicación de la norma que los habilita y de la orden judicial, que el organismo requerido verificará antes de responder y consignará en el registro de accesos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Agencia de Acceso a la Información Pública",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Concurso del director",
+     "texto": "El jurado del concurso previsto en el artículo 21 de la Ley N° 27.275, en el texto establecido por la Ley N° [—] de Protección de los Datos Personales y contra la Vigilancia Masiva, se integrará con cinco (5) profesores titulares regulares de universidades nacionales en derecho constitucional, derecho administrativo o informática, sorteados en acto público entre los que se inscriban en el registro que a tal fin abrirá la Agencia. No podrán integrarlo quienes hayan ocupado cargos políticos en el Poder Ejecutivo nacional en los cuatro (4) años anteriores. El concurso se convocará con una antelación no menor de ciento veinte (120) días al vencimiento del mandato del director en funciones o dentro de los treinta (30) días de producida la vacante. El reglamento del concurso, que dictará la Agencia, será público y fijará la ponderación de los antecedentes y de la prueba de oposición antes de la convocatoria."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Adecuación de competencias",
+     "texto": "Déjanse sin efecto las disposiciones del Decreto N° 302/25 en cuanto asignan a dependencias de la Administración Pública Nacional centralizada funciones de intervención en el cumplimiento de la Ley N° 27.275, que corresponden a la Agencia de Acceso a la Información Pública conforme al artículo 19 de esa ley, en el texto establecido por la ley que se reglamenta."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Derogación",
+     "texto": "Quedan derogados, conforme al artículo 29 de la Ley N° [—] de Protección de los Datos Personales y contra la Vigilancia Masiva, el Decreto N° 1558/01 y sus modificatorios, los Decretos N° 1160/10 y N° 899/17."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Normas técnicas",
+     "texto": "La Agencia de Acceso a la Información Pública dictará las normas técnicas necesarias para la aplicación del presente, en los términos del artículo 20, inciso b), de la ley, incluido el formato común del registro de accesos."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande el presente se atenderán conforme al artículo 28 de la ley, con los créditos asignados a la Agencia de Acceso a la Información Pública y con los créditos de la Jefatura de Gabinete de Ministros destinados a sistemas digitales."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el mismo día que la ley que reglamenta, con excepción del artículo 12, que regirá desde su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 18,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 302/2025 (sin efecto en cuanto asigna funciones sobre la Ley 27.275 a dependencias de la Administración centralizada)",
+  "Resoluciones 428/2024 (y modificatorias 1330/2024 y 725/2026) y 710/2024 del Ministerio de Seguridad (adecuación)"
+ ],
+ "deroga": [
+  "Decreto 1558/2001 y sus modificatorios (Decretos 1160/2010 y 899/2017), conforme al art. 29 de la ley «Ley de Protección de los Datos Personales y contra la Vigilancia Masiva»"
+ ],
+ "variantes": null
+}

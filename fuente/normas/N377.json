@@ -1,0 +1,89 @@
+{
+ "id": "N377",
+ "tipo": "acuerdo_federal",
+ "titulo": "Acuerdo Federal de Reglas Electorales Limpias",
+ "sumilla": "La Nación y las provincias que lo firman acuerdan eliminar lemas, acoples y colectoras, adoptar la Boleta Única, crear juntas electorales independientes con control de las cuentas de campaña y promover reformas constitucionales con las cláusulas modelo, con metas y calendario por provincia; la Nación cofinancia la boleta y la logística y publica cada año el estado de cada jurisdicción. Meta: ninguna provincia con esos sistemas al final de la Fase III.",
+ "cuando": "Fase II (años 2-3): convocatoria al comenzar la Fase II, firma en el año 2 y envío inmediato de la ley nacional de ratificación y de los modelos provinciales («Modelo de ley provincial de reglas electorales limpias», «Modelo de ley provincial de necesidad de reforma constitucional con las cláusulas modelo de una sola reelección, renuncia previa, incompatibilidad familiar y límite de edad»).",
+ "cuando_breve": "Fase II",
+ "tramite": "Convenio entre el Poder Ejecutivo nacional y los gobernadores y el Jefe de Gobierno de la Ciudad Autónoma de Buenos Aires; se ratifica por ley nacional y por ley de cada legislatura.",
+ "motivos": "",
+ "visto": "En la Ciudad Autónoma de Buenos Aires, a los [—] días del mes de [—] de [—], el ESTADO NACIONAL, representado por el Jefe de Gabinete de Ministros, y las PROVINCIAS y la CIUDAD AUTÓNOMA DE BUENOS AIRES que lo suscriben, representadas por sus Gobernadores y por su Jefe de Gobierno, en adelante «las partes», celebran el presente Acuerdo, y",
+ "considerando": [
+  "Que las provincias dictan sus propias instituciones y su régimen electoral conforme a los artículos 5°, 122 y 123 de la Constitución Nacional, y que la mejora de las reglas electorales en todo el país debe acordarse y no imponerse.",
+  "Que los sistemas de lemas, los acoples y las listas colectoras suman votos de candidaturas rivales, multiplican las boletas y dificultan que el elector sepa a quién elige.",
+  "Que la Boleta Única de papel de la Ley N° 27.781 mostró en la elección nacional que se puede votar en forma más simple, más barata y más controlable.",
+  "Que la alternancia y la independencia de quienes organizan y controlan las elecciones son condiciones del sistema republicano que la Constitución Nacional manda garantizar.",
+  "Que la Ley N° 15.262, en el texto de la Ley N° [—], condiciona la simultaneidad de las elecciones provinciales con las nacionales a que no se usen lemas, acoples ni colectoras."
+ ],
+ "formula": "Por ello, LAS PARTES ACUERDAN:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cláusula primera – Objeto",
+     "texto": "Las partes acuerdan reglas electorales comunes para las elecciones de cargos provinciales y municipales, que cada jurisdicción adopta por sus propias normas, y los compromisos de apoyo del Estado nacional, conforme a las cláusulas siguientes."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cláusula segunda – Lemas, acoples y colectoras",
+     "texto": "Cada jurisdicción derogará, antes de su primera elección general posterior a la ratificación de este Acuerdo, los sistemas de lemas o de doble voto simultáneo, los acoples y las listas colectoras para todas las categorías de cargos provinciales y municipales, entendidos en los términos del artículo 1° bis de la Ley N° 15.262. Cuando la regla esté en la constitución provincial, la jurisdicción promoverá su reforma conforme a la cláusula quinta."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cláusula tercera – Boleta Única",
+     "texto": "Cada jurisdicción adoptará la Boleta Única de papel para todas las categorías de cargos provinciales y municipales, con las características básicas de la Ley N° 27.781: una boleta provista por el Estado que contiene todas las listas oficializadas, con la misma tipografía y el mismo espacio para cada una, y en la que el elector marca su opción."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cláusula cuarta – Juntas electorales independientes",
+     "texto": "Cada jurisdicción confiará la organización de sus elecciones, la oficialización de candidaturas y boletas, el escrutinio definitivo y el control de las cuentas de campaña a una junta electoral integrada por jueces de carrera, designados por sorteo público y con estabilidad durante su mandato, que no dependa del Poder Ejecutivo. Los aportes y gastos de campaña se publicarán en formato abierto durante la campaña."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula quinta – Reelección, candidaturas y límite de edad",
+     "texto": "Las jurisdicciones promoverán, en su próxima reforma constitucional, las cláusulas modelo que el Estado nacional ofrece como anexo de este Acuerdo: una sola reelección en la vida para el mismo cargo electivo; renuncia previa del funcionario electo que se postule a otro cargo; prohibición de cláusulas que reinicien el cómputo de los mandatos; incompatibilidad del cónyuge, del conviviente y de los parientes directos para suceder en el mismo cargo ejecutivo en el período siguiente; y límite de setenta (70) años para el ejercicio de funciones públicas."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cláusula sexta – Metas por jurisdicción",
+     "texto": "Cada jurisdicción indica en el Anexo I, al firmar, su situación respecto de las cláusulas segunda a quinta y la fecha en que cumplirá cada una. La meta común es que, antes del 10 de diciembre de 2031, ninguna jurisdicción parte use lemas, acoples ni colectoras ni admita la reelección indefinida, y que todas voten con Boleta Única."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula séptima – Compromisos del Estado nacional",
+     "texto": "El Estado nacional, por intermedio de la Dirección Nacional Electoral: a) ofrece a cada jurisdicción parte el diseño de su Boleta Única y la asistencia técnica para su implementación; b) cofinancia hasta el cincuenta por ciento (50 %) del costo de impresión de la Boleta Única y de la logística de las elecciones provinciales de las jurisdicciones que cumplan las metas del Anexo I, por convenio particular y conforme a la ley nacional de ratificación; c) ofrece la simultaneidad y la coordinación logística con las elecciones nacionales, conforme a la Ley N° 15.262; y d) publica cada año el estado de cada jurisdicción respecto de las metas de este Acuerdo."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cláusula octava – Seguimiento",
+     "texto": "Las partes constituyen una comisión de seguimiento integrada por un representante de cada jurisdicción y uno del Estado nacional, que se reúne al menos una vez por año, verifica el cumplimiento de las metas y publica sus actas."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cláusula novena – Incumplimiento",
+     "texto": "La jurisdicción que no cumpla una meta en la fecha indicada en el Anexo I no recibe el cofinanciamiento de la cláusula séptima, inciso b), para las elecciones siguientes, hasta que la cumpla. El incumplimiento no afecta ninguna otra transferencia."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cláusula décima – Autonomía",
+     "texto": "Nada de lo dispuesto en este Acuerdo limita las potestades de las provincias y de la Ciudad Autónoma de Buenos Aires para dictar su régimen electoral, ni las de los municipios conforme a las constituciones provinciales."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Cláusula undécima – Ratificación, vigencia y adhesión",
+     "texto": "Este Acuerdo será ratificado por ley nacional y por la legislatura de cada jurisdicción, y entrará en vigencia para cada una desde la comunicación de su ley de ratificación a la Dirección Nacional Electoral. Las jurisdicciones que no lo firmen pueden adherir en cualquier momento, con los mismos derechos y obligaciones."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cláusula duodécima – Anexos",
+     "texto": "Forman parte de este Acuerdo el Anexo I (situación, metas y calendario de cada jurisdicción) y el Anexo II (cláusulas modelo para las constituciones provinciales). En prueba de conformidad, se firman tantos ejemplares como partes, de un mismo tenor y a un solo efecto."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

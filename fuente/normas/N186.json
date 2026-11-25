@@ -1,0 +1,132 @@
+{
+ "id": "N186",
+ "tipo": "decreto",
+ "titulo": "Decreto de publicación diaria de las compras y los pagos de la Administración Nacional",
+ "sumilla": "Ordena publicar cada acto de cada contratación el día de su firma y cada pago, ingreso y saldo de cuenta de oficio, y manda unificar COMPR.AR y CONTRAT.AR en una plataforma única en el Estándar de Datos para las Contrataciones Abiertas y abrir un portal de pagos alimentado por el e-SIDIF, ambos en seis meses.",
+ "cuando": "Semana 1 (plataforma única y portal de pagos operativos a los 6 meses)",
+ "cuando_breve": "Semana 1",
+ "tramite": "No aplica: decreto simple (art. 99, incs. 1 y 2, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], el Régimen de Contrataciones de la Administración Nacional aprobado por el Decreto N° 1023 del 13 de agosto de 2001 y sus modificatorios, su Reglamento aprobado por el Decreto N° 1030 del 15 de septiembre de 2016 y sus modificatorios, la Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional N° 24.156 y sus modificatorias, la Ley de Derecho de Acceso a la Información Pública N° 27.275 y su modificatoria, el Decreto N° 206 del 27 de marzo de 2017 y sus modificatorios, y",
+ "considerando": [
+  "Que el artículo 9° del Régimen de Contrataciones de la Administración Nacional aprobado por el Decreto N° 1023/01 dispone que la contratación pública se desarrollará en todas sus etapas en un contexto de transparencia basado en la publicidad y difusión de las actuaciones y en la utilización de las tecnologías informáticas, y que su artículo 32 prevé la difusión por internet en el sitio del Órgano Rector.",
+  "Que, sin embargo, la información sobre contrataciones se encuentra repartida en sistemas distintos según el tipo de contratación, COMPR.AR para bienes y servicios y CONTRAT.AR para obra pública, con etapas que no siempre se publican y datos difíciles de cruzar entre sí y con los pagos.",
+  "Que el Estándar de Datos para las Contrataciones Abiertas asigna un identificador único a cada contratación y permite seguirla desde la planificación hasta el último pago, y que resulta posible extenderlo a la totalidad de las compras nacionales sobre los sistemas existentes.",
+  "Que los Títulos IV y V de la Ley N° 24.156 organizan los sistemas de tesorería y de contabilidad gubernamental, y que el sistema integrado de información financiera (e-SIDIF) registra los pagos, los ingresos y las cuentas de la Administración Nacional, de modo que esa información puede publicarse de oficio sin costos significativos.",
+  "Que el artículo 32 de la Ley N° 27.275 obliga a los sujetos obligados a publicar en forma activa, entre otros datos, el estado de ejecución del presupuesto, las transferencias de fondos y sus beneficiarios y el listado de las contrataciones públicas, y que el Poder Ejecutivo nacional puede ampliar esa publicación en su ámbito.",
+  "Que la publicación de oficio y en el día invierte la carga: en lugar de que cada persona deba solicitar la información y esperar, el Estado la pone a disposición de cualquier ciudadano, periodista u organismo de control, y reduce el costo de atender pedidos individuales.",
+  "Que la reglamentación de la Ley N° 27.275 aprobada por el Decreto N° 206/17, en el texto según el Decreto N° 780/24, precisó qué no se considera información pública, y que corresponde aclarar que esas disposiciones no alcanzan a la información sobre contrataciones, pagos, ingresos y cuentas que el presente decreto manda publicar.",
+  "Que la transparencia de la gestión estatal debe conciliarse con la protección de los datos personales de los ciudadanos, por lo que corresponde publicar en forma agregada la información referida a remuneraciones y prestaciones sociales de personas humanas y limitar las demás excepciones a las previstas en la ley.",
+  "Que la nulidad de las contrataciones no publicadas y la reforma de normas de rango legal requieren la sanción de una ley por el H. CONGRESO DE LA NACIÓN, cuyo proyecto el PODER EJECUTIVO NACIONAL remitirá en el primer año de gestión.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente decreto tiene por objeto que cada contratación y cada pago de la Administración Nacional se publiquen de oficio en internet, en formatos abiertos, el mismo día de su firma o de su registro, de modo que cualquier persona pueda conocer, sin necesidad de solicitud previa, qué compra el Estado, a quién, a qué precio, cuánto ingresa, cuánto se paga, a quién se le paga y cuál es el saldo de cada cuenta pública."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito de aplicación",
+     "texto": "El presente decreto es de aplicación obligatoria para las jurisdicciones y entidades de la Administración Nacional comprendidas en el inciso a) del artículo 8° de la Ley N° 24.156 y sus modificatorias, incluidos los procedimientos regidos por el Régimen de Contrataciones de la Administración Nacional aprobado por el Decreto N° 1023/01 y por la Ley de Obras Públicas N° 13.064."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Publicación de las contrataciones el día de la firma",
+     "texto": "Todo acto, documento o actuación de un procedimiento de contratación —requerimiento o necesidad, autorización de la convocatoria, pliego de bases y condiciones particulares y especificaciones técnicas, circulares, acta de apertura, ofertas presentadas, dictamen de evaluación, impugnaciones, acto de adjudicación, orden de compra o contrato, recepciones y certificados de avance, pagos, penalidades, y toda ampliación, disminución, prórroga, adenda, renegociación o rescisión— deberá publicarse en el sistema electrónico de contrataciones que corresponda, COMPR.AR para bienes y servicios y CONTRAT.AR para obra pública y concesiones, o los que los reemplacen, el mismo día de su firma o emisión.\nLas jurisdicciones y entidades que, por excepción, tramiten contrataciones fuera de dichos sistemas deberán cargar en ellos la totalidad de las actuaciones el mismo día de su firma."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Relación con el Reglamento",
+     "texto": "La difusión prevista en el artículo anterior se cumplirá sin perjuicio de los medios y plazos de publicidad y difusión que establecen los artículos 40 a 47 del Reglamento aprobado por el Decreto N° 1030/16 y sus modificatorios. Cuando esas normas fijen un plazo posterior para la difusión de un acto, prevalecerá la obligación de publicarlo el día de su firma."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Contrataciones directas",
+     "texto": "En toda contratación directa, la unidad operativa de contrataciones deberá publicar en el sistema, junto con la convocatoria o la invitación, el acto que encuadra el procedimiento en la causal de excepción invocada, con su fundamentación y los antecedentes que la acreditan. Las contrataciones directas por urgencia o emergencia publicarán dicho acto y todas las etapas posteriores el mismo día de su firma."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Plataforma única de contrataciones",
+     "texto": "Instrúyese a la OFICINA NACIONAL DE CONTRATACIONES, órgano rector del sistema de contrataciones de la Administración Nacional, para que, en el plazo de SEIS (6) meses contados desde la entrada en vigencia del presente, unifique COMPR.AR y CONTRAT.AR en una plataforma pública única de contrataciones que:\na) integre todas las etapas de cada contratación enumeradas en el artículo 3°, desde la necesidad hasta el último pago y la última modificación contractual;\nb) asigne a cada contratación un identificador único que permita seguirla de punta a punta y vincularla con sus pagos;\nc) publique la totalidad de la información en el Estándar de Datos para las Contrataciones Abiertas (Open Contracting Data Standard), en formatos abiertos, descargables y de libre reutilización, con actualización diaria;\nd) permita comparar el precio de cada adjudicación con precios de referencia y con adjudicaciones anteriores de bienes, servicios u obras equivalentes;\ne) sea de acceso libre y gratuito, sin registro previo.\nHasta tanto la plataforma única se encuentre operativa, COMPR.AR y CONTRAT.AR publicarán sus datos en el estándar indicado en el inciso c), con actualización diaria."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Alertas automáticas",
+     "texto": "La plataforma única incorporará alertas automáticas, visibles para cualquier persona, al menos por:\na) adjudicaciones con precios que superen en forma significativa los precios de referencia;\nb) fraccionamiento de una misma necesidad en varias contrataciones, en los términos del artículo 30 del Reglamento aprobado por el Decreto N° 1030/16;\nc) concentración de adjudicaciones o contrataciones directas recurrentes a favor de un mismo proveedor.\nEl órgano rector del sistema de contrataciones fijará y publicará los parámetros de cada alerta y los comunicará a la SINDICATURA GENERAL DE LA NACIÓN, que podrá aportar sus precios testigo y de referencia como insumo."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Portal público de pagos",
+     "texto": "Instrúyese a la SECRETARÍA DE HACIENDA del MINISTERIO DE ECONOMÍA para que, en el plazo de SEIS (6) meses contados desde la entrada en vigencia del presente, amplíe el sitio Presupuesto Abierto con un portal de pagos alimentado por el sistema integrado de información financiera (e-SIDIF), que publique de oficio, en formatos abiertos y a más tardar el día hábil siguiente al de su registro:\na) cada pago, con la identificación del beneficiario (nombre o razón social y Clave Única de Identificación Tributaria), el concepto, el monto, la fecha, el medio de pago, la imputación presupuestaria hasta el último nivel de desagregación y, cuando corresponda, el identificador de la contratación que le da origen;\nb) los recursos ingresados a la TESORERÍA GENERAL DE LA NACIÓN y a las tesorerías de las jurisdicciones y entidades, por concepto;\nc) cada cuenta bancaria de titularidad de las jurisdicciones y entidades comprendidas, con su saldo diario.\nDesde la entrada en vigencia del presente y hasta que el portal se encuentre completo, se publicará diariamente la información de los incisos anteriores que el e-SIDIF ya registre."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Deber de registro",
+     "texto": "La TESORERÍA GENERAL DE LA NACIÓN, la CONTADURÍA GENERAL DE LA NACIÓN y los servicios administrativo-financieros de cada jurisdicción y entidad registrarán en el e-SIDIF la totalidad de sus pagos, ingresos y cuentas bancarias, con los datos necesarios para su publicación conforme al artículo anterior. Ningún pago podrá efectuarse fuera de los registros del e-SIDIF."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Actos administrativos",
+     "texto": "Las jurisdicciones y entidades comprendidas publicarán de oficio, en formato abierto y el mismo día de su firma, el texto completo de todo acto administrativo que dicten, a través del sistema de gestión documental electrónica o del sitio oficial que determine la JEFATURA DE GABINETE DE MINISTROS, sin perjuicio de su publicación en el Boletín Oficial cuando corresponda."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Excepciones",
+     "texto": "Hasta tanto una ley establezca el régimen definitivo, solo podrán exceptuarse de la publicación individual:\na) las contrataciones declaradas secretas por el Poder Ejecutivo nacional por razones de seguridad o defensa nacional conforme al apartado 6 del inciso d) del artículo 25 del Régimen aprobado por el Decreto N° 1023/01, y la información alcanzada por las excepciones que establece la Ley N° 27.275;\nb) los datos personales de las personas humanas que perciban remuneraciones, haberes previsionales o prestaciones de la seguridad social o de asistencia social.\nLa información exceptuada se publicará en forma agregada por jurisdicción, programa y período, con indicación de la norma que funda la excepción. Las disposiciones de la reglamentación de la Ley N° 27.275 aprobada por el Decreto N° 206/17, en el texto según el Decreto N° 780/24, no podrán invocarse para restringir la publicación de la información prevista en el presente decreto. Ninguna resolución o disposición podrá ampliar estas excepciones."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Datos abiertos",
+     "texto": "Toda la información publicada conforme al presente decreto se replicará en el portal nacional de datos abiertos, bajo licencia abierta que permita su libre reutilización, con interfaces de programación de acceso público y conservación del historial completo. El área de gobierno digital de la JEFATURA DE GABINETE DE MINISTROS prestará la asistencia técnica necesaria."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Seguimiento del cumplimiento",
+     "texto": "La AGENCIA DE ACCESO A LA INFORMACIÓN PÚBLICA publicará trimestralmente un informe de cumplimiento que indique, por jurisdicción y entidad, el porcentaje del gasto en contrataciones publicado el día de la firma y el porcentaje del gasto total publicado con beneficiario y concepto al día hábil siguiente."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Responsabilidad",
+     "texto": "Los titulares de las unidades operativas de contrataciones y de los servicios administrativo-financieros serán responsables del cumplimiento de las obligaciones de publicación establecidas en el presente. Los incumplimientos serán comunicados a la SINDICATURA GENERAL DE LA NACIÓN y a la unidad de auditoría interna correspondiente, y darán lugar a las actuaciones disciplinarias que correspondan."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase a la OFICINA NACIONAL DE CONTRATACIONES, en materia de contrataciones, y a la SECRETARÍA DE HACIENDA, en materia de pagos, ingresos y cuentas, a dictar las normas aclaratorias y complementarias del presente decreto, las que no podrán ampliar las excepciones previstas en el artículo 11."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande el cumplimiento del presente decreto se atenderán con los créditos asignados a las jurisdicciones intervinientes en el Presupuesto de la Administración Nacional vigente, incluidos los destinados a modernización y sistemas de información. El presente decreto no autoriza gastos adicionales."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Invitación",
+     "texto": "Invítase a los Poderes Legislativo y Judicial de la Nación y al Ministerio Público a adoptar, en sus respectivos ámbitos, normas de publicación equivalentes a las del presente decreto."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial. Las obligaciones de los artículos 3°, 5°, 9° y 10 serán exigibles a partir de los CINCO (5) días hábiles de esa fecha."
+    },
+    {
+     "n": 19,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 1030/2016, arts. 40 a 47 (Capítulo IV, «Transparencia, publicidad y difusión»; se complementan: difusión en el sistema electrónico el día de la firma)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

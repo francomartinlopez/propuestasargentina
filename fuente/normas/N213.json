@@ -1,0 +1,78 @@
+{
+ "id": "N213",
+ "tipo": "decreto",
+ "titulo": "Decreto de ingreso a la planta estatal solo por concurso",
+ "sumilla": "Reemplaza la regla de un alta por cada dos bajas (Decreto 934/2025 o el que lo suceda) por la de ningún alta sin concurso abierto, con control previo y bloqueo de la liquidación, mientras se tramita la reforma de la Ley 25.164.",
+ "cuando": "Días 8-30",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (decreto simple, art. 99 incs. 1 y 2 CN)",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° 25.164 y su Decreto reglamentario N° 1421/2002, la Ley N° 24.156, el Decreto N° 934/2025 y [decreto que lo sucedió para el ejercicio 2028], y",
+ "considerando": [
+  "Que el artículo 16 de la Constitución Nacional establece la idoneidad como condición para el empleo público, y el artículo 8° del Anexo de la Ley N° 25.164 dispone que el ingreso a la carrera se realice mediante mecanismos de selección que aseguren la transparencia, la publicidad y el mérito.",
+  "Que el Decreto N° 934/2025 restringió las designaciones y contrataciones para el ejercicio 2026 y admitió la cobertura de un alta por cada dos bajas, validada por la Subsecretaría de Modernización y Desarrollo del Empleo Público, régimen que fue sucedido para los ejercicios siguientes.",
+  "Que una regla de reposición limita cuántas personas ingresan, pero no asegura cómo ingresan, y que corresponde reemplazarla por una regla que garantice que nadie ingrese a la planta del Estado sin concurso.",
+  "Que el Poder Ejecutivo nacional enviará al Honorable Congreso de la Nación la reforma de la Ley N° 25.164 que vuelve permanente esta regla, y que hasta su sanción corresponde aplicarla en el ámbito de la Administración Pública Nacional.",
+  "Que el bloqueo de la liquidación de haberes de las designaciones no concursadas asegura el cumplimiento efectivo de la regla.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Ningún alta sin concurso",
+     "texto": "A partir de la entrada en vigencia del presente decreto, en las jurisdicciones y entidades de la Administración Pública Nacional, centralizada y descentralizada, no podrá designarse en la planta permanente ni en la planta transitoria a ninguna persona que no revista ya en ellas sin un concurso abierto de antecedentes y oposición, con convocatoria publicada, jurado con al menos un miembro externo al organismo convocante y orden de mérito publicado."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Reemplazo de la regla anterior",
+     "texto": "Déjase sin efecto la regla de un alta por cada dos bajas establecida por el Decreto N° 934/2025 y por el decreto que lo haya sucedido para el ejercicio 2028, [número del decreto vigente al 10/12/2027], y la validación de las altas que esas normas atribuían a la Subsecretaría de Modernización y Desarrollo del Empleo Público. Las demás restricciones de esas normas a las designaciones y contrataciones se mantienen en cuanto no se opongan al presente."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Alcance",
+     "texto": "No constituyen ingreso, a los fines del artículo 1°: a) la asignación transitoria de funciones a personal que ya revista en la planta permanente; b) la designación de las autoridades superiores y del personal de gabinete, que no integran la planta permanente ni transitoria. El personal de las Fuerzas Armadas, de las fuerzas de seguridad y policiales, del Servicio Exterior de la Nación y de las carreras científicas y docentes con régimen propio de ingreso por concurso se rige por sus normas específicas."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Procedimiento",
+     "texto": "La Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros publicará en su sitio oficial y en el Boletín Oficial cada convocatoria, los perfiles, la integración del jurado y el orden de mérito, y llevará el registro de selectores entre los que se designará el miembro externo de cada jurado."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Control previo",
+     "texto": "Ninguna designación en la planta permanente o transitoria podrá dictarse sin la constancia, emitida por la Secretaría de Función Pública y Gobierno Digital, de que proviene de un concurso realizado conforme al artículo 1°."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Liquidación",
+     "texto": "Los servicios administrativo-financieros no liquidarán haberes por designaciones dictadas en violación del presente decreto. La Secretaría de Hacienda del Ministerio de Economía adecuará el Sistema Integrado de Información Financiera (e-SIDIF) para exigir la constancia del artículo 5° antes de la primera liquidación."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Publicación",
+     "texto": "Cada designación se publicará en el Boletín Oficial y en el sitio oficial de la Secretaría de Función Pública y Gobierno Digital el día de su dictado, con la referencia al concurso del que proviene."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial y regirá hasta la entrada en vigencia de la ley que reforme el artículo 8° del Anexo de la Ley N° 25.164 para establecer el concurso como único modo de ingreso."
+    },
+    {
+     "n": 9,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 934/2025, arts. 1 a 4, o el decreto que lo suceda para el ejercicio 2028 (regla de un alta cada dos bajas, sin efecto)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

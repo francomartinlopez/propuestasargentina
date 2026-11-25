@@ -1,0 +1,105 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría del Interior de la Jefatura de Gabinete de Ministros",
+    "estado": "existente",
+    "rol": "Negocia con los gobernadores y firma por la Nación.",
+    "hoy": "Jefatura de Gabinete de Ministros, asistida por la Vicejefatura de Gabinete del Interior (DNU 571/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Certifica cada etapa, calcula la reducción de la alícuota de 2031 y publica la información anual.",
+    "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos)",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Hacienda",
+      "estado": "modificado",
+      "rol": "Certifica en la cuenta fiscal la recaudación de reemplazo que habilita cada etapa y prepara el decreto anual de cómputo y alícuota. Representa a la Nación en la Comisión de Seguimiento y ejerce su secretaría técnica.",
+      "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero",
+      "estado": "modificado",
+      "rol": "Aplica el cómputo ampliado y las alícuotas de cada etapa y aporta los datos de recaudación bruta y neta que se publican. Provee información para los tributos de reemplazo. Dicta las normas operativas del cómputo y de la percepción. Suministra información a las administraciones provinciales por convenio y registra cada consulta. Aplica las exenciones de IVA y de los impuestos nacionales a la producción audiovisual.",
+      "hoy": "Agencia de Recaudación y Control Aduanero (ARCA), ente autárquico en el ámbito del Ministerio de Economía",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Hacienda del Ministerio de Economía",
+      "estado": "modificado",
+      "rol": "Firma por la Nación, ejerce la secretaría técnica de la Comisión de Seguimiento y aporta la cuenta fiscal.",
+      "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos; Subsecretaría de Coordinación Fiscal Provincial)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Comisión federal de seguimiento",
+    "estado": "nuevo",
+    "rol": "Verifica y publica el informe anual (creada por el acuerdo, aprobada por esta ley). Fija la metodología de la certificación y recibe la información. Recibe la adhesión y la información anual; su metodología mide costo y reemplazo.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración tributaria provincial",
+    "estado": "modificado",
+    "rol": "Certifica cada etapa, aplica las bajas y publica la recaudación.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Cine y Artes Audiovisuales (INCAA)",
+    "estado": "suprimido",
+    "rol": "Se disuelve: los subsidios ya otorgados se pagan, el archivo fílmico pasa a la Secretaría de Cultura y Deportes y la escuela de cine a una universidad.",
+    "hoy": "INCAA, ente público no estatal (Ley 17.741)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Cultura y Deportes",
+    "estado": "modificado",
+    "rol": "Recibe la custodia del archivo y del patrimonio fílmico y el registro de obras.",
+    "hoy": "Secretaría de Cultura de la Presidencia de la Nación",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Sanciona la ley en extraordinarias antes del 31/12/2027 y recibe los informes de demora de cada etapa."
+  },
+  {
+   "nombre": "Comisión federal de seguimiento",
+   "rol": "Fija la metodología del costo fiscal, verifica el cronograma y publica el informe anual."
+  },
+  {
+   "nombre": "Consejo Federal del Catastro",
+   "rol": "Asiste en la ley modelo del impuesto al suelo."
+  },
+  {
+   "nombre": "Provincias y municipios",
+   "rol": "Firman, ratifican, bajan sellos, Ingresos Brutos y la tasa de Seguridad e Higiene y cobran los tributos de reemplazo."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Ratifica el acuerdo y sanciona el cronograma."
+  },
+  {
+   "nombre": "Municipios",
+   "rol": "Bajan la tasa de Seguridad e Higiene por ordenanza a medida que cobran el suelo."
+  },
+  {
+   "nombre": "Universidad nacional que recibe la escuela de cine (ENERC)",
+   "rol": "Recibe por convenio la Escuela Nacional de Experimentación y Realización Cinematográfica."
+  }
+ ]
+}

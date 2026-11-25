@@ -1,0 +1,75 @@
+{
+ "id": "N408",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de adhesión a la Ley de segunda oportunidad: centros de conciliación y gratuidad",
+ "sumilla": "Texto modelo para que cada provincia adhiera a «Ley de segunda oportunidad: insolvencia de las personas humanas, concurso preventivo simplificado y prevención del sobreendeudamiento»: sus servicios públicos de mediación, la Defensoría del Pueblo y las oficinas de defensa del consumidor actúan como centros de conciliación en la plataforma nacional; exime de tasas y sellos a la insolvencia de personas humanas y reduce a la mitad la tasa del concurso pyme simplificado; invita al tribunal superior a asignar juzgados.",
+ "cuando": "Fase II (años 2-3), desde la vigencia de «Ley de segunda oportunidad: insolvencia de las personas humanas, concurso preventivo simplificado y prevención del sobreendeudamiento», que invita a las provincias (art. 31).",
+ "cuando_breve": "Fase II",
+ "tramite": "Según la constitución de cada provincia; mayoría simple.",
+ "motivos": "La Ley nacional de segunda oportunidad creó un régimen de insolvencia para las personas humanas sobreendeudadas, con una conciliación extrajudicial gratuita y digital, un plan de pagos que protege la vivienda única y un ingreso para la subsistencia del hogar, y la liberación del saldo una vez cumplido el plan; también estableció un concurso preventivo simplificado para las micro y pequeñas empresas. La conciliación se presta en todo el país por una plataforma nacional, pero los procedimientos judiciales tramitan ante los tribunales de la Provincia y su eficacia depende de la organización local. Esta ley adhiere al régimen nacional y pone los servicios públicos de mediación, la Defensoría del Pueblo y las oficinas de defensa del consumidor a disposición de las familias de la Provincia como centros de conciliación, sin crear organismos nuevos. Exime de tasas y sellos a los procedimientos de las personas humanas, para que el costo no impida el acceso, reduce la tasa de justicia del concurso de las pequeñas empresas e invita al Poder Judicial a asignar juzgados con expediente electrónico. Los gastos se atienden con los créditos vigentes.",
+ "visto": null,
+ "considerando": null,
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Adhesión",
+     "texto": "La Provincia de [Provincia] adhiere a la Ley nacional N° [—] de segunda oportunidad, conforme a la invitación de su artículo 31."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Centros de conciliación",
+     "texto": "Los servicios públicos de mediación del Poder Ejecutivo y del Poder Judicial de la Provincia, la Defensoría del Pueblo, las oficinas provinciales y municipales de defensa del consumidor que adhieran y los colegios profesionales que lo soliciten actuarán como centros de conciliación de la Ley nacional N° [—], se inscribirán en el registro de su autoridad de aplicación y operarán por medio de la plataforma digital nacional. Sus conciliadores no percibirán honorarios de la persona deudora."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Gratuidad",
+     "texto": "Los procedimientos de insolvencia de las personas humanas de la Ley nacional N° [—] están exentos de la tasa de justicia, del impuesto de sellos y de todo otro tributo o arancel provincial, incluidos los de inscripción de la afectación de la vivienda en el Registro de la Propiedad Inmueble que ordene el juez. Los concursos preventivos simplificados de las micro y pequeñas empresas abonarán la tasa de justicia con una reducción del CINCUENTA POR CIENTO (50 %)."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Organización judicial",
+     "texto": "Invítase al [Superior Tribunal de Justicia / Corte Suprema de Justicia] de la Provincia a asignar juzgados o secretarías con competencia en concursos a los procedimientos de la Ley nacional N° [—] y al concurso preventivo simplificado, a tramitarlos en forma electrónica y a integrar su sistema de gestión con la plataforma digital nacional."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Defensa pública",
+     "texto": "La defensa pública provincial asistirá, cuando lo soliciten, a las personas deudoras en la conciliación y en el procedimiento judicial."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Autoridad provincial",
+     "texto": "El Poder Ejecutivo designará la autoridad provincial que coordinará los centros de conciliación, celebrará el convenio con la autoridad de aplicación nacional y publicará cada año los datos del funcionamiento del régimen en la Provincia."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la presente ley se atenderán con los créditos asignados a los servicios y organismos del artículo 2° en el presupuesto vigente, sin incremento de su monto total."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo reglamentará la presente ley dentro de los SESENTA (60) días de su publicación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial de la Provincia."
+    },
+    {
+     "n": 10,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Leyes provinciales de tasa de justicia y Código Fiscal (exenciones; no verificadas)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

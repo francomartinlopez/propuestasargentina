@@ -1,0 +1,124 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Aprueba protocolos, custodia las grabaciones, lleva los registros de detenciones, de armas y de denuncias e informa al Congreso. Aprueba listado de armamento, protocolos, cronograma de cámaras y régimen penitenciario propio. Dicta los protocolos, custodia las grabaciones y aprueba el plan de despliegue de cámaras. Firma por la Nación, brinda capacitación y asistencia técnica y publica el tablero federal.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": [
+     {
+      "nombre": "Oficina ministerial de asuntos internos",
+      "estado": "nuevo",
+      "rol": "Investiga uso de armas con lesiones o muerte, abusos, corrupción y faltas graves; instruye sumarios y denuncia delitos al fiscal (ejecuta «Ley de Uso de la Fuerza de las Fuerzas Federales» y «Ley de Uso de la Fuerza de las Fuerzas Federales»). Investiga con facultades propias el uso de armas con lesiones o muerte, abusos, corrupción y faltas graves en las cuatro fuerzas y el SPF («Ley de Uso de la Fuerza de las Fuerzas Federales» arts. 18 a 24).",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Fuerzas federales",
+      "estado": "existente",
+      "rol": "Aplican la ley, usan cámaras corporales y alimentan los registros. Aplican los protocolos, usan las cámaras y registran detenciones y empleo de armas.",
+      "hoy": "PFA, GNA, PNA, PSA y SPF (MSN)",
+      "hijos": []
+     },
+     {
+      "nombre": "Oficina de Asuntos Internos de las Fuerzas Federales",
+      "estado": "nuevo",
+      "rol": "Se incorpora a la estructura del Decreto 50/2019 y recibe las áreas de asuntos internos de las fuerzas.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Consejo federal de seguridad",
+      "estado": "existente",
+      "rol": "Ámbito de negociación y de seguimiento.",
+      "hoy": "Consejo de Seguridad Interior (Ley 24.059)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Asuntos internos de la policía federal",
+    "estado": "modificado",
+    "rol": "Sale de la Jefatura y pasa a ser delegación de la Oficina.",
+    "hoy": "Dirección General de Asuntos Internos de la PFA (depende de la Jefatura; Decreto 383/2025, art. 17 apartado IV y art. 36)",
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos internos de gendarmería",
+    "estado": "modificado",
+    "rol": "Sale de la dependencia del Jefe de la fuerza.",
+    "hoy": "Dirección de Asuntos Internos de la GNA (depende del Jefe; Decreto 454/2025, Estatuto, art. 9 inc. d)",
+    "hijos": []
+   },
+   {
+    "nombre": "Control externo de la policía aeroportuaria",
+    "estado": "modificado",
+    "rol": "Se integra como delegación y conserva sus órganos y funciones. Se integra a la Oficina y conserva sus órganos.",
+    "hoy": "Dirección de Control Policial Externo de la PSA (Ley 26.102, art. 75, texto del art. 25 del Decreto 456/2025; Subsecretaría de Intervención Federal, MSN)",
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos internos de prefectura",
+    "estado": "nuevo",
+    "rol": "Investiga en la PNA las materias de la Oficina (hoy la disciplina está a cargo del Prefecto Nacional Naval, art. 11 Ley 18.398). Nueva; hoy la disciplina es interna de la fuerza (Prefecto Nacional Naval).",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos internos penitenciarios",
+    "estado": "nuevo",
+    "rol": "Investiga en el SPF las materias de la Oficina. Nueva.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Mecanismo nacional contra la tortura",
+    "estado": "existente",
+    "rol": "Coordina el registro público de denuncias y accede al registro de detenciones. Coordina el registro de denuncias con las provincias por convenio.",
+    "hoy": "Comité Nacional (Ley 26.827), ámbito del Poder Legislativo",
+    "hijos": []
+   },
+   {
+    "nombre": "Fiscalía federal",
+    "estado": "existente",
+    "rol": "Acceso directo a las grabaciones y a los registros; recibe las denuncias de la Oficina.",
+    "hoy": "Ministerio Público Fiscal de la Nación",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital y Secretaría de Hacienda",
+    "estado": "existente",
+    "rol": "Intervienen en la aprobación de las unidades inferiores de la Oficina.",
+    "hoy": "Ministerio de Desregulación y Transformación del Estado (Dirección Nacional de Diseño Organizacional) y Ministerio de Economía (Oficina Nacional de Presupuesto)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio provincial de seguridad",
+    "estado": "modificado",
+    "rol": "Aprueba protocolos, custodia grabaciones, lleva los registros y publica la información.",
+    "hoy": "[Ministerio de seguridad provincial]",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comisión parlamentaria de control de seguridad",
+   "rol": "Recibe el informe anual."
+  },
+  {
+   "nombre": "Gobiernos provinciales",
+   "rol": "Adhieren por ley, crean su órgano de asuntos internos y publican datos."
+  },
+  {
+   "nombre": "Asuntos internos provincial",
+   "rol": "Investiga el empleo de armas con lesiones o muerte, la violencia institucional y la corrupción de agentes."
+  }
+ ]
+}

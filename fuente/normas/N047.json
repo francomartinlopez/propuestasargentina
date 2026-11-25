@@ -1,0 +1,133 @@
+{
+ "id": "N047",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial del impuesto al valor del suelo",
+ "sumilla": "Crea el impuesto sobre el valor de mercado del suelo urbano y rural, nunca sobre las construcciones, con un componente mensual y un pago a cuenta en cada compraventa que se descuenta de las cuotas siguientes; base revaluada en cada venta y en cada herencia, método reglado de separación del suelo, piso de vivienda única, sin reducciones para el lote ocioso; sustituye al impuesto inmobiliario y suma un capítulo optativo que habilita a los municipios a cobrar el componente mensual. Primera ley en Córdoba.",
+ "cuando": "Fase II (desde el año 2): primero en Córdoba, con Córdoba capital, Río Cuarto, Villa María y San Francisco como municipios piloto; se extiende con la cobertura catastral nacional (cierre del año 2).",
+ "cuando_breve": "Fase II",
+ "tramite": "Ley tributaria provincial, según la constitución de cada provincia (algunas exigen iniciativa del Poder Ejecutivo o trámite especial). El capítulo municipal se incluye solo donde el régimen municipal lo exija (Buenos Aires).",
+ "motivos": "Hoy quien construye paga más por su mejora y quien retiene un lote vacío esperando que suba paga poco. El valor del suelo lo crean en gran parte la ciudad, la infraestructura y el crecimiento, no su titular; gravarlo, y no lo que se edifica sobre él, alienta la construcción y desalienta la tierra ociosa. El proyecto crea un impuesto sobre el valor de mercado del suelo, urbano y rural, que nunca alcanza a las construcciones ni a las mejoras. Tiene un componente mensual sobre todo suelo, edificado o no, y un pago a cuenta en cada compraventa que se descuenta íntegramente de las cuotas siguientes: no es un tributo sobre la operación, en línea con el compromiso de no crear impuestos a las transacciones. La base se separa del valor de las construcciones con un método reglado y se revalúa en cada venta y en cada herencia, para que la tierra que no se vende no conserve una base desactualizada. La vivienda única familiar tiene un piso protegido y cada titular puede impugnar su valuación. El nuevo impuesto sustituye al impuesto inmobiliario y su mayor recaudación financia la baja del impuesto de sellos y del impuesto sobre los ingresos brutos acordada en el Acuerdo Federal de Sustitución Tributaria. Un capítulo optativo habilita a los municipios a cobrar el componente mensual en su ejido.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – El impuesto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación y objeto",
+     "texto": "Establécese en la Provincia de [Provincia] el impuesto al valor del suelo, que grava el valor de mercado del suelo de las parcelas urbanas y rurales, con exclusión del valor de las construcciones, las plantaciones y las demás mejoras."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Hecho imponible y sujetos",
+     "texto": "El impuesto se devenga mensualmente por la titularidad del dominio, del usufructo o de la posesión a título de dueño de cada parcela situada en la Provincia, edificada o no. Son contribuyentes los titulares del dominio, los usufructuarios y los poseedores a título de dueño, en forma solidaria."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Base imponible y método reglado",
+     "texto": "La base imponible es el valor de mercado del suelo de cada parcela, que determinará el catastro provincial conforme al artículo 14 de la Ley nacional N° 26.209 por uno de los siguientes métodos: a) el valor que asigne a la parcela el mapa de valores del suelo de su zona, elaborado con datos de mercado y publicado; o b) el valor de mercado del inmueble, deducido el costo de reposición de las construcciones y mejoras, cuando no exista mapa de la zona o el titular lo solicite con fundamento. El catastro publicará la metodología y actualizará los mapas al menos una vez por año."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Revaluación en cada transmisión",
+     "texto": "La base se revaluará: a) en cada compraventa, al mayor entre el valor del mapa de la zona y la parte del precio que corresponda al suelo según el método del artículo 3°; b) en cada transmisión por causa de muerte, al valor del mapa vigente a la fecha de la transmisión. La revaluación regirá desde el mes siguiente al de la inscripción o, en su defecto, al de la toma de posesión."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Impugnación",
+     "texto": "El contribuyente podrá impugnar la valuación de su parcela ante el catastro provincial con prueba de su valor de mercado. La resolución será recurrible conforme al [Código Tributario / Código Fiscal]. La impugnación no suspende el pago de las cuotas, que se ajustarán según lo que se resuelva."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Componentes y pisos",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Componente mensual",
+     "texto": "El componente mensual resulta de aplicar a la base la alícuota anual que fije la Ley Impositiva, dividida en doce (12) cuotas mensuales."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Pago a cuenta en la compraventa",
+     "texto": "En cada compraventa, el adquirente ingresará un pago a cuenta equivalente al número de cuotas mensuales del componente mensual, calculadas sobre la base revaluada, que fije la Ley Impositiva, que no podrá exceder de doce (12). El pago a cuenta es un anticipo del componente mensual y se descontará íntegramente de las cuotas siguientes hasta agotarlo; no constituye un tributo sobre el acto, el contrato ni la operación. Si el inmueble se transfiriera antes de agotarlo, el saldo se reintegrará a quien lo ingresó o, si las partes lo convienen, se imputará a las cuotas del nuevo titular. No se percibirá ningún otro importe por el impuesto con motivo de la transferencia."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Piso de la vivienda única",
+     "texto": "De la base de la parcela en la que se encuentre la vivienda única y permanente del contribuyente y su grupo familiar se deducirá el valor del suelo de una parcela de vivienda tipo de la zona, según el mapa de valores. La Ley Impositiva podrá ampliar esa deducción."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Suelo ocioso",
+     "texto": "Las parcelas baldías o sin edificación no gozan de deducción ni reducción alguna. [Optativo: La Ley Impositiva podrá fijar alícuotas crecientes para las parcelas urbanas baldías que cuenten con los servicios de agua, cloacas y pavimento.]"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Sustitución tributaria",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Sustitución del impuesto inmobiliario",
+     "texto": "Desde la aplicación del componente mensual en cada zona conforme al artículo 16°, deja de aplicarse en ella el impuesto inmobiliario urbano y rural establecido en el [Código Tributario / Código Fiscal]."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Recaudación de reemplazo",
+     "texto": "A los fines del cronograma de reducción del impuesto de sellos y del impuesto sobre los ingresos brutos de la Ley provincial N° [—], de ratificación del Acuerdo Federal de Sustitución Tributaria, se computará como recaudación de reemplazo la del impuesto al valor del suelo, incluida la de los municipios habilitados, que exceda la del impuesto inmobiliario sustituido en el año anterior a su aplicación, a valores constantes según el índice de precios al consumidor."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Componente municipal [capítulo optativo para las provincias cuyo régimen municipal lo exija]",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Habilitación",
+     "texto": "Habilítase a los municipios de la Provincia a establecer por ordenanza, en su ejido, el componente mensual del impuesto al valor del suelo, con la base que determine el catastro provincial y con una alícuota que no podrá superar la máxima que fije la Ley Impositiva. Donde un municipio lo establezca, la Provincia no percibirá el componente mensual, y el pago a cuenta del artículo 7° corresponderá al municipio."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Coordinación",
+     "texto": "La autoridad de aplicación y el catastro provincial pondrán a disposición de los municipios habilitados la base de cada parcela y sus revaluaciones, con las garantías de la Ley nacional N° 25.326. El componente municipal se aplicará sin perjuicio de las contribuciones municipales por valorización inmobiliaria previstas en la legislación provincial."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La [autoridad de aplicación provincial en materia tributaria] es la autoridad de aplicación de la presente ley, con la intervención del catastro provincial en la determinación de la base."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Aplicación inicial",
+     "texto": "El impuesto se aplicará primero en los municipios de [en Córdoba: Córdoba, Río Cuarto, Villa María y San Francisco], cuyos mapas de valores del suelo se calcularon con datos de mercado, y se extenderá a las demás zonas a medida que el catastro publique sus mapas."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial de la Provincia. El componente mensual se aplicará en cada zona desde el 1° de enero siguiente a la publicación de su mapa de valores del suelo."
+    },
+    {
+     "n": 17,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Código Tributario / Código Fiscal y Ley Impositiva de [Provincia] (en Córdoba: impuesto inmobiliario, que se sustituye)",
+  "[Ley orgánica municipal de la Provincia, para habilitar el componente municipal (Capítulo IV optativo)]"
+ ],
+ "deroga": [
+  "Impuesto inmobiliario provincial (urbano y rural), desde la aplicación del componente mensual en cada zona"
+ ],
+ "variantes": null
+}

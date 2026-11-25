@@ -1,0 +1,92 @@
+{
+ "id": "N096",
+ "tipo": "decreto",
+ "titulo": "Reglamentación de la reforma de la Ley N° 13.246 (arrendamiento agrícola a porcentaje)",
+ "sumilla": "Reglamenta la ley «Reforma de la Ley N° 13.246: arrendamiento agrícola a porcentaje de la cosecha»: define los costos directos y la liquidación de la participación, las condiciones del pequeño propietario y el tope del piso, la publicación de valores de referencia por zona y cultivo antes de cada campaña, el plazo de ARCA para el registro y el cómputo de la deducción en Ganancias.",
+ "cuando": "Fase II (años 2-3), dentro de los 90 días de publicada la ley «Reforma de la Ley N° 13.246: arrendamiento agrícola a porcentaje de la cosecha» (art. 15 de esa ley)",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (decreto reglamentario, art. 99 inc. 2 CN).",
+ "motivos": null,
+ "visto": "El Expediente N° [—], la Ley N° 13.246 de Arrendamientos y Aparcerías Rurales (texto según la Ley N° 22.298), la Ley N° [—] de reforma de la Ley N° 13.246, la Ley de Impuesto a las Ganancias (texto ordenado 2019) y el Decreto N° 8330/1963, y",
+ "considerando": [
+  "Que la Ley N° [—] dispuso que el precio del arrendamiento rural con destino agrícola consista en un porcentaje de la cosecha, con las reglas de la aparcería sobre el riesgo compartido y la prohibición de una cantidad fija, y extendió ese régimen a los contratos accidentales del inciso a) del artículo 39 de la Ley N° 13.246.",
+  "Que la ley encomendó a la reglamentación definir los costos directos de la campaña, la superficie y el tope del piso del pequeño propietario, y los valores de referencia por zona y cultivo.",
+  "Que la reglamentación general de la Ley N° 13.246 aprobada por el Decreto N° 8330/1963 debe complementarse con esas definiciones.",
+  "Que la publicación previa de valores de referencia y el cruce de los contratos registrados con los datos de comercialización permiten verificar la producción y apreciar la equidad de los porcentajes pactados.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase autoridad de aplicación de los artículos 2° bis a 2° sexies de la Ley N° 13.246 (texto según la Ley N° 22.298 y la Ley N° [—]), conforme al artículo 13 de la Ley N° [—], a la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Costos directos",
+     "texto": "A los fines del artículo 2° bis de la Ley N° 13.246, se consideran costos directos de la campaña los de semillas, fertilizantes, productos fitosanitarios, labores de siembra, protección y cosecha, y seguros sobre el cultivo, imputables al predio arrendado. No integran los costos directos los gastos de estructura, los financieros ni las amortizaciones del arrendatario. Los costos se acreditarán con comprobantes fiscales emitidos a nombre del arrendatario y referidos al predio y a la campaña, y el arrendador podrá requerir su exhibición antes de la liquidación."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Liquidación de la participación",
+     "texto": "El arrendatario liquidará la participación del arrendador al finalizar cada cosecha, sobre los frutos efectivamente obtenidos según las cartas de porte, los certificados de depósito o la documentación de comercialización correspondientes al predio. Salvo pacto en contrario, la participación se entregará en especie o en su equivalente en dinero según el precio de pizarra del día de la entrega en el mercado de referencia de la zona."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Pequeño propietario",
+     "texto": "A los fines del artículo 2° quinquies de la Ley N° 13.246:\na) la autoridad de aplicación fijará para cada zona la superficie máxima, que no podrá exceder la necesaria para que la renta del inmueble, calculada con los valores de referencia, iguale DOS (2) veces el salario mínimo, vital y móvil anual;\nb) la renta constituye el principal ingreso del arrendador cuando represente más de la mitad de sus ingresos del último período fiscal, según su declaración jurada;\nc) el piso, expresado en kilogramos por hectárea, no podrá superar el SETENTA POR CIENTO (70 %) del resultado de aplicar el porcentaje pactado al rendimiento de referencia de la zona y el cultivo.\nEl arrendador acreditará esas condiciones con declaración jurada al registrar el contrato."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Valores de referencia",
+     "texto": "La autoridad de aplicación publicará los valores del artículo 2° sexies de la Ley N° 13.246 al menos SESENTA (60) días antes del inicio de la siembra de cada campaña fina y gruesa, por zona agroeconómica homogénea y por cultivo. Para elaborarlos requerirá informes del Instituto Nacional de Tecnología Agropecuaria (INTA), de las bolsas de cereales y de las entidades representativas de propietarios, productores y contratistas, y publicará la metodología y los datos utilizados."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Zonas",
+     "texto": "La autoridad de aplicación aprobará y publicará la delimitación de las zonas agroeconómicas homogéneas, por departamento o partido, dentro de los NOVENTA (90) días de la publicación del presente."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Registro de contratos",
+     "texto": "La Agencia de Recaudación y Control Aduanero (ARCA) establecerá el régimen de registro del artículo 2° septies de la Ley N° 13.246 dentro de los NOVENTA (90) días de la publicación del presente, con intervención de la autoridad de aplicación, e informará a esta cada campaña, en forma agregada por zona y cultivo, la cantidad de contratos registrados, los porcentajes pactados y la producción declarada, para la elaboración de los valores de referencia."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Deducción en el impuesto a las ganancias",
+     "texto": "La deducción del artículo 10 de la Ley N° [—] se computará en la declaración jurada del período fiscal en que se devengue la participación del arrendador, en la forma que establezca la Agencia de Recaudación y Control Aduanero (ARCA), y solo para contratos registrados antes del inicio de la campaña respectiva."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Decreto N° 8330/1963",
+     "texto": "Las disposiciones del presente complementan la reglamentación de la Ley N° 13.246 aprobada por el Decreto N° 8330/1963, que se aplicará en cuanto no se oponga a la Ley N° [—] ni al presente."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase a la autoridad de aplicación a dictar las normas complementarias y aclaratorias del presente decreto."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el BOLETÍN OFICIAL."
+    },
+    {
+     "n": 12,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 8330/1963 (complementa la reglamentación de la Ley 13.246)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

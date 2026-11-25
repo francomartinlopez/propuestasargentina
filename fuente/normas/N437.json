@@ -1,0 +1,187 @@
+{
+ "id": "N437",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Integración Productiva Federal",
+ "sumilla": "Crea el Programa Federal de Integración Productiva para encadenar los complejos exportadores competitivos con los proveedores, los oficios y las economías regionales de todo el país: un Mapa Federal de Encadenamientos Productivos público y anual, mesas por complejo, un plan anual de compras para los grandes exportadores definidos por un umbral estadístico, y la prioridad de las obras según los encadenamientos que destraban. Coordina las leyes de proveedores, de competitividad industrial, de infraestructura y de zonas de crecimiento previsible, y modifica artículos puntuales de ellas.",
+ "cuando": "Fase II (años 2-3), después de las leyes de desarrollo de proveedores, de competitividad industrial y de presupuesto plurianual de infraestructura; primer mapa dentro del año de su vigencia",
+ "cuando_breve": "Fase II, después de las leyes de desarrollo de proveedores, de competitividad industrial y de presupuesto plurianual de infraestructura",
+ "tramite": "Mayoría simple; cámara de origen indistinta (no crea tributos). Invita a las provincias a adherir.",
+ "motivos": "Que algunos complejos exportadores argentinos sean competitivos a escala mundial no alcanza para el desarrollo del país. En 2025 la Argentina exportó bienes por 87.111 millones de dólares; el 93 % correspondió a complejos exportadores y los diez principales concentraron el 77,7 % (INDEC, Complejos exportadores, año 2025). Esas cadenas crecen, pero compran afuera buena parte de los equipos, insumos y servicios con los que crecen, mientras la industria que podría abastecerlas se contrae: el empleo industrial registrado cayó de 1,27 millones de personas en 2013 a 1,11 millones en junio de 2026. Si las cadenas competitivas no se encadenan con el resto de la economía, la riqueza que generan queda concentrada en pocos lugares y en pocas empresas, y la industria del resto del territorio queda expuesta a la competencia importada sin una demanda propia que la sostenga. La experiencia del antiguo cinturón industrial de los Estados Unidos muestra el costo de ese camino: fábricas cerradas ante la importación, regiones que no se reconvirtieron y una población que quedó en el mismo lugar, pero sin empleo, con deterioro de la salud, aumento de la criminalidad y dependencia de los subsidios del Estado. El país ya cuenta con piezas para evitarlo: el Programa Nacional de Desarrollo de Proveedores, el Registro Público de Oferta Local, el régimen de competitividad industrial con eslabones prioritarios, el presupuesto plurianual de infraestructura y los planes de ordenamiento territorial de las zonas de crecimiento previsible. Lo que falta es la pieza que las conecte con cada complejo y con cada región: saber, en forma pública y verificable, dónde produce cada complejo, qué industrias del país pueden proveerlo, por qué corredores se conectan, qué obras faltan y qué localidades necesitan desarrollo urbano para recibir ese crecimiento. Esta ley crea esa pieza sin crear organismos nuevos ni subsidios nuevos. Establece un Mapa Federal de Encadenamientos Productivos, actualizado cada año con datos oficiales; mesas por complejo con las provincias, los exportadores, los proveedores, los trabajadores y las universidades; y un plan anual de compras que publican los grandes exportadores. Para que el alcance de esa obligación no se fije de manera discrecional, quedan comprendidas las empresas que, ordenadas por lo que exportaron el año anterior, explican en conjunto el ochenta por ciento de las exportaciones de su complejo, con exclusión de las micro, pequeñas y medianas empresas. Las exportaciones están muy concentradas, de modo que la obligación alcanza a pocas empresas y a la mayor parte del valor exportado. No se impone un contenido nacional mínimo: se exige transparencia y consulta a la oferta local. Por último, la ley ordena que las obras de infraestructura se prioricen también según los encadenamientos productivos que destraban, y que las zonas que el mapa identifique como de desarrollo urbano local se evalúen como zonas de crecimiento previsible. Así, el crecimiento de los sectores competitivos se traduce en trabajo y producción en cada región.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto, definiciones y autoridad de aplicación",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Créase el Programa Federal de Integración Productiva, que tiene por objeto encadenar los complejos exportadores del país con los proveedores de bienes y servicios, los oficios y las economías regionales de todo el territorio nacional, y coordinar con ese fin los instrumentos de desarrollo de proveedores, de competitividad industrial, de infraestructura y de ordenamiento territorial vigentes."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por:\na) complejo exportador: cada uno de los complejos de la clasificación que publica el Instituto Nacional de Estadística y Censos (INDEC);\nb) núcleo: los lugares donde se produce, procesa y despacha la mayor parte de las exportaciones de un complejo;\nc) proveedor: la persona humana o jurídica radicada en el país que vende o puede vender a un complejo bienes, servicios u obras;\nd) área de influencia local: los departamentos o partidos del núcleo y de su entorno inmediato;\ne) área de influencia alejada: los departamentos o partidos donde se concentran proveedores de un complejo fuera de su área local;\nf) zona de desarrollo urbano local: el área de influencia local que necesita vivienda, servicios o infraestructura urbana para recibir el crecimiento del complejo;\ng) obra de conectividad: la ruta, ferrocarril, vía navegable, puerto, gasoducto, oleoducto, línea eléctrica o red de comunicaciones, nueva, a refaccionar o a ampliar, que une el núcleo con sus proveedores o con sus salidas."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación de la presente ley la Secretaría de Producción y Comercio del Ministerio de Economía, que actuará en coordinación con el área con competencia en obras públicas y transporte, con el Instituto Nacional de Estadística y Censos, con la Agencia de Recaudación y Control Aduanero (ARCA) y con el Instituto Geográfico Nacional, en lo que corresponda a cada uno."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Mapa Federal de Encadenamientos Productivos",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Contenido",
+     "texto": "La autoridad de aplicación elaborará y publicará el Mapa Federal de Encadenamientos Productivos, que identificará para cada complejo exportador y para cada región: a) su núcleo y su valor exportado; b) sus proveedores actuales y potenciales, por rubro y por localización; c) los corredores que los conectan con el núcleo y con las salidas del país; d) las obras de conectividad necesarias, con indicación de si son nuevas, de refacción o de ampliación; e) las zonas de desarrollo urbano local y sus necesidades de vivienda, agua, saneamiento, energía, transporte, educación técnica y salud; y f) sus áreas de influencia local y alejada, delimitadas por departamento o partido."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Fuentes y actualización",
+     "texto": "El Mapa se elaborará con fuentes oficiales, entre ellas la clasificación de complejos exportadores del INDEC, el Sistema Integrado Previsional Argentino, el Registro Público de Oferta Local y la cartografía del Instituto Geográfico Nacional. Se actualizará cada año, dentro de los NOVENTA (90) días de publicado el informe anual de complejos exportadores del INDEC, y se publicará completo en formato de datos abiertos y en una versión interactiva de acceso libre."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Consulta",
+     "texto": "Antes de cada actualización, la autoridad de aplicación someterá el proyecto de Mapa a consulta pública por TREINTA (30) días y a las mesas del Capítulo III, y publicará las observaciones recibidas y su respuesta fundada."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Mesas por complejo",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Integración",
+     "texto": "Se constituirá una mesa por cada complejo exportador comprendido en el Mapa, integrada por la autoridad de aplicación, que la preside, las provincias en las que se encuentre su núcleo o su área de influencia y que adhieran a la presente ley, las empresas alcanzadas por el Capítulo IV, las cámaras de proveedores, las organizaciones sindicales con personería en el sector y las universidades nacionales de las regiones involucradas. Sus integrantes actuarán con carácter honorario."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Funciones",
+     "texto": "Cada mesa: a) identificará los rubros con oferta local suficiente, insuficiente o inexistente; b) fijará metas indicativas de compra local por rubro y por plazo; c) propondrá las obras de conectividad y de desarrollo urbano local prioritarias; d) propondrá a la autoridad del régimen de competitividad industrial los eslabones y polos a considerar; y e) acordará con el Programa Nacional de Desarrollo de Proveedores la calificación de proveedores para los rubros con oferta insuficiente. Sus actas, metas y resultados se publicarán."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Plan anual de compras de los grandes exportadores",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Sujetos alcanzados por umbral estadístico",
+     "texto": "Están alcanzadas por este capítulo, en cada complejo exportador, las empresas que, ordenadas de mayor a menor según el valor FOB exportado en el año calendario anterior en ese complejo, acumulen en conjunto el OCHENTA POR CIENTO (80 %) de sus exportaciones. Se excluyen en todos los casos las micro, pequeñas y medianas empresas inscriptas en el registro respectivo. La Agencia de Recaudación y Control Aduanero (ARCA) calculará cada año la nómina con los datos aduaneros, comunicará a cada empresa su inclusión y remitirá la nómina a la autoridad de aplicación, que la publicará sin indicar los montos exportados por cada una."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Obligaciones",
+     "texto": "Las empresas alcanzadas deberán: a) publicar, antes del 30 de junio de cada año, un plan anual de compras para el año siguiente, por rubro y por posición de la Nomenclatura Común del MERCOSUR, con los volúmenes estimados; b) consultar el Registro Público de Oferta Local antes de adjudicar compras de rubros con oferta inscripta, e invitar a cotizar a los proveedores inscriptos; y c) informar cada año sus compras efectivas, desagregadas por origen nacional o importado y por provincia del proveedor. La presente ley no impone porcentajes mínimos de contenido nacional; los proyectos adheridos al Régimen de Incentivo para Grandes Inversiones se rigen, en esa materia, por su ley."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Incumplimiento",
+     "texto": "El incumplimiento de las obligaciones del artículo anterior será sancionado, previo sumario que asegure el derecho de defensa, con: a) apercibimiento; b) multa de hasta el CERO COMA CINCO POR CIENTO (0,5 %) del valor FOB exportado por la empresa en el año anterior, graduada según la gravedad y la reincidencia; y c) suspensión del acceso a nuevos beneficios promocionales nacionales hasta su regularización. Las sanciones firmes se publicarán."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Prioridad de las obras y desarrollo urbano local",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Prioridad de las obras de conectividad",
+     "texto": "Las obras de conectividad identificadas en el Mapa se incorporarán a la cartera única del presupuesto plurianual de infraestructura y a los catálogos públicos de obras de contrapartida de las grandes inversiones, y se ordenarán considerando, además de los criterios vigentes, la cantidad de encadenamientos productivos que destraban y el empleo de las áreas de influencia que alcanzan."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Zonas de desarrollo urbano local",
+     "texto": "La autoridad de la Ley de Ordenamiento Territorial de las Zonas de Crecimiento Previsible evaluará, con la provincia respectiva, si cada zona de desarrollo urbano local identificada en el Mapa constituye una zona de crecimiento previsible, y publicará su conclusión fundada dentro de los NOVENTA (90) días de publicado el Mapa."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Coordinación con otros regímenes",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Desarrollo de proveedores",
+     "texto": "Las metas anuales del Programa Nacional de Desarrollo de Proveedores se fijarán también por complejo exportador y por área de influencia alejada, con prioridad para los rubros que las mesas identifiquen con oferta insuficiente."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Financiamiento de proveedores",
+     "texto": "El Banco de Inversión y Comercio Exterior (BICE) ofrecerá, dentro de sus líneas para proveedores calificados, una línea específica para proveedores de las áreas de influencia alejada que acrediten un contrato o una invitación a cotizar de una empresa alcanzada por el Capítulo IV."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VII – Modificaciones",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Acuerdos con exportadores",
+     "texto": "Sustitúyese el artículo 7° de la Ley N° [—] de Desarrollo de Proveedores y de preferencia pyme en las compras del Estado nacional por el siguiente:\n«Artículo 7°.- La autoridad de aplicación podrá celebrar acuerdos con los vehículos de proyecto único del Régimen de Incentivo para Grandes Inversiones, con las empresas alcanzadas por el plan anual de compras de la Ley de Integración Productiva Federal, con otras empresas demandantes y con cámaras de proveedores para identificar demandas futuras por rubro, compartir especificaciones técnicas y programar la calificación de proveedores. Los acuerdos se publicarán.»"
+    },
+    {
+     "n": 17,
+     "epigrafe": "Criterios de selección de eslabones",
+     "texto": "Sustitúyese el artículo 3° de la Ley N° [—] de Régimen de Competitividad Industrial con Eslabones Prioritarios por el siguiente:\n«Artículo 3°.- Los eslabones prioritarios se seleccionarán según los siguientes criterios: a) encadenamiento con la energía, la minería y el agro; b) contenido tecnológico; c) empleo calificado; d) potencial exportador; e) existencia de ventajas reales del país para ganar escala; y f) encadenamiento con los complejos exportadores y con sus áreas de influencia identificados en el Mapa Federal de Encadenamientos Productivos. La autoridad de aplicación publicará la ponderación de los criterios y el puntaje de cada eslabón evaluado.»"
+    },
+    {
+     "n": 18,
+     "epigrafe": "Polos de referencia",
+     "texto": "Sustitúyese el artículo 5° de la Ley N° [—] de Régimen de Competitividad Industrial con Eslabones Prioritarios por el siguiente:\n«Artículo 5°.- Sin excluir otras localizaciones, son polos de referencia del régimen: el de maquinaria agrícola de Las Parejas, Las Rosas y Armstrong, en la Provincia de Santa Fe, y de Marcos Juárez, en la Provincia de Córdoba; el Parque Industrial Capital de Neuquén; Campana, en la Provincia de Buenos Aires; el Polo Petroquímico de Bahía Blanca; el de biotecnología de Rosario; el de tecnología nuclear y satelital de San Carlos de Bariloche; y los nodos proveedores que identifique el Mapa Federal de Encadenamientos Productivos, entre ellos los del conurbano bonaerense norte, oeste y sur, Rafaela, el Gran Córdoba, el Gran Mendoza y San Miguel de Tucumán.»"
+    },
+    {
+     "n": 19,
+     "epigrafe": "Criterios de prioridad de la infraestructura",
+     "texto": "Incorpórase como inciso g) del artículo 9° de la Ley N° [—] de Presupuesto Plurianual de Infraestructura el siguiente:\n«g) los encadenamientos productivos que la obra destraba y el empleo de las áreas de influencia que alcanza, según el Mapa Federal de Encadenamientos Productivos.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VIII – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 20,
+     "epigrafe": "Adhesión",
+     "texto": "Invítase a las provincias a adherir a la presente ley, a integrar las mesas por complejo y a aplicar el Mapa en sus propios planes de obras y de ordenamiento territorial."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Informe al Congreso",
+     "texto": "La autoridad de aplicación remitirá cada año al Honorable Congreso de la Nación un informe con la evolución, por complejo, del contenido nacional de las compras informadas, de la cantidad de proveedores por provincia, del empleo registrado en las áreas de influencia local y alejada y del avance de las obras de conectividad y de desarrollo urbano local."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Financiamiento",
+     "texto": "Las erogaciones que demande la presente ley se atenderán con los créditos asignados a la autoridad de aplicación y a los organismos intervinientes. La presente ley no crea organismos ni cargos."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su publicación."
+    },
+    {
+     "n": 24,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial. La primera nómina del artículo 9° se calculará con los datos del año calendario anterior al de su vigencia."
+    },
+    {
+     "n": 25,
+     "epigrafe": "Comuníquese",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley de Desarrollo de Proveedores, art. 7",
+  "Ley de Competitividad Industrial, arts. 3 y 5",
+  "Ley de Presupuesto Plurianual de Infraestructura, art. 9"
+ ],
+ "deroga": [],
+ "variantes": null
+}

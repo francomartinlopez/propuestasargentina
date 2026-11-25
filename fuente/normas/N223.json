@@ -1,0 +1,125 @@
+{
+ "id": "N223",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de mediación simplificada y arbitraje para conflictos patrimoniales menores",
+ "sumilla": "Crea, como modalidad de la mediación prejudicial obligatoria de la Ley 26.589, una mediación simplificada, a distancia y de bajo costo para los conflictos patrimoniales menores, gratuita para quien no puede pagarla, y un arbitraje voluntario y rápido ante centros registrados, con laudo en sesenta días.",
+ "cuando": "Fase II (años 2-3): se envía junto con la reforma del Código Procesal Civil y Comercial.",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La Ley N° 26.589 estableció la mediación obligatoria previa a todo proceso judicial y dio buenos resultados. Sin embargo, para los conflictos patrimoniales de menor monto el costo y la demora de la mediación ordinaria y del juicio posterior suelen superar lo que se discute, y muchas personas renuncian a reclamar. El presente proyecto amplía las vías de solución para esos conflictos sin crear organismos nuevos. Establece, dentro del régimen de la Ley N° 26.589, una mediación simplificada, que puede hacerse a distancia, con un plazo máximo de treinta días y honorarios reducidos y fijos, gratuita para quien carece de recursos. Si la mediación no prospera, las partes pueden elegir de común acuerdo un arbitraje simplificado ante centros registrados, con árbitro único, procedimiento oral y laudo en sesenta días, conforme el contrato de arbitraje del Código Civil y Comercial de la Nación. El arbitraje es siempre voluntario: nadie pierde el acceso a la justicia. Las relaciones de consumo conservan su régimen propio. Junto con la oralidad del proceso civil, la reforma busca que una justicia rápida y previsible esté al alcance de los conflictos cotidianos.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y ámbito",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece la mediación simplificada y el arbitraje simplificado para los conflictos patrimoniales menores, como vías de solución complementarias del régimen de mediación prejudicial obligatoria de la Ley N° 26.589, que se aplica en forma supletoria."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Conflicto patrimonial menor",
+     "texto": "A los fines de la presente ley, es conflicto patrimonial menor el reclamo de contenido patrimonial cuyo monto no supere el que fije la reglamentación, que no podrá exceder el equivalente a cincuenta (50) Salarios Mínimos, Vitales y Móviles. Quedan excluidas las materias que el artículo 5° de la Ley N° 26.589 excluye de la mediación prejudicial obligatoria."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Relaciones de consumo",
+     "texto": "Los reclamos derivados de relaciones de consumo continúan rigiéndose por su régimen específico, incluido el de la Ley N° 26.993. El consumidor podrá optar por la mediación simplificada de la presente ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Mediación simplificada",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Modalidad",
+     "texto": "En los conflictos patrimoniales menores, la mediación prejudicial obligatoria prevista en el artículo 1° de la Ley N° 26.589 se cumplirá mediante la mediación simplificada que regula este Capítulo."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Procedimiento",
+     "texto": "La mediación simplificada se realizará preferentemente a distancia, mediante la plataforma que habilite la autoridad de aplicación, con resguardo de la confidencialidad y de la identidad de las partes. Deberá concluir dentro de los treinta (30) días de la primera convocatoria, plazo que las partes podrán prorrogar de común acuerdo por única vez por otros treinta (30) días."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Honorarios y gratuidad",
+     "texto": "Los honorarios del mediador serán reducidos y fijos, según la escala que establezca la autoridad de aplicación para esta modalidad. La mediación será gratuita para la parte que acredite carecer de recursos suficientes, conforme los criterios que fije la reglamentación; en ese caso, la prestará el servicio público de mediación de la autoridad de aplicación o los centros con los que celebre convenios."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Acuerdo",
+     "texto": "El acuerdo instrumentado en la mediación simplificada tendrá los efectos que los artículos 26 y 30 de la Ley N° 26.589 atribuyen al acuerdo de mediación, y su ejecución se regirá por las normas de ejecución de sentencias."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Conclusión sin acuerdo",
+     "texto": "Si la mediación concluye sin acuerdo, el mediador informará a las partes por escrito la posibilidad de someter el conflicto al arbitraje simplificado del Capítulo III o de iniciar el proceso judicial."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Arbitraje simplificado",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Carácter voluntario",
+     "texto": "Las partes de un conflicto patrimonial menor podrán someterlo, de común acuerdo y una vez surgido el conflicto, al arbitraje simplificado ante un centro inscripto en el registro del artículo 12, conforme el contrato de arbitraje regulado en los artículos 1649 a 1665 del Código Civil y Comercial de la Nación. No será válida la cláusula que imponga este arbitraje en un contrato celebrado por adhesión."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Procedimiento",
+     "texto": "El arbitraje simplificado estará a cargo de un árbitro único, se sustanciará en forma oral y preferentemente a distancia, en una audiencia en la que se producirá la prueba, y concluirá con un laudo fundado dentro de los sesenta (60) días de la aceptación del cargo por el árbitro. Salvo pacto expreso en contrario, el árbitro resolverá conforme a derecho."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Laudo",
+     "texto": "El laudo tendrá los efectos de una sentencia y se ejecutará conforme las normas de ejecución de sentencias. Solo podrá impugnarse por la acción de nulidad, salvo que las partes hayan pactado la apelación."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Registro de centros y árbitros",
+     "texto": "La autoridad de aplicación llevará un registro público de centros de arbitraje y de árbitros habilitados para el arbitraje simplificado, fijará los requisitos de idoneidad e independencia y la escala de honorarios reducidos, y publicará cada año la cantidad de casos, su duración y sus resultados."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación de la presente ley la Secretaría de Justicia del Ministerio de Justicia y Seguridad, que lo es de la Ley N° 26.589."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Financiamiento",
+     "texto": "Los honorarios de la mediación y del arbitraje simplificados están a cargo de las partes, conforme las escalas de los artículos 6° y 12. Los gastos que demanden la plataforma a distancia y el servicio gratuito del artículo 6° se atenderán con la reasignación de los créditos de la Secretaría de Justicia que identifique en forma expresa la ley de presupuesto del ejercicio en que la presente entre en vigencia, dentro del límite conjunto de cero coma cero cinco por ciento (0,05 %) del Producto Interno Bruto al cuarto año de mandato previsto para la modernización de la justicia y el juicio por jurados. Si no hubiera créditos identificados, se atenderán con la ley de presupuesto del ejercicio siguiente."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Invitación",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a establecer regímenes equivalentes para los conflictos patrimoniales menores de su competencia."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Vigencia y reglamentación",
+     "texto": "La presente ley entrará en vigencia a los ciento ochenta (180) días de su publicación en el Boletín Oficial. El Poder Ejecutivo nacional la reglamentará dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 26.589 (incorpora la mediación simplificada como modalidad de la mediación prejudicial obligatoria; art. 1 se mantiene)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

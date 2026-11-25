@@ -1,0 +1,36 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Hacienda del Ministerio de Economía",
+    "estado": "existente",
+    "rol": "Cancela los adelantos transitorios pendientes según el cronograma.",
+    "hoy": "Ministerio de Economía",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Mandato único de estabilidad de precios, tope anual a la base monetaria amplia con publicación mensual y directorio con mandatos escalonados."
+  },
+  {
+   "nombre": "Comisión bicameral del Congreso",
+   "rol": "Emite dictamen público, con vista al afectado, antes de toda remoción por mal desempeño."
+  },
+  {
+   "nombre": "Senado de la Nación",
+   "rol": "Presta acuerdo a las designaciones y aprueba la remoción por mayoría absoluta."
+  },
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Recibe el informe anual de cumplimiento y lo examina en las audiencias semestrales."
+  }
+ ]
+}

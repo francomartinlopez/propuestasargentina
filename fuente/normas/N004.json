@@ -1,0 +1,61 @@
+{
+ "id": "N004",
+ "tipo": "resolucion",
+ "titulo": "Comunicación modelo del BCRA: apertura del tramo cambiario transitorio con fecha de cierre fija",
+ "sumilla": "Abre, al comenzar el año 3, el único tramo transitorio del mercado de cambios, con un segmento preferente para las importaciones de bienes de capital e insumos de las nóminas («Decreto de régimen transitorio de acceso preferente a divisas para bienes de capital, repuestos e insumos sin producción local», «Resolución del Ministerio de Economía: nómina pública de insumos productivos sin producción local», «Comunicación modelo del BCRA: acceso a divisas sin cupo y en el día para las importaciones de las nóminas de bienes de capital e insumos») y un segmento libre para las demás operaciones; publica ese mismo día la fecha de cierre, de hasta doce meses y dentro de la fecha máxima de la ley «Ley de libertad de moneda y de indexación en los contratos y de fecha máxima de unificación cambiaria», sin prórroga.",
+ "cuando": "Fase II: al comenzar el año 3 (apertura de la transición cambiaria), una vez vigente la ley «Ley de libertad de moneda y de indexación en los contratos y de fecha máxima de unificación cambiaria».",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (Comunicación «A» del BCRA, dictada por su Directorio).",
+ "motivos": null,
+ "visto": "La Carta Orgánica del Banco Central de la República Argentina, Ley N° 24.144 y sus modificatorias, los artículos 1° y 2° del Decreto N° 260/2002, los artículos 9° y 10 de la Ley N° [—] de libertad de moneda y de indexación en los contratos, el texto ordenado de las normas sobre «Exterior y Cambios» (Comunicación «A» 6844 y complementarias, actualizado por la Comunicación «A» 8481), y",
+ "considerando": [
+  "Que el artículo 1° del Decreto N° 260/2002, en el texto dado por la Ley N° 27.444, establece un mercado libre de cambios, y su artículo 2° deja su reglamentación a esta Institución.",
+  "Que la transición hacia un mercado de cambios libre entre privados requiere un período acotado con reglas diferenciadas según el destino de las divisas, que dé prioridad a la importación de bienes de capital e insumos sin producción local y evite saltos bruscos de precios.",
+  "Que el artículo 9° de la Ley N° [—] autoriza a esta Institución a establecer un único tramo transitorio, cuya fecha de cierre debe publicarse el día de su apertura y no puede exceder de doce (12) meses, y el artículo 10 fija la fecha máxima de unificación del mercado de cambios.",
+  "Que la previsibilidad de la fecha de cierre es condición para que el tramo transitorio no se convierta en un régimen permanente.",
+  "Que la presente se dicta en uso de las facultades conferidas por la Carta Orgánica del Banco Central de la República Argentina, Ley N° 24.144 y sus modificatorias."
+ ],
+ "formula": "A LAS ENTIDADES FINANCIERAS, A LAS CASAS DE CAMBIO: Nos dirigimos a Uds. para comunicarles que esta Institución adoptó la siguiente resolución:",
+ "capitulos": [
+  {
+   "titulo": "Comunicación «A» […] – Ref.: Circular CAMEX 1-[…]. Exterior y Cambios. Tramo transitorio de unificación cambiaria.",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Punto 1 – Apertura",
+     "texto": "Establecer, a partir del [fecha de apertura], un tramo transitorio del mercado de cambios en los términos del artículo 9° de la Ley N° [—], integrado por los segmentos del punto 2."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Punto 2 – Segmentos",
+     "texto": "Disponer que el tramo transitorio se integra por: a) un segmento preferente, en el que se cursan exclusivamente los pagos de importaciones de bienes comprendidos en las nóminas del régimen de acceso preferente establecido por el Decreto N° [—], en las condiciones de la Comunicación «A» […]; y b) un segmento libre, en el que se cursan las demás operaciones admitidas por las normas sobre «Exterior y Cambios», a precios libremente pactados entre las partes, con las restricciones que subsistan conforme al cronograma de la Comunicación «A» […]. El tipo de cambio del segmento preferente es el que resulte del régimen cambiario vigente al día anterior a la apertura, conforme a las normas de esta Institución."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Punto 3 – Fecha de cierre",
+     "texto": "Fijar como fecha de cierre del tramo transitorio el [fecha de cierre], que no excede de doce (12) meses contados desde su apertura ni de la fecha máxima del artículo 10 de la Ley N° [—]. Esta fecha no será prorrogada por esta Institución; solo podrá extenderse si una ley del Congreso de la Nación prorroga la fecha máxima, en los términos de ese artículo."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Punto 4 – Unificación",
+     "texto": "Establecer que, en la fecha de cierre, el segmento preferente se extingue de pleno derecho y todas las operaciones se cursan en el mercado de cambios unificado. Las solicitudes de acceso al segmento preferente presentadas y no cursadas antes de esa fecha se cursan en el mercado unificado."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Punto 5 – Información pública",
+     "texto": "Disponer que esta Institución publique en su sitio oficial, cada día hábil, el volumen operado y el tipo de cambio de cada segmento y, cada mes, el monto cursado en el segmento preferente por posición arancelaria."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Punto 6 – Vigencia",
+     "texto": "Las presentes disposiciones entrarán en vigencia el día de su difusión, que coincide con la fecha de apertura del punto 1."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Texto ordenado de «Exterior y Cambios» del BCRA (Com. A 6844 y modificatorias; Com. A 8481): incorpora el tramo transitorio"
+ ],
+ "deroga": [],
+ "variantes": null
+}

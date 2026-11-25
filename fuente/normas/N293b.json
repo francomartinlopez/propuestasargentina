@@ -1,0 +1,40 @@
+{
+ "id": "N293b",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de conclusión del régimen transitorio del PAMI y constitución del Directorio Ejecutivo Nacional",
+ "sumilla": "Alternativa legislativa a «Decreto de normalización del PAMI: fin de la conducción transitoria y constitución del Directorio Ejecutivo Nacional», para usar solo si la vía del decreto no alcanza: deja sin efecto el régimen transitorio de conducción del INSSJP del Decreto 2/2004 al constituirse el Directorio Ejecutivo Nacional de la Ley 19.032 (texto Ley 25.615) y ordena constituirlo en 270 días.",
+ "cuando": "Fase I · año 1 (directorio constituido antes del 10/12/2028)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Mayoría simple; cámara de origen indistinta. Solo se envía si la vía del decreto «Decreto de normalización del PAMI: fin de la conducción transitoria y constitución del Directorio Ejecutivo Nacional» no alcanza.",
+ "motivos": "El Instituto Nacional de Servicios Sociales para Jubilados y Pensionados atiende a la mayor parte de las personas jubiladas y pensionadas del país. La Ley N° 19.032, según el texto de la Ley N° 25.615, dispone que sea dirigido por un Directorio Ejecutivo Nacional de once miembros, con mayoría de representantes de los beneficiarios, elegidos en forma indirecta, y con representantes de los trabajadores activos y del Estado. Sin embargo, desde el Decreto N° 2/2004 el Instituto se encuentra en una etapa transicional conducida por autoridades que designa el Poder Ejecutivo nacional, y el órgano de gobierno que la ley prevé nunca llegó a constituirse. El Poder Ejecutivo nacional puede constituir ese Directorio por decreto, porque su composición y su modo de designación ya están en la ley. Este proyecto se propone para el caso de que esa vía resulte insuficiente por el rango del Decreto N° 2/2004. Deja sin efecto el régimen transitorio a partir de la constitución del Directorio, limita mientras tanto la conducción a los actos necesarios para la continuidad de las prestaciones y ordena constituir el Directorio en un plazo cierto, con la composición que la ley ya establece. El proyecto no modifica la Ley N° 19.032, no crea organismos ni autoriza gastos: se limita a cerrar una transición de más de dos décadas y a hacer cumplir la ley vigente.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Fin del régimen transitorio",
+     "texto": "Déjase sin efecto el régimen transitorio de conducción del Instituto Nacional de Servicios Sociales para Jubilados y Pensionados establecido por el Decreto N° 2/2004, a partir de la constitución del Directorio Ejecutivo Nacional previsto en el artículo 5° de la Ley N° 19.032, según el texto de la Ley N° 25.615. Desde esa fecha cesan en sus funciones las autoridades de conducción del Instituto designadas por el Poder Ejecutivo nacional. Hasta entonces, esas autoridades solo pueden realizar los actos necesarios para asegurar la continuidad de las prestaciones, llevar a cabo la integración del Directorio y cumplir la administración ordinaria."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Constitución del Directorio Ejecutivo Nacional",
+     "texto": "El Directorio Ejecutivo Nacional del Instituto se constituirá dentro de los DOSCIENTOS SETENTA (270) días de la entrada en vigencia de la presente ley, con la composición y el modo de designación previstos en el artículo 5° de la Ley N° 19.032, y con la elección indirecta de los directores en representación de los beneficiarios en el Consejo Federal de Servicios Sociales previsto en su artículo 15 bis. El Poder Ejecutivo nacional dictará las normas necesarias para su integración."
+    },
+    {
+     "n": 3,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [
+  "Decreto 2/2004 (régimen transitorio de conducción del INSSJP): queda sin efecto al constituirse el Directorio Ejecutivo Nacional"
+ ],
+ "variantes": null
+}

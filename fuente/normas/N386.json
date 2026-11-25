@@ -1,0 +1,138 @@
+{
+ "id": "N386",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de consulta previa, libre e informada a los pueblos indígenas",
+ "sumilla": "Reglamenta los arts. 6 y 15 del Convenio 169 de la OIT con plazos, información en la lengua de la comunidad y asesoramiento técnico independiente. La consulta es vinculante en el procedimiento: sin ella la medida es nula y los acuerdos obligan. Exige consentimiento en traslados y cuando se afecta el agua de consumo.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "El Convenio N° 169 de la Organización Internacional del Trabajo, aprobado por la Ley N° 24.071 y con jerarquía superior a las leyes, obliga al Estado a consultar a los pueblos indígenas, de buena fe y por procedimientos apropiados, cada vez que se prevean medidas susceptibles de afectarlos directamente, y en particular antes de autorizar la prospección o explotación de los recursos existentes en sus tierras. Sin una ley que fije el procedimiento, la consulta se resuelve caso por caso y suele terminar en conflictos judiciales que perjudican tanto a las comunidades como a los proyectos. Este proyecto reglamenta los artículos 6° y 15 del Convenio con plazos ciertos para cada etapa, información completa y en la lengua de la comunidad, y asesoramiento técnico independiente a cargo del proponente. Hace la consulta vinculante en el procedimiento: sin consulta válida la medida es nula, y los acuerdos alcanzados son obligatorios. Si no hay acuerdo, el Estado solo puede decidir por resolución fundada que responda a las objeciones. Se requiere el consentimiento de la comunidad en los traslados y cuando se afectan sus fuentes de agua de consumo. La ley rige para las medidas nacionales e invita a las provincias a adherir, respetando su dominio sobre los recursos naturales. Dar reglas claras a la consulta otorga a los proyectos la licencia social que necesitan para durar.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley reglamenta los artículos 6° y 15 del Convenio N° 169 de la Organización Internacional del Trabajo sobre Pueblos Indígenas y Tribales en Países Independientes, aprobado por la Ley N° 24.071, en lo relativo al derecho de los pueblos y comunidades indígenas a ser consultados en forma previa, libre e informada."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "Deben ser consultadas, antes de su adopción, las medidas legislativas y administrativas del Estado nacional susceptibles de afectar directamente a pueblos o comunidades indígenas, incluidas las autorizaciones, permisos y concesiones de prospección, exploración o explotación de los recursos existentes en sus tierras o que las afecten."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Principios",
+     "texto": "La consulta es previa a la adopción de la medida; libre de presiones, condicionamientos o incentivos indebidos; informada, con información completa, veraz y comprensible; de buena fe; culturalmente adecuada; y se realiza a través de las instituciones representativas que las comunidades designen, con la finalidad de llegar a un acuerdo o lograr el consentimiento acerca de las medidas propuestas."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Sujetos",
+     "texto": "Son sujetos de la consulta los pueblos y comunidades indígenas cuyos derechos o tierras puedan ser afectados directamente por la medida, a través de las instituciones representativas que ellos mismos determinen según sus formas propias de organización."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Organismo responsable y órgano técnico",
+     "texto": "La consulta es conducida por el organismo competente para adoptar la medida. El Instituto Nacional de Asuntos Indígenas (INAI), autoridad de aplicación de la Ley N° 23.302, actúa como órgano técnico: asiste a los organismos y a las comunidades, vela por el cumplimiento de esta ley y lleva el registro público de consultas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Procedimiento y plazos",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Identificación",
+     "texto": "El organismo responsable identifica la medida y las comunidades que pueden ser afectadas, y lo notifica a ellas y al órgano técnico dentro de los quince (15) días hábiles de iniciado el trámite de la medida."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Plan de consulta",
+     "texto": "El organismo responsable y las instituciones representativas de la comunidad acuerdan, dentro de los treinta (30) días hábiles siguientes, el plan de consulta: lugares, lenguas, etapas, plazos dentro de los máximos de esta ley y forma de registro de los acuerdos."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Información",
+     "texto": "El organismo responsable entrega a la comunidad, en su lengua cuando corresponda y en formato accesible, toda la información disponible sobre la medida, sus alcances, sus riesgos y sus alternativas, al menos treinta (30) días hábiles antes de la etapa de evaluación interna."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Información técnica independiente",
+     "texto": "La comunidad tiene derecho a contar con asesoramiento técnico independiente, elegido por ella entre universidades nacionales, organismos científicos públicos o profesionales sin vínculo con el proponente ni con el organismo responsable. Cuando la medida se origine en una solicitud de un particular, el costo de ese asesoramiento está a cargo del proponente, que lo deposita ante el organismo responsable; en los demás casos, a cargo del organismo responsable."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Evaluación interna",
+     "texto": "La comunidad evalúa la medida conforme a sus propias formas de deliberación y decisión durante un plazo no inferior a sesenta (60) días hábiles."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Diálogo y acuerdo",
+     "texto": "Concluida la evaluación interna, el organismo responsable y la comunidad dialogan durante un plazo de hasta noventa (90) días hábiles, prorrogable por acuerdo de partes, con el fin de alcanzar un acuerdo. El resultado se documenta en un acta firmada por ambas partes."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Efectos de la consulta",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Nulidad sin consulta válida",
+     "texto": "Ninguna medida alcanzada por esta ley puede adoptarse sin consulta válida. Los actos dictados sin consulta, o con una consulta que no cumpla los requisitos de esta ley, son nulos de nulidad absoluta."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Acuerdos obligatorios",
+     "texto": "Los acuerdos alcanzados en la consulta son obligatorios para el Estado y, en su caso, para el proponente, y se incorporan como condiciones de la medida o de la autorización. Su incumplimiento habilita la suspensión de la medida o la caducidad de la autorización."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Falta de acuerdo",
+     "texto": "Si, cumplido el procedimiento de buena fe, no se alcanza un acuerdo, el organismo responsable solo puede adoptar la medida por resolución fundada que responda a cada una de las objeciones de la comunidad y establezca las medidas de resguardo de sus derechos, salvo en los casos del artículo siguiente."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Consentimiento obligatorio",
+     "texto": "Se requiere el consentimiento previo, libre e informado de la comunidad, sin el cual la medida no puede adoptarse: a) cuando la medida implique el traslado o la reubicación de la comunidad, en los términos del artículo 16 del Convenio N° 169 de la Organización Internacional del Trabajo, aprobado por la Ley N° 24.071; b) cuando la medida afecte las fuentes de agua de consumo de la comunidad."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Registro público de consultas",
+     "texto": "El órgano técnico lleva un registro público, en formato de datos abiertos, de las consultas realizadas, sus etapas, la información entregada, las actas y los acuerdos, con resguardo de la información que la comunidad declare culturalmente reservada."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Provincias",
+     "texto": "Se invita a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a la presente ley respecto de las medidas de su competencia, respetando el dominio provincial de los recursos naturales."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos del órgano técnico y del registro se atienden con los créditos del presupuesto vigente de la jurisdicción del INAI, sin incremento del gasto total. Los gastos de cada consulta están a cargo del presupuesto del organismo responsable o, en lo previsto en el artículo 9°, del proponente."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los noventa (90) días de su publicación. La falta de reglamentación no impide su aplicación."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

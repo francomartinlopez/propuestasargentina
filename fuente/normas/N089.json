@@ -1,0 +1,181 @@
+{
+ "id": "N089",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de banca pública para el crédito productivo y de garantías",
+ "sumilla": "Reforma la Carta Orgánica del Banco Nación: mandato de crédito productivo de largo plazo a pymes, directorio por concurso, publicación trimestral de cartera y prohibición de créditos a funcionarios; lo mantiene autárquico, deroga el Decreto 116/2025 y lo excluye del art. 48 del DNU 70/2023. Fija reglas de riesgo y una capitalización acotada del FoGAr, protegido del art. 5 de la Ley 27.742, y reglas de solvencia para las SGR.",
+ "cuando": "Fase II (años 2-3); el aporte al FoGAr se activa con el presupuesto del ejercicio siguiente a la sanción",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "El crédito al sector privado en la Argentina es bajo en relación con el producto, y las pequeñas y medianas empresas que quieren invertir encuentran plazos cortos y tasas altas. La banca pública puede sostener el crédito productivo de largo plazo si se la gobierna con reglas estables. Este proyecto fija por ley al Banco de la Nación Argentina el mandato de prestar a largo plazo a las pequeñas y medianas empresas, con sus propios recursos y con análisis de riesgo. Su conducción se designará por concurso público, publicará cada trimestre su cartera por sector, tamaño de empresa y provincia, y no podrá prestar a sus directivos ni a los funcionarios superiores del Estado. El Banco sigue siendo una entidad pública autárquica: se deroga el Decreto N° 116/2025, que dispuso su transformación en sociedad anónima, y se lo excluye de la transformación general prevista en el artículo 48 del Decreto N° 70/2023. El proyecto también ordena el Fondo de Garantías Argentino con reglas de riesgo y prioridad para los créditos de inversión, prevé un aporte de capital acotado, financiado con reasignación de partidas del presupuesto, y lo protege de su disolución por vía reglamentaria. Las sociedades de garantía recíproca tendrán reglas de solvencia y el respaldo del Fondo.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley fija el mandato y el régimen de gobierno y transparencia del Banco de la Nación Argentina, mantiene su carácter de entidad financiera pública autárquica, y establece reglas de riesgo y de capitalización para el Fondo de Garantías Argentino (FoGAr) y reglas de solvencia para las sociedades de garantía recíproca, con el fin de expandir el crédito productivo de largo plazo a las micro, pequeñas y medianas empresas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Banco de la Nación Argentina: naturaleza y mandato",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Naturaleza jurídica",
+     "texto": "El Banco de la Nación Argentina es una entidad financiera pública autárquica del Estado nacional, que se rige por su Carta Orgánica aprobada por la Ley N° 21.799, por la presente ley y por la Ley de Entidades Financieras N° 21.526. Su transformación en sociedad de cualquier tipo, su fusión, su escisión o la enajenación total o parcial de su patrimonio o de su capital solo podrán disponerse por ley."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Exclusión del régimen de transformación",
+     "texto": "El Banco de la Nación Argentina queda excluido de lo dispuesto por el artículo 48 del Decreto N° 70/2023."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Derogación del Decreto N° 116/2025",
+     "texto": "Derógase el Decreto N° 116/2025. Quedan sin efecto los actos dictados en su ejecución. Si a la entrada en vigencia de la presente ley se hubiera inscripto la transformación del Banco en sociedad anónima, la sociedad se transformará de pleno derecho en la entidad autárquica regida por la Ley N° 21.799, que la continuará en todos sus derechos y obligaciones, y recobrarán vigencia las disposiciones de esa ley que se hubieran derogado como consecuencia de la transformación, con excepción del artículo 2°, derogado por el Decreto N° 70/2023."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Mandato",
+     "texto": "El Banco de la Nación Argentina tiene como objetivo principal el otorgamiento de crédito productivo de largo plazo a las micro, pequeñas y medianas empresas de todo el país, para inversión en bienes de capital, infraestructura productiva, innovación y capital de trabajo asociado a esa inversión. Las demás operaciones que autoriza su Carta Orgánica se desarrollarán en cuanto sean compatibles con ese objetivo. El Directorio fijará cada año metas de participación del crédito productivo de largo plazo en la cartera total y las publicará junto con su grado de cumplimiento."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Criterios de otorgamiento",
+     "texto": "El Banco otorgará sus créditos con sus propios recursos, conforme a un análisis de riesgo crediticio basado en la capacidad de repago y en las garantías, y a condiciones generales publicadas para cada línea. Ninguna autoridad ajena al Banco podrá instruir el otorgamiento de un crédito a una persona determinada."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Gobierno del Banco",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Designación por concurso",
+     "texto": "El Presidente, el Vicepresidente y los Directores del Banco de la Nación Argentina serán designados por el Poder Ejecutivo nacional entre los integrantes de las ternas que resulten de un concurso público de antecedentes y oposición, conducido por un jurado de reconocida idoneidad en materia bancaria y financiera e integrado por personas ajenas a la administración del Banco. La convocatoria, el reglamento del concurso, la integración del jurado, los antecedentes de los postulantes y el orden de mérito fundado se publicarán en el Boletín Oficial y en el sitio oficial del Banco."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Requisitos e incompatibilidades",
+     "texto": "Los integrantes del Directorio deberán acreditar idoneidad y experiencia en materia bancaria, financiera o de evaluación de proyectos de inversión. No podrán serlo quienes en los DOS (2) años anteriores hayan ocupado cargos electivos o de conducción en partidos políticos, ni quienes tengan participación en entidades financieras privadas o mantengan con el Banco deudas en situación irregular. Rigen, además, las inhabilidades e incompatibilidades del artículo 13 de la Carta Orgánica."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Duración y remoción",
+     "texto": "Los integrantes del Directorio durarán en sus funciones el plazo que establecen los artículos 10 y 12 de la Carta Orgánica y solo podrán ser removidos por el Poder Ejecutivo nacional, por decreto fundado, por mal desempeño, incumplimiento grave de la presente ley o de la Carta Orgánica, condena por delito doloso o inhabilidad sobreviniente."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Prohibición de créditos a funcionarios",
+     "texto": "El Banco de la Nación Argentina no podrá otorgar créditos, garantías ni ninguna otra forma de financiación a:\na) los integrantes de su Directorio, sus síndicos y sus gerentes;\nb) el Presidente y el Vicepresidente de la Nación, los ministros, secretarios y subsecretarios del Poder Ejecutivo nacional, los legisladores nacionales, los magistrados del Poder Judicial y del Ministerio Público de la Nación, y los titulares de organismos descentralizados, entes y empresas del sector público nacional;\nc) los cónyuges o convivientes de las personas de los incisos a) y b), y las personas jurídicas que ellas controlen.\nLa prohibición rige mientras dure el cargo y hasta UN (1) año después de su cese. Se exceptúan los créditos de las líneas generales para vivienda única y los préstamos personales y tarjetas de crédito en idénticas condiciones que las ofrecidas al público, que se informarán al órgano de control del Banco y se publicarán en forma agregada cada año. El crédito otorgado en violación de este artículo hará responsables en forma personal y solidaria a quienes lo aprobaron."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Transparencia y control",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Publicación trimestral de la cartera",
+     "texto": "El Banco publicará cada trimestre, en formato abierto y dentro de los CUARENTA Y CINCO (45) días de su cierre, la composición de su cartera de préstamos por sector de actividad, tamaño de empresa, provincia, plazo y tasa, y su morosidad con la misma apertura, con resguardo del secreto de las operaciones previsto en la Ley N° 21.526."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Informe anual y control",
+     "texto": "El Directorio presentará cada año al Honorable Congreso de la Nación un informe sobre el cumplimiento del mandato del artículo 5°, que incluirá los estados contables auditados por auditor externo independiente. El Banco está sujeto al control de la Autoridad Nacional de Control y Transparencia y a la supervisión del Banco Central de la República Argentina (BCRA) en los términos de la Ley N° 21.526."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Fondo de Garantías Argentino (FoGAr)",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Prioridad",
+     "texto": "El Fondo de Garantías Argentino (FoGAr), regido por el Capítulo II (artículos 8° a 15) de la Ley N° 25.300, con la denominación dada por el artículo 8° de la Ley N° 27.444, dará prioridad en la asignación de su capacidad de garantía a los créditos de inversión productiva de las micro, pequeñas y medianas empresas, en forma directa o mediante el reafianzamiento de las garantías que otorguen las sociedades de garantía recíproca. Publicará cada trimestre la proporción de sus garantías destinada a esos créditos."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Reglas de riesgo",
+     "texto": "El FoGAr operará con las siguientes reglas, que la reglamentación cuantificará y publicará:\na) una relación máxima entre las garantías vigentes y su patrimonio neto;\nb) límites de concentración por beneficiario, por sociedad de garantía recíproca, por entidad acreedora y por sector;\nc) previsiones por riesgo de incobrabilidad constituidas sobre la pérdida esperada de su cartera;\nd) comisiones que reflejen el riesgo de cada garantía; y\ne) inversión de su liquidez en instrumentos de bajo riesgo y alta liquidez.\nEl FoGAr no podrá otorgar nuevas garantías mientras exceda la relación del inciso a)."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Capitalización",
+     "texto": "El Tesoro nacional efectuará un aporte de capital al FoGAr por el monto que fije la ley de presupuesto del ejercicio siguiente al de la sanción de la presente ley, que se financiará con la reasignación de créditos dentro del total de gastos de ese presupuesto, sin incremento de su monto total. El aporte se integrará en DOS (2) tramos semestrales; el segundo, solo si el FoGAr acredita el cumplimiento de las reglas del artículo 14. El aporte no podrá financiarse con asistencia del BCRA."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Protección del Fondo",
+     "texto": "El FoGAr queda expresamente excluido de la facultad de disolver o modificar fondos fiduciarios prevista en el artículo 5° de la Ley N° 27.742 y de cualquier otra facultad delegada o reglamentaria de igual alcance. Su disolución o el cambio de su destino solo podrán disponerse por ley."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Publicidad y control del Fondo",
+     "texto": "El fiduciario del FoGAr publicará cada trimestre su patrimonio, las garantías otorgadas, vigentes, honradas y recuperadas, la relación del inciso a) del artículo 14 y las previsiones constituidas. El FoGAr está sujeto al control de la Autoridad Nacional de Control y Transparencia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Sociedades de garantía recíproca",
+   "articulos": [
+    {
+     "n": 18,
+     "epigrafe": "Reglas de solvencia",
+     "texto": "La autoridad de aplicación del régimen de sociedades de garantía recíproca del Título II de la Ley N° 24.467 establecerá y publicará reglas de solvencia para esas sociedades, que comprenderán, como mínimo: a) una relación máxima entre las garantías vigentes y el fondo de riesgo disponible; b) límites de concentración por socio partícipe y por acreedor; c) previsiones por incobrabilidad; y d) la publicación trimestral de su situación. Sin perjuicio de ello, las sociedades inscriptas en los registros del BCRA cumplirán las normas que este dicte."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Respaldo del FoGAr",
+     "texto": "El FoGAr podrá reafianzar las garantías otorgadas por las sociedades de garantía recíproca que cumplan las reglas del artículo 18, con prioridad para las que respalden créditos de inversión de largo plazo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VII – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 20,
+     "epigrafe": "Invitación a las provincias",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adoptar para sus bancos públicos las reglas de gobierno y transparencia de los artículos 7° a 12 de la presente ley."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Carta Orgánica",
+     "texto": "Las disposiciones de los Capítulos II, III y IV de la presente ley integran la Carta Orgánica del Banco de la Nación Argentina y prevalecen sobre las de la Ley N° 21.799 que se les opongan, en particular sobre sus artículos 3° (objeto), 10 y 12 (designación del Presidente, del Vicepresidente y de los Directores) y 13 (inhabilidades). El Poder Ejecutivo nacional aprobará su texto ordenado dentro de los CIENTO OCHENTA (180) días de la publicación de la presente ley."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Transición",
+     "texto": "Los integrantes del Directorio en funciones a la entrada en vigencia de la presente ley continuarán en sus cargos hasta la designación de sus reemplazantes conforme al artículo 7°. El primer concurso se convocará dentro de los NOVENTA (90) días de publicada la reglamentación. La prohibición del artículo 10 rige desde la entrada en vigencia de la presente ley y no afecta los créditos otorgados antes, que se informarán al órgano de control del Banco."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su publicación."
+    },
+    {
+     "n": 24,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 21.799 (Carta Orgánica del BNA): objeto (art. 3°), Directorio (arts. 9° a 13) y transparencia (disposiciones que integran la Carta Orgánica y prevalecen sobre esos artículos, art. 21)",
+  "Ley 25.300, Capítulo II, arts. 8 a 15 (FoGAr, denominación según art. 8 de la Ley 27.444: prioridad, reglas de riesgo, capitalización y protección)",
+  "Ley 24.467, Título II (reglas de solvencia de las SGR)",
+  "DNU 70/2023, art. 48 (exclusión del BNA)",
+  "Ley 27.742, art. 5 (exclusión del FoGAr)"
+ ],
+ "deroga": [
+  "Decreto 116/2025"
+ ],
+ "variantes": null
+}

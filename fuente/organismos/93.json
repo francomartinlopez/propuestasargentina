@@ -1,0 +1,106 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Inteligencia de Estado",
+    "estado": "modificado",
+    "rol": "Da acceso irrestricto a sus archivos sin oponer el carácter encubierto.",
+    "hoy": "Secretaría de Inteligencia de Estado (Presidencia de la Nación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Defensa",
+    "estado": "modificado",
+    "rol": "Da acceso a los archivos de las Fuerzas Armadas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Da acceso a los archivos de las fuerzas federales de seguridad. Inventaría y abre los archivos de las fuerzas policiales y de seguridad federales. Inventaría archivos a su cargo y tramita con prioridad la protección de testigos (Ley 25.764).",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": []
+   },
+   {
+    "nombre": "Programa de protección de testigos",
+    "estado": "modificado",
+    "rol": "Protege a quienes declaren ante la Comisión.",
+    "hoy": "Programa de la Ley 25.764 (órbita ministerial a verificar)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio Público Fiscal",
+    "estado": "modificado",
+    "rol": "Recibe las pruebas remitidas por la Comisión.",
+    "hoy": "Procuración General de la Nación",
+    "hijos": []
+   },
+   {
+    "nombre": "Sociedad civil y academia",
+    "estado": "modificado",
+    "rol": "Integran el jurado del concurso.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Organismo nacional de inteligencia",
+    "estado": "modificado",
+    "rol": "Da acceso irrestricto a sus archivos sin oponer el carácter encubierto.",
+    "hoy": "Secretaría de Inteligencia de Estado (Presidencia de la Nación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio del área de defensa",
+    "estado": "modificado",
+    "rol": "Da acceso a los archivos de las Fuerzas Armadas.",
+    "hoy": "Ministerio de Defensa",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio del área de seguridad",
+    "estado": "modificado",
+    "rol": "Da acceso a los archivos de las fuerzas federales de seguridad.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": []
+   },
+   {
+    "nombre": "Enlace institucional",
+    "estado": "modificado",
+    "rol": "Recibe requerimientos de la Comisión y coordina respuestas y acceso a archivos.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Inteligencia de Estado de la Presidencia de la Nación",
+    "estado": "modificado",
+    "rol": "Da acceso pleno a sus archivos sin oponer el carácter encubierto.",
+    "hoy": "Secretaría de Inteligencia de Estado (SIDE), Presidencia de la Nación",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comisión de la verdad independiente",
+   "rol": "Investiga la violencia estatal 1983-2026, publica informes y remite pruebas a la Justicia."
+  },
+  {
+   "nombre": "Comisión bicameral",
+   "rol": "Propone a los miembros entre el orden de mérito del concurso."
+  },
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Presta el acuerdo de dos tercios y aloja la partida propia de la Comisión."
+  },
+  {
+   "nombre": "Defensoría del Pueblo",
+   "rol": "Integra el jurado del concurso."
+  }
+ ]
+}

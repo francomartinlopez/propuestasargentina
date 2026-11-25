@@ -1,0 +1,73 @@
+{
+ "id": "N421",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de eliminación de las jubilaciones de privilegio",
+ "sumilla": "Deroga los regímenes previsionales especiales de magistrados y funcionarios judiciales, del Poder Ejecutivo y del Servicio Exterior (Leyes 24.018 y 22.731): quienes ingresen desde la vigencia se jubilan por el régimen general de la Ley 24.241, como cualquier trabajador. Respeta los beneficios ya otorgados e invita a renunciar a ellos.",
+ "cuando": "Fase I · año 1 (envío en los Días 61-100)",
+ "cuando_breve": "Fase II, tras la consulta",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "Mientras la mayoría de los trabajadores se jubila con las reglas del régimen general, un grupo de altos funcionarios, magistrados y diplomáticos lo hace con regímenes propios, con haberes calculados sobre sus últimos sueldos y requisitos más favorables. El presente proyecto deroga esos regímenes para quienes ingresen a esas funciones desde su vigencia, que se jubilarán con la Ley N° 24.241 como cualquier otra persona, con sus aportes y sus topes. Respeta, por el principio de irretroactividad, los beneficios ya otorgados y los derechos de quienes reúnan los requisitos a la fecha de la ley, e invita a los actuales beneficiarios a renunciar a ellos voluntariamente.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Derogación",
+     "texto": "Deróganse los regímenes previsionales especiales de la Ley N° 24.018 y de la Ley N° 22.731, y toda otra norma que establezca asignaciones vitalicias o jubilaciones especiales para quienes ejerzan cargos en los poderes del Estado nacional o en el Servicio Exterior de la Nación, con el alcance de los artículos siguientes."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Régimen común",
+     "texto": "Las personas que a partir de la vigencia de la presente ley ingresen a los cargos y funciones comprendidos en los regímenes derogados quedarán sujetas, a todos los efectos previsionales, al régimen general de la Ley N° 24.241 y sus modificatorias, con los mismos requisitos de edad y de servicios con aportes, la misma forma de cálculo del haber y los mismos topes que cualquier otro trabajador."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Derechos adquiridos",
+     "texto": "Los beneficios otorgados antes de la vigencia de la presente ley, y los de quienes a esa fecha reúnan todos los requisitos para obtenerlos, se rigen por las normas vigentes al momento de reunirlos."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Renuncia voluntaria",
+     "texto": "Invítase a los actuales beneficiarios de los regímenes derogados a renunciar a ellos y a pasar al régimen general, con el cómputo de los servicios y aportes acreditados."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Aportes",
+     "texto": "Los aportes personales y las contribuciones especiales que se hayan ingresado para financiar los regímenes derogados se computarán en el régimen general, conforme la reglamentación."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Regímenes diferenciales por tarea",
+     "texto": "La presente ley no modifica los regímenes diferenciales fundados en la naturaleza de la tarea, como los de la docencia y la investigación científica, que se revisarán en la ley de reforma del sistema previsional."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Invitación",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a eliminar los regímenes equivalentes de sus funcionarios y magistrados."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.241 (alcance a los cargos de los regímenes derogados)"
+ ],
+ "deroga": [
+  "Ley 24.018 (regímenes especiales, con resguardo de derechos adquiridos)",
+  "Ley 22.731 (régimen previsional del Servicio Exterior, con resguardo de derechos adquiridos)"
+ ],
+ "variantes": null
+}

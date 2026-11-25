@@ -1,0 +1,172 @@
+{
+ "id": "N075",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de régimen de competitividad industrial con eslabones prioritarios",
+ "sumilla": "Crea un régimen de apoyo de transición a los eslabones industriales de mayor densidad tecnológica, elegidos con criterios públicos y con una primera lista por ley; ata cada apoyo a metas de empleo formal, inversión y compra nacional con plazo, prevé evaluación independiente con universidades de cada región y cierre de los programas que no cumplen, asigna la ejecución a la Secretaría de Producción y Comercio del Ministerio de Economía, al Instituto Nacional de Tecnología Industrial (INTI) y a la Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Agencia I+D+i), y reemplaza el bono fiscal para bienes de capital del Decreto 379/2001.",
+ "cuando": "Fase II (bases legales, años 2-3); despliegue pleno en la Fase III (año 4); el costo fiscal se activa con el presupuesto del ejercicio siguiente al de su vigencia",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple. Cámara de origen: Diputados (beneficio tributario que reemplaza el bono fiscal, art. 52 CN).",
+ "motivos": "El empleo industrial registrado cayó de 1,27 millones de personas en 2013 a 1,11 millones en junio de 2026, según los datos oficiales de datos.gob.ar. La energía, la minería y el agro crecen, pero compran afuera buena parte del equipo con que crecen, mientras la industria que podría abastecerlos se contrae. La industria es la que absorbe empleo masivo y calificado: sin un eslabón industrial que enganche con los sectores exportadores, el crecimiento no llega al empleo ni a las regiones. El proyecto propone una reindustrialización selectiva. No se trata de proteger todo, sino de elegir, con criterios públicos, los eslabones de mayor densidad tecnológica en los que el país puede ganar escala: maquinaria agrícola, bienes de capital para petróleo, gas y minería, química ligada al gas, biotecnología y tecnología nuclear y satelital. Los apoyos son de transición: tienen plazo, se otorgan a cambio de metas de empleo formal, inversión y compra nacional, se pierden en proporción al incumplimiento y se renuevan solo si una evaluación independiente, a cargo de universidades nacionales de cada región, demuestra resultados. El régimen reemplaza al bono fiscal para fabricantes de bienes de capital del Decreto N° 379/2001, sin sumar costo fiscal: el beneficio queda dentro de un cupo anual que no supera el de ese bono. Asigna al Instituto Nacional de Tecnología Industrial la certificación, que hoy no figura entre sus funciones legales.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y autoridad de aplicación",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Créase el Régimen de Competitividad Industrial con Eslabones Prioritarios, que tiene por objeto apoyar, en forma transitoria y condicionada a resultados, a los eslabones industriales de mayor densidad tecnológica encadenados con la energía, la minería y el agro, para que el crecimiento genere empleo formal. Los apoyos tienen plazo y se otorgan a cambio de metas de empleo formal, inversión y compra nacional."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación de la presente ley la Secretaría de Producción y Comercio del Ministerio de Economía."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Eslabones prioritarios",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Criterios públicos de selección",
+     "texto": "Los eslabones prioritarios se seleccionarán según los siguientes criterios: a) encadenamiento con la energía, la minería y el agro; b) contenido tecnológico; c) empleo calificado; d) potencial exportador; y e) existencia de ventajas reales del país para ganar escala. La autoridad de aplicación publicará la ponderación de los criterios y el puntaje de cada eslabón evaluado."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Primera lista",
+     "texto": "Son eslabones prioritarios desde la entrada en vigencia de la presente ley: a) maquinaria agrícola; b) bienes de capital y servicios para petróleo, gas y minería, incluidos los tubos sin costura y la siderurgia para la energía; c) química y petroquímica ligadas al gas; d) biotecnología; y e) tecnología nuclear y satelital."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Polos de referencia",
+     "texto": "Sin excluir otras localizaciones, son polos de referencia del régimen: el de maquinaria agrícola de Las Parejas, Las Rosas y Armstrong, en la Provincia de Santa Fe, y de Marcos Juárez, en la Provincia de Córdoba; el Parque Industrial Capital de Neuquén; Campana, en la Provincia de Buenos Aires; el Polo Petroquímico de Bahía Blanca; el de biotecnología de Rosario; y el de tecnología nuclear y satelital de San Carlos de Bariloche."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Revisión de la lista",
+     "texto": "La autoridad de aplicación podrá incorporar o excluir eslabones cada DOS (2) años, por resolución fundada en los criterios del artículo 3°, previa consulta pública por TREINTA (30) días. La exclusión de un eslabón no afecta las actas vigentes hasta su vencimiento."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Apoyos y contrapartidas",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Instrumentos",
+     "texto": "Las empresas de los eslabones prioritarios que suscriban un acta de compromiso podrán acceder a: a) un bono de crédito fiscal por las ventas de bienes de capital y demás bienes de producción nacional de su eslabón, en un porcentaje que fije la reglamentación, que no podrá superar el vigente para el bono del Decreto N° 379/2001 al tiempo de su vencimiento o derogación; b) asistencia técnica y certificación del Instituto Nacional de Tecnología Industrial (INTI); c) financiamiento de proyectos de innovación por la Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Agencia I+D+i), con sus instrumentos; y d) prioridad en el Programa Nacional de Desarrollo de Proveedores de la Ley N° [—]. El bono será nominativo, transferible por única vez y aplicable al pago de impuestos nacionales, conforme a la reglamentación."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Programas sectoriales",
+     "texto": "Para cada eslabón la autoridad de aplicación aprobará un programa sectorial, con sus metas agregadas, sus instrumentos y un plazo máximo de CUATRO (4) años. Vencido el plazo, el programa caduca de pleno derecho, salvo su renovación conforme al artículo 15."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Acta de compromiso",
+     "texto": "Cada empresa beneficiaria suscribirá un acta con metas verificables y su cronograma anual de: a) empleo formal, en puestos de trabajo registrados; b) inversión, en monto; y c) compra nacional, en proporción de sus compras a proveedores inscriptos en el registro público de oferta local previsto en el artículo 176 quinquies de la Ley N° 27.742, incorporado por la Ley N° [—]. Cuando el sector esté alcanzado también por aranceles de transición conforme a la Ley N° [—], las metas sectoriales se fijarán en una sola acta."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Verificación",
+     "texto": "La autoridad de aplicación verificará cada año el cumplimiento de las actas con la información del Sistema Integrado Previsional Argentino y de la Agencia de Recaudación y Control Aduanero (ARCA), y con la certificación del INTI sobre la compra nacional y los requisitos técnicos. Los resultados se publicarán por empresa."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Incumplimiento",
+     "texto": "El incumplimiento de las metas acarreará la pérdida del bono del período en proporción al incumplimiento y la devolución de lo percibido en esa proporción, con sus intereses. La falsedad de la información suministrada acarreará la pérdida total de los beneficios, la devolución de lo percibido y la exclusión del régimen por CINCO (5) años."
+    },
+    {
+     "n": 12,
+     "epigrafe": "No superposición",
+     "texto": "Un mismo bien, venta o inversión no podrá recibir el bono de la presente ley y beneficios del Régimen de Incentivo para Grandes Inversiones o de otro régimen de promoción por el mismo concepto. La autoridad de aplicación coordinará los programas sectoriales con el Programa Nacional de Desarrollo de Proveedores y con las actas de los sectores con aranceles de transición."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Evaluación independiente y cierre",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Evaluación independiente",
+     "texto": "Cada programa sectorial será evaluado en forma independiente por universidades nacionales de la región de sus polos, mediante convenio, a la mitad y al final de su plazo. La evaluación medirá, al menos, el empleo registrado, la inversión, la compra nacional, las exportaciones de manufacturas del eslabón y el costo fiscal por puesto de trabajo creado, y se publicará completa."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Cierre",
+     "texto": "Los programas cuya evaluación sea desfavorable o cuyas metas agregadas no se cumplan en DOS (2) períodos consecutivos serán cerrados por resolución fundada de la autoridad de aplicación, que se publicará. Desde el cierre no se admitirán nuevas actas, y las vigentes concluirán al término del período en curso."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Renovación",
+     "texto": "Un programa solo podrá renovarse, por un plazo de hasta CUATRO (4) años, si su evaluación final es favorable, por resolución fundada que se publicará con esa evaluación."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Publicidad",
+     "texto": "La autoridad de aplicación publicará en formato de datos abiertos los eslabones, los programas, las empresas beneficiarias, los montos de bono otorgados, las metas, su cumplimiento, las pérdidas aplicadas y las evaluaciones."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Ejecución",
+   "articulos": [
+    {
+     "n": 17,
+     "epigrafe": "Funciones",
+     "texto": "La ejecución del régimen se distribuye así: a) la autoridad de aplicación selecciona los eslabones, aprueba los programas, fija las metas, suscribe y verifica las actas, aplica las pérdidas y cierra los programas; b) el INTI presta asistencia técnica a las empresas beneficiarias y certifica su capacidad técnica y la compra nacional; y c) la Agencia I+D+i financia los proyectos de innovación de las empresas del régimen, con los créditos de su presupuesto."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Funciones del INTI",
+     "texto": "Incorpórase como último inciso del artículo 2° del Decreto-Ley N° 17.138/57 el siguiente:\n«Certificar la capacidad técnica de los proveedores y el cumplimiento de los requisitos técnicos y de contenido o compra nacional en los regímenes de promoción que le asignen las leyes, y prestar asistencia técnica a sus beneficiarios.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Reemplazo del bono para bienes de capital, financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 19,
+     "epigrafe": "Reemplazo del bono",
+     "texto": "Derógase el Decreto N° 379/2001 y sus modificatorias. Las ventas facturadas antes de la entrada en vigencia de la presente ley conservan el derecho al bono conforme a ese régimen. Si el régimen del Decreto N° 379/2001 hubiera vencido sin prórroga, el presente lo sucede."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Cupo fiscal y financiamiento",
+     "texto": "El bono de crédito fiscal se otorgará dentro del cupo anual que fije cada ley de presupuesto, que no podrá superar, en proporción del producto interno bruto, el costo fiscal del bono del Decreto N° 379/2001 en su último año completo de vigencia. El gasto se activa con la ley de presupuesto del ejercicio siguiente al de la entrada en vigencia de la presente ley. Las erogaciones de la evaluación y de la certificación se atenderán con los créditos asignados a la autoridad de aplicación y al INTI, mediante la reasignación de partidas que disponga el Jefe de Gabinete de Ministros, sin incremento del gasto total."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Informe al Congreso",
+     "texto": "La autoridad de aplicación remitirá cada año al Honorable Congreso de la Nación un informe con el empleo industrial registrado, cuya meta es recuperar el nivel de 2013, la participación de las manufacturas industriales en las exportaciones, el cupo utilizado y los resultados de cada programa."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su publicación."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial. Los instrumentos del artículo 7° se aplicarán desde la entrada en vigencia de su reglamentación."
+    },
+    {
+     "n": 24,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto-Ley 17.138/57 (INTI), art. 2: se incorpora la función de certificación y asistencia técnica en regímenes de promoción"
+ ],
+ "deroga": [
+  "Decreto 379/2001 y sus modificatorias (bono fiscal para fabricantes de bienes de capital), con salvaguarda de los derechos por ventas anteriores"
+ ],
+ "variantes": null
+}

@@ -1,0 +1,65 @@
+{
+ "id": "N376",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de reforma de la Ley N° 15.262 de simultaneidad electoral: sin lemas, acoples ni colectoras",
+ "sumilla": "Solo pueden celebrar sus elecciones junto con las nacionales las provincias y la Ciudad Autónoma de Buenos Aires cuya legislación no admita lemas o doble voto simultáneo, acoples ni listas colectoras; define esos sistemas y fija la verificación por la Dirección Nacional Electoral al recibir la comunicación de simultaneidad. Se aplica desde la primera elección nacional posterior a doce meses de su sanción.",
+ "cuando": "Fase II (años 2-3): se envía al comenzar la Fase II, junto con la convocatoria al acuerdo federal; por la cláusula de estabilidad de «Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista», rige para la elección nacional de 2031 si se sanciona antes de que falten doce meses.",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría absoluta de la totalidad de los miembros de cada Cámara (art. 77 CN, régimen electoral); cámara de origen indistinta.",
+ "motivos": "La Ley N° 15.262 permite a las provincias celebrar sus elecciones en forma simultánea con las nacionales, con el Registro Nacional de Electores, y así reducir costos y simplificar el voto. Ese beneficio, que ofrece la Nación, debe acompañar un estándar común de transparencia. La ley de lemas, los acoples y las listas colectoras suman votos de candidaturas rivales, multiplican las boletas y hacen que el elector no sepa a quién termina eligiendo. Cuando una provincia vota el mismo día que la Nación con esos sistemas, la elección nacional comparte el cuarto oscuro, la logística y la confusión. Este proyecto no impone reglas electorales a las provincias, que conservan la potestad de dictarlas conforme a los artículos 5°, 122 y 123 de la Constitución Nacional: establece una condición para acceder a la simultaneidad. Solo pueden votar junto con la elección nacional las jurisdicciones cuya legislación no admita lemas, acoples ni colectoras, que el proyecto define con precisión. La Dirección Nacional Electoral verifica el cumplimiento al recibir la comunicación de cada provincia. Conforme a la cláusula de estabilidad del régimen electoral, se aplica a partir de la primera elección nacional que se celebre una vez transcurridos doce meses de su sanción, lo que da tiempo a las provincias para adecuar su legislación en el marco del acuerdo federal de reglas electorales limpias.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley condiciona la celebración simultánea de elecciones provinciales y municipales con las elecciones nacionales, prevista en la Ley N° 15.262, a que la legislación electoral de la jurisdicción no admita sistemas de lemas o de doble voto simultáneo, acoples ni listas colectoras."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Condición de la simultaneidad",
+     "texto": "Sustitúyese el artículo 1° de la Ley N° 15.262 por el siguiente: «Artículo 1°.- Las provincias y la Ciudad Autónoma de Buenos Aires, cuando hayan adoptado o adopten en el futuro el Registro Nacional de Electores, podrán realizar sus elecciones provinciales y municipales simultánea o concurrentemente con las elecciones nacionales, bajo las mismas autoridades de los comicios y de escrutinio, en la forma que establece la presente ley. Solo pueden acogerse al régimen de esta ley las provincias y la Ciudad Autónoma de Buenos Aires cuya legislación electoral no admita, para ninguna categoría de cargos provinciales o municipales, sistemas de lemas o de doble voto simultáneo, acoples ni listas colectoras, en los términos del artículo 1° bis.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "Incorpórase como artículo 1° bis de la Ley N° 15.262 el siguiente: «Artículo 1° bis.- A los fines del artículo 1°, se entiende por: a) sistema de lemas o de doble voto simultáneo: todo sistema en el que los votos obtenidos por distintas listas, sublemas o candidaturas de una misma agrupación, o de agrupaciones distintas, se suman para adjudicar un cargo o para determinar la lista ganadora; b) acoples: la adhesión de listas de candidatos de una o más categorías a la candidatura de otra categoría, cuando los votos de unas se suman o se transfieren a la otra, o cuando se ofrecen en una boleta común con candidaturas de otra agrupación; c) listas colectoras: la oficialización, por dos o más agrupaciones, de listas que postulan a la misma persona para el mismo cargo, o de listas que, sin postular candidatos propios en una categoría, adhieren a la candidatura de otra agrupación en esa categoría.»"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Verificación",
+     "texto": "Incorpórase como artículo 1° ter de la Ley N° 15.262 el siguiente: «Artículo 1° ter.- La comunicación de la jurisdicción que decida celebrar elecciones simultáneas incluye la declaración de que su legislación electoral cumple la condición del artículo 1°, con la cita de las normas vigentes. La Dirección Nacional Electoral, en el ámbito de la Secretaría del Interior de la Jefatura de Gabinete de Ministros, verifica la declaración y, si la condición no se cumple, lo notifica en forma fundada a la jurisdicción y a la Justicia Nacional Electoral dentro de los quince (15) días de recibida la comunicación. En ese caso, la elección provincial o municipal no puede celebrarse en forma simultánea con la nacional. La verificación y su resultado se publican.»"
+    },
+    {
+     "n": 5,
+     "epigrafe": "Jurisdicciones ya acogidas",
+     "texto": "Las provincias y la Ciudad Autónoma de Buenos Aires que se hubieran acogido al régimen de la Ley N° 15.262 conservan la simultaneidad en tanto cumplan la condición del artículo 1° de esa ley, en el texto de la presente, para la primera elección a la que esta se aplique y las siguientes."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Primera aplicación",
+     "texto": "La presente ley se aplica a partir de la primera elección nacional que se celebre una vez transcurridos doce (12) meses desde su sanción, conforme a la cláusula de estabilidad del artículo 168 bis del Código Electoral Nacional, incorporado por la Ley N° [—] de Boleta Única, PASO, candidaturas y financiamiento a la vista."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Costo",
+     "texto": "La aplicación de la presente ley no demanda gastos adicionales; se atiende con los créditos vigentes de la Dirección Nacional Electoral."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 15.262, art. 1 (sustituye: agrega la condición sin lemas, acoples ni colectoras); incorpora arts. 1 bis y 1 ter"
+ ],
+ "deroga": [],
+ "variantes": null
+}

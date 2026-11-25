@@ -1,0 +1,51 @@
+{
+ "id": "N436",
+ "tipo": "decreto",
+ "titulo": "Decreto de ceremonial presidencial tradicional argentino",
+ "sumilla": "El ceremonial de la Presidencia usa solo los atributos y símbolos de la tradición argentina —banda, bastón, Escudo, Bandera, Himno y Regimiento de Granaderos a Caballo— y deja de lado sellos, emblemas y puestas en escena tomados de otros países o creados por un gobierno.",
+ "cuando": "Fase I · primeros 100 días",
+ "cuando_breve": "Fase I · primeros 100 días",
+ "tramite": "Decreto simple del Poder Ejecutivo nacional (art. 99, inc. 1, CN).",
+ "motivos": "La investidura presidencial tiene una tradición propia que pertenece a todos los argentinos. Copiar sellos, atriles, escenografías o rituales de otros países, o crear emblemas propios de un gobierno, la vuelve un rasgo de estilo personal. Este decreto fija un ceremonial sobrio y estable, basado en los símbolos nacionales.",
+ "visto": "La Constitución Nacional, artículos 93 y 99, el Decreto N° 10.302/1944 sobre los símbolos nacionales y la Ley N° [—] de nombres, símbolos e imagen del Estado nacional.",
+ "considerando": [
+  "Que la investidura presidencial pertenece a la Nación y no a quien la ejerce.",
+  "Que el ceremonial debe expresar la tradición argentina y mantenerse igual entre gobiernos."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Atributos y símbolos",
+     "texto": "El ceremonial de la Presidencia de la Nación utiliza exclusivamente la banda y el bastón presidenciales, el Escudo Nacional, la Bandera Nacional, el Himno Nacional Argentino y la escolta del Regimiento de Granaderos a Caballo General San Martín, con las marchas y toques militares tradicionales."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Prohibiciones",
+     "texto": "No se utilizan sellos, escudos, emblemas, estandartes, colores ni logos presidenciales o de gobierno distintos de los símbolos nacionales, ni escenografías, atriles con emblemas, música o rituales tomados del ceremonial de otros Estados."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Lugares",
+     "texto": "Los actos oficiales del Presidente se realizan preferentemente en la Casa de Gobierno, el Congreso de la Nación y los lugares históricos y públicos del país, sin decorados partidarios."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Manual",
+     "texto": "La Secretaría General de la Presidencia de la Nación aprobará dentro de los sesenta (60) días un manual de ceremonial conforme a este decreto, que se publicará."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

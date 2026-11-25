@@ -1,0 +1,116 @@
+{
+ "id": "N119",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de reforma de la Ley 24.196 de Inversiones Mineras y del Régimen de Incentivo para Grandes Inversiones: cláusula de industrialización del litio",
+ "sumilla": "Incorpora a la Ley 24.196 (arts. 8° bis y 8° ter) y a la Ley 27.742 (art. 176 septies) la cláusula de industrialización progresiva del litio (10 % a cinco años y 30 % a diez), obligatoria para proyectos nuevos, ampliaciones y adhesiones de la nueva ventana del RIGI, y voluntaria con beneficios adicionales para los proyectos con estabilidad; ratifica el acuerdo de la Mesa del Litio.",
+ "cuando": "Fase II (año 2: envío al Congreso, después del acuerdo «Acuerdo de la Mesa del Litio entre el Estado Nacional y las Provincias de Jujuy, Salta y Catamarca sobre industrialización progresiva del litio» y dentro de la nueva ventana del RIGI abierta por «Ley de reforma del Régimen de Incentivo para Grandes Inversiones: apertura sectorial, contrapartida territorial y contenido nacional»)",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple; cámara de origen indistinta (Diputados si se prefiere, porque los beneficios adicionales son tributarios: art. 52 CN).",
+ "motivos": "La Argentina tiene una de las mayores reservas de litio del mundo, pero lo exporta como materia prima: los proyectos aprobados producen carbonato o cloruro de litio, sin pasar a las etapas de mayor valor y conocimiento. Exportar solo el compuesto primario deja afuera la parte más rica de la cadena y expone a las provincias productoras a la volatilidad del precio. El proyecto incorpora a la Ley N° 24.196 de Inversiones Mineras y al Régimen de Incentivo para Grandes Inversiones una cláusula de industrialización progresiva para los proyectos nuevos y las ampliaciones: procesar en el país al menos el diez por ciento de la producción a los cinco años de operar y el treinta por ciento a los diez, como hidróxido, materiales para cátodos, celdas o baterías. Se aplica a las adhesiones de la nueva ventana del régimen de grandes inversiones. Los proyectos que ya gozan de estabilidad la conservan: con ellos se negocian, en la Mesa del Litio y en forma voluntaria, planes de procesamiento a cambio de beneficios adicionales acotados. La verificación es anual, independiente y pública, con una metodología común con las provincias. La ley ratifica el acuerdo alcanzado con Jujuy, Salta y Catamarca y no autoriza gasto adicional.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley incorpora una cláusula de industrialización progresiva del litio, obligatoria para los proyectos nuevos y las ampliaciones que se acojan al régimen de inversiones mineras de la Ley N° 24.196 o al Régimen de Incentivo para Grandes Inversiones del Título VII de la Ley N° 27.742, y establece la negociación voluntaria, con incentivos, de planes de procesamiento local con los proyectos que gozan de estabilidad."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Régimen de inversiones mineras",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Cláusula de industrialización",
+     "texto": "Incorpórase como artículo 8° bis de la Ley N° 24.196 el siguiente:\n«Artículo 8° bis.- Cláusula de industrialización del litio. Los proyectos de explotación de minerales de litio que se inscriban en el presente régimen a partir de la entrada en vigencia de la Ley N° [—], y las ampliaciones de proyectos inscriptos que se presenten desde esa fecha, incluirán un plan de industrialización progresiva por el cual el titular se obliga a procesar en el país, por sí o por terceros, al menos el diez por ciento (10 %) de la producción del proyecto o de la ampliación a los cinco (5) años del inicio de su producción comercial, y al menos el treinta por ciento (30 %) a los diez (10) años, medida en toneladas de carbonato de litio equivalente, como hidróxido de litio, materiales activos para cátodos, celdas, baterías u otros productos de mayor valor agregado que el carbonato o el cloruro de litio que determine la reglamentación. El plan forma parte de las condiciones de la inscripción y de la estabilidad fiscal del artículo 8°. Su incumplimiento constituye infracción a los fines del artículo 28 y acarreará la pérdida de los beneficios del presente régimen en proporción al porcentaje no procesado, sin perjuicio de las demás sanciones del artículo 29.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Proyectos con estabilidad",
+     "texto": "Incorpórase como artículo 8° ter de la Ley N° 24.196 el siguiente:\n«Artículo 8° ter.- Proyectos con estabilidad. Los proyectos de litio inscriptos antes de la entrada en vigencia de la Ley N° [—] conservan la estabilidad fiscal adquirida. Sus titulares podrán acordar con la autoridad de aplicación, en forma voluntaria y con intervención de la provincia donde se ubique el proyecto, un plan de procesamiento local con cronograma, a cambio de los beneficios adicionales que determine la reglamentación entre los previstos en esta ley, que no podrán exceder los que correspondan a un proyecto nuevo. El plan acordado será exigible en los términos del artículo 8° bis.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Régimen de Incentivo para Grandes Inversiones",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Adhesiones y ampliaciones",
+     "texto": "Incorpórase como artículo 176 septies de la Ley N° 27.742 el siguiente:\n«Artículo 176 septies.- Cláusula de industrialización del litio. Los vehículos de proyecto único de explotación de minerales de litio cuya adhesión se solicite a partir de la entrada en vigencia de la Ley N° [—], y las ampliaciones de proyectos adheridos que se soliciten desde esa fecha respecto de la inversión nueva, incluirán en su plan de inversión el plan de industrialización progresiva previsto en el artículo 8° bis de la Ley N° 24.196, que formará parte de las condiciones de la adhesión. Su incumplimiento se rige por el procedimiento y acarrea las consecuencias previstas en el artículo 217 bis.»"
+    },
+    {
+     "n": 5,
+     "epigrafe": "Proyectos adheridos",
+     "texto": "Los proyectos de litio cuya adhesión al Régimen de Incentivo para Grandes Inversiones haya sido aprobada antes de la entrada en vigencia de la presente ley conservan los derechos adquiridos. Podrán acordar en forma voluntaria un plan de procesamiento local, en las condiciones del artículo 8° ter de la Ley N° 24.196, o incluirlo al solicitar la migración voluntaria al régimen reformado, con los beneficios adicionales que corresponda."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Verificación y coordinación",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Verificación y publicidad",
+     "texto": "Los titulares presentarán cada año a la autoridad de aplicación una declaración jurada del volumen producido y del procesado en el país, por producto, verificada por un auditor independiente a su cargo. La autoridad de aplicación publicará cada año, por proyecto, el porcentaje procesado en el país y el avance de cada plan."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Coordinación con las provincias",
+     "texto": "La autoridad de aplicación negociará los planes de los proyectos con estabilidad en el ámbito de la Mesa del Litio, con las provincias que la integran, y acordará con ellas una metodología común de medición y verificación, de modo que no se dupliquen exigencias."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Transferencia de tecnología",
+     "texto": "Los planes de industrialización podrán incluir acuerdos de transferencia de tecnología, formación y desarrollo con el Instituto Nacional del Litio y Baterías y con universidades y centros científicos nacionales."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Autoridades de aplicación",
+     "texto": "La autoridad de aplicación de la Ley N° 24.196 aplicará los artículos 8° bis y 8° ter de esa ley, y la autoridad de aplicación del Régimen de Incentivo para Grandes Inversiones, el artículo 176 septies de la Ley N° 27.742, con intervención de la primera para verificar el plan. Ambas usarán la misma metodología."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Ratificación del Acuerdo de la Mesa del Litio",
+     "texto": "Ratifícase el Acuerdo de la Mesa del Litio entre el Estado Nacional y las Provincias de Jujuy, Salta y Catamarca sobre industrialización progresiva del litio, suscripto el […], cuyo texto forma parte de la presente ley como Anexo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Financiamiento",
+     "texto": "La presente ley no autoriza gasto adicional. Su aplicación se atenderá con los créditos asignados a las autoridades de aplicación en la ley de presupuesto vigente, sin incremento del gasto total. Los beneficios adicionales que se otorguen conforme al artículo 8° ter de la Ley N° 24.196 se computarán en la estimación de gastos tributarios del presupuesto del ejercicio en que se otorguen."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 14,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.196, arts. 8 bis y 8 ter (incorpora)",
+  "Ley 27.742, art. 176 septies (incorpora; Título VII en el texto de la ley «Ley de reforma del Régimen de Incentivo para Grandes Inversiones: apertura sectorial, contrapartida territorial y contenido nacional»)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

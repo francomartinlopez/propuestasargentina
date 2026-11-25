@@ -1,0 +1,90 @@
+{
+ "id": "N156",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de cuerpos médicos forenses del fuero laboral",
+ "sumilla": "Lleva a las provincias adheridas a la Ley 27.348 a cumplir el art. 4 bis que incorporó la Ley 27.802: cuerpo médico forense laboral independiente y por concurso, aplicación estricta del baremo del Decreto 549/2025 y entornos digitales de la SRT en 90 días.",
+ "cuando": "Fase II (años 2-3): se ofrece a las provincias adheridas junto con el informe semestral de la SRT previsto en «Ley de cuentas individuales de cese y modernización de la contratación» (art. 25); 90 días desde su sanción para implementarla.",
+ "cuando_breve": "Fase II",
+ "tramite": "No pasa por el Congreso: modelo para cada legislatura provincial, por mayoría simple salvo que la constitución local exija otra.",
+ "motivos": "El sistema de riesgos del trabajo asegura prestaciones a millones de personas trabajadoras, pero la determinación de las incapacidades se ha desplazado de manera creciente a la vía judicial, con criterios dispares entre jurisdicciones. La Ley Nacional N° 27.348 estableció una instancia técnica previa a cargo de las comisiones médicas e invitó a las provincias a adherir. La Ley Nacional N° 27.802 incorporó a esa ley el artículo 4° bis, que obliga a las jurisdicciones adheridas a aplicar estrictamente la Tabla de Evaluación de Incapacidades Laborales, a constituir cuerpos médicos forenses u organismos equivalentes cuando no existan peritos médicos judiciales en las condiciones de la ley, y a implementar los entornos digitales de la Superintendencia de Riesgos del Trabajo, en un plazo de noventa días. La nueva Tabla, cuyo texto aprobó el Decreto Nacional N° 549/2025, rige desde febrero de 2026. La presente ley da cumplimiento a esas obligaciones: asegura que las pericias judiciales estén a cargo de profesionales especializados, designados por concurso e independientes de las partes, que aplican un baremo único. Con ello, la persona accidentada obtiene una evaluación técnica, rápida y previsible, y los conflictos llegan a los tribunales solo cuando existe una controversia genuina.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley da cumplimiento, en la Provincia de [Provincia], a las obligaciones del artículo 4° bis de la Ley Nacional N° 27.348, complementaria de la Ley sobre Riesgos del Trabajo, incorporado por el artículo 154 de la Ley Nacional N° 27.802, en el marco de la adhesión dispuesta por la Ley provincial N° […]. [Si la Provincia no hubiera adherido: «Adhiérese la Provincia de [Provincia] al Título I de la Ley Nacional N° 27.348, en los términos de su artículo 4°, y a su artículo 4° bis, incorporado por la Ley Nacional N° 27.802.»]"
+    },
+    {
+     "n": 2,
+     "epigrafe": "Instancia técnica previa y revisión judicial",
+     "texto": "La intervención de las comisiones médicas jurisdiccionales constituye la instancia administrativa previa, de carácter obligatorio y excluyente, para que la persona trabajadora afectada solicite la determinación del carácter profesional de su enfermedad o contingencia, la determinación de su incapacidad y las correspondientes prestaciones dinerarias. Sus resoluciones podrán recurrirse ante [el juzgado o tribunal del fuero laboral provincial competente], conforme el artículo 2° de la Ley Nacional N° 27.348."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cuerpo Médico Forense del fuero laboral",
+     "texto": "Créase en el ámbito del Poder Judicial de la Provincia de [Provincia] el Cuerpo Médico Forense del fuero laboral [o: Asígnase al Cuerpo Médico Forense existente la competencia del presente artículo], que tendrá a su cargo las pericias médicas en los procesos judiciales por accidentes y enfermedades del trabajo regidos por las Leyes Nacionales Nros. 24.557, 26.773 y 27.348, en los casos en que no existan peritos médicos judiciales en las condiciones del artículo 2° de la Ley Nacional N° 27.348."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Integración e independencia",
+     "texto": "El Cuerpo Médico Forense se integrará con profesionales médicos con especialidad en medicina legal o en medicina del trabajo, designados por concurso público de antecedentes y oposición. Sus integrantes no podrán prestar servicios a aseguradoras de riesgos del trabajo, empleadores autoasegurados, asociaciones sindicales ni partes litigantes en esa materia, y sus dictámenes serán fundados, objetivos e independientes."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Capacidad operativa",
+     "texto": "El Poder Judicial asignará al Cuerpo Médico Forense la dotación, la distribución territorial y los medios necesarios para atender las controversias judiciales del sistema de riesgos del trabajo, según la cantidad de causas en trámite, y publicará cada año su dotación y la cantidad de pericias realizadas y pendientes."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Baremo",
+     "texto": "Las comisiones médicas, el Cuerpo Médico Forense y los tribunales provinciales aplicarán en forma estricta la Tabla de Evaluación de Incapacidades Laborales del Decreto Nacional N° 659/1996, en el texto de su Anexo I sustituido por el Decreto Nacional N° 549/2025, sus modificatorias y las que la sustituyan."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Entornos digitales y confidencialidad",
+     "texto": "El Cuerpo Médico Forense y los tribunales del fuero laboral utilizarán los entornos digitales que la Superintendencia de Riesgos del Trabajo ponga a su disposición para el cálculo de las incapacidades laborales, conforme los convenios que establezcan los protocolos y requisitos técnicos, con garantía de la confidencialidad y la seguridad de la información médica."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Plazo de implementación",
+     "texto": "El Cuerpo Médico Forense deberá estar constituido y en funcionamiento, y los entornos digitales implementados, dentro de los noventa (90) días de la entrada en vigencia de la presente ley."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Convenio con la Superintendencia de Riesgos del Trabajo",
+     "texto": "Facúltase a [autoridad provincial competente] a celebrar con la Superintendencia de Riesgos del Trabajo los convenios previstos en el artículo 4° bis de la Ley Nacional N° 27.348 y los necesarios para asegurar la cantidad y localización de comisiones médicas en el territorio provincial, la asistencia técnica y la capacitación de los integrantes del Cuerpo Médico Forense."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Estadística",
+     "texto": "El Poder Judicial de la Provincia publicará e informará cada mes a la Superintendencia de Riesgos del Trabajo la cantidad de juicios iniciados por accidentes y enfermedades del trabajo y su duración."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Presupuesto",
+     "texto": "Los gastos que demande la presente ley se imputarán a las partidas presupuestarias del Poder Judicial de la Provincia de [Provincia], que se adecuarán a tal fin en el presupuesto del ejercicio de su entrada en vigencia."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Reglamentación",
+     "texto": "[El Superior Tribunal de Justicia / la autoridad que corresponda según la Constitución provincial] dictará las normas de organización y funcionamiento del Cuerpo Médico Forense dentro de los treinta (30) días de la entrada en vigencia de la presente ley."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley orgánica del Poder Judicial de cada provincia (creación o asignación del Cuerpo Médico Forense; artículos a determinar en cada caso)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

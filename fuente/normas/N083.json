@@ -1,0 +1,84 @@
+{
+ "id": "N083",
+ "tipo": "resolucion",
+ "titulo": "Resolución General de la IGJ: inscripción digital de SAS en 24 horas con estatuto modelo y firma digital",
+ "sumilla": "Habilita la constitución íntegramente digital de SAS con el modelo tipo y firma digital por la Ventanilla Única, sin escribano ni homologación, con inscripción en 24 horas hábiles, declaración de beneficiario final, control posterior por riesgo y derogación de la RG IGJ 12/2024.",
+ "cuando": "Fase I (dentro de los 60 días que fija el decreto «Decreto de Ventanilla Única Digital \"Empresa en 24 horas\"»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (resolución general de la Inspección General de Justicia).",
+ "motivos": null,
+ "visto": "El Expediente N° […], la Ley N° 22.315, la Ley N° 27.349, el Decreto N° […] de Ventanilla Única Digital «Empresa en 24 horas», las Resoluciones Generales IGJ Nros. 12/2024, 15/2024 y 11/2026, y",
+ "considerando": [
+  "Que el artículo 38 de la Ley N° 27.349 dispone que el registro público inscriba las sociedades por acciones simplificadas dentro de las veinticuatro (24) horas cuando utilicen el modelo tipo de instrumento constitutivo aprobado por el registro.",
+  "Que por la Resolución General IGJ N° 12/2024 se dispuso, con carácter transitorio, que las sociedades por acciones simplificadas se inscriban solo con documentación auténtica y se suspendió su constitución automática con el modelo tipo.",
+  "Que por la Resolución General IGJ N° 11/2026 se dejó optativo el dictamen previo de precalificación para la constitución de sociedades.",
+  "Que el Decreto N° […] creó la Ventanilla Única Digital «Empresa en 24 horas» e instruyó a esta Inspección General a adecuar sus normas para admitir la constitución de estas sociedades con estatuto modelo y firma digital y su inscripción dentro del plazo legal.",
+  "Que la firma digital y la validación de identidad en línea brindan una garantía de autoría e integridad equivalente a la certificación de firmas, y que el control posterior por riesgo, junto con la declaración de beneficiarios finales, permite prevenir el uso de sociedades con fines ilícitos sin demorar la constitución.",
+  "Que la presente se dicta en uso de las facultades conferidas por los artículos 11, inciso c), y 21, inciso b), de la Ley N° 22.315."
+ ],
+ "formula": "Por ello, EL INSPECTOR GENERAL DE JUSTICIA RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Constitución digital con estatuto modelo",
+     "texto": "Las sociedades por acciones simplificadas que adopten el modelo tipo de instrumento constitutivo aprobado por esta Inspección General en los términos del artículo 38 de la Ley N° 27.349 podrán constituirse e inscribirse íntegramente en forma digital a través de la Ventanilla Única Digital «Empresa en 24 horas» creada por el Decreto N° […], mediante instrumento firmado con firma digital por todos los socios y validación de identidad en línea."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autenticidad",
+     "texto": "El instrumento constitutivo firmado con firma digital por todos los otorgantes, con identidad validada en la plataforma, satisface el requisito de autenticidad para su inscripción, sin necesidad de certificación notarial ni de homologación de firmas ante esta Inspección General."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Plazo de inscripción",
+     "texto": "Presentada la documentación completa, esta Inspección General inscribirá la sociedad dentro de las VEINTICUATRO (24) horas hábiles, sin dictamen de precalificación, conforme al artículo 38 de la Ley N° 27.349. La verificación previa se limitará al cumplimiento formal del modelo tipo, la integridad de las firmas digitales y la validación de identidad. Si la documentación fuera incompleta, el sistema lo informará en el mismo plazo, indicando la falta."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Beneficiario final",
+     "texto": "El formulario de constitución incluirá la declaración jurada de los beneficiarios finales de la sociedad, que se cruzará en forma automática con las bases a las que esta Inspección General tenga acceso."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Control posterior",
+     "texto": "Esta Inspección General efectuará el control de legalidad posterior de las sociedades inscriptas conforme a la presente, sobre la base de criterios de riesgo y de una muestra aleatoria, dentro de los NOVENTA (90) días de la inscripción. Si detectara irregularidades, intimará su subsanación y, en su caso, promoverá las acciones que correspondan y comunicará los hechos a los organismos competentes."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Modelo tipo",
+     "texto": "Esta Inspección General mantendrá publicado en la plataforma el modelo tipo de instrumento constitutivo vigente, en formato editable, y toda modificación del modelo se aplicará solo a las constituciones posteriores a su publicación."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Derogación",
+     "texto": "Derógase la Resolución General IGJ N° 12/2024. Las Normas de esta Inspección General aprobadas por la Resolución General IGJ N° 15/2024 y sus modificatorias se aplicarán en cuanto no se opongan a la presente."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Estadísticas",
+     "texto": "Esta Inspección General publicará cada mes la cantidad de sociedades inscriptas por esta vía y el tiempo efectivo de inscripción, con el porcentaje de trámites resueltos dentro del plazo del artículo 3°."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución general entrará en vigencia el día en que la Ventanilla Única Digital habilite la función de constitución de sociedades, lo que se comunicará en el sitio oficial de esta Inspección General."
+    },
+    {
+     "n": 10,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Normas IGJ (RG IGJ 15/2024 y mod.): se aplican en cuanto no se opongan"
+ ],
+ "deroga": [
+  "Resolución General IGJ 12/2024"
+ ],
+ "variantes": null
+}

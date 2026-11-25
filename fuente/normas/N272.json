@@ -1,0 +1,113 @@
+{
+ "id": "N272",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de financiamiento plurianual de la primera infancia",
+ "sumilla": "Fija un piso presupuestario real para las políticas nacionales de primera infancia (mil días, nutrición, sala de 3 y centros de primera infancia, acompañamiento a la crianza), una senda de expansión de hasta 0,1 % del PIB al año 4 y su reparto por fórmula con prioridad en la pobreza infantil.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "Los primeros años de vida definen buena parte de la salud, el aprendizaje y las oportunidades de cada persona. La Argentina cuenta con leyes que reconocen esos derechos: la Ley N° 27.611 de atención integral del embarazo y la primera infancia, la Ley N° 27.045, que hizo obligatoria la sala de cuatro años y comprometió la universalización de la sala de tres, y la Ley N° 26.233 de centros de desarrollo infantil. Sin embargo, su financiamiento depende de la negociación de cada año, y en los ajustes suele ser de lo primero que se recorta. La pobreza afecta en mayor proporción a niñas y niños que al resto de la población, según la Encuesta Permanente de Hogares del INDEC. El presente proyecto fija un piso presupuestario que no puede caer en términos reales y una senda gradual de expansión de la sala de tres y de los espacios de cuidado, compatible con la regla fiscal y con fuente expresa. Los recursos se reparten por una fórmula pública que da el mayor peso a la pobreza infantil, y se transfieren mediante acuerdos con metas públicas por jurisdicción. Las provincias y los municipios ejecutan; la Nación fija estándares, financia e informa cada año.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y alcance",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece un piso presupuestario plurianual, en términos reales, para las políticas nacionales de primera infancia, y un régimen de distribución por fórmula a las provincias y a la Ciudad Autónoma de Buenos Aires que prioriza a las jurisdicciones con mayor pobreza infantil."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Políticas comprendidas",
+     "texto": "Integran el piso las partidas nacionales destinadas a: a) la atención y el cuidado integral de la salud durante el embarazo y la primera infancia previstos en la Ley N° 27.611, incluidos controles, suplementos nutricionales y vacunas; b) la nutrición de calidad en comedores, jardines y centros de primera infancia, y la educación alimentaria; c) la universalización de la sala de tres años, conforme la Ley N° 27.045, y los centros de primera infancia regidos por la Ley N° 26.233, con estándares comunes de personal y espacio; y d) las visitas domiciliarias de acompañamiento a la crianza en hogares vulnerables. No integran el piso las prestaciones dinerarias del Ingreso Universal Único."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación que designe el Poder Ejecutivo nacional coordina la ejecución de la presente ley con el Ministerio de Salud, en su carácter de autoridad de aplicación de la Ley N° 27.611, y con la Secretaría de Educación del Ministerio de Educación, Ciencia y Cultura y la Secretaría de Niñez, Adolescencia y Familia del Ministerio de Trabajo y Desarrollo Social."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Piso plurianual",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Piso real",
+     "texto": "El total de los créditos de las políticas del artículo 2° no puede ser, en ningún ejercicio, inferior en términos reales al monto devengado en el ejercicio 2027 por los programas nacionales que las atienden, actualizado por la variación del Índice de Precios al Consumidor que publica el Instituto Nacional de Estadística y Censos (INDEC)."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Senda de expansión",
+     "texto": "Sobre el piso del artículo 4°, el gasto nacional en la expansión de la sala de tres años y de los espacios de cuidado y acompañamiento a la crianza crece en forma gradual hasta un máximo adicional del cero coma uno por ciento (0,1 %) del Producto Interno Bruto en el ejercicio 2031, con incrementos anuales que fija cada ley de presupuesto dentro de la regla fiscal."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Protección del piso",
+     "texto": "Las facultades de reestructuración y modificación presupuestaria del Poder Ejecutivo nacional y del Jefe de Gabinete de Ministros no pueden reducir los créditos de las políticas del artículo 2° por debajo del piso del artículo 4°, ni destinarlos a otras finalidades."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Distribución por fórmula e información",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Fórmula",
+     "texto": "Los recursos que la Nación transfiere a las jurisdicciones para las políticas del artículo 2° se distribuyen según una fórmula pública que considera: a) la población de cero a cinco años; b) la tasa de pobreza de las personas de cero a catorce años según la Encuesta Permanente de Hogares del INDEC, que tiene el mayor peso relativo; c) el déficit de cobertura de sala de tres años y de controles de salud; y d) el cumplimiento de las metas acordadas. La reglamentación fija las ponderaciones y las publica."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Prioridad de las vacantes",
+     "texto": "Las vacantes nuevas de sala de tres años y de centros de primera infancia financiadas por la presente ley se abren en primer lugar en las jurisdicciones y localidades con mayor pobreza de cero a catorce años."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Acuerdo federal y metas públicas",
+     "texto": "Las transferencias se instrumentan mediante el acuerdo federal de primera infancia y convenios bilaterales con cada jurisdicción, que fijan estándares, metas públicas anuales de cobertura de sala de tres años y de controles de salud, y la información que la jurisdicción debe suministrar. La provincia y sus municipios ejecutan las políticas."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Información e informe anual",
+     "texto": "La autoridad de aplicación publica cada año, antes del 30 de junio, un informe con la ejecución del piso, la distribución por jurisdicción y el avance de las metas, sobre la base del registro nominal de niñas y niños de cero a cinco años, con protección de los datos personales conforme el artículo 11 y la ley de protección de datos personales vigente."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Registro nominal y datos de salud",
+     "texto": "Por razones de interés general, autorízase el tratamiento de los datos de salud de las niñas y los niños de cero a cinco años en el registro nominal de la primera infancia que establezcan el Ministerio de Salud y el Ministerio de Trabajo y Desarrollo Social, con sujeción a las siguientes reglas:\na) finalidad específica: los datos solo pueden tratarse para identificar a cada niña o niño que no tenga sus controles de salud o su vacunación al día, o que no tenga vacante cuando la haya solicitado, a fin de que los equipos de salud, educación y niñez actúen; para acreditar los controles de salud y la vacunación exigidos por el módulo por hijo del Ingreso Universal Único; y para medir las metas y elaborar el informe del artículo 10;\nb) mínimo necesario: el registro solo contiene los datos de salud indispensables para esas finalidades, limitados a la fecha y el resultado general de los controles de salud y de crecimiento y a las vacunas aplicadas; no se registran diagnósticos;\nc) acceso restringido: solo acceden a los datos los agentes autorizados, según su función y con autenticación individual;\nd) registro de accesos: cada consulta queda registrada en forma auditable, y el registro se conserva a disposición de la Agencia de Acceso a la Información Pública (AAIP);\ne) prohibición de cesión con fines ajenos: queda prohibida toda cesión o uso de los datos para una finalidad distinta de las del inciso a), así como toda cesión a personas u organizaciones privadas; fuera de los organismos públicos que intervienen en esas finalidades, los datos solo se difunden en forma agregada y de modo que no permita identificar a ninguna persona.\nEn lo no previsto en este artículo rige la ley de protección de datos personales vigente."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Fuente de financiamiento",
+     "texto": "El piso del artículo 4° se financia con los créditos de los programas nacionales de infancia y alimentación que lo integran, que se reasignan y ordenan en la forma que disponga la ley de presupuesto. La senda del artículo 5° se financia con el cupo que la cuenta fiscal reserva para este fin, hasta el máximo allí indicado. Conforme el artículo 38 de la Ley N° 24.156 y el artículo 5° de la Ley N° 24.629, el gasto de expansión que no tenga crédito en el presupuesto vigente al sancionarse la presente ley se activa con la ley de presupuesto del ejercicio siguiente, que debe preverlo."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Cronograma",
+     "texto": "El piso rige desde la entrada en vigencia de la presente ley. La senda de expansión se ejecuta en los ejercicios 2029, 2030 y 2031."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 15,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

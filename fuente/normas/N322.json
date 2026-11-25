@@ -1,0 +1,100 @@
+{
+ "id": "N322",
+ "tipo": "resolucion",
+ "titulo": "Resolución de la Secretaría de Discapacidad del Ministerio de Salud: procedimiento del CUD digital, turnos con plazo máximo, juntas evaluadoras y renovación automática",
+ "sumilla": "Establece el expediente digital único del Certificado Único de Discapacidad, turnos con plazo máximo para emitirlo en menos de 60 días, dotación de juntas evaluadoras según la demanda, renovación automática en condiciones permanentes y publicación trimestral de plazos, en ejecución del decreto «Decreto de CUD en plazo, pagos en fecha y auditoría con debido proceso».",
+ "cuando": "Fase I (dentro de los 90 días del decreto «Decreto de CUD en plazo, pagos en fecha y auditoría con debido proceso», art. 1)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: resolución de la Secretaría de Discapacidad del Ministerio de Salud. No pasa por el Congreso.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° 22.431 y sus modificatorias, la Ley N° 27.793, el Decreto N° 50/2019 y sus modificatorias, el Decreto N° [●] de CUD en plazo, pagos en fecha y auditoría con debido proceso, y",
+ "considerando": [
+  "Que el artículo 3° de la Ley N° 22.431, sustituido por la Ley N° 27.793, dispone que la certificación de la discapacidad se realiza conforme los lineamientos que se fijan con el Consejo Federal de Discapacidad y manda adoptar acciones expeditivas para otorgar y actualizar el Certificado Único de Discapacidad.",
+  "Que el Decreto N° [●] fijó en sesenta (60) días corridos el plazo máximo para emitir el Certificado Único de Discapacidad, dispuso su renovación automática cuando la condición certificada es permanente y encomendó a esta Secretaría implementar un expediente digital único, turnos con plazos máximos y la dotación suficiente de juntas evaluadoras.",
+  "Que, conforme el Decreto N° 50/2019 y sus modificatorias, esta Secretaría tiene a su cargo, por intermedio de su Subsecretaría de Regulación, Certificación y Proyectos, el sistema de certificación de la discapacidad.",
+  "Que las demoras en la certificación retrasan el acceso a prestaciones y pensiones, y que la reevaluación periódica de condiciones permanentes impone trámites sin utilidad.",
+  "Que han tomado intervención los servicios jurídicos competentes.",
+  "Que la presente se dicta en uso de las facultades conferidas por el Decreto N° 50/2019 y sus modificatorias y por el Decreto N° [●]."
+ ],
+ "formula": "Por ello, EL SECRETARIO DE DISCAPACIDAD RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente establece el procedimiento de solicitud, evaluación, emisión y renovación del Certificado Único de Discapacidad (CUD) a cargo de esta Secretaría, en el marco del artículo 3° de la Ley N° 22.431 y del Decreto N° [●]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Expediente digital único",
+     "texto": "Cada solicitud tramita en un expediente digital único, al que acceden la persona solicitante o quien la represente, la junta evaluadora interviniente y esta Secretaría. La solicitud puede iniciarse en forma digital o en forma presencial en cualquier centro de atención, que la digitaliza en el acto. La documentación se presenta una sola vez y no se requiere la que obre en registros públicos accesibles a esta Secretaría."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Turnos con plazo máximo",
+     "texto": "El sistema asigna el turno de evaluación al presentarse la solicitud completa, en una fecha que no puede exceder los treinta (30) días corridos. Si no hay turnos disponibles en ese plazo en la junta más cercana, el sistema ofrece la más próxima con disponibilidad o una junta itinerante, sin perjuicio del plazo del artículo 4°."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Plazo de emisión",
+     "texto": "El CUD se emite dentro de los diez (10) días hábiles de la evaluación y, en todos los casos, dentro de los sesenta (60) días corridos de la solicitud, conforme el artículo 1° del Decreto N° [●]. La persona puede consultar en todo momento el estado de su expediente."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Dotación de juntas evaluadoras",
+     "texto": "Esta Secretaría determina la dotación de las juntas evaluadoras a su cargo según la demanda de cada jurisdicción. Cuando el plazo promedio de emisión en una jurisdicción supera los cuarenta y cinco (45) días, refuerza la dotación o dispone juntas itinerantes dentro de los treinta (30) días."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Evaluación accesible",
+     "texto": "La evaluación se realiza con criterio multidimensional conforme los lineamientos del artículo 3° de la Ley N° 22.431. Para personas con movilidad reducida o que residan lejos de la junta, puede realizarse en el domicilio, en el establecimiento de salud o en forma remota cuando la naturaleza de la evaluación lo permita."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Condición permanente",
+     "texto": "Al emitir el CUD, la junta evaluadora indica en forma fundada si la condición certificada es permanente, conforme los criterios que se acuerden con el Consejo Federal de Discapacidad según el artículo 2° del Decreto N° [●]. Hasta su aprobación, la junta aplica los criterios técnicos que le comunique esta Secretaría."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Renovación automática",
+     "texto": "El CUD que certifica una condición permanente se renueva en forma automática a su vencimiento, sin nueva evaluación ni trámite de la persona titular, que recibe el certificado renovado por medios digitales y puede retirarlo en forma presencial. Los CUD vigentes o vencidos que correspondan a condiciones permanentes se prorrogan de oficio hasta su renovación automática."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Renovación de condiciones no permanentes",
+     "texto": "Para las condiciones no permanentes, el sistema notifica a la persona titular con noventa (90) días de anticipación al vencimiento y asigna el turno de reevaluación antes de esa fecha. El CUD conserva su vigencia hasta que se resuelva la renovación solicitada en término."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Juntas de las jurisdicciones",
+     "texto": "Esta Secretaría propone al Consejo Federal de Discapacidad la adopción por las juntas evaluadoras de todas las jurisdicciones de este procedimiento y ofrece el sistema de expediente digital y la asistencia técnica sin costo."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Protección de datos",
+     "texto": "La información del expediente es confidencial y se trata conforme la legislación de protección de datos personales, con la finalidad exclusiva de la certificación y el acceso a prestaciones."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Informe trimestral",
+     "texto": "Esta Secretaría publica cada trimestre, por jurisdicción, el plazo promedio y máximo de emisión del CUD, la cantidad de solicitudes, de certificados emitidos y de renovaciones automáticas, y los turnos asignados fuera de plazo, conforme el artículo 10 del Decreto N° [●]."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Puesta en marcha",
+     "texto": "El expediente digital único y el sistema de turnos funcionan dentro de los noventa (90) días de la publicación del Decreto N° [●]. Adécuanse a la presente las normas de procedimiento de esta Secretaría que se le opongan."
+    },
+    {
+     "n": 14,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

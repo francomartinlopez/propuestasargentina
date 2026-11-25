@@ -1,0 +1,38 @@
+{
+ "id": "N335b",
+ "tipo": "ley_aprobatoria",
+ "titulo": "Ley aprobatoria del Tratado de Relación Estratégica entre la República Argentina y la República Federativa del Brasil",
+ "sumilla": "Aprueba el tratado redactado en «Tratado de Relación Estratégica entre la República Argentina y la República Federativa del Brasil» (art. 75 inc. 22 CN) y fija la fuente de sus gastos, sin autorizar gasto adicional.",
+ "cuando": "Después de la firma del instrumento (Fase I (año 1: firma y envío al Congreso))",
+ "cuando_breve": "Después de la firma del instrumento",
+ "tramite": "Aprobación por ley del Congreso (art. 75 inc. 22 CN); mayoría simple; cámara de origen indistinta.",
+ "motivos": "El presente proyecto somete a la aprobación del Honorable Congreso de la Nación el Tratado de Relación Estratégica entre la República Argentina y la República Federativa del Brasil. Institucionaliza la relación con el Brasil como política de Estado mediante una Comisión Binacional Permanente de coordinación, sin facultades decisorias, con metas anuales públicas en energía, cooperación nuclear, pagos en monedas locales, cadenas productivas e infraestructura de frontera. Conforme al artículo 75, inciso 22, de la Constitución Nacional, corresponde al Congreso aprobar o desechar los tratados concluidos con las demás naciones y con las organizaciones internacionales, y esa aprobación es condición para que el Poder Ejecutivo nacional pueda ratificarlo en ejercicio del artículo 99, inciso 11. El proyecto aprueba el texto sin reservas y, en cumplimiento de la regla según la cual toda ley que pueda dar lugar a gastos debe identificar su fuente, precisa cómo se atienden los compromisos que asume la República Argentina, sin autorizar gasto adicional. El texto completo del Tratado se acompaña como anexo.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Aprobación",
+     "texto": "Apruébase el Tratado de Relación Estratégica entre la República Argentina y la República Federativa del Brasil, suscripto en […] el […], cuya copia autenticada forma parte de la presente ley como Anexo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Fuente de los gastos",
+     "texto": "Los gastos de la Sección argentina de la Comisión Binacional Permanente y la parte argentina de los gastos comunes de su Secretaría Técnica se atienden con los créditos que la ley de presupuesto de cada ejercicio asigna al Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, sin aumento del gasto total."
+    },
+    {
+     "n": 3,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

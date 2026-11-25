@@ -1,0 +1,110 @@
+{
+ "id": "N109",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de Acceso a Energía Segura en el Hogar",
+ "sumilla": "Designa la autoridad de aplicación y reglamenta el relevamiento, los criterios de prioridad, las metas anuales por provincia, el financiamiento de las conexiones internas, el recambio de artefactos, los indicadores sanitarios y la publicación del avance por provincia.",
+ "cuando": "Fase I · año 1 (dentro de los 90 días de promulgada la ley «Ley de acceso a energía segura en el hogar»)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "No aplica: decreto reglamentario (art. 99, inc. 2, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° […] de Acceso a Energía Segura en el Hogar, la Ley N° 24.076 (T.O. 2025, Decreto N° 451/2025), la Ley N° 27.742, la Ley de Ministerios N° 22.520 (t.o. Decreto N° 438/92) y sus modificatorias, el Decreto N° 943 del 31 de diciembre de 2025, y",
+ "considerando": [
+  "Que la Ley N° […] tiene por objeto asegurar el acceso de los hogares a una energía segura para cocinar y calefaccionarse, mediante la extensión de redes de gas y de conexiones internas, el recambio de artefactos inseguros, la prohibición gradual de los peligrosos y soluciones alternativas donde la red no sea viable.",
+  "Que su artículo 3° encomienda al Poder Ejecutivo nacional designar la autoridad de aplicación entre los organismos con competencia en energía, y su artículo 19 ordena reglamentarla dentro de los noventa días de su promulgación.",
+  "Que corresponde precisar el procedimiento del relevamiento, los criterios para asignar prioridades y metas, las condiciones de financiamiento de las conexiones internas, el registro del recambio de artefactos y la forma de publicar los resultados, de modo que la ejecución sea verificable por provincia.",
+  "Que el ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD, creado por el artículo 161 de la Ley N° 27.742, ejerce las funciones técnicas que la ley le asigna.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que el presente se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación (art. 3°)",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° […] de Acceso a Energía Segura en el Hogar a la SECRETARÍA DE ENERGÍA del MINISTERIO DE INFRAESTRUCTURA Y ENERGÍA. El MINISTERIO DE SALUD participará en la definición y la medición de los indicadores sanitarios del artículo 15 de la ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Definiciones (art. 2°)",
+     "texto": "A los fines del inciso b) del artículo 2° de la ley, el ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD publicará, dentro de los NOVENTA (90) días, el listado de características que convierten a un artefacto en inseguro según las normas técnicas vigentes. A los fines del inciso d), la autoridad de aplicación aprobará las especificaciones de las soluciones alternativas seguras."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Relevamiento (art. 5°)",
+     "texto": "El relevamiento del artículo 5° de la ley se realizará mediante convenios con las provincias y los municipios, con un formulario común aprobado por la autoridad de aplicación, que registrará por hogar la fuente de energía para cocinar y calefaccionarse, el tipo y estado de los artefactos, la distancia a la red existente y la condición socioeconómica. La autoridad de aplicación podrá utilizar la información del Instituto Nacional de Estadística y Censos (INDEC) y de los registros de subsidios energéticos. Los resultados se publicarán con desagregación por provincia y localidad, sin datos que permitan identificar a los hogares."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Criterios de prioridad (art. 6°)",
+     "texto": "Los criterios del artículo 6° de la ley ponderarán, como mínimo: la proporción de hogares sin acceso a energía segura en la localidad; las intoxicaciones por monóxido de carbono y los incendios domiciliarios registrados; la condición socioeconómica de los hogares; y la existencia de redes o gasoductos ya construidos en la zona. La autoridad de aplicación publicará los criterios, su ponderación y el puntaje de cada localidad antes de cada asignación anual."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Metas anuales (art. 7°)",
+     "texto": "La autoridad de aplicación propondrá las metas anuales por provincia al elaborar el proyecto de ley de presupuesto de cada ejercicio, sobre la base del relevamiento, de los criterios del artículo anterior y de los convenios del artículo 14 de la ley. Las metas se expresarán en metros de red, conexiones internas, artefactos reemplazados y hogares atendidos con soluciones alternativas, por provincia."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Uso de la infraestructura existente (art. 8°)",
+     "texto": "Dentro de cada meta provincial, la autoridad de aplicación asignará en primer término las conexiones internas sobre redes ya habilitadas y sin usuarios conectados, y en segundo término la terminación de obras en curso."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Financiamiento de la conexión (art. 9°)",
+     "texto": "Los hogares comprendidos en las metas podrán optar por pagar la conexión interna en cuotas mensuales o solicitar el subsidio focalizado. La autoridad de aplicación fijará por resolución, y publicará, el monto máximo financiable, la cantidad de cuotas, la tasa de interés subsidiada o nula y la proporción máxima de los ingresos del hogar que puede representar la cuota. El subsidio focalizado alcanzará a los hogares incluidos en el régimen de Subsidios Energéticos Focalizados (SEF) creado por el Decreto N° 943/2025, o el que lo reemplace, y cubrirá total o parcialmente el costo según su condición socioeconómica. Las cuotas podrán cobrarse por intermedio de la factura del servicio, conforme a los convenios con las distribuidoras y cooperativas."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Recambio de artefactos (art. 10)",
+     "texto": "El programa de recambio se ejecutará en los hogares vulnerables que surjan del relevamiento, con equipos certificados adquiridos por los procedimientos de contratación vigentes e instalados por instaladores matriculados. El registro del artículo 10 de la ley consignará, por cada recambio, el número de serie y la certificación del equipo retirado y del instalado, la matrícula del instalador, la localidad y la fecha. Los artefactos retirados se inutilizarán y no podrán reingresar al mercado."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Funciones técnicas del ente regulador (arts. 11 y 12)",
+     "texto": "El ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD dictará, dentro de los CIENTO OCHENTA (180) días, las normas del cronograma de prohibición gradual del artículo 11 de la ley y de matrícula de instaladores y certificación del artículo 12, y verificará por muestreo, cada año, al menos el CINCO POR CIENTO (5 %) de las instalaciones realizadas en el marco de la ley."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Convenios (art. 14)",
+     "texto": "Los convenios del artículo 14 de la ley se ajustarán al modelo que apruebe la autoridad de aplicación y fijarán las metas locales, los aportes de cada parte, el ejecutor de cada obra, la rendición de cuentas y la obligación de informar los datos del artículo 16 de la ley. La autoridad de aplicación promoverá la suscripción del acuerdo federal de energía segura en el hogar con las provincias."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Indicadores sanitarios (art. 15)",
+     "texto": "El MINISTERIO DE SALUD definirá, dentro de los NOVENTA (90) días, la metodología para medir las intoxicaciones por monóxido de carbono, los incendios domiciliarios vinculados al uso de energía y la calidad del aire interior, con base en los sistemas nacionales de vigilancia epidemiológica, y fijará la línea de base por provincia."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Publicación (art. 16)",
+     "texto": "La publicación semestral del artículo 16 de la ley se realizará en el sitio oficial de la autoridad de aplicación, en formato de datos abiertos, e incluirá por provincia: las metas del ejercicio y su avance; los artefactos reemplazados; las conexiones realizadas y financiadas en cuotas o con subsidio; los fondos comprometidos y pagados; y los indicadores sanitarios. El informe anual al Congreso de la Nación se presentará antes del 30 de abril de cada año."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Financiamiento (art. 17)",
+     "texto": "El JEFE DE GABINETE DE MINISTROS dispondrá las reasignaciones de créditos necesarias para financiar en el ejercicio de entrada en vigencia de la ley el programa de recambio de artefactos, dentro de la jurisdicción de la autoridad de aplicación y sin aumento del gasto total autorizado."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase a la autoridad de aplicación a dictar las normas complementarias y aclaratorias del presente decreto."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 16,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

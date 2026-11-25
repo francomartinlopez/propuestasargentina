@@ -1,0 +1,120 @@
+{
+ "id": "N379",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de reglas electorales limpias",
+ "sumilla": "La provincia ratifica el Acuerdo Federal, deroga los sistemas de lemas o de doble voto simultáneo, los acoples y las listas colectoras, adopta la Boleta Única para todas sus categorías y crea una Junta Electoral Provincial integrada por jueces de carrera designados por sorteo, que organiza las elecciones y controla las cuentas de campaña.",
+ "cuando": "Fase II (años 2-3): después de la firma del Acuerdo «Acuerdo Federal de Reglas Electorales Limpias», en paralelo con la ley nacional «Ley de ratificación del Acuerdo Federal de Reglas Electorales Limpias y de cofinanciamiento de la Boleta Única y la logística electoral de las provincias adheridas»; debe sancionarse al menos doce meses antes de la siguiente elección provincial.",
+ "cuando_breve": "Fase II",
+ "tramite": "Ley provincial; mayoría y trámite según cada constitución provincial.",
+ "motivos": "La Provincia firmó con el Estado nacional el Acuerdo Federal de Reglas Electorales Limpias, que fija un estándar común para las elecciones de todo el país y respeta la autonomía de cada jurisdicción para dictar su propio régimen. Este proyecto lo ratifica y lo pone en práctica. Deroga los sistemas de lemas o de doble voto simultáneo, los acoples y las listas colectoras, que suman votos de candidaturas rivales y multiplican las boletas, para que cada elector sepa a quién vota. Adopta la Boleta Única de papel, provista por el Estado, con todas las listas en igualdad de condiciones, siguiendo el modelo que ya se aplica en las elecciones nacionales y que la Nación cofinancia para las provincias que adhieren. Y crea una Junta Electoral Provincial independiente del poder político, integrada por jueces de carrera designados por sorteo público, que organiza las elecciones, oficializa las candidaturas y las boletas, realiza el escrutinio definitivo y controla las cuentas de campaña, que se publican mientras la campaña transcurre. Con estas reglas, la Provincia cumple además la condición para votar en forma simultánea con las elecciones nacionales y reduce el costo de sus elecciones.",
+ "visto": null,
+ "considerando": null,
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Ratificación",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Ratificación",
+     "texto": "Ratifícase el Acuerdo Federal de Reglas Electorales Limpias suscripto el [fecha] entre el Estado nacional, la Provincia de [Provincia] y las demás jurisdicciones que lo firmaron, que como Anexo forma parte de la presente ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Lemas, acoples y colectoras",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Derogación",
+     "texto": "Deróganse la Ley N° [—] y toda otra disposición que establezca, para cualquier categoría de cargos provinciales o municipales, sistemas de lemas o de doble voto simultáneo, acoples o listas colectoras."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Prohibición",
+     "texto": "En las elecciones de cargos provinciales y municipales no se admiten: a) sistemas de lemas o de doble voto simultáneo, entendidos como todo sistema en el que los votos obtenidos por distintas listas, sublemas o candidaturas de una misma agrupación, o de agrupaciones distintas, se suman para adjudicar un cargo o para determinar la lista ganadora; b) acoples, entendidos como la adhesión de listas de candidatos de una o más categorías a la candidatura de otra categoría, cuando los votos de unas se suman o se transfieren a la otra, o cuando se ofrecen en una boleta común con candidaturas de otra agrupación; ni c) listas colectoras, entendidas como la oficialización, por dos o más agrupaciones, de listas que postulan a la misma persona para el mismo cargo, o de listas que, sin postular candidatos propios en una categoría, adhieren a la candidatura de otra agrupación en esa categoría. Cada agrupación oficializa una sola lista por categoría."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Boleta Única",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Adopción",
+     "texto": "Las elecciones de cargos provinciales y municipales se realizan con Boleta Única de papel, provista por el Estado provincial, que contiene todas las listas oficializadas de cada categoría, con la misma tipografía y el mismo espacio para cada una, la denominación y el logotipo de la agrupación, el nombre y la fotografía de los primeros candidatos y una casilla en la que el elector marca su opción."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Diseño y aprobación",
+     "texto": "La Junta Electoral Provincial aprueba el diseño de la Boleta Única y su contenido, por sorteo público del orden de las listas, al menos cuarenta y cinco (45) días antes de la elección, y lo publica. Puede adoptar el diseño que ofrezca la Secretaría del Interior de la Jefatura de Gabinete de Ministros de la Nación conforme al Acuerdo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Junta Electoral Provincial",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Creación e independencia",
+     "texto": "Créase la Junta Electoral Provincial, órgano permanente, con autonomía funcional y presupuesto propio, que no depende del Poder Ejecutivo ni recibe instrucciones de ningún otro poder."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Integración",
+     "texto": "La Junta se integra con tres (3) miembros titulares y tres (3) suplentes, que son jueces de carrera del Poder Judicial provincial con al menos diez (10) años de antigüedad en la magistratura, designados por sorteo público entre los jueces de segunda instancia que reúnan esa condición. Duran cuatro (4) años, no pueden ser designados por un período consecutivo y conservan su cargo judicial. Solo pueden ser removidos por las causas y procedimientos previstos para la remoción de los magistrados."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Funciones",
+     "texto": "Corresponde a la Junta: a) organizar las elecciones de cargos provinciales y, por convenio, las municipales; b) oficializar las candidaturas y las boletas; c) designar y capacitar a las autoridades de mesa; d) realizar el escrutinio definitivo y proclamar a los electos; e) controlar el financiamiento y las cuentas de campaña; y f) coordinar con la Justicia Nacional Electoral los aspectos comunes de las elecciones simultáneas."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cuentas de campaña",
+     "texto": "Las agrupaciones informan a la Junta cada aporte y cada gasto de campaña dentro de las cuarenta y ocho (48) horas, y la Junta los publica en su sitio oficial, en formato de datos abiertos, dentro de las setenta y dos (72) horas. Dentro de los noventa (90) días de la elección, cada agrupación presenta el informe final de campaña, que la Junta audita y publica con su dictamen. Las infracciones se sancionan conforme a la legislación provincial de financiamiento de los partidos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Cofinanciamiento",
+     "texto": "Autorízase al Poder Ejecutivo provincial a celebrar con la Secretaría del Interior los convenios de cofinanciamiento de la Boleta Única y de la logística electoral previstos en el Acuerdo, cuyos fondos se aplican exclusivamente a esos fines."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Normas constitucionales",
+     "texto": "Las disposiciones de la presente ley que se opongan a normas de la Constitución provincial se aplican desde la reforma de esa Constitución, que el Poder Ejecutivo provincial promueve conforme a la cláusula quinta del Acuerdo."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la aplicación de la presente ley se atienden con los créditos del presupuesto provincial destinados a las elecciones, que se transfieren a la Junta Electoral Provincial, y con los fondos que la Provincia reciba por los convenios del artículo 10."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Primera aplicación",
+     "texto": "La presente ley se aplica a partir de la primera elección provincial que se celebre una vez transcurridos doce (12) meses desde su sanción. La Junta Electoral Provincial se integra dentro de los noventa (90) días de la promulgación y asume sus funciones desde esa elección; hasta entonces, rigen los organismos electorales vigentes."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Adecuación",
+     "texto": "Quedan sin efecto, en cuanto se opongan a la presente, las disposiciones de la legislación electoral provincial. El Poder Ejecutivo provincial reglamenta la presente ley dentro de los sesenta (60) días."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [
+  "Leyes provinciales de lemas, acoples y colectoras (Ley N° [—] de cada provincia)"
+ ],
+ "variantes": null
+}

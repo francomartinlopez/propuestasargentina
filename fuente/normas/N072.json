@@ -1,0 +1,118 @@
+{
+ "id": "N072",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de estabilidad de la economía del conocimiento",
+ "sumilla": "Prorroga hasta el 31 de diciembre de 2039 el Régimen de Promoción de la Economía del Conocimiento (Ley 27.506) con sus beneficios centrales y una evaluación pública independiente cada dos años, y consagra por ley la libre disponibilidad de las divisas que cobran todos los exportadores de servicios, ratificando la comunicación del BCRA del año 1.",
+ "cuando": "Fase II (años 2-3); la prórroga rige desde el 1/1/2030 y su costo fiscal se activa con el presupuesto de ese ejercicio",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple. Cámara de origen: Diputados (prórroga de beneficios tributarios y de la reducción de contribuciones, art. 52 CN).",
+ "motivos": "La economía del conocimiento —software, servicios profesionales, biotecnología, servicios audiovisuales y satelitales— es uno de los principales complejos exportadores del país y uno de los pocos en los que la Argentina compite con su gente, sin depender de recursos naturales. Es intensiva en empleo calificado, está distribuida en muchas ciudades y paga salarios altos. Su crecimiento choca con la inestabilidad de las reglas y con las trabas para disponer de las divisas que cobra. El Régimen de Promoción de la Ley N° 27.506, modificada por la Ley N° 27.570, vence el 31 de diciembre de 2029. Para quien invierte en formar equipos durante años, un horizonte que se acorta es un costo. El proyecto lo prorroga hasta 2039 con sus beneficios centrales —el bono de crédito fiscal sobre las contribuciones patronales y la reducción del impuesto a las ganancias según el tamaño de la empresa— y lo somete cada dos años a una evaluación pública e independiente de resultados y de costo fiscal, que se remite al Congreso. En materia cambiaria, consagra por ley lo que la normativa del Banco Central ya reconoce: que los cobros de exportaciones de servicios acreditados en una cuenta propia en moneda extranjera en el país son de libre disponibilidad, para todos los exportadores y no solo para algunos, de modo que no dependan de una norma de coyuntura. El costo fiscal se mantiene en el nivel actual, dentro del cupo que fija cada ley de presupuesto.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley da estabilidad al Régimen de Promoción de la Economía del Conocimiento creado por la Ley N° 27.506, modificada por la Ley N° 27.570, mediante su prórroga con evaluación pública de resultados, y establece la libre disponibilidad de las divisas que cobran los exportadores de servicios."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Prórroga del régimen",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Prórroga",
+     "texto": "Prorrógase hasta el 31 de diciembre de 2039 el plazo de vigencia del Régimen de Promoción de la Economía del Conocimiento establecido en el artículo 20 de la Ley N° 27.506, en el texto según el artículo 18 de la Ley N° 27.570."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Beneficios",
+     "texto": "Durante la prórroga se mantienen los beneficios del régimen en los términos vigentes a la fecha de sanción de la presente ley, en particular el bono de crédito fiscal de hasta el SETENTA POR CIENTO (70 %) de las contribuciones patronales del artículo 8° y la reducción del impuesto a las ganancias del SESENTA POR CIENTO (60 %) para micro y pequeñas empresas, del CUARENTA POR CIENTO (40 %) para medianas y del VEINTE POR CIENTO (20 %) para grandes empresas del artículo 10 de la Ley N° 27.506. La estabilidad de los beneficios de los inscriptos se extiende hasta la nueva fecha de vigencia del régimen."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Evaluación pública bienal",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Evaluación",
+     "texto": "El régimen será evaluado cada DOS (2) años por un evaluador independiente, que será una universidad nacional u otra institución académica pública seleccionada por la autoridad de aplicación mediante procedimiento público. La evaluación medirá, al menos: a) las exportaciones de servicios basados en el conocimiento; b) el empleo registrado del sector; c) el gasto tributario del régimen, total y en relación con el empleo y las exportaciones de los beneficiarios; d) la distribución de los beneficios por tamaño de empresa y por provincia; y e) la incorporación de nuevas empresas e independientes al régimen."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Publicación y remisión al Congreso",
+     "texto": "La evaluación se publicará completa, con sus datos en formato abierto, y se remitirá al Honorable Congreso de la Nación junto con el proyecto de ley de presupuesto del ejercicio siguiente. La primera evaluación se publicará dentro de los DOS (2) años de la entrada en vigencia de la presente ley."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Acceso a la información",
+     "texto": "La autoridad de aplicación y la Agencia de Recaudación y Control Aduanero (ARCA) suministrarán al evaluador la información necesaria en forma anonimizada y agregada, con resguardo del secreto fiscal del artículo 101 de la Ley N° 11.683."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Libre disponibilidad de las divisas de exportación de servicios",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Libre disponibilidad",
+     "texto": "Los cobros de exportaciones de servicios, cualquiera sea el exportador —persona humana o jurídica, inscripta o no en el régimen de la Ley N° 27.506—, no estarán sujetos a la obligación de ingreso y liquidación en el mercado de cambios cuando se acrediten en una cuenta en moneda extranjera de titularidad del exportador en una entidad financiera del país. Los fondos así acreditados son de libre disponibilidad para su titular. Ratifícase, en ese alcance, lo dispuesto por la Comunicación «A» [—] del Banco Central de la República Argentina."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Normas cambiarias",
+     "texto": "Hasta que rija el artículo 11 de la Ley N° [—] de libertad de moneda y de indexación en los contratos, la obligación de ingreso y liquidación de divisas establecida en el artículo 1° del Decreto N° 609/2019 no comprende los cobros del artículo anterior. En ejercicio de las funciones del artículo 4°, inciso f), y del artículo 29, incisos a) y b), de la Ley N° 24.144, el Banco Central de la República Argentina no podrá establecer para esos cobros, durante ese período, obligación de liquidación, plazos de ingreso, topes ni requisitos distintos de la identificación del comprobante de exportación al que corresponden, y adecuará sus normas dentro de los TREINTA (30) días de la entrada en vigencia de la presente ley."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Derogación",
+     "texto": "Deróganse los Capítulos I y II, artículos 1° a 11, del Decreto N° 679/2022, cuya materia queda comprendida en el régimen de este capítulo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Costo fiscal y financiamiento",
+     "texto": "El gasto tributario derivado de la prórroga se atenderá dentro del cupo fiscal anual del régimen que fije cada ley de presupuesto, que no podrá superar, en proporción del producto interno bruto, el gasto tributario estimado para el régimen en la ley de presupuesto del ejercicio de entrada en vigencia de la presente ley. El gasto correspondiente a la prórroga se activa con la ley de presupuesto del ejercicio 2030."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación de la presente ley la Secretaría de Producción y Comercio del Ministerio de Economía, autoridad de aplicación del régimen de la Ley N° 27.506."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su publicación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 14,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.506, art. 20 (texto según art. 18 de la Ley 27.570): plazo de vigencia prorrogado al 31/12/2039",
+  "Decreto 609/2019, art. 1: la obligación de ingreso y liquidación no comprende los cobros de exportaciones de servicios acreditados en cuenta propia en moneda extranjera en el país"
+ ],
+ "deroga": [
+  "Decreto 679/2022 (DNU), Capítulos I y II (arts. 1 a 11); se mantiene el Capítulo III"
+ ],
+ "variantes": null
+}

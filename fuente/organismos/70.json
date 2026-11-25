@@ -1,0 +1,163 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Direcciones de personal de las fuerzas",
+    "estado": "modificado",
+    "rol": "Ejecutan la rotación escalonada y llevan el registro de permanencia.",
+    "hoy": "Dirección General de Personal de la PFA (Estatuto, art. 40) y áreas equivalentes de GNA, PNA, PSA y SPF",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "existente",
+    "rol": "Dicta la resolución puente y publica la información trimestral. Aprueba estándares de cupo, plan de plazas, metas de trabajo y educación y el programa de reinserción. Aprueba estándares, metas y el programa de reinserción. Firma por la Nación, coordina el Consejo Penitenciario del Acuerdo y brinda asistencia técnica. Aprueba protocolos, custodia las grabaciones, lleva los registros de detenciones, de armas y de denuncias e informa al Congreso. Ministerio de la autoridad de aplicación.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Seguridad del Ministerio de Justicia y Seguridad",
+      "estado": "modificado",
+      "rol": "Declara las zonas críticas, aprueba los planes de rotación, fija los adicionales y publica el cumplimiento. Diseña la carrera que valora la movilidad.",
+      "hoy": "Ministerio de Seguridad Nacional",
+      "hijos": []
+     },
+     {
+      "nombre": "Servicio Penitenciario Federal",
+      "estado": "modificado",
+      "rol": "Incorpora y revisa a los internos, habilita los módulos de Ezeiza y Marcos Paz y mantiene los inhibidores. Fija y publica el cupo, clasifica, aplica el régimen de líderes e instala inhibidores. Fija el cupo, clasifica y aplica el régimen especial. Coordina el alojamiento de alta seguridad y los traslados interjurisdiccionales.",
+      "hoy": "Servicio Penitenciario Federal (Ley 20.416; organismo desconcentrado del MSN)",
+      "hijos": []
+     },
+     {
+      "nombre": "Dirección de infraestructura penitenciaria",
+      "estado": "modificado",
+      "rol": "Instala los inhibidores en todos los pabellones en 12 meses.",
+      "hoy": "Dirección Nacional de Modernización del Sistema y de la Arquitectura Penitenciaria (Subsecretaría de Asuntos Penitenciarios, MSN)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Seguridad",
+      "estado": "modificado",
+      "rol": "Ejecuta el programa de reinserción con los patronatos.",
+      "hoy": "Dirección Nacional de Reinserción Social (Subsecretaría de Asuntos Penitenciarios, MSN; Decreto 327/2026)",
+      "hijos": []
+     },
+     {
+      "nombre": "Área de estadística criminal",
+      "estado": "existente",
+      "rol": "Recibe los datos de cupo y población de cada provincia.",
+      "hoy": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena (Ministerio de Justicia)",
+      "hijos": []
+     },
+     {
+      "nombre": "Oficina ministerial de asuntos internos",
+      "estado": "nuevo",
+      "rol": "Investiga uso de armas con lesiones o muerte, abusos, corrupción y faltas graves; instruye sumarios y denuncia delitos al fiscal (ejecuta «Ley de Uso de la Fuerza de las Fuerzas Federales» y «Ley de Uso de la Fuerza de las Fuerzas Federales»).",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Fuerzas federales",
+      "estado": "existente",
+      "rol": "Aplican la ley, usan cámaras corporales y alimentan los registros.",
+      "hoy": "PFA, GNA, PNA, PSA y SPF (MSN)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Justicia",
+      "estado": "modificado",
+      "rol": "Autoridad de aplicación: habilita los establecimientos y acuerda con las provincias el plan de centros regionales.",
+      "hoy": "Secretaría de Justicia (Ministerio de Justicia)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Justicia de ejecución",
+    "estado": "existente",
+    "rol": "Control judicial de la incorporación, las restricciones y las revisiones. Controlan el cupo y el régimen de líderes.",
+    "hoy": "Poder Judicial de la Nación",
+    "hijos": []
+   },
+   {
+    "nombre": "Procuración Penitenciaria de la Nación",
+    "estado": "existente",
+    "rol": "Control externo del régimen. Recibe la información de cupo y controla.",
+    "hoy": "Procuración Penitenciaria (Ley 25.875)",
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos internos de la policía federal",
+    "estado": "modificado",
+    "rol": "Sale de la Jefatura y pasa a ser delegación de la Oficina.",
+    "hoy": "Dirección General de Asuntos Internos de la PFA (depende de la Jefatura; Decreto 383/2025, art. 17 apartado IV y art. 36)",
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos internos de gendarmería",
+    "estado": "modificado",
+    "rol": "Sale de la dependencia del Jefe de la fuerza.",
+    "hoy": "Dirección de Asuntos Internos de la GNA (depende del Jefe; Decreto 454/2025, Estatuto, art. 9 inc. d)",
+    "hijos": []
+   },
+   {
+    "nombre": "Control externo de la policía aeroportuaria",
+    "estado": "modificado",
+    "rol": "Se integra como delegación y conserva sus órganos y funciones.",
+    "hoy": "Dirección de Control Policial Externo de la PSA (Ley 26.102, art. 75, texto del art. 25 del Decreto 456/2025; Subsecretaría de Intervención Federal, MSN)",
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos internos de prefectura",
+    "estado": "nuevo",
+    "rol": "Investiga en la PNA las materias de la Oficina (hoy la disciplina está a cargo del Prefecto Nacional Naval, art. 11 Ley 18.398).",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos internos penitenciarios",
+    "estado": "nuevo",
+    "rol": "Investiga en el SPF las materias de la Oficina.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Mecanismo nacional contra la tortura",
+    "estado": "existente",
+    "rol": "Coordina el registro público de denuncias y accede al registro de detenciones.",
+    "hoy": "Comité Nacional (Ley 26.827), ámbito del Poder Legislativo",
+    "hijos": []
+   },
+   {
+    "nombre": "Fiscalía federal",
+    "estado": "existente",
+    "rol": "Acceso directo a las grabaciones y a los registros; recibe las denuncias de la Oficina.",
+    "hoy": "Ministerio Público Fiscal de la Nación",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Audita las declaraciones juradas de los mandos."
+  },
+  {
+   "nombre": "Gobiernos provinciales",
+   "rol": "Adecuan sus establecimientos, publican datos y coordinan la alta seguridad."
+  },
+  {
+   "nombre": "Comisión parlamentaria de control de seguridad",
+   "rol": "Recibe el informe anual."
+  },
+  {
+   "nombre": "Comité Nacional para la Prevención de la Tortura",
+   "rol": "Audita cada año los establecimientos."
+  }
+ ]
+}

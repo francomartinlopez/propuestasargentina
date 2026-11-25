@@ -1,0 +1,110 @@
+{
+ "id": "N405",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de segunda oportunidad",
+ "sumilla": "Reglamenta «Ley de segunda oportunidad: insolvencia de las personas humanas, concurso preventivo simplificado y prevención del sobreendeudamiento»: designa al Ministerio de Justicia y Seguridad como autoridad de aplicación, monta la plataforma sobre TAD y Mi Argentina, fija el formulario único, el cálculo del ingreso protegido, el registro y la capacitación de conciliadores, su honorario fijo a cargo de los acreedores profesionales (1/2 salario mínimo con acuerdo, 1/4 sin acuerdo), el voto electrónico y los datos abiertos.",
+ "cuando": "Fase I (año 1), dentro de los 90 días de publicada la ley «Ley de segunda oportunidad: insolvencia de las personas humanas, concurso preventivo simplificado y prevención del sobreendeudamiento» (art. 34 de esa ley)",
+ "cuando_breve": "Fase I",
+ "tramite": "Decreto reglamentario (art. 99 inc. 2 CN).",
+ "motivos": null,
+ "visto": "El Expediente N° […], la Ley N° [—] de segunda oportunidad, las Leyes Nros. 24.240, 24.522 y 25.326, y",
+ "considerando": [
+  "Que la Ley N° [—] creó un régimen de insolvencia para las personas humanas sobreendeudadas, con una conciliación extrajudicial gratuita y digital, un plan de pagos con protección de la vivienda única y de un ingreso protegido, y la liberación del saldo una vez cumplido el plan, y estableció un concurso preventivo simplificado para las micro y pequeñas empresas.",
+  "Que el artículo 34 de esa ley encomienda al Poder Ejecutivo nacional su reglamentación dentro de los noventa (90) días, y su artículo 30 le asigna designar la autoridad de aplicación en el área de justicia.",
+  "Que la conciliación debe funcionar en forma íntegramente digital, sobre los sistemas de trámites a distancia existentes, para que no tenga costo para la persona deudora ni para el Tesoro más allá de la reasignación de créditos prevista en el artículo 32 de la ley.",
+  "Que el honorario del conciliador debe ser fijo y previsible y estar a cargo de los acreedores profesionales, conforme al artículo 8° de la ley.",
+  "Que han tomado intervención los servicios jurídicos competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase al Ministerio de Justicia y Seguridad como autoridad de aplicación de la Ley N° [—] de segunda oportunidad, que ejercerá sus funciones por medio de la Secretaría de Justicia. La autoridad de aplicación dictará las normas complementarias y aclaratorias."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Plataforma digital (artículo 30 de la Ley)",
+     "texto": "La plataforma digital única se desarrollará sobre los sistemas de Trámites a Distancia (TAD) y Mi Argentina y estará operativa a la entrada en vigencia de la Ley. Permitirá presentar la solicitud, notificar a los acreedores en su domicilio electrónico, confirmar u observar créditos, votar el plan, remitir lo actuado al juez competente y consultar el registro público de procedimientos. La identidad de la persona deudora se validará con los mecanismos de identidad digital del Estado nacional."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Domicilio electrónico de los acreedores profesionales",
+     "texto": "Las entidades y proveedores alcanzados por el artículo 27 de la Ley constituirán domicilio electrónico en la plataforma dentro de los SESENTA (60) días de su entrada en vigencia. El Banco Central de la República Argentina informará a la autoridad de aplicación la nómina de entidades y proveedores que informan a la Central de Deudores. Las notificaciones en ese domicilio se tienen por válidas desde su recepción. Los demás acreedores serán notificados en el domicilio que denuncie la persona deudora, por medios electrónicos si los tuviera o por cédula."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Formulario único (artículo 7° de la Ley)",
+     "texto": "El formulario único contendrá: la composición del hogar; los ingresos de cada integrante y su origen; los gastos esenciales; los bienes registrables y las cuentas; cada deuda con su acreedor, saldo, cuota, garantía y situación; los juicios y embargos en trámite; y la propuesta inicial, si la hubiera. La plataforma incorporará de oficio el informe de deuda total del Banco Central de la República Argentina y, con el consentimiento de la persona deudora, los datos de ingresos registrados en los organismos de la seguridad social y tributarios."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Ingreso protegido (artículo 3° de la Ley)",
+     "texto": "La plataforma calculará el ingreso protegido con el valor de la Canasta Básica Total del INDEC del último mes publicado para la región de residencia y la composición del hogar declarada, y con el importe inembargable vigente. El ingreso protegido se actualizará cada TRES (3) meses durante el plan. El aumento por gastos de salud, discapacidad o cuidado se fundará en la documentación que presente la persona deudora."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Registro de conciliadores y centros (artículo 8° de la Ley)",
+     "texto": "Para inscribirse en el registro, los conciliadores deberán acreditar título de abogado o contador público, o matrícula de mediador, y aprobar una capacitación de al menos CUARENTA (40) horas en insolvencia de personas humanas, educación financiera y negociación, que dictará la autoridad de aplicación en forma gratuita y a distancia o por convenio con universidades y colegios profesionales. Los centros se inscribirán acreditando su sede, su personal y su conexión con la plataforma. La asignación de las solicitudes a los conciliadores se hará por sorteo entre los inscriptos en la jurisdicción del domicilio de la persona deudora, salvo que esta elija un servicio público."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Honorarios de los conciliadores (artículo 8° de la Ley)",
+     "texto": "El honorario fijo del conciliador será equivalente a MEDIO (1/2) Salario Mínimo, Vital y Móvil cuando se homologue un plan acordado y a UN CUARTO (1/4) de ese salario cuando la conciliación concluya sin acuerdo. Se distribuirá entre los acreedores obligados al pago en proporción a sus créditos, conforme a la liquidación que practique la plataforma, y se pagará dentro de los QUINCE (15) días de la homologación o de la conclusión. La autoridad de aplicación podrá revisar la escala una vez por año."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Plazos y cómputo (artículos 9° a 13 de la Ley)",
+     "texto": "Los plazos de la Ley se computan en días hábiles administrativos, salvo los de NOVENTA (90) y TREINTA (30) días de los artículos 9° y 13, que se computan en días corridos. La plataforma registrará la fecha y la hora de cada actuación y notificará automáticamente el vencimiento de cada plazo."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Comunicación de la admisión",
+     "texto": "La autoridad de aplicación comunicará por medios electrónicos, dentro de las VEINTICUATRO (24) horas, la admisión de cada solicitud al Banco Central de la República Argentina, a los acreedores, a los empleadores y organismos que liquiden ingresos de la persona deudora y a los registros que correspondan, a los fines de la suspensión de embargos y débitos y de la protección del ingreso protegido."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Mayoría y voto (artículo 11 de la Ley)",
+     "texto": "El voto se emite en la plataforma, con identificación del acreedor o de su representante. La plataforma computará en forma automática el capital de los acreedores que votan, el quórum y la mayoría, excluirá a las personas del segundo párrafo del artículo 11 de la Ley según la declaración de la persona deudora y las observaciones de los acreedores, y emitirá el acta."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Relación con el Servicio Nacional de Conciliación de consumo",
+     "texto": "La autoridad de aplicación celebrará con la Secretaría de Producción y Comercio del Ministerio de Economía, autoridad nacional de aplicación de la Ley N° 24.240, un convenio para que el Servicio Nacional de Conciliación Previa en las Relaciones de Consumo actúe como centro de conciliación y derive a la plataforma los reclamos de consumidores que revelen una situación de sobreendeudamiento."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Concurso preventivo simplificado (artículos 288 a 289 quater de la Ley N° 24.522)",
+     "texto": "La condición de micro o pequeña empresa se acredita con el certificado vigente del registro de empresas MiPyME. La autoridad de aplicación aprobará el formulario electrónico de petición del concurso preventivo simplificado y llevará el registro público electrónico de procedimientos concursales, que los tribunales podrán alimentar por interoperabilidad. El Boletín Oficial de la República Argentina publicará sin cargo los edictos del artículo 289 de la Ley N° 24.522."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Datos abiertos e informe (artículo 30 de la Ley)",
+     "texto": "La autoridad de aplicación publicará cada trimestre, dentro de los CUARENTA Y CINCO (45) días de su cierre, los datos del inciso c) del artículo 30 de la Ley por provincia, tipo de acreedor y tramo de deuda, y elevará al Congreso de la Nación el informe anual antes del 31 de marzo de cada año."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Convenios con las jurisdicciones",
+     "texto": "La autoridad de aplicación suscribirá convenios con las provincias, la Ciudad Autónoma de Buenos Aires y sus poderes judiciales que adhieran, para integrar sus servicios públicos de mediación como centros, conectar su expediente electrónico con la plataforma y compartir datos con la finalidad del artículo 30 de la Ley."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el mismo día que la Ley N° [—] de segunda oportunidad, salvo el artículo 3°, que rige desde su publicación."
+    },
+    {
+     "n": 16,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

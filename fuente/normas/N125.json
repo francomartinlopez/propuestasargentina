@@ -1,0 +1,93 @@
+{
+ "id": "N125",
+ "tipo": "decreto",
+ "titulo": "Decreto de creación de la Unidad de Seguridad de Suministro",
+ "sumilla": "Crea en el Ministerio de Economía una unidad técnica que releva en forma permanente los insumos críticos de los que depende el país, con datos de Aduana, y elabora el mapa de dependencias y las respuestas proporcionales para cada insumo de riesgo alto.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "No aplica: decreto simple de organización del Poder Ejecutivo nacional (art. 99, inc. 1, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley de Ministerios N° 22.520 y sus modificatorias, la Ley N° 11.683 de Procedimiento Tributario, la Ley N° 25.326 de Protección de los Datos Personales y el Decreto N° 50/2019 y sus modificatorios, y",
+ "considerando": [
+  "Que el funcionamiento de la economía y de servicios esenciales depende de insumos que en muchos casos provienen de pocos proveedores o de pocos países, como fertilizantes, concentrado de uranio para las centrales nucleares, gas natural licuado, principios activos de medicamentos y vacunas, semiconductores, coque para la siderurgia y gasoil.",
+  "Que no existe en la Administración Pública Nacional un relevamiento integral y permanente de esas dependencias, que identifique el origen, la concentración, la posibilidad de reemplazo y el stock disponible de cada insumo.",
+  "Que ese conocimiento permite anticipar interrupciones de suministro originadas en el exterior y responder en forma proporcional al riesgo, prefiriendo la diversificación de proveedores antes que el cierre de la economía.",
+  "Que los datos de importación que registra el servicio aduanero son la fuente principal para ese relevamiento, y que el acceso a la información individual alcanzada por el secreto fiscal del artículo 101 de la Ley N° 11.683 requiere una ley, por lo que hasta su sanción la Unidad trabajará con información agregada o no alcanzada por dicho secreto.",
+  "Que el artículo 20 de la Ley N° 22.520 establece las competencias del Ministerio de Economía, y que resulta adecuado crear la Unidad en su ámbito, con un equipo técnico reducido y sin crear cargos con funciones ejecutivas adicionales.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 1, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación",
+     "texto": "Créase la Unidad de Seguridad de Suministro en el ámbito del Ministerio de Economía, con dependencia directa del titular de esa cartera."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Objeto",
+     "texto": "La Unidad tiene por objeto relevar en forma integral y permanente los insumos críticos de los que depende el país, evaluar su riesgo de suministro y proponer respuestas proporcionales para cada insumo de riesgo alto."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Funciones",
+     "texto": "Son funciones de la Unidad:\na) elaborar y actualizar el mapa de dependencias de insumos críticos, que consignará para cada insumo el proveedor, el país de origen, el grado de concentración, la posibilidad de reemplazo y el stock disponible;\nb) clasificar los insumos según su riesgo de suministro;\nc) proponer para cada insumo de riesgo alto la respuesta que corresponda: diversificación de proveedores, acuerdos con socios confiables, compras conjuntas regionales, en particular en el ámbito del Mercosur, stocks estratégicos o producción local;\nd) actualizar el mapa al menos una vez por año y ante cada crisis internacional que pueda afectar el suministro;\ne) asistir a la Secretaría de Producción y Comercio del Ministerio de Economía y a la Secretaría de Comercio Internacional e Inversiones del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto con la información del mapa;\nf) elaborar una versión pública agregada del mapa y una versión reservada para uso del Ministerio de Justicia y Seguridad y del Ministerio de Defensa."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Lista inicial",
+     "texto": "El primer mapa de dependencias comprenderá, al menos, los siguientes insumos: urea y fertilizantes fosfatados; concentrado de uranio para las centrales nucleares; gas natural licuado; principios activos de medicamentos y vacunas; semiconductores y componentes electrónicos; coque para la siderurgia; y gasoil."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Acceso a la información",
+     "texto": "La Unidad tendrá acceso a la información de comercio exterior que registra la Agencia de Recaudación y Control Aduanero, por intermedio de su Dirección General de Aduanas, en la medida en que no se encuentre alcanzada por el secreto fiscal del artículo 101 de la Ley N° 11.683 o se le provea en forma agregada. Podrá requerir información a los organismos de la Administración Pública Nacional y solicitarla a las empresas y cámaras empresarias, cuya colaboración será voluntaria. El tratamiento de datos se ajustará a la Ley N° 25.326."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Mesa de coordinación",
+     "texto": "Créase la Mesa de Coordinación de Seguridad de Suministro, presidida por el titular de la Unidad e integrada por representantes del Ministerio de Salud, de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT), de la Secretaría de Energía del Ministerio de Infraestructura y Energía, del Ministerio de Defensa y de la Secretaría de Agricultura, Ganadería y Pesca, que designarán sus titulares. La Mesa se reunirá al menos cada tres meses y ante cada alerta de suministro. Sus integrantes se desempeñarán con carácter ad honorem."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Plazos",
+     "texto": "La Unidad deberá estar en funcionamiento dentro de los SEIS (6) meses de la entrada en vigencia del presente decreto, y elaborará el primer mapa de dependencias con la lista inicial dentro del año de su puesta en funcionamiento. Dentro del segundo año, todos los insumos de riesgo alto deberán contar con una propuesta de respuesta."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Reserva",
+     "texto": "El personal de la Unidad y los integrantes de la Mesa guardarán reserva sobre la información individual de empresas y personas a la que accedan, que solo podrá utilizarse para los fines del presente decreto. La versión pública del mapa no podrá permitir la identificación de contribuyentes ni de operaciones individuales."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Estructura",
+     "texto": "Incorpórase la Unidad de Seguridad de Suministro, con dependencia directa del Ministro de Economía y sin rango de Secretaría, a la estructura del Ministerio de Economía aprobada por el decreto de estructura previsto en el artículo 8° de la Ley de Ministerios, con los objetivos de los artículos 2° y 3° del presente. El Ministerio de Economía aprobará la estructura de nivel inferior, que se integrará con personal y cargos de su dotación vigente."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande el funcionamiento de la Unidad se atenderán con los créditos asignados al Ministerio de Economía en la ley de presupuesto vigente, sin aumento del gasto total autorizado."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 12,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 50/2019, Anexos I y II, Apartado IX – Ministerio de Economía (incorpora la Unidad de Seguridad de Suministro y sus objetivos)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,118 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Jefatura de Gabinete",
+    "estado": "modificado",
+    "rol": "Reasigna créditos al programa de relevamiento.",
+    "hoy": "Jefatura de Gabinete de Ministros",
+    "hijos": [
+     {
+      "nombre": "Instituto Nacional de Asuntos Indígenas",
+      "estado": "modificado",
+      "rol": "Completa el relevamiento con plan, metas trimestrales y programa presupuestario propio. Conduce el relevamiento, publica el plan y dicta los actos de reconocimiento. Mensura, otorga títulos, media y publica el programa de titulación. Tramita la titulación, mensura, otorga títulos y publica el programa. Órgano técnico de la consulta y registro público de consultas. Asiste, dictamina sobre la validez de cada consulta y lleva el registro público. Firma por la Nación, releva, mensura y financia.",
+      "hoy": "Subsecretaría del Instituto Nacional de Asuntos Indígenas, Vicejefatura de Gabinete del Interior (sin autarquía desde el Decreto 438/2025)",
+      "hijos": [
+       {
+        "nombre": "Equipos de relevamiento",
+        "estado": "nuevo",
+        "rol": "Relevan cada comunidad en 120 días (antropología, derecho, agrimensura).",
+        "hoy": "",
+        "hijos": []
+       }
+      ]
+     },
+     {
+      "nombre": "Secretaría del Interior",
+      "estado": "existente",
+      "rol": "Negocia y gestiona los convenios.",
+      "hoy": "Vicejefatura de Gabinete del Interior (ex Secretaría de Provincias y Municipios)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Agencia de Administración de Bienes del Estado",
+    "estado": "modificado",
+    "rol": "Da conformidad técnica en 30 días hábiles para transferir tierras fiscales nacionales.",
+    "hoy": "AABE (JGM, Vicejefatura de Gabinete del Interior)",
+    "hijos": []
+   },
+   {
+    "nombre": "Organismo responsable",
+    "estado": "modificado",
+    "rol": "Conducen la consulta antes de adoptar la medida.",
+    "hoy": "Entre otros, las Secretarías de Minería y de Energía (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comunidades indígenas",
+    "estado": "modificado",
+    "rol": "Sujetos de la consulta; eligen su asesoramiento técnico.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Enlace institucional",
+    "estado": "modificado",
+    "rol": "Conducen las consultas de su organismo.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Comité de seguimiento",
+    "estado": "nuevo",
+    "rol": "Sigue metas, con representantes de las comunidades.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Educación",
+    "estado": "modificado",
+    "rol": "Aprueba los contenidos comunes para la enseñanza del guaraní.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Educación, Ciencia y Cultura",
+    "estado": "modificado",
+    "rol": "Propone contenidos, forma docentes y produce materiales.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Estadística y Censos (INDEC)",
+    "estado": "modificado",
+    "rol": "Mide el uso del guaraní y de otras lenguas en toda la población.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Promueve el guaraní como lengua de trabajo del Mercosur.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Provincias",
+   "rol": "Coordinan por convenio el relevamiento en sus territorios."
+  },
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Recibe el informe anual de avance."
+  },
+  {
+   "nombre": "Registros provinciales",
+   "rol": "Inscriben los títulos comunitarios."
+  }
+ ]
+}

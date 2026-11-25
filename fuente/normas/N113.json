@@ -1,0 +1,141 @@
+{
+ "id": "N113",
+ "tipo": "ley_nacional",
+ "titulo": "Ley del Plan Nuclear Plurianual",
+ "sumilla": "Aprueba un plan nuclear con prioridad a la tecnología nacional: extensión de vida de Atucha I y almacenamiento en seco de Atucha II, nuevas unidades en el predio de Atucha III (indisponible sin ley), CAREM 25 con hitos públicos, RA-10 y planta de dióxido de uranio de Formosa; mantiene el control estatal de Nucleoeléctrica con acciones de derechos especiales, sin revertir la venta parcial, y lo financia dentro del cupo plurianual de obras.",
+ "cuando": "Fase II (año 2: envío al Congreso; nuevas unidades iniciadas en las Fases II y III y completadas en los mandatos siguientes). El gasto se activa con el presupuesto del año siguiente a la sanción.",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple. Cámara de origen recomendada: Diputados (art. 52 CN), porque el art. 9 amplía la declaración de interés nacional de la Ley 26.566, a la que esa ley asocia beneficios tributarios.",
+ "motivos": "La República Argentina desarrolla tecnología nuclear desde hace más de setenta años: diseña y construye reactores de investigación, opera y extiende la vida de sus centrales con ingeniería nacional, produce radioisótopos y fabrica su combustible. Esa capacidad es una ventaja rara en el mundo y una fuente de energía firme, sin emisiones y con alto contenido nacional. Según el INDEC, entre enero y septiembre de 2026 el país pagó más de ochocientos millones de dólares por gas natural licuado importado, el doble que el año anterior: la falta de energía firme propia tiene un costo concreto. El proyecto aprueba un Plan Nuclear Plurianual que ordena las prioridades: terminar la extensión de vida de Atucha I y el almacenamiento en seco de Atucha II, destinar a nuevas unidades el predio reservado para la cuarta central, preservar y terminar el CAREM 25 con hitos públicos, poner en marcha el RA-10 y completar la planta de dióxido de uranio de Formosa. Da prioridad a la ingeniería y a la industria nacionales. El Plan convive con los accionistas minoritarios de Nucleoeléctrica Argentina, sin revertir su ingreso, pero asegura el control estatal con derechos especiales para las decisiones estratégicas. Se financia dentro del cupo plurianual de obras, con deuda solo para obras, socios estratégicos y contratos de largo plazo, y su gasto se activa con el presupuesto siguiente. La Autoridad Regulatoria Nuclear conserva intactas su independencia y sus competencias.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Plan Nuclear Plurianual",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Aprobación y objeto",
+     "texto": "Apruébase el Plan Nuclear Plurianual, con los componentes, prioridades y reglas que establece la presente ley, con el objeto de consolidar la energía nuclear, desarrollada con tecnología argentina, como base firme y sin emisiones de la matriz eléctrica, y de sostener la soberanía tecnológica, el empleo calificado y la capacidad exportadora del sector."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Componentes",
+     "texto": "El Plan comprende:\na) la terminación de la extensión de vida de la Central Nuclear Atucha I, si a la entrada en vigencia de la presente ley no estuviera en servicio, y la terminación del almacenamiento en seco del combustible gastado de la Central Nuclear Atucha II, necesario para su operación;\nb) la construcción de nuevas unidades nucleoeléctricas en el predio del artículo 4°;\nc) la preservación de lo construido y la terminación del prototipo de reactor CAREM 25, y su desarrollo posterior como producto exportable;\nd) la puesta en marcha del reactor RA-10 del Centro Atómico Ezeiza, si a la entrada en vigencia de la presente ley no estuviera operando, y la ampliación de la producción de radioisótopos para uso medicinal e industrial;\ne) la terminación de la Nueva Planta de Dióxido de Uranio de la Provincia de Formosa y el sostenimiento de la fabricación nacional de combustible, incluido el desarrollo de la capacidad de enriquecimiento."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Prioridad de la tecnología nacional",
+     "texto": "La selección de la tecnología, de la ingeniería y de los proveedores de las obras del Plan dará prioridad a la tecnología, a la ingeniería y a la industria nacionales, en la medida compatible con las normas de contratación aplicables a cada ejecutor. Cuando intervengan socios o proveedores extranjeros, los contratos incluirán compromisos de transferencia de tecnología y de participación de proveedores nacionales."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Predio de la cuarta central",
+     "texto": "Destínase a la construcción de nuevas unidades nucleoeléctricas del Plan el predio reservado para la cuarta central nuclear en el Complejo Nuclear Atucha, en la localidad de Lima, Provincia de Buenos Aires. El predio no podrá destinarse a otro fin, enajenarse ni gravarse sino por ley."
+    },
+    {
+     "n": 5,
+     "epigrafe": "CAREM 25",
+     "texto": "Dentro de los noventa (90) días de la entrada en vigencia de la presente ley, el organismo nuclear de investigación y desarrollo aprobará y pondrá en ejecución un plan de preservación de las obras, equipos y componentes del CAREM 25. Dentro de los ciento ochenta (180) días publicará el plan de terminación del prototipo, con sus hitos técnicos, su costo y sus fechas. Toda postergación de un hito deberá fundarse y se informará conforme al artículo 16."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Hitos y contratos",
+     "texto": "Cada componente del Plan tendrá hitos técnicos, de costo y de plazo, que se publicarán. Los contratos de las obras del Plan fijarán hitos verificables, pagos contra hito cumplido y penalidades por demora, y se publicarán con sus modificaciones y certificados de avance en el sistema público de contrataciones abiertas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Ejecución y regulación",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Ejecutores",
+     "texto": "El Plan se ejecuta con las competencias de la Ley N° 24.804: el organismo nuclear de investigación y desarrollo tiene a su cargo el CAREM 25, el reactor RA-10, la producción de radioisótopos y el desarrollo del ciclo de combustible; Nucleoeléctrica Argentina Sociedad Anónima, la operación y extensión de vida de las centrales y las nuevas unidades del artículo 4°; y la empresa del sector público nuclear que produce dióxido de uranio, la planta de la Provincia de Formosa. Podrán intervenir, por contrato, empresas tecnológicas nacionales, públicas o privadas."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Regulador independiente",
+     "texto": "Cada instalación del Plan requiere las licencias y autorizaciones de la Autoridad Regulatoria Nuclear. Nada de lo dispuesto en la presente ley altera las competencias ni la independencia técnica de esa Autoridad conforme a la Ley N° 24.804, ni la exime de las condiciones de seguridad y de cuidado ambiental que establezca."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Interés nacional",
+     "texto": "Incorpórase como último párrafo del artículo 1° de la Ley N° 26.566 el siguiente:\n«Quedan comprendidas en la declaración de interés nacional de este artículo las nuevas unidades nucleoeléctricas que se construyan en el predio reservado para la cuarta central nuclear en el Complejo Nuclear Atucha, conforme al Plan Nuclear Plurianual aprobado por la Ley N° [—]. La terminación del prototipo de reactor CAREM 25 continúa comprendida en los artículos 16 y 17 de esta ley.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Control estatal de Nucleoeléctrica Argentina",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Control estatal",
+     "texto": "El Estado nacional mantendrá el control de Nucleoeléctrica Argentina Sociedad Anónima, con la participación accionaria mayoritaria prevista en el artículo 8° de la Ley N° 27.742."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Acciones con derechos especiales",
+     "texto": "El Poder Ejecutivo nacional, en ejercicio de los derechos del Estado nacional como accionista, promoverá dentro de los ciento ochenta (180) días de la entrada en vigencia de la presente ley la reforma del estatuto de Nucleoeléctrica Argentina Sociedad Anónima, para que las acciones del Estado nacional confieran derechos especiales, cuyo voto afirmativo será necesario para:\na) decidir la inversión, la postergación o la cancelación de las nuevas unidades del artículo 4°;\nb) decidir la participación de la sociedad en el CAREM y en su desarrollo comercial;\nc) disponer del predio del artículo 4° y de los activos esenciales del Complejo Nuclear Atucha;\nd) transferir o gravar las licencias de operación de las centrales;\ne) reformar el estatuto en lo que afecte estos derechos."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Convivencia con los accionistas minoritarios",
+     "texto": "Lo dispuesto en la presente ley no revierte ni afecta las transferencias de acciones de Nucleoeléctrica Argentina Sociedad Anónima efectuadas conforme al artículo 8° de la Ley N° 27.742 y a su reglamentación, ni los derechos patrimoniales de los accionistas minoritarios."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Financiamiento",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Fuentes",
+     "texto": "Las obras del Plan se financian con:\na) los créditos que cada ley de presupuesto asigne dentro del cupo de obras previsto en el artículo 4° de la Ley N° [—] de Presupuesto Plurianual de Infraestructura;\nb) operaciones de crédito público destinadas exclusivamente a esas obras, conforme al artículo 56 de la Ley N° 24.156;\nc) aportes de socios estratégicos, nacionales o extranjeros, en sociedades de proyecto en las que el Estado nacional o Nucleoeléctrica Argentina Sociedad Anónima conserven el control, con los compromisos del artículo 3°;\nd) los ingresos de contratos de venta de energía de largo plazo de las nuevas unidades;\ne) los recursos propios de los ejecutores."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Presupuesto plurianual y activación del gasto",
+     "texto": "El proyecto de ley de presupuesto de cada ejercicio incluirá, para cada obra del Plan, su monto total, su cronograma de ejecución y sus fuentes, conforme al artículo 15 de la Ley N° 24.156, y las cuotas de las obras contratadas tendrán la prioridad prevista en el artículo 8° de la Ley N° [—] de Presupuesto Plurianual de Infraestructura. Ninguna obra del Plan podrá licitarse ni adjudicarse sin su financiamiento asegurado hasta la terminación. El gasto que autoriza la presente ley se activa con la ley de presupuesto del ejercicio siguiente al de su sanción; en el ejercicio de la sanción, la preservación del CAREM 25 y la elaboración de los planes de los artículos 5° y 6° se atenderán con los créditos vigentes de los ejecutores, sin incremento del gasto total."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Seguimiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación de la presente ley la Secretaría de Energía del Ministerio de Infraestructura y Energía, que coordinará a los ejecutores, aprobará los hitos y verificará su cumplimiento."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Informe anual y publicidad",
+     "texto": "La autoridad de aplicación publicará cada semestre el avance de cada componente del Plan respecto de sus hitos, sus costos y sus desvíos, y remitirá cada año al Congreso de la Nación un informe que incluirá la participación de la energía nuclear en la generación eléctrica y la justificación de toda postergación de hitos."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Actualización",
+     "texto": "El Poder Ejecutivo nacional actualizará el cronograma del Plan al menos cada dos (2) años y lo comunicará al Congreso de la Nación. La supresión de los componentes de los incisos b) y c) del artículo 2° o el cambio de destino del predio del artículo 4° solo podrán disponerse por ley."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 19,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 26.566, art. 1 (incorpora último párrafo)",
+  "Estatuto de Nucleoeléctrica Argentina S.A. (reforma promovida por el Estado como accionista, art. 11)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

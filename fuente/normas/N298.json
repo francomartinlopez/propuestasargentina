@@ -1,0 +1,98 @@
+{
+ "id": "N298",
+ "tipo": "resolucion",
+ "titulo": "Resolución de la Superintendencia de Servicios de Salud: reintegros del Sistema Único de Reintegro por Gestión de Enfermedades (SURGE) en plazo fijo y publicado",
+ "sumilla": "Fija un plazo máximo y público para resolver y pagar los reintegros de prestaciones de alto impacto económico y de tratamiento prolongado que el Sistema Único de Reintegro por Gestión de Enfermedades (SURGE) paga a los agentes del seguro de salud con el Fondo Solidario de Redistribución, con tablero público y evaluación previa de las tecnologías nuevas.",
+ "cuando": "Fase I (año 1)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: resolución de la Superintendencia de Servicios de Salud, dentro de sus facultades como autoridad de aplicación del Sistema Nacional del Seguro de Salud (Ley 23.661). No pasa por el Congreso.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° 23.661, la Resolución N° 731/2023 de esta Superintendencia y sus modificatorias, y",
+ "considerando": [
+  "Que los artículos 22 a 24 de la Ley N° 23.661 regulan el Fondo Solidario de Redistribución y prevén, entre sus destinos, la cobertura de las prestaciones de alta complejidad, de elevado costo y de discapacidad que brindan los agentes del seguro de salud.",
+  "Que el Sistema Único de Reintegro por Gestión de Enfermedades (SURGE), creado por la Resolución N° 731/2023 de esta Superintendencia en reemplazo del Sistema Único de Reintegro (SUR) de la Resolución N° 1200/2012, es el procedimiento por el cual esta Superintendencia apoya financieramente a los agentes del seguro, con recursos de ese Fondo, en el reconocimiento de las prestaciones de baja incidencia y alto impacto económico y de tratamiento prolongado.",
+  "Que las demoras en la resolución y el pago de los reintegros trasladan a los agentes del seguro, y por su intermedio a los prestadores y a los pacientes, el costo financiero de tratamientos que no admiten espera.",
+  "Que fijar un plazo máximo y publicar su cumplimiento da previsibilidad a los agentes del seguro y permite controlar el uso del Fondo.",
+  "Que la incorporación de medicamentos y tecnologías nuevas a los reintegros debe apoyarse en una evaluación independiente de su eficacia, su seguridad y su costo.",
+  "Que han tomado intervención los servicios jurídicos permanentes de esta Superintendencia.",
+  "Que la presente se dicta en uso de las facultades conferidas por la Ley N° 23.661 y por el Decreto N° 1615/1996."
+ ],
+ "formula": "Por ello, EL SUPERINTENDENTE DE SERVICIOS DE SALUD RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente resolución fija el plazo máximo para resolver y pagar las solicitudes de reintegro que los agentes del seguro de salud presentan ante el Sistema Único de Reintegro por Gestión de Enfermedades (SURGE), con recursos del Fondo Solidario de Redistribución previsto en los artículos 22 a 24 de la Ley N° 23.661, y establece la publicación de su cumplimiento."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Plazo máximo",
+     "texto": "Esta Superintendencia resuelve cada solicitud de reintegro dentro de los treinta (30) días hábiles contados desde su presentación completa y paga el reintegro aprobado dentro de los treinta (30) días corridos contados desde su aprobación. Los plazos son máximos y se publican en el sitio oficial de esta Superintendencia."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Observación única",
+     "texto": "Si la solicitud está incompleta o presenta defectos, esta Superintendencia los observa en una sola comunicación, dentro de los diez (10) días hábiles de su presentación, indicando todos los elementos faltantes. No pueden formularse observaciones posteriores sobre elementos que pudieron advertirse en esa oportunidad. El plazo del artículo 2° corre desde que el agente del seguro subsana lo observado."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Presentación digital",
+     "texto": "Las solicitudes, las observaciones, los descargos y las resoluciones se tramitan en forma digital. Esta Superintendencia no requiere al agente del seguro la documentación que ya obre en sus registros o que pueda obtener de otros organismos públicos."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Silencio",
+     "texto": "Vencido el plazo para resolver sin pronunciamiento, el agente del seguro puede requerir pronto despacho y esta Superintendencia debe resolver dentro de los diez (10) días hábiles siguientes. Cada solicitud resuelta fuera de plazo se informa en el tablero del artículo 9°, con indicación de la demora."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Orden de pago",
+     "texto": "Los reintegros aprobados se pagan por estricto orden de antigüedad de su aprobación. Ningún reintegro puede pagarse antes que otro aprobado con anterioridad, salvo los que correspondan a tratamientos en curso cuya interrupción ponga en riesgo la vida del paciente, que se pagan con prioridad mediante resolución fundada que se publica."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Recursos del Fondo",
+     "texto": "Los reintegros se atienden con los recursos del Fondo Solidario de Redistribución asignados a ese destino. Si en algún mes esos recursos no alcanzan para pagar en plazo los reintegros aprobados, esta Superintendencia lo informa en forma pública, con el monto pendiente y la fecha estimada de pago, y paga conforme el orden del artículo 6°."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Tecnologías nuevas",
+     "texto": "La incorporación al SURGE de un medicamento, dispositivo o práctica no incluido hasta entonces requiere el informe previo del organismo nacional de evaluación de tecnologías sanitarias sobre su eficacia, su seguridad y su costo. Esta Superintendencia publica el informe junto con la resolución de incorporación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Tablero público",
+     "texto": "Esta Superintendencia publica cada mes en su sitio oficial, en formato abierto y sin datos personales de los pacientes: a) la cantidad y el monto de las solicitudes presentadas, observadas, aprobadas, rechazadas y pagadas, por agente del seguro y por tipo de prestación; b) el plazo promedio y el plazo máximo de resolución y de pago; c) las solicitudes resueltas o pagadas fuera de plazo; y d) los recursos del Fondo destinados a reintegros y su ejecución."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Solicitudes en trámite",
+     "texto": "Para las solicitudes en trámite a la fecha de entrada en vigencia de la presente, los plazos del artículo 2° se computan desde esa fecha."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Adecuación",
+     "texto": "Adécuase a la presente la Resolución N° 731/2023 de esta Superintendencia y sus modificatorias. En caso de contradicción, prevalecen los plazos y reglas de esta resolución. Las áreas competentes de esta Superintendencia adecuan sus sistemas dentro de los sesenta (60) días de su publicación."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución entra en vigencia a los sesenta (60) días de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Resolución SSS 731/2023 (SURGE) y modificatorias: plazos, tablero y evaluación previa de tecnologías nuevas"
+ ],
+ "deroga": [],
+ "variantes": null
+}

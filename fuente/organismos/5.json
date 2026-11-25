@@ -1,0 +1,120 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Jefatura de Gabinete",
+    "estado": "modificado",
+    "rol": "Adecúa la distribución administrativa; pierde la facultad de reducir las partidas protegidas y ampliar gastos reservados.",
+    "hoy": "Jefatura de Gabinete de Ministros",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Ambiente",
+      "estado": "modificado",
+      "rol": "Transfiere el Fondo de Bosques en cuotas trimestrales y publica cada giro y la rendición de las provincias.",
+      "hoy": "Subsecretaría de Ambiente, Secretaría de Turismo, Ambiente y Deportes (Vicejefatura de Gabinete, JGM)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría del Interior",
+      "estado": "existente",
+      "rol": "Convoca a los gobernadores, negocia y firma por la Nación.",
+      "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete del Interior (Subsecretaría de Relaciones con las Provincias), DNU 571/2026 y Decreto 581/2026",
+      "hijos": []
+     },
+     {
+      "nombre": "Dirección Nacional Electoral",
+      "estado": "modificado",
+      "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada proyecto.",
+      "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Firma por la Nación y da asistencia técnica al Consejo en la verificación y la comparación anual. Administra el Fondo, aprueba su política de inversión, dispone los retiros y publica informes trimestrales.",
+    "hoy": "Ministerio de Economía – Secretaría de Hacienda, Subsecretaría de Coordinación Fiscal Provincial",
+    "hijos": [
+     {
+      "nombre": "Fondo anticíclico",
+      "estado": "suprimido",
+      "rol": "Se deroga; su saldo pasa al Fondo de Estabilización Fiscal.",
+      "hoy": "Fondo Anticíclico Fiscal (Ley 25.152, art. 9)",
+      "hijos": []
+     },
+     {
+      "nombre": "Oficina de crédito público",
+      "estado": "modificado",
+      "rol": "Publica condiciones, destino y aplicación de cada operación de deuda y el cálculo de mejora de cada reestructuración.",
+      "hoy": "Oficina Nacional de Crédito Público (Secretaría de Finanzas, Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Finanzas",
+      "estado": "modificado",
+      "rol": "Administra el Fondo: calcula la tendencia y los depósitos, aprueba la política de inversión, dispone los retiros y publica los informes. Publica cada operación y su destino, el cálculo de la mejora y la estrategia de sostenibilidad de la deuda.",
+      "hoy": "Ministerio de Economía – Secretaría de Finanzas",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Hacienda",
+      "estado": "modificado",
+      "rol": "Publica el resultado primario mensual y estima el efecto de los cambios normativos para la condición de retiro. Asistencia técnica al Consejo y publicación de las transferencias no automáticas.",
+      "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio provincial de hacienda",
+    "estado": "modificado",
+    "rol": "Publica cuentas y deuda, presenta el plan de convergencia y comunica la ley al Consejo.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Responsabilidad Fiscal",
+    "estado": "existente",
+    "rol": "Recibe la adhesión, aprueba formatos y metodología, verifica.",
+    "hoy": "Consejo Federal de Responsabilidad Fiscal (Ley 25.917, art. 27)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Oficina de Presupuesto del Congreso (OPC)",
+   "rol": "Publica dentro de los 45 días de cada trimestre el informe de cumplimiento de la regla de resultado, de los arts. 56 y 65 de la Ley 24.156 y del movimiento del Fondo de Estabilización Fiscal."
+  },
+  {
+   "nombre": "Consejo Federal de Responsabilidad Fiscal",
+   "rol": "Aprueba formatos y metodologías, verifica el cumplimiento y publica la comparación anual."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Firman, ratifican por ley y cumplen las metas."
+  },
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Agente financiero del Fondo: cuentas separadas y ejecución de la política de inversión."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Auditoría anual del Fondo."
+  },
+  {
+   "nombre": "Fondo de estabilización",
+   "rol": "Ahorra ingresos extraordinarios ligados a precios de exportación, hasta el 3 % del PIB."
+  },
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Aprueba el acuerdo y la reforma de la Ley 25.917."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Instituto Nacional de Estadística y Censos (INDEC)",
+    "estado": "modificado",
+    "rol": "Rector del Sistema Estadístico Nacional, con director por concurso y presupuesto plurianual. Sale del Ministerio de Economía, publica el calendario, ejerce la secretaría del Consejo y aplica sanciones.",
+    "hoy": "Organismo desconcentrado del Ministerio de Economía (Decreto 50/2019, Anexo III, ap. IX, según Decreto 146/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Académico de Estadística",
+    "estado": "nuevo",
+    "rol": "Dictamen previo y público sobre todo cambio de metodología; designa el jurado del concurso del director. Designa el jurado, convoca el concurso del Director y dictamina sobre los cambios de metodología.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Deja de tener al INDEC en su ámbito. Deja de tener al INDEC en su ámbito y le transfiere créditos, bienes y personal.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Sistema Estadístico Nacional",
+    "estado": "modificado",
+    "rol": "Servicios estadísticos nacionales y organismos provinciales y municipales por convenio.",
+    "hoy": "Sistema Estadístico Nacional (Ley 17.622)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto nacional de estadística",
+    "estado": "modificado",
+    "rol": "Rector del Sistema Estadístico Nacional, con director por concurso y presupuesto plurianual.",
+    "hoy": "Organismo desconcentrado del Ministerio de Economía (Decreto 50/2019, Anexo III, ap. IX, según Decreto 146/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía y Hacienda",
+    "estado": "modificado",
+    "rol": "Deja de tener al INDEC en su ámbito; el PEN adecúa el Decreto 50/2019.",
+    "hoy": "Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo académico estadístico",
+    "estado": "nuevo",
+    "rol": "Dictamen previo, obligatorio, público y no vinculante sobre cambios de metodología, dentro de 60 días.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Sistema científico",
+    "estado": "modificado",
+    "rol": "Designan a los miembros del Consejo.",
+    "hoy": "CONICET: organismo descentralizado de la JGM; universidades: autónomas",
+    "hijos": []
+   },
+   {
+    "nombre": "Jefatura de Gabinete de Ministros",
+    "estado": "modificado",
+    "rol": "Presenta el presupuesto del INDEC sin facultades de instrucción técnica.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Interuniversitario Nacional y Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)",
+    "estado": "existente",
+    "rol": "Designan a los miembros del Consejo Académico.",
+    "hoy": "Consejo Interuniversitario Nacional; CONICET",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

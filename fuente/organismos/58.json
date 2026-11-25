@@ -1,0 +1,156 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Agencia de Acceso a la Información Pública (AAIP)",
+    "estado": "modificado",
+    "rol": "Autoridad de control de la ley; titular por concurso con acuerdo del Senado, mandato de 5 años, remoción por causa legal, facultad de multar. Aprueba el inventario de bases y el formato del registro, audita accesos y sistemas biométricos y controla el cronograma.",
+    "hoy": "Agencia de Acceso a la Información Pública (ente autárquico con autonomía funcional en el ámbito de la Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital",
+    "estado": "modificado",
+    "rol": "Muestra a cada persona el registro de accesos a sus datos, 100 % a los 24 meses. Muestra a cada persona los accesos a sus datos y provee el servicio común de registro.",
+    "hoy": "Secretaría de Innovación, Ciencia y Tecnología (Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Ciberpatrullaje, IA aplicada y reconocimiento facial limitados a investigaciones con orden judicial. Adecúa los protocolos de patrullaje de redes, IA y reconocimiento facial a la orden judicial y al registro auditable.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Derechos Humanos del Ministerio de Justicia y Seguridad",
+      "estado": "modificado",
+      "rol": "Autoridad del protocolo: recibe denuncias, coordina la protección y lleva el registro público de agresiones.",
+      "hoy": "Ministerio de Justicia – Subsecretaría de Derechos Humanos",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Seguridad del Ministerio de Justicia y Seguridad",
+      "estado": "modificado",
+      "rol": "Brinda las medidas de protección con las fuerzas federales y protocolos para la cobertura de manifestaciones.",
+      "hoy": "Ministerio de Seguridad Nacional",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Registro Nacional de las Personas (RENAPER)",
+    "estado": "modificado",
+    "rol": "Registra y expone cada consulta a sus bases de identidad y biometría",
+    "hoy": "RENAPER (Vicejefatura de Gabinete del Interior, Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad de transparencia y datos personales",
+    "estado": "modificado",
+    "rol": "Autoridad de acceso a la información, de datos personales y de transparencia de plataformas; titular por concurso con acuerdo del Senado; aplica multas. Autoridad de aplicación de la ley. Autoridad de aplicación: dicta normas técnicas y sanciona.",
+    "hoy": "Agencia de Acceso a la Información Pública (ente autárquico con autonomía funcional en el ámbito de la Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Unidad específica de la AAIP",
+    "estado": "nuevo",
+    "rol": "Aplica la ley de transparencia de plataformas (se crea en «Ley de Transparencia de las Plataformas Digitales y de Protección de los Contenidos Lícitos»)",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Unidad específica de la autoridad de transparencia",
+    "estado": "nuevo",
+    "rol": "Recibe informes, acredita investigadores, controla el etiquetado y sanciona; no evalúa ni ordena bajar contenidos. Designa grandes plataformas, recibe y publica informes, lleva el registro de requerimientos y acredita investigadores; no evalúa contenidos.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Regulador de comunicaciones",
+    "estado": "modificado",
+    "rol": "Queda impedido por ley de ordenar o pedir bajas de contenidos lícitos",
+    "hoy": "ENACOM (ente autárquico de la Jefatura de Gabinete de Ministros, intervenido)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría General",
+    "estado": "modificado",
+    "rol": "Aplica los criterios de reparto, lleva el registro de medios y publica el informe anual por medio. Publica la ponderación, aprueba los planes, lleva el registro de medios, publica el informe anual por medio y responde los pedidos de fundamentación.",
+    "hoy": "Secretaría de Comunicación y Medios (Presidencia de la Nación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Organismos contratantes de publicidad",
+    "estado": "modificado",
+    "rol": "Publican su plan anual de comunicación y fundamentan cada asignación. Presentan su plan anual y fundamentan cada orden de publicidad con el puntaje de cada medio.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Organismos titulares de bases de datos",
+    "estado": "modificado",
+    "rol": "Registran cada acceso en forma inalterable según el cronograma.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Organismos requirentes",
+    "estado": "modificado",
+    "rol": "Formulan por escrito y publican en 5 días hábiles todo requerimiento sobre contenidos o cuentas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Fiscalía",
+    "estado": "existente",
+    "rol": "Investigación rápida de las agresiones, por convenio.",
+    "hoy": "Ministerio Público Fiscal de la Nación",
+    "hijos": []
+   },
+   {
+    "nombre": "Dirección Nacional Electoral",
+    "estado": "modificado",
+    "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada pregunta. Organiza la elección de convencionales con la Justicia Nacional Electoral.",
+    "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Convención reformadora",
+    "estado": "nuevo",
+    "rol": "Sanciona la reforma dentro de los temas habilitados, en un plazo de noventa días; se disuelve al concluir.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Sindicatura General de la Nación (SIGEN)",
+    "estado": "modificado",
+    "rol": "Se incorpora a la Autoridad si la Convención aprueba el tema del artículo 3.",
+    "hoy": "SIGEN (Ley 24.156, Título VI), en el Poder Ejecutivo",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comisión bicameral de remoción",
+   "rol": "Mantiene su dictamen vinculante para la remoción del titular"
+  },
+  {
+   "nombre": "Senado de la Nación",
+   "rol": "Presta acuerdo al director elegido de la terna del concurso"
+  },
+  {
+   "nombre": "Justicia Nacional Electoral",
+   "rol": "Recibe el repositorio de publicidad política paga en coordinación con la Ley 26.215"
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Puede auditar la asignación y el informe anual"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "id": "N435",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de nombres, símbolos e imagen del Estado provincial y municipal",
+ "sumilla": "Los nombres y cambios de nombre de bienes provinciales los aprueba la legislatura a propuesta del ejecutivo, y los de calles y espacios municipales el concejo a propuesta del intendente, con consulta pública y las mismas restricciones que la ley nacional; imagen institucional única, carteles y publicidad sin funcionarios, y monumentos que solo se retiran por ley u ordenanza.",
+ "cuando": "Fase I · año 1, con la invitación de la ley nacional",
+ "cuando_breve": "Fase I · año 1, con la invitación de la ley nacional",
+ "tramite": "Según la constitución de cada provincia; mayoría simple.",
+ "motivos": "Los nombres de calles, plazas, escuelas, hospitales y rutas provinciales también cambian según quién gobierna. Esta ley, que cada provincia puede adoptar, aplica las mismas reglas de la ley nacional al Estado provincial y propone a los municipios, que tienen autonomía para nombrar sus calles, un régimen equivalente.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Bienes provinciales",
+     "texto": "Todo nombre o cambio de nombre de edificios, establecimientos, obras, rutas, espacios públicos, monumentos, programas y premios del Estado provincial se dispone por ley, a propuesta del Poder Ejecutivo provincial, previa publicación y consulta pública de treinta (30) días."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Restricciones",
+     "texto": "No pueden imponerse nombres de personas vivas, de personas fallecidas hace menos de diez (10) años, de quienes hayan ejercido cargos públicos en gobiernos de facto o hayan sido condenados por delitos de lesa humanidad o contra la administración pública, ni de partidos, agrupaciones o consignas políticas. Los nombres vigentes se mantienen hasta que una ley disponga su cambio."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Municipios",
+     "texto": "Invítase a los municipios a disponer, por ordenanza, que los nombres y cambios de nombre de calles, plazas y demás bienes y espacios municipales los apruebe el Concejo Deliberante a propuesta del Departamento Ejecutivo, con consulta pública y las restricciones del artículo 2°."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Imagen y carteles",
+     "texto": "El Estado provincial usa una sola imagen institucional, con el escudo provincial y el nombre de la provincia, igual para todos los gobiernos. Las placas, carteles, publicaciones y la publicidad oficial no pueden incluir nombres, imágenes, voces ni símbolos de funcionarios, partidos o agrupaciones políticas, ni logos o eslóganes de gestión."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Monumentos",
+     "texto": "Ningún monumento emplazado en bienes provinciales puede retirarse, trasladarse ni modificarse sino por ley, salvo urgencia de seguridad o conservación, con obligación de restituirlo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

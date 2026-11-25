@@ -1,0 +1,95 @@
+{
+ "id": "N225",
+ "tipo": "decreto",
+ "titulo": "Reglamentación del procedimiento de preselección y propuesta de magistrados de la Ley de Concursos y Designación de Magistrados",
+ "sumilla": "Reglamenta el Capítulo III de la ley «Ley de concursos y designación de magistrados con plazos y procedimientos públicos»: designa la autoridad competente del Poder Ejecutivo, fija cómo se publican los candidatos y se reciben las observaciones ciudadanas, cómo se celebra la audiencia pública y se fundan los criterios de diversidad para la Corte, cómo se computan los plazos para elegir de la terna y cómo opera el envío automático del primero de la terna ante la demora; organiza el concurso del Procurador General y deroga los Decretos 222/2003 y 588/2003.",
+ "cuando": "Fase I (dentro de los 60 días de la promulgación de la ley «Ley de concursos y designación de magistrados con plazos y procedimientos públicos»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (decreto reglamentario, art. 99, inc. 2, de la Constitución Nacional)",
+ "motivos": "",
+ "visto": "El Expediente N° [—], los artículos 99, inciso 4, y 120 de la Constitución Nacional, la Ley N° [—] de Concursos y Designación de Magistrados, la Ley N° 24.937 y sus modificatorias, la Ley Orgánica del Ministerio Público Fiscal N° 27.148, los Decretos N° 222/03 y N° 588/03 y sus modificatorios, entre ellos el Decreto N° 467/26, y",
+ "considerando": [
+  "Que el artículo 99, inciso 4, de la Constitución Nacional atribuye al Presidente de la Nación el nombramiento de los magistrados de la Corte Suprema de Justicia de la Nación con acuerdo del Senado por dos tercios de sus miembros presentes, y de los demás jueces de los tribunales federales inferiores en base a una propuesta vinculante en terna del Consejo de la Magistratura, con acuerdo del Senado.",
+  "Que la Ley N° [—] de Concursos y Designación de Magistrados elevó a rango legal el procedimiento público de preselección de los candidatos que el Poder Ejecutivo nacional propone al Senado, con publicidad de sus antecedentes, observaciones ciudadanas, audiencia pública y criterios de diversidad para la Corte Suprema, fijó plazos para remitir los pliegos y estableció que, si el Poder Ejecutivo no remite en término el pliego de un cargo que se cubre por terna, se tiene por propuesto al primero de ella.",
+  "Que los Decretos N° 222/03 y N° 588/03 regularon hasta ahora ese procedimiento y que el Decreto N° 467/26 suprimió la etapa de observaciones ciudadanas y de pedidos de opinión, etapa que la ley restituye.",
+  "Que el artículo 15 de la ley dispone que esos decretos y sus modificatorios queden derogados desde la entrada en vigencia de su reglamentación, y su artículo 17 encomienda al Poder Ejecutivo nacional reglamentar el Capítulo III y la convocatoria del concurso del Procurador General dentro de los sesenta días de la promulgación.",
+  "Que el artículo 11 de la Ley N° 27.148, en el texto establecido por la ley, dispone que el concurso para la designación del Procurador General de la Nación sea convocado por la autoridad del Poder Ejecutivo nacional que designe el decreto reglamentario, por lo que corresponde designarla y organizar la convocatoria y el sorteo del jurado.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional y por el artículo 17 de la Ley N° [—] de Concursos y Designación de Magistrados."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad competente",
+     "texto": "Desígnase al Ministerio de Justicia y Seguridad como autoridad competente para la aplicación del Capítulo III de la Ley N° [—] de Concursos y Designación de Magistrados y como autoridad convocante del concurso para la designación del Procurador General de la Nación previsto en el artículo 11 de la Ley N° 27.148, en el texto establecido por esa ley. Su titular suscribirá los actos de publicación, de convocatoria a la audiencia pública y al concurso del Procurador General y de remisión de los pliegos, y llevará un registro público de cada procedimiento con sus fechas y plazos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Publicación de los candidatos",
+     "texto": "La publicación prevista en el artículo 6° de la ley incluirá el nombre, los antecedentes curriculares, la declaración jurada patrimonial, la nómina de sociedades, de estudios de abogados y de clientes o contratistas allí enumerados. Se hará en el Boletín Oficial, en el sitio oficial de la autoridad competente, en formato abierto, y en al menos dos (2) diarios de circulación nacional durante tres (3) días. El candidato presentará la documentación dentro de los cinco (5) días de requerida; la falta de presentación importa su desistimiento."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Observaciones y pedidos de opinión",
+     "texto": "Las observaciones previstas en el artículo 7° de la ley podrán presentarse por escrito o por un canal electrónico habilitado al efecto, con identificación de quien las formula. La autoridad competente publicará cada presentación dentro de los dos (2) días hábiles de recibida, con resguardo de los datos personales de terceros, y la notificará al candidato, que podrá responder por escrito dentro de los cinco (5) días hábiles; la respuesta también se publicará. Los pedidos de opinión a organizaciones se formularán por nota pública y sus respuestas se publicarán."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Audiencia pública para la Corte Suprema",
+     "texto": "La audiencia pública prevista en el artículo 8° de la ley se convocará con una antelación no menor de diez (10) días, se transmitirá en directo por el sitio oficial de la autoridad competente y su grabación quedará disponible en forma permanente. Cada candidato expondrá sobre su trayectoria y su visión de la función y responderá las observaciones recibidas y las preguntas que la autoridad competente seleccione entre las formuladas por el público. Antes de la propuesta, la autoridad competente publicará un informe sobre la composición de la Corte Suprema por género, procedencia regional y especialidad jurídica; el decreto que disponga la propuesta al Senado expresará cómo se atendieron esos criterios."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cómputo de los plazos",
+     "texto": "Los plazos de los artículos 6° y 9° de la ley se computarán desde el día siguiente al de la vacancia, al de la recepción de la terna, al de la audiencia pública o al del vencimiento del plazo de observaciones, según corresponda. Los plazos en días hábiles se computarán conforme a la Ley Nacional de Procedimientos Administrativos N° 19.549. La autoridad competente registrará la fecha de cada hecho y la publicará."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Remisión ante la demora",
+     "texto": "Vencido el plazo del artículo 9°, inciso b), de la ley sin que se haya remitido el pliego, la autoridad competente dejará constancia del vencimiento, publicará esa constancia y remitirá al Honorable Senado de la Nación, dentro de los cinco (5) días hábiles siguientes, el pliego del candidato que ocupe el primer lugar de la terna, conforme al artículo 10 de la ley, con los antecedentes del procedimiento. La demora se informará al tablero de vacantes."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Información al tablero de vacantes",
+     "texto": "La autoridad competente informará al Consejo de la Magistratura, dentro de los cinco (5) días hábiles de producido cada hecho, la fecha de recepción de cada terna, de cada publicación, de la audiencia pública cuando corresponda y de la remisión de cada pliego al Senado, a los efectos del artículo 13 quater de la Ley N° 24.937, en el texto establecido por la ley que se reglamenta."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Concurso del Procurador General de la Nación",
+     "texto": "Producida la vacante del cargo de Procurador General de la Nación, o en el caso del artículo 13 de la ley, la autoridad competente convocará dentro de los treinta (30) días el concurso previsto en el artículo 11 de la Ley N° 27.148, en el texto establecido por la ley. El jurado de cinco (5) profesores titulares regulares de derecho de universidades nacionales se sorteará en acto público entre todos los profesores titulares regulares de derecho de universidades nacionales que se inscriban en la nómina pública que llevará la autoridad competente. La inscripción es abierta y permanente, y no podrá rechazarse a quien acredite esa condición. La convocatoria, el jurado, las calificaciones, el orden de mérito y los tres (3) candidatos mejor calificados se publicarán, y a estos se aplicará el procedimiento de los artículos 6° y 7° de la ley."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Derogaciones",
+     "texto": "Deróganse, conforme al artículo 15 de la ley, los Decretos N° 222/03 y N° 588/03 y sus modificatorios, incluido el Decreto N° 467/26. Los procedimientos en trámite continuarán conforme a la ley y al presente en la etapa en que se encuentren."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Financiamiento",
+     "texto": "La aplicación del presente se atenderá con los créditos asignados al Ministerio de Justicia y Seguridad en la Ley de Presupuesto y no autoriza gastos adicionales."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 12,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [
+  "Decreto 222/2003 y sus modificatorios",
+  "Decreto 588/2003 y sus modificatorios",
+  "Decreto 467/2026"
+ ],
+ "variantes": null
+}

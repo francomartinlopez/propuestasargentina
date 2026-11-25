@@ -1,0 +1,120 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Aprueba adhesiones y Planes de Contrapartida, firma convenios de catálogos, selecciona auditores y aplica infracciones. Fija el cupo anual de los beneficios y controla las contrapartidas.",
+    "hoy": "Ministerio de Economía (Decreto 749/2024), con el Comité Evaluador de Proyectos",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Producción y Comercio",
+      "estado": "modificado",
+      "rol": "Lleva el registro público único de oferta local y mide el contenido nacional. Selecciona y revisa los eslabones, fija las metas, firma las actas, verifica, aplica pérdidas y cierra programas. Aplica el régimen por delegación del ministerio.",
+      "hoy": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Instituto Nacional de Tecnología Industrial (INTI)",
+      "estado": "modificado",
+      "rol": "Certifica técnicamente a los proveedores inscriptos (función nueva asignada por ley). Certifica capacidad técnica y compra nacional de los beneficiarios y les presta asistencia técnica (función nueva en el art. 2 del Decreto-Ley 17.138/57). Certifica compra nacional y requisitos técnicos por convenio con la autoridad.",
+      "hoy": "INTI",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+      "estado": "existente",
+      "rol": "Aplica la exención limitada de importación y ejecuta la devolución de beneficios. Instrumenta el bono de crédito fiscal y su devolución. Emite el bono y aplica su devolución. Aplica la amortización acelerada, la devolución anticipada del IVA y el crédito fiscal.",
+      "hoy": "ARCA, ente autárquico en el ámbito del Ministerio de Economía",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Industria y Comercio",
+      "estado": "modificado",
+      "rol": "Selecciona eslabones, aprueba programas, fija metas, suscribe y verifica actas, aplica pérdidas y cierra programas.",
+      "hoy": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa (Ministerio de Economía; Decreto 50/2019, ap. IX, según Decreto 146/2026)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Agricultura, Ganadería y Pesca",
+      "estado": "existente",
+      "rol": "Interviene en los proyectos de semillas, biotecnología y biocombustibles.",
+      "hoy": "Secretaría de Agricultura, Ganadería y Pesca (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Producción y Comercio del Ministerio de Economía",
+      "estado": "modificado",
+      "rol": "Elabora el Mapa Federal de Encadenamientos Productivos, preside las mesas por complejo, publica la nómina y fiscaliza los planes anuales de compras.",
+      "hoy": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "ARCA",
+      "estado": "modificado",
+      "rol": "Calcula cada año, con datos aduaneros, la nómina de empresas alcanzadas por el umbral estadístico. Calcula la nómina antes del 31 de marzo de cada año.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "INDEC",
+      "estado": "modificado",
+      "rol": "Aporta la clasificación y los datos de complejos exportadores.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "BICE",
+      "estado": "modificado",
+      "rol": "Ofrece la línea para proveedores de las áreas de influencia alejada.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Auditor externo",
+    "estado": "nuevo",
+    "rol": "Verifican contrapartida y contenido nacional: primera auditoría a los 18 meses, luego anual.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Agencia I+D+i)",
+    "estado": "modificado",
+    "rol": "Financia proyectos de innovación de las empresas del régimen con sus instrumentos.",
+    "hoy": "Agencia I+D+i (organismo descentralizado de la Jefatura de Gabinete, Vicejefatura de Gabinete, Secretaría de Innovación, Ciencia y Tecnología; DNU 157/2020; Decreto 581/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de financiamiento de la innovación",
+    "estado": "modificado",
+    "rol": "Financia proyectos de innovación de las empresas con acta vigente, con su presupuesto.",
+    "hoy": "Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Agencia I+D+i; DNU 157/2020), organismo descentralizado de la Jefatura de Gabinete, Vicejefatura de Gabinete, Secretaría de Innovación, Ciencia y Tecnología (Decreto 581/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "IGN",
+    "estado": "modificado",
+    "rol": "Aporta la cartografía oficial del Mapa.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Provincias y municipios",
+   "rol": "Elaboran los catálogos públicos de obras y aprueban cada Plan de Contrapartida."
+  },
+  {
+   "nombre": "Universidades",
+   "rol": "Evalúan en forma independiente cada programa sectorial."
+  }
+ ]
+}

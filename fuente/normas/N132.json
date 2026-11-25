@@ -1,0 +1,123 @@
+{
+ "id": "N132",
+ "tipo": "acuerdo_federal",
+ "titulo": "Acuerdo de operación y financiamiento de la cuenca de la laguna La Picasa por medio de su Comisión Interjurisdiccional, y de coordinación con el río Quinto",
+ "sumilla": "La Nación y las Provincias de Córdoba, Santa Fe y Buenos Aires ponen la operación de La Picasa en manos de la Comisión Interjurisdiccional de la Ley 27.509, con presupuesto anual propio que se transfiere a comienzo de año, equipo técnico permanente e informe público; reglas comunes de operación, bombeo, mantenimiento, datos y alertas, y coordinación con el comité regional del río Quinto, al que se incorpora Santa Fe.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Convenio entre la Nación y las provincias (art. 125 CN). Requiere aprobación por ley nacional, porque compromete aportes de ejercicios futuros; cada provincia lo ratifica por ley. La incorporación de Santa Fe al comité regional requiere además el consentimiento de La Pampa y San Luis.",
+ "motivos": "",
+ "visto": "",
+ "considerando": [
+  "Que el presente Acuerdo se celebra entre el ESTADO NACIONAL, representado por el titular de la Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía, y las PROVINCIAS DE CÓRDOBA, DE SANTA FE y DE BUENOS AIRES, representadas por sus Gobernadores, en adelante \"las partes\".",
+  "Que la laguna La Picasa recibe los excedentes de una cuenca que abarca territorio de las tres provincias, alimentada en parte por derivaciones del río Quinto, y que sus desbordes han anegado campos, rutas y localidades.",
+  "Que el Estado nacional y las Provincias de Buenos Aires, Córdoba, La Pampa y San Luis integran el Comité Interjurisdiccional de la Región Hídrica del Noroeste de la Llanura Pampeana, que abarca el río Quinto, las nacientes del río Salado y La Picasa, y que la Provincia de Santa Fe, en cuyo territorio se encuentra la laguna, no lo integra.",
+  "Que la Ley N° 27.509 ratificó el Convenio para la integración de la Comisión Interjurisdiccional de la Cuenca de la Laguna La Picasa, suscripto el 15 de junio de 2016 por el entonces Ministerio del Interior, Obras Públicas y Vivienda y las Provincias de Buenos Aires, Córdoba y Santa Fe, y reconoció a esa Comisión como persona jurídica de derecho público e instancia regional para proponer la gestión integrada de los recursos hídricos de la cuenca.",
+  "Que el artículo 4° de la Ley N° 25.688 prevé los comités de cuencas hídricas interjurisdiccionales, y que una cuenca compartida exige reglas de operación comunes, bombeo que funcione y canales mantenidos.",
+  "Que la Comisión creada por ese convenio no ha contado con recursos propios estables, y que una cuenca que se desborda en años húmedos necesita un órgano que funcione todos los años, con presupuesto asegurado y personal técnico permanente."
+ ],
+ "formula": "Por ello, LAS PARTES ACUERDAN:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – La Comisión y el Comité",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cláusula primera – Objeto",
+     "texto": "El presente Acuerdo tiene por objeto asignar la operación de la cuenca de la laguna La Picasa a la Comisión Interjurisdiccional de la Cuenca de la Laguna La Picasa, reconocida por la Ley N° 27.509 (en adelante, \"la Comisión\"), dotarla de presupuesto y personal propios, establecer las reglas de operación, mantenimiento y financiamiento de la cuenca, y coordinarla con el Comité Interjurisdiccional de la Región Hídrica del Noroeste de la Llanura Pampeana (en adelante, \"el Comité\") en lo referido al río Quinto, incorporando a la Provincia de Santa Fe a ese Comité."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cláusula segunda – Funciones de la Comisión",
+     "texto": "La Comisión aprueba el reglamento de operación de la cláusula sexta y sus actualizaciones, el plan anual de mantenimiento, el plan de gestión del riesgo hídrico de la cuenca y su presupuesto anual; controla la operación del bombeo; autoriza o rechaza las obras de la cláusula séptima, y publica sus actas, planes, presupuesto y la ejecución de las obras."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cláusula tercera – Presupuesto propio",
+     "texto": "La Comisión tendrá un presupuesto anual propio para su funcionamiento, la operación del bombeo y el mantenimiento de las obras comunes. El Estado nacional aporta el CINCUENTA POR CIENTO (50 %) y las Provincias de Córdoba, Santa Fe y Buenos Aires el CINCUENTA POR CIENTO (50 %) restante, en proporción al área de cada una que se beneficia con la operación de la cuenca, según el estudio de la cláusula sexta. Hasta que ese estudio se apruebe, el aporte provincial se distribuye en partes iguales. Cada parte incluirá su aporte en su ley de presupuesto y lo transferirá en el primer trimestre de cada ejercicio. El presupuesto del primer año se aprueba dentro de los NOVENTA (90) días de la entrada en vigencia del Acuerdo."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cláusula cuarta – Equipo técnico permanente",
+     "texto": "La Comisión contará con una unidad técnica permanente, seleccionada por concurso público de antecedentes, a cargo de un coordinador técnico con experiencia en hidráulica, que prepara el reglamento de operación, los planes y el presupuesto, controla el bombeo y las obras, y opera el sistema de datos y alertas. Las partes podrán adscribir personal propio a esa unidad."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula quinta – Coordinación con el Comité e incorporación de Santa Fe",
+     "texto": "Las reglas sobre las derivaciones del río Quinto hacia la cuenca se aprueban en forma conjunta por la Comisión y el Comité. A ese fin, el Estado nacional y las Provincias de Córdoba y de Buenos Aires, en su carácter de miembros del Comité, prestan su consentimiento a la incorporación de la Provincia de Santa Fe como miembro pleno, y la Provincia de Santa Fe acepta sus normas constitutivas. Las partes invitan a las Provincias de La Pampa y de San Luis a prestar su consentimiento; la incorporación se perfecciona con él."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Reglas de operación",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Cláusula sexta – Reglamento de operación",
+     "texto": "Dentro de los CIENTO OCHENTA (180) días de la entrada en vigencia del Acuerdo, la Comisión aprobará el reglamento de operación de la cuenca, sobre la base de un estudio técnico del Instituto Nacional del Agua con participación de los organismos hídricos de las tres provincias, que determinará además el área beneficiada en cada provincia. El reglamento fijará, como mínimo:\na) los niveles de la laguna que determinan el inicio, la intensidad y la suspensión del bombeo y de las derivaciones;\nb) las reglas de operación de las derivaciones del río Quinto hacia la cuenca, aprobadas conforme a la cláusula quinta, y de los canales que la conectan con otras cuencas;\nc) la capacidad máxima de descarga de cada canal y las condiciones para habilitar obras o canalizaciones nuevas;\nd) los niveles de alerta que obligan a avisar a las localidades y a las autoridades de protección civil de la cuenca."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula séptima – Obras no autorizadas",
+     "texto": "Ninguna parte habilitará canalizaciones, derivaciones o descargas que aumenten el aporte de agua a la laguna o a otra jurisdicción sin la aprobación previa de la Comisión. Las partes relevarán las canalizaciones no autorizadas existentes en su territorio y adoptarán las medidas para su regularización o cierre."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cláusula octava – Operación del bombeo",
+     "texto": "La operación de la estación de bombeo de La Picasa y de sus conducciones continuará a cargo de la jurisdicción que hoy la tiene, con los fondos que le asigne el presupuesto de la Comisión, y se ajustará al reglamento de operación. El operador informará a la Comisión cada mes los volúmenes bombeados, las horas de funcionamiento y las fallas. Si el bombeo no se opera conforme al reglamento, la Comisión podrá asumir su operación directa."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cláusula novena – Datos y alertas",
+     "texto": "Las partes compartirán en tiempo real los datos de sus estaciones hidrométricas y pluviométricas de la cuenca, que la unidad técnica publicará en formato de datos abiertos. Los avisos de alerta se integrarán al sistema nacional de alerta temprana hídrica."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Mantenimiento, obras e informe",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Cláusula décima – Mantenimiento",
+     "texto": "Cada provincia mantiene los canales, terraplenes y obras de la cuenca ubicados en su territorio conforme al plan anual de mantenimiento aprobado por la Comisión, por sí o mediante convenios con municipios y consorcios de productores. Las obras comunes a más de una provincia se mantienen con el presupuesto de la Comisión."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Cláusula undécima – Obras troncales",
+     "texto": "El Estado nacional financiará, con los recursos del Fondo Fiduciario de Infraestructura Hídrica destinados a obras troncales interjurisdiccionales, las obras de la cuenca que integren la lista nacional de obras prioritarias, conforme a la ley que regula ese Fondo y mediante convenios por obra que fijen los aportes, el ejecutor y el responsable del mantenimiento. Estos aportes son adicionales a los de la cláusula tercera."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cláusula duodécima – Informe público",
+     "texto": "La Comisión publicará cada año, antes del 31 de marzo, un informe con el nivel de la laguna, la operación del bombeo, el cumplimiento del plan de mantenimiento, la ejecución de su presupuesto y de las obras, y los aportes transferidos por cada parte, y lo remitirá al Congreso de la Nación y a las Legislaturas de las tres provincias."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Cláusula decimotercera – Vigencia",
+     "texto": "El presente Acuerdo rige desde su aprobación por ley nacional y por ley de cada provincia, por tiempo indeterminado. Cualquier parte podrá denunciarlo con un año de anticipación, sin afectar los aportes ni las obligaciones de mantenimiento del ejercicio en curso."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Cláusula decimocuarta – Controversias",
+     "texto": "Las controversias sobre la interpretación o la ejecución de este Acuerdo se someterán primero a la Comisión. En su defecto, quedan sometidas a la competencia originaria de la Corte Suprema de Justicia de la Nación."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Cláusula decimoquinta – Aprobación",
+     "texto": "El presente Acuerdo compromete aportes de ejercicios futuros, por lo que el Poder Ejecutivo nacional lo someterá a la aprobación del Congreso de la Nación. Cada provincia lo someterá a la ratificación de su Legislatura y lo publicará en su boletín oficial."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Convenio para la integración de la Comisión Interjurisdiccional de la Cuenca de la Laguna La Picasa (ratificado por Ley 27.509): presupuesto, funciones y unidad técnica",
+  "Normas constitutivas del Comité Interjurisdiccional de la Región Hídrica del Noroeste de la Llanura Pampeana: incorporación de la Provincia de Santa Fe"
+ ],
+ "deroga": [],
+ "variantes": null
+}

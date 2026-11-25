@@ -1,0 +1,118 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Ambiente de la Jefatura de Gabinete de Ministros",
+    "estado": "modificado",
+    "rol": "Coordina con las provincias en el COFEMA, lleva el registro público y coordina el Inventario de Glaciares.",
+    "hoy": "Subsecretaría de Ambiente (Secretaría de Turismo, Ambiente y Deportes, Vicejefatura de Gabinete del Interior, Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto científico de glaciares",
+    "estado": "modificado",
+    "rol": "Valida científicamente, con dictamen público y participación provincial, qué glaciares y periglaciares se protegen.",
+    "hoy": "Instituto Argentino de Nivología, Glaciología y Ciencias Ambientales (unidad ejecutora CONICET–UNCuyo–Gobierno de Mendoza)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Minería del Ministerio de Infraestructura y Energía",
+    "estado": "existente",
+    "rol": "Es consultada en lo que atañe a la política minera.",
+    "hoy": "Secretaría de Minería (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comités de cuencas interjurisdiccionales",
+    "estado": "modificado",
+    "rol": "Participan en la evaluación ambiental estratégica de las cuencas interjurisdiccionales.",
+    "hoy": "Comités de cuencas hídricas (Ley 25.688, art. 4)",
+    "hijos": []
+   },
+   {
+    "nombre": "Mesa del Litio",
+    "estado": "modificado",
+    "rol": "Se incorpora la Nación; ámbito de negociación de los planes con los proyectos estabilizados.",
+    "hoy": "Mesa del Litio (Jujuy, Salta y Catamarca)",
+    "hijos": [
+     {
+      "nombre": "Comité de Seguimiento del Acuerdo del Litio",
+      "estado": "nuevo",
+      "rol": "Un representante por parte (ad honorem): negociaciones, metodología y verificación.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Minería",
+    "estado": "modificado",
+    "rol": "Firma por la Nación e integra el Comité. Aplica la cláusula, negocia los planes con los proyectos estabilizados y verifica el procesamiento. Aplica y verifica la cláusula de industrialización; integra el Consejo Asesor.",
+    "hoy": "Secretaría de Minería (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior",
+    "estado": "existente",
+    "rol": "Consulta en la relación con las provincias firmantes.",
+    "hoy": "Vicejefatura de Gabinete del Interior (Decreto 581/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Incluye la cláusula en las adhesiones y ampliaciones de litio.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Nacional de Investigaciones Científicas y Técnicas",
+    "estado": "existente",
+    "rol": "Aporta por convenio el centro de Palpalá (CIDMEJu) y personal científico.",
+    "hoy": "CONICET (Secretaría de Innovación, Ciencia y Tecnología, Jefatura de Gabinete)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto nacional del litio",
+    "estado": "nuevo",
+    "rol": "I+D, transferencia de tecnología y formación para la cadena del litio; sede en Palpalá, nodos en Catamarca y La Plata.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Consejo asesor",
+      "estado": "nuevo",
+      "rol": "Provincias, CONICET, universidades, Minería y empresas aportantes (ad honorem).",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Consejo de investigación científica",
+    "estado": "existente",
+    "rol": "Aporta por convenio el centro de Palpalá (CIDMEJu) y personal científico.",
+    "hoy": "CONICET (Secretaría de Innovación, Ciencia y Tecnología, Jefatura de Gabinete)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Consejo Federal de Medio Ambiente (COFEMA)",
+   "rol": "Ámbito de coordinación de la aplicación con las provincias."
+  },
+  {
+   "nombre": "Ámbito interprovincial del litio",
+   "rol": "Ámbito de negociación con los proyectos con estabilidad."
+  },
+  {
+   "nombre": "Instituto nacional del litio",
+   "rol": "I+D, transferencia de tecnología y formación para la cadena del litio; sede en Palpalá, nodos en Catamarca y La Plata."
+  }
+ ]
+}

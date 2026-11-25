@@ -1,0 +1,150 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Energía",
+    "estado": "modificado",
+    "rol": "Releva, fija las metas anuales, financia conexiones y recambio, y publica el avance. Publica costos y cobertura, aprueba el cronograma de precios de la energía y del gas, administra el registro único y aprueba los mapas de zona fría y cálida. Opera el ReSEF ampliado como registro único de tarifa social. Autoridad de aplicación de la ley «Ley de acceso a energía segura en el hogar»: relevamiento, metas, cuotas, recambio y publicación. Cronograma de precios de energía y gas, registro único, bonificaciones y mapas climáticos. Opera el registro único y comunica la condición de beneficiario a prestadores y al sistema SUBE. Publica costo y cobertura, aprueba los escalones del PEST y del gas y fija bloques y bonificaciones. Incorpora a los hogares del IUU al registro único y comunica la condición de beneficiario.",
+    "hoy": "Secretaría de Energía (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "Organismo Encargado del Despacho",
+      "estado": "modificado",
+      "rol": "Informa el costo medio de abastecimiento del MEM.",
+      "hoy": "Compañía Administradora del Mercado Mayorista Eléctrico S.A. (Ley 24.065, art. 35)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "estado": "modificado",
+    "rol": "Prohibición gradual de artefactos peligrosos, matrícula de instaladores y certificación. Publica costos de transporte y distribución nacionales y aprueba los cuadros tarifarios de cada escalón. Listado de artefactos inseguros, cronograma de prohibición, matrícula, certificación y muestreo de instalaciones. Dicta el listado y el cronograma, lleva los registros de certificaciones e instaladores y verifica por muestreo. Traslada los escalones a los cuadros tarifarios y verifica el tope.",
+    "hoy": "Ente Nacional Regulador del Gas y la Electricidad (ENRGE; ámbito de la Secretaría de Energía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Define y mide los indicadores sanitarios (monóxido, incendios, aire interior). Metodología y línea de base de los indicadores sanitarios.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Transporte",
+    "estado": "modificado",
+    "rol": "Cronograma del transporte de jurisdicción nacional, reducción de compensaciones y tarifa social por pasajero. Costo por pasajero, compensaciones decrecientes, descuento por viaje e instrucciones al fiduciario.",
+    "hoy": "Secretaría de Transporte (Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "Administrador del sistema de pago del transporte",
+      "estado": "modificado",
+      "rol": "Aplica el descuento en la validación y liquida los viajes con tarifa social.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Comisión Nacional de Regulación del Transporte",
+      "estado": "modificado",
+      "rol": "Audita por muestreo los viajes liquidados.",
+      "hoy": "CNRT, organismo descentralizado",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Servicio Meteorológico Nacional",
+    "estado": "modificado",
+    "rol": "Provee las series de temperatura y el dictamen técnico de grados-día por departamento. Dictamen técnico de grados-día por departamento en 180 días.",
+    "hoy": "Servicio Meteorológico Nacional (organismo descentralizado, Ministerio de Defensa)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social (ANSES)",
+    "estado": "modificado",
+    "rol": "Informa cada mes al registro único los hogares del Ingreso Universal Único. Remite cada mes los hogares del IUU al registro único.",
+    "hoy": "ANSES",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Energía del Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Firma por la Nación y aprueba los anexos anuales por provincia. Firma por la Nación y administra el registro único.",
+    "hoy": "Secretaría de Energía (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior de la Jefatura de Gabinete de Ministros",
+    "estado": "existente",
+    "rol": "Articula la firma con las provincias. Articula la firma y las adhesiones.",
+    "hoy": "Vicejefatura de Gabinete del Interior (Jefatura de Gabinete de Ministros; Decreto 581/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Producción y Comercio",
+    "estado": "existente",
+    "rol": "Reglamentos técnicos y control de la comercialización.",
+    "hoy": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior",
+    "estado": "existente",
+    "rol": "Propone con Energía y Transporte el texto del acuerdo federal.",
+    "hoy": "Vicejefatura de Gabinete del Interior (Decreto 581/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Fiduciario del Fideicomiso del Sistema de Infraestructura de Transporte",
+    "estado": "modificado",
+    "rol": "Transfiere cada mes la tarifa social por pasajero liquidada.",
+    "hoy": "Banco de la Nación Argentina (Decreto 976/2001, arts. 12, 13 y 17)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Transporte del Ministerio de Infraestructura y Energía",
+    "estado": "existente",
+    "rol": "Firma por la Nación y liquida la tarifa social por pasajero en las provincias adheridas.",
+    "hoy": "Secretaría de Transporte (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad provincial de servicios públicos",
+    "estado": "modificado",
+    "rol": "Incorpora los beneficiarios al registro único, fija la tarifa social provincial y aprueba los cronogramas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Reguladores provinciales de energía, agua y transporte",
+    "estado": "modificado",
+    "rol": "Publican costo y cobertura y aplican los escalones a los cuadros tarifarios.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Ente Regulador de Agua y Saneamiento (ERAS)",
+   "rol": "Publica costo y cobertura del servicio y aplica la tarifa social del art. 76 del marco con el registro único."
+  },
+  {
+   "nombre": "Comisión federal de seguimiento",
+   "rol": "Formulario común, anexos anuales, seguimiento de metas y actas públicas."
+  },
+  {
+   "nombre": "Provincias y prestadores",
+   "rol": "Relevan hogares, aportan y ejecutan obras y conexiones."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Adhieren al registro, aplican la tarifa social y el cronograma a los servicios que regulan."
+  }
+ ]
+}

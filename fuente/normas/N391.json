@@ -1,0 +1,125 @@
+{
+ "id": "N391",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de integridad deportiva y de protección de la forma jurídica de los clubes",
+ "sumilla": "Reglamenta el Registro de Financistas y Cesionarios del Deporte de la ley «Ley de integridad deportiva y de protección de la forma jurídica de los clubes»: autoridad, requisitos y trámite de inscripción, verificación del beneficiario final, declaración e información de contratos y tasas, publicación en datos abiertos, procedimiento de exclusión con defensa y convenios de cooperación.",
+ "cuando": "Fase I · año 1, dentro de los 60 días de promulgada «Ley de integridad deportiva y de protección de la forma jurídica de los clubes» (Días 61-100)",
+ "cuando_breve": "Fase I · año 1, dentro de los 60 días de promulgada «Ley de integridad deportiva y de protección de la forma jurídica de los clubes»",
+ "tramite": "Decreto reglamentario (art. 99 inc. 2 CN).",
+ "motivos": null,
+ "visto": "El Expediente N° [número], la Ley N° 20.655 del Deporte, la Ley N° 25.246 y la Ley de integridad deportiva y de protección de la forma jurídica de los clubes N° [número], y",
+ "considerando": [
+  "Que la Ley N° [número] creó el Registro de Financistas y Cesionarios del Deporte y dispuso que las entidades deportivas solo pueden tomar préstamos o financiamiento y ceder derechos de contenido patrimonial con personas inscriptas, con tasa o precio declarados e informados al registro.",
+  "Que la eficacia de esa ley depende de un trámite de inscripción ágil y verificable, de la identificación cierta del beneficiario final y de la publicación oportuna de los contratos.",
+  "Que las entidades deportivas ya son sujetos obligados ante la Unidad de Información Financiera por el artículo 20, inciso 23, de la Ley N° 25.246, por lo que el registro debe cooperar con ella sin duplicar sus funciones.",
+  "Que la ley otorgó un plazo de ciento ochenta días para la adecuación de los contratos en curso y la inscripción, por lo que el registro debe funcionar antes de su vencimiento.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Autoridad y registro",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Apruébase la reglamentación de la Ley N° [número] de integridad deportiva y de protección de la forma jurídica de los clubes."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "El Registro de Financistas y Cesionarios del Deporte del artículo 3° de la Ley N° [número] funciona en la Secretaría de Cultura y Deportes del Ministerio de Educación, Ciencia y Cultura, autoridad de aplicación de la Ley N° 20.655, que lo pone en funcionamiento dentro de los noventa (90) días de la entrada en vigencia del presente decreto, con trámite íntegramente electrónico."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Requisitos de inscripción",
+     "texto": "La solicitud de inscripción contiene: a) los datos de identificación, la clave tributaria y el domicilio del solicitante; b) la nómina de autoridades y administradores; c) la declaración de beneficiario final, entendido como la persona humana que en última instancia posee o controla al solicitante, con la documentación de la cadena de control; d) la descripción de la actividad económica real, con los estados contables de los dos últimos ejercicios o, para personas humanas, las declaraciones juradas impositivas; e) la declaración del origen de los fondos con que se financiarán las operaciones. Las personas constituidas en el extranjero acompañan, además, la constancia de inscripción en el registro de su país de origen."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Verificación",
+     "texto": "La autoridad de aplicación verifica la información con el registro de beneficiarios finales de la Agencia de Recaudación y Control Aduanero (ARCA), con el registro y control de sociedades y asociaciones competente y, cuando corresponda, con la Unidad de Información Financiera (UIF), y resuelve la inscripción dentro de los treinta (30) días hábiles. Puede requerir información adicional una sola vez, con suspensión del plazo."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Inscripción automática",
+     "texto": "Las personas que el artículo 4° de la Ley N° [número] considera inscriptas sin otro trámite figuran en el registro, con la sola indicación del organismo que las autoriza o registra. La autoridad de aplicación incorpora sus nóminas con la información que publiquen el Banco Central de la República Argentina (BCRA) y la Comisión Nacional de Valores (CNV)."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Actualización",
+     "texto": "Los inscriptos actualizan cada año la información del artículo 3° del presente decreto y comunican dentro de los quince (15) días hábiles todo cambio de beneficiario final o de autoridades."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Contratos y tasas",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Información de contratos",
+     "texto": "La información del artículo 5° de la Ley N° [número] se presenta por la entidad deportiva y por el financista o cesionario mediante un formulario electrónico que incluye partes, objeto, monto, moneda, plazo, garantías, tasa de interés efectiva anual y costo financiero total o, en las cesiones, el precio y la contraprestación. Se acompaña copia del contrato."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Publicación",
+     "texto": "El registro publica en formato de datos abiertos, dentro de los cinco (5) días hábiles de recibida la información, la nómina de inscriptos con sus beneficiarios finales y, para cada contrato, las partes, el monto, el plazo y la tasa o el precio. No se publican los datos personales que no sean necesarios para identificar a las partes."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Estados contables",
+     "texto": "Las entidades deportivas incluyen en nota a sus estados contables la nómina de los contratos informados al registro durante el ejercicio, con los datos publicados."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Exclusión y cooperación",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Procedimiento de exclusión",
+     "texto": "Cuando la autoridad de aplicación advierta alguna de las causales del artículo 7° de la Ley N° [número], o la falsedad de la información presentada, notifica al inscripto, que puede presentar su descargo y prueba dentro de los diez (10) días hábiles. La resolución de exclusión es fundada, se publica en el registro y se comunica a la Unidad de Información Financiera."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Efectos de la exclusión",
+     "texto": "La exclusión no afecta la validez de los contratos informados antes de ella, pero impide celebrar nuevas operaciones o renovarlas con entidades deportivas."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cooperación",
+     "texto": "La autoridad de aplicación celebra, dentro de los ciento veinte (120) días de la entrada en vigencia del presente decreto, convenios con la UIF, con la Inspección General de Justicia (IGJ) y con ARCA para el intercambio de información, y propone convenios equivalentes a los registros provinciales de personas jurídicas, conforme al artículo 8° de la Ley N° [número]."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Adecuación",
+     "texto": "El plazo del artículo 13 de la Ley N° [número] se computa desde la entrada en vigencia de la ley. Las solicitudes de inscripción presentadas dentro de ese plazo permiten continuar operando hasta su resolución."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande el registro se atienden con los créditos asignados a la autoridad de aplicación en el presupuesto vigente, conforme al artículo 12 de la Ley N° [número]."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entra en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,136 @@
+{
+ "id": "N324",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de pagos en fecha a prestadores y de cumplimiento del cupo laboral de las personas con discapacidad",
+ "sumilla": "Lleva a la ley el plazo máximo de pago a los prestadores del sistema de prestaciones básicas (Ley 24.901) y el calendario de transferencias del Programa Federal Incluir Salud, con mora automática y publicación de cada pago; obliga a cada organismo del Estado nacional a informar cada año el cumplimiento del cupo del 4 % de la Ley 22.431, con prioridad de ingreso y sanciones; suma incentivos al empleo privado y deja como piso la compatibilidad de la pensión con el empleo registrado.",
+ "cuando": "Fase I (año 1)",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La Convención sobre los Derechos de las Personas con Discapacidad tiene jerarquía constitucional por la Ley N° 27.044. Sin embargo, los derechos que reconocen las leyes N° 22.431 y N° 24.901 dependen con frecuencia de la paciencia: los prestadores (terapeutas, transportistas, centros) cobran con atraso, y cuando el atraso se prolonga los tratamientos se interrumpen. La Ley N° 27.793 ordenó aranceles iguales para todos los obligados y una regla de actualización; falta asegurar que se paguen en fecha. El presente proyecto fija por ley un plazo máximo de pago de treinta días desde la facturación conforme, con observación única, mora automática e intereses, y un calendario fijo de transferencias a las jurisdicciones para el Programa Federal Incluir Salud, con publicación de cada pago. En materia de empleo, el cupo del cuatro por ciento en el Estado nacional existe desde hace décadas pero no se cumple ni se mide. El proyecto exige a cada organismo un informe anual público, da prioridad de ingreso, en igualdad de mérito, a las personas con discapacidad mientras no se alcance el cupo y fija responsabilidades. Suma incentivos al empleo privado sin crear cargas nuevas: preferencia en las compras públicas, aplicación simple de la reducción de contribuciones vigente y empleo con apoyo. Por último, conserva como piso la compatibilidad de la pensión con el empleo registrado. La ley fija la fuente de sus gastos y su cronograma.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece plazos máximos de pago a los prestadores del Sistema de Prestaciones Básicas de Atención Integral a favor de las Personas con Discapacidad de la Ley N° 24.901 y de las transferencias del Programa Federal Incluir Salud, asegura el cumplimiento del cupo laboral de las personas con discapacidad en el Estado nacional previsto en la Ley N° 22.431 y establece incentivos a su contratación en el sector privado, en el marco de la Convención sobre los Derechos de las Personas con Discapacidad, que tiene jerarquía constitucional conforme la Ley N° 27.044."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Pagos en fecha",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Incorporación del artículo 7° ter a la Ley N° 24.901",
+     "texto": "Incorpórase como artículo 7° ter de la Ley N° 24.901 el siguiente: «ARTÍCULO 7° ter.- Plazo de pago. Los entes obligados por la presente ley pagan las prestaciones dentro de los treinta (30) días corridos contados desde la presentación de la facturación conforme. La facturación se conforma u observa, en una sola comunicación, dentro de los diez (10) días hábiles de presentada; si no se la observa en ese plazo, se tiene por conformada. Las observaciones parciales no suspenden el pago de las prestaciones no observadas. Vencido el plazo, la mora es automática y devenga intereses a la tasa activa del Banco de la Nación Argentina. Ninguna prestación puede suspenderse a la persona con discapacidad por controversias de pago entre el ente obligado y el prestador.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Programa Federal Incluir Salud",
+     "texto": "Las transferencias del Estado nacional a las jurisdicciones para la cobertura de salud de quienes perciben pensiones no contributivas, a través del Programa Federal Incluir Salud o el que lo sustituya, se realizan según un calendario mensual fijo que la autoridad de aplicación publica antes del 1° de diciembre de cada año. Los convenios con las jurisdicciones incluyen su compromiso de pagar a sus prestadores en el plazo del artículo anterior."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Publicación de los pagos",
+     "texto": "Cada pago del Estado nacional a prestadores y cada transferencia a las jurisdicciones se publica en un sitio oficial de acceso abierto, con la identificación del prestador o la jurisdicción, la prestación, el período, el monto y la fecha, sin datos personales de las personas con discapacidad. La autoridad de aplicación publica cada mes el porcentaje de pagos realizados en plazo y los aranceles vigentes según la regla del artículo 7° bis de la Ley N° 24.901."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Cupo laboral en el Estado nacional",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Incorporación del artículo 8° ter a la Ley N° 22.431",
+     "texto": "Incorpórase como artículo 8° ter de la Ley N° 22.431 el siguiente: «ARTÍCULO 8° ter.- Informe anual del cupo. Cada uno de los organismos y entidades comprendidos en el artículo 8° informa antes del 31 de marzo de cada año a la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros y a la Secretaría de Discapacidad del Ministerio de Salud, respecto del año anterior: a) su dotación total; b) la cantidad de personas con discapacidad que la integran y el porcentaje que representan; c) las vacantes producidas y cubiertas, y cuántas lo fueron por personas con discapacidad; d) los puestos reservados; y e) los ajustes razonables realizados. La Secretaría de Función Pública y Gobierno Digital publica antes del 30 de junio el informe consolidado, con el porcentaje de cumplimiento de cada organismo y entidad, y lo remite al Congreso de la Nación.»"
+    },
+    {
+     "n": 6,
+     "epigrafe": "Prioridad de ingreso",
+     "texto": "Mientras un organismo o entidad comprendido en el artículo 8° de la Ley N° 22.431 no alcance el porcentaje allí previsto, las personas con discapacidad que acrediten su condición con el Certificado Único de Discapacidad ingresan con prioridad, en igualdad de mérito, en los procesos de selección para cubrir sus vacantes, y el organismo realiza convocatorias con puestos reservados y con los ajustes razonables necesarios."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Responsabilidades",
+     "texto": "La falta de presentación en término del informe anual y el incumplimiento de la prioridad del artículo anterior constituyen falta grave de la autoridad superior del organismo o entidad, sin perjuicio de lo dispuesto en el artículo 8° de la Ley N° 22.431 sobre el incumplimiento de los deberes de funcionario público. El informe consolidado identifica a los organismos y entidades que no presentaron su informe."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Control",
+     "texto": "La Secretaría de Discapacidad y la Secretaría de Función Pública y Gobierno Digital verifican la información de los informes anuales, pueden requerir información adicional y formulan recomendaciones a cada organismo para alcanzar el porcentaje."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Incentivos al empleo privado",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Preferencia en las contrataciones públicas",
+     "texto": "En los procedimientos de contratación de la Administración Pública nacional, en caso de igualdad de ofertas, se adjudica con preferencia a la oferente cuyo personal en relación de dependencia por tiempo indeterminado incluya una proporción de personas con discapacidad no inferior al cuatro por ciento (4 %), acreditada en la forma que fije la reglamentación."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Aplicación de la reducción de contribuciones",
+     "texto": "La Agencia de Recaudación y Control Aduanero (ARCA) aplica la reducción de contribuciones patronales prevista en el artículo 87 de la Ley N° 24.013, según el texto del artículo 17 de la Ley N° 27.793, en la declaración jurada del empleador, sin trámite previo adicional, y verifica la condición de discapacidad con la información que le suministre la Secretaría de Discapacidad. La presente no modifica la alícuota ni el plazo de la reducción."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Empleo con apoyo",
+     "texto": "La Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social implementa un programa de empleo con apoyo para personas con discapacidad, que financia el acompañamiento de la persona en su puesto de trabajo y la adaptación del puesto en empresas privadas y entidades sin fines de lucro, en las condiciones que fije la reglamentación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Compatibilidad con el empleo",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Piso de compatibilidad",
+     "texto": "La percepción de la Pensión No Contributiva por Discapacidad para Protección Social es compatible con el empleo registrado mientras el ingreso de la persona titular no supere dos (2) salarios mínimos, vitales y móviles, conforme el artículo 7° de la Ley N° 27.793. Esta regla constituye un piso: ninguna norma reglamentaria puede establecer una regla de compatibilidad menos favorable."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación de los Capítulos II y V es la Secretaría de Discapacidad."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Financiamiento y cronograma",
+     "texto": "Conforme el artículo 38 de la Ley N° 24.156 y el artículo 5° de la Ley N° 24.629: a) el pago en plazo del Capítulo II se atiende, en el ejercicio de entrada en vigencia, con la reasignación de los créditos de los programas presupuestarios de prestaciones del Sistema de Prestaciones Básicas y del Programa Federal Incluir Salud, y desde el ejercicio siguiente con los créditos que cada ley de presupuesto asigne a esos programas, que deben prever el cumplimiento del plazo; b) los intereses moratorios son a cargo del ente obligado que incurra en mora; c) el programa de empleo con apoyo se financia con la reasignación de los créditos de los programas de empleo de la Secretaría de Trabajo y Empleo y se pone en marcha dentro de los ciento ochenta (180) días; y d) el mayor gasto que no pueda atenderse con esas reasignaciones se activa con la ley de presupuesto del ejercicio siguiente al de la entrada en vigencia de la presente, que debe preverlo. Los Capítulos III y V no generan gasto adicional."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "El Capítulo II se aplica a las prestaciones del primer mes completo posterior a la entrada en vigencia de la presente. El primer informe anual del Capítulo III corresponde al año de su entrada en vigencia."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los sesenta (60) días de su publicación."
+    },
+    {
+     "n": 17,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.901: nuevo art. 7 ter (plazos de pago)",
+  "Ley 22.431: nuevo art. 8 ter (informe anual del cupo); arts. 6 y 7 de la ley complementan el art. 8 (prioridad y responsabilidades)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

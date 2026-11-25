@@ -1,0 +1,126 @@
+{
+ "id": "N433",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Ascensos por Orden de Mérito en las Fuerzas Armadas y las Fuerzas Federales",
+ "sumilla": "Los ascensos a oficial superior y a oficial general de las Fuerzas Armadas, y a los grados equivalentes de las fuerzas federales, se otorgan en el estricto orden de mérito de las juntas de calificaciones. Las juntas se integran por antigüedad y con un miembro civil sorteado, y lo que depende del criterio de quien califica no puede pasar del 30 % del puntaje. El Poder Ejecutivo fija cada año cuántas vacantes hay, pero no elige quién asciende.",
+ "cuando": "Fase I · año 1 (rige para el primer ciclo anual de ascensos posterior a su publicación)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "Ascender a coronel, a general, a almirante o a brigadier es la decisión de carrera más importante de un militar y de un oficial de las fuerzas federales. Hoy las juntas de calificación evalúan y proponen, pero el Poder Ejecutivo puede sacar o agregar nombres en la lista que manda al Senado o que asciende por decreto, y en los últimos años hubo listas armadas sin el aval de la propia fuerza y ascensos frenados durante años por razones ajenas al mérito. Esta ley ordena el sistema: el Gobierno decide cuántos ascensos hacen falta, según la estructura de cada fuerza, y las juntas, con puntajes objetivos y publicados, deciden en qué orden. El Senado conserva su acuerdo constitucional para las Fuerzas Armadas, y quien no lo obtiene es reemplazado por el siguiente. Los jefes de Estado Mayor y de cada fuerza siguen siendo elegidos por el Presidente, como comandante en jefe.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Reglas comunes",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto y alcance",
+     "texto": "La presente ley rige los ascensos por selección a los grados de oficial superior y de oficial general del Ejército Argentino, la Armada Argentina y la Fuerza Aérea Argentina, y a los grados equivalentes del personal superior de la Gendarmería Nacional Argentina, la Prefectura Naval Argentina, la Policía Federal Argentina, la Policía de Seguridad Aeroportuaria y el Servicio Penitenciario Federal. Sus disposiciones complementan las leyes de personal de cada fuerza y prevalecen sobre las que se les opongan."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Vacantes",
+     "texto": "El Ministerio de Defensa, para las Fuerzas Armadas, y el Ministerio de Justicia y Seguridad, para las fuerzas federales, fijarán por resolución, antes del inicio de cada ciclo de calificación, el número de vacantes para cada grado y escalafón, conforme a la estructura orgánica aprobada. La resolución se publicará en el Boletín Oficial y no podrá modificarse una vez abierto el ciclo."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Integración de las juntas",
+     "texto": "Las juntas de calificaciones de cada fuerza se integran con los oficiales en actividad de mayor jerarquía y antigüedad que no sean candidatos en el ciclo, en el número y por el orden que fije la reglamentación, y con un (1) miembro civil con voz y voto, sorteado en acto público del Registro Nacional de Jurados del artículo 8° ter del Anexo de la Ley N° 25.164, en la especialidad de defensa o de seguridad, según corresponda, que no revista ni haya revistado en los cinco (5) años anteriores en la fuerza. Ninguna autoridad podrá modificar la integración de una junta una vez abierto el ciclo, salvo para reemplazar a un miembro impedido por el siguiente en el mismo orden."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Puntaje",
+     "texto": "Las juntas calificarán a cada candidato con un puntaje numérico según factores y ponderaciones fijados por el ministerio respectivo antes del ciclo, entre ellos las evaluaciones de desempeño, los cursos y títulos, los destinos cumplidos, incluida la movilidad de la Ley de Permanencia Máxima en Destino de las Fuerzas Federales, las sanciones y la aptitud física y psicofísica. Los factores que dependen del juicio de quien califica, como el concepto de la junta y las evaluaciones de los superiores, no podrán superar en conjunto el treinta por ciento (30 %) del puntaje total, y cada calificación de esos factores se fundará por escrito."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Publicidad e impugnación",
+     "texto": "Cada junta publicará el orden de mérito por grado y escalafón, con el puntaje de cada candidato en cada factor y los fundamentos del artículo 4°. Los candidatos podrán impugnarlo dentro de los diez (10) días hábiles ante el ministerio respectivo, que resolverá en forma fundada y publicada dentro de los treinta (30) días."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Propuesta en orden de mérito",
+     "texto": "El Poder Ejecutivo nacional, el ministro o el jefe de la fuerza, según quién otorgue el ascenso en cada caso, propondrá y otorgará los ascensos en el estricto orden de mérito de cada junta hasta cubrir las vacantes fijadas. No podrá excluir, agregar ni reordenar candidatos. Solo podrá apartar a un candidato por una causal legal objetiva sobreviniente a la calificación —condena, procesamiento firme o sumario disciplinario por falta grave en trámite—, mediante resolución fundada y publicada, en cuyo caso se propondrá al siguiente del orden."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Acuerdo del Senado",
+     "texto": "Los pliegos de los ascensos que requieren acuerdo del Senado conforme al artículo 99, inciso 13, de la Constitución Nacional y al artículo 45 de la Ley N° 19.101 se remitirán con el orden de mérito, los puntajes y la resolución de vacantes. Si el Senado rechaza el acuerdo de un candidato, el Poder Ejecutivo propondrá para esa vacante al siguiente del orden de mérito."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Jefaturas",
+     "texto": "La presente ley no alcanza la designación de los jefes del Estado Mayor Conjunto, de los Estados Mayores Generales y de las fuerzas federales, que el Presidente de la Nación efectúa conforme al artículo 99, inciso 12, de la Constitución Nacional y a las leyes respectivas, ni los grados que el artículo 49 de la Ley N° 19.101 reserva para los jefes de los Estados Mayores Generales."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Modificaciones a las leyes de personal",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Fuerzas Armadas",
+     "texto": "Incorpóranse a la Ley N° 19.101 para el Personal Militar: a) como último párrafo del artículo 47, el siguiente: «Las juntas de calificaciones se integran y califican conforme a la Ley de Ascensos por Orden de Mérito en las Fuerzas Armadas y las Fuerzas Federales, y el orden de mérito que establecen obliga a la autoridad que otorga el ascenso.»; b) como artículo 49 bis, el siguiente: «Artículo 49 bis.- Los ascensos por selección se otorgarán en el estricto orden de mérito de las juntas de calificaciones, hasta cubrir las vacantes previstas en el artículo 46, conforme a la Ley de Ascensos por Orden de Mérito en las Fuerzas Armadas y las Fuerzas Federales.»"
+    },
+    {
+     "n": 10,
+     "epigrafe": "Gendarmería Nacional",
+     "texto": "Incorpórase como último párrafo del artículo 72 de la Ley N° 19.349 de Gendarmería Nacional el siguiente: «Las juntas de calificaciones se integran y califican conforme a la Ley de Ascensos por Orden de Mérito en las Fuerzas Armadas y las Fuerzas Federales. Los ascensos que se otorguen conforme al artículo 70 seguirán el estricto orden de mérito que ellas establezcan.»"
+    },
+    {
+     "n": 11,
+     "epigrafe": "Policía Federal Argentina",
+     "texto": "Sustitúyese, en el artículo 63 de la Ley N° 21.965 para el Personal de la Policía Federal Argentina, la expresión «quien resolverá sobre el particular» por «quien propondrá u otorgará los ascensos en el estricto orden de mérito que ellas establezcan, conforme a la Ley de Ascensos por Orden de Mérito en las Fuerzas Armadas y las Fuerzas Federales». Incorpórase como último párrafo del artículo 65 de la misma ley el siguiente: «La selección se hará en el estricto orden de mérito de las juntas de calificaciones.» Derógase el inciso f) del artículo 319 de su reglamentación, aprobada por el Decreto N° 1866/83 e incorporado por el Decreto N° 1439/2004."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Servicio Penitenciario Federal",
+     "texto": "Incorpórase como último párrafo del artículo 79 de la Ley Orgánica del Servicio Penitenciario Federal N° 17.236, texto según Ley N° 20.416, el siguiente: «Los ascensos por selección del personal superior, incluido el grado de Inspector General, se otorgarán en el estricto orden de mérito de la Junta de Calificaciones, conforme a la Ley de Ascensos por Orden de Mérito en las Fuerzas Armadas y las Fuerzas Federales.»"
+    },
+    {
+     "n": 13,
+     "epigrafe": "Prefectura Naval y Policía de Seguridad Aeroportuaria",
+     "texto": "Los ascensos por selección del personal superior de la Prefectura Naval Argentina, regidos por la Ley N° 18.398, y del personal policial de la Policía de Seguridad Aeroportuaria, regidos por la Ley N° 26.102 y el régimen profesional aprobado por el Decreto N° 836/2008, se otorgarán conforme a la presente ley. El Poder Ejecutivo adecuará esas reglamentaciones dentro de los noventa (90) días."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Publicación anual",
+     "texto": "El Ministerio de Defensa y el Ministerio de Justicia y Seguridad publicarán cada año, por fuerza, grado y escalafón, las vacantes, la integración de las juntas, los órdenes de mérito con sus puntajes, los ascensos otorgados y los apartamientos con su fundamento."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley rige a partir del primer ciclo de calificación que se abra después de su publicación."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 19.101 para el Personal Militar: art. 47 (último párrafo) y nuevo art. 49 bis",
+  "Ley 19.349 de Gendarmería Nacional: art. 72 (último párrafo)",
+  "Ley 21.965 para el Personal de la Policía Federal Argentina: arts. 63 y 65",
+  "Ley 17.236 del Servicio Penitenciario Federal, texto según Ley 20.416: art. 79 (último párrafo)",
+  "Ley 18.398 de la Prefectura Naval Argentina y Ley 26.102 de Seguridad Aeroportuaria, en lo que se oponga"
+ ],
+ "deroga": [
+  "Reglamentación de la Ley 21.965 (Decreto 1866/83), art. 319 inc. f), incorporado por el Decreto 1439/2004 (facultad del Jefe de la PFA de modificar la composición de las juntas)"
+ ],
+ "variantes": null
+}

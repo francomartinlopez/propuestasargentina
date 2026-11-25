@@ -1,0 +1,63 @@
+{
+ "id": "N005",
+ "tipo": "resolucion",
+ "titulo": "Comunicación modelo del BCRA: eliminación por etapas de las restricciones cambiarias y cese de la venta de divisas",
+ "sumilla": "En tres etapas deja sin efecto las restricciones del texto ordenado «Exterior y Cambios»: al abrir el tramo transitorio, la obligación de ingresar y liquidar exportaciones (Secciones 7, 8 y 9 y punto 2.2.1); a mitad del tramo, la conformidad previa y los límites a personas jurídicas; al unificar, todas las restantes. Desde la unificación, el BCRA deja de vender divisas al sector privado.",
+ "cuando": "Fase II: la primera etapa, el mismo día de la apertura del tramo transitorio (comienzo del año 3) y de la entrada en vigencia del art. 11 de «Ley de libertad de moneda y de indexación en los contratos y de fecha máxima de unificación cambiaria»; la última, en la fecha de cierre del tramo.",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (Comunicación «A» del BCRA, dictada por su Directorio).",
+ "motivos": null,
+ "visto": "La Carta Orgánica del Banco Central de la República Argentina, Ley N° 24.144 y sus modificatorias, los artículos 9° a 11 y 13 de la Ley N° [—] de libertad de moneda y de indexación en los contratos, el texto ordenado de las normas sobre «Exterior y Cambios» (Comunicación «A» 6844 y complementarias, actualizado por la Comunicación «A» 8481), la Comunicación «A» […] de apertura del tramo transitorio, y",
+ "considerando": [
+  "Que el artículo 11 de la Ley N° [—] derogó los artículos 1° a 3° del Decreto N° 609/2019 desde la apertura del tramo transitorio, por lo que los exportadores de bienes y servicios ya no están obligados a ingresar ni a liquidar el contravalor de sus exportaciones.",
+  "Que las Secciones 7, 8 y 9 de las normas sobre «Exterior y Cambios» regulan el cobro, el seguimiento y la financiación de las exportaciones de bienes, y el punto 2.2.1 fija la obligación de ingreso y liquidación de los cobros de exportaciones de servicios, por lo que deben dejarse sin efecto en la misma fecha.",
+  "Que la eliminación del resto de las restricciones debe ser gradual y previsible, y concluir en la fecha de unificación del mercado de cambios.",
+  "Que, unificado el mercado, esta Institución concentra su actuación en la acumulación de reservas y en el cumplimiento de su mandato, y deja de ser vendedora de divisas a personas y empresas.",
+  "Que la presente se dicta en uso de las facultades conferidas por la Carta Orgánica del Banco Central de la República Argentina, Ley N° 24.144 y sus modificatorias."
+ ],
+ "formula": "A LAS ENTIDADES FINANCIERAS, A LAS CASAS DE CAMBIO: Nos dirigimos a Uds. para comunicarles que esta Institución adoptó la siguiente resolución:",
+ "capitulos": [
+  {
+   "titulo": "Comunicación «A» […] – Ref.: Circular CAMEX 1-[…]. Exterior y Cambios. Cronograma de eliminación de restricciones.",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Punto 1 – Primera etapa: exportaciones",
+     "texto": "Dejar sin efecto, a partir de la fecha de apertura del tramo transitorio, las Secciones 7, 8 y 9 y el punto 2.2.1 de las normas sobre «Exterior y Cambios». El punto 2.2.2.1 queda sin objeto en la misma fecha. Los exportadores podrán mantener el contravalor de sus exportaciones en cuentas en el país o en el exterior, o liquidarlo en el momento que elijan."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Punto 2 – Segunda etapa: egresos",
+     "texto": "Dejar sin efecto, a partir del día en que se cumplan seis (6) meses de la apertura del tramo transitorio, los requisitos de conformidad previa de esta Institución previstos en la Sección 3 de las normas sobre «Exterior y Cambios» y los límites al acceso al mercado de cambios de las personas jurídicas para la formación de activos externos y para el giro de utilidades y dividendos."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Punto 3 – Tercera etapa: unificación",
+     "texto": "Dejar sin efecto, a partir de la fecha de cierre del tramo transitorio, todas las restricciones subsistentes de las normas sobre «Exterior y Cambios». Desde esa fecha, esas normas comprenden solo los regímenes informativos y las disposiciones de prevención del lavado de activos y del financiamiento del terrorismo, que se ordenan en un nuevo texto dentro de los treinta (30) días."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Punto 4 – Cese de la venta de divisas",
+     "texto": "Establecer que, a partir de la fecha de cierre del tramo transitorio, esta Institución no vende moneda extranjera a personas humanas ni a personas jurídicas del sector privado, en forma directa ni por intermedio de las entidades. Sus operaciones en el mercado de cambios se limitan a la compra de divisas para la acumulación de reservas y a las operaciones con el Tesoro Nacional, con organismos internacionales y con otros bancos centrales."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Punto 5 – Información",
+     "texto": "Disponer que esta Institución publique en su sitio oficial, el día de la difusión de la presente, el cronograma de los puntos 1 a 4 con sus fechas, y cada mes un informe sobre su cumplimiento y sobre la evolución de las reservas internacionales netas."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Punto 6 – Vigencia",
+     "texto": "Las presentes disposiciones entrarán en vigencia el día de su difusión, con los efectos diferidos que se indican en cada punto."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Texto ordenado de «Exterior y Cambios» del BCRA (Com. A 6844 y modificatorias; Com. A 8481): Secciones 3, 7, 8 y 9 y punto 2.2.1"
+ ],
+ "deroga": [
+  "Texto ordenado de «Exterior y Cambios», Secciones 7, 8 y 9 y punto 2.2.1 (primera etapa); restantes restricciones (tercera etapa)"
+ ],
+ "variantes": null
+}

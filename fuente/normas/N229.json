@@ -1,0 +1,63 @@
+{
+ "id": "N229",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de reforma del Código Penal: prescripción e imprescriptibilidad de la corrupción, violencia institucional e incendios intencionales",
+ "sumilla": "Extiende la suspensión de la prescripción de los delitos cometidos en la función pública mientras un partícipe conserve influencia efectiva sobre el organismo y durante cuatro años más; declara imprescriptibles, para hechos futuros, los delitos dolosos contra la administración pública con enriquecimiento (art. 62 bis); agrava las penas por violencia institucional y tipifica el incendio intencional de bosques, pastizales y humedales.",
+ "cuando": "Fase I · año 1: consulta popular vinculante en el primer semestre de 2028",
+ "cuando_breve": "Consulta vinculante 2028",
+ "tramite": "Mayoría simple; cámara de origen indistinta. Se somete a consulta popular vinculante: si la mayoría de los votos válidos la aprueba, se convierte en ley en forma automática (art. 40 de la Constitución Nacional).",
+ "motivos": "El artículo 36 de la Constitución Nacional considera que quien comete un grave delito doloso contra el Estado que conlleve enriquecimiento atenta contra el sistema democrático. Sin embargo, muchas causas de corrupción se extinguen por el paso del tiempo, porque la influencia de los imputados sobre los organismos involucrados persiste más allá de su permanencia formal en el cargo y demora la investigación. El presente proyecto amplía la suspensión de la prescripción que el Código Penal ya prevé para los delitos cometidos en el ejercicio de la función pública: la suspensión rige también mientras algún partícipe conserve influencia efectiva sobre el organismo y durante cuatro años después. Incorpora además un artículo 62 bis que declara imprescriptibles los delitos dolosos contra la administración pública que impliquen enriquecimiento. Ambas reglas se aplican solo a hechos posteriores a la ley, en resguardo del principio de legalidad del artículo 18 de la Constitución. El proyecto incorpora también dos reformas previstas en el programa: un agravante general para los delitos contra la vida, la integridad física y la libertad cometidos por integrantes de las fuerzas policiales, de seguridad y penitenciarias con abuso de su función, y un tipo penal específico para el incendio intencional de bosques, pastizales, humedales y áreas protegidas.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Suspensión de la prescripción",
+     "texto": "Sustitúyese el segundo párrafo del artículo 67 del Código Penal por el siguiente:\n«La prescripción también se suspende en los casos de delitos cometidos en el ejercicio de la función pública, para todos los que hubiesen participado, mientras cualquiera de ellos se encuentre desempeñando un cargo público o conserve influencia efectiva sobre el organismo en cuyo ámbito se cometió el delito, y hasta cuatro (4) años después de cesar en el cargo o en esa influencia. Se entiende que conserva influencia efectiva quien ocupa un cargo directivo, de asesoramiento o de control en ese organismo o en otro con competencia sobre él, o quien, por cualquier vínculo, mantiene la posibilidad de incidir en sus decisiones o en el acceso a la información relativa al hecho.»"
+    },
+    {
+     "n": 2,
+     "epigrafe": "Imprescriptibilidad de la corrupción",
+     "texto": "Incorpórase como artículo 62 bis del Código Penal el siguiente:\n«ARTÍCULO 62 bis.- La acción penal y la pena son imprescriptibles respecto de los delitos dolosos previstos en los artículos 174, inciso 5°, 256 a 259, 260 a 264, 265, 266 a 268 y 268 (2), cuando hayan implicado enriquecimiento para el autor, para los partícipes o para terceros.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Violencia institucional",
+     "texto": "Incorpórase como artículo 41 sexies del Código Penal el siguiente:\n«ARTÍCULO 41 sexies.- Cuando un delito contra la vida, la integridad física o la libertad de las personas sea cometido por un integrante de las fuerzas policiales, de seguridad o penitenciarias, con abuso de su función o en ocasión de un procedimiento, la escala penal se incrementará en un tercio del mínimo y del máximo, sin que pueda exceder el máximo legal de la especie de pena de que se trate. Esta agravante no se aplicará cuando la condición de funcionario o de integrante de esas fuerzas se encuentre prevista como elemento constitutivo o calificante del delito.»"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Incendio intencional de bosques, pastizales y humedales",
+     "texto": "Incorpórase como artículo 186 bis del Código Penal el siguiente:\n«ARTÍCULO 186 bis.- Será reprimido con prisión de dos (2) a ocho (8) años el que causare intencionalmente un incendio en bosques nativos o implantados, pastizales, montes, humedales o áreas naturales protegidas, aunque no resultare peligro común, siempre que el hecho no constituya un delito más severamente penado.»"
+    },
+    {
+     "n": 5,
+     "epigrafe": "Aplicación temporal",
+     "texto": "Las disposiciones de la presente ley se aplicarán únicamente a los hechos cometidos con posterioridad a su entrada en vigencia, conforme el artículo 18 de la Constitución Nacional y el artículo 2° del Código Penal."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia a los ocho (8) días de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Código Penal, art. 67, segundo párrafo (sustituido)",
+  "Código Penal, art. 62 bis (incorporado)",
+  "Código Penal, art. 41 sexies (incorporado): agravante por violencia institucional",
+  "Código Penal, art. 186 bis (incorporado): incendio intencional de bosques, pastizales, humedales y áreas protegidas"
+ ],
+ "deroga": [],
+ "variantes": null
+}

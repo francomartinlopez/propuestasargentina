@@ -1,0 +1,91 @@
+{
+ "id": "N244",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de reforma de la Ley N° 24.660 de Ejecución de la Pena Privativa de la Libertad: cupo legal, alta seguridad, clasificación, trabajo, educación y reinserción",
+ "sumilla": "Convierte el número preestablecido de internos del artículo 59 en un cupo legal con control judicial; da rango legal al régimen especial para líderes de organizaciones criminales y fija plazo y responsables de los inhibidores (art. 160); suma los establecimientos de alta seguridad (art. 176); hace obligatoria la clasificación al ingreso (art. 13); fija metas anuales de trabajo y educación y un programa de reinserción al egreso.",
+ "cuando": "Fase II (años 2-3): se envía en la Fase II; sobrepoblación cero en el sistema federal al 10/12/2030.",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "El sistema penitenciario federal aloja más personas que las plazas disponibles, y la emergencia penitenciaria debió prorrogarse. La sobrepoblación impide clasificar a los internos, mezcla a quienes recién ingresan con integrantes de organizaciones criminales y convierte a las cárceles en lugares desde donde se siguen dirigiendo delitos. La Ley N° 24.660 ya manda preestablecer la cantidad de internos de cada establecimiento y prohíbe los teléfonos celulares, pero no fija consecuencias ni plazos para su cumplimiento. El presente proyecto convierte esa cantidad en un cupo legal por establecimiento, bajo control del juez de ejecución, de modo que ninguna unidad aloje más personas que plazas habilitadas. Da rango legal al régimen especial para líderes de organizaciones criminales, que rige desde el primer año por resolución, con celda individual, visitas en locutorio y comunicaciones grabadas bajo control judicial, y fija responsables para los inhibidores de señal. Incorpora los establecimientos de alta seguridad, hace obligatoria la clasificación de toda persona al ingresar, fija metas anuales de trabajo y educación y crea un programa de reinserción al egreso, con empleo, vivienda transitoria y seguimiento. Con ello la cárcel cumple su finalidad constitucional de seguridad y de reinserción social.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cupo legal",
+     "texto": "Sustitúyese el artículo 59 de la Ley N° 24.660 por el siguiente:\n«ARTÍCULO 59.- Cupo legal. Cada establecimiento tendrá un cupo máximo de alojamiento, que fijará la autoridad penitenciaria conforme los estándares de habitabilidad que establezca la reglamentación, en especial de superficie, ventilación, luz natural e instalaciones sanitarias por persona. El cupo se publicará y se comunicará a los jueces de ejecución con competencia sobre el establecimiento y a la Procuración Penitenciaria de la Nación. Ningún establecimiento alojará más personas que su cupo. Cuando se exceda, el director lo informará dentro de las veinticuatro (24) horas al juez de ejecución, quien podrá ordenar el traslado de personas a otros establecimientos con plazas disponibles, la suspensión de nuevos ingresos o la presentación de un plan de regularización con plazo cierto. La autoridad penitenciaria publicará cada mes el cupo y la población alojada en cada establecimiento. Todos los locales estarán siempre en buen estado de conservación e higiene. Su ventilación, iluminación, calefacción y dimensiones guardarán relación con su destino y los factores climáticos.»"
+    },
+    {
+     "n": 2,
+     "epigrafe": "Clasificación obligatoria",
+     "texto": "Incorpórase como último párrafo del artículo 13 de la Ley N° 24.660 el siguiente:\n«Toda persona que ingrese a un establecimiento, procesada o condenada, será clasificada dentro de los treinta (30) días según su nivel de riesgo y alojada en el sector que corresponda a ese nivel. Ninguna persona podrá ser alojada con internos de un nivel de riesgo superior al propio sin resolución fundada comunicada al juez competente. El alojamiento respetará la identidad de género de cada persona, conforme la Ley N° 26.743, y el establecimiento adoptará medidas de protección frente a la violencia sexual y al hostigamiento.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Inhibidores y régimen especial para líderes de organizaciones criminales",
+     "texto": "Incorpóranse como últimos párrafos del artículo 160 de la Ley N° 24.660 los siguientes:\n«El titular de cada establecimiento y la autoridad penitenciaria de la que depende son responsables de la instalación y del funcionamiento permanente de los inhibidores de señal en todos los pabellones y módulos, que deberán encontrarse operativos dentro de los doce (12) meses de la habilitación del establecimiento o, en los existentes, de la entrada en vigencia de este párrafo.\nLas personas procesadas con prisión preventiva o condenadas respecto de las cuales existan elementos objetivos de que ocupan una posición de dirección, organización o financiamiento en una organización criminal, o de que mantienen desde su detención la conducción de actividades delictivas, podrán ser incorporadas por la autoridad penitenciaria, mediante resolución fundada, a un régimen especial de alojamiento en establecimientos o módulos de alta seguridad, con celda individual, visitas en locutorio separado y comunicaciones telefónicas grabadas con aviso a los interlocutores. Las comunicaciones y entrevistas con la defensa no serán grabadas ni escuchadas. La resolución se comunicará dentro de las veinticuatro (24) horas al juez competente, que ejercerá el control judicial permanente; la permanencia en el régimen se revisará cada seis (6) meses. El régimen no restringe otros derechos que los aquí previstos.»"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Establecimientos de alta seguridad",
+     "texto": "Incorpórase como inciso f) del artículo 176 de la Ley N° 24.660 el siguiente:\n«f) Establecimientos o módulos de alta seguridad, para el alojamiento de las personas comprendidas en el régimen especial del artículo 160 y de las clasificadas en el máximo nivel de riesgo.»"
+    },
+    {
+     "n": 5,
+     "epigrafe": "Metas de trabajo",
+     "texto": "Incorpórase como último párrafo del artículo 106 de la Ley N° 24.660 el siguiente:\n«La autoridad penitenciaria fijará y publicará cada año metas de cantidad de internos que trabajan, por establecimiento, y celebrará convenios con empresas, cooperativas y organizaciones para la formación en oficios demandados y el trabajo dentro y fuera de los establecimientos.»"
+    },
+    {
+     "n": 6,
+     "epigrafe": "Metas de educación",
+     "texto": "Incorpórase como último párrafo del artículo 133 de la Ley N° 24.660 el siguiente:\n«La autoridad penitenciaria fijará y publicará cada año metas de cantidad de internos que estudian y de finalización de niveles educativos, por establecimiento, en coordinación con las autoridades educativas.»"
+    },
+    {
+     "n": 7,
+     "epigrafe": "Programa de reinserción",
+     "texto": "Incorpórase como último párrafo del artículo 172 de la Ley N° 24.660 el siguiente:\n«La autoridad de aplicación ejecutará, con los patronatos de liberados, un programa de reinserción para las personas que egresen, que comprenderá la intermediación laboral, una vivienda transitoria cuando no cuenten con ella y el seguimiento durante al menos un (1) año desde el egreso.»"
+    },
+    {
+     "n": 8,
+     "epigrafe": "Plan de plazas del sistema federal",
+     "texto": "La autoridad de aplicación aprobará y publicará, dentro de los ciento ochenta (180) días de la entrada en vigencia de la presente ley, un plan de plazas del Servicio Penitenciario Federal con obras, plazos y responsables, que incluya la habilitación plena de los complejos en construcción o recién habilitados, el cierre de los establecimientos que no reúnan los estándares de habitabilidad y la meta de que la población alojada no supere el cupo de ningún establecimiento al 10 de diciembre de 2030. Publicará cada semestre su grado de avance."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Aplicación en las jurisdicciones",
+     "texto": "Las autoridades penitenciarias de las provincias y de la Ciudad Autónoma de Buenos Aires adecuarán sus establecimientos a los artículos 59, 160 y 176 de la Ley N° 24.660, en el texto de la presente, conforme los acuerdos que celebren con el Estado nacional, sin perjuicio de su aplicación inmediata a las personas alojadas en el Servicio Penitenciario Federal."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la presente ley se atenderán con la reasignación de créditos del Ministerio de Justicia y Seguridad que identifique en forma expresa la ley de presupuesto del ejercicio en que entre en vigencia, dentro del límite conjunto de cero coma doce por ciento (0,12 %) del Producto Interno Bruto al cuarto año de mandato previsto para la rotación de las fuerzas, la estrategia contra el narcotráfico y el sistema penitenciario. Si no hubiera créditos identificados, se atenderán con la ley de presupuesto del ejercicio siguiente."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vigencia y reglamentación",
+     "texto": "La presente ley entrará en vigencia a los noventa (90) días de su publicación en el Boletín Oficial. El Poder Ejecutivo nacional la reglamentará dentro de ese plazo. Desde su entrada en vigencia, el régimen especial para líderes de organizaciones criminales del Servicio Penitenciario Federal se rige por el artículo 160 de la Ley N° 24.660 en el texto de la presente."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.660, art. 59 (sustituido)",
+  "Ley 24.660, art. 13 (incorpora último párrafo)",
+  "Ley 24.660, art. 160 (incorpora párrafos)",
+  "Ley 24.660, art. 176 (incorpora inciso f)",
+  "Ley 24.660, art. 106 (incorpora último párrafo)",
+  "Ley 24.660, art. 133 (incorpora último párrafo)",
+  "Ley 24.660, art. 172 (incorpora último párrafo)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

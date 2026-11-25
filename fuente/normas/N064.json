@@ -1,0 +1,91 @@
+{
+ "id": "N064",
+ "tipo": "resolucion",
+ "titulo": "Resolución que crea el Registro Público de Oferta Local por rubro y posición arancelaria",
+ "sumilla": "Crea un registro único y público de oferta local, por rubro y posición NCM, que sirve para medir el contenido nacional de las grandes inversiones, limitar el arancel cero a los bienes sin producción local y armar la nómina de insumos sin producción local, con certificación técnica del INTI.",
+ "cuando": "Fase I (año 1)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (resolución de la Secretaría de Producción y Comercio del Ministerio de Economía; convenio con el INTI).",
+ "motivos": null,
+ "visto": "El Expediente N° […], la Ley N° 27.742 y su modificatoria N° […], el Decreto-Ley N° 17.138/57, los Decretos Nros. 50/2019, 749/2024, 105/2026 y 146/2026, y",
+ "considerando": [
+  "Que la reforma del Régimen de Incentivo para Grandes Inversiones dispone que la Secretaría de Producción y Comercio del Ministerio de Economía lleve un registro público de oferta local por rubro, único para el contenido nacional, la exención de derechos de importación y la nómina de insumos sin producción local, y asigna al INSTITUTO NACIONAL DE TECNOLOGÍA INDUSTRIAL la certificación técnica de los proveedores inscriptos.",
+  "Que el artículo 123 del Anexo I del Decreto N° 749/2024, sustituido por el artículo 17 del Decreto N° 105/2026, encomendó a la entonces Secretaría de Industria y Comercio, hoy esta Secretaría conforme al Decreto N° 146/2026, la evaluación y resolución de las solicitudes de adhesión al Registro de Proveedores del régimen, y que el artículo 3°, inciso f), del Anexo I del Decreto N° 749/2024 ya define el origen nacional de los bienes con los criterios del Acuerdo de Complementación Económica N° 18 del MERCOSUR.",
+  "Que un único registro público evita trámites duplicados y da a inversores, proveedores, cámaras y provincias una sola fuente para exigir el cumplimiento de los compromisos.",
+  "Que las funciones del INTI previstas en el artículo 2° del Decreto-Ley N° 17.138/57 comprenden la vinculación técnica con la industria, y que la certificación de proveedores se instrumenta por convenio.",
+  "Que llevar un registro es una tarea propia de esta Secretaría y no afecta por sí derechos de terceros.",
+  "Que ha tomado intervención el servicio jurídico permanente del Ministerio de Economía.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 20 de la Ley de Ministerios N° 22.520 (t.o. Decreto N° 438/92) y sus modificatorias, por el Decreto N° 50/2019 y sus modificatorios y por el artículo 123 del Anexo I del Decreto N° 749/2024, sustituido por el artículo 17 del Decreto N° 105/2026."
+ ],
+ "formula": "Por ello, EL SECRETARIO DE PRODUCCIÓN Y COMERCIO RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación",
+     "texto": "Créase el Registro Público de Oferta Local, en el ámbito de esta Secretaría, organizado por rubro y por posición de la Nomenclatura Común del MERCOSUR (NCM), que será único para: a) la medición del contenido nacional de las grandes inversiones; b) la determinación de los bienes de capital, repuestos y partes con producción local registrada, a los fines de la exención de derechos de importación de las grandes inversiones; y c) la nómina pública de insumos productivos sin producción local."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Inscripción",
+     "texto": "Podrán inscribirse en forma gratuita, por medio de la plataforma de Trámites a Distancia (TAD), las personas humanas y jurídicas que produzcan en el país bienes, o presten desde el país servicios, de los rubros comprendidos. La solicitud indicará, para cada bien o servicio, la posición arancelaria o el rubro, la capacidad de producción anual, los plazos de entrega, las normas técnicas que cumple y las certificaciones que posee, con carácter de declaración jurada."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Criterio de origen",
+     "texto": "Se considerarán de origen nacional los bienes que cumplan los criterios del artículo 3°, inciso f), del Anexo I del Decreto N° 749/2024, que remite al Acuerdo de Complementación Económica N° 18 del MERCOSUR. Los servicios se considerarán locales cuando sean prestados desde el país por personas residentes."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Certificación técnica",
+     "texto": "La capacidad técnica y la calidad de los proveedores inscriptos serán certificadas por el INSTITUTO NACIONAL DE TECNOLOGÍA INDUSTRIAL (INTI), conforme al convenio que esta Secretaría celebrará con ese Instituto dentro de los TREINTA (30) días. El registro distinguirá a los proveedores certificados de los que solo presentaron declaración jurada."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Evaluación y alta",
+     "texto": "Esta Secretaría evaluará cada solicitud dentro de los TREINTA (30) días hábiles y dispondrá su alta, su observación o su rechazo por acto fundado. Asimismo, verificará la correspondencia de cada bien con la posición arancelaria declarada."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Publicidad",
+     "texto": "El registro se publicará completo en el sitio oficial de esta Secretaría, en formato de datos abiertos, con actualización semanal. Para cada rubro y posición indicará los proveedores inscriptos, su capacidad, su condición de certificados y la fecha de alta. Las posiciones sin oferta local registrada integrarán la nómina pública de insumos sin producción local del inciso c) del artículo 1°."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Impugnación",
+     "texto": "Cualquier interesado podrá impugnar, con fundamento técnico, la inscripción de un proveedor o la falta de inscripción de una posición, dentro de los TREINTA (30) días de publicada. La impugnación se resolverá en TREINTA (30) días hábiles, previa verificación del INTI cuando se cuestione la capacidad técnica. La impugnación no suspende la inscripción."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Actualización y baja",
+     "texto": "Los proveedores inscriptos actualizarán sus datos cada año. La falta de actualización, la falsedad de la declaración jurada o la imposibilidad comprobada de abastecer en las condiciones declaradas darán lugar a la baja, que se publicará."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Consulta por la Aduana",
+     "texto": "Esta Secretaría pondrá el registro a disposición de la AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO (ARCA) mediante consulta en línea, para que el servicio aduanero verifique la existencia de producción local registrada a la fecha de cada importación cuando una norma con rango de ley así lo requiera."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Efectos",
+     "texto": "La inscripción en el registro tiene efecto informativo. Sus efectos sobre el contenido nacional y la exención de derechos de importación de las grandes inversiones serán los que establezca la ley."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución entrará en vigencia el día siguiente al de su publicación en el BOLETÍN OFICIAL. El registro comenzará a recibir inscripciones dentro de los SESENTA (60) días."
+    },
+    {
+     "n": 12,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

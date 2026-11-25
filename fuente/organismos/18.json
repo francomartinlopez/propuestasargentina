@@ -1,0 +1,86 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría del Interior",
+    "estado": "existente",
+    "rol": "Convoca a los gobernadores, negocia y firma por la Nación. Publica los criterios, funda cada asignación y publica cada giro en 48 horas. Pierde la asignación discrecional: solo verifica los supuestos, aplica las fórmulas, gira y publica cada giro en 48 horas. Verifica supuestos, aplica fórmulas, ordena los giros y los publica en 48 horas; sin facultad discrecional. Deja de asignar en forma discrecional: verifica supuestos, aplica las fórmulas de la Comisión Federal de Impuestos, gira en 5 días hábiles y publica cada giro en 48 horas («Ley Convenio de Coparticipación Federal de Impuestos», arts. 19 a 23; designación en «Decreto de aplicación, en el ámbito del Poder Ejecutivo nacional, de la Ley Convenio de Coparticipación Federal de Impuestos», art.",
+    "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete del Interior (Subsecretaría de Relaciones con las Provincias), DNU 571/2026 y Decreto 581/2026",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Firma por la Nación y da asistencia técnica al Consejo en la verificación y la comparación anual.",
+    "hoy": "Ministerio de Economía – Secretaría de Hacienda, Subsecretaría de Coordinación Fiscal Provincial",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Hacienda",
+      "estado": "modificado",
+      "rol": "Asistencia técnica al Consejo y publicación de las transferencias no automáticas. Representa a la Nación en la Comisión Federal de Impuestos, suministra datos y publica las transferencias.",
+      "hoy": "Ministerio de Economía – Secretaría de Hacienda, Subsecretaría de Coordinación Fiscal Provincial",
+      "hijos": []
+     },
+     {
+      "nombre": "Banco de la Nación Argentina",
+      "estado": "modificado",
+      "rol": "Transfiere en forma diaria y automática las participaciones y aplica las retenciones que ordene la Comisión. Liquida y transfiere a diario y publica los datos de cada transferencia.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+      "estado": "modificado",
+      "rol": "Informa la recaudación por jurisdicción y adecua Bienes Personales en cada devolución.",
+      "hoy": "ARCA (Decreto 953/2024)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio provincial de hacienda",
+    "estado": "modificado",
+    "rol": "Publica cuentas y deuda, presenta el plan de convergencia y comunica la ley al Consejo.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Responsabilidad Fiscal",
+    "estado": "existente",
+    "rol": "Recibe la adhesión, aprueba formatos y metodología, verifica. Certifica el cumplimiento del saneamiento que habilita cada transferencia de potestades.",
+    "hoy": "Consejo Federal de Responsabilidad Fiscal (Ley 25.917, art. 27)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social (ANSES)",
+    "estado": "existente",
+    "rol": "Recibe por presupuesto la fuente de reemplazo del 11 % del IVA.",
+    "hoy": "ANSES (Ministerio de Capital Humano)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Consejo Federal de Responsabilidad Fiscal",
+   "rol": "Aprueba formatos y metodologías, verifica el cumplimiento y publica la comparación anual."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Firman, ratifican por ley y cumplen las metas."
+  },
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Aprueba el acuerdo y la reforma de la Ley 25.917."
+  },
+  {
+   "nombre": "Comisión Federal de Impuestos",
+   "rol": "Organismo fiscal federal: controla la liquidación diaria, calcula los coeficientes, aprueba indicadores y fórmulas de ATN, certifica la neutralidad de cada transferencia de potestades y resuelve la analogía de tributos."
+  }
+ ]
+}

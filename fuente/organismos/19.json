@@ -1,0 +1,40 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Elabora y notifica la liquidación propuesta, resuelve impugnaciones, lleva el registro de accesos y dicta las normas de aplicación. Emite el recibo digital, resuelve las impugnaciones, lleva el registro de accesos y publica el informe anual.",
+    "hoy": "ARCA, ente autárquico en el ámbito del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Acceso a la Información Pública",
+    "estado": "existente",
+    "rol": "Controla el uso de los datos y observa accesos indebidos.",
+    "hoy": "Agencia de Acceso a la Información Pública (AAIP)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agentes de información",
+    "estado": "existente",
+    "rol": "Aportan los datos sobre los que se arma la liquidación. Suministran la información de cada período dentro de los 60 días.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad de protección de datos personales",
+    "estado": "existente",
+    "rol": "Observa los accesos que se informan en el reporte anual.",
+    "hoy": "Agencia de Acceso a la Información Pública",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

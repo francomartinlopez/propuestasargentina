@@ -1,0 +1,183 @@
+{
+ "id": "N013",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Responsabilidad Fiscal y del Fondo de Estabilización Fiscal",
+ "sumilla": "Incorpora a la Ley 24.156 la regla de resultado primario no negativo con cláusula de emergencia aprobada por ley, limita el endeudamiento a inversión y a refinanciación con mejora sin excepciones por decreto, encarga a la Oficina de Presupuesto del Congreso el informe trimestral de cumplimiento y crea el Fondo de Estabilización Fiscal, que reemplaza al Fondo Anticíclico. Excluye a todo fondo creado por ley con destino específico de la facultad de disolución del art. 5 de la Ley 27.742.",
+ "cuando": "Fase I · año 1: consulta popular vinculante en el primer semestre de 2028",
+ "cuando_breve": "Consulta vinculante 2028",
+ "tramite": "Mayoría simple; cámara de origen indistinta (no crea tributos). El programa pide aprobarla con amplio acuerdo político. Se somete a consulta popular vinculante: si la mayoría de los votos válidos la aprueba, se convierte en ley en forma automática (art. 40 de la Constitución Nacional).",
+ "motivos": "Según el Ministerio de Economía y el INDEC, el Sector Público Nacional registró en los doce meses a junio de 2026 un superávit primario del 1,2 % del producto, sin una ley permanente que lo proteja. La Ley de Administración Financiera no contiene una regla de resultado, y la prohibición de financiar gastos corrientes con deuda fue suspendida por decreto en reiteradas oportunidades; a su vez, el requisito de que toda reestructuración mejore montos, plazos o intereses quedó exceptuado para los canjes a precios de mercado. El Fondo Anticíclico Fiscal creado en 1999 tuvo escaso uso y su integración fue suspendida por leyes de presupuesto, como las Leyes 26.422 y 26.546. El presente proyecto establece que el presupuesto nacional se apruebe y se ejecute con resultado primario no negativo, con una cláusula de emergencia acotada que solo el Congreso puede declarar, junto con un plan de retorno con fechas. Limita el endeudamiento a la inversión y a la refinanciación con mejora de condiciones, sin excepciones por decreto, y obliga a publicar el destino de cada operación. La Oficina de Presupuesto del Congreso verificará cada trimestre el cumplimiento. Crea además el Fondo de Estabilización Fiscal, que ahorra los ingresos extraordinarios ligados a los precios de exportación y solo puede usarse cuando la recaudación cae, con inversión prudente, informes trimestrales y auditoría de la Autoridad Nacional de Control y Transparencia. Por último, protege de la disolución administrativa a todo fondo creado por ley con destino específico.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece la regla de resultado primario no negativo del presupuesto nacional, limita el destino del endeudamiento público a la inversión y a la refinanciación con mejora de condiciones, asigna la verificación de esas reglas a la Oficina de Presupuesto del Congreso y crea el Fondo de Estabilización Fiscal."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Regla de resultado primario",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Incorporación a la Ley N° 24.156",
+     "texto": "Incorpórase al Título II de la Ley N° 24.156 de Administración Financiera y de los Sistemas de Control del Sector Público Nacional, a continuación del artículo 55, el siguiente capítulo:\n«CAPÍTULO V\nDE LA REGLA DE RESULTADO PRIMARIO\nARTÍCULO 55 bis.- Regla de resultado. El presupuesto de la Administración Nacional se aprobará y se ejecutará con resultado primario no negativo. A los efectos de este capítulo, el resultado primario es la diferencia entre los recursos corrientes y de capital y los gastos corrientes y de capital, excluidos los intereses de la deuda pública, según la clasificación económica del presupuesto. Las fuentes financieras no se computan como recursos.\nARTÍCULO 55 ter.- Cláusula de emergencia. La regla del artículo 55 bis solo podrá dejar de cumplirse cuando el Honorable Congreso de la Nación, por ley, declare la emergencia por catástrofe, guerra, caída grave de la actividad económica o crisis bancaria sistémica. La ley que declare la emergencia fijará el resultado primario negativo máximo admitido, su plazo y un plan de retorno a la regla con fechas, y podrá declarar la emergencia también a los efectos de otras reglas legales que la prevean. Vencido el plazo, la regla recupera plena vigencia.\nARTÍCULO 55 quáter.- Corrección durante la ejecución. Si durante la ejecución se proyectara un resultado primario negativo al cierre del ejercicio, el Poder Ejecutivo nacional adoptará las medidas de ejecución necesarias para restablecer el cumplimiento de la regla y las informará al Honorable Congreso de la Nación dentro de los treinta (30) días.\nARTÍCULO 55 quinquies.- Fondo de Estabilización Fiscal. A los efectos de la regla de este capítulo, los retiros del Fondo de Estabilización Fiscal efectuados conforme a la ley que lo crea se computarán como recursos del ejercicio en que se dispongan, y los depósitos, como gastos del ejercicio al que correspondan.\nARTÍCULO 55 sexies.- Verificación. La Oficina de Presupuesto del Congreso informará cada trimestre el cumplimiento de la regla de este capítulo y de los artículos 56 y 65 de la presente ley, conforme al inciso 10 del artículo 2° de la Ley N° 27.343.\nARTÍCULO 55 septies.- Estrategia de sostenibilidad de la deuda. Junto con el proyecto de ley de presupuesto, el Poder Ejecutivo nacional remitirá al Honorable Congreso de la Nación y publicará una estrategia de sostenibilidad de la deuda pública que contendrá, al menos:\na) el perfil de vencimientos de capital e intereses;\nb) la meta de reducción del stock de deuda pública en relación con el producto interno bruto;\nc) el plan de cancelación o refinanciación de los pasivos en pesos transferidos del Banco Central de la República Argentina al Tesoro nacional.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Regla de endeudamiento",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Destino del crédito público",
+     "texto": "Sustitúyese el artículo 56 de la Ley N° 24.156 por el siguiente:\n«ARTÍCULO 56.- El crédito público se rige por las disposiciones de esta ley, su reglamentación y las leyes que aprueben las operaciones específicas. Se entiende por crédito público la capacidad que tiene el Estado de endeudarse con el objeto de captar medios de financiamiento.\nLas operaciones de crédito público solo podrán destinarse a:\na) financiar inversiones en obras de infraestructura y en otros bienes de capital previstos en el presupuesto;\nb) refinanciar pasivos, incluidos sus intereses, en las condiciones del artículo 65;\nc) financiar el resultado primario negativo autorizado por la ley que declare la emergencia prevista en el artículo 55 ter, dentro de sus límites.\nSe prohíbe realizar operaciones de crédito público para financiar gastos corrientes. Esta prohibición no podrá ser suspendida ni exceptuada por decreto ni por decisión administrativa.\nEl acto que autorice cada operación indicará la obra o el refinanciamiento que financia. El órgano rector del sistema de crédito público publicará, el día de la liquidación de cada operación, sus condiciones y su destino, y cada trimestre, la aplicación efectiva de los fondos obtenidos.»"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Reestructuración de deuda",
+     "texto": "Sustitúyese el artículo 65 de la Ley N° 24.156 por el siguiente:\n«ARTÍCULO 65.- El Poder Ejecutivo nacional podrá realizar operaciones de crédito público para reestructurar la deuda pública mediante su consolidación, conversión o renegociación, solo en la medida en que ello implique un mejoramiento de los montos, plazos o intereses de las operaciones originales. Este requisito se aplica sin excepciones, incluidas las operaciones de canje o de suscripción cuyos precios se fijen según valores de mercado, y no podrá ser dispensado por decreto ni por decisión administrativa. El órgano rector del sistema de crédito público publicará, para cada operación, el cálculo que acredite la mejora.»"
+    },
+    {
+     "n": 5,
+     "epigrafe": "Derogación de la excepción a la reestructuración con mejora",
+     "texto": "Derógase el artículo 11 del Decreto N° 331/22, en el texto sustituido por el artículo 2° del Decreto N° 846/24, incorporado a la Ley Complementaria Permanente de Presupuesto N° 11.672."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Autorizaciones presupuestarias vigentes",
+     "texto": "Las autorizaciones para realizar operaciones de administración de pasivos, canje o reestructuración de deuda contenidas en las leyes de presupuesto vigentes a la fecha de entrada en vigencia de la presente se ejercerán con sujeción a los artículos 56 y 65 de la Ley N° 24.156, en el texto establecido por la presente."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Verificación por la Oficina de Presupuesto del Congreso",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Informe trimestral de cumplimiento",
+     "texto": "Incorpórase como inciso 10 del artículo 2° de la Ley N° 27.343 el siguiente:\n«10. Elaborar y publicar, dentro de los cuarenta y cinco (45) días del cierre de cada trimestre, un informe sobre el cumplimiento de la regla de resultado primario del Capítulo V del Título II de la Ley N° 24.156 y de las reglas de endeudamiento de sus artículos 56 y 65, que incluirá el movimiento del Fondo de Estabilización Fiscal.»\nLa Oficina de Presupuesto del Congreso cumplirá esta función con los créditos de su presupuesto."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Régimen Federal de Responsabilidad Fiscal",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Metas del Gobierno nacional",
+     "texto": "A partir del primer ejercicio en que se aplique el Capítulo IV del Título II de la Ley N° 24.156, el Gobierno nacional dejará de estar alcanzado por los artículos 10, 10 bis, 10 ter y 10 quáter de la Ley N° 25.917, en el texto según la Ley N° 27.428, y se regirá por aquel capítulo. Esos artículos seguirán aplicándose a las jurisdicciones adheridas hasta que se apruebe el acuerdo federal que actualice el Régimen Federal de Responsabilidad Fiscal."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Fondo de Estabilización Fiscal",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Creación",
+     "texto": "Créase el Fondo de Estabilización Fiscal (en adelante, «el Fondo»), con el objeto de ahorrar los ingresos extraordinarios del Estado nacional en las fases favorables del ciclo económico y sostener el gasto esencial cuando la recaudación cae. El Fondo es una cuenta especial con destino específico, cuyos recursos no integran las rentas generales sino en la medida de los retiros que autoriza la presente ley."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Administración y agente financiero",
+     "texto": "El Fondo será administrado por el Ministerio de Economía, en carácter de autoridad de aplicación. El Banco Central de la República Argentina (BCRA) actuará como agente financiero del Fondo, en los términos del artículo 4°, inciso c), de su Carta Orgánica: mantendrá sus activos en cuentas separadas a nombre del Fondo y ejecutará la política de inversión prevista en el artículo 14."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Ingreso extraordinario",
+     "texto": "Se considera ingreso extraordinario la recaudación de los derechos de exportación y de los demás tributos cuya recaudación esté ligada a los precios internacionales de los bienes exportados que, en cada ejercicio, exceda su tendencia de largo plazo, medida a valores constantes. La reglamentación determinará los tributos comprendidos y la metodología de cálculo de la tendencia, que se publicarán y no podrán modificarse para el ejercicio en curso."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Recursos y depósitos",
+     "texto": "El Fondo se integra con:\na) la totalidad del ingreso extraordinario de cada ejercicio, hasta el monto del resultado primario positivo de ese ejercicio;\nb) el saldo del Fondo Anticíclico Fiscal, conforme al artículo 17;\nc) la renta de sus inversiones.\nEl depósito previsto en el inciso a) se efectuará dentro de los noventa (90) días del cierre de cada ejercicio."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Tope de acumulación",
+     "texto": "El Fondo podrá acumular hasta el tres por ciento (3 %) del producto interno bruto del último año con datos publicados por el Instituto Nacional de Estadística y Censos (INDEC). Los ingresos extraordinarios que excedan ese tope se destinarán a la cancelación de deuda pública."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Política de inversión",
+     "texto": "Los recursos del Fondo se invertirán exclusivamente en activos externos líquidos y de alta calidad crediticia, conforme a una política de inversión que aprobará la autoridad de aplicación, previa opinión del BCRA, y que se publicará. Los recursos del Fondo no podrán invertirse en títulos o instrumentos emitidos por el Estado nacional, las provincias, la Ciudad Autónoma de Buenos Aires, los municipios o sus entes, ni darse en garantía de obligación alguna."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Retiros",
+     "texto": "Solo podrán efectuarse retiros del Fondo cuando la recaudación tributaria nacional de los últimos doce (12) meses, a valores constantes, caiga más del tres por ciento (3 %) respecto de los doce (12) meses anteriores por causas ajenas a la política tributaria. Los retiros:\na) no podrán superar, en cada año calendario, la mitad del saldo del Fondo al inicio de ese año;\nb) solo podrán financiar gasto esencial previsto en el presupuesto vigente y no podrán destinarse a gasto nuevo de carácter permanente;\nc) se dispondrán por resolución fundada de la autoridad de aplicación, que acreditará con datos oficiales la condición de este artículo y el destino de los fondos, y se publicará el día de su dictado.\nEl gasto que se financie con retiros del Fondo se atenderá con cargo exclusivo a sus recursos."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Transparencia y control",
+     "texto": "La autoridad de aplicación publicará, dentro de los treinta (30) días del cierre de cada trimestre, un informe con cada depósito, retiro y rendimiento del Fondo y la composición de sus inversiones. La Autoridad Nacional de Control y Transparencia auditará anualmente el Fondo; su informe se remitirá al Honorable Congreso de la Nación y se publicará."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Fondo Anticíclico Fiscal",
+     "texto": "Derógase el artículo 9° de la Ley N° 25.152. El saldo del Fondo Anticíclico Fiscal se transferirá al Fondo dentro de los treinta (30) días de la entrada en vigencia de la presente ley."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Exclusión de la facultad de disolución",
+     "texto": "El Fondo queda excluido de la facultad de disolver fondos fiduciarios prevista en el artículo 5° de la Ley N° 27.742. Su disolución o el cambio de su destino solo podrán disponerse por ley."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Fondos provinciales",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a crear fondos de estabilización con las mismas reglas de la presente ley, en el marco del artículo 20 de la Ley N° 25.917."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VII – Fondos creados o restituidos por ley con destino específico",
+   "articulos": [
+    {
+     "n": 20,
+     "epigrafe": "Cláusula general",
+     "texto": "Incorpórase como último párrafo del artículo 5° de la Ley N° 27.742 el siguiente:\n«La facultad prevista en este artículo no comprende a los fondos creados o restituidos por ley con destino específico ni a los fideicomisos que los instrumenten, cuya disolución, transformación o cambio de destino solo podrá disponerse por ley.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VIII – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 21,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día de su publicación en el Boletín Oficial. El Capítulo V del Título II de la Ley N° 24.156, incorporado por el artículo 2°, se aplicará a partir del presupuesto del ejercicio siguiente al de esa publicación. El primer depósito del inciso a) del artículo 12 corresponderá al primer ejercicio cerrado bajo la regla de resultado primario."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación. La reglamentación no podrá ampliar las excepciones a las reglas que establece."
+    },
+    {
+     "n": 23,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.156, Título II (incorpora Capítulo V, arts. 55 bis a 55 septies)",
+  "Ley 24.156, art. 56",
+  "Ley 24.156, art. 65",
+  "Ley 27.343, art. 2 (incorpora inc. 10)",
+  "Ley 25.917, arts. 10, 10 bis, 10 ter y 10 quáter (dejan de aplicarse a la Nación)",
+  "Ley 27.742, art. 5 (incorpora último párrafo)"
+ ],
+ "deroga": [
+  "Ley 25.152, art. 9 (Fondo Anticíclico Fiscal)",
+  "Decreto 331/2022, art. 11, texto según art. 2 del DNU 846/2024 (incorporado a la Ley 11.672)"
+ ],
+ "variantes": null
+}

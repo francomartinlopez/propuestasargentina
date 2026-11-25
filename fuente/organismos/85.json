@@ -1,0 +1,51 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación: elabora la estrategia nacional y el informe anual de votos y ejerce la secretaría técnica del Consejo. Autoridad de aplicación de la ley marco: designa académicos, ejerce la secretaría técnica del Consejo, elabora la estrategia y el informe anual.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Consejo de Política Exterior",
+      "estado": "nuevo",
+      "rol": "Opina, en forma no vinculante, sobre la estrategia nacional de política exterior antes de su presentación al Congreso.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio con competencia en relaciones exteriores",
+    "estado": "modificado",
+    "rol": "Preside el Consejo con voz y sin voto, ejerce su secretaría técnica y le somete la estrategia nacional.",
+    "hoy": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "hijos": [
+     {
+      "nombre": "Consejo consultivo de política exterior",
+      "estado": "nuevo",
+      "rol": "Opina, en forma no vinculante, sobre la estrategia nacional de política exterior antes de su presentación al Congreso. Reglamenta su integración: bloques, ex cancilleres por sorteo si hay más de cinco, académicos propuestos por los consejos de universidades; mandatos escalonados.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comisiones de Relaciones Exteriores del Congreso",
+   "rol": "Reciben y debaten la estrategia nacional y el informe anual."
+  },
+  {
+   "nombre": "Bloques del Congreso",
+   "rol": "Cada bloque designa un representante en el Consejo."
+  }
+ ]
+}

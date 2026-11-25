@@ -1,0 +1,63 @@
+{
+ "id": "N378",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de ratificación del Acuerdo Federal de Reglas Electorales Limpias y de cofinanciamiento de la Boleta Única y la logística electoral de las provincias adheridas",
+ "sumilla": "Ratifica el Acuerdo y autoriza a la Secretaría del Interior de la Jefatura de Gabinete de Ministros a cofinanciar, por convenio y hasta el 50 %, la Boleta Única y la logística de las elecciones de las provincias que lo ratifiquen y cumplan sus metas, con publicación de cada transferencia y un informe anual al Congreso. El gasto se financia por reasignación dentro de la Jefatura de Gabinete y se activa con el presupuesto siguiente.",
+ "cuando": "Fase II (años 2-3): se envía dentro de los treinta días de la firma del Acuerdo «Acuerdo Federal de Reglas Electorales Limpias»; su gasto se activa con el presupuesto del ejercicio siguiente al de su vigencia.",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple (ratificación de un acuerdo y autorización de gasto; no modifica reglas electorales nacionales); cámara de origen indistinta (Senado sugerido por tratarse de un acuerdo con las provincias).",
+ "motivos": "El Acuerdo Federal de Reglas Electorales Limpias, firmado por el Estado nacional y las provincias, compromete a cada jurisdicción a eliminar los sistemas de lemas, los acoples y las listas colectoras, a votar con Boleta Única, a confiar sus elecciones a juntas electorales independientes y a promover reformas constitucionales que limiten la reelección. Como las provincias dictan su propio régimen electoral, la Nación no impone esas reglas: las acuerda y las incentiva. El principal incentivo es el cofinanciamiento de la Boleta Única y de la logística electoral, que reduce el costo de adoptar un sistema más simple y controlable. Este proyecto ratifica el Acuerdo y autoriza ese cofinanciamiento, con un tope del cincuenta por ciento del costo, por convenio con cada jurisdicción y solo para las que cumplan las metas que ellas mismas fijaron. Cada transferencia se publica el día de su firma y el Poder Ejecutivo informa al Congreso cada año el estado de cada provincia. El gasto se atiende con créditos reasignados dentro de la Jefatura de Gabinete de Ministros, sin aumentar el gasto total, y se incorpora al presupuesto del ejercicio siguiente al de la entrada en vigencia de la ley.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Ratificación",
+     "texto": "Ratifícase el Acuerdo Federal de Reglas Electorales Limpias, suscripto el [fecha] entre el Estado nacional y las provincias y la Ciudad Autónoma de Buenos Aires que se indican en él, cuya copia autenticada forma parte de la presente ley como Anexo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cofinanciamiento",
+     "texto": "Autorízase a la Secretaría del Interior de la Jefatura de Gabinete de Ministros a cofinanciar, en los términos de la cláusula séptima, inciso b), del Acuerdo, hasta el cincuenta por ciento (50 %) del costo de impresión de la Boleta Única y de la logística de las elecciones de cargos provinciales y municipales de las jurisdicciones que hayan ratificado el Acuerdo por ley."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Condiciones",
+     "texto": "El cofinanciamiento se otorga por convenio particular con cada jurisdicción, para cada elección, y requiere que la Secretaría del Interior certifique, en forma fundada y pública, que la jurisdicción cumplió las metas del Anexo I del Acuerdo exigibles a la fecha de la elección. Los fondos solo pueden aplicarse a la impresión de la Boleta Única y a la logística del acto electoral, y la jurisdicción rinde cuentas de su aplicación dentro de los noventa (90) días de la elección."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Publicidad",
+     "texto": "Cada convenio y cada transferencia se publican el día de su firma, con su monto, su destino y la certificación del artículo 3°. La Secretaría del Interior publica cada año el estado de cada jurisdicción respecto de las metas del Acuerdo e informa al Honorable Congreso de la Nación antes del 30 de junio."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Financiamiento",
+     "texto": "El gasto que demande el artículo 2° se atiende con la reasignación de créditos de la Jefatura de Gabinete de Ministros, sin incremento del gasto total de la Administración Nacional, y se incorpora en un programa específico de la Secretaría del Interior a partir del presupuesto del ejercicio siguiente al de la entrada en vigencia de la presente ley. Hasta entonces, no se celebran convenios que comprometan transferencias."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cronograma",
+     "texto": "Los convenios se celebran al menos ciento veinte (120) días antes de cada elección provincial y las transferencias se efectúan en dos cuotas: la primera, a la firma del convenio, y la segunda, contra la acreditación de la impresión de la Boleta Única."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Naturaleza de las transferencias",
+     "texto": "Las transferencias de la presente ley no integran el régimen de coparticipación federal de impuestos ni constituyen un fondo con destino específico."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

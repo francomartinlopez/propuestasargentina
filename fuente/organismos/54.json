@@ -1,0 +1,99 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Consejo Federal de Educación",
+    "estado": "existente",
+    "rol": "Aprueba la resolución y, luego, los núcleos actualizados.",
+    "hoy": "Consejo Federal de Educación (Ley 26.206, art. 116), presidido por la autoridad educativa nacional",
+    "hijos": [
+     {
+      "nombre": "Observatorio de Inteligencia Artificial del CFE",
+      "estado": "modificado",
+      "rol": "Asiste a la comisión técnica (la formación docente va en «Resolución del Consejo Federal de Educación: formación docente en inteligencia artificial a cargo del Observatorio»).",
+      "hoy": "Observatorio de IA (Res. CFE 495/2025)",
+      "hijos": []
+     },
+     {
+      "nombre": "Observatorio federal de IA educativa",
+      "estado": "modificado",
+      "rol": "Elabora contenidos, diseña el trayecto y presenta el plan en 120 días.",
+      "hoy": "Observatorio de IA (Res. CFE 495/2025)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Educación",
+    "estado": "modificado",
+    "rol": "Integra la comisión técnica, propone metas por área e informa el avance. Acredita el trayecto, financia la plataforma e informa el avance.",
+    "hoy": "Secretaría de Educación (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Trabajo y Empleo",
+    "estado": "modificado",
+    "rol": "Certifica los escalones, fija el aporte de los monotributistas y el monto de las cuentas de formación, y conduce el Portal Empleo y la red de oficinas. Organiza la acreditación de saberes, paga por resultados y publica la inserción por institución y curso. Catálogo de competencias, registro de evaluadores, pagos por resultado y tablero de inserción.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social (ANSES)",
+    "estado": "modificado",
+    "rol": "Liquida y paga la prestación e interviene en la certificación de cada escalón.",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Nacional del Empleo, la Productividad y el Salario Mínimo, Vital y Móvil",
+    "estado": "modificado",
+    "rol": "Deja de fijar el mínimo, el máximo y el porcentaje de la prestación; recibe el informe y recomienda.",
+    "hoy": "Consejo Nacional del Empleo, la Productividad y el SMVM (Ley 24.013, art. 135)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+    "estado": "modificado",
+    "rol": "Recauda el aporte específico de los monotributistas.",
+    "hoy": "ARCA, ente autárquico en el ámbito del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Educación Tecnológica",
+    "estado": "modificado",
+    "rol": "Inscribe a las entidades evaluadoras y registra la acreditación de las instituciones, junto con la Secretaría de Trabajo y Empleo. Inscribe entidades evaluadoras y resuelve, con la Secretaría de Trabajo y Empleo, la acreditación de instituciones.",
+    "hoy": "INET (Secretaría de Educación, Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo federal de ministros de educación",
+    "estado": "existente",
+    "rol": "Acuerdos de reconocimiento recíproco de certificados y acreditaciones. Aprueba la resolución y el plan de formación.",
+    "hoy": "Consejo Federal de Educación (Ley 26.206, art. 116)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación",
+    "estado": "modificado",
+    "rol": "Crea y ejecuta el programa, con convocatorias anuales y evaluación pública a los 3 años.",
+    "hoy": "Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (organismo descentralizado bajo la Secretaría de Innovación, Ciencia y Tecnología, Jefatura de Gabinete)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Provincias",
+   "rol": "Adecuan sus diseños curriculares."
+  },
+  {
+   "nombre": "Municipios",
+   "rol": "Intermediación y seguimiento de la búsqueda activa."
+  }
+ ]
+}

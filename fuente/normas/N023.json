@@ -1,0 +1,130 @@
+{
+ "id": "N023",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de creación del Fondo Provincial de Estabilización Fiscal",
+ "sumilla": "Modelo para que cada provincia cree, en el marco del artículo 20 de la Ley 25.917, un fondo anticíclico con las mismas reglas del Fondo de Estabilización Fiscal nacional: ahorro del ingreso extraordinario ligado a precios de exportación, tope de acumulación, inversión prudente, retiros solo ante caídas de la recaudación y para gasto esencial, informes trimestrales y auditoría.",
+ "cuando": "Fase I: se ofrece a las provincias después de la sanción de la ley nacional «Ley de Responsabilidad Fiscal y del Fondo de Estabilización Fiscal», que las invita (art. 19).",
+ "cuando_breve": "Fase I",
+ "tramite": "Según la constitución de cada provincia; mayoría simple salvo exigencia local para crear fondos con afectación específica.",
+ "motivos": "La Ley nacional N° 25.917 de Responsabilidad Fiscal dispone, en su artículo 20, que el Gobierno nacional, las provincias y la Ciudad Autónoma de Buenos Aires constituyan fondos anticíclicos fiscales. La ley nacional que creó el Fondo de Estabilización Fiscal invitó a las provincias a crear fondos con sus mismas reglas. Los recursos provinciales ligados a los precios internacionales de las materias primas, como las regalías, crecen con fuerza en los años de precios altos y caen en los de precios bajos. Gastarlos en su totalidad cuando suben obliga a recortar cuando bajan, justo cuando la actividad y el empleo más lo resienten. El proyecto crea el Fondo Provincial de Estabilización Fiscal. Se integra con la parte de esos recursos que supera su tendencia de largo plazo, siempre que la Provincia tenga resultado primario positivo, y acumula hasta un tope; lo que excede se aplica a cancelar deuda. Sus recursos se invierten en activos líquidos y seguros, fuera de títulos del sector público. Solo pueden usarse cuando la recaudación cae en términos reales por causas ajenas a la política tributaria, hasta la mitad del saldo por año y para financiar gasto esencial ya presupuestado. Cada movimiento se publica, el organismo de control externo lo audita y solo una ley puede disolverlo o cambiar su destino.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Creación y objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación",
+     "texto": "Créase el Fondo Provincial de Estabilización Fiscal (en adelante, «el Fondo»), en el marco del artículo 20 de la Ley nacional N° 25.917, con el objeto de ahorrar los ingresos extraordinarios de la Provincia en las fases favorables del ciclo económico y sostener el gasto esencial cuando la recaudación cae."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Naturaleza",
+     "texto": "El Fondo es una cuenta especial con destino específico. Sus recursos no integran las rentas generales de la Provincia sino en la medida de los retiros que autoriza la presente ley."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Administración",
+     "texto": "El Fondo será administrado por la [autoridad de aplicación provincial en materia de hacienda]. El [agente financiero de la Provincia] mantendrá sus activos en cuentas separadas a nombre del Fondo y ejecutará la política de inversión."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Recursos y depósitos",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Ingreso extraordinario",
+     "texto": "Se considera ingreso extraordinario la recaudación de [las regalías hidrocarburíferas y mineras y los demás recursos provinciales cuya recaudación esté ligada a los precios internacionales de los bienes exportados] que, en cada ejercicio, exceda su tendencia de largo plazo. La tendencia es el promedio de la recaudación anual de los diez (10) ejercicios cerrados anteriores, a valores constantes del último ejercicio según el índice de precios al consumidor del Instituto Nacional de Estadística y Censos (INDEC). La autoridad de aplicación publicará la tendencia de cada ejercicio con el proyecto de ley de presupuesto; una vez publicada, no podrá modificarse para ese ejercicio."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Recursos",
+     "texto": "El Fondo se integra con: a) el ingreso extraordinario de cada ejercicio, hasta el monto del resultado primario positivo de ese ejercicio; b) [el saldo del fondo anticíclico provincial existente, que se transfiere al Fondo dentro de los treinta (30) días de la vigencia de la presente]; c) la renta de sus inversiones. El depósito del inciso a) se efectuará dentro de los noventa (90) días del cierre de cada ejercicio, previa publicación de su cálculo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Tope de acumulación",
+     "texto": "El Fondo podrá acumular hasta [el tres por ciento (3 %) del producto bruto geográfico de la Provincia del último año con datos oficiales]. El ingreso extraordinario que exceda ese tope se destinará a la cancelación de deuda pública provincial."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cómputo en el resultado",
+     "texto": "A los efectos de la regla de resultado primario de la Provincia, los retiros del Fondo efectuados conforme a la presente ley se computarán como recursos del ejercicio en que se dispongan, y los depósitos, como gastos del ejercicio al que correspondan."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Inversión y retiros",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Política de inversión",
+     "texto": "Los recursos del Fondo se invertirán exclusivamente en activos líquidos y de alta calidad crediticia, conforme a la política de inversión que apruebe y publique la autoridad de aplicación. No podrán invertirse en títulos o instrumentos emitidos por el Estado nacional, las provincias, la Ciudad Autónoma de Buenos Aires, los municipios o sus entes, ni darse en garantía de obligación alguna."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Condición de retiro",
+     "texto": "Solo podrán efectuarse retiros del Fondo cuando la recaudación total de la Provincia de los últimos doce (12) meses, comprensiva de sus recursos tributarios propios y de los de origen nacional, a valores constantes, caiga más del tres por ciento (3 %) respecto de los doce (12) meses anteriores por causas ajenas a la política tributaria provincial."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Límites y destino",
+     "texto": "Los retiros: a) no podrán superar, en cada año calendario, la mitad del saldo del Fondo al inicio de ese año; b) solo podrán financiar gasto esencial previsto en el presupuesto vigente para salud, educación, seguridad y asistencia social, y no podrán destinarse a gasto nuevo de carácter permanente; c) se dispondrán por resolución fundada de la autoridad de aplicación, que acreditará con datos oficiales la condición del artículo anterior y el destino de los fondos, y se publicará el día de su dictado. El gasto que se financie con retiros del Fondo se atenderá con cargo exclusivo a sus recursos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Transparencia, control y protección del Fondo",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Informes",
+     "texto": "La autoridad de aplicación publicará, dentro de los treinta (30) días del cierre de cada trimestre, un informe con cada depósito, retiro y rendimiento del Fondo y la composición de sus inversiones, y lo remitirá a esta Legislatura."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Control externo",
+     "texto": "El [Tribunal de Cuentas de la Provincia u órgano de control externo provincial] auditará anualmente el Fondo; su informe se remitirá a esta Legislatura y se publicará."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Protección del destino",
+     "texto": "El Fondo solo podrá disolverse, unificarse con otros fondos o cambiar de destino por ley. No le serán aplicables las facultades generales que otras leyes otorguen al Poder Ejecutivo provincial para disolver, unificar o reasignar fondos fiduciarios o cuentas especiales."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Información al Consejo Federal",
+     "texto": "La autoridad de aplicación remitirá los informes trimestrales al Consejo Federal de Responsabilidad Fiscal creado por el artículo 27 de la Ley nacional N° 25.917."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Financiamiento",
+     "texto": "La presente ley no autoriza gasto. Los costos de administración del Fondo se atenderán con los créditos asignados a la autoridad de aplicación en el presupuesto provincial."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Reglamentación y vigencia",
+     "texto": "El Poder Ejecutivo provincial reglamentará la presente ley dentro de los noventa (90) días de su publicación; la reglamentación no podrá ampliar las condiciones de retiro. La ley entrará en vigencia el día siguiente al de su publicación y el primer depósito corresponderá al primer ejercicio cerrado con resultado primario positivo después de su entrada en vigencia."
+    },
+    {
+     "n": 17,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [
+  "[Ley provincial del fondo anticíclico existente, si lo hubiera]"
+ ],
+ "variantes": null
+}

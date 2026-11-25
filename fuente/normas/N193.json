@@ -1,0 +1,145 @@
+{
+ "id": "N193",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Transparencia de las Plataformas Digitales y de Protección de los Contenidos Lícitos",
+ "sumilla": "Obliga a las grandes plataformas a publicar cómo recomiendan y moderan contenidos, a dar datos a investigadores acreditados y a etiquetar la publicidad política paga, y prohíbe al Poder Ejecutivo, incluido el ENACOM, ordenar o pedir la baja de contenidos lícitos. La aplica una unidad específica de la AAIP.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La libertad de expresión, protegida por los artículos 14 y 32 de la Constitución Nacional y por la Convención Americana sobre Derechos Humanos, comprende la difusión de información e ideas por internet, como lo reconoce la Ley N° 26.032. Hoy una parte sustancial del debate público circula por un número reducido de grandes plataformas digitales, cuyos sistemas de recomendación y moderación determinan qué se ve y qué se oculta sin que los usuarios, los investigadores ni las autoridades conozcan sus criterios. La respuesta que propone este proyecto no es controlar lo que se dice, sino transparentar cómo circula. Las grandes plataformas deberán publicar los parámetros de sus sistemas de recomendación, sus reglas y estadísticas de moderación, dar acceso a datos a investigadores acreditados y etiquetar la publicidad política paga, en coordinación con el régimen electoral vigente. Al mismo tiempo, la ley prohíbe al Poder Ejecutivo nacional, incluida la autoridad de comunicaciones, ordenar, pedir o sugerir la baja de contenidos lícitos: solo un juez puede disponerla, y todo requerimiento estatal a una plataforma será público. La aplicación queda a cargo de una unidad específica de la Agencia de Acceso a la Información Pública, que actúa con independencia y sin crear un organismo nuevo. La regulación exige transparencia y nunca habilita la censura.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto, definiciones y principios",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto establecer obligaciones de transparencia para las grandes plataformas digitales sobre la recomendación, la moderación y la publicidad política de los contenidos que difunden, y garantizar que ningún órgano del Poder Ejecutivo nacional ordene o promueva la baja de contenidos lícitos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por:\na) Plataforma digital: servicio de la sociedad de la información que, a pedido de sus usuarios, almacena y difunde al público contenidos provistos por ellos, incluidas las redes sociales, los servicios de intercambio de videos y los motores de búsqueda;\nb) Gran plataforma: la plataforma digital cuyo promedio de usuarios activos mensuales en el territorio nacional supere el DIEZ POR CIENTO (10 %) de la población del país según la última estimación del Instituto Nacional de Estadística y Censos;\nc) Sistema de recomendación: sistema automatizado que selecciona, ordena, prioriza o sugiere contenidos a los usuarios;\nd) Moderación: toda acción de la plataforma que elimine, oculte, restrinja, rebaje en su difusión o etiquete contenidos, o suspenda o cancele cuentas;\ne) Publicidad política paga: todo mensaje difundido a cambio de un pago, que promueva o cuestione a un partido, candidato, funcionario o propuesta de política pública, o que procure influir en el resultado de una elección o de una consulta popular."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Principios",
+     "texto": "La presente ley se interpreta conforme a los artículos 14 y 32 de la Constitución Nacional, al artículo 13 de la Convención Americana sobre Derechos Humanos y a la Ley N° 26.032. Sus obligaciones son exclusivamente de transparencia. Ninguna de sus disposiciones podrá interpretarse como una habilitación para la censura previa, para el control estatal de los contenidos, ni como una obligación de las plataformas de supervisar en forma general los contenidos de sus usuarios."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Protección de los contenidos lícitos",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Prohibición de bajas estatales",
+     "texto": "Ningún órgano u organismo del Poder Ejecutivo nacional, incluidos la Autoridad de Aplicación de la Ley N° 27.078 y los entes autárquicos y descentralizados, podrá ordenar, requerir, solicitar o sugerir a una plataforma digital o a un medio de comunicación la eliminación, el bloqueo, la restricción o la rebaja en la difusión de contenidos lícitos, ni condicionar la asignación de publicidad oficial, contratos, permisos o beneficios a decisiones sobre contenidos. La eliminación o el bloqueo de contenidos solo podrá disponerse por orden judicial fundada."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Registro público de requerimientos estatales",
+     "texto": "Todo requerimiento de un órgano del Estado nacional a una plataforma digital referido a contenidos o cuentas de usuarios, cualquiera sea su forma, deberá formularse por escrito, con indicación de su fundamento legal, y será publicado por el organismo requirente y por la autoridad de aplicación en un registro público, dentro de los CINCO (5) días hábiles, con excepción de las órdenes judiciales cuya reserva haya sido dispuesta por el juez. Las grandes plataformas informarán a la autoridad de aplicación los requerimientos que reciban."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Obligaciones de las grandes plataformas",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Transparencia de la recomendación",
+     "texto": "Las grandes plataformas publicarán, en lenguaje claro y en idioma nacional, los principales parámetros de sus sistemas de recomendación, la importancia relativa de cada uno y las opciones de que disponen los usuarios para modificarlos."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Transparencia de la moderación",
+     "texto": "Las grandes plataformas deberán:\na) publicar sus reglas de moderación en lenguaje claro y en idioma nacional, e informar sus cambios con antelación;\nb) notificar al usuario afectado cada medida de moderación, con su fundamento, la regla aplicada y si fue adoptada por medios automatizados;\nc) ofrecer un procedimiento interno de reclamo, gratuito y resuelto con intervención humana dentro de un plazo razonable."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Informe semestral",
+     "texto": "Las grandes plataformas publicarán cada semestre, en formato abierto, y presentarán a la autoridad de aplicación un informe que contenga, como mínimo: la cantidad de medidas de moderación adoptadas respecto de usuarios del país, por tipo y por motivo; la proporción adoptada por medios automatizados; los reclamos recibidos y su resultado; y los requerimientos estatales y judiciales recibidos, por organismo, con su resultado."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Acceso de investigadores",
+     "texto": "Las grandes plataformas facilitarán a los investigadores acreditados por la autoridad de aplicación el acceso a los datos necesarios para estudiar la circulación de contenidos y el funcionamiento de sus sistemas de recomendación y moderación. Podrán acreditarse investigadores de universidades, centros de investigación y organizaciones sin fines de lucro independientes de intereses comerciales, con un proyecto determinado. El acceso se otorgará con resguardo de los datos personales, mediante datos anonimizados o entornos seguros, y de los secretos comerciales; sus resultados serán públicos."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Publicidad política paga",
+     "texto": "Las grandes plataformas identificarán en forma visible toda publicidad política paga, con indicación de quién la pagó, el rango del monto invertido y los criterios de segmentación utilizados, y mantendrán un repositorio público y consultable de esos anuncios durante al menos CINCO (5) años. Durante las campañas electorales se aplicará, además, el régimen de publicidad en redes sociales y plataformas digitales de la Ley N° 26.215 de Financiamiento de los Partidos Políticos, y la autoridad de aplicación pondrá el repositorio a disposición de la Cámara Nacional Electoral."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Domicilio en el país",
+     "texto": "Las grandes plataformas que presten servicios a usuarios del país deberán constituir domicilio en el territorio nacional, en el que serán válidas las notificaciones de la autoridad de aplicación y de los tribunales."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Autoridad de aplicación y sanciones",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La Agencia de Acceso a la Información Pública es la autoridad de aplicación de la presente ley. A tal fin, créase en su ámbito la Unidad de Transparencia de Plataformas, que se integrará con personal de la planta de la Agencia y no podrá evaluar la licitud de contenidos ni disponer su eliminación, bloqueo o restricción."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Funciones",
+     "texto": "Son funciones de la autoridad de aplicación:\na) recibir y publicar los informes previstos en el artículo 8°;\nb) llevar el registro público del artículo 5°;\nc) acreditar a los investigadores y resolver los conflictos sobre el acceso a datos;\nd) verificar el cumplimiento de las obligaciones de transparencia y de etiquetado;\ne) dictar las normas técnicas sobre formatos y plazos de los informes;\nf) aplicar las sanciones previstas en la presente ley;\ng) presentar un informe anual público al Honorable Congreso de la Nación."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Sanciones",
+     "texto": "El incumplimiento de las obligaciones de los artículos 6° a 11 será sancionado, previo sumario que asegure el derecho de defensa, con apercibimiento o multa de DIEZ (10) a DIEZ MIL (10.000) salarios mínimos, vitales y móviles por cada infracción, graduada según su gravedad, el número de usuarios afectados y la reincidencia. El producido de las multas ingresa a Rentas Generales. Las resoluciones sancionatorias podrán recurrirse directamente ante la justicia en lo contencioso administrativo federal. En ningún caso la sanción podrá consistir en la suspensión del servicio ni en el bloqueo de contenidos."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Responsabilidad de los funcionarios",
+     "texto": "El funcionario que infrinja lo dispuesto en el artículo 4° incurrirá en falta grave, sin perjuicio de la responsabilidad penal que corresponda. Cualquier persona podrá denunciar la infracción ante la autoridad de aplicación, que deberá publicar el caso y comunicarlo a la autoridad disciplinaria competente."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Modificación de la Ley N° 27.078",
+     "texto": "Incorpórase como último párrafo del artículo 57 de la Ley N° 27.078 y sus modificatorias, el siguiente:\n«Ni la Autoridad de Aplicación de la presente ley ni ningún otro órgano del Poder Ejecutivo nacional podrán ordenar, requerir o sugerir a los prestadores ni a las plataformas digitales el bloqueo, la eliminación o la restricción de contenidos lícitos.»"
+    },
+    {
+     "n": 17,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la aplicación de la presente ley se atenderán con los créditos asignados a la Agencia de Acceso a la Información Pública y con la reasignación de créditos de la Jefatura de Gabinete de Ministros que disponga el Jefe de Gabinete de Ministros. Los mayores gastos que no puedan atenderse de ese modo se incluirán en el proyecto de ley de presupuesto del ejercicio siguiente, con el que quedarán habilitados."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los CIENTO VEINTE (120) días de su promulgación."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia a los CIENTO OCHENTA (180) días de su publicación en el Boletín Oficial, con excepción de los artículos 4°, 5°, 15 y 16, que regirán desde el día siguiente al de su publicación."
+    },
+    {
+     "n": 20,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.078, art. 57 (párrafo incorporado)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

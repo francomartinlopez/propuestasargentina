@@ -1,0 +1,100 @@
+{
+ "id": "N277",
+ "tipo": "resolucion",
+ "titulo": "Resolución del Consejo Federal de Educación: registro de trayectorias escolares con alertas y tutor por curso",
+ "sumilla": "El Consejo Federal de Educación aprueba el registro de trayectorias de cada alumno sobre el sistema nominal acordado, con umbrales de inasistencia, repitencia y calificaciones que disparan una respuesta concreta (tutor por curso, contacto con la familia, apoyo escolar), datos protegidos y uso exclusivo para acompañar: piloto en el año 1 y todas las provincias al cierre del año 2.",
+ "cuando": "Fase I · año 1 (piloto); todas las jurisdicciones antes del 10/12/2029",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "No aplica: resolución de la Asamblea Federal del Consejo Federal de Educación (Ley 26.206, arts. 116-118), a propuesta de la Secretaría de Educación del Ministerio de Educación, Ciencia y Cultura. El pago de las horas de tutoría va en el presupuesto.",
+ "motivos": "",
+ "visto": "La Ley de Educación Nacional N° 26.206, la Ley N° 25.326, la Ley N° 26.061, la Resolución de este Consejo N° [●] sobre núcleos esenciales y metas de aprendizaje, y",
+ "considerando": [
+  "Que los artículos 94 a 96 de la Ley N° 26.206 establecen una política de información y evaluación del sistema educativo concertada en el Consejo Federal de Educación, y que este Consejo acordó un sistema nominal de información educativa (SInIDE) que registra a cada estudiante.",
+  "Que los artículos 116 a 118 de esa ley establecen a este Consejo como ámbito de concertación, acuerdo y coordinación de la política educativa nacional.",
+  "Que de cada cien estudiantes que comenzaron primer grado en 2013, solo diez terminaron la secundaria en 2024 en el tiempo esperado y con aprendizajes satisfactorios, y que el abandono suele estar precedido de inasistencias, repitencias y bajas calificaciones que pueden detectarse a tiempo.",
+  "Que un registro de la trayectoria de cada estudiante, con umbrales que disparan una respuesta concreta de la escuela, permite acompañar antes del abandono.",
+  "Que el artículo 4°, inciso 3, de la Ley N° 25.326 prohíbe usar los datos para finalidades distintas o incompatibles con las que motivaron su obtención, y que el artículo 22 de la Ley N° 26.061 prohíbe difundir datos que permitan identificar a niñas, niños y adolescentes.",
+  "Que la presente se dicta en uso de las atribuciones conferidas por los artículos 94 a 96 y 116 a 118 de la Ley N° 26.206."
+ ],
+ "formula": "Por ello, LA ASAMBLEA DEL CONSEJO FEDERAL DE EDUCACIÓN RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Registro de trayectorias",
+     "texto": "Apruébase el registro de trayectorias escolares, en adelante «el registro», que funciona sobre el sistema nominal de información educativa acordado en este Consejo (SInIDE) y permite seguir la asistencia, las calificaciones y la promoción de cada estudiante de la educación primaria y secundaria, de gestión estatal y privada, para acompañar su trayectoria antes del abandono."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Alcance",
+     "texto": "El registro alcanza a las escuelas del piloto previsto en el artículo 10 durante el año 2028, y a todas las escuelas de nivel primario y secundario del país conforme el calendario del artículo 11."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Datos",
+     "texto": "Cada escuela registra, por estudiante: a) la asistencia diaria; b) las calificaciones de cada espacio curricular al cierre de cada período; c) la promoción, la repitencia, los pases y las bajas; y d) las acciones de acompañamiento realizadas. Las inasistencias justificadas se registran por categoría general, sin diagnósticos ni otros datos de salud."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Umbrales de alerta",
+     "texto": "El registro genera una alerta respecto de cada estudiante cuando se verifica alguna de las siguientes situaciones: a) inasistencias iguales o superiores al diez por ciento (10 %) de los días de clase de un mes, o cinco (5) días hábiles consecutivos sin asistencia ni justificación; b) repitencia en el ciclo lectivo anterior o sobreedad de dos (2) años o más; c) calificación insuficiente en lengua o en matemática, o en dos (2) o más espacios curriculares, al cierre de un período; d) baja sin pase a otra escuela; o e) una situación de acoso o discriminación informada por la o el estudiante, su familia o un docente, incluida la motivada por la orientación sexual o la identidad de género. Cada jurisdicción puede establecer umbrales más exigentes."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Respuesta a la alerta",
+     "texto": "Dentro de los cinco (5) días hábiles de generada una alerta, el tutor del curso se comunica con la o el estudiante y con su familia y acuerda un plan de acompañamiento, que puede incluir apoyo escolar, recuperación de contenidos, adecuación de horarios o reingreso por módulos. Si la situación persiste a los treinta (30) días, la escuela da intervención a la supervisión y, cuando corresponda, a los servicios locales de protección de derechos de niñas, niños y adolescentes. Cada acción se registra."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Tutor por curso",
+     "texto": "En las escuelas comprendidas, cada jurisdicción designa un tutor docente por curso en la educación secundaria y en el segundo ciclo de la educación primaria, con horas institucionales asignadas a esa función, que sigue las alertas de su curso, coordina el plan de acompañamiento y es el interlocutor de las familias."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Horas de tutoría",
+     "texto": "Las horas de tutoría son remuneradas. La Nación contribuye a su financiamiento mediante los convenios que celebre con cada jurisdicción, conforme los créditos que asigne la ley de presupuesto."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Protección de los datos",
+     "texto": "Los datos del registro se usan con la finalidad exclusiva de: a) acompañar la trayectoria de cada estudiante; b) planificar la política educativa y medir las metas acordadas en este Consejo; y c) verificar la condición de asistencia exigida por las becas educativas nacionales, mediante la sola indicación de si se cumple o no. Queda prohibido usarlos para elaborar ordenamientos de escuelas, docentes o estudiantes, para aplicar sanciones o para seleccionar estudiantes. El acceso a los datos nominales se limita al personal de la escuela, de la supervisión y de la jurisdicción que lo necesite para esas finalidades, con registro de cada consulta. Rigen el artículo 4°, inciso 3, de la Ley N° 25.326 y el artículo 22 de la Ley N° 26.061."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Interoperabilidad",
+     "texto": "El registro utiliza el número de documento como identificador y es interoperable con el registro nominal de la primera infancia, para asegurar la continuidad del seguimiento entre el nivel inicial y la educación primaria."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Piloto",
+     "texto": "Durante el año 2028, el registro con alertas y tutor por curso se aplica en forma piloto en las jurisdicciones que lo soliciten dentro de los sesenta (60) días de la presente, en las escuelas que cada una seleccione, dando prioridad a las de mayor abandono y repitencia. La Secretaría de Educación del Ministerio de Educación, Ciencia y Cultura evalúa el piloto y presenta sus resultados a la Asamblea Federal antes del 30 de noviembre de 2028."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Extensión",
+     "texto": "Todas las jurisdicciones aplican el registro con alertas y tutor por curso en la totalidad de sus escuelas primarias y secundarias antes del 10 de diciembre de 2029, conforme el cronograma que cada una presente a la Secretaría General de este Consejo dentro de los noventa (90) días de la presente."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Asistencia técnica",
+     "texto": "La Secretaría de Educación provee a las jurisdicciones la plataforma del sistema nominal de información educativa, la asistencia técnica para su integración con los sistemas jurisdiccionales y la capacitación de los tutores."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Información pública",
+     "texto": "La Secretaría General de este Consejo publica cada semestre, por jurisdicción, la cantidad de alertas generadas, la proporción atendida dentro del plazo del artículo 5° y la evolución del abandono, en forma agregada y sin datos que permitan identificar a ninguna persona."
+    },
+    {
+     "n": 14,
+     "epigrafe": "De forma",
+     "texto": "Regístrese, comuníquese, notifíquese a los integrantes del CONSEJO FEDERAL DE EDUCACIÓN y cumplido, archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

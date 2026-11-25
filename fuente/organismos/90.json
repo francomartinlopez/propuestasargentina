@@ -1,0 +1,148 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Comisión Nacional de Actividades Espaciales",
+    "estado": "modificado",
+    "rol": "Aporta imágenes SAOCOM y SABIA-Mar con prioridad de programación. Enlace en el Centro y plan mensual de adquisición de imágenes SAOCOM y SABIA-Mar.",
+    "hoy": "CONAE (Jefatura de Gabinete de Ministros, Secretaría de Innovación, Ciencia y Tecnología)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia Nacional de Puertos y Navegación",
+    "estado": "modificado",
+    "rol": "Integra el Sistema y asegura la denegación de servicios en los puertos.",
+    "hoy": "Agencia Nacional de Puertos y Navegación (Decreto 3/2025)",
+    "hijos": []
+   },
+   {
+    "nombre": "Guardacostas / policía de la navegación",
+    "estado": "modificado",
+    "rol": "Opera el Centro, verifica la trazabilidad y ejerce las medidas de policía sobre los buques.",
+    "hoy": "Prefectura Naval Argentina (Ministerio de Seguridad Nacional)",
+    "hijos": []
+   },
+   {
+    "nombre": "Organismo nacional de actividades espaciales",
+    "estado": "modificado",
+    "rol": "Aporta imágenes SAOCOM y SABIA-Mar con prioridad de programación.",
+    "hoy": "CONAE (Jefatura de Gabinete de Ministros, Secretaría de Innovación, Ciencia y Tecnología)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Defensa",
+    "estado": "modificado",
+    "rol": "Administra el FONDEF y elabora el plan plurianual de reequipamiento. Aporta la logística y la Patrulla Antártica Naval Combinada.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Marina de guerra",
+      "estado": "modificado",
+      "rol": "Aporta datos y patrullaje aéreo y naval, sin funciones policiales.",
+      "hoy": "Armada Argentina (Ministerio de Defensa; Comando Conjunto Marítimo del Estado Mayor Conjunto)",
+      "hijos": []
+     },
+     {
+      "nombre": "Armada Argentina",
+      "estado": "modificado",
+      "rol": "Aporta datos, enlaces y patrullaje; sin funciones policiales.",
+      "hoy": "Armada Argentina (Ministerio de Defensa)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Incluye el aporte en el proyecto de presupuesto y lo transfiere.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Agricultura, Ganadería y Pesca",
+      "estado": "modificado",
+      "rol": "Integra en tiempo real los datos de seguimiento satelital de la flota pesquera.",
+      "hoy": "Subsecretaría de Recursos Acuáticos y Pesca (Secretaría de Agricultura, Ganadería y Pesca, Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero",
+      "estado": "modificado",
+      "rol": "Integra el Sistema y controla el desembarco de capturas.",
+      "hoy": "Agencia de Recaudación y Control Aduanero, Dirección General de Aduanas",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación de la ley de vigilancia marítima; preside el Comité de Coordinación.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": [
+     {
+      "nombre": "Prefectura Naval Argentina",
+      "estado": "modificado",
+      "rol": "Opera el Centro, verifica la trazabilidad y ejerce las medidas de policía sobre los buques. Punto de contacto argentino para el intercambio de información y la lista regional.",
+      "hoy": "Prefectura Naval Argentina (Ministerio de Seguridad Nacional)",
+      "hijos": [
+       {
+        "nombre": "Centro nacional de monitoreo marítimo",
+        "estado": "nuevo",
+        "rol": "Integra datos AIS, satelitales, de la flota pesquera y del patrullaje en una imagen marítima común y lleva el registro de trazabilidad.",
+        "hoy": "",
+        "hijos": []
+       },
+       {
+        "nombre": "Centro de monitoreo marítimo",
+        "estado": "modificado",
+        "rol": "A cargo de un oficial superior de Prefectura, con enlaces permanentes de la Armada y de la CONAE; operativo por etapas en 18 meses.",
+        "hoy": "",
+        "hijos": []
+       }
+      ]
+     },
+     {
+      "nombre": "Comité interinstitucional de vigilancia marítima",
+      "estado": "nuevo",
+      "rol": "Coordina Prefectura, Armada, CONAE, pesca, aduana y puertos; aprueba protocolos de datos y sigue el cronograma.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Negocia con Uruguay, Brasil y Chile y actúa como depositario. Negocia y firma el Acuerdo; la Dirección Nacional del Antártico coordina su aplicación.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Instituto Antártico Argentino",
+      "estado": "modificado",
+      "rol": "Integra el Comité Científico binacional.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Comité regional de trazabilidad pesquera",
+    "estado": "nuevo",
+    "rol": "Administra la lista regional y evalúa la aplicación del acuerdo.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Oficina de Presupuesto del Congreso (OPC)",
+   "rol": "Verifica que el porcentaje propuesto se ajuste al calendario y a la regla fiscal."
+  }
+ ]
+}

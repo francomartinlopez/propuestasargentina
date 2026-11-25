@@ -1,0 +1,74 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Dirección Nacional Electoral",
+    "estado": "modificado",
+    "rol": "Coordina cronogramas y logística con las provincias y publica el costo de cada elección.",
+    "hoy": "Dirección Nacional Electoral, Vicejefatura de Gabinete del Interior (JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Asiste el voto presencial y por correo desde el exterior. Inscripción permanente y voto en el exterior.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Correo Oficial de la República Argentina S.A.",
+    "estado": "modificado",
+    "rol": "Logística del voto por correo postal. Logística del voto postal también en las primarias.",
+    "hoy": "Correo Oficial de la República Argentina S.A. (órbita JGM – Vicejefatura de Gabinete del Interior)",
+    "hijos": []
+   },
+   {
+    "nombre": "Oficina Nacional de Contrataciones",
+    "estado": "modificado",
+    "rol": "Provee en forma automática el registro de proveedores y contratistas para el cruce. Servicio diario de datos de contratistas y adjudicaciones para el cruce con aportantes.",
+    "hoy": "Oficina Nacional de Contrataciones (JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+    "estado": "modificado",
+    "rol": "Provee el registro de beneficiarios finales. Acceso en línea de la Justicia Nacional Electoral al registro de beneficiarios finales.",
+    "hoy": "ARCA (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Partidos políticos",
+    "estado": "modificado",
+    "rol": "Informan aportes en 48 horas y adecuan sus cartas orgánicas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior",
+    "estado": "modificado",
+    "rol": "Boletas, convenios de simultaneidad, costo electoral, software y escrutinio provisorio.",
+    "hoy": "Dirección Nacional Electoral (JGM, Vicejefatura de Gabinete del Interior)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Justicia Nacional Electoral",
+   "rol": "Publica los aportes en 72 horas, cruza beneficiarios finales, recibe el software para auditoría y aplica sanciones."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia y Unidad de Información Financiera (UIF)",
+   "rol": "Cooperan en el control de los aportes."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Se la invita a designar un enlace con la Justicia Nacional Electoral."
+  }
+ ]
+}

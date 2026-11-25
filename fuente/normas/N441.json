@@ -1,0 +1,101 @@
+{
+ "id": "N441",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de integridad de las causas de corrupción: cierre solo provisorio, revisión automática y apartamiento por vínculos",
+ "sumilla": "En las causas por corrupción contra funcionarios, mientras ejercen el cargo y hasta cuatro años después, el archivo, la desestimación y el sobreseimiento solo pueden ser provisorios (salvo inexistencia del hecho o atipicidad), se revisan de oficio por la cámara, la Autoridad Nacional de Control y Transparencia puede siempre apelar y la causa se reabre a su pedido o del fiscal. Además obliga a jueces y fiscales a apartarse cuando un pariente trabaja en el organismo involucrado y prohíbe los nombramientos cruzados de parientes de magistrados en el área de justicia.",
+ "cuando": "Fase I (año 1)",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; cámara de origen indistinta. Normas procesales para la justicia federal y nacional; invita a las provincias a adoptar reglas equivalentes.",
+ "motivos": "Es un patrón conocido en la Justicia argentina: jueces y fiscales tienden a ser complacientes con quien detenta el poder y a endurecerse cuando lo pierde. Mientras un funcionario gobierna, sus causas se archivan, se desestiman o se cierran; cuando deja el cargo, muchas veces ya no hay nada que investigar. El Código Penal ya suspende la prescripción mientras el funcionario permanece en el cargo, y este programa declara imprescriptibles los delitos de corrupción con enriquecimiento. Pero de nada sirve que el delito no prescriba si la causa se cierra en forma definitiva mientras el poderoso conserva su influencia. Esta ley no impide archivar ni sobreseer, lo que violaría el derecho a un proceso en plazo razonable y abriría la puerta a denuncias sin fundamento para perseguir a funcionarios honestos. Lo que hace es que, en las causas de corrupción contra funcionarios, ese cierre sea provisorio mientras ejercen el cargo y durante cuatro años después, que lo revise siempre la cámara aunque nadie apele, que la Autoridad Nacional de Control y Transparencia pueda apelar siempre, y que la causa pueda reabrirse a su pedido. Así, un cierre dictado para proteger a quien gobierna deja de protegerlo cuando pierde el poder. La ley también ataca los vínculos que favorecen esa complacencia: los jueces y fiscales deben apartarse cuando un pariente trabaja en el organismo involucrado, y los parientes de jueces y fiscales penales federales no pueden ocupar cargos políticos en el área de justicia ni en el Consejo de la Magistratura.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Causas de corrupción contra funcionarios",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Ámbito",
+     "texto": "Este capítulo se aplica a las causas por los delitos previstos en el artículo 174, inciso 5°, y en los Capítulos VI a IX bis del Título XI del Libro Segundo del Código Penal, en las que esté imputado o denunciado un funcionario público por hechos vinculados a su función, mientras ejerza un cargo público y hasta cuatro (4) años después de su cese (período de protección)."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cierre solo provisorio",
+     "texto": "Durante el período de protección, el archivo, la desestimación de la denuncia y el sobreseimiento solo pueden dictarse con carácter provisorio, salvo que se funden en la inexistencia del hecho o en que el hecho no constituye delito. El tiempo en que la causa permanezca cerrada en forma provisoria no se computa para el plazo máximo de duración del proceso."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Revisión automática",
+     "texto": "Toda resolución de archivo, desestimación o sobreseimiento dictada en estas causas se eleva de oficio, dentro de los cinco (5) días, al tribunal de alzada, aunque no haya sido recurrida, y no queda firme hasta su confirmación. La resolución y la decisión de alzada se publican en el Tablero Público de Causas."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Legitimación de la Autoridad de Control",
+     "texto": "La Autoridad Nacional de Control y Transparencia es parte querellante en estas causas cuando lo solicite y puede recurrir siempre las resoluciones del artículo anterior. Su legitimación no puede ser denegada."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Reapertura",
+     "texto": "Durante el período de protección, la causa cerrada en forma provisoria se reabre a pedido fundado del Ministerio Público Fiscal o de la Autoridad Nacional de Control y Transparencia."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Relación con los códigos procesales",
+     "texto": "Las reglas de este capítulo prevalecen sobre las del Código Procesal Penal Federal (Ley N° 27.063) y del Código Procesal Penal de la Nación (Ley N° 23.984) en lo que se opongan."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Vínculos entre magistrados y funcionarios",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Apartamiento por vínculos familiares",
+     "texto": "Además de las causales previstas en los códigos procesales, los jueces y los integrantes del Ministerio Público deben apartarse de las causas en las que sea parte, imputado o denunciante un organismo, o un funcionario de un organismo, en el que se desempeñe su cónyuge, conviviente o un pariente en línea recta o colateral hasta el segundo grado, por consanguinidad o afinidad, en un cargo político, de gabinete o de conducción. Las partes pueden recusarlos por esa causa."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Prohibición de nombramientos cruzados",
+     "texto": "No pueden ser designados en cargos políticos, de gabinete o de conducción del Ministerio de Justicia y Seguridad, de la Procuración del Tesoro de la Nación ni del Consejo de la Magistratura de la Nación el cónyuge, el conviviente ni los parientes en línea recta o colateral hasta el segundo grado de los jueces federales y nacionales con competencia penal, de los jueces de las cámaras de apelaciones y de casación de esa competencia y de los fiscales federales, mientras estos ejerzan."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Nulidad y publicidad",
+     "texto": "Las designaciones que violen el artículo anterior son nulas. La Autoridad Nacional de Control y Transparencia cruzará cada año las declaraciones de vínculos familiares de la Ley N° 25.188 de magistrados, fiscales y funcionarios y publicará sus resultados."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Aplicación temporal",
+     "texto": "Las reglas procesales del Capítulo I se aplican a las causas en trámite y a las cerradas que no tengan resolución firme a la fecha de vigencia. No reabren causas con sobreseimiento firme."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Invitación",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adoptar reglas equivalentes en sus códigos procesales."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entra en vigencia a los treinta (30) días de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Código Procesal Penal Federal (Ley 27.063) y Código Procesal Penal de la Nación (Ley 23.984): normas especiales para causas de corrupción contra funcionarios",
+  "Ley 25.188 (cruce de declaraciones de vínculos de magistrados y fiscales)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

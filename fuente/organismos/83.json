@@ -1,0 +1,62 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Superintendencia de fondos de pensión",
+    "estado": "nuevo",
+    "rol": "Habilita y controla administradoras y custodios, fija límites de inversión y tope de comisiones, sanciona; directorio de 5 con mandato fijo de 6 años escalonado.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión técnica de parámetros previsionales",
+    "estado": "nuevo",
+    "rol": "Revisa cada cinco años los parámetros del sistema frente al envejecimiento e informa al Congreso.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Recauda por el SUSS y distribuye los aportes entre pilares. Provee los datos de las declaraciones a la seguridad social para el cálculo.",
+    "hoy": "ARCA, organismo descentralizado del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Nacional de Valores",
+    "estado": "modificado",
+    "rol": "Coordina con la superintendencia las reglas de productos de inversión y custodia (Ley 26.831, art. 19).",
+    "hoy": "CNV, organismo descentralizado del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Trabajo y Desarrollo Social",
+    "estado": "modificado",
+    "rol": "Lleva el Registro, aprueba los planes de formación y firma convenios con instituciones formadoras, provincias y municipios.",
+    "hoy": "Ministerio de Capital Humano (área con competencia en personas mayores)",
+    "hijos": [
+     {
+      "nombre": "Administración Nacional de la Seguridad Social",
+      "estado": "modificado",
+      "rol": "Paga la asignación e informa cada año si la recaudación permite ampliar los días. Conserva el pilar 1, el FGS y la cuenta asistencial; registra la elección; cede a la superintendencia las funciones de la ex SAFJP (Decreto 2105/2008, arts. 3 y 6). Paga la asignación, dicta las normas operativas y emite el informe anual de recaudación.",
+      "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Trabajo y Empleo",
+      "estado": "modificado",
+      "rol": "Fiscaliza el otorgamiento y evalúa con ANSES el efecto sobre el empleo femenino. Calcula el reporte preliminar, recibe la validación, publica los reportes y el informe nacional, e intima a quien no cumple.",
+      "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+      "hijos": []
+     }
+    ]
+   }
+  ]
+ },
+ "externos": []
+}

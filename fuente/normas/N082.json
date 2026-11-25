@@ -1,0 +1,108 @@
+{
+ "id": "N082",
+ "tipo": "decreto",
+ "titulo": "Decreto de Ventanilla Única Digital \"Empresa en 24 horas\"",
+ "sumilla": "Crea en TAD y Mi Argentina un único trámite digital que integra inscripción societaria, CUIT, alta de empleador y cuenta bancaria; reglamenta el art. 60 de la Ley 27.349 fijando en 24 horas la apertura de cuenta, con la debida diligencia de la Ley 25.246; instruye a la IGJ a admitir estatuto modelo y firma digital, y simplifica por la misma vía la modificación y el cierre de empresas.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Decreto simple (art. 99 incs. 1 y 2 CN): organiza la Administración y reglamenta el art. 60 de la Ley 27.349.",
+ "motivos": null,
+ "visto": "El Expediente N° […], las Leyes Nros. 19.550 General de Sociedades (t.o. 1984), 24.467, 25.246, 25.326, 27.349 y 27.802, el Decreto N° 1063/2016, y",
+ "considerando": [
+  "Que la Ley N° 27.349 de Apoyo al Capital Emprendedor dispone en su artículo 38 que el registro público inscriba las sociedades por acciones simplificadas dentro de las VEINTICUATRO (24) horas cuando se utilice el estatuto modelo, y en su artículo 60 que la Clave Única de Identificación Tributaria se obtenga en el mismo plazo y que las entidades financieras prevean un trámite simplificado de apertura de cuenta, cuyo plazo queda librado a la reglamentación.",
+  "Que esos plazos no se cumplen de manera integrada, porque la inscripción, la identificación tributaria, el alta como empleador y la apertura de cuenta se tramitan por separado ante distintos organismos y entidades.",
+  "Que el Decreto N° 1063/2016 aprobó la plataforma de Trámites a Distancia, que permite integrar en un único trámite digital las actuaciones de distintos organismos.",
+  "Que el artículo 84 de la Ley N° 24.467, en el texto de la Ley N° 27.802, prevé el registro de empleadores ante la Agencia de Recaudación y Control Aduanero, por lo que el alta como empleador puede efectuarse en el mismo acto que la asignación de la CUIT.",
+  "Que la apertura de cuentas debe cumplir la debida diligencia de identificación del cliente y del beneficiario final que exigen los artículos 20 y 21 de la Ley N° 25.246, lo que puede hacerse sobre la identidad validada en la plataforma digital.",
+  "Que el cierre de una empresa también debe poder tramitarse por la misma vía, para que la finalización de un emprendimiento no demande años de trámites.",
+  "Que el intercambio de datos entre organismos debe limitarse a la finalidad del trámite, conforme a la Ley N° 25.326.",
+  "Que han tomado intervención los servicios jurídicos competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación",
+     "texto": "Créase la Ventanilla Única Digital \"Empresa en 24 horas\", que funcionará en la plataforma de Trámites a Distancia (TAD) aprobada por el Decreto N° 1063/2016 y en la aplicación Mi Argentina, para la constitución, modificación y cierre de sociedades y empresas mediante un único trámite digital."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación del presente decreto la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros, que coordinará la integración de los organismos intervinientes y fijará los estándares técnicos de interoperabilidad."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Trámite único de constitución",
+     "texto": "Mediante un único formulario digital, con firma digital y validación de identidad en línea, la Ventanilla Única integrará: a) la inscripción de la sociedad en el registro público correspondiente; b) la solicitud de la Clave Única de Identificación Tributaria (CUIT) ante la Agencia de Recaudación y Control Aduanero (ARCA); c) el alta como empleador en el registro previsto en el artículo 84 de la Ley N° 24.467, según el texto de la Ley N° 27.802; d) la apertura de una cuenta bancaria en la entidad que elija el solicitante; y e) las habilitaciones básicas de las jurisdicciones que adhieran conforme al artículo 10."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Plazo total",
+     "texto": "El trámite de constitución de una sociedad por acciones simplificada que utilice el estatuto modelo quedará concluido, con la sociedad inscripta, la CUIT asignada, el alta de empleador efectuada y la cuenta abierta, dentro de las VEINTICUATRO (24) horas hábiles de presentada la documentación completa, conforme a los artículos 38 y 60 de la Ley N° 27.349."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Registro societario nacional",
+     "texto": "Instrúyese a la INSPECCIÓN GENERAL DE JUSTICIA a adecuar sus normas, dentro de los SESENTA (60) días, para admitir la constitución de sociedades por acciones simplificadas con estatuto modelo y firma digital a través de la Ventanilla Única, y su inscripción dentro del plazo del artículo 38 de la Ley N° 27.349."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Identificación tributaria y alta de empleador",
+     "texto": "La Agencia de Recaudación y Control Aduanero (ARCA) asignará la CUIT dentro del plazo del artículo 60 de la Ley N° 27.349 a partir de la información que reciba de la Ventanilla Única y efectuará el alta de empleador en el mismo acto cuando el solicitante lo requiera, sin exigir la presentación de datos que ya consten en el trámite."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Apertura de cuenta bancaria",
+     "texto": "Fíjase en VEINTICUATRO (24) horas hábiles, contadas desde la recepción de la solicitud remitida por la Ventanilla Única, el plazo para la apertura de la cuenta bancaria a que se refiere el artículo 60 de la Ley N° 27.349. La apertura se realizará con cumplimiento de la debida diligencia de identificación del cliente y del beneficiario final exigida por los artículos 20, inciso 1, y 21, inciso a), de la Ley N° 25.246, que se efectuará sobre la información validada en la Ventanilla Única. Invítase al BANCO CENTRAL DE LA REPÚBLICA ARGENTINA y a la UNIDAD DE INFORMACIÓN FINANCIERA a adecuar, en el marco de sus competencias, las normas sobre apertura de cuentas a lo dispuesto en este artículo."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Uso de los datos",
+     "texto": "Los datos que los organismos intercambien a través de la Ventanilla Única solo podrán utilizarse para la tramitación respectiva y para el ejercicio de las funciones propias de cada organismo, conforme a la Ley N° 25.326 de Protección de los Datos Personales. Cada intercambio quedará registrado."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Modificación y cierre de empresas",
+     "texto": "La Ventanilla Única permitirá tramitar en forma digital, sin presentaciones presenciales, las modificaciones de los datos de la sociedad y su cierre. En el cierre, la inscripción de la disolución y de la liquidación conforme a la Ley General de Sociedades N° 19.550 (t.o. 1984) se tramitará en forma simultánea con la baja de la CUIT, del alta de empleador y de la cuenta bancaria. La autoridad de aplicación y la INSPECCIÓN GENERAL DE JUSTICIA establecerán un procedimiento simplificado para las sociedades sin actividad, sin deudas ni trabajadores registrados."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Convenios con provincias y municipios",
+     "texto": "Facúltase a la autoridad de aplicación a suscribir convenios con las provincias, la Ciudad Autónoma de Buenos Aires y los municipios para integrar sus registros públicos y habilitaciones a la Ventanilla Única, con el mismo estatuto modelo y plazo, y, para las habilitaciones de bajo riesgo, un plazo máximo con aprobación automática ante el silencio del organismo y control posterior."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Publicación de resultados",
+     "texto": "La autoridad de aplicación publicará cada mes, en formato abierto, la cantidad de trámites iniciados y concluidos en la Ventanilla Única, el plazo efectivo de cada etapa por organismo y entidad financiera, y el grado de cumplimiento del plazo del artículo 4°."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Plazo de implementación",
+     "texto": "La Ventanilla Única deberá estar operativa en todas sus funciones dentro de los DOCE (12) meses de la publicación del presente decreto. La autoridad de aplicación podrá habilitar sus funciones en forma progresiva."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande el cumplimiento del presente decreto se atenderán con los créditos asignados a las jurisdicciones y organismos intervinientes en el Presupuesto de la Administración Nacional vigente."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el BOLETÍN OFICIAL."
+    },
+    {
+     "n": 15,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

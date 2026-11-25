@@ -1,0 +1,71 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Oficina anticorrupción",
+    "estado": "suprimido",
+    "rol": "Se disuelve; funciones, personal y créditos pasan a la Autoridad. Se integra a la nueva autoridad, que asume por ley la aplicación de la Ley 25.188; personal y presupuesto se transfieren sin cargos nuevos. Transfiere personal, bienes, créditos, causas y el sistema de declaraciones juradas a la Autoridad.",
+    "hoy": "Oficina Anticorrupción (organismo desconcentrado del Ministerio de Justicia)",
+    "hijos": []
+   },
+   {
+    "nombre": "Sindicatura General de la Nación (SIGEN)",
+    "estado": "modificado",
+    "rol": "Sigue en el Ejecutivo hasta la reforma constitucional; titular por concurso; entrega todos sus informes a la Autoridad. No se fusiona: titular designado por concurso; designa a los auditores internos; la nueva autoridad accede a todos sus informes. remite todos sus informes y da acceso a sus sistemas a la Autoridad. Se incorpora a la Autoridad si la Convención aprueba el tema del artículo 3.",
+    "hoy": "Sindicatura General de la Nación (Presidencia de la Nación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Auditorías internas",
+    "estado": "modificado",
+    "rol": "Titular por concurso, designado y removido por la SIGEN; informes a la Autoridad. El auditor lo designa la SIGEN y no la autoridad que controla; sus informes van a la SIGEN y a la nueva autoridad. informes simultáneos al organismo, a la SIGEN y a la Autoridad.",
+    "hoy": "Unidades de auditoría interna de cada jurisdicción y entidad (art. 100, Ley 24.156)",
+    "hijos": []
+   },
+   {
+    "nombre": "Jefatura de Gabinete",
+    "estado": "modificado",
+    "rol": "Reasigna los créditos de la OA a la jurisdicción Poder Legislativo en 90 días.",
+    "hoy": "Jefatura de Gabinete de Ministros",
+    "hijos": [
+     {
+      "nombre": "Oficina Nacional de Contrataciones; Secretaría de Hacienda del Ministerio de Economía (con la Tesorería y la Contaduría General de la Nación)",
+      "estado": "modificado",
+      "rol": "Habilitan a la Autoridad el acceso en tiempo real a compras, pagos y cuentas.",
+      "hoy": "Oficina Nacional de Contrataciones (JGM) y Secretaría de Hacienda (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Dirección Nacional Electoral",
+      "estado": "modificado",
+      "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada pregunta. Organiza la elección de convencionales con la Justicia Nacional Electoral.",
+      "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Convención reformadora",
+    "estado": "nuevo",
+    "rol": "Sanciona la reforma dentro de los temas habilitados, en un plazo de noventa días; se disuelve al concluir.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Control externo, prevención e investigación de la corrupción y ética pública; presidida a propuesta del partido de oposición con más legisladores"
+  },
+  {
+   "nombre": "Comisión parlamentaria de cuentas",
+   "rol": "Ejerce sobre la Autoridad las funciones que hoy tiene sobre la AGN y aprueba su plan anual"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "id": "N228",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley Federal de Juicio por Jurados",
+ "sumilla": "Reglamenta, en lo que ejecuta el Poder Ejecutivo, la ley de jurados «Ley Federal de Juicio por Jurados»: designa la autoridad de aplicación, regula la confección del padrón de jurados a partir del padrón electoral, la compensación y el reintegro de gastos de los jurados, la fijación de fechas por etapa y la capacitación con las provincias que ya tienen jurados.",
+ "cuando": "Fase II (años 2-3): dentro de los 90 días de publicada la ley «Ley Federal de Juicio por Jurados» (art. 29 de esa ley).",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (decreto reglamentario, art. 99 inc. 2 CN).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° [—] Federal de Juicio por Jurados, el Código Procesal Penal Federal (Ley N° 27.063, texto ordenado por Decreto N° 118/2019), la Ley N° 27.150 y sus modificatorias y la Ley de Ministerios N° 22.520 (texto ordenado por Decreto N° 438/92) y sus modificatorias, y",
+ "considerando": [
+  "Que la Ley N° [—] establece el juicio por jurados en la justicia penal federal y encomienda al Poder Ejecutivo nacional la confección del padrón de jurados, el pago de la compensación de los jurados, la fijación de las fechas de implementación dentro de cada etapa y la capacitación.",
+  "Que la organización del juicio, la oficina judicial y las salas corresponden al Poder Judicial de la Nación, por lo que el presente decreto se limita a las funciones que la ley asigna al Poder Ejecutivo.",
+  "Que el padrón de jurados se confecciona a partir del padrón electoral nacional, cuyos datos administran la Justicia Nacional Electoral y la Dirección Nacional Electoral, por lo que corresponde fijar el procedimiento de intercambio con resguardo de los datos personales.",
+  "Que la experiencia de las provincias que aplican el juicio por jurados es un insumo valioso para la capacitación de los operadores del sistema federal.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación (artículo 27)",
+     "texto": "Desígnase al Ministerio de Justicia y Seguridad como autoridad de aplicación de la Ley N° [—] Federal de Juicio por Jurados, en adelante 'la Ley', con facultades para dictar las normas complementarias del presente decreto."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Datos del padrón electoral (artículo 11)",
+     "texto": "La Dirección Nacional Electoral proveerá a la autoridad de aplicación, por medios electrónicos seguros, los datos del padrón electoral nacional necesarios para el sorteo de cada jurisdicción, y la autoridad de aplicación requerirá los de la Justicia Nacional Electoral mediante el convenio que celebre con ella. Los datos solo podrán utilizarse para la confección del padrón de jurados, conforme la Ley N° 25.326 de Protección de los Datos Personales."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Sorteo y depuración (artículo 11)",
+     "texto": "El sorteo del padrón de jurados se realizará en acto público, ante escribano, con transmisión por medios digitales y por sistemas informáticos auditables, en listas separadas de mujeres y de varones según el sexo registrado en el padrón electoral. La autoridad de aplicación requerirá a cada persona sorteada la declaración jurada sobre los requisitos e impedimentos de los artículos 6° y 7° de la Ley y verificará sus antecedentes en los registros oficiales. La cantidad de personas sorteadas por jurisdicción será la que acuerde con la oficina judicial respectiva, en función de la cantidad de juicios previstos."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Remisión del padrón (artículo 11)",
+     "texto": "El padrón depurado de cada jurisdicción se remitirá a la oficina judicial respectiva antes del 1° de diciembre del año anterior al de su vigencia y se actualizará cada dos (2) años. La autoridad de aplicación informará a cada persona su inclusión en el padrón y sus derechos y deberes como jurado."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Compensación (artículo 9°)",
+     "texto": "Los jurados percibirán, por cada día de función, una compensación cuyo monto fijará la autoridad de aplicación por resolución, que no podrá ser inferior al valor diario del Salario Mínimo, Vital y Móvil y se actualizará cada año, y el reintegro de los gastos de traslado y, en su caso, de alojamiento. La oficina judicial certificará los días de función, y la autoridad de aplicación abonará la compensación dentro de los treinta (30) días de recibida la certificación."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Protección laboral (artículo 9°)",
+     "texto": "La oficina judicial extenderá a cada jurado la constancia de los días de función, que servirá de justificación ante el empleador. La autoridad de aplicación difundirá entre los empleadores públicos y privados las obligaciones que establece la Ley."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Fechas de implementación (artículo 22)",
+     "texto": "La autoridad de aplicación fijará por resolución, con una anticipación no menor de ciento ochenta (180) días y previa consulta a la Corte Suprema de Justicia de la Nación, al Consejo de la Magistratura de la Nación y a los ministerios públicos, la fecha de inicio del juicio por jurados en cada jurisdicción, dentro de las etapas y los plazos del artículo 22 de la Ley."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Capacitación (artículo 25)",
+     "texto": "La autoridad de aplicación celebrará convenios con las provincias que aplican el juicio por jurados para la capacitación de jueces, fiscales y defensores y el intercambio de experiencias, y con universidades y colegios profesionales para la formación de los abogados. Diseñará también campañas de información pública sobre la función de jurado en cada jurisdicción antes de su implementación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Información",
+     "texto": "La autoridad de aplicación publicará cada año, en formato abierto y sin datos que permitan identificar a los jurados, la cantidad de personas incluidas en el padrón de cada jurisdicción, las compensaciones abonadas y, con la información que le provea el Poder Judicial, la cantidad de juicios por jurados realizados y sus resultados."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

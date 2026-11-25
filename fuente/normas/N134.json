@@ -1,0 +1,106 @@
+{
+ "id": "N134",
+ "tipo": "decreto",
+ "titulo": "Decreto de creación del Sistema Nacional de Alerta Temprana Hídrica en el marco del SINAGIR",
+ "sumilla": "Integra al Servicio Meteorológico Nacional, al Instituto Nacional del Agua y a las provincias en un sistema de alerta temprana ante inundaciones, con aviso a todos los celulares de la zona por difusión celular y niveles del agua que obligan a evacuar definidos para cada ciudad ribereña.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "No aplica: decreto simple del Poder Ejecutivo nacional, reglamentario de la Ley 27.287 (art. 99, incs. 1 y 2, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], las Leyes Nros. 20.126, 22.520 de Ministerios (t.o. Decreto N° 438/92) y sus modificatorias y 27.287, el Decreto N° 225/2025, la Resolución del ENTE NACIONAL DE COMUNICACIONES N° 960/2025, y",
+ "considerando": [
+  "Que la Ley N° 27.287 creó el Sistema Nacional para la Gestión Integral del Riesgo y la Protección Civil, que integra las acciones de los organismos nacionales, provinciales y municipales para reducir el riesgo de desastres, incluida la alerta temprana.",
+  "Que el Servicio Meteorológico Nacional emite los pronósticos y alertas meteorológicas y el Instituto Nacional del Agua, regido por la Ley N° 20.126, desarrolla funciones hidrológicas, entre ellas el pronóstico de niveles de los grandes ríos, y que las provincias operan redes propias de medición y conducen la evacuación en su territorio.",
+  "Que las crecidas e inundaciones recientes en el Litoral, en el Noreste y en la región pampeana mostraron que la información existe pero no siempre llega a tiempo a la población ni se traduce en decisiones de evacuación preestablecidas.",
+  "Que la Resolución ENACOM N° 960/2025 fijó la tecnología de difusión celular (cell broadcast) como estándar nacional para los sistemas de alerta temprana por telefonía móvil, que permite avisar a todos los celulares de una zona, y que corresponde ponerla en funcionamiento.",
+  "Que la Agencia Federal de Emergencias, creada por el Decreto N° 225/2025 como organismo desconcentrado del MINISTERIO DE SEGURIDAD NACIONAL, coordina la respuesta federal ante emergencias en el marco de la Ley N° 27.287.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que el presente se dicta en uso de las atribuciones conferidas por el artículo 99, incisos 1 y 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación",
+     "texto": "Créase el Sistema Nacional de Alerta Temprana Hídrica, en el marco del Sistema Nacional para la Gestión Integral del Riesgo y la Protección Civil de la Ley N° 27.287, con el objeto de anticipar las inundaciones y crecidas, avisar a la población en riesgo y activar la evacuación según niveles predefinidos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Integración",
+     "texto": "Integran el Sistema:\na) el SERVICIO METEOROLÓGICO NACIONAL, que aporta los pronósticos y alertas meteorológicas, en particular de lluvias intensas;\nb) el INSTITUTO NACIONAL DEL AGUA, que aporta los pronósticos hidrológicos y de niveles de los ríos y las cuencas;\nc) la AGENCIA FEDERAL DE EMERGENCIAS, en el ámbito del MINISTERIO DE JUSTICIA Y SEGURIDAD, que coordina el Sistema y emite los avisos a la población;\nd) el ENTE NACIONAL DE COMUNICACIONES (ENACOM), en lo relativo a la difusión de los avisos por telefonía móvil;\ne) las provincias y la Ciudad Autónoma de Buenos Aires que adhieran mediante convenio, con sus redes de medición y sus organismos de protección civil."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Coordinación",
+     "texto": "La AGENCIA FEDERAL DE EMERGENCIAS es la autoridad de aplicación del presente decreto. Coordina el Sistema, aprueba sus protocolos y opera una sala de situación permanente que reúne la información de los integrantes durante las VEINTICUATRO (24) horas."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Red integrada de datos",
+     "texto": "Los integrantes del Sistema compartirán en tiempo real los datos de sus estaciones meteorológicas, hidrométricas y pluviométricas en una plataforma común administrada por el INSTITUTO NACIONAL DEL AGUA, con publicación en formato de datos abiertos, salvo los datos que la provincia que los produce declare de uso restringido por razones técnicas."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Niveles de alerta",
+     "texto": "El Sistema emplea tres niveles comunes: a) atención, cuando el pronóstico indica posibilidad de crecida o inundación; b) alerta, cuando la crecida o la inundación es probable y la población debe prepararse; y c) evacuación, cuando el nivel del agua alcanza o se prevé que alcance el umbral que obliga a evacuar en una zona determinada."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Niveles de evacuación por ciudad",
+     "texto": "Para cada ciudad ribereña o ubicada en zona de riesgo hídrico, la provincia, con el municipio y la asistencia técnica del INSTITUTO NACIONAL DEL AGUA, definirá el mapa de riesgo y los niveles del agua, medidos en escalas de referencia, que activan cada nivel de alerta en cada zona de la ciudad, y los publicará. Se dará prioridad a las ciudades de más de VEINTE MIL (20.000) habitantes, que deberán contar con niveles de evacuación definidos dentro de los DOS (2) años de la entrada en vigencia del presente decreto."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Aviso a celulares",
+     "texto": "El aviso a la población en los niveles de alerta y de evacuación se difundirá a todos los teléfonos móviles de la zona afectada mediante la tecnología de difusión celular fijada como estándar por la Resolución ENACOM N° 960/2025. El ENACOM dictará, dentro de los NOVENTA (90) días, las normas para que los prestadores de servicios de comunicaciones móviles habiliten la difusión de los avisos que emita la autoridad de aplicación, sin costo para los usuarios."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Contenido del aviso",
+     "texto": "Cada aviso indicará el nivel de alerta, la zona alcanzada, la conducta que debe adoptar la población y, en el nivel de evacuación, los puntos de encuentro y las vías de salida definidos por la autoridad local."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Convenios con provincias",
+     "texto": "La autoridad de aplicación celebrará convenios con las provincias para integrar sus redes de medición y sus organismos de protección civil al Sistema, fijar la autoridad local que ordena la evacuación y coordinar los avisos. El presente decreto no altera las competencias provinciales y municipales en materia de evacuación."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Simulacros",
+     "texto": "La autoridad de aplicación y las provincias adheridas realizarán al menos UN (1) simulacro anual de alerta y evacuación en cada ciudad con niveles de evacuación definidos."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Medición de resultados",
+     "texto": "La autoridad de aplicación publicará después de cada evento relevante y en un informe anual el tiempo de anticipación de cada alerta, la población avisada y las evacuaciones realizadas."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande el presente decreto se atenderán con los créditos asignados en la ley de presupuesto vigente a las jurisdicciones de los organismos integrantes, sin aumento del gasto total autorizado."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase al MINISTERIO DE JUSTICIA Y SEGURIDAD a dictar las normas complementarias y aclaratorias del presente decreto, con intervención de las jurisdicciones de las que dependen los demás organismos integrantes."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 15,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

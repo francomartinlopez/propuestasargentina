@@ -1,0 +1,109 @@
+{
+ "id": "N273",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de financiamiento plurianual de la primera infancia",
+ "sumilla": "Reglamenta la ley de primera infancia: designa la autoridad de aplicación, identifica los programas del piso, fija las ponderaciones de la fórmula de reparto (con el mayor peso en la pobreza de 0 a 14 años según la EPH) y el orden de apertura de vacantes por pobreza infantil.",
+ "cuando": "Fase I · dentro de los 90 días de publicada la ley de primera infancia («Ley de financiamiento plurianual de la primera infancia», art. 14)",
+ "cuando_breve": "Fase I · dentro de los 90 días de publicada la ley de primera infancia",
+ "tramite": "Decreto simple del Poder Ejecutivo nacional (art. 99 incs. 1 y 2 CN); reglamentario, no DNU.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° [●] de financiamiento plurianual de la primera infancia, las Leyes N° 26.206, N° 26.233, N° 27.045, N° 27.611 y N° 25.326, y",
+ "considerando": [
+  "Que la Ley N° [●] fijó un piso presupuestario plurianual, en términos reales, para las políticas nacionales de primera infancia y dispuso que los recursos transferidos a las jurisdicciones se distribuyan por una fórmula pública en la que la pobreza de las personas de cero a catorce años tenga el mayor peso relativo.",
+  "Que esa ley encomendó a la reglamentación fijar y publicar las ponderaciones de la fórmula, y dispuso que las vacantes nuevas de sala de tres años y de centros de primera infancia se abran en primer lugar en las jurisdicciones y localidades con mayor pobreza infantil.",
+  "Que la Encuesta Permanente de Hogares del Instituto Nacional de Estadística y Censos (INDEC) mide la pobreza por grupos de edad en los aglomerados urbanos de todas las jurisdicciones, y que en el primer semestre de 2026 el cuarenta y cuatro coma cinco por ciento (44,5 %) de las personas de cero a catorce años vivía en hogares pobres.",
+  "Que han tomado intervención los servicios jurídicos competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Autoridad de aplicación y piso",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente decreto reglamenta la Ley N° [●] de financiamiento plurianual de la primera infancia, en adelante «la Ley»."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase autoridad de aplicación de la Ley, en los términos de su artículo 3°, al Ministerio de Trabajo y Desarrollo Social, que coordina con el Ministerio de Salud el componente de los mil días de la Ley N° 27.611 y con la Secretaría de Educación del Ministerio de Educación, Ciencia y Cultura el componente de sala de tres años."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Programas del piso",
+     "texto": "El Ministerio de Economía, con la autoridad de aplicación, identifica dentro de los sesenta (60) días de la publicación del presente los programas y actividades presupuestarias que integran las políticas del artículo 2° de la Ley y el monto devengado por ellos en el ejercicio 2027. Cada proyecto de ley de presupuesto incluye un anexo con esos créditos, su comparación con el piso del artículo 4° de la Ley, actualizado por la variación promedio anual proyectada del Índice de Precios al Consumidor, y la senda del artículo 5°. Si la inflación efectiva supera la proyectada, el Jefe de Gabinete de Ministros adecua los créditos dentro del mismo ejercicio para cumplir el piso."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Fórmula de distribución (artículo 7° de la Ley)",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Ponderaciones",
+     "texto": "La participación de cada jurisdicción en los recursos que se transfieren surge de la suma de los siguientes componentes, cada uno calculado como la proporción que le corresponde sobre el total del país: a) pobreza infantil: cuarenta y cinco por ciento (45 %), según la cantidad estimada de personas de cero a catorce años en hogares pobres; b) población: veinticinco por ciento (25 %), según la cantidad de personas de cero a cinco años; c) déficit de cobertura: veinte por ciento (20 %), en partes iguales entre el déficit de sala de tres años y el de controles de salud; y d) cumplimiento de metas: diez por ciento (10 %), según la proporción de metas anuales cumplidas conforme el acuerdo federal de primera infancia."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Pobreza infantil",
+     "texto": "La cantidad de personas de cero a catorce años en hogares pobres de cada jurisdicción resulta de aplicar a su población de esa edad, según las proyecciones del Instituto Nacional de Estadística y Censos (INDEC), el promedio de las tasas de pobreza de ese grupo de edad de los dos últimos semestres publicados de la Encuesta Permanente de Hogares para los aglomerados de la jurisdicción. Cuando la jurisdicción tenga más de un aglomerado, las tasas se ponderan por población; cuando el INDEC informe que la muestra no es suficiente, se usa la tasa de la región estadística."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Déficit de cobertura y metas",
+     "texto": "El déficit de sala de tres años es la diferencia entre la población de tres años y la matrícula de sala de tres años según el relevamiento anual de la Secretaría de Educación. El déficit de controles es la cantidad de niñas y niños de cero a cinco años sin controles de salud o vacunas al día registrados, según el registro nominal de la primera infancia o, hasta que funcione, según la información del Ministerio de Salud. En el primer año de transferencias, el componente del inciso d) del artículo 4° se distribuye en proporción a los otros tres."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cálculo y publicación",
+     "texto": "La autoridad de aplicación calcula los coeficientes de distribución de cada año antes del 30 de septiembre del año anterior y los publica con los datos y la metodología utilizados. Las jurisdicciones pueden formular observaciones dentro de los quince (15) días hábiles; resueltas, los coeficientes son definitivos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Prioridad de las vacantes (artículo 8° de la Ley)",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Orden de apertura",
+     "texto": "Las vacantes nuevas de sala de tres años y de centros de primera infancia financiadas por la Ley se asignan a las jurisdicciones en orden decreciente de su tasa de pobreza de cero a catorce años, calculada conforme el artículo 5°. Dentro de cada jurisdicción, el convenio bilateral identifica los departamentos y localidades con mayor pobreza infantil sobre la base de los indicadores disponibles, como las necesidades básicas insatisfechas del último censo, el registro nominal de la primera infancia o la cobertura del módulo por hijo del Ingreso Universal Único, y las vacantes se abren en ese orden."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Convenios, transferencias e informe",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Convenios bilaterales",
+     "texto": "La autoridad de aplicación aprueba un modelo de convenio bilateral conforme el artículo 9° de la Ley, que fija los estándares del acuerdo federal de primera infancia, las metas anuales de la jurisdicción, las localidades prioritarias, la información a suministrar y el cronograma de transferencias."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Transferencias",
+     "texto": "Los recursos se transfieren por trimestre adelantado. La transferencia solo puede suspenderse cuando la jurisdicción no suministre la información comprometida dentro de los treinta (30) días de intimada, y se reanuda al regularizarse, con las sumas retenidas. Los fondos no ejecutados al cierre del ejercicio se reprograman para el ejercicio siguiente en la misma jurisdicción y finalidad."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Informe anual",
+     "texto": "El informe anual del artículo 10 de la Ley incluye, por jurisdicción: los recursos transferidos y ejecutados, las vacantes nuevas abiertas por localidad, la cobertura de sala de tres años, en total y en el veinte por ciento (20 %) de hogares de menores ingresos, y la proporción de niñas y niños con controles y vacunas al día registrados."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Normas complementarias",
+     "texto": "La autoridad de aplicación y el Ministerio de Salud dictan, en sus respectivas competencias, las normas complementarias del presente."
+    },
+    {
+     "n": 13,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

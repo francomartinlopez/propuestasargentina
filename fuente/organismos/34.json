@@ -1,0 +1,132 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Energía",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación: aprueba el contrato tipo, homologa contratos y considera los volúmenes al evaluar exportaciones.",
+    "hoy": "Secretaría de Energía (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "estado": "existente",
+    "rol": "Es consultado sobre la articulación con transporte y distribución y asigna capacidad firme. Determina y asigna la capacidad reservada y verifica las bases de los concursos abiertos.",
+    "hoy": "ENRGE (ámbito de la Secretaría de Energía; Ley 27.742 art. 161 y Decreto 452/2025)",
+    "hijos": []
+   },
+   {
+    "nombre": "Empresa estatal de energía y transportistas",
+    "estado": "existente",
+    "rol": "Celebran los contratos de transporte firme con los proyectos.",
+    "hoy": "Energía Argentina S.A. (sujeta a privatización, Ley 27.742) y TGS",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Ejerce los derechos del Estado como accionista clase A y constituye la sociedad. Ejerce las acciones clase A, eleva el estatuto y otorga el acto constitutivo. Fija el cupo anual de los beneficios y controla las contrapartidas.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Producción y Comercio",
+      "estado": "existente",
+      "rol": "Califica los usos como petroquímicos.",
+      "hoy": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Agricultura, Ganadería y Pesca",
+      "estado": "modificado",
+      "rol": "Declara la emergencia de abastecimiento de fertilizantes que activa la cláusula contractual. Interviene en el estudio técnico que fija el volumen del stock regulador. Interviene en los proyectos de semillas, biotecnología y biocombustibles.",
+      "hoy": "Secretaría de Agricultura, Ganadería y Pesca (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Empresa estatal de fertilizantes fosfatados (sociedad anónima con participación estatal mayoritaria)",
+      "estado": "nuevo",
+      "rol": "Construye y opera la planta de fosfatados y custodia el stock regulador; gobierno profesional y cuentas públicas.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Unidad de Seguridad de Suministro",
+      "estado": "existente",
+      "rol": "El stock regulador se integra al régimen de stocks estratégicos de la ley «Ley de seguridad de suministro de insumos críticos, mapa público de dependencias y stocks estratégicos».",
+      "hoy": "Unidad de Seguridad de Suministro (creada por «Decreto de creación de la Unidad de Seguridad de Suministro»; mandato legal por «Ley de seguridad de suministro de insumos críticos, mapa público de dependencias y stocks estratégicos»)",
+      "hijos": []
+     },
+     {
+      "nombre": "Empresa estatal de fertilizantes fosfatados",
+      "estado": "nuevo",
+      "rol": "Se constituye e inscribe; convoca a los socios clase B y elabora el estudio del stock.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía",
+      "estado": "existente",
+      "rol": "Interviene en el estudio técnico del stock regulador.",
+      "hoy": "Secretaría de Agricultura, Ganadería y Pesca (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Agricultura",
+      "estado": "existente",
+      "rol": "Interviene en el estudio técnico que fija el volumen del stock regulador.",
+      "hoy": "Secretaría de Agricultura, Ganadería y Pesca (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Unidad técnica de seguridad de suministro",
+      "estado": "existente",
+      "rol": "El stock regulador se integra al régimen de stocks estratégicos de la ley «Ley de seguridad de suministro de insumos críticos, mapa público de dependencias y stocks estratégicos».",
+      "hoy": "Unidad de Seguridad de Suministro (creada por «Decreto de creación de la Unidad de Seguridad de Suministro»; mandato legal por «Ley de seguridad de suministro de insumos críticos, mapa público de dependencias y stocks estratégicos»)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+      "estado": "existente",
+      "rol": "Aplica la amortización acelerada, la devolución anticipada del IVA y el crédito fiscal.",
+      "hoy": "ARCA",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Operador industrial contratado",
+    "estado": "existente",
+    "rol": "Opera la planta por concurso público, con metas publicadas (si el Directorio lo decide).",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Órganos de control interno y externo",
+    "estado": "existente",
+    "rol": "Controlan a la sociedad como empresa con participación estatal mayoritaria.",
+    "hoy": "SIGEN; AGN",
+    "hijos": []
+   },
+   {
+    "nombre": "Inspección General de Justicia",
+    "estado": "existente",
+    "rol": "Inscribe la sociedad (si su domicilio está en la Ciudad de Buenos Aires).",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía y Hacienda",
+    "estado": "modificado",
+    "rol": "Ejerce los derechos del Estado como accionista clase A y constituye la sociedad.",
+    "hoy": "Ministerio de Economía",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

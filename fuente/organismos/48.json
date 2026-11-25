@@ -1,0 +1,60 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Dirección Nacional Electoral",
+    "estado": "modificado",
+    "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada proyecto.",
+    "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Trabajo y Empleo",
+    "estado": "modificado",
+    "rol": "Lleva el registro, resuelve impugnaciones de la medición, convoca elecciones de delegados en defecto de las asociaciones y publica los estados contables sindicales. Opera el registro, publica la medición en marzo, certifica la mesa sindical, designa veedores y publica los estados contables.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano; competencias delegadas por Res. 204/2024)",
+    "hijos": [
+     {
+      "nombre": "Registro de afiliados cotizantes por empresa y planta",
+      "estado": "nuevo",
+      "rol": "Mide cada año la representatividad por empresa, planta y ámbito con datos de ARCA y publica resultados agregados. Mide al menos cada año la representatividad por empresa, planta y ámbito con datos de ARCA y publica resultados agregados («Reforma de la Ley de Asociaciones Sindicales: fin de la personería exclusiva» art. 3; «Reglamentación de la reforma de la Ley 23.551» arts. 1 a 4).",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Registra las conformidades de retención y suministra al registro los datos de nómina y retenciones. Suministra retenciones y nómina y opera el servicio digital de conformidades.",
+    "hoy": "ARCA (ente autárquico en el ámbito del Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Trabajo del ministerio del área social y laboral",
+    "estado": "modificado",
+    "rol": "Lleva el registro con su estructura actual y resuelve las impugnaciones de la medición.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia tributaria y de la seguridad social",
+    "estado": "existente",
+    "rol": "Suministra retenciones de cuotas y nómina por establecimiento («Reglamentación de la reforma de la Ley 23.551» art. 2).",
+    "hoy": "ARCA (ente autárquico en el ámbito del Ministerio de Economía)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Fuero laboral",
+   "rol": "Revisa las impugnaciones de la medición de representatividad."
+  }
+ ]
+}

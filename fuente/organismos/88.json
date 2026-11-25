@@ -1,0 +1,224 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Consejo binacional",
+    "estado": "nuevo",
+    "rol": "Fija prioridades de la relación bilateral.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Preside la Sección Argentina y firma el memorando. Negocia el tratado y copreside el Consejo Estratégico. Negocia en el MERCOSUR, firma y somete el Protocolo al Congreso; instruido por la Sección Argentina del Consejo Estratégico. Negocia y firma el acuerdo y coordina su seguimiento. depositario del Acuerdo.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Sección argentina interministerial",
+      "estado": "nuevo",
+      "rol": "Coordina las jurisdicciones argentinas e instruye a los negociadores.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Consejo Estratégico Argentina–India",
+      "estado": "modificado",
+      "rol": "Recibe base convencional: aprueba planes quinquenales con metas y publica un informe anual.",
+      "hoy": "Constituido por memorando",
+      "hijos": []
+     },
+     {
+      "nombre": "Representación diplomática en Nigeria",
+      "estado": "modificado",
+      "rol": "Se refuerza con agregadurías agrícola y comercial, con plan de trabajo e informe anual.",
+      "hoy": "Embajada en Abuja",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Integra la Sección por comercio exterior, por la Secretaría de Producción y Comercio.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Agricultura, Ganadería y Pesca",
+      "estado": "modificado",
+      "rol": "Representa a la Argentina en el Comité de Coordinación e informa el consumo de siembra y las existencias.",
+      "hoy": "Secretaría de Agricultura, Ganadería y Pesca (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía",
+      "estado": "existente",
+      "rol": "Integra el Comité de Coordinación y aporta la información de permisos y capturas.",
+      "hoy": "Subsecretaría de Recursos Acuáticos y Pesca (Secretaría de Agricultura, Ganadería y Pesca)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Integra la Sección por genéricos y coproducción farmacéutica.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Administración Nacional de Medicamentos, Alimentos y Tecnología Médica",
+      "estado": "modificado",
+      "rol": "Integra la Sección por reconocimiento regulatorio de genéricos.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de medicamentos",
+      "estado": "modificado",
+      "rol": "Registra por procedimiento abreviado los genéricos coproducidos, inspecciona las plantas y publica plazos y resultados.",
+      "hoy": "Administración Nacional de Medicamentos, Alimentos y Tecnología Médica, organismo descentralizado del Ministerio de Salud",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Comisión Nacional de Actividades Espaciales",
+    "estado": "modificado",
+    "rol": "Integra la Sección por cooperación espacial. Agencia ejecutora argentina: opera las estaciones, conduce el Programa Tronador II y celebra los arreglos de implementación.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Integra la Sección por la Secretaría de Minería (litio).",
+    "hoy": "Secretaría de Minería (Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "Comisión Nacional de Energía Atómica",
+      "estado": "modificado",
+      "rol": "Integra la Sección por cooperación nuclear.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Transporte",
+      "estado": "modificado",
+      "rol": "Rehabilita los ramales a Pocitos y estudia La Quiaca–Villazón.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Energía",
+      "estado": "modificado",
+      "rol": "Ordena el transporte de gas en ambos sentidos.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia Nacional de Puertos y Navegación",
+      "estado": "modificado",
+      "rol": "Facilita la salida fluvial y portuaria boliviana.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Agregaduría agrícola",
+    "estado": "nuevo",
+    "rol": "Protocolos sanitarios anticipados, cooperación técnica agrícola y becas en agronomía y veterinaria.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Agregaduría comercial",
+    "estado": "nuevo",
+    "rol": "Promoción comercial, inteligencia de mercado y estudio de la conexión marítima con el Golfo de Guinea.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Comité de Coordinación del Acuerdo",
+    "estado": "nuevo",
+    "rol": "Sigue la meta de 60 días, coordina la activación de la reserva y publica un informe anual.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ente Nacional de Comunicaciones (ENACOM)",
+    "estado": "modificado",
+    "rol": "Integra el Grupo de Trabajo y otorga en plazo las licencias y autorizaciones del ramal (Ley 27.078, arts. 8 y 9). Consulta técnica y regulatoria sobre amarre y licencias (Ley 27.078, arts.",
+    "hoy": "Ente Nacional de Comunicaciones, ente autárquico en el ámbito de la Jefatura de Gabinete (intervenido hasta el 4/1/2027)",
+    "hijos": []
+   },
+   {
+    "nombre": "Empresa Argentina de Soluciones Satelitales S.A. (ARSAT)",
+    "estado": "existente",
+    "rol": "Puede construir u operar el tramo argentino del ramal por acuerdos comerciales, como cualquier operador licenciado.",
+    "hoy": "Empresa Argentina de Soluciones Satelitales S.A. (ámbito de la Jefatura de Gabinete)",
+    "hijos": []
+   },
+   {
+    "nombre": "Grupo de Trabajo Argentina–Chile sobre el ramal",
+    "estado": "nuevo",
+    "rol": "Define traza, paso fronterizo y cronograma.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Comité trilateral",
+    "estado": "nuevo",
+    "rol": "Aprueba los términos de referencia, conduce el estudio y publica el informe.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Empresa espacial estatal",
+    "estado": "existente",
+    "rol": "Contratista principal del lanzador, según lo disponga la agencia ejecutora.",
+    "hoy": "Vehículo Espacial de Nueva Generación S.A. (ámbito de la JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Marina de guerra",
+    "estado": "existente",
+    "rol": "Seguridad del sitio de lanzamiento en la Base Naval Puerto Belgrano. Patrullaje y vigilancia coordinados en aguas argentinas.",
+    "hoy": "Armada Argentina (Ministerio de Defensa)",
+    "hijos": []
+   },
+   {
+    "nombre": "Órganos multilaterales del acuerdo",
+    "estado": "nuevo",
+    "rol": "Conducción del programa cofinanciado y seguimiento del Acuerdo.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Prefectura Naval Argentina",
+    "estado": "modificado",
+    "rol": "Punto de contacto operativo junto con la Armada; patrulla la zona económica exclusiva y aplica la Ley 24.922.",
+    "hoy": "Prefectura Naval Argentina, Ministerio de Seguridad Nacional",
+    "hijos": []
+   },
+   {
+    "nombre": "Comité multilateral",
+    "estado": "nuevo",
+    "rol": "Evalúa la aplicación, administra la lista común y propone mejoras.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Órgano administrador del acuerdo comercial",
+   "rol": "Administra el Protocolo, actualiza reglas de origen y evalúa el paso a una zona de libre comercio."
+  }
+ ]
+}

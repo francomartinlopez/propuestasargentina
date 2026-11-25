@@ -1,0 +1,112 @@
+{
+ "id": "N033",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de ratificación del Acuerdo Federal de Sustitución Tributaria y de cronograma de baja de sellos e Ingresos Brutos",
+ "sumilla": "Cada legislatura ratifica el acuerdo «Acuerdo Federal de Sustitución Tributaria», fija el cronograma para llevar sellos a cero en 2031 y bajar un 15 % la recaudación de Ingresos Brutos empezando por la industria y los servicios a empresas, ata cada etapa a la recaudación de suelo y herencia e invita a los municipios a sumar la tasa de Seguridad e Higiene.",
+ "cuando": "Fase I: ratificación en el año 1; las etapas de baja rigen desde el 1/1/2029 (Fase II), sujetas a sus condiciones.",
+ "cuando_breve": "Fase I",
+ "tramite": "Según la constitución de cada provincia; las normas tributarias pueden requerir iniciativa o trámite especial local.",
+ "motivos": "La Provincia suscribió con el Estado nacional y las demás jurisdicciones el Acuerdo Federal de Sustitución Tributaria, que retoma el objetivo de eliminar el impuesto de sellos y moderar el impuesto sobre los ingresos brutos, dos tributos que gravan la producción y las transacciones en cascada y encarecen la actividad formal. El proyecto ratifica el Acuerdo y fija el cronograma provincial. El impuesto de sellos baja un tercio por año desde 2029 hasta llegar a cero en 2031. El impuesto sobre los ingresos brutos baja primero en la industria y en los servicios prestados a empresas, donde el efecto de acumulación es mayor, hasta reducir su recaudación en un 15 % respecto de 2027. Cada etapa se aplica solo cuando el registro patrimonial está operativo y la recaudación del impuesto al valor del suelo y del impuesto a la herencia cubre su costo, de modo que la sustitución no desfinancie a la Provincia. Las alícuotas que se reducen no pueden volver a subir sino por ley, y la Provincia se compromete a no crear otros tributos sobre las transacciones. Se invita a los municipios a incorporar la tasa que grava la facturación al mismo cronograma, a medida que reciban recaudación del suelo. Cada año se publica cuánto se dejó de recaudar y cuánto se recaudó por los tributos de reemplazo.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Ratificación",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Ratificación",
+     "texto": "Ratifícase el Acuerdo Federal de Sustitución Tributaria suscripto el [fecha] entre el Estado nacional, las provincias y la Ciudad Autónoma de Buenos Aires, cuya copia autenticada forma parte de la presente ley como Anexo I."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La [autoridad de aplicación provincial en materia tributaria] es la autoridad de aplicación de la presente ley y comunicará la ratificación a la Comisión de Seguimiento del Acuerdo dentro de los diez (10) días de su promulgación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Cronograma de baja",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Impuesto de sellos",
+     "texto": "Las alícuotas del impuesto de sellos establecidas en [la Ley Impositiva / el Código Fiscal de la Provincia] se reducirán a dos tercios (2/3) de las vigentes a la fecha de la presente desde el 1° de enero de 2029, a un tercio (1/3) desde el 1° de enero de 2030 y a cero (0) desde el 1° de enero de 2031, conforme al artículo 5°."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Impuesto sobre los ingresos brutos",
+     "texto": "Las alícuotas del impuesto sobre los ingresos brutos se reducirán conforme al cronograma del Anexo II de la presente, desde el 1° de enero de cada año a partir de 2029 y conforme al artículo 5°. El cronograma reducirá primero las alícuotas de la actividad industrial y de los servicios prestados a empresas y luego las de las demás etapas intermedias de la producción, de modo que la recaudación del impuesto del año 2031, medida en porcentaje del producto interno bruto, sea al menos un quince por ciento (15 %) menor que la del año 2027. El Anexo II indicará, para cada actividad, la alícuota vigente y la de cada año de 2029 a 2031."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Condición de cada etapa",
+     "texto": "Cada etapa de los artículos 3° y 4° se aplicará cuando la autoridad de aplicación certifique, antes del 1° de diciembre del año anterior y con la metodología de la Comisión de Seguimiento del Acuerdo, que: a) el registro patrimonial está operativo en el territorio provincial; y b) la recaudación efectiva del impuesto al valor del suelo, en lo que exceda la del impuesto inmobiliario que ese impuesto sustituye en el año anterior a su aplicación, a valores constantes según el índice de precios al consumidor, más la del impuesto a la transmisión gratuita de bienes, del año anterior, en la Provincia y sus municipios, cubre el costo fiscal de la etapa. Si no pudiera certificarse, la etapa se aplicará desde el primer día del semestre siguiente en que se certifique, y el Poder Ejecutivo informará a esta Legislatura las causas de la demora. La certificación se publicará con sus datos y cálculos."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Topes e irreversibilidad",
+     "texto": "Hasta que se aplique cada etapa, las alícuotas del impuesto sobre los ingresos brutos y del impuesto de sellos no podrán superar las vigentes a la fecha de la presente ni los topes acordados en las cláusulas segunda, inciso c), y tercera, inciso c), del Consenso Fiscal 2021, aprobado por la Ley N° 27.687. Una vez aplicada una etapa, las alícuotas reducidas solo podrán aumentarse por ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Ningún otro impuesto a las transacciones",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Prohibición",
+     "texto": "La Provincia no establecerá nuevos tributos sobre los actos, contratos, operaciones o transacciones, ni sobre los ingresos brutos o la facturación, que sustituyan total o parcialmente a los que se reducen por la presente ley. El pago a cuenta del impuesto al valor del suelo que se ingresa con la transferencia de un inmueble es un anticipo del impuesto periódico, se descuenta íntegramente de las cuotas siguientes y no constituye un tributo sobre la operación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Municipios",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Tasa de Seguridad e Higiene",
+     "texto": "Invítase a los municipios de la Provincia a adherir al Acuerdo mediante ordenanza y a reducir la tasa por inspección de seguridad e higiene, o el tributo municipal equivalente que se liquide sobre los ingresos o la facturación, con el orden y las etapas del artículo 4°, en la medida en que reciban recaudación del componente periódico del impuesto al valor del suelo."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Información a los municipios",
+     "texto": "La autoridad de aplicación pondrá a disposición de los municipios adheridos la información del registro patrimonial necesaria para liquidar el componente periódico del impuesto al valor del suelo, con las garantías de la Ley nacional N° 25.326."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Publicación anual",
+     "texto": "La autoridad de aplicación publicará cada año, antes del 30 de junio, la recaudación del año anterior del impuesto de sellos, del impuesto sobre los ingresos brutos, del impuesto al valor del suelo y del impuesto a la transmisión gratuita de bienes, en pesos y en porcentaje del producto interno bruto, y el grado de avance del cronograma, y la remitirá a esta Legislatura y a la Comisión de Seguimiento del Acuerdo."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Normas sustituidas",
+     "texto": "Déjanse sin efecto las disposiciones de las leyes provinciales [N° —] de ratificación de los Consensos Fiscales de 2017 a 2021 en lo relativo al impuesto sobre los ingresos brutos y al impuesto de sellos, con la salvedad del artículo 6°. Modifícanse en lo pertinente [la Ley Impositiva y el Código Fiscal de la Provincia]."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial de la Provincia."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo provincial.\nANEXO I: Acuerdo Federal de Sustitución Tributaria. ANEXO II: Cronograma de alícuotas del impuesto sobre los ingresos brutos por actividad (columnas: código de actividad; alícuota vigente; 2029; 2030; 2031), con las actividades industriales y de servicios a empresas en primer término."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "[Ley Impositiva y Código Fiscal de la Provincia]: alícuotas de sellos e Ingresos Brutos por etapa"
+ ],
+ "deroga": [
+  "[Leyes provinciales de ratificación de los Consensos Fiscales 2017-2021], en lo relativo a Ingresos Brutos y sellos"
+ ],
+ "variantes": null
+}

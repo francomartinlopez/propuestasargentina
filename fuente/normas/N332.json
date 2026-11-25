@@ -1,0 +1,139 @@
+{
+ "id": "N332",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la ley de evaluación de inversiones extranjeras en sectores estratégicos",
+ "sumilla": "Designa al Ministerio de Economía autoridad de aplicación y reglamenta el procedimiento de evaluación: definiciones de datos a gran escala y minerales críticos, notificación con requisitos cerrados, consulta previa, procedimiento simplificado, plazos internos de la Comisión, publicidad de criterios y resoluciones, control parlamentario y registro de tierras rurales.",
+ "cuando": "Fase I (dentro de los 90 días de la promulgación de «Ley de evaluación de inversiones extranjeras en sectores estratégicos»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (decreto reglamentario, art. 99 inc. 2 de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° […] de evaluación de inversiones extranjeras en sectores estratégicos, la Ley N° 27.442 de Defensa de la Competencia, y",
+ "considerando": [
+  "Que la Ley N° […] de evaluación de inversiones extranjeras en sectores estratégicos estableció un régimen de evaluación previa, con criterios públicos y aplicable a inversores de cualquier origen, de las inversiones extranjeras en sectores estratégicos, restituyó los límites a la titularidad extranjera de tierras rurales y creó la Comisión de Evaluación de Inversiones Estratégicas.",
+  "Que su artículo 32 encomienda al PODER EJECUTIVO NACIONAL dictar su reglamentación dentro de los NOVENTA (90) días de su promulgación, y que su Capítulo II se aplica a las operaciones no perfeccionadas a la fecha de entrada en vigencia de esa reglamentación.",
+  "Que, para que la evaluación no se convierta en una barrera encubierta, corresponde fijar un procedimiento previsible, requisitos cerrados, plazos internos y un procedimiento simplificado para las operaciones de menor significación económica.",
+  "Que el servicio jurídico permanente del Ministerio de Economía ha tomado la intervención que le compete.",
+  "Que el presente decreto se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Autoridad de aplicación y definiciones",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación (artículo 30)",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° […] de evaluación de inversiones extranjeras en sectores estratégicos al MINISTERIO DE ECONOMÍA, o al ministerio que en el futuro asuma la competencia en economía, que podrá dictar las normas complementarias del presente decreto."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Infraestructura de datos a gran escala (artículo 2°, inciso d)",
+     "texto": "Se consideran infraestructura de almacenamiento y tratamiento de datos a gran escala los centros de datos y los servicios de almacenamiento o procesamiento en la nube que: a) traten datos personales de más de UN MILLÓN (1.000.000) de titulares residentes en el país; o b) presten servicios a organismos del sector público nacional o a operadores de los sectores de los incisos a), b) y c) del artículo 2° de la ley. La autoridad de aplicación podrá actualizar estos parámetros por resolución fundada y publicada."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Lista de minerales críticos (artículo 2°, inciso e)",
+     "texto": "La autoridad de aplicación aprobará y publicará la primera lista de minerales críticos dentro de los SESENTA (60) días corridos de la entrada en vigencia del presente decreto, a propuesta de la Comisión de Evaluación de Inversiones Estratégicas y previa consulta a las provincias en cuyo territorio existan yacimientos de esos minerales, que podrán opinar dentro de los QUINCE (15) días hábiles."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Procedimiento",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Consulta previa",
+     "texto": "Cualquier interesado podrá consultar a la autoridad de aplicación si una operación proyectada está alcanzada por la ley. La autoridad responderá dentro de los QUINCE (15) días hábiles; la respuesta la obliga respecto de la operación descripta."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Notificación (artículo 7°)",
+     "texto": "La notificación se presentará por medios electrónicos, en el formulario que apruebe la autoridad de aplicación, que contendrá como mínimo: a) la identificación de las partes y de su cadena de control hasta las personas humanas o los Estados que la ejerzan en última instancia; b) la descripción de la operación, su monto y la fuente de su financiamiento; c) el sector y la localización de los activos; d) el acceso que la operación otorgue a datos personales o a información sensible; e) su relevancia para el abastecimiento de bienes o servicios esenciales; y f) las operaciones de las partes en sectores estratégicos de los últimos CINCO (5) años. No podrán exigirse requisitos no previstos en el formulario publicado."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Notificación completa",
+     "texto": "Dentro de los DIEZ (10) días hábiles de recibida la notificación, la autoridad de aplicación indicará, en un solo acto, los datos faltantes. Vencido ese plazo sin observación, la notificación se tendrá por completa desde su presentación. Durante la evaluación, la autoridad podrá formular un único requerimiento adicional, que suspenderá el plazo del artículo 9° de la ley por no más de DIEZ (10) días hábiles."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Procedimiento simplificado (artículo 3°, último párrafo)",
+     "texto": "Las operaciones cuyo monto sea inferior al que fije anualmente la autoridad de aplicación, que no podrá ser menor al equivalente de DIEZ MILLONES DE DÓLARES ESTADOUNIDENSES (USD 10.000.000), se notificarán por un formulario abreviado y se tendrán por no objetadas a los VEINTE (20) días hábiles, salvo que dentro de ese plazo la autoridad disponga por acto fundado su evaluación por el procedimiento general. No se aplica el procedimiento simplificado a las operaciones de inversores controlados por un Estado extranjero ni a las adquisiciones de tierras rurales que excedan los límites del Capítulo III de la ley."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Comisión de Evaluación (artículos 24 y 25)",
+     "texto": "Cada uno de los Ministerios de Relaciones Exteriores, Comercio Internacional y Culto, de Economía, de Defensa y de Justicia y Seguridad designará UN (1) representante titular y UN (1) suplente, con rango no inferior a Director, y el personal técnico que asigne a la Comisión. Coordina la Comisión el representante del Ministerio de Economía. La Comisión emitirá su dictamen dentro de los TREINTA (30) días hábiles de completa la notificación, por mayoría, con constancia de las disidencias. Los informes que requiera a otros organismos se responderán dentro de los DIEZ (10) días hábiles."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Resolución y condiciones (artículo 10)",
+     "texto": "La resolución que disponga condiciones de mitigación fijará para cada una su plazo y la forma de verificar su cumplimiento. El inversor presentará cada año un informe de cumplimiento. Si una condición se incumpliera, la autoridad de aplicación, previa intimación, podrá reabrir la evaluación de la operación conforme el procedimiento del Capítulo II de la ley."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Evaluación de oficio (artículo 11)",
+     "texto": "Cuando la autoridad de aplicación decida evaluar de oficio una operación no notificada, intimará a las partes a presentar la notificación dentro de los QUINCE (15) días hábiles; desde que esté completa corren los plazos del artículo 9° de la ley."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Coordinación (artículos 9° y 13)",
+     "texto": "Cuando una operación deba notificarse también conforme la Ley N° 27.442, la autoridad de aplicación y la Autoridad Nacional de la Competencia compartirán, con consentimiento de las partes, la documentación presentada y no la requerirán dos veces. Las solicitudes de evaluación de las provincias se tramitarán por el procedimiento general, y las resoluciones referidas a su territorio les serán comunicadas dentro de los DIEZ (10) días hábiles de dictadas."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Reserva",
+     "texto": "Las partes podrán solicitar el tratamiento reservado de la información comercial que presenten. La autoridad de aplicación calificará la reserva por acto fundado y la mantendrá en las síntesis y los informes públicos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Publicidad y control parlamentario",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Publicidad (artículo 12)",
+     "texto": "Las pautas interpretativas de los criterios del artículo 8° de la ley se publicarán dentro de los TREINTA (30) días corridos de la entrada en vigencia del presente decreto; sus modificaciones, con TREINTA (30) días corridos de antelación a su aplicación. Las síntesis de las resoluciones se publicarán dentro de los DIEZ (10) días hábiles de dictadas y el informe estadístico anual, antes del 31 de marzo de cada año."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Comisión Bicameral (artículos 25 y 27)",
+     "texto": "La autoridad de aplicación remitirá a la Comisión Bicameral de Control de las Inversiones Estratégicas, por un canal seguro, las resoluciones y los dictámenes previstos en el artículo 27 de la ley. El informe semestral reservado de la Comisión de Evaluación se remitirá antes del 31 de marzo y del 30 de septiembre de cada año."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Tierras rurales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Superficie equivalente y cuerpos de agua (artículos 16 y 17)",
+     "texto": "La autoridad de aplicación aprobará, dentro de los NOVENTA (90) días corridos de la entrada en vigencia del presente decreto, con intervención de los organismos técnicos nacionales con competencia en tecnología agropecuaria y en recursos hídricos y previa consulta a las provincias: a) la tabla de superficies equivalentes a las MIL HECTÁREAS (1.000 ha) de la zona núcleo, por departamento, según la localización y la calidad de las tierras; y b) la nómina de cuerpos de agua de envergadura y permanentes."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Registro y certificado (artículo 19)",
+     "texto": "La autoridad de aplicación llevará el registro de tierras rurales en formato digital y expedirá el certificado requerido para la inscripción de los actos alcanzados dentro de los DIEZ (10) días hábiles de solicitado. Celebrará convenios con las provincias para la integración de la información de los registros de la propiedad inmueble y de los catastros."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 17,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entra en vigencia el día siguiente al de su publicación en el Boletín Oficial. Desde esa fecha se aplica el Capítulo II de la ley, conforme su artículo 32."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

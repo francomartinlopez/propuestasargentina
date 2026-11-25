@@ -1,0 +1,99 @@
+{
+ "id": "N184",
+ "tipo": "resolucion",
+ "titulo": "Resolución general de ARCA: control automático de altas y bajas del tramo joven",
+ "sumilla": "ARCA identifica de oficio las altas del tramo joven y cruza cada mes altas y bajas por despido sin causa del mismo empleador, establecimiento y categoría para detectar reemplazos (presunción de «Ley de reforma del monotributo y de formalización laboral: actualización mensual, tránsito gradual al régimen general, régimen permanente de incentivo, tramo joven y detracción») y rotación de jóvenes, con descargo, resolución fundada y pérdida del beneficio con intereses.",
+ "cuando": "Fase I (dentro de los 60 días de publicada la ley «Ley de reforma del monotributo y de formalización laboral: actualización mensual, tránsito gradual al régimen general, régimen permanente de incentivo, tramo joven y detracción»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (resolución general de ARCA).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° 27.802, la Ley N° [—] de Reforma del Monotributo y de Formalización Laboral, la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones, y el Decreto N° 315/2026, y",
+ "considerando": [
+  "Que la Ley N° [—] creó, dentro del Régimen de Incentivo a la Formalización Laboral de la Ley N° 27.802, un tramo joven con una rebaja mayor de contribuciones durante veinticuatro (24) meses, y estableció que constituye uso abusivo del beneficio despedir sin justa causa a un trabajador para ocupar su puesto con un joven, con una presunción de reemplazo.",
+  "Que el artículo 163 quáter de la Ley N° 27.802, incorporado por esa ley, encomienda a este organismo controlar en forma automática las altas y bajas del tramo joven para detectar reemplazos y rotación de trabajadores, y aplicar la exclusión y el decaimiento previstos en los artículos 160, 161 y 163 ter.",
+  "Que el artículo 9° del Decreto N° 315/2026 encomendó a este organismo instrumentar los controles sistémicos de exclusión del Régimen.",
+  "Que han tomado la intervención que les compete las áreas técnicas y el servicio jurídico de este organismo.",
+  "Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 163 quáter de la Ley N° 27.802 y por la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones."
+ ],
+ "formula": "Por ello, EL TITULAR DE LA AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "Título I – Identificación del tramo joven",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente resolución general establece el control automático de las altas y bajas de las relaciones laborales comprendidas en el tramo joven del Régimen de Incentivo a la Formalización Laboral, conforme los artículos 160, 161, 163 bis, 163 ter y 163 quáter de la Ley N° 27.802, estos tres últimos incorporados por la Ley N° [—]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Identificación automática",
+     "texto": "Al registrarse el alta de una relación laboral, este organismo verificará en forma automática, con los registros del Sistema Integrado Previsional Argentino, la edad del trabajador al mes de alta y la inexistencia de relaciones laborales registradas anteriores, e informará al empleador, en la constancia de alta, si la relación queda comprendida en el tramo joven. Las alícuotas reducidas se aplicarán en la declaración jurada de cada período sin necesidad de opción."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Datos del alta y de la baja",
+     "texto": "El empleador consignará en el alta y en la baja de cada relación laboral el domicilio de explotación en el que se desempeña el trabajador y la categoría del convenio colectivo de trabajo aplicable o, en su defecto, el puesto. En la baja consignará, además, la modalidad de extinción del contrato de trabajo."
+    }
+   ]
+  },
+  {
+   "titulo": "Título II – Control de reemplazos y rotación",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Cruce mensual",
+     "texto": "Este organismo cruzará cada mes las altas del tramo joven con las bajas por despido sin justa causa del mismo empleador producidas dentro de los seis (6) meses anteriores o posteriores, en el mismo domicilio de explotación y con la misma categoría o puesto. Cada coincidencia generará una alerta de reemplazo presunto conforme el artículo 163 ter de la Ley N° 27.802."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Rotación",
+     "texto": "Este organismo generará también una alerta de rotación cuando un mismo empleador registre, en un período de doce (12) meses, bajas de relaciones del tramo joven antes de cumplir seis (6) meses de antigüedad en una proporción superior al cincuenta por ciento (50 %) de sus altas en ese tramo, o cuando registre sucesivas altas y bajas de trabajadores del tramo joven para un mismo puesto. Las alertas de rotación darán lugar a una fiscalización, sin efectos automáticos sobre el beneficio."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Notificación y descargo",
+     "texto": "La alerta de reemplazo presunto se notificará al empleador en su domicilio fiscal electrónico, con los datos de las relaciones involucradas. El empleador podrá presentar su descargo y las pruebas que desvirtúen la presunción dentro de los quince (15) días hábiles, por el servicio web que habilite este organismo."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Resolución",
+     "texto": "Vencido el plazo, este organismo resolverá en forma fundada dentro de los treinta (30) días hábiles. Si confirma el reemplazo, declarará la pérdida del beneficio del tramo joven y del régimen general por la relación de que se trate y determinará las contribuciones no ingresadas con sus intereses, conforme los artículos 161 y 163 ter de la Ley N° 27.802. Contra la resolución procederán las vías recursivas previstas en la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Derechos del trabajador",
+     "texto": "La pérdida del beneficio no afecta la relación laboral ni los derechos del trabajador contratado en el tramo joven, que son los que correspondan según la ley y el convenio colectivo aplicable."
+    }
+   ]
+  },
+  {
+   "titulo": "Título III – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Información pública",
+     "texto": "Este organismo suministrará a la autoridad de aplicación del Régimen, antes del 31 de enero de cada año, la cantidad de altas del tramo joven por provincia, actividad y tamaño de empleador, las alertas de reemplazo y de rotación, los descargos aceptados y las pérdidas de beneficio declaradas, para su publicación conforme la Ley N° [—]."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Aplicación supletoria",
+     "texto": "En lo no previsto, se aplican los procedimientos de control sistémico de exclusión instrumentados por este organismo en ejercicio del artículo 9° del Decreto N° 315/2026."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución general entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial y se aplicará a las altas que se registren desde la entrada en vigencia de la Ley N° [—]."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

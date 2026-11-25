@@ -1,0 +1,74 @@
+{
+ "id": "N419",
+ "tipo": "acuerdo_federal",
+ "titulo": "Acuerdo Federal de Simplificación de Trámites y Regulaciones",
+ "sumilla": "Nación, provincias y municipios adheridos se comprometen a publicar todos sus trámites con requisitos, plazo y costo; a resolver habilitaciones comerciales y permisos de obra con plazo máximo, aprobación automática y control posterior en los casos de bajo riesgo; a inventariar y depurar sus normas; y a que cada tasa municipal tenga su servicio y su monto publicados. La Nación mide y publica el avance de cada jurisdicción.",
+ "cuando": "Fase I · año 1 (firma tras la sanción de la ley de simplificación; metas a 24 meses)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Acuerdo Nación-provincias (art. 125 CN), con adhesión municipal por ordenanza. Lo firman el Jefe de Gabinete de Ministros y los gobernadores; ratificación por ley de cada provincia.",
+ "motivos": null,
+ "visto": "",
+ "considerando": [
+  "Que la mayor parte de los trámites que enfrentan las personas y las empresas para trabajar, construir o abrir un comercio dependen de las provincias y de los municipios.",
+  "Que el Convenio federal de la Ventanilla Única «Empresa en 24 horas» ya prevé, para las habilitaciones de bajo riesgo, un plazo máximo, la aprobación automática y el control posterior, y que conviene extender esas reglas a todos los trámites y a las normas de cada jurisdicción.",
+  "Que la Ley N° 27.742 incorporó al artículo 10 de la Ley N° 19.549 el silencio con sentido positivo para las autorizaciones administrativas regladas en el orden nacional."
+ ],
+ "formula": "Por ello, LAS PARTES ACUERDAN:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cláusula primera – Objeto",
+     "texto": "Las partes acuerdan reducir y simplificar los trámites y las regulaciones que pesan sobre las personas y las empresas en sus respectivas jurisdicciones, con metas comunes, plazos y medición pública del avance."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cláusula segunda – Catálogo de trámites",
+     "texto": "Cada provincia publicará, dentro de los doce (12) meses de su adhesión, un catálogo digital de todos sus trámites con sus requisitos, el plazo máximo para resolver y su costo, y no exigirá requisitos que no figuren en él. Promoverá que sus municipios adopten la misma regla."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cláusula tercera – Habilitaciones y permisos de obra",
+     "texto": "Las provincias y los municipios adheridos resolverán las habilitaciones comerciales e industriales y los permisos de obra en los plazos máximos que publiquen. En las actividades y obras de bajo riesgo, que cada jurisdicción listará, regirán la presentación digital única, la aprobación automática si el organismo no se pronuncia en plazo y el control posterior, con facultades de clausura o paralización ante incumplimientos graves."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cláusula cuarta – Silencio positivo",
+     "texto": "Las provincias adoptarán, por ley, el silencio con sentido positivo para sus autorizaciones administrativas regladas, con excepciones fundadas y publicadas, en términos equivalentes a los del inciso b) del artículo 10 de la Ley N° 19.549."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula quinta – Inventario y depuración de normas",
+     "texto": "Cada provincia realizará, dentro de los veinticuatro (24) meses de su adhesión, un inventario de sus normas generales vigentes y derogará expresamente las caídas en desuso, duplicadas o contradictorias, con los mismos criterios que la ley nacional de simplificación normativa."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cláusula sexta – Tasas municipales",
+     "texto": "Los municipios adheridos publicarán cada tasa que cobran, con el servicio concreto que retribuye, su monto o alícuota y lo recaudado en el último ejercicio, y no cobrarán tasas sin un servicio efectivamente prestado a quien la paga."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula séptima – Asistencia y medición",
+     "texto": "La Nación, por intermedio de la Secretaría de Función Pública y Gobierno Digital, brindará a las jurisdicciones adheridas las plataformas de la Ventanilla Única y de Trámites a Distancia, asistencia técnica y metodologías comunes, y publicará cada año un tablero con el avance de cada provincia y municipio en las metas de este Acuerdo."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cláusula octava – Adhesión de los municipios",
+     "texto": "Los municipios adhieren al presente Acuerdo mediante acta suscripta por su Intendente, previa ordenanza que adopte las reglas de las cláusulas tercera y sexta."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cláusula novena – Vigencia",
+     "texto": "El presente Acuerdo entra en vigencia para cada provincia con su ratificación por ley provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Normas provinciales de procedimiento administrativo y ordenanzas municipales de habilitación, de obras y tributarias (por adecuación de cada jurisdicción)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

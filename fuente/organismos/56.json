@@ -1,0 +1,101 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Publica los importes mensuales, avisa al 80 % del tope, tramita impugnaciones, escalón y retornos («Resolución General de la Agencia de Recaudación y Control Aduanero: actualización mensual de los importes del Régimen Simplificado y aviso al superar el 80 % del tope de la categoría K», «Resolución general de ARCA: pase gradual del monotributo al régimen general y fiscalización de la registración laboral por cruce de datos»). Aplica en forma automática los beneficios, controla altas y bajas del tramo joven y aplica exclusiones y decaimientos. Acredita automáticamente los supuestos, identifica el tramo joven y provee los datos de recaudación. Identifica el tramo joven, cruza altas y bajas, resuelve y aplica la pérdida del beneficio (decisión 3).",
+    "hoy": "ARCA, ente autárquico en el ámbito del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Estadística y Censos",
+    "estado": "existente",
+    "rol": "Publica el IPC que actualiza cada mes los parámetros del régimen.",
+    "hoy": "INDEC",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "estado": "existente",
+    "rol": "Recibe las cotizaciones previsionales del monotributo, actualizadas cada mes. Aporta datos para la información pública y recibe la compensación del Tesoro por menor recaudación. Informa la menor recaudación para la compensación del Tesoro.",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Sistema de obras sociales",
+    "estado": "existente",
+    "rol": "Las obras sociales reciben el componente de salud de la cuota, actualizado cada mes.",
+    "hoy": "Superintendencia de Servicios de Salud, organismo descentralizado del Ministerio de Salud",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía (Secretaría de Hacienda) con la Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social",
+    "estado": "modificado",
+    "rol": "Fija por decreto las etapas de la detracción, estima el costo fiscal y publica los resultados anuales.",
+    "hoy": "Ministerio de Economía y Secretaría de Trabajo, Empleo y Seguridad Social (coautoridades de la Ley 27.541, art. 25)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia tributaria y de la seguridad social",
+    "estado": "modificado",
+    "rol": "Aplica en forma automática los beneficios, controla altas y bajas del tramo joven y aplica exclusiones y decaimientos.",
+    "hoy": "Agencia de Recaudación y Control Aduanero, ente autárquico en el ámbito del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía y Hacienda (política tributaria) con la Secretaría de Trabajo",
+    "estado": "modificado",
+    "rol": "Fija por decreto las etapas de la detracción, estima el costo fiscal y publica los resultados anuales.",
+    "hoy": "Ministerio de Economía y Secretaría de Trabajo, Empleo y Seguridad Social (coautoridades de la Ley 27.541, art. 25)",
+    "hijos": []
+   },
+   {
+    "nombre": "Organismo nacional de la seguridad social",
+    "estado": "existente",
+    "rol": "Aporta datos para la información pública y recibe la compensación del Tesoro por menor recaudación.",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Educación",
+    "estado": "existente",
+    "rol": "Aprueba el marco federal.",
+    "hoy": "Consejo Federal de Educación (Ley 26.206, art. 116)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Educación Tecnológica (INET)",
+    "estado": "modificado",
+    "rol": "Coordina, redacta el modelo de convenio y la guía de tutoría, lleva el registro federal y publica los datos.",
+    "hoy": "INET (Secretaría de Educación, Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Trabajo y Empleo",
+    "estado": "existente",
+    "rol": "Vincula la formación dual con los servicios de empleo.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía, con la Secretaría de Trabajo y Empleo",
+    "estado": "modificado",
+    "rol": "Mide la recaudación, publica cada etapa de la detracción, controla el tope del tramo joven y determina la compensación.",
+    "hoy": "Ministerio de Economía y Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Provincias y sector productivo",
+   "rol": "Celebran los convenios, pagan la asignación estímulo y designan tutores."
+  }
+ ]
+}

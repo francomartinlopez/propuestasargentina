@@ -1,0 +1,88 @@
+{
+ "id": "N046",
+ "tipo": "ley_nacional",
+ "titulo": "Ley del Programa Federal de Dotación de Capital Joven",
+ "sumilla": "Crea una dotación de capital para cada joven que cumple 18 años en las provincias que adhieran por convenio y destinen por ley un porcentaje fijo del excedente de su impuesto a la herencia, con un cofinanciamiento nacional condicionado a la recaudación efectiva y limitado al crédito del presupuesto; las cifras son metas condicionadas a la adhesión.",
+ "cuando": "Fase III (año 4, 2031): el gasto nacional se activa con el primer presupuesto aprobado después de su entrada en vigencia; el acuerdo federal de la Fase III cierra los convenios.",
+ "cuando_breve": "Fase III",
+ "tramite": "Mayoría simple; cámara de origen indistinta (se sugiere el Senado por su contenido federal). No afecta recursos coparticipables.",
+ "motivos": "Buena parte de la distancia entre quienes más y quienes menos tienen no se explica por el esfuerzo, sino por el punto de partida. El impuesto provincial a la transmisión gratuita de bienes grava esa ventaja de origen; el proyecto propone que una parte de lo que recaude por encima de lo previsto se devuelva como oportunidad a todos los jóvenes. El impuesto es provincial, y la Nación no puede disponer de sus recursos. Por eso el programa rige solo en las provincias que lo acuerden mediante convenio y que destinen por ley un porcentaje fijo del excedente de su recaudación. Cada joven con domicilio en esas provincias recibe, al cumplir dieciocho años, una dotación de capital de igual monto para toda su cohorte, que se integra con el aporte provincial y un cofinanciamiento nacional. El cofinanciamiento nacional se calcula sobre lo efectivamente aportado por cada provincia, no puede superarlo y queda limitado al crédito que fije la ley de presupuesto, dentro de la regla de resultado primario no negativo. No hay montos prometidos: la dotación depende de lo que efectivamente se recaude. Los recursos se administran en una cuenta especial excluida de la facultad de disolver fondos, y cada año se publican el excedente, los aportes, la cantidad de jóvenes alcanzados y el monto de la dotación.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Créase el Programa Federal de Dotación de Capital Joven, que otorga una dotación de capital a cada joven, al cumplir dieciocho (18) años, en las provincias y en la Ciudad Autónoma de Buenos Aires que adhieran a él conforme al artículo 3°."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Excedente",
+     "texto": "A los fines de la presente ley, se entiende por excedente la recaudación efectiva del impuesto local a la transmisión gratuita de bienes de una jurisdicción en un año que supere lo previsto para ese año en el convenio del artículo 3°, que se fijará con la estimación de la cuenta fiscal de la sustitución tributaria."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Adhesión por convenio",
+     "texto": "La adhesión se formalizará mediante convenio entre la autoridad de aplicación y la jurisdicción, que deberá haber establecido por ley local el porcentaje fijo del excedente que destina al Programa. El convenio fijará lo previsto para cada año, el plazo mínimo de residencia de los beneficiarios y el procedimiento de transferencia del aporte. Los convenios se ajustarán al acuerdo federal que se celebre sobre el Programa."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Beneficiarios",
+     "texto": "Son beneficiarios las personas que cumplan dieciocho (18) años en el año siguiente al del excedente y que tengan domicilio en la jurisdicción adherida durante el plazo mínimo que fije el convenio, según el Registro Nacional de las Personas (RENAPER). La dotación es personal, se otorga por única vez y no puede cederse antes de su pago."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Monto",
+     "texto": "El monto de la dotación es igual para todos los beneficiarios de una misma jurisdicción y año, y resulta de dividir la suma del aporte provincial y del cofinanciamiento nacional correspondiente por la cantidad de beneficiarios. No se garantiza un monto mínimo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cofinanciamiento nacional",
+     "texto": "El Estado nacional aportará a cada jurisdicción adherida un cofinanciamiento calculado sobre el aporte provincial efectivamente transferido, en la proporción que fije cada ley de presupuesto, que no podrá superar un peso por cada peso aportado por la jurisdicción. El cofinanciamiento se atenderá exclusivamente con el crédito que asigne la ley de presupuesto de cada ejercicio, a partir del primero que se apruebe después de la entrada en vigencia de la presente ley y dentro de la regla de resultado primario no negativo; si el crédito no alcanzara, se distribuirá a prorrata de los aportes provinciales."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cuenta especial",
+     "texto": "Los aportes provinciales y el cofinanciamiento nacional se depositarán en una cuenta especial en el Banco de la Nación Argentina, abierta por jurisdicción, y solo podrán destinarse al pago de las dotaciones. La cuenta especial queda excluida de la facultad de disolver fondos fiduciarios prevista en el artículo 5° de la Ley N° 27.742; su supresión o el cambio de su destino solo podrán disponerse por ley."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Pago",
+     "texto": "La dotación se acreditará, dentro de los noventa (90) días de recibidos el aporte y el cofinanciamiento, en una cuenta a nombre del beneficiario en el Banco de la Nación Argentina o en el banco que indique la jurisdicción, y será de libre disponibilidad."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación será el Ministerio de Trabajo y Desarrollo Social, que podrá encomendar a la Administración Nacional de la Seguridad Social (ANSES) la identificación de los beneficiarios y el pago. Los gastos de administración no podrán atenderse con los recursos de la cuenta especial."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Publicación",
+     "texto": "La autoridad de aplicación publicará cada año, por jurisdicción, el excedente, el aporte provincial, el cofinanciamiento nacional, la cantidad de beneficiarios y el monto de la dotación, y lo informará al Congreso de la Nación."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

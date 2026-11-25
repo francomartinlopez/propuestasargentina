@@ -1,0 +1,107 @@
+{
+ "id": "N111",
+ "tipo": "resolucion",
+ "titulo": "Resolución del Ente Nacional Regulador del Gas y la Electricidad sobre prohibición gradual de artefactos de gas peligrosos, certificación de equipos e instaladores matriculados",
+ "sumilla": "Fija el listado de artefactos de gas peligrosos y un cronograma público y gradual para dejar de fabricarlos, importarlos, comercializarlos e instalarlos; exige certificación vigente de los artefactos y que toda instalación domiciliaria la haga un instalador matriculado, con registro público y verificación por muestreo.",
+ "cuando": "Fase I · año 1 (dentro de los 180 días del decreto «Decreto reglamentario de la Ley de Acceso a Energía Segura en el Hogar»)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "No aplica: resolución del Ente Nacional Regulador del Gas y la Electricidad.",
+ "motivos": "",
+ "visto": "El Expediente N° […], las Leyes Nros. 24.076 (T.O. 2025, Decreto N° 451/2025), 27.742 y […] de Acceso a Energía Segura en el Hogar, los Decretos Nros. 452/2025 y […] (reglamentario de la Ley N° […]), y",
+ "considerando": [
+  "Que el artículo 51 de la Ley N° 24.076 (T.O. 2025), en sus incisos b) y m), faculta al ente regulador a dictar reglamentos de seguridad y normas técnicas y a velar por la protección de la seguridad pública en el uso del gas.",
+  "Que el artículo 161 de la Ley N° 27.742 creó el ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD, constituido por el Decreto N° 452/2025, que ejerce esas facultades.",
+  "Que el artículo 11 de la Ley N° […] de Acceso a Energía Segura en el Hogar encomienda al Ente establecer, con un cronograma público y gradual, la prohibición de fabricar, importar, comercializar e instalar los artefactos que por su diseño presenten riesgo grave de intoxicación por monóxido de carbono, explosión o incendio, y su artículo 12 le encomienda mantener la matrícula de instaladores y el régimen de certificación.",
+  "Que la prohibición debe coordinarse con el programa nacional de recambio, para no dejar a los hogares de menores ingresos sin medios de cocción o calefacción, y prever plazos de adecuación para fabricantes, importadores y comerciantes.",
+  "Que ha tomado intervención el servicio jurídico permanente del Ente.",
+  "Que la presente se dicta en uso de las facultades conferidas por el artículo 51, incisos b) y m), de la Ley N° 24.076 (T.O. 2025) y los artículos 11 y 12 de la Ley N° […]."
+ ],
+ "formula": "Por ello, EL DIRECTORIO DEL ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Artefactos peligrosos",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente resolución establece el listado de artefactos de gas peligrosos y el cronograma de su prohibición gradual, y reglamenta la certificación de artefactos y la matrícula de instaladores, conforme a los artículos 11 y 12 de la Ley N° […]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Artefactos peligrosos",
+     "texto": "Se consideran artefactos peligrosos, a los fines del artículo 11 de la Ley N° […], los que por su diseño presenten riesgo grave de intoxicación por monóxido de carbono, explosión o incendio, conforme a los siguientes criterios:\na) calefactores sin conducto de evacuación de los productos de la combustión al exterior que carezcan de dispositivo de corte por defecto de oxígeno en el ambiente;\nb) artefactos sin dispositivo de seguridad que corte el paso de gas ante la extinción de la llama;\nc) artefactos diseñados para gas envasado que se conecten sin regulador de presión certificado;\nd) los demás que el Ente incorpore al listado por resolución fundada, previa consulta pública.\nEl Ente aprobará y publicará, dentro de los SESENTA (60) días, el listado detallado por tipo de artefacto, con referencia a las normas técnicas aplicables, y lo actualizará cada año."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cronograma de prohibición",
+     "texto": "La prohibición de los artefactos del listado se aplicará en las siguientes etapas, contadas desde la entrada en vigencia de la presente:\na) a los DOCE (12) meses, queda prohibida su fabricación y su importación;\nb) a los DIECIOCHO (18) meses, queda prohibida su comercialización, incluida la venta en línea;\nc) a los VEINTICUATRO (24) meses, queda prohibida su instalación en nuevas conexiones y en reemplazos.\nLos artefactos ya instalados no quedan alcanzados por la prohibición, sin perjuicio de su inclusión prioritaria en el programa nacional de recambio."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Coordinación con el recambio",
+     "texto": "El Ente informará a la autoridad de aplicación de la Ley N° […] el listado de artefactos peligrosos para que el programa de recambio dé prioridad a los hogares que los utilicen. La prohibición de instalación del inciso c) del artículo anterior podrá prorrogarse, por resolución fundada y por única vez, en las localidades donde el programa de recambio no ofrezca reemplazo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Certificación e instaladores",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Certificación de artefactos",
+     "texto": "Solo podrán fabricarse, importarse, comercializarse e instalarse artefactos de gas que cuenten con certificación vigente otorgada por un organismo de certificación reconocido por el Ente, conforme a las normas técnicas vigentes. Cada artefacto llevará la marca de certificación y su número, visibles para el comprador."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Registro público de certificaciones",
+     "texto": "El Ente publicará en su sitio oficial el registro de los artefactos certificados, con su marca, modelo, organismo certificador y vigencia, y el de las certificaciones suspendidas o canceladas."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Instalaciones por matriculados",
+     "texto": "Toda instalación, modificación o habilitación de una instalación domiciliaria de gas y todo recambio de artefactos en el marco de la Ley N° […] deberá ser realizada por un instalador matriculado, que dejará constancia de su matrícula en la documentación de la obra."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Matrícula de instaladores",
+     "texto": "El Ente mantendrá el registro nacional de instaladores matriculados, con la información que remitan las distribuidoras y las autoridades provinciales que otorgan matrículas, y lo publicará en su sitio oficial para consulta de los usuarios. Las distribuidoras no habilitarán instalaciones realizadas por personas sin matrícula vigente."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Verificación por muestreo",
+     "texto": "El Ente verificará cada año, por muestreo, las instalaciones realizadas en el marco de la Ley N° […], en la proporción que fije la reglamentación de esa ley, y publicará los resultados por provincia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Control y disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Control de la comercialización",
+     "texto": "El Ente comunicará el listado y el cronograma a la Secretaría de Producción y Comercio del Ministerio de Economía, a los fines de los reglamentos técnicos y del control de la comercialización que corresponden a esa Secretaría, y coordinará con ella las acciones de fiscalización en los comercios y en la venta en línea."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Incumplimientos",
+     "texto": "Los incumplimientos de las licenciatarias de distribución y de los instaladores matriculados se sancionarán conforme al régimen de la Ley N° 24.076 (T.O. 2025) y a las normas del Ente. Los incumplimientos de fabricantes, importadores y comerciantes se comunicarán a la autoridad competente."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Régimen de certificación de artefactos a gas del ente regulador (normas NAG vigentes): incorpora el listado de artefactos peligrosos y el cronograma de prohibición"
+ ],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,46 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Justicia",
+    "estado": "modificado",
+    "rol": "Opera la plataforma digital, el registro de conciliadores y centros, la escala de honorarios, los datos abiertos y el informe al Congreso. Plataforma, registro y capacitación de conciliadores, honorarios, voto electrónico, datos abiertos y convenios con las jurisdicciones. Ofrece interoperabilidad y capacitación sin costo.",
+    "hoy": "Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos (Subsecretaría de Acceso a la Justicia, Ministerio de Justicia)",
+    "hijos": []
+   },
+   {
+    "nombre": "Servicio Nacional de Conciliación Previa en las Relaciones de Consumo",
+    "estado": "modificado",
+    "rol": "Puede actuar como centro de conciliación de insolvencia de personas humanas.",
+    "hoy": "Creado por la ley «Ley de defensa de la competencia y del consumidor: autonomía de la Autoridad de la Competencia, conciliación previa nacional y préstamo responsable» (Ley N° [—])",
+    "hijos": []
+   },
+   {
+    "nombre": "Tribunales superiores locales",
+    "estado": "existente",
+    "rol": "Asignan juzgados y conectan su expediente electrónico con la plataforma.",
+    "hoy": "Según cada jurisdicción",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Extiende la Central de Deudores a todo prestamista habitual, publica el informe gratuito de deuda total y dicta las normas de los arts. 27 y 28."
+  },
+  {
+   "nombre": "Corte Suprema de Justicia de la Nación",
+   "rol": "Decide si adopta la acordada para la justicia nacional en lo comercial."
+  },
+  {
+   "nombre": "Centros provinciales de conciliación",
+   "rol": "Concilian los casos de sobreendeudamiento en la plataforma nacional, sin costo para el deudor."
+  }
+ ]
+}

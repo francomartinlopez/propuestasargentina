@@ -1,0 +1,63 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría del Interior",
+    "estado": "modificado",
+    "rol": "Pierde la asignación discrecional: solo verifica los supuestos, aplica las fórmulas, gira y publica cada giro en 48 horas. Verifica supuestos, aplica fórmulas, ordena los giros y los publica en 48 horas; sin facultad discrecional. Deja de asignar en forma discrecional: verifica supuestos, aplica las fórmulas de la Comisión Federal de Impuestos, gira en 5 días hábiles y publica cada giro en 48 horas («Ley Convenio de Coparticipación Federal de Impuestos», arts. 19 a 23; designación en «Decreto de aplicación, en el ámbito del Poder Ejecutivo nacional, de la Ley Convenio de Coparticipación Federal de Impuestos», art.",
+    "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete del Interior (DNU 571/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Hacienda",
+    "estado": "modificado",
+    "rol": "Representa a la Nación en la Comisión Federal de Impuestos, suministra datos y publica las transferencias.",
+    "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Coordinación Fiscal Provincial)",
+    "hijos": []
+   },
+   {
+    "nombre": "Banco de la Nación Argentina",
+    "estado": "modificado",
+    "rol": "Transfiere en forma diaria y automática las participaciones y aplica las retenciones que ordene la Comisión. Liquida y transfiere a diario y publica los datos de cada transferencia.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Responsabilidad Fiscal",
+    "estado": "modificado",
+    "rol": "Certifica el cumplimiento del saneamiento que habilita cada transferencia de potestades.",
+    "hoy": "Consejo Federal de Responsabilidad Fiscal (Ley 25.917)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social (ANSES)",
+    "estado": "existente",
+    "rol": "Recibe por presupuesto la fuente de reemplazo del 11 % del IVA.",
+    "hoy": "ANSES (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+    "estado": "modificado",
+    "rol": "Informa la recaudación por jurisdicción y adecua Bienes Personales en cada devolución.",
+    "hoy": "ARCA (Decreto 953/2024)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comisión Federal de Impuestos",
+   "rol": "Organismo fiscal federal: controla la liquidación diaria, calcula los coeficientes, aprueba indicadores y fórmulas de ATN, certifica la neutralidad de cada transferencia de potestades y resuelve la analogía de tributos."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Comunica la aprobación, designa el representante ante la Comisión Federal de Impuestos y solicita la certificación para asumir potestades."
+  }
+ ]
+}

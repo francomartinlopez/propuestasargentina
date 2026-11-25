@@ -1,0 +1,75 @@
+{
+ "id": "N007",
+ "tipo": "resolucion",
+ "titulo": "Resolución del Ministerio de Economía: nómina pública de insumos productivos sin producción local",
+ "sumilla": "Fija la nómina de posiciones NCM de materias primas, químicos, componentes electrónicos y piezas sin oferta local equivalente, tomada del registro único de oferta local, con un criterio público de equivalencia en precio y calidad, revisión semestral con la industria e informe técnico del INTI.",
+ "cuando": "Fase II: se dicta antes del comienzo del año 3 para regir desde la apertura del tramo transitorio; revisiones cada seis meses hasta su cierre.",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (resolución ministerial).",
+ "motivos": null,
+ "visto": "El Expediente N° […], la Ley N° 27.742 y sus modificatorias, el Decreto N° [—] de régimen transitorio de acceso preferente a divisas, la Resolución N° […] de la Secretaría de Producción y Comercio del Ministerio de Economía que creó el Registro Público de Oferta Local, y",
+ "considerando": [
+  "Que el artículo 3° del Decreto N° [—] incorpora al régimen transitorio de acceso preferente a divisas las posiciones de insumos productivos sin producción local equivalente, que debe fijar la autoridad de aplicación sobre la base del registro público de oferta local, con revisión semestral.",
+  "Que el Registro Público de Oferta Local, organizado por rubro y por posición de la Nomenclatura Común del MERCOSUR, es único para la medición del contenido nacional, la exención arancelaria de las grandes inversiones y esta nómina, y publica las posiciones sin oferta local registrada.",
+  "Que una fábrica parada por falta de un insumo importado pierde lo mismo que una que no puede comprar una máquina, y que, a la vez, el acceso preferente no debe desplazar a los proveedores nacionales que cumplen en precio y calidad.",
+  "Que el Instituto Nacional de Tecnología Industrial presta la verificación técnica de la equivalencia de los productos.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente se dicta en uso de las facultades conferidas por la Ley de Ministerios N° 22.520 y sus modificatorias y por el artículo 5° del Decreto N° [—]."
+ ],
+ "formula": "Por ello, EL MINISTRO DE ECONOMÍA RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Nómina",
+     "texto": "Apruébase la nómina pública de insumos productivos sin producción local, integrada por las posiciones arancelarias de la Nomenclatura Común del MERCOSUR (NCM) de materias primas, productos químicos, componentes electrónicos y piezas que se detallan en el Anexo de la presente, a los fines del artículo 3° del Decreto N° [—]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Origen de la nómina",
+     "texto": "La nómina se integra con las posiciones de esas categorías que no registran oferta local en el Registro Público de Oferta Local a la fecha de cada revisión. No se crea un registro distinto."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Oferta local equivalente",
+     "texto": "Se considera que existe oferta local equivalente cuando un proveedor inscripto en el Registro Público de Oferta Local y certificado por el Instituto Nacional de Tecnología Industrial ofrece un producto de la misma posición arancelaria y especificación técnica, con capacidad para abastecer la demanda declarada y a un precio que no supere el costo del producto importado puesto en planta, incluidos el valor en aduana, los tributos a la importación y los gastos de nacionalización."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Revisión semestral",
+     "texto": "La nómina se revisa cada seis (6) meses. Treinta (30) días antes de cada revisión se publica el proyecto de nómina actualizada y se abre una consulta pública de quince (15) días, en la que participan las entidades representativas de la industria y cualquier interesado. El Instituto Nacional de Tecnología Industrial emite un informe técnico sobre las altas y bajas propuestas por razones de equivalencia."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Bajas",
+     "texto": "Sale de la nómina, en la revisión siguiente, toda posición en la que se acredite oferta local equivalente conforme al artículo 3°. La baja no afecta las operaciones de pago ya cursadas."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Altas a pedido de parte",
+     "texto": "Cualquier importador puede solicitar la inclusión de una posición, con la descripción técnica del insumo, su uso productivo y la constancia de que no existe oferta local equivalente. La solicitud se resuelve en la revisión siguiente."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Publicidad",
+     "texto": "La nómina vigente, los proyectos sometidos a consulta, las observaciones recibidas y los informes del Instituto Nacional de Tecnología Industrial se publican en el sitio oficial del Ministerio de Economía, en formato de datos abiertos."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Vigencia y vencimiento",
+     "texto": "La presente rige desde la fecha de apertura del tramo transitorio del mercado de cambios y queda sin efecto de pleno derecho en su fecha de cierre, conforme al artículo 11 del Decreto N° [—]."
+    },
+    {
+     "n": 9,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

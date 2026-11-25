@@ -1,0 +1,98 @@
+{
+ "id": "N110",
+ "tipo": "acuerdo_federal",
+ "titulo": "Acuerdo Federal de Energía Segura en el Hogar",
+ "sumilla": "Acuerda entre la Nación y las provincias, con la adhesión de distribuidoras y cooperativas, el relevamiento común de los hogares sin energía segura, las metas de conexión y de recambio de artefactos por provincia, los aportes de cada parte y la publicación del avance.",
+ "cuando": "Fase I · año 1 (tras la sanción de la ley «Ley de acceso a energía segura en el hogar»)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Convenio entre la Nación y las provincias (art. 125 CN), previsto por el art. 14 de la ley «Ley de acceso a energía segura en el hogar». No requiere ley nacional: el PEN lo aprueba por decreto; cada provincia, por su Legislatura si su Constitución lo exige. Distribuidoras y cooperativas adhieren por acta.",
+ "motivos": "",
+ "visto": "",
+ "considerando": [
+  "Que el presente Acuerdo se celebra entre el ESTADO NACIONAL, representado por el titular de la Secretaría de Energía del Ministerio de Infraestructura y Energía, y las PROVINCIAS que lo suscriben, representadas por sus Gobernadores, en adelante \"las partes\", con la adhesión de las distribuidoras de gas y de las cooperativas de servicios públicos que se incorporen conforme a la cláusula undécima.",
+  "Que, según el Censo 2022 del INDEC, el 41,6 % de las viviendas cocina sin gas de red ni electricidad, y que en las Provincias de Formosa, Corrientes, Chaco y Misiones esa proporción supera el 94 %.",
+  "Que la Ley N° […] de Acceso a Energía Segura en el Hogar prevé su ejecución mediante convenios con las provincias, los municipios, las distribuidoras y las cooperativas, e invita a las provincias a suscribir un acuerdo federal.",
+  "Que las licenciatarias de distribución tienen las obligaciones de los artículos 4°, 5° y 25 de la Ley N° 24.076 (T.O. 2025), que este Acuerdo no modifica."
+ ],
+ "formula": "Por ello, LAS PARTES ACUERDAN:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cláusula primera – Objeto",
+     "texto": "Las partes acuerdan ejecutar en forma coordinada la Ley N° […] de Acceso a Energía Segura en el Hogar, mediante un relevamiento común, metas por provincia, aportes definidos y publicación del avance."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cláusula segunda – Relevamiento común",
+     "texto": "Cada provincia, con sus municipios, relevará dentro de los DOCE (12) meses de la firma los hogares sin acceso a energía segura y las políticas provinciales y municipales vigentes, con el formulario común aprobado por la Secretaría de Energía del Ministerio de Infraestructura y Energía. El Estado nacional brindará asistencia técnica y la información de los registros nacionales disponibles. Las Provincias del Chaco, Formosa, Corrientes y Misiones, si suscriben, iniciarán el relevamiento en los primeros SEIS (6) meses."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cláusula tercera – Políticas vigentes",
+     "texto": "Con los resultados del relevamiento, las partes identificarán las políticas que funcionan, para reforzarlas; las obras en cartera, para completarlas; y las necesidades no atendidas, para diseñar las respuestas que falten."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cláusula cuarta – Metas por provincia",
+     "texto": "La Secretaría de Energía y cada provincia acordarán, en un anexo anual por provincia, las metas de extensión de redes, conexiones internas, artefactos reemplazados y hogares atendidos con soluciones alternativas, con los criterios de prioridad publicados conforme a la ley. Las metas darán prioridad a las conexiones sobre redes y gasoductos ya construidos."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula quinta – Recambio de artefactos",
+     "texto": "Las provincias colaborarán en la identificación de los hogares vulnerables para el programa nacional de recambio de artefactos inseguros, y facilitarán el registro de los instaladores matriculados que actúen en su territorio."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cláusula sexta – Aportes",
+     "texto": "El Estado nacional aportará los fondos que asigne la ley de presupuesto a la ejecución de la ley. Cada provincia aportará lo que fije su anexo anual, en dinero, obras o gestión. Los municipios, las distribuidoras y las cooperativas aportarán lo que convengan en las actas de adhesión. Los desembolsos nacionales se liberarán contra avance certificado."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula séptima – Ejecutores",
+     "texto": "Cada anexo anual fijará el ejecutor de cada obra de red o de conexión, que podrá ser la provincia, el municipio, la distribuidora o la cooperativa, y el responsable de la operación y el mantenimiento."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cláusula octava – Indicadores sanitarios",
+     "texto": "Las provincias informarán al Ministerio de Salud los casos de intoxicación por monóxido de carbono y de incendios domiciliarios vinculados al uso de energía registrados en su territorio, conforme a la metodología común."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cláusula novena – Publicación",
+     "texto": "Las partes publicarán cada semestre, en formato de datos abiertos, el avance de las metas de cada provincia, los fondos aportados y ejecutados por cada parte y los indicadores sanitarios."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cláusula décima – Comisión federal",
+     "texto": "Créase la Comisión Federal de Energía Segura en el Hogar, integrada por un representante del Estado nacional y uno por cada provincia firmante, que acordará el formulario común, aprobará los anexos anuales, seguirá el cumplimiento de las metas y publicará sus actas. Las distribuidoras y cooperativas adheridas participarán con voz."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Cláusula undécima – Adhesión de distribuidoras y cooperativas",
+     "texto": "Las distribuidoras de gas y las cooperativas de servicios públicos podrán adherir al presente Acuerdo mediante un acta con la Secretaría de Energía y la provincia en que prestan el servicio, que fije sus aportes y sus obligaciones de información. La adhesión no modifica las obligaciones de las licencias ni el régimen de autorización de obras de la Ley N° 24.076 (T.O. 2025)."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cláusula duodécima – Adhesión posterior",
+     "texto": "Las provincias que no suscriban el Acuerdo en su firma podrán adherir en cualquier momento, con los mismos derechos y obligaciones. La Ciudad Autónoma de Buenos Aires podrá adherir en iguales términos."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Cláusula decimotercera – Vigencia",
+     "texto": "El presente Acuerdo rige desde su firma o, para cada provincia cuya Constitución exija ratificación legislativa, desde esa ratificación, y por CUATRO (4) años, renovables por acuerdo de las partes. Cualquier parte podrá denunciarlo con CIENTO OCHENTA (180) días de anticipación, sin afectar las obras en ejecución."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Cláusula decimocuarta – Ratificación",
+     "texto": "El presente Acuerdo no requiere aprobación por ley nacional, porque no compromete créditos de ejercicios futuros, no modifica leyes nacionales ni afecta la coparticipación federal de impuestos: los aportes nacionales son los que asigne cada ley de presupuesto a la ejecución de la Ley N° […] de Acceso a Energía Segura en el Hogar. El Poder Ejecutivo nacional lo aprueba por decreto y lo publica en el Boletín Oficial. Cada provincia lo somete a la ratificación de su Legislatura cuando así lo exija su Constitución, y lo publica en su boletín oficial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

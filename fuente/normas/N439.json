@@ -1,0 +1,135 @@
+{
+ "id": "N439",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Agenda Pública y Gestión de Intereses",
+ "sumilla": "Eleva a ley y amplía el registro de audiencias del Decreto 1172/2003: toda reunión de funcionarios y legisladores con gestores de intereses se publica en 72 horas, los gestores profesionales se registran con sus clientes, los funcionarios informan los eventos de recaudación a los que asisten, y las fundaciones y entidades vinculadas a funcionarios, candidatos o autoridades partidarias publican quiénes las financian como condición de su exención impositiva.",
+ "cuando": "Fase I (año 1)",
+ "cuando_breve": "Fase I (2028)",
+ "tramite": "Mayoría simple; cámara de origen indistinta. Invita al Poder Judicial, al Ministerio Público y a las provincias a adherir.",
+ "motivos": "La corrupción rara vez empieza con un soborno. Empieza con el acceso: la reunión que nadie registra, la cena de recaudación donde el empresario va a ser visto por el funcionario, la fundación afín al gobierno de turno que financia actividades sin que se sepa quién pone el dinero. Muchos empresarios de peso asisten de manera sistemática a los eventos de los sucesivos oficialismos, cualquiera sea su signo, para mantener abiertos los canales de diálogo y de negocios. La Argentina regula la gestión de intereses solo por el Decreto 1172/2003, que alcanza únicamente al Poder Ejecutivo, puede modificarse por otro decreto y no prevé sanciones efectivas. El Congreso, donde se votan las leyes que más interesan a los grupos de presión, queda afuera. Esta ley eleva el régimen a ley, lo extiende al Congreso y a los organismos de control, exige publicar cada reunión en setenta y dos horas, crea un registro obligatorio de gestores profesionales con sus clientes y cierra una vía indirecta de financiamiento que el control de campañas no alcanza: las fundaciones y entidades vinculadas a funcionarios, candidatos o autoridades partidarias deberán publicar quiénes las financian si quieren conservar sus beneficios impositivos. No prohíbe reunirse ni aportar: obliga a que se sepa.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y sujetos obligados",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley regula la publicidad de la gestión de intereses ante los poderes públicos nacionales y de la financiación de las entidades vinculadas a quienes ejercen o aspiran a ejercer funciones públicas, para que la ciudadanía conozca quién procura influir en las decisiones públicas y por qué medios."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sujetos obligados",
+     "texto": "Están obligados por esta ley: a) el Presidente y el Vicepresidente de la Nación, el Jefe de Gabinete de Ministros, los ministros, los secretarios y subsecretarios, y los funcionarios con rango de director nacional o superior de la Administración Pública nacional, de los entes descentralizados, de los entes reguladores y de las empresas y sociedades del Estado; b) los diputados y senadores de la Nación y los secretarios y prosecretarios de cada Cámara; c) las autoridades de la Autoridad Nacional de Control y Transparencia, de la Sindicatura General de la Nación, de la Unidad de Información Financiera y el directorio del Banco Central de la República Argentina."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "Se entiende por: a) gestor de intereses: toda persona humana o jurídica que, por sí o en representación de terceros, con o sin retribución, procura influir en una decisión, norma, contratación o política de un sujeto obligado; b) gestor profesional: quien realiza esa actividad por cuenta de terceros a cambio de una retribución; c) audiencia: toda reunión, presencial o a distancia, entre un sujeto obligado o su personal de gabinete y un gestor de intereses, incluidas las solicitadas o concertadas por mensajería o por teléfono."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Agenda pública",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Publicación en setenta y dos horas",
+     "texto": "Cada sujeto obligado publica en el Registro Único de Agenda Pública, dentro de las setenta y dos (72) horas de cada audiencia, la fecha, el lugar o la modalidad, los participantes, el interés representado y por cuenta de quién, el tema tratado y los documentos recibidos. El registro es de acceso libre, en formato de datos abiertos y consultable por sujeto, gestor, tema y fecha."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Eventos de recaudación y actividades de terceros",
+     "texto": "Los sujetos obligados registran también, en el mismo plazo, su asistencia a cenas, eventos o actividades de recaudación, de difusión o de vinculación organizados por empresas, cámaras, fundaciones, asociaciones o partidos, con la identificación del organizador, y los viajes, alojamientos o invitaciones cuyo costo no haya sido pagado por el Estado ni por ellos mismos."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Excepciones",
+     "texto": "No se registran: a) las audiencias sobre materias clasificadas como secretas por ley, que se informan en forma reservada a la Autoridad Nacional de Control y Transparencia; b) las presentaciones escritas que integran un expediente administrativo; c) la atención al público en trámites individuales."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Registro de gestores profesionales",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Inscripción obligatoria",
+     "texto": "Los gestores profesionales se inscriben en el Registro Público de Gestores de Intereses antes de solicitar una audiencia, con su identidad, la de sus clientes, los temas en que los representan y, en el caso de personas jurídicas, su beneficiario final. Actualizan la información dentro de los treinta (30) días de cualquier cambio."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Restricción posterior al cargo",
+     "texto": "Quienes hayan sido sujetos obligados no pueden actuar como gestores profesionales ante el organismo en el que se desempeñaron durante los dos (2) años posteriores a su cese."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Entidades vinculadas",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Entidades vinculadas",
+     "texto": "Son entidades vinculadas las fundaciones, asociaciones civiles, centros de estudio y demás entidades sin fines de lucro: a) en cuyos órganos de dirección o de consejo participen, o hayan participado en los dos (2) años anteriores, sujetos obligados, candidatos a cargos públicos electivos nacionales o autoridades de partidos políticos nacionales; o b) que organicen cenas, eventos o actividades de recaudación con la participación de esas personas."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Publicidad de sus aportantes",
+     "texto": "Las entidades vinculadas publican cada año, en la plataforma de aportes de la Justicia Nacional Electoral y en su propio sitio, la nómina de sus aportantes que hayan contribuido en el año por un monto igual o superior a diez (10) salarios mínimos, vitales y móviles, con el monto y, si es una persona jurídica, su beneficiario final, y sus estados contables. El cumplimiento es condición para gozar de la exención del impuesto a las ganancias y para que los aportes sean deducibles. La Agencia de Recaudación y Control Aduanero (ARCA) suspenderá la exención de la entidad que no cumpla."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Producido destinado a la política",
+     "texto": "Cuando el producido de una actividad de una entidad vinculada se destine, directa o indirectamente, a un partido, alianza, agrupación, precandidatura o candidatura, rige además el régimen de aportes de la Ley N° 26.215 y de la Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Autoridad, sanciones y disposiciones finales",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La Autoridad Nacional de Control y Transparencia es la autoridad de aplicación de esta ley, administra el Registro Único de Agenda Pública y el Registro Público de Gestores de Intereses y controla su cumplimiento. En el ámbito del Congreso actúa en coordinación con las Presidencias de cada Cámara."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Sanciones",
+     "texto": "La omisión de registrar una audiencia, un evento o una invitación, o su registro falso o incompleto, constituye falta grave para el sujeto obligado y, en el caso de los legisladores, se comunica a la Cámara respectiva a los efectos del artículo 66 de la Constitución Nacional. El gestor profesional no inscripto o que oculte a un cliente es sancionado con multa de diez (10) a quinientos (500) salarios mínimos, vitales y móviles y con la suspensión de su inscripción y de la posibilidad de contratar con el Estado nacional por uno (1) a cinco (5) años. Las sanciones firmes se publican."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Decreto 1172/2003",
+     "texto": "El Anexo III del Decreto N° 1172/2003 se aplica en cuanto no se oponga a la presente ley hasta su reglamentación, y el registro existente se integra al Registro Único de Agenda Pública con su información histórica."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Invitación",
+     "texto": "Invítase al Poder Judicial de la Nación, al Ministerio Público y a las provincias y a la Ciudad Autónoma de Buenos Aires a adoptar regímenes equivalentes."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Financiamiento",
+     "texto": "La aplicación de la presente ley se atiende con los créditos de la Autoridad Nacional de Control y Transparencia, cuya dotación incluirá el personal necesario para administrar los registros."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Reglamentación y vigencia",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días. La ley entra en vigencia a los ciento ochenta (180) días de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 18,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 1172/2003, Anexo III (se aplica en cuanto no se oponga; registro integrado)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,62 @@
+{
+ "id": "N413",
+ "tipo": "acuerdo_federal",
+ "titulo": "Acuerdo Federal de Turismo Receptivo",
+ "sumilla": "Nación y provincias acuerdan, en el Consejo Federal de Turismo, una ventanilla única digital para habilitar prestadores, un registro único, la promoción coordinada por mercados y un catálogo público de obras de acceso por polo turístico.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Acuerdo entre la Nación y las provincias (art. 125 CN). No compromete fondos futuros de la Nación: se aprueba por decreto; cada provincia lo ratifica según su Constitución.",
+ "motivos": "",
+ "visto": "",
+ "considerando": [
+  "Que el presente Acuerdo se celebra entre el ESTADO NACIONAL, representado por el titular de la Secretaría de Producción y Comercio del Ministerio de Economía, y las PROVINCIAS y la CIUDAD AUTÓNOMA DE BUENOS AIRES que lo suscriben, en el ámbito del Consejo Federal de Turismo previsto en la Ley N° 25.997.",
+  "Que la habilitación de prestadores es de competencia local y que la dispersión de trámites encarece la formalización del empleo turístico.",
+  "Que los destinos del interior necesitan obras de acceso y servicios priorizadas con criterios públicos."
+ ],
+ "formula": "",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cláusula primera – Objeto",
+     "texto": "El presente Acuerdo tiene por objeto coordinar entre la Nación y las jurisdicciones la habilitación de prestadores turísticos, la promoción internacional y las obras de acceso a los destinos, para aumentar el turismo receptivo y el empleo registrado en el sector."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cláusula segunda – Ventanilla única",
+     "texto": "Las jurisdicciones habilitan a los prestadores turísticos mediante una ventanilla única digital, con plazo máximo de TREINTA (30) días, aprobación automática para las actividades de bajo riesgo y control posterior."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cláusula tercera – Registro único",
+     "texto": "Las partes integran sus registros en un registro único y digital de prestadores turísticos, de consulta pública, que sirve también para los reintegros del impuesto al valor agregado a turistas del exterior."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cláusula cuarta – Promoción coordinada",
+     "texto": "La promoción internacional de las jurisdicciones se coordina con el plan cuatrienal del Instituto Nacional de Promoción Turística, con metas comunes por mercado."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula quinta – Obras de acceso",
+     "texto": "Las partes acuerdan un catálogo público de obras de acceso y servicios por polo turístico, priorizado por visitantes potenciales, empleo y costo, que se financia por convenio específico en cada caso con el plan plurianual de infraestructura y la contrapartida del régimen de grandes inversiones."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cláusula sexta – Información",
+     "texto": "Las partes comparten en formato abierto los datos de ocupación, visitantes y prestadores registrados."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula séptima – Vigencia y ratificación",
+     "texto": "El presente Acuerdo rige desde su aprobación por decreto del Poder Ejecutivo nacional y, para cada jurisdicción, desde su ratificación conforme a su Constitución. No compromete créditos nacionales de ejercicios futuros: cada obra se financia por convenio específico."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

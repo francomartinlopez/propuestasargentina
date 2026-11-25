@@ -1,0 +1,113 @@
+{
+ "id": "N403",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de ratificación del Acuerdo Federal de Tarifas y Tarifa Social y de adhesión a la tarifa social única",
+ "sumilla": "Ratifica el Acuerdo Federal de Tarifas y Tarifa Social, adhiere al registro único y a la tarifa social única, ordena publicar el costo y la cobertura de los servicios provinciales y acercar sus tarifas al costo con el calendario y el tope de la ley nacional, y organiza la recepción de la tarifa social por pasajero.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Según la constitución de cada provincia; mayoría simple salvo que la constitución local exija otra para ratificar convenios.",
+ "motivos": "La Ley nacional de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas establece un registro único y una tarifa social única para la electricidad, el gas, el agua y el transporte, y un cronograma de escalones semestrales para que las tarifas de jurisdicción nacional cubran su costo al cuarto año, con un tope de aumento real en cada escalón. Una parte sustancial de esos servicios —la distribución de electricidad y de gas, buena parte del agua y del transporte de pasajeros— es regulada por la Provincia, de modo que esos criterios solo alcanzan a sus habitantes si la Provincia los adopta. El proyecto ratifica el Acuerdo Federal de Tarifas y Tarifa Social y adhiere a la tarifa social única. Los hogares del registro acceden de oficio a la tarifa social de los servicios provinciales, sin trámites nuevos y sin perder el beneficio que hoy tienen. Ordena publicar el costo y la cobertura de cada servicio y acercar las tarifas a su costo con el mismo calendario, el mismo tope y los mismos resguardos que rigen para los servicios nacionales. En el transporte, la Provincia reduce sus compensaciones a las empresas y recibe en forma automática, según los viajes registrados, la tarifa social por pasajero que financia el Estado nacional. La ley no autoriza gasto adicional.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Ratificación y adhesión",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Ratificación",
+     "texto": "Ratifícase el Acuerdo Federal de Tarifas y Tarifa Social, suscripto el [fecha] entre el Estado nacional y la Provincia de [Provincia], cuya copia autenticada forma parte de la presente ley como Anexo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Adhesión",
+     "texto": "Adhiérese a los artículos 12 a 15 y 17 a 19 de la Ley nacional N° [—] de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas, en lo que corresponde a los servicios públicos de jurisdicción provincial."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La [autoridad provincial con competencia en servicios públicos] es la autoridad de aplicación de la presente ley, con la intervención de los entes reguladores provinciales de cada servicio en lo que corresponda a su competencia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Registro único y tarifa social",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Registro único",
+     "texto": "La Provincia utiliza el registro único de tarifa social previsto en el artículo 14 de la ley nacional como registro de todas sus tarifas sociales. Dentro de los NOVENTA (90) días, la autoridad de aplicación incorporará a él a los beneficiarios de las tarifas sociales provinciales vigentes. No se crearán registros provinciales de tarifa social distintos de aquel."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Tarifa social",
+     "texto": "Los hogares del registro único acceden de oficio, sin trámites nuevos, a la tarifa social de los servicios de electricidad, gas por redes, agua potable y desagües cloacales y transporte público de pasajeros de jurisdicción provincial. La autoridad de aplicación fija el beneficio en cada servicio, que no podrá ser inferior al de la tarifa social provincial vigente a la sanción de la presente ley."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Datos personales",
+     "texto": "Los datos que la Provincia reciba del registro único se usan con la finalidad exclusiva de aplicar la tarifa social, conforme a la Ley nacional N° 25.326 y al artículo 19 de la ley nacional. Los prestadores solo reciben la condición de beneficiario de cada suministro o tarjeta."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Costo, cronograma y transporte",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Costo y cobertura",
+     "texto": "Dentro de los NOVENTA (90) días de la vigencia de la presente ley, la autoridad de aplicación y los entes reguladores provinciales publicarán, por categoría de usuario, el costo y la cobertura inicial de los cargos de distribución de electricidad y de gas que regula la Provincia (valor agregado de distribución), de los servicios de agua potable y desagües cloacales y del transporte público de pasajeros de jurisdicción provincial, con la metodología y los datos utilizados."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cronograma",
+     "texto": "Las tarifas y cargos del artículo anterior se acercan a su costo en escalones semestrales, el 1° de marzo y el 1° de septiembre de cada año, hasta el 1° de septiembre de 2031, en los que se distribuye por partes iguales la brecha inicial. Ningún escalón podrá aumentar la factura residencial media de cada servicio, sumadas las actualizaciones aplicadas desde el escalón anterior, en más de un DIEZ POR CIENTO (10 %) por encima de la variación del índice de precios al consumidor del INDEC del mismo período; la diferencia se suma al escalón siguiente, y el cierre total no podrá demorarse más de un año. No se aplicarán escalones en los meses de mayor consumo de cada servicio ni, en gas por redes, entre el 1° de junio y el 31 de agosto."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Compensaciones al transporte",
+     "texto": "Las compensaciones que la Provincia paga a los prestadores de transporte público de pasajeros de su jurisdicción se reducen en cada escalón en la misma proporción en que aumenta la cobertura, hasta extinguirse con el cierre de la brecha. La tarifa social por pasajero que financia el Estado nacional se recibe en forma automática según los viajes registrados; la autoridad de aplicación designará en el acta de adhesión si se transfiere a la Provincia o directamente a los prestadores."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Validación de viajes",
+     "texto": "Los servicios de transporte público de pasajeros de jurisdicción provincial validarán los viajes con el Sistema Único de Boleto Electrónico (SUBE) o con un sistema interoperable que informe los viajes con tarifa social en el formato que fije la Secretaría de Transporte del Ministerio de Infraestructura y Energía, dentro de los CIENTO OCHENTA (180) días."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Publicación",
+     "texto": "La autoridad de aplicación publicará cada semestre, en formato de datos abiertos, el costo, la cobertura y el avance de cada servicio, los hogares con tarifa social y la tarifa social por pasajero recibida y pagada."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Municipios",
+     "texto": "Invítase a los municipios que regulen servicios de agua potable y desagües cloacales o de transporte público de pasajeros a adherir a la presente ley y al Acuerdo."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Financiamiento",
+     "texto": "La tarifa social de los servicios de jurisdicción provincial se financia con los créditos que asigne la ley de presupuesto provincial o con la estructura tarifaria de cada servicio, salvo la tarifa social por pasajero que financia el Estado nacional. La aplicación de la presente ley no autoriza gasto adicional al previsto en el presupuesto provincial vigente."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial de la Provincia."
+    },
+    {
+     "n": 15,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

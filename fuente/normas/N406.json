@@ -1,0 +1,77 @@
+{
+ "id": "N406",
+ "tipo": "resolucion",
+ "titulo": "Comunicación modelo del BCRA: informe de deuda total, préstamo responsable en bancos y no bancarios, tope a los punitorios y deudores en procedimientos de insolvencia",
+ "sumilla": "Obliga a bancos, proveedores no financieros de crédito y billeteras a informar todas sus financiaciones a personas humanas a la Central de Deudores; crea un informe gratuito de deuda total con la cuota mensual comprometida; exige consultarlo antes de prestar y aplicar el préstamo responsable del art. 36 bis de la Ley 24.240; aplica el tope de 50 % a los punitorios y fija cómo se informan los deudores en conciliación, en plan homologado o liberados.",
+ "cuando": "Fase I (año 1): después de la sanción de «Ley de segunda oportunidad: insolvencia de las personas humanas, concurso preventivo simplificado y prevención del sobreendeudamiento» (para los puntos 2, 3, 6 y 7) y de «Ley de defensa de la competencia y del consumidor: autonomía de la Autoridad de la Competencia, conciliación previa nacional y préstamo responsable» (punto 5); los puntos 1 y 4 pueden dictarse antes.",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (Comunicación «A» del BCRA, dictada por su Directorio).",
+ "motivos": null,
+ "visto": "La Carta Orgánica del Banco Central de la República Argentina, la Ley N° 21.526 de Entidades Financieras, las Leyes Nros. 24.240, 25.065 y 25.326, la Ley N° [—] de defensa de la competencia y del consumidor, la Ley N° [—] de segunda oportunidad, las normas sobre «Proveedores no financieros de crédito», «Central de Deudores del Sistema Financiero» y «Protección de los usuarios de servicios financieros», la Comunicación «A» 7146, y",
+ "considerando": [
+  "Que la irregularidad de las financiaciones de las entidades financieras a las familias alcanzó el 12,8 % en agosto de 2026, y la de los proveedores no financieros de crédito, cuya cartera es casi en su totalidad de personas humanas, el 26,2 % en febrero de 2026.",
+  "Que una persona puede tener deudas simultáneas con bancos, billeteras virtuales, emisoras de tarjetas y comercios, y que ni ella ni quien le presta conocen siempre el total de sus compromisos ni la cuota mensual que suman.",
+  "Que la Comunicación «A» 7146 extendió a los proveedores no financieros de crédito inscriptos el régimen de la Central de Deudores y las normas de protección de los usuarios, y que el artículo 27 de la Ley N° [—] de segunda oportunidad obliga a todo prestamista habitual a informar sus financiaciones a personas humanas.",
+  "Que el artículo 36 bis de la Ley N° 24.240, incorporado por la Ley N° [—] de defensa de la competencia y del consumidor, estableció estándares de préstamo responsable y encomendó a esta Institución dictar las normas pertinentes respecto de las entidades sujetas a su jurisdicción.",
+  "Que la Ley N° [—] de segunda oportunidad repuso el tope de los intereses punitorios y creó procedimientos de insolvencia para las personas humanas cuya situación debe reflejarse en la Central de Deudores.",
+  "Que la presente se dicta en uso de las facultades conferidas por la Carta Orgánica de esta Institución y por las leyes citadas."
+ ],
+ "formula": "A LAS ENTIDADES FINANCIERAS, A LOS PROVEEDORES NO FINANCIEROS DE CRÉDITO, A LOS PROVEEDORES DE SERVICIOS DE PAGO: Nos dirigimos a Uds. para comunicarles que esta Institución adoptó la siguiente resolución:",
+ "capitulos": [
+  {
+   "titulo": "Comunicación «A» […] – Ref.: Circular […]. Central de Deudores. Informe de deuda total. Préstamo responsable. Intereses punitorios. Deudores en procedimientos de insolvencia.",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Punto 1 – Alcance",
+     "texto": "Las disposiciones de la presente se aplican a las entidades financieras, a los proveedores no financieros de crédito, incluidas las empresas no financieras emisoras de tarjetas de crédito o de compra, y a los proveedores de servicios de pago que ofrezcan crédito por medio de billeteras o cuentas digitales, en adelante «los sujetos alcanzados», respecto de las financiaciones a personas humanas."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Punto 2 – Información a la Central de Deudores",
+     "texto": "Disponer que los sujetos alcanzados informen mensualmente a la Central de Deudores del Sistema Financiero todas sus financiaciones a personas humanas, cualquiera sea su monto total de cartera, con el saldo, la cuota mensual del período, el plazo residual y la situación de cada deudor, conforme al artículo 27 de la Ley N° [—] de segunda oportunidad. Los proveedores que ofrezcan crédito al público en forma habitual y no estén inscriptos en los registros de proveedores no financieros de crédito deberán inscribirse dentro de los NOVENTA (90) días. Quedan exceptuados quienes registren financiaciones a personas humanas por un total inferior al monto que fije esta Institución."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Punto 3 – Informe de deuda total",
+     "texto": "Esta Institución pondrá a disposición de cada persona humana, en forma gratuita, en línea y con validación de identidad digital, un informe de deuda total que reúna todas sus financiaciones informadas por los sujetos alcanzados, con el acreedor, el saldo, la cuota mensual comprometida, el plazo residual, la situación y el costo financiero total de cada una, y la suma de las cuotas mensuales. El informe podrá descargarse y compartirse con un proveedor o con un conciliador por decisión de la persona."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Punto 4 – Consulta previa",
+     "texto": "Disponer que, antes de otorgar o ampliar una financiación para consumo a una persona humana, los sujetos alcanzados consulten el informe de deuda total o la información equivalente de la Central de Deudores y conserven constancia de la consulta, a los fines de la evaluación de la capacidad de pago prevista en el artículo 36 bis de la Ley N° 24.240."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Punto 5 – Préstamo responsable",
+     "texto": "Disponer que los sujetos alcanzados apliquen el artículo 36 bis de la Ley N° 24.240 y las normas que lo reglamentan. En particular:\n5.1. Documentarán la evaluación de la capacidad de pago de cada persona humana, que considerará sus ingresos y la suma de las cuotas de todas sus financiaciones según el punto 3.\n5.1 bis. Relación de referencia. Cuando la suma de las cuotas mensuales de todas las financiaciones de la persona, incluida la que se otorga o amplía, supere el TREINTA POR CIENTO (30 %) de sus ingresos mensuales netos acreditados, el sujeto alcanzado solo podrá otorgar o ampliar la financiación si entrega previamente a la persona, en forma destacada y por escrito o por medio digital, el resultado de la evaluación con esa relación y el importe total a pagar, y obtiene su consentimiento expreso para esa operación. Conservará constancia de ambos. Esta relación no rige para los créditos con garantía hipotecaria sobre la vivienda única, que se evalúan conforme a sus normas propias.\n5.2. Informarán en forma destacada el costo financiero total efectivo anual y el importe total a pagar en toda oferta y antes de la contratación, incluidas las ofertas preaprobadas por canales digitales.\n5.3. En las financiaciones cuyo costo financiero total supere el umbral de crédito de alto costo que fije la autoridad de aplicación de la Ley N° 24.240 con intervención de esta Institución, entregarán a la persona el resultado de la evaluación y no renovarán ni refinanciarán la financiación sin su consentimiento expreso."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Punto 6 – Intereses punitorios",
+     "texto": "Establecer que, en las financiaciones para consumo a personas humanas, incluidas las de tarjetas de crédito, los intereses punitorios no podrán superar el CINCUENTA POR CIENTO (50 %) de la tasa de interés compensatoria aplicada y no serán capitalizables, y que no podrán cobrarse cargos por mora o por gestión de cobranza distintos de esos intereses, conforme al artículo 36 ter de la Ley N° 24.240 y al artículo 18 de la Ley N° 25.065, en el texto de la Ley N° [—] de segunda oportunidad."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Punto 7 – Deudores en procedimientos de insolvencia",
+     "texto": "Disponer que los sujetos alcanzados:\n7.1. Informen a la Central de Deudores la situación «en conciliación», «en plan de pagos homologado» o «extinguida por liberación» de las financiaciones comprendidas en los procedimientos de la Ley N° [—] de segunda oportunidad, desde la notificación que reciban por la plataforma de esa ley.\n7.2. Desde la notificación de la admisión, suspendan los intereses punitorios y los cargos por mora, y no debiten de las cuentas de la persona deudora cuotas de financiaciones comprendidas que afecten el ingreso protegido.\n7.3. Clasifiquen al deudor que cumple regularmente un plan homologado según su cumplimiento del plan y no según el atraso anterior, y apliquen a las financiaciones extinguidas por liberación el plazo de registro del inciso 4 del artículo 26 de la Ley N° 25.326."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Punto 8 – Transparencia",
+     "texto": "Esta Institución publicará cada trimestre, por sujeto alcanzado, la cartera de financiaciones a personas humanas, su irregularidad y la cantidad de financiaciones en procedimientos de la Ley N° [—] de segunda oportunidad, con resguardo del secreto financiero y de los datos personales."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Punto 9 – Vigencia",
+     "texto": "Los puntos 1, 4, 5 y 6 entrarán en vigencia a los TREINTA (30) días de la difusión de la presente; los puntos 2, 3 y 8, a los CIENTO OCHENTA (180) días; y el punto 7, con la entrada en vigencia de la Ley N° [—] de segunda oportunidad."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Normas BCRA «Proveedores no financieros de crédito», «Central de Deudores del Sistema Financiero», «Protección de los usuarios de servicios financieros» y «Tasas de interés en las operaciones de crédito»: se complementan"
+ ],
+ "deroga": [],
+ "variantes": null
+}

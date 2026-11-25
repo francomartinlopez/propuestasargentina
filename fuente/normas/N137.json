@@ -1,0 +1,78 @@
+{
+ "id": "N137",
+ "tipo": "decreto",
+ "titulo": "Decreto de asignación a la Secretaría de Obras Públicas, Agua y Vivienda de la ejecución del plan nacional de saneamiento",
+ "sumilla": "Asigna a la Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía, que conserva los recursos del ENOHSA disuelto, la ejecución del plan nacional de saneamiento con las provincias, sin crear un ente nuevo, y le encomienda negociar el acuerdo federal de metas cloacales, el convenio del Acueducto Región Noroeste y la adenda de metas cloacales con el operador de AySA.",
+ "cuando": "Fase I (antes de la firma del acuerdo «Acuerdo federal de saneamiento: metas de cobertura cloacal por provincia»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: decreto simple de organización del Poder Ejecutivo nacional (art. 99, inc. 1, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley de Ministerios N° 22.520 (t.o. Decreto N° 438/92) y sus modificatorias, en especial la Ley N° [—], la Ley N° 24.156 de Administración Financiera, el Decreto N° [—] de estructura del Poder Ejecutivo nacional y el Decreto N° 1020/2024, y",
+ "considerando": [
+  "Que, según el Censo Nacional de Población, Hogares y Viviendas 2022 del INDEC, el 37,4 % de las viviendas del país no tiene desagüe a red cloacal, y que en las Provincias de Misiones, Santiago del Estero, Chaco y Formosa esa proporción supera el 55 %.",
+  "Que el Decreto N° 1020/2024 dispuso la disolución del Ente Nacional de Obras Hídricas de Saneamiento y, por su artículo 2°, transfirió sus recursos a la Subsecretaría de Recursos Hídricos.",
+  "Que el Gobierno nacional se propone acordar con las provincias un plan nacional de saneamiento con metas de cobertura cloacal por provincia y año, y acompañar a la Provincia de Buenos Aires en el financiamiento del Acueducto Región Noroeste.",
+  "Que para ejecutar ese plan no es necesario crear un ente nuevo, sino asignar la función a la Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía, que por el decreto de estructura recibió las unidades, los recursos y la experiencia de la ex Subsecretaría de Recursos Hídricos, mediante la incorporación del objetivo respectivo.",
+  "Que en el área de la concesión de Agua y Saneamientos Argentinos S.A. corresponde que el operador asuma metas de expansión cloacal, mediante una adenda negociada que se apruebe por decreto con control del ente regulador.",
+  "Que ha tomado intervención el servicio jurídico permanente del ministerio con competencia en economía e infraestructura.",
+  "Que el presente se dicta en uso de las facultades conferidas por el artículo 99, inciso 1, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objetivos de la Secretaría de Obras Públicas, Agua y Vivienda",
+     "texto": "Incorpóranse a los objetivos de la Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía, aprobados por el decreto de estructura previsto en el artículo 8° de la Ley de Ministerios, los siguientes:\n«24. Ejecutar el plan nacional de saneamiento con las provincias, los municipios, las cooperativas y los operadores de agua y saneamiento, con metas de cobertura cloacal por provincia y por año.\n25. Elaborar, con consulta al Ministerio de Salud, la cartera de obras de agua y saneamiento priorizada por riesgo sanitario, y publicar su avance físico y financiero.\n26. Celebrar y administrar los convenios con las provincias para la ejecución del plan y para el financiamiento de obras de agua y saneamiento de interés federal.»"
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sin ente nuevo",
+     "texto": "La ejecución del plan nacional de saneamiento no requiere la creación de un ente u organismo. La Secretaría de Obras Públicas, Agua y Vivienda aplicará a ese fin los recursos que la ex Subsecretaría de Recursos Hídricos recibió por el artículo 2° del Decreto N° 1020/2024 y los que le asigne la ley de presupuesto."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Acuerdo federal de saneamiento",
+     "texto": "Encomiéndase a la Secretaría de Obras Públicas, Agua y Vivienda negociar con las provincias el acuerdo federal de saneamiento con la meta de reducir a la mitad, al 10 de diciembre de 2035, el porcentaje de viviendas sin desagüe a red cloacal de cada provincia, con prioridad para las Provincias de Misiones, Santiago del Estero, Chaco y Formosa, y elevarlo para su firma dentro de los CIENTO OCHENTA (180) días."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Acueducto Región Noroeste",
+     "texto": "Encomiéndase a la Secretaría de Obras Públicas, Agua y Vivienda, con la intervención de la Secretaría de Finanzas del Ministerio de Economía, negociar con la Provincia de Buenos Aires el convenio de financiamiento del Acueducto Región Noroeste, con crédito de organismos multilaterales y contratos de agua de largo plazo con los usuarios industriales de su traza."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Metas cloacales en el área de la concesión federal",
+     "texto": "Instrúyese a la Secretaría de Obras Públicas, Agua y Vivienda para que verifique que el contrato con el operador privado de Agua y Saneamientos Argentinos S.A. fije metas públicas de expansión cloacal en el conurbano bonaerense compatibles con el plan y, si no alcanzan, negocie su incorporación en una adenda. La adenda se aprobará por decreto, previa intervención del ente regulador del servicio, que controlará su cumplimiento. Las metas las financia el operador con la tarifa, sin aportes del Tesoro nacional."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Publicidad",
+     "texto": "La Secretaría de Obras Públicas, Agua y Vivienda publicará en su sitio oficial, en formato de datos abiertos, la cartera de obras, las metas por provincia, los convenios celebrados y el avance de cada obra, y las licitaciones y contrataciones se publicarán en el sistema de compras públicas abiertas."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Financiamiento",
+     "texto": "Lo dispuesto en el presente decreto no implica aumento de la estructura organizativa ni del gasto, y se atenderá con los créditos asignados a la jurisdicción en la ley de presupuesto."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 9,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto de estructura del Poder Ejecutivo nacional (objetivos de la Secretaría de Obras Públicas, Agua y Vivienda)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

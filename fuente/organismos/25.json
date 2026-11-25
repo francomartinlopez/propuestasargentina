@@ -1,0 +1,68 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "existente",
+    "rol": "Coordina con la política cambiaria.",
+    "hoy": "Ministerio de Economía (Secretaría de Política Económica)",
+    "hijos": [
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+      "estado": "existente",
+      "rol": "Comprobante de exportación de servicios que se vincula al cobro. Dicta la resolución y opera el canal simple. Aplica el bono y la reducción de Ganancias y suministra datos anonimizados para la evaluación. Suministra datos anonimizados y emite el comprobante de exportación de servicios. Asistencia técnica, intercambio de información y aplicación de las retenciones y del crédito por impuestos del exterior.",
+      "hoy": "ARCA",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Producción y Comercio",
+      "estado": "existente",
+      "rol": "Articula con el régimen de la Ley 27.506. Aplica la prórroga, contrata la evaluación bienal y la publica.",
+      "hoy": "Subsecretaría de Industria y Economía del Conocimiento",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Hacienda",
+      "estado": "existente",
+      "rol": "Fija el cupo fiscal anual en el proyecto de presupuesto con el tope del art. 10. Negocia el contenido técnico y actúa como autoridad competente del convenio (acuerdo mutuo, art. 206 de la Ley 11.683).",
+      "hoy": "Secretaría de Hacienda, con la Subsecretaría de Presupuesto",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Producción y Comercio del Ministerio de Economía",
+      "estado": "modificado",
+      "rol": "Aplica la prioridad dentro del cupo, selecciona al evaluador y responde públicamente a cada evaluación.",
+      "hoy": "Subsecretaría de Industria y Economía del Conocimiento (Secretaría de Industria, Comercio y de la PyME)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "existente",
+    "rol": "Conduce la negociación, firma y canje de notas.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Dicta la comunicación y publica los cobros por este mecanismo."
+  },
+  {
+   "nombre": "Universidades nacionales o institución académica pública",
+   "rol": "Evalúa cada dos años resultados y costo fiscal del régimen."
+  },
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Aprueba el convenio por ley."
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "id": "N297",
+ "tipo": "resolucion",
+ "titulo": "Resolución del Ministerio de Salud: nomenclador del Programa SUMAR+ con pago por control efectivo de hipertensión y diabetes",
+ "sumilla": "Incorpora al plan de prestaciones del Programa SUMAR+ el pago semestral al centro de cabecera por cada persona con hipertensión o diabetes efectivamente controlada, sobre la asignación nominal de cada persona a un centro, con la meta de 50 % de los hipertensos y diabéticos asignados con control registrado al fin de la Fase II.",
+ "cuando": "Fase I",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: resolución del Ministerio de Salud (modifica el Manual y Reglamento Operativo del SUMAR+).",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° 26.529, la Ley N° 25.326, la Resolución Conjunta N° 1/2024 de la Secretaría de Acceso y Equidad en Salud, la Resolución del Ministerio de Salud N° 1445 del 14 de octubre de 2026, y",
+ "considerando": [
+  "Que el Programa SUMAR+ registra a la población con cobertura pública exclusiva y transfiere recursos a las jurisdicciones para pagar a los centros de salud por las prestaciones brindadas, conforme el Manual y Reglamento Operativo aprobado por la Resolución Conjunta N° 1/2024 de la Secretaría de Acceso y Equidad en Salud.",
+  "Que la Resolución del Ministerio de Salud N° 1445/2026 aprobó el Plan Nacional de Abordaje Integral de Salud Vascular 2026-2030, que se propone traducir progresivamente sus intervenciones en prestaciones concretas del sistema de salud, y que corresponde fijarle metas numéricas y definir las prestaciones que se pagan.",
+  "Que las enfermedades crónicas no transmisibles son las principales causas de muerte en el país y se controlan mejor en el primer nivel de atención, cerca de cada persona, que en una guardia.",
+  "Que el treinta y cinco coma ocho por ciento (35,8 %) de la población depende solo del sistema público de salud, según el Censo 2022.",
+  "Que pagar por control efectivo, y no solo por consulta, orienta a los equipos de cabecera hacia el resultado que importa para la salud de cada persona.",
+  "Que el servicio jurídico permanente ha tomado la intervención que le compete.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por la Ley de Ministerios N° 22.520 (t.o. Decreto N° 438/92) y sus modificatorias."
+ ],
+ "formula": "Por ello, EL MINISTRO DE SALUD RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Nuevas prestaciones",
+     "texto": "Incorpóranse al plan de prestaciones pagadas del Programa SUMAR+ las prestaciones «Control efectivo de hipertensión arterial» y «Control efectivo de diabetes mellitus tipo 2», con el alcance de la presente."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Asignación a un centro de cabecera",
+     "texto": "Cada persona inscripta en el Programa SUMAR+ queda asignada a un centro de salud del primer nivel y a su equipo de cabecera, según su domicilio o su elección. Las prestaciones del artículo anterior se pagan al centro al que la persona está asignada."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Población comprendida",
+     "texto": "Las prestaciones comprenden a las personas de dieciocho (18) años o más inscriptas en el Programa con diagnóstico registrado de hipertensión arterial o de diabetes mellitus tipo 2."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Control efectivo de hipertensión arterial",
+     "texto": "Se considera que hubo control efectivo de hipertensión arterial en un semestre cuando la persona tuvo al menos dos (2) controles registrados con valores de presión arterial y el último valor registrado fue inferior a ciento cuarenta (140) milímetros de mercurio de presión sistólica y a noventa (90) de presión diastólica."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Control efectivo de diabetes",
+     "texto": "Se considera que hubo control efectivo de diabetes mellitus tipo 2 en un semestre cuando la persona tuvo al menos dos (2) controles registrados y una determinación de hemoglobina glicosilada con resultado inferior al ocho por ciento (8 %)."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Valor y pago",
+     "texto": "Cada prestación se paga una vez por semestre y por persona, por el valor que fija la Secretaría de Gestión Sanitaria del Ministerio de Salud en la tabla de prestaciones del Programa, a través de las transferencias a las jurisdicciones y conforme los procedimientos de validación y auditoría del Manual y Reglamento Operativo."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Metas",
+     "texto": "Fíjase como meta que el cincuenta por ciento (50 %) de las personas con hipertensión arterial o diabetes asignadas a un centro de cabecera tenga control registrado al 10 de diciembre de 2030, con metas intermedias del veinte por ciento (20 %) al 10 de diciembre de 2028 y del treinta y cinco por ciento (35 %) al 10 de diciembre de 2029. Las metas forman parte del Plan Nacional de Abordaje Integral de Salud Vascular 2026-2030."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Información pública",
+     "texto": "El Ministerio de Salud publica cada semestre, por jurisdicción, la cantidad de personas asignadas a un centro de cabecera, la de personas con hipertensión o diabetes con control registrado y la de personas con control efectivo, sin datos que permitan identificar a ninguna persona."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Datos",
+     "texto": "Los datos clínicos se registran en la historia clínica y en el sistema de información del Programa, con la confidencialidad que exigen la Ley N° 26.529 y la Ley N° 25.326, y se usan solo para la atención, la liquidación de las prestaciones y la elaboración de indicadores."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Adecuación",
+     "texto": "La Secretaría de Gestión Sanitaria adecua, dentro de los sesenta (60) días de la publicación de la presente, el Manual y Reglamento Operativo aprobado por la Resolución Conjunta N° 1/2024 y los compromisos anuales de gestión con las jurisdicciones, e incorpora las metas del artículo 7°."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande la presente se atienden con los créditos asignados al Programa SUMAR+."
+    },
+    {
+     "n": 12,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Manual y Reglamento Operativo del Programa SUMAR+ (Resolución Conjunta 1/2024 de la Secretaría de Acceso y Equidad en Salud): se incorporan dos prestaciones al plan de servicios"
+ ],
+ "deroga": [],
+ "variantes": null
+}

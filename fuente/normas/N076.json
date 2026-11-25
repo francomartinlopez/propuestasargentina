@@ -1,0 +1,110 @@
+{
+ "id": "N076",
+ "tipo": "decreto",
+ "titulo": "Reglamentación del régimen de competitividad industrial",
+ "sumilla": "Reglamenta la ley «Ley de régimen de competitividad industrial con eslabones prioritarios»: designa la autoridad de aplicación, fija la metodología de selección de eslabones, el contenido de los programas sectoriales y de las actas, el bono, la verificación anual con certificación del INTI, la pérdida proporcional, la evaluación con universidades nacionales de cada región y el procedimiento de cierre y renovación de los programas.",
+ "cuando": "Fase II (años 2-3), dentro de los 90 días de publicada la ley «Ley de régimen de competitividad industrial con eslabones prioritarios»; primeros programas en ejecución en la Fase III",
+ "cuando_breve": "Fase II",
+ "tramite": "Decreto reglamentario (art. 99 inc. 2 CN); refrenda el ministro de Economía. Solo puede dictarse después de la ley «Ley de régimen de competitividad industrial con eslabones prioritarios».",
+ "motivos": null,
+ "visto": "El Expediente N° […], la Ley N° [—] de Régimen de Competitividad Industrial con Eslabones Prioritarios, el Decreto-Ley N° 17.138/57, y",
+ "considerando": [
+  "Que la Ley N° [—] creó el Régimen de Competitividad Industrial con Eslabones Prioritarios, con apoyos de transición condicionados a metas de empleo formal, inversión y compra nacional, evaluación independiente y cierre de los programas que no cumplen, y derogó el Decreto N° 379/2001.",
+  "Que su artículo 22 encomienda al Poder Ejecutivo nacional su reglamentación dentro de los noventa (90) días de su publicación, y su artículo 7° le delega fijar el porcentaje del bono de crédito fiscal dentro del tope legal.",
+  "Que la selección de eslabones y la verificación de metas deben hacerse con indicadores y fuentes oficiales conocidos de antemano, para evitar que la selección la capturen intereses particulares.",
+  "Que la evaluación por universidades nacionales de la región de cada polo aporta independencia y conocimiento del territorio, y que su calendario debe permitir decidir a tiempo la renovación o el cierre de cada programa.",
+  "Que ha tomado intervención el servicio jurídico permanente del Ministerio de Economía.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° [—] al Ministerio de Economía, que la ejercerá por intermedio de la Secretaría de Producción y Comercio."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Metodología de selección",
+     "texto": "Dentro de los SESENTA (60) días, la autoridad de aplicación publicará la metodología para aplicar los criterios del artículo 3° de la ley, con los siguientes indicadores mínimos: a) encadenamiento: proporción de las ventas del eslabón destinadas a la energía, la minería y el agro; b) contenido tecnológico: gasto en investigación y desarrollo y personal técnico por puesto de trabajo; c) empleo calificado: proporción de profesionales y técnicos en el empleo registrado; d) potencial exportador: proporción exportada de la producción y su evolución; y e) ventajas del país: disponibilidad local de insumos, conocimiento y demanda. Las fuentes serán las del Instituto Nacional de Estadística y Censos (INDEC), del Sistema Integrado Previsional Argentino y de la Agencia de Recaudación y Control Aduanero (ARCA)."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Programas sectoriales",
+     "texto": "El programa sectorial del artículo 8° de la ley contendrá: a) un diagnóstico del eslabón y de sus polos; b) metas agregadas de empleo registrado, inversión, compra nacional y exportaciones; c) los instrumentos que se aplicarán y el cupo de bono asignado dentro del cupo anual; y d) su plazo. Los programas de la primera lista se aprobarán dentro de los CIENTO VEINTE (120) días de la entrada en vigencia del presente decreto, previa consulta pública por TREINTA (30) días."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Actas de compromiso",
+     "texto": "Podrán suscribir el acta del artículo 9° de la ley las empresas radicadas en el país que produzcan bienes del eslabón. El acta fijará la línea de base de cada meta, calculada con el promedio de los DOCE (12) meses anteriores, y metas anuales propuestas por la empresa y aprobadas por la autoridad de aplicación, que no podrán ser inferiores a esa línea de base. Su plazo no excederá el del programa sectorial."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Porcentaje del bono",
+     "texto": "El bono de crédito fiscal del inciso a) del artículo 7° de la ley será del DIEZ POR CIENTO (10 %) del precio de venta neto de impuestos de los bienes alcanzados. Ese porcentaje es el tope de la sumatoria anual de los beneficios del Decreto N° 379/2001 y sus modificatorias, fijado en el último párrafo del inciso b) de su artículo 3° (texto según el Decreto N° 209/2022), y constituye el tope legal. Si a la fecha de vencimiento o derogación de ese decreto el tope fuera distinto, el bono será igual al tope vigente a esa fecha, que la autoridad de aplicación publicará, con cita de la norma de la que surge, dentro de los TREINTA (30) días. El monto total de bonos queda limitado por el cupo del artículo 20 de la ley."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Emisión del bono",
+     "texto": "La Agencia de Recaudación y Control Aduanero (ARCA) emitirá el bono a solicitud de la autoridad de aplicación, previa acreditación de la venta mediante el comprobante electrónico correspondiente y de la vigencia del acta, y dictará las normas para su transferencia por única vez y su aplicación al pago de impuestos nacionales."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Verificación anual",
+     "texto": "El período de verificación del artículo 10 de la ley es el año calendario. Las empresas presentarán una declaración jurada de cumplimiento antes del 31 de marzo del año siguiente; el INTI emitirá su certificación dentro de los SESENTA (60) días, y la autoridad de aplicación publicará los resultados por empresa dentro de los CIENTO VEINTE (120) días del cierre del período."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Pérdida proporcional",
+     "texto": "A los fines del artículo 11 de la ley, el grado de cumplimiento de cada período es el promedio simple del cumplimiento de las tres metas, cada una con un máximo del CIEN POR CIENTO (100 %). Si el grado es igual o superior al NOVENTA POR CIENTO (90 %), no hay pérdida. Si es inferior, la empresa pierde el bono del período en la proporción del incumplimiento y devuelve en esa proporción lo percibido, con los intereses que fije la ARCA."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Evaluación por universidades",
+     "texto": "La autoridad de aplicación celebrará los convenios del artículo 13 de la ley con universidades nacionales con sede en la región de los polos de cada programa. La universidad publicará su metodología antes de iniciar la evaluación; sus evaluadores declararán no tener vínculos laborales ni contractuales con las empresas beneficiarias. La evaluación de medio término se publicará a los VEINTICUATRO (24) meses del inicio del programa y la final, a los CUARENTA Y DOS (42) meses."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Procedimiento de cierre",
+     "texto": "Antes de cerrar un programa conforme al artículo 14 de la ley, la autoridad de aplicación notificará a las empresas y cámaras del sector, que podrán presentar su descargo dentro de los QUINCE (15) días hábiles. La resolución de cierre será fundada y se publicará junto con la evaluación y el informe de metas."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Renovación",
+     "texto": "La solicitud de renovación del artículo 15 de la ley se presentará después de publicada la evaluación final. La resolución que la otorgue fijará nuevas metas, que no podrán ser inferiores a las alcanzadas en el programa anterior."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Certificación del INTI",
+     "texto": "Dentro de los SESENTA (60) días, la autoridad de aplicación y el INTI celebrarán un convenio con el protocolo de certificación de la compra nacional y de los requisitos técnicos previsto en el artículo 2° del Decreto-Ley N° 17.138/57, en el texto incorporado por el artículo 18 de la ley, y con la asistencia técnica a las empresas beneficiarias."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Financiamiento de la innovación",
+     "texto": "La autoridad de aplicación comunicará a la Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Agencia I+D+i) la nómina de empresas con acta vigente, para que las considere en sus convocatorias conforme al inciso c) del artículo 17 de la ley."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Publicidad",
+     "texto": "La información del artículo 16 de la ley se publicará en formato de datos abiertos y se actualizará cada trimestre."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el BOLETÍN OFICIAL."
+    },
+    {
+     "n": 16,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

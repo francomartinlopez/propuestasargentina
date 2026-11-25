@@ -1,0 +1,67 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Aprueba adhesiones y Planes de Contrapartida, firma convenios de catálogos, selecciona auditores y aplica infracciones. Fija la escala de montos mínimos y la metodología del beneficio fiscal, aprueba adhesiones y migraciones, selecciona auditores y aplica infracciones. Firma el Acuerdo por la Nación, publica los catálogos en un sitio nacional único y verifica que los Planes de Contrapartida elijan obras del catálogo.",
+    "hoy": "Ministerio de Economía (Decreto 749/2024), con el Comité Evaluador de Proyectos",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Producción y Comercio",
+      "estado": "modificado",
+      "rol": "Lleva el registro público único de oferta local y mide el contenido nacional. Lleva el registro de oferta local que define la base de la curva.",
+      "hoy": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Instituto Nacional de Tecnología Industrial (INTI)",
+      "estado": "modificado",
+      "rol": "Certifica técnicamente a los proveedores inscriptos (función nueva asignada por ley).",
+      "hoy": "INTI",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+      "estado": "existente",
+      "rol": "Aplica la exención limitada de importación y ejecuta la devolución de beneficios. Interviene en la metodología del beneficio fiscal, aplica la exención limitada y ejecuta la devolución.",
+      "hoy": "ARCA, ente autárquico en el ámbito del Ministerio de Economía",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Auditor externo",
+    "estado": "nuevo",
+    "rol": "Verifican contrapartida y contenido nacional: primera auditoría a los 18 meses, luego anual. Verifican contrapartida y contenido nacional (18 meses y luego cada año) y publican sus informes.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Asiste técnicamente a las provincias en la evaluación de las obras, con las Secretarías de Obras Públicas, Agua y Vivienda y de Transporte, y cruza el catálogo con la cartera del plurianual.",
+    "hoy": "Secretaría de Coordinación de Infraestructura (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior",
+    "estado": "existente",
+    "rol": "Consulta y articulación con los municipios del área de influencia.",
+    "hoy": "Vicejefatura de Gabinete del Interior (Jefatura de Gabinete de Ministros; Decreto 581/2026), Subsecretarías de Relaciones con las Provincias y con los Municipios",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Provincias y municipios",
+   "rol": "Elaboran los catálogos públicos de obras y aprueban cada Plan de Contrapartida."
+  }
+ ]
+}

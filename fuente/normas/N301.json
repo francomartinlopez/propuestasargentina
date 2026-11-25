@@ -1,0 +1,105 @@
+{
+ "id": "N301",
+ "tipo": "resolucion",
+ "titulo": "Resolución del Ministerio de Salud: historia clínica compartida entre subsistemas, bajo control del paciente",
+ "sumilla": "Establece la historia clínica compartida entre hospitales públicos, obras sociales, PAMI y prepagas, con modelo federado, conjunto mínimo de datos, estándares de interoperabilidad, control del paciente sobre el acceso, reglas de seguridad y un cronograma de integración; alimenta el Registro Nacional de Listas de Espera.",
+ "cuando": "Fase II · después de la ley «Ley de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud» (cuyo art. 14 obliga a interoperar a prestadores y financiadores); integración nacional a los 12 meses y de obras sociales y prepagas a los 18 meses",
+ "cuando_breve": "Fase II · después de la ley «Ley de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud»",
+ "tramite": "No aplica: resolución del Ministerio de Salud, en ejercicio de la Ley 27.706 y del art. 14 de la Ley N° [—]. No pasa por el Congreso.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° 27.706 y su Decreto reglamentario N° 393/2023, la Resolución de la entonces Secretaría de Gobierno de Salud N° 115/2019, la Ley N° [—] de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud, las Leyes N° 25.326 y N° 26.529, y",
+ "considerando": [
+  "Que la Ley N° 27.706 creó el Programa Federal Único de Informatización y Digitalización de las Historias Clínicas y prevé, en su artículo 2°, inciso d), la interoperabilidad entre los sistemas público, privado y de la seguridad social.",
+  "Que el artículo 14 de la Ley N° 26.529 establece que el paciente es el titular de su historia clínica, y que los datos de salud son datos sensibles protegidos por la Ley N° 25.326.",
+  "Que el artículo 14 de la Ley N° [—] obliga a los prestadores y a los financiadores de todos los subsistemas a interoperar sus sistemas de registro clínico con la historia clínica compartida, conforme la Ley N° 27.706 y los estándares que dicte la autoridad de aplicación, y su artículo 10 dispone que el Registro Nacional de Listas de Espera se alimente de ella.",
+  "Que una historia clínica que acompañe al paciente entre hospitales, obras sociales, el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados y entidades de medicina prepaga evita estudios repetidos, errores de medicación y demoras, siempre que el paciente controle quién accede a sus datos.",
+  "Que han tomado intervención los servicios jurídicos permanentes de este Ministerio.",
+  "Que la presente se dicta en uso de las facultades conferidas por la Ley de Ministerios N° 22.520 (t.o. Decreto N° 438/92) y sus modificatorias, la Ley N° 27.706 y la Ley N° [—]."
+ ],
+ "formula": "Por ello, EL MINISTRO DE SALUD RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Establécese la Historia Clínica Compartida entre Subsistemas, en adelante «la Historia Clínica Compartida», que permite a los profesionales de los subsectores público, de la seguridad social y privado acceder, con autorización del paciente, a la información clínica relevante registrada por otros prestadores, conforme el artículo 2°, inciso d), de la Ley N° 27.706 y el artículo 14 de la Ley N° [—]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "Quedan comprendidos: a) los establecimientos y programas de salud del Estado nacional; b) el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados y sus prestadores; c) los agentes del seguro de salud de las Leyes N° 23.660 y N° 23.661 y sus prestadores; d) las entidades de medicina prepaga de la Ley N° 26.682 y sus prestadores; y e) los establecimientos de las provincias, de la Ciudad Autónoma de Buenos Aires y de los municipios, conforme los convenios celebrados en el marco de la Ley N° 27.706."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Modelo federado",
+     "texto": "La Historia Clínica Compartida funciona en forma federada: cada prestador conserva sus registros clínicos en su propio sistema, y este Ministerio opera un índice nacional de pacientes, con identidad validada con el Registro Nacional de las Personas (RENAPER), y un localizador de documentos clínicos que permite consultar los registros de otros prestadores conforme las reglas de acceso de la presente."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Conjunto mínimo de datos",
+     "texto": "Cada prestador pone a disposición, como mínimo, un resumen clínico actualizado del paciente con: a) alergias y reacciones adversas; b) medicación activa; c) problemas de salud y diagnósticos activos; d) vacunas aplicadas, con los datos del Registro Nominal de Vacunación; e) resultados de estudios relevantes; f) internaciones y cirugías; y g) prestaciones indicadas pendientes con plazo garantizado, que alimentan el Registro Nacional de Listas de Espera."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Estándares",
+     "texto": "La interoperabilidad se realiza a través de la Red Nacional de Interoperabilidad en Salud creada por la Resolución de la entonces Secretaría de Gobierno de Salud N° 115/2019, en cuyo Registro de Dominios de Interoperabilidad en Salud se inscriben los sistemas de los sujetos comprendidos, y se basa en el estándar HL7 FHIR, en las terminologías SNOMED CT y LOINC y en la Clasificación Internacional de Enfermedades de la Organización Mundial de la Salud. Este Ministerio publica, dentro de los noventa (90) días de la presente, una guía de implementación de la Historia Clínica Compartida con los perfiles, las terminologías y los requisitos de seguridad, que integra y actualiza los requisitos técnicos vigentes de esa Red, y la actualiza en consulta con los subsectores."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Control del paciente",
+     "texto": "El paciente accede en forma gratuita, por la plataforma digital oficial del Estado nacional, a su resumen clínico y al registro de cada acceso a sus datos, con la identificación de quién accedió y cuándo. Puede restringir el acceso a cualquier sección de su historia clínica, salvo a las alergias, la medicación activa y el grupo sanguíneo, y revocar o modificar la restricción en cualquier momento."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Acceso de los profesionales",
+     "texto": "Solo puede acceder el profesional que tenga una relación asistencial vigente con el paciente, previa autenticación. En una urgencia, el profesional puede acceder sin autorización previa mediante un acceso de urgencia, que queda registrado con su fundamento y se notifica al paciente."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Financiadores",
+     "texto": "Los financiadores acceden solo a los datos administrativos necesarios para la cobertura, la facturación y el Registro Nacional de Listas de Espera. No pueden acceder al contenido clínico de la Historia Clínica Compartida ni usarlo para seleccionar riesgos o fijar condiciones de cobertura."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Seguridad",
+     "texto": "Los sistemas que se integren a la Historia Clínica Compartida cumplen los requisitos de cifrado, autenticación robusta, registro inalterable de accesos y resguardo que fije la guía del artículo 5°. Todo incidente de seguridad que afecte datos de pacientes se notifica dentro de las setenta y dos (72) horas a este Ministerio, a la Agencia de Acceso a la Información Pública y a los pacientes afectados."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cronograma",
+     "texto": "La integración se completa: a) dentro de los doce (12) meses de la presente, por los sujetos de los incisos a) y b) del artículo 2°; y b) dentro de los dieciocho (18) meses, por los de los incisos c) y d). Las jurisdicciones del inciso e) se integran según los plazos de sus convenios."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Certificación",
+     "texto": "Este Ministerio certifica la conformidad con la guía del artículo 5° de los sistemas de registro clínico que se integren y publica la nómina de sistemas certificados."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Control",
+     "texto": "La Superintendencia de Servicios de Salud verifica el cumplimiento del cronograma por los sujetos de los incisos c) y d) del artículo 2° y aplica, en su caso, el régimen de sanciones que corresponda."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Informe",
+     "texto": "Este Ministerio publica cada semestre el grado de integración por subsector y por jurisdicción, la cantidad de consultas y de accesos de urgencia y los incidentes de seguridad notificados."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande la presente se atienden con los créditos asignados a este Ministerio en la ley de presupuesto, conforme el artículo 30 de la Ley N° [—]."
+    },
+    {
+     "n": 15,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

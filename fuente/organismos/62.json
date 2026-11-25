@@ -1,0 +1,326 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría Legal y Técnica de la Presidencia de la Nación",
+    "estado": "modificado",
+    "rol": "No da curso a una designación del art. 99 inc. 7 sin la declaración jurada de vínculos y publica cada designación con ella.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Jefatura de Gabinete de Ministros",
+    "estado": "modificado",
+    "rol": "Sin vicejefaturas; Secretarías del Interior, de Función Pública y Gobierno Digital y de Ambiente; absorbe el Ministerio de Desregulación y Transformación del Estado.",
+    "hoy": "Jefatura de Gabinete de Ministros, con la Vicejefatura de Gabinete y la Vicejefatura de Gabinete del Interior",
+    "hijos": [
+     {
+      "nombre": "Empresa Argentina de Soluciones Satelitales (ARSAT)",
+      "estado": "modificado",
+      "rol": "Empresa estratégica de propiedad estatal total, privatizable solo por ley con dos tercios.",
+      "hoy": "ARSAT S.A.",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría del Interior",
+      "estado": "existente",
+      "rol": "Convoca a los gobernadores, negocia y firma por la Nación.",
+      "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete del Interior (Subsecretaría de Relaciones con las Provincias), DNU 571/2026 y Decreto 581/2026",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Función Pública y Gobierno Digital",
+      "estado": "modificado",
+      "rol": "Publica convocatorias y órdenes de mérito y emite la constancia de concurso previa a cada designación. Publica convocatorias y órdenes de mérito, consolida la dotación, controla las metas de concursos y administra el Registro. Autoridad de aplicación: lleva el inventario de normas, el análisis de costos y beneficios y el catálogo único de trámites. Publica concursos y órdenes de mérito, lleva el registro de selectores, consolida la dotación y administra el Registro Público de Contrataciones No Permanentes. Releva y publica todos los regímenes de pagos atados a recaudación, juicios, multas o aranceles.",
+      "hoy": "Secretaría de Transformación del Estado y Función Pública (Ministerio de Desregulación y Transformación del Estado), Subsecretaría de Modernización y Desarrollo del Empleo Público",
+      "hijos": []
+     },
+     {
+      "nombre": "Registro de contrataciones del Estado",
+      "estado": "nuevo",
+      "rol": "Inscribe y publica cada mes todo contrato, beca y pasantía; sin inscripción no se paga. Inscribe antes de su inicio y publica cada mes todo contrato, locación, beca y pasantía del Sector Público Nacional;",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Instituto Nacional de la Administración Pública",
+      "estado": "modificado",
+      "rol": "Diseña, dicta y certifica la capacitación obligatoria por nivel ligada a la evaluación anual. Dicta y certifica la capacitación obligatoria pactada.",
+      "hoy": "INAP (Ley 20.173), en la Secretaría de Transformación del Estado y Función Pública",
+      "hijos": []
+     },
+     {
+      "nombre": "Dirección Nacional Electoral",
+      "estado": "modificado",
+      "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada pregunta. Organiza la elección de convencionales con la Justicia Nacional Electoral.",
+      "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+      "hijos": []
+     },
+     {
+      "nombre": "Correo Oficial de la República Argentina",
+      "estado": "modificado",
+      "rol": "Atiende trámites presenciales sin costo adicional.",
+      "hoy": "Correo Oficial de la República Argentina S.A.",
+      "hijos": []
+     },
+     {
+      "nombre": "Registro Nacional de las Personas (RENAPER)",
+      "estado": "existente",
+      "rol": "Valida la identidad en los trámites en línea.",
+      "hoy": "RENAPER",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Política exterior, comercio internacional, Malvinas, Antártida y Atlántico Sur, y culto.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Defensa",
+    "estado": "modificado",
+    "rol": "Defensa nacional y Fuerzas Armadas; dos secretarías.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "nuevo",
+    "rol": "Justicia, derechos humanos, seguridad interior, narcotráfico, cárceles, migraciones y protección civil. Remite la nota y el texto modelo.",
+    "hoy": "Ministerio de Justicia y Ministerio de Seguridad Nacional",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Justicia",
+      "estado": "existente",
+      "rol": "Jurisdicción de la Dirección Nacional.",
+      "hoy": "Secretaría de Justicia (Ministerio de Justicia)",
+      "hijos": [
+       {
+        "nombre": "Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y de Créditos Prendarios",
+        "estado": "modificado",
+        "rol": "Lleva el registro nacional único y digital y fija aranceles al costo del servicio.",
+        "hoy": "DNRPA (Ministerio de Justicia)",
+        "hijos": [
+         {
+          "nombre": "Registros seccionales de la propiedad del automotor",
+          "estado": "suprimido",
+          "rol": "Cierran en forma escalonada en 24 meses; sus legajos pasan al registro digital.",
+          "hoy": "Registros seccionales a cargo de encargados designados, remunerados con emolumentos sobre los aranceles",
+          "hijos": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Hacienda, finanzas, producción y comercio, y agricultura, ganadería y pesca. Firma y controla los contratos-programa de las empresas con pérdidas y recompra las participaciones vendidas de las estratégicas. Firma por la Nación y da asistencia técnica al Consejo en la verificación y la comparación anual.",
+    "hoy": "Ministerio de Economía (con energía, minería, transporte y obras públicas)",
+    "hijos": [
+     {
+      "nombre": "Nucleoeléctrica Argentina S.A.",
+      "estado": "modificado",
+      "rol": "Empresa estratégica de propiedad estatal total; se recompra la parte vendida.",
+      "hoy": "Nucleoeléctrica Argentina S.A., con venta del 44 % de las acciones autorizada (Decreto 695/2025)",
+      "hijos": []
+     },
+     {
+      "nombre": "Dioxitek S.A.",
+      "estado": "modificado",
+      "rol": "Empresa estratégica de propiedad estatal total.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Hacienda",
+      "estado": "modificado",
+      "rol": "Bloquea la liquidación de designaciones sin constancia de concurso. Bloquea la liquidación de contratos no registrados. Bloquea la liquidación de contratos no inscriptos («Ley de Empleo Público por Mérito, contra el Nepotismo y de Registro de Contrataciones No Permanentes» art. 26; 14). Asistencia técnica al Consejo y publicación de las transferencias no automáticas.",
+      "hoy": "Secretaría de Hacienda (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+      "estado": "modificado",
+      "rol": "Deja de repartir la cuenta de jerarquización; sus abogados dejan de cobrar honorarios; aplica la bonificación por metas.",
+      "hoy": "ARCA",
+      "hijos": []
+     },
+     {
+      "nombre": "Autoridad Nacional de la Competencia",
+      "estado": "existente",
+      "rol": "Investiga y sanciona los acuerdos de colegios que fijan precios o restringen el acceso.",
+      "hoy": "Autoridad Nacional de la Competencia (Ley 27.442)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Infraestructura y Energía",
+    "estado": "nuevo",
+    "rol": "Energía, minería, transporte, obras públicas, agua y vivienda.",
+    "hoy": "Secretarías de Energía, Minería, Transporte y Obras Públicas del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Salud, salud mental y adicciones, y discapacidad. Integra la Red Federal de Registros de Profesionales de la Salud al Registro Nacional.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Trabajo y Desarrollo Social",
+    "estado": "nuevo",
+    "rol": "Trabajo, seguridad social, ingreso universal y niñez y familia.",
+    "hoy": "Secretarías de Trabajo, Empleo y Seguridad Social y de Niñez, Adolescencia y Familia del Ministerio de Capital Humano",
+    "hijos": [
+     {
+      "nombre": "Administración Nacional de la Seguridad Social",
+      "estado": "modificado",
+      "rol": "Inicia de oficio el trámite jubilatorio de quien llega a los 70 años; el cese espera al otorgamiento.",
+      "hoy": "ANSES",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Educación, Ciencia y Cultura",
+    "estado": "nuevo",
+    "rol": "Educación, universidades y ciencia, cultura y deportes. Lleva el Registro Nacional de Profesionales.",
+    "hoy": "Secretaría de Educación (Ministerio de Capital Humano), Secretaría de Innovación, Ciencia y Tecnología (JGM) y Secretaría de Cultura (Presidencia)",
+    "hijos": [
+     {
+      "nombre": "Registro Nacional de Profesionales",
+      "estado": "nuevo",
+      "rol": "Registro digital y público de títulos, matrículas y sanciones firmes de todo el país.",
+      "hoy": "No existe un registro único; cada jurisdicción y cada colegio lleva el suyo",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Capital Humano",
+    "estado": "suprimido",
+    "rol": "Sus áreas pasan a Trabajo y Desarrollo Social y a Educación, Ciencia y Cultura.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Desregulación y Transformación del Estado",
+    "estado": "suprimido",
+    "rol": "Sus competencias pasan a la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública",
+    "estado": "modificado",
+    "rol": "Administra el Registro (designada por «Reglamentación de la Ley de Empleo Público por Mérito, contra el Nepotismo y de Registro de Contrataciones No Permanentes», art. 1). Vincula la capacitación con la evaluación y la promoción.",
+    "hoy": "Secretaría de Transformación del Estado y Función Pública (Ministerio de Desregulación y Transformación del Estado), Subsecretaría de Modernización y Desarrollo del Empleo Público",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto de capacitación estatal",
+    "estado": "modificado",
+    "rol": "Diseña, dicta y certifica la capacitación obligatoria de cada nivel y la asignada tras una calificación deficiente; capacita a los evaluadores.",
+    "hoy": "INAP (Ley 20.173), en la Subsecretaría de Desarrollo y Modernización del Empleo Público, Secretaría de Transformación del Estado y Función Pública, Ministerio de Desregulación y Transformación del Estado",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio provincial de hacienda",
+    "estado": "modificado",
+    "rol": "Publica cuentas y deuda, presenta el plan de convergencia y comunica la ley al Consejo.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Responsabilidad Fiscal",
+    "estado": "existente",
+    "rol": "Recibe la adhesión, aprueba formatos y metodología, verifica.",
+    "hoy": "Consejo Federal de Responsabilidad Fiscal (Ley 25.917, art. 27)",
+    "hijos": []
+   },
+   {
+    "nombre": "Áreas de personal y SAF de cada organismo",
+    "estado": "modificado",
+    "rol": "Control previo de concurso y vínculos, inscripción de contratos y verificación antes de cada liquidación.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía y Secretaría de Función Pública y Gobierno Digital",
+    "estado": "existente",
+    "rol": "Negocia y suscribe el Acta Acuerdo (Ley 24.185, art. 5).",
+    "hoy": "Ministro de Economía y Secretaría de Transformación del Estado y Función Pública (Ministerio de Desregulación y Transformación del Estado)",
+    "hijos": []
+   },
+   {
+    "nombre": "Convención reformadora",
+    "estado": "nuevo",
+    "rol": "Sanciona la reforma dentro de los temas habilitados, en un plazo de noventa días; se disuelve al concluir.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Sindicatura General de la Nación (SIGEN)",
+    "estado": "modificado",
+    "rol": "Se incorpora a la Autoridad si la Convención aprueba el tema del artículo 3.",
+    "hoy": "SIGEN (Ley 24.156, Título VI), en el Poder Ejecutivo",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Autoridad de ética pública",
+   "rol": "Recibe las declaraciones, verifica los vínculos y publica cada año el resultado."
+  },
+  {
+   "nombre": "Empresas de la producción para la defensa",
+   "rol": "Fabricaciones Militares, FAdeA y TANDANOR: empresas estratégicas de propiedad estatal total."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Audita cada año los estados contables de las empresas del Estado."
+  },
+  {
+   "nombre": "Consejo Federal de Responsabilidad Fiscal",
+   "rol": "Aprueba formatos y metodologías, verifica el cumplimiento y publica la comparación anual."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Firman, ratifican por ley y cumplen las metas."
+  },
+  {
+   "nombre": "Registro de convenios con universidades",
+   "rol": "Su información pasa al registro nuevo en 90 días."
+  },
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Aprueba el acuerdo y la reforma de la Ley 25.917."
+  },
+  {
+   "nombre": "Sindicatos del sector público",
+   "rol": "Parte de la Comisión Negociadora."
+  },
+  {
+   "nombre": "Corte Suprema de Justicia de la Nación",
+   "rol": "Decide si adopta la acordada para el Poder Judicial de la Nación."
+  },
+  {
+   "nombre": "Consejo de la Magistratura",
+   "rol": "Invitado a aplicar la misma regla a su propio personal y a colaborar en el cruce de vínculos."
+  }
+ ]
+}

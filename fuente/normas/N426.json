@@ -1,0 +1,63 @@
+{
+ "id": "N426",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Incentivo Ambiental Federal",
+ "sumilla": "Crea un índice ambiental medido por un organismo técnico nacional —basurales a cielo abierto, residuos recuperados, calidad del agua y del aire— y premia con fondos y prioridad en obras a las provincias y municipios que mejoran sus mediciones.",
+ "cuando": "Fase I · año 1 (línea de base); premios desde el año 2",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "Los basurales a cielo abierto y la contaminación del agua y del aire son problemas locales con costos para todos. La Ley N° 25.916 fija presupuestos mínimos para los residuos domiciliarios, pero sin incentivos para cumplirlos. El presente proyecto mide de forma independiente y premia a quien mejora: un organismo técnico nacional elabora un índice ambiental de cada provincia y municipio con datos satelitales y mediciones en terreno, y cada año asigna un fondo de incentivo y prioridad en el financiamiento de obras a las jurisdicciones que más avanzan.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley crea un sistema de medición ambiental independiente y un régimen de incentivos para las provincias y los municipios que reduzcan los basurales a cielo abierto y la contaminación."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Índice Ambiental Federal",
+     "texto": "La Secretaría de Ambiente de la Jefatura de Gabinete de Ministros, con la Comisión Nacional de Actividades Espaciales (CONAE) y el Instituto Nacional de Tecnología Industrial (INTI), elaborará cada año un Índice Ambiental Federal por provincia y por municipio, que medirá al menos: a) la superficie y la cantidad de basurales a cielo abierto; b) la proporción de residuos con disposición final adecuada y recuperados; c) la calidad del agua de los cursos superficiales en puntos fijos; y d) la calidad del aire en las ciudades de más de cien mil (100.000) habitantes."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Independencia y publicidad",
+     "texto": "La metodología, los datos y los resultados del Índice se publican en formato abierto. La medición es independiente de la información que provean las jurisdicciones, que podrán aportar datos verificables."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Fondo de Incentivo Ambiental",
+     "texto": "Créase el Fondo de Incentivo Ambiental, que distribuirá cada año sus recursos entre las provincias y los municipios según la mejora de su Índice respecto del año anterior, con destino a obras y equipamiento ambiental."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Prioridad en obras",
+     "texto": "Las jurisdicciones con mayor mejora tendrán prioridad en el financiamiento nacional de obras de agua, cloacas y gestión de residuos."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Recursos",
+     "texto": "El Fondo se integra con los créditos que le asigne la ley de presupuesto, con las multas por infracciones ambientales de jurisdicción nacional y con financiamiento de organismos multilaterales."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Línea de base",
+     "texto": "El primer Índice se publica dentro de los doce (12) meses de la vigencia de la presente ley y sirve de línea de base; el Fondo distribuye recursos desde el año siguiente."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

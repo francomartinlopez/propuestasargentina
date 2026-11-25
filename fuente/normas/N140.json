@@ -1,0 +1,95 @@
+{
+ "id": "N140",
+ "tipo": "resolucion",
+ "titulo": "Resolución de la Dirección Nacional de Vialidad de creación del Registro Público de Maquinaria Vial",
+ "sumilla": "Crea un registro público y abierto de la maquinaria vial de consorcios camineros, comisiones viales, municipios y vialidades provinciales, con inscripción comprometida en los convenios de caminos rurales, uso compartido de equipos y base para la línea de crédito de renovación.",
+ "cuando": "Fase II (año 2)",
+ "cuando_breve": "Fase II",
+ "tramite": "No pasa por el Congreso: resolución de la Dirección Nacional de Vialidad (Decreto-Ley 505/58, ratificado por Ley 14.467, art. 2, incs. i y j, y art. 37).",
+ "motivos": "",
+ "visto": "El Expediente N° […], el Decreto-Ley N° 505/58, ratificado por la Ley N° 14.467, la Ley N° [—] de Presupuesto Plurianual de Infraestructura, el Acuerdo Federal de Caminos Rurales ratificado por la Ley N° [—], y",
+ "considerando": [
+  "Que el artículo 2°, incisos i) y j), del Decreto-Ley N° 505/58 faculta a esta Dirección Nacional a llevar el inventario de la red y a celebrar convenios, y su artículo 37 prevé los convenios con los organismos viales provinciales.",
+  "Que la red rural de tierra, a cargo de municipios y provincias, se conserva en buena medida con maquinaria de consorcios camineros, comisiones viales, municipios y vialidades provinciales, cuyo estado y disponibilidad no se conocen en forma sistemática.",
+  "Que el Fondo Nacional de Caminos Rurales por Resultados y el Acuerdo Federal de Caminos Rurales organizan el mantenimiento compartido de esa red, y que las partes del Acuerdo se comprometieron a colaborar con un registro público de maquinaria vial y con una línea de crédito de largo plazo para renovar equipos.",
+  "Que un registro abierto permite planificar el uso de los equipos, compartirlos entre jurisdicciones y orientar su renovación, sin crear obligaciones legales nuevas para quienes no suscriban convenios.",
+  "Que ha tomado intervención el servicio jurídico permanente de esta Dirección Nacional.",
+  "Que la presente se dicta en uso de las facultades conferidas por los artículos 2° y 37 del Decreto-Ley N° 505/58, ratificado por la Ley N° 14.467."
+ ],
+ "formula": "Por ello, EL ADMINISTRADOR GENERAL DE LA DIRECCIÓN NACIONAL DE VIALIDAD RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación",
+     "texto": "Créase el REGISTRO PÚBLICO DE MAQUINARIA VIAL en el ámbito de esta DIRECCIÓN NACIONAL DE VIALIDAD (en adelante, «el Registro»)."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Objeto",
+     "texto": "El Registro tiene por objeto conocer el parque de maquinaria vial afectado a la conservación de caminos rurales y secundarios, para planificar su uso, facilitar que se comparta entre jurisdicciones y consorcios, e identificar las necesidades de renovación de equipos."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Sujetos inscribibles",
+     "texto": "Podrán inscribir su maquinaria vial los consorcios camineros, las comisiones viales, los municipios y las direcciones o entes viales provinciales. La inscripción es voluntaria, sin perjuicio de lo dispuesto en el artículo 6°."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Datos",
+     "texto": "Por cada equipo se consignará: tipo, marca, modelo y año; potencia; titular; localidad de base; estado general y de mantenimiento; horas de uso anuales; y si se encuentra disponible para uso compartido con otras jurisdicciones o consorcios."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Inscripción y actualización",
+     "texto": "La inscripción se realizará por medios electrónicos, con carácter de declaración jurada del titular. Los datos se actualizarán cada año antes del 31 de marzo, y las altas y bajas de equipos se informarán dentro de los TREINTA (30) días de producidas."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Convenios",
+     "texto": "En los convenios y anexos provinciales que esta Dirección Nacional celebre en el marco del Acuerdo Federal de Caminos Rurales y del Fondo Nacional de Caminos Rurales por Resultados se incluirá el compromiso de las partes de inscribir en el Registro la maquinaria afectada a los planes de mantenimiento y de mantener actualizados sus datos."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Publicidad",
+     "texto": "Esta Dirección Nacional publicará los datos del Registro en su sitio oficial, en formato de datos abiertos, por equipo, por titular y en forma agregada por partido o departamento y por provincia, y los actualizará al menos cada SEIS (6) meses."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Uso compartido",
+     "texto": "El Registro identificará los equipos disponibles para uso compartido. Esta Dirección Nacional promoverá convenios entre municipios, consorcios y vialidades provinciales para su uso común, con reglas de costo y de responsabilidad que fijen las partes."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Renovación de equipos",
+     "texto": "El Registro servirá de base para estimar las necesidades de renovación de la maquinaria vial y para la línea de crédito de largo plazo para la renovación de equipos de consorcios y municipios que organice el Estado nacional. La inscripción con datos actualizados será requisito para acceder a esa línea."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Coordinación",
+     "texto": "Esta Dirección Nacional intercambiará la información del Registro con el Consejo Vial Federal y con las vialidades provinciales, y podrá incorporar los registros provinciales existentes mediante convenio."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Puesta en funcionamiento",
+     "texto": "La Gerencia que designe esta Administración General pondrá en funcionamiento el Registro y su sistema de inscripción electrónica dentro de los CIENTO VEINTE (120) días de la entrada en vigencia de la presente."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

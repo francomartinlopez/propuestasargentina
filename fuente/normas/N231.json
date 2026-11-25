@@ -1,0 +1,92 @@
+{
+ "id": "N231",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de Extinción de Dominio y Recupero de Activos",
+ "sumilla": "Reglamenta la ley «Ley de Extinción de Dominio y Recupero de Activos»: ubica la Agencia Nacional de Bienes Recuperados, ordena su puesta en funcionamiento en doce meses y la transferencia de la Oficina de Bienes Recuperados y de la función de la AABE, fija el contenido y la publicación del inventario público único, el procedimiento de subasta, asignación provisoria y aplicación del producido, y la gestión de la repatriación de activos.",
+ "cuando": "Fase II (años 2-3): dentro de los 90 días de publicada la ley «Ley de Extinción de Dominio y Recupero de Activos» (art. 32 de esa ley); Agencia operativa en 12 meses.",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (decreto reglamentario y de estructura, art. 99 incs. 1 y 2 CN).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° [—] de Extinción de Dominio y Recupero de Activos, la Ley N° 26.097, los Decretos Nros. 1382/2012, 50/2019 y 575/2025 y sus modificatorios, y",
+ "considerando": [
+  "Que la Ley N° [—] reguló la acción de extinción de dominio, creó la Agencia Nacional de Bienes Recuperados como organismo descentralizado y autárquico en el ámbito que determine el Poder Ejecutivo nacional y dispuso su funcionamiento dentro de los doce (12) meses de su publicación.",
+  "Que corresponde determinar el ámbito de la Agencia, ordenar la transferencia del personal, los bienes y los créditos de la Oficina de Bienes Recuperados y de las funciones que pierde la Agencia de Administración de Bienes del Estado, y asegurar la continuidad de la custodia de los bienes durante la transición.",
+  "Que la Ley estableció un inventario público único con una ficha por bien y un orden de destino del producido, cuyo contenido y procedimiento deben precisarse para que todo bien recuperado sea trazable desde su secuestro hasta su aplicación final.",
+  "Que la Convención de las Naciones Unidas contra la Corrupción, aprobada por la Ley N° 26.097, prevé mecanismos de cooperación para la recuperación de activos que requieren un punto de contacto nacional.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes y la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros y la Secretaría de Hacienda del Ministerio de Economía.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Ámbito de la Agencia (artículo 17)",
+     "texto": "La Agencia Nacional de Bienes Recuperados funcionará como organismo descentralizado en el ámbito del Ministerio de Justicia y Seguridad. Incorpórase la Agencia al Anexo III del Decreto N° 50/2019, en el apartado correspondiente a ese ministerio, y suprímese de él la Oficina de Bienes Recuperados a partir de la fecha de la transferencia prevista en el artículo 3° del presente."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Estructura y conducción (artículo 19)",
+     "texto": "El Ministerio de Justicia y Seguridad aprobará, dentro de los ciento veinte (120) días, la estructura organizativa de primer nivel de la Agencia, con intervención de la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros, y convocará en el mismo plazo el concurso público de antecedentes y oposición para la designación del Director Ejecutivo, con un jurado integrado por representantes del ministerio, del ámbito académico y de organizaciones de la sociedad civil dedicadas a la transparencia. Hasta la designación por concurso, la Agencia estará a cargo de un Director Ejecutivo interino, que no podrá permanecer más de doce (12) meses."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Transferencias (artículos 21 y 31)",
+     "texto": "La transferencia del personal, los bienes, los créditos, los registros y las causas de la Oficina de Bienes Recuperados a la Agencia, y la de las funciones de enajenación y concesión de la Agencia de Administración de Bienes del Estado, se completará dentro de los doce (12) meses de la publicación de la Ley N° [—]. Ambos organismos entregarán a la Agencia, dentro de los noventa (90) días, el listado de todos los bienes a su cargo, con su estado y su situación judicial. Hasta la transferencia, continuarán sus funciones sin interrupción."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Ficha de cada bien (artículo 22)",
+     "texto": "Cada bien recuperado tendrá una ficha en el inventario público único desde su ingreso a la custodia de la Agencia, con los datos del artículo 22 de la Ley, un código único de identificación y la secuencia de todos los actos de administración, asignación y disposición. Los datos personales del afectado solo se publicarán cuando exista sentencia condenatoria o de extinción de dominio firme. El inventario inicial, con los bienes recibidos de la Oficina de Bienes Recuperados y de la Agencia de Administración de Bienes del Estado, se publicará dentro de los ciento ochenta (180) días de la publicación de la Ley."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Convenio con la Corte Suprema (artículo 22)",
+     "texto": "La Agencia propondrá a la Corte Suprema de Justicia de la Nación, dentro de los noventa (90) días de su puesta en funcionamiento, el convenio para el intercambio automático de información con la Base General de Datos de Bienes Secuestrados y/o Decomisados, de modo que cada bien inscripto en ella tenga su ficha en el inventario."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Enajenación (artículos 18 y 23)",
+     "texto": "La enajenación de los bienes se realizará por subasta pública electrónica, previa tasación del Tribunal de Tasaciones de la Nación, con un precio base no inferior al ochenta por ciento (80 %) del valor de tasación. Si la subasta fracasara dos veces, la Agencia podrá concesionar o asignar el bien a uso público, o reducir el precio base, mediante resolución fundada que se publicará en la ficha."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Aplicación del producido (artículo 23)",
+     "texto": "La Agencia liquidará el producido de cada bien en el orden del artículo 23 de la Ley, dentro de los noventa (90) días de su percepción. La retención para gastos y para el financiamiento de la Agencia del inciso c) se calculará sobre el producido neto de cada bien y se informará en su ficha. La transferencia al Tesoro nacional del remanente indicará el fin público al que se asigna."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Asignación provisoria (artículo 24)",
+     "texto": "Los organismos públicos interesados en la asignación provisoria de un bien la solicitarán a la Agencia con indicación del fin y del responsable de su custodia. La Agencia, si considera procedente la solicitud, requerirá la autorización judicial, y la asignación se instrumentará en un acta que se publicará en la ficha del bien."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Repatriación de activos (artículo 25)",
+     "texto": "La Agencia actuará como punto de contacto nacional para la recuperación de activos en el marco del Capítulo V de la Convención de las Naciones Unidas contra la Corrupción, en coordinación con el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, el Ministerio Público Fiscal y la Unidad de Información Financiera (UIF), y publicará cada año las solicitudes enviadas y recibidas y los montos repatriados."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Informe anual (artículo 18)",
+     "texto": "El informe anual de la Agencia al Congreso de la Nación incluirá la cantidad y el valor de los bienes recuperados, los vendidos, asignados y restituidos, el producido y su aplicación, y el porcentaje de bienes con ficha pública completa."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el mismo día que la Ley N° [—] de Extinción de Dominio y Recupero de Activos."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 50/2019: incorpora la Agencia Nacional de Bienes Recuperados entre los organismos descentralizados del ministerio con competencia en justicia y suprime la Oficina de Bienes Recuperados de su Anexo III"
+ ],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,112 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación: padrón único, liquidación y pago del IUU, reclamos y datos abiertos. Liquida y paga las pensiones y aplica la compatibilidad con el empleo.",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano (Secretaría de Trabajo, Empleo y Seguridad Social)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Discapacidad",
+    "estado": "modificado",
+    "rol": "Conserva la certificación (CUD); deja la liquidación de las pensiones, que pasa al IUU en ANSES en el tercer tramo. CUD en 60 días, calendario y regla de aranceles, auditoría con debido proceso e informe trimestral. Expediente digital, turnos, dotación de juntas y renovación automática. Opera el sistema de certificación y el tablero de plazos. Paga en calendario, publica aranceles mensuales y cada pago. Autoridad de aplicación de los Caps. II y V de la ley; verifica la condición de discapacidad para el cupo y los incentivos.",
+    "hoy": "Secretaría Nacional de Discapacidad (Ministerio de Salud; Decreto 50/2019, Anexo I, apartado XVI, texto Decreto 27/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Niñez, Adolescencia y Familia",
+    "estado": "modificado",
+    "rol": "Pierde la gestión de la Prestación Alimentar y del Acompañamiento Social; colabora en controles de salud y escolaridad.",
+    "hoy": "Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Suministra datos de ingresos formales para el retiro por escalones. Aplica sin trámite adicional la reducción del art. 87 de la Ley 24.013. 87 de la Ley 24.013 y certifica la proporción de personal.",
+    "hoy": "ARCA, organismo descentralizado del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Discapacidad",
+    "estado": "modificado",
+    "rol": "Recibe las propuestas de plazos, expediente digital y renovación automática para todas las juntas. Aprueba los criterios de condiciones permanentes y la adhesión de las juntas provinciales.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Juntas evaluadoras interdisciplinarias",
+    "estado": "modificado",
+    "rol": "Evalúan en plazo; indican si la condición es permanente.",
+    "hoy": "Juntas nacionales y de las jurisdicciones",
+    "hijos": []
+   },
+   {
+    "nombre": "Directorio del sistema de prestaciones básicas",
+    "estado": "existente",
+    "rol": "Fija los aranceles; la resolución solo publica su actualización mensual.",
+    "hoy": "Directorio del Sistema de Prestaciones Básicas (Ley 24.901)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Discapacidad del Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Paga en plazo, publica pagos y controla el cupo junto con la Secretaría de Función Pública y Gobierno Digital.",
+    "hoy": "Secretaría Nacional de Discapacidad (Ministerio de Salud; Decreto 50/2019, Anexo I, apartado XVI, texto Decreto 27/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros",
+    "estado": "modificado",
+    "rol": "Recibe los informes anuales del cupo, publica el consolidado y lo remite al Congreso.",
+    "hoy": "Secretaría de Transformación del Estado y Función Pública (Ministerio de Desregulación y Transformación del Estado; Decreto 651/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social",
+    "estado": "modificado",
+    "rol": "Programa de empleo con apoyo.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital",
+    "estado": "modificado",
+    "rol": "Administra el sistema del informe anual del cupo y publica el consolidado.",
+    "hoy": "Secretaría de Transformación del Estado y Función Pública (Ministerio de Desregulación y Transformación del Estado)",
+    "hijos": []
+   },
+   {
+    "nombre": "Oficina Nacional de Contrataciones",
+    "estado": "modificado",
+    "rol": "Incorpora la acreditación de la preferencia en el sistema de compras.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Trabajo y Empleo",
+    "estado": "modificado",
+    "rol": "Programa de empleo con apoyo.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Auditoría anual del IUU y de la cláusula de no pérdida."
+  },
+  {
+   "nombre": "Jurisdicciones provinciales",
+   "rol": "Aportan sus bases al padrón único por convenio."
+  }
+ ]
+}

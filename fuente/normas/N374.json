@@ -1,0 +1,147 @@
+{
+ "id": "N374",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista",
+ "sumilla": "Reglamenta solo lo que ejecuta el Poder Ejecutivo en la ley «Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista»: boleta única en las primarias, convenios de simultaneidad con las provincias, publicación del costo electoral, voto desde el exterior, depósito y auditoría del software del escrutinio provisorio, resultados por mesa, y suministro automático de datos de beneficiarios finales y de contratistas del Estado a la Justicia Nacional Electoral.",
+ "cuando": "Fase I · año 1, dentro de los 60 días de promulgada «Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista» y antes de los plazos de las elecciones de 2029",
+ "cuando_breve": "Fase I · año 1, dentro de los 60 días de promulgada «Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista» y antes de los plazos de las elecciones de 2029",
+ "tramite": "Decreto reglamentario (art. 99 inc. 2 CN).",
+ "motivos": null,
+ "visto": "El Expediente N° [número], la Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista N° [número], las Leyes N° 24.007, N° 26.215, N° 26.571 y N° 27.781, y los Decretos N° 1049 del 25 de noviembre de 2024 y N° 239 del 31 de marzo de 2025, y",
+ "considerando": [
+  "Que la Ley N° [número] ratificó la Boleta Única de papel y las elecciones primarias, amplió las facilidades para el voto desde el exterior, dispuso la auditoría pública del software electoral y la publicación de los resultados por mesa, y estableció la publicación de los aportes de campaña dentro de las setenta y dos horas, con su beneficiario final y el cruce con los contratistas del Estado.",
+  "Que el control del financiamiento partidario, la plataforma de aportes y el escrutinio definitivo corresponden a la Justicia Nacional Electoral, por lo que este decreto se limita a las tareas a cargo del Poder Ejecutivo nacional: la logística electoral, el escrutinio provisorio, la asistencia en el exterior y el suministro de información de sus registros.",
+  "Que el Decreto N° 1049/2024 reglamentó la Boleta Única en los artículos 62 bis y 62 ter del Código Electoral Nacional y 38 y 38 bis de la Ley N° 26.571, en el texto de la Ley N° 27.781, y el Decreto N° 239/2025 reglamentó la Ley N° 24.007, incluido el voto por correo postal de los electores residentes en el exterior, y corresponde adecuarlos a la nueva ley.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Apruébase la reglamentación de la Ley N° [número] en lo que corresponde ejecutar al Poder Ejecutivo nacional. Las funciones de la Justicia Nacional Electoral no son objeto de este decreto."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación del régimen electoral nacional a la que se refiere la Ley N° [número] es la Secretaría del Interior de la Jefatura de Gabinete de Ministros, o la que la reemplace."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Boleta Única, simultaneidad y costo",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Boleta Única en las primarias (art. 2°)",
+     "texto": "Dentro de los sesenta (60) días de la entrada en vigencia del presente decreto, la autoridad de aplicación aprueba, en coordinación con la Justicia Nacional Electoral, los modelos de Boleta Única para las elecciones primarias conforme al artículo 38 bis de la Ley N° 26.571 y al Decreto N° 1049/2024, con un diseño que permita la impresión y distribución conjunta de todas las categorías para reducir costos."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Convenios de simultaneidad (art. 4°)",
+     "texto": "La autoridad de aplicación ofrece a las provincias y a la Ciudad Autónoma de Buenos Aires que se acojan al régimen de la Ley N° 15.262 un convenio tipo que prevea: a) la unificación del cronograma electoral; b) el uso común de establecimientos, autoridades de mesa y logística; c) la distribución de los costos compartidos en proporción a las categorías de cada jurisdicción; d) la coordinación con la Justicia Nacional Electoral y con los organismos electorales provinciales. El convenio tipo se publica dentro de los noventa (90) días de la entrada en vigencia del presente decreto."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Costo de las elecciones (art. 5°)",
+     "texto": "La publicación del costo de cada elección comprende, al menos, los rubros de impresión de boletas y documentación, distribución y repliegue, servicios de transmisión y escrutinio provisorio, pago a autoridades de mesa, seguridad, voto en el exterior, aportes públicos a partidos y espacios de publicidad, con el costo total y por elector habilitado de cada rubro."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Voto desde el exterior",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Inscripción (art. 6°)",
+     "texto": "El Ministerio de Relaciones Exteriores, Comercio Internacional y Culto recibe en las representaciones diplomáticas y consulares, en forma permanente, las solicitudes de inscripción y de cambio de domicilio en el Registro de Electores Residentes en el Exterior, las transmite a la Justicia Nacional Electoral y difunde la posibilidad de inscribirse por medios electrónicos."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Voto postal en las primarias (art. 7°)",
+     "texto": "Los Capítulos III (artículos 11 y 12) y X (artículos 35 a 41) de la reglamentación de la Ley N° 24.007 aprobada por el Decreto N° 239/2025, sobre el voto por correo postal de los electores residentes en el exterior, se aplican también a las elecciones primarias. El Correo Oficial de la República Argentina S.A. y el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto adecuan sus cronogramas para que el elector reciba y devuelva la documentación en ambas elecciones."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Software y escrutinio provisorio",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Software del Poder Ejecutivo (art. 8°)",
+     "texto": "La autoridad de aplicación deposita ante la Justicia Nacional Electoral, al menos ciento ochenta (180) días antes de cada elección, el código fuente y la documentación técnica de los programas que utilice o contrate para la transmisión de resultados y el escrutinio provisorio. Los pliegos y contratos para esos servicios incluyen la obligación del contratista de entregar el código fuente y de permitir su auditoría, y la prohibición de introducir cambios no auditados."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Resultados por mesa (art. 9°)",
+     "texto": "Los resultados del escrutinio provisorio se publican por mesa, junto con la imagen digital del telegrama o certificado de cada mesa, en formato de datos abiertos, con descarga libre y gratuita, a medida que se reciben."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Información para el control de los aportes",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Beneficiarios finales (art. 16)",
+     "texto": "La Agencia de Recaudación y Control Aduanero (ARCA) celebra con la Justicia Nacional Electoral, dentro de los sesenta (60) días de la entrada en vigencia del presente decreto, un convenio que le dé acceso en línea al Registro Público de Beneficiarios Finales previsto en el Capítulo III de la Ley N° 27.739, a su cargo,, para el cruce de las declaraciones de las personas jurídicas aportantes, con registro de cada consulta."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Contratistas del Estado (art. 18)",
+     "texto": "La Oficina Nacional de Contrataciones, órgano rector del sistema de compras y contrataciones del Sector Público Nacional, pone a disposición de la Justicia Nacional Electoral, dentro de los noventa (90) días de la entrada en vigencia del presente decreto y mediante un servicio de interoperabilidad de actualización diaria, el registro de proveedores, contratistas, concesionarios y permisionarios, con sus beneficiarios finales y las adjudicaciones de cada uno. Los organismos que lleven registros propios de concesionarios o permisionarios los integran al mismo servicio."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cooperación (art. 19)",
+     "texto": "Se invita a la Autoridad Nacional de Control y Transparencia, en el marco de su autonomía, a designar un enlace ante la Justicia Nacional Electoral para la cooperación prevista en el artículo 19 de la Ley N° [número]. Se encomienda a la Unidad de Información Financiera, en el marco de su autonomía, acordar con la Justicia Nacional Electoral el procedimiento de esa cooperación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V bis – Aportes en especie, pagos y aporte público",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Aportes en especie y pagos trazables (arts. 20 a 22)",
+     "texto": "La Cámara Nacional Electoral, en ejercicio de sus atribuciones, publicará valores de referencia para valuar los aportes en especie más frecuentes. El monto máximo de los pagos en efectivo del artículo 22 de la ley se fija en el cincuenta por ciento (50 %) del salario mínimo, vital y móvil por operación. Los bancos que operan las cuentas únicas de campaña informarán en línea sus movimientos a la Justicia Nacional Electoral."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Aporte público contra resultados (art. 24)",
+     "texto": "La Dirección Nacional Electoral liquidará el reintegro del artículo 24 de la ley dentro de los sesenta (60) días de concluido el escrutinio definitivo, contra la rendición documentada de los gastos, y publicará cada pago."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Financiamiento (arts. 27 y 30)",
+     "texto": "Los gastos que demande el presente decreto se atienden con los créditos asignados a la autoridad de aplicación y a los organismos intervinientes en el presupuesto vigente."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entra en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 1049/2024 (modelos de boleta para primarias; norma complementaria de su Anexo)",
+  "Decreto 239/2025, Anexo, Caps. III y X (aplicación del voto postal a las primarias)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

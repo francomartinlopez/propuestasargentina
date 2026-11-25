@@ -1,0 +1,159 @@
+{
+ "id": "N279",
+ "tipo": "ley_nacional",
+ "titulo": "Ley del Instituto Nacional de Evaluación Educativa y del piso de inversión educativa",
+ "sumilla": "Crea el Instituto Nacional de Evaluación Educativa, autárquico y con autonomía técnica, con directorio del Consejo Federal y de las universidades y mandatos desfasados, que aplica Aprender cada año; restablece el piso de 6 % del PIB (art. 9 de la Ley 26.206) y el Fondo Nacional para la Educación Técnico Profesional (art. 52 de la Ley 26.058) con fuente expresa y calendario gradual.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La evaluación de los aprendizajes es la base para saber qué funciona en la escuela y dónde hace falta apoyo. Hoy depende de un área del Ministerio, con continuidad sujeta a cada gestión. El presente proyecto crea el Instituto Nacional de Evaluación Educativa, con autonomía técnica, un directorio integrado por representantes del Consejo Federal de Educación y de las universidades y mandatos que no coinciden con los del gobierno. El Instituto aplica la evaluación Aprender cada año en tercer y sexto grado y al final de la secundaria, y publica los resultados con indicadores de contexto, para asignar apoyo y no para sancionar. La Ley N° 27.798 derogó desde el ejercicio 2026 el piso de inversión educativa del artículo 9° de la Ley N° 26.206 y el Fondo Nacional para la Educación Técnico Profesional del artículo 52 de la Ley N° 26.058. El proyecto los restablece con una regla de no regresión, un calendario gradual compatible con la regla fiscal y fuente expresa, y excluye al Fondo de la facultad de disolver fondos por decreto. Así, las metas acordadas en el Consejo Federal se apoyan en una medición independiente y en un financiamiento previsible.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Instituto Nacional de Evaluación Educativa",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación y naturaleza",
+     "texto": "Créase el Instituto Nacional de Evaluación Educativa (INEE) como ente autárquico en el ámbito del Poder Ejecutivo nacional, con personería jurídica propia, autarquía administrativa y financiera y autonomía técnica. En el ejercicio de sus funciones técnicas el Instituto no está sujeto a instrucciones de ninguna autoridad."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Funciones",
+     "texto": "Son funciones del Instituto: a) diseñar, aplicar, procesar y publicar las evaluaciones nacionales de aprendizajes; b) evaluar el sistema educativo nacional en concertación con el Consejo Federal de Educación; c) producir indicadores de contexto escolar y socioeconómico para la lectura de los resultados; d) asistir técnicamente a las jurisdicciones en sus propias evaluaciones; e) suministrar a las autoridades educativas la información necesaria para asignar apoyo a las escuelas que más lo necesitan; y f) representar al país en las evaluaciones internacionales de aprendizajes."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Evaluación Aprender anual",
+     "texto": "El Instituto aplica cada año la evaluación nacional Aprender en tercer grado y sexto grado de la educación primaria y en el último año de la educación secundaria, con carácter censal o muestral según lo defina su directorio, de modo que los resultados sean comparables en el tiempo."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Publicación con contexto",
+     "texto": "Los resultados se publican cada año por jurisdicción y, por escuela, solo en los casos exceptuados de la reserva de identidad institucional del artículo 97 de la Ley N° 26.206, acompañados de indicadores de contexto. Se usan para asignar apoyo y nunca para elaborar ordenamientos de escuelas o de docentes con fines sancionatorios."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Protección de los datos",
+     "texto": "Los datos de cada alumna y alumno son confidenciales y se tratan conforme la Ley N° 25.326; solo pueden difundirse en forma agregada y de modo que no permitan identificar a ninguna persona."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Directorio",
+     "texto": "El Instituto es dirigido por un directorio de cinco (5) miembros: a) un (1) presidente, designado por el Poder Ejecutivo nacional previo concurso público de antecedentes; b) dos (2) miembros designados por el Consejo Federal de Educación; y c) dos (2) miembros designados por el Consejo Interuniversitario Nacional y el Consejo de Rectores de Universidades Privadas, uno por cada uno. Sus integrantes deben acreditar idoneidad y antecedentes técnicos en evaluación educativa, estadística o investigación educativa."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Mandatos desfasados",
+     "texto": "Los miembros del directorio duran cinco (5) años en sus funciones y pueden ser designados por un único período adicional. Los mandatos se renuevan en forma escalonada: en la primera integración, la mitad de los miembros designados por el Consejo Federal de Educación y por los consejos universitarios dura tres (3) años, por sorteo. Las vacantes se cubren por el tiempo que reste del mandato."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Remoción",
+     "texto": "Los miembros del directorio solo pueden ser removidos antes del vencimiento de su mandato por mal desempeño, delito doloso o inhabilidad sobreviniente, mediante resolución fundada de quien los designó, previo sumario con derecho de defensa."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Consejo consultivo",
+     "texto": "El Consejo Nacional de Calidad de la Educación previsto en el artículo 98 de la Ley N° 26.206 actúa como órgano consultivo del Instituto y emite opinión sobre su plan anual de evaluación."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Transferencia de funciones y personal",
+     "texto": "Transfiérense al Instituto las funciones de evaluación educativa que cumple la Secretaría de Educación del Ministerio de Educación, Ciencia y Cultura, con sus créditos presupuestarios, bienes y personal, que conserva su situación de revista y sus derechos adquiridos. La Secretaría de Educación conserva la producción de la información estadística del sistema educativo y la comparte con el Instituto."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Recursos del Instituto",
+     "texto": "El Instituto se financia con: a) los créditos que le asigne la ley de presupuesto, que en el primer ejercicio son los transferidos conforme el artículo 10; b) los ingresos por convenios de asistencia técnica con las jurisdicciones u otros organismos; y c) donaciones y legados que acepte el directorio."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Informe y control",
+     "texto": "El Instituto presenta cada año al Congreso de la Nación y al Consejo Federal de Educación un informe público sobre sus evaluaciones y su gestión. Está sujeto al control de la Autoridad Nacional de Control y Transparencia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Modificaciones a la Ley de Educación Nacional",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Sustitución del artículo 94 de la Ley N° 26.206",
+     "texto": "Sustitúyese el artículo 94 de la Ley N° 26.206 por el siguiente: «ARTÍCULO 94.- El Instituto Nacional de Evaluación Educativa tiene la responsabilidad principal en el desarrollo y la implementación de una política de evaluación continua y periódica del sistema educativo, para la toma de decisiones tendientes al mejoramiento de la calidad de la educación, en concertación con el Consejo Federal de Educación. El Ministerio de Educación, Ciencia y Cultura conserva la responsabilidad de la política de información y estadística del sistema educativo.»"
+    },
+    {
+     "n": 14,
+     "epigrafe": "Remisión",
+     "texto": "Las referencias al Ministerio nacional con competencia en educación contenidas en los artículos 95 a 97 de la Ley N° 26.206, en materia de evaluación, se entienden hechas al Instituto Nacional de Evaluación Educativa."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Piso de inversión educativa y Fondo Nacional para la Educación Técnico Profesional",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Restablecimiento del artículo 9° de la Ley N° 26.206",
+     "texto": "Restablécese el artículo 9° de la Ley N° 26.206, derogado por el artículo 30, inciso a), de la Ley N° 27.798, con el siguiente texto: «ARTÍCULO 9°.- El Estado garantiza el financiamiento del Sistema Educativo Nacional conforme las previsiones de la presente ley. El presupuesto consolidado del Estado nacional, las provincias y la Ciudad Autónoma de Buenos Aires destinado exclusivamente a educación no será inferior al seis por ciento (6 %) del Producto Interno Bruto. Ese piso se alcanza en forma gradual, conforme el calendario que fija la ley, compatible con la regla fiscal.»"
+    },
+    {
+     "n": 16,
+     "epigrafe": "Calendario del piso educativo",
+     "texto": "A los fines del artículo 9° de la Ley N° 26.206, según el texto de la presente: a) el gasto nacional en educación no puede ser inferior, en ningún ejercicio, al del ejercicio anterior medido como proporción del Producto Interno Bruto, tomando como base el devengado del ejercicio 2027; b) cada ley de presupuesto fija el incremento anual del aporte nacional hacia el piso, dentro de la regla fiscal; c) el piso consolidado del seis por ciento (6 %) se alcanza cuando lo permita la regla fiscal, con el aporte de cada jurisdicción que se acuerde en el Consejo Federal de Educación; y d) el Poder Ejecutivo nacional publica cada año, antes del 30 de septiembre, el gasto educativo consolidado del año anterior."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Restablecimiento del artículo 52 de la Ley N° 26.058",
+     "texto": "Restablécese el artículo 52 de la Ley N° 26.058, derogado por el artículo 30, inciso c), de la Ley N° 27.798, con el siguiente texto: «ARTÍCULO 52.- Créase el Fondo Nacional para la Educación Técnico Profesional, que se financia con un monto anual que no puede ser inferior al cero coma dos por ciento (0,2 %) del total de los ingresos corrientes previstos en el presupuesto anual consolidado para el Sector Público Nacional, adicional a los recursos asignados a otros programas de inversión en escuelas. Ese monto se alcanza en forma gradual, conforme el calendario que fija la ley.»"
+    },
+    {
+     "n": 18,
+     "epigrafe": "Senda del Fondo",
+     "texto": "El Fondo Nacional para la Educación Técnico Profesional alcanza el monto mínimo del artículo 52 de la Ley N° 26.058 en el ejercicio 2031, mediante incrementos anuales iguales desde el nivel efectivamente ejecutado en el ejercicio 2027 por los programas nacionales de educación técnico profesional, a partir del ejercicio 2029."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Protección del Fondo",
+     "texto": "El Fondo Nacional para la Educación Técnico Profesional tiene destino específico y queda expresamente excluido de la facultad de disolver o modificar fondos fiduciarios y fondos con destino específico prevista en el artículo 5° de la Ley N° 27.742, y de cualquier otra facultad delegada o reglamentaria de igual alcance."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Ley N° 27.798",
+     "texto": "Déjanse sin efecto los incisos a) y c) del artículo 30 de la Ley N° 27.798."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Financiamiento",
+     "texto": "Conforme el artículo 38 de la Ley N° 24.156 y el artículo 5° de la Ley N° 24.629: a) el Instituto se financia en su primer ejercicio con la reasignación de los créditos de evaluación educativa de la Secretaría de Educación, sin gasto adicional; b) el Fondo Nacional para la Educación Técnico Profesional se financia, hasta el nivel ejecutado en 2027, con los créditos de los programas nacionales de educación técnico profesional que se reasignan a él, y su senda de incremento, con el cupo que la cuenta fiscal reserva para educación; y c) los incrementos del aporte nacional al piso educativo y la senda del Fondo se activan con la ley de presupuesto del ejercicio 2029, que debe preverlos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 22,
+     "epigrafe": "Puesta en marcha",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los noventa (90) días de su publicación. El directorio del Instituto se constituye dentro de los ciento ochenta (180) días de la publicación; hasta entonces, la Secretaría de Educación continúa a cargo de la evaluación."
+    },
+    {
+     "n": 23,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 26.206, art. 94 (sustituye) y arts. 95 a 97 (remisión al INEE)",
+  "Ley 26.206, art. 98 (el Consejo Nacional de Calidad asesora al INEE)",
+  "Ley 26.206, art. 9 (restablece con nuevo texto)",
+  "Ley 26.058, art. 52 (restablece con nuevo texto)",
+  "Ley 27.798, art. 30 incs. a y c (deja sin efecto)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

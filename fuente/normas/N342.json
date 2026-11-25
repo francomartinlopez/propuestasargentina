@@ -1,0 +1,96 @@
+{
+ "id": "N342",
+ "tipo": "resolucion",
+ "titulo": "Disposición de la ANMAT: reconocimiento regulatorio de genéricos aprobados por autoridades de referencia para su coproducción en el país",
+ "sumilla": "Crea un procedimiento abreviado de registro para medicamentos genéricos que se fabriquen total o parcialmente en el país mediante coproducción, cuando ya estén aprobados por una autoridad sanitaria de un país de los Anexos I o II del Decreto 150/1992 (la India figura en el Anexo II): la ANMAT se apoya en la evaluación de esa autoridad, verifica la planta local y la equivalencia del producto, y resuelve en plazo.",
+ "cuando": "Fase II (6 a 24 meses según la propuesta 88, junto con el acuerdo comercial ampliado)",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica: disposición de la ANMAT (la ANMAT dicta disposiciones, no resoluciones; se mantiene el tipo 'resolucion' del inventario). Si se quisiera pasar a la India al Anexo I del Decreto 150/1992, haría falta un decreto del Poder Ejecutivo.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° 16.463, los Decretos N° 150/1992 y N° 1490/1992 y sus modificatorios, la Resolución Conjunta N° 452 y N° 1227/2014, y",
+ "considerando": [
+  "Que los artículos 1° y 2° de la Ley N° 16.463 sujetan la elaboración, importación y comercialización de especialidades medicinales a la autorización previa de la autoridad sanitaria nacional.",
+  "Que el Decreto N° 150/1992 prevé procedimientos especiales para las especialidades autorizadas en los países enumerados en sus Anexos I y II, y que la República de la India figura en el Anexo II desde la Resolución Conjunta N° 452 y N° 1227/2014, con sujeción a la verificación de las plantas.",
+  "Que la coproducción en el país de medicamentos genéricos ya aprobados por autoridades sanitarias de referencia permite ampliar la oferta, diversificar proveedores y bajar precios, sin resignar los estándares de calidad, seguridad y eficacia.",
+  "Que apoyarse en la evaluación de una autoridad de referencia, verificando localmente la planta y la equivalencia del producto, evita duplicar evaluaciones y reduce los plazos de registro.",
+  "Que los artículos 3°, 4° y 8° del Decreto N° 1490/1992 asignan a esta Administración Nacional la competencia para el registro, la autorización y la fiscalización de las especialidades medicinales.",
+  "Que han tomado intervención las áreas técnicas y la Dirección de Asuntos Jurídicos de esta Administración Nacional.",
+  "Que la presente se dicta en uso de las facultades conferidas por el Decreto N° 1490/1992 y sus modificatorios."
+ ],
+ "formula": "Por ello, EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA DISPONE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Establécese el procedimiento abreviado de registro para la coproducción en el país de especialidades medicinales genéricas que cuenten con autorización de comercialización otorgada por la autoridad sanitaria de un país incluido en el Anexo I o en el Anexo II del Decreto N° 150/1992, en adelante «autoridad de referencia»."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Coproducción",
+     "texto": "A los fines de la presente se entiende por coproducción la elaboración total o parcial de la especialidad medicinal en un establecimiento habilitado en el país, en virtud de un contrato de licencia o de transferencia de tecnología con el titular de la autorización otorgada por la autoridad de referencia."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Reconocimiento de la evaluación",
+     "texto": "Esta Administración Nacional basa su decisión sobre la calidad, la seguridad y la eficacia del producto en la evaluación realizada por la autoridad de referencia. El solicitante presenta la autorización, el informe de evaluación de la autoridad de referencia y el expediente técnico en formato de documento técnico común. Esta Administración Nacional solo requiere información adicional sobre los aspectos no cubiertos por esa evaluación o que difieran por las condiciones locales."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Requisitos locales",
+     "texto": "El solicitante acredita: a) la habilitación del establecimiento elaborador en el país y el cumplimiento de las buenas prácticas de fabricación, verificado por inspección de esta Administración Nacional; b) la validación de la transferencia de tecnología mediante lotes de validación; c) los estudios de estabilidad en las condiciones climáticas aplicables al país; y d) la equivalencia del producto elaborado en el país con el autorizado por la autoridad de referencia, mediante perfiles de disolución comparativos y, cuando la normativa vigente lo exija, estudios de bioequivalencia."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Países del Anexo II",
+     "texto": "Cuando la autoridad de referencia sea la de un país del Anexo II del Decreto N° 150/1992 y alguna etapa de la elaboración o el principio activo provenga de una planta situada en ese país, esta Administración Nacional verifica el cumplimiento de las buenas prácticas de fabricación de esa planta, conforme el régimen vigente. Para ello puede basarse en informes de inspección recientes de autoridades de países del Anexo I."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Principios activos",
+     "texto": "Los principios activos utilizados deben provenir de plantas con certificación de buenas prácticas de fabricación verificada conforme el artículo anterior o el régimen general. El titular puede declarar más de un proveedor de principio activo en la misma solicitud."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Plazos",
+     "texto": "Esta Administración Nacional resuelve la solicitud dentro de los ciento ochenta (180) días corridos de presentada en forma completa, y realiza la inspección del establecimiento local dentro de los noventa (90) días de solicitada. Los requerimientos de información suspenden el plazo hasta su respuesta."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Prioridad",
+     "texto": "Tienen prioridad en el trámite las especialidades que contengan principios activos de la lista de medicamentos esenciales o cuyo abastecimiento dependa de un solo proveedor o de un solo país de origen."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Farmacovigilancia",
+     "texto": "El titular del registro cumple las obligaciones de farmacovigilancia vigentes e informa a esta Administración Nacional toda medida regulatoria adoptada sobre el producto por la autoridad de referencia, dentro de los quince (15) días de conocida."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Publicidad",
+     "texto": "Esta Administración Nacional publica en su sitio oficial la nómina de especialidades registradas por el presente procedimiento, la autoridad de referencia en cada caso y el plazo efectivo de cada trámite."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Aranceles",
+     "texto": "Las solicitudes abonan los aranceles vigentes para el registro de especialidades medicinales."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente disposición entra en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

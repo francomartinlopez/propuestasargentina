@@ -1,0 +1,47 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ente Nacional de Comunicaciones",
+    "estado": "modificado",
+    "rol": "Fiduciante y ejecutor del fondo: diseña los programas, los licita, verifica metas y publica los datos (decisión 3). aprueba programas, licita, verifica metas y publica el mapa de cobertura. Convoca la subasta, fija obligaciones y topes, verifica el cumplimiento y publica.",
+    "hoy": "Ente Nacional de Comunicaciones, ENACOM (organismo descentralizado, Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Entidad financiera pública",
+    "estado": "modificado",
+    "rol": "Administra el patrimonio del fideicomiso y paga contra metas verificadas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Empresa Argentina de Soluciones Satelitales S.A. (ARSAT)",
+    "estado": "existente",
+    "rol": "Puede ofertar en las licitaciones en igualdad de condiciones y vender capacidad mayorista; ya no recibe programas por asignación directa.",
+    "hoy": "Empresa Argentina de Soluciones Satelitales AR-SAT (Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Empresa estatal de telecomunicaciones",
+    "estado": "existente",
+    "rol": "Aporta datos de la REFEFO para el mapa; puede ofertar y vender capacidad mayorista con precios publicados.",
+    "hoy": "Empresa Argentina de Soluciones Satelitales AR-SAT (Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros",
+    "estado": "existente",
+    "rol": "Interviene en la identificación y atribución de las bandas.",
+    "hoy": "Secretaría de Innovación, Ciencia y Tecnología (Vicejefatura de Gabinete, Jefatura de Gabinete)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

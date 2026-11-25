@@ -1,0 +1,90 @@
+{
+ "id": "N392",
+ "tipo": "resolucion",
+ "titulo": "Resolución general de la Inspección General de Justicia: estados contables auditados y publicados y beneficiario final en el fútbol",
+ "sumilla": "Exige a la AFA, las ligas y los clubes con domicilio en la Ciudad de Buenos Aires estados contables anuales auditados y publicados, con el detalle de derechos de televisión, transferencias, comisiones e intermediarios, y la identificación del beneficiario final de financistas, patrocinantes, casas de apuestas e intermediarios. Prevé convenios con los registros provinciales.",
+ "cuando": "Fase I · año 1 (meta: 100 % de primera y ascenso al cierre del año 2)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Resolución general de la Inspección General de Justicia (Ley 22.315, arts. 3, 10 y 14); no pasa por el Congreso.",
+ "motivos": null,
+ "visto": "El Expediente N° [número], la Ley Orgánica de la Inspección General de Justicia N° 22.315, la Ley N° 25.246, la Ley N° 20.655 del Deporte y la Resolución General N° 15/2024 de esta Inspección, y",
+ "considerando": [
+  "Que los artículos 3° y 10 de la Ley N° 22.315 asignan a esta Inspección la fiscalización permanente de las asociaciones civiles con domicilio en la Ciudad Autónoma de Buenos Aires, y su artículo 14 la faculta a aplicar sanciones.",
+  "Que la Asociación del Fútbol Argentino, las ligas y los clubes administran ingresos cuantiosos por derechos de transmisión, transferencias de jugadores y patrocinios, cuyo destino interesa a sus asociados y a la comunidad.",
+  "Que la transparencia de esas cuentas exige estados contables auditados por profesionales independientes y publicados, con el detalle de las operaciones más relevantes y de quienes intervienen en ellas.",
+  "Que las entidades que organizan deportes profesionales y sus afiliadas son sujetos obligados ante la Unidad de Información Financiera por el artículo 20, inciso 23, de la Ley N° 25.246, y que conocer al beneficiario final de quienes las financian, patrocinan o intermedian en sus operaciones es indispensable para prevenir el lavado de activos.",
+  "Que los clubes con domicilio en las provincias están sujetos a la fiscalización de los registros provinciales de personas jurídicas, con los que corresponde coordinar reglas equivalentes.",
+  "Que la presente se dicta en uso de las facultades conferidas por los artículos 3°, 10 y 14 de la Ley N° 22.315."
+ ],
+ "formula": "Por ello, EL INSPECTOR GENERAL DE JUSTICIA RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Ámbito",
+     "texto": "La presente resolución se aplica a la Asociación del Fútbol Argentino, a las ligas y a los clubes de fútbol constituidos como asociaciones civiles con domicilio en la Ciudad Autónoma de Buenos Aires, en adelante «las entidades»."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Estados contables auditados",
+     "texto": "Las entidades presentan a esta Inspección, dentro de los quince (15) días hábiles de la asamblea que los apruebe, sus estados contables anuales con dictamen de un contador público independiente, que no integre los órganos de la entidad ni haya prestado servicios a ella en los dos (2) ejercicios anteriores en otro carácter."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Contenido mínimo",
+     "texto": "Las notas a los estados contables detallan, como mínimo: a) los ingresos por derechos de transmisión, por contraparte; b) las transferencias de derechos federativos y económicos de deportistas, con la contraparte, el precio y su forma de pago; c) las comisiones pagadas a intermediarios, agentes o representantes, con su identificación y monto; d) los contratos de patrocinio, con la contraparte y el monto; e) los préstamos, financiamientos y cesiones de derechos, con la contraparte, el monto, el plazo y la tasa o el precio."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Beneficiario final de las contrapartes",
+     "texto": "Las entidades acompañan a sus estados contables un anexo con la identificación del beneficiario final, entendido como la persona humana que en última instancia posee o controla a la contraparte, de toda persona jurídica que durante el ejercicio las haya financiado, les haya prestado, las haya patrocinado, haya adquirido o comercializado sus derechos o haya actuado como intermediaria, incluidas las empresas de juegos y apuestas. Las entidades requieren esa información a sus contrapartes al contratar."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Contrapartes inscriptas en esta Inspección",
+     "texto": "Las sociedades inscriptas en esta Inspección que actúen como contrapartes de las entidades en las operaciones del artículo anterior mantienen actualizada su información de beneficiario final conforme al artículo 421 de las Normas de esta Inspección aprobadas por la Resolución General N° 15/2024 y la exhiben a las entidades a su requerimiento."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Publicación",
+     "texto": "Las entidades publican en su sitio web, dentro de los quince (15) días hábiles de la asamblea, los estados contables con el dictamen del auditor, las notas del artículo 3° y el anexo del artículo 4°, y los mantienen disponibles al menos cinco (5) años. Esta Inspección los publica en su sitio oficial en formato de datos abiertos."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Incumplimiento",
+     "texto": "El incumplimiento de esta resolución se sanciona conforme al artículo 14 de la Ley N° 22.315, sin perjuicio de las demás medidas de fiscalización que correspondan."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cooperación",
+     "texto": "Esta Inspección comunica a la Unidad de Información Financiera (UIF) las discrepancias que advierta en la información de beneficiario final y coopera con el Registro de Financistas y Cesionarios del Deporte en la verificación societaria."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Registros provinciales",
+     "texto": "Esta Inspección propone a los registros provinciales de personas jurídicas, en el marco de los convenios de cooperación con las provincias, la adopción de reglas equivalentes para los clubes con domicilio en sus jurisdicciones y el intercambio de la información de beneficiario final."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Aplicación",
+     "texto": "La presente resolución se aplica a los estados contables de los ejercicios cerrados a partir de su entrada en vigencia. Las entidades que participen en las categorías de primera división y de ascenso deben cumplirla en su totalidad antes del 10 de diciembre de 2029."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución entra en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

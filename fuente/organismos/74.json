@@ -1,0 +1,96 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Administración Nacional de la Seguridad Social (ANSES)",
+    "estado": "existente",
+    "rol": "Liquida por el régimen común las jubilaciones de quienes ingresen a los cargos alcanzados. Conserva el pilar 1, el FGS y la cuenta asistencial; registra la elección; cede a la superintendencia las funciones de la ex SAFJP (Decreto 2105/2008, arts. 3 y 6). Notifica al alta, registra la elección y la reversión, ofrece el comparador. Identifica los beneficios por moratoria, imputa por separado y publica cada trimestre ambos resultados.",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Superintendencia de fondos de pensión",
+    "estado": "nuevo",
+    "rol": "Habilita y controla administradoras y custodios, fija límites de inversión y tope de comisiones, sanciona; directorio de 5 con mandato fijo de 6 años escalonado. Habilita administradoras y custodias, fija capital mínimo y parámetros de los fondos por edad, dicta normas operativas en 120 días.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Órgano de conducción",
+      "estado": "nuevo",
+      "rol": "5 miembros designados por el PEN previo concurso; 6 años, una renovación, escalonados; remoción solo por causa y con sumario.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Funciones de control del régimen de capitalización",
+      "estado": "modificado",
+      "rol": "Sus funciones de control no derogadas pasan a la nueva superintendencia; se derogan los arts. 117 a 123 de la Ley 24.241.",
+      "hoy": "Funciones asignadas a la ANSES (Decreto 2105/2008, arts. 3 y 6); Ley 24.241, arts. 117 a 123",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Comisión técnica de parámetros previsionales",
+    "estado": "nuevo",
+    "rol": "Revisa cada cinco años los parámetros del sistema frente al envejecimiento e informa al Congreso. Revisión quinquenal de edades, tasas de aporte, relación aportes-beneficios y sostenibilidad; recomendaciones no vinculantes.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Aprueba la apertura programática y la incluye en el proyecto de presupuesto.",
+    "hoy": "Ministerio de Economía (Secretaría de Hacienda; Anexo I del Decreto 50/2019, apartado IX, texto Decreto 146/2026)",
+    "hijos": [
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero",
+      "estado": "modificado",
+      "rol": "Recauda por el SUSS y distribuye los aportes entre pilares. Distribuye por el SUSS los aportes entre pilares y los transfiere a las administradoras.",
+      "hoy": "ARCA, organismo descentralizado del Ministerio de Economía",
+      "hijos": []
+     },
+     {
+      "nombre": "Comisión Nacional de Valores",
+      "estado": "modificado",
+      "rol": "Coordina con la superintendencia las reglas de productos de inversión y custodia (Ley 26.831, art. 19).",
+      "hoy": "CNV, organismo descentralizado del Ministerio de Economía",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Organismo nacional de la seguridad social",
+    "estado": "modificado",
+    "rol": "Cede las funciones de control de la ex SAFJP; conserva el pilar 1, el FGS, la cuenta asistencial y el registro de la elección.",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano (Subsecretaría de Seguridad Social, Secretaría de Trabajo, Empleo y Seguridad Social; Anexo III del Decreto 50/2019)",
+    "hijos": []
+   },
+   {
+    "nombre": "Superintendencia de riesgos del trabajo",
+    "estado": "existente",
+    "rol": "Sin cambios: conserva las comisiones médicas.",
+    "hoy": "SRT (comisiones médicas, Ley 26.425, art. 15)",
+    "hijos": []
+   },
+   {
+    "nombre": "Dirección Nacional Electoral",
+    "estado": "modificado",
+    "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada pregunta.",
+    "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Oficina de Presupuesto del Congreso (OPC)",
+   "rol": "Designa un integrante de la Comisión."
+  }
+ ]
+}
