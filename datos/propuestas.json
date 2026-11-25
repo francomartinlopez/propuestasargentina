@@ -623,7 +623,7 @@
     "blindaje": "Autonomía por ley, concurso, mandato fijo y presupuesto plurianual.",
     "fuentes": [
       "INDEC, IPC e índices provinciales para el período 2007-2016",
-      "iProfesional, Economía frena la nueva base del IPC y evalúa una nueva encuesta de gastos (5/2/2026)"
+      "⚠ iProfesional, Economía frena la nueva base del IPC y evalúa una nueva encuesta de gastos (5/2/2026)"
     ],
     "sinext": false
   },
@@ -771,7 +771,7 @@
       "Ley 27.432, artículo 7, y Decreto 409/2018, cómputo del impuesto al cheque como pago a cuenta",
       "Ley 27.429, Consenso Fiscal 2017; Ley 27.542, Consenso Fiscal 2019, y Ley 27.687, Consenso Fiscal 2021",
       "Los Andes, Mendoza: Ley Impositiva 2027 y cronograma de baja de sellos (octubre 2026)",
-      "La Nación, Chubut exime de Ingresos Brutos y sellos a la construcción de viviendas (mayo 2026)"
+      "⚠ La Nación, Chubut exime de Ingresos Brutos y sellos a la construcción de viviendas (mayo 2026)"
     ],
     "sinext": true
   },
@@ -947,7 +947,7 @@
       "SIPA, salario real privado (julio 2026)",
       "Ley 27.725, impuesto cedular a los mayores ingresos del trabajo (2023)",
       "KPMG, alcances de los cambios en Ganancias de la Ley 27.743 (2024)",
-      "Infobae, salario mínimo en octubre de 2026 (6/10/2026)"
+      "⚠ Infobae, salario mínimo en octubre de 2026 (6/10/2026)"
     ],
     "sinext": true
   },
@@ -987,8 +987,8 @@
     "fuentes": [
       "INDEC, distribución del ingreso (2º trimestre 2026)",
       "Provincia de Buenos Aires, Ley 14.044 (Impuesto a la Transmisión Gratuita de Bienes)",
-      "iProfesional, impuesto a la herencia: qué es y quién lo paga (Entre Ríos lo derogó en 2017)",
-      "La Nación, editorial sobre el impuesto a la herencia (11/12/2025)"
+      "⚠ iProfesional, impuesto a la herencia: qué es y quién lo paga (Entre Ríos lo derogó en 2017)",
+      "⚠ La Nación, editorial sobre el impuesto a la herencia (11/12/2025)"
     ],
     "sinext": true
   },
@@ -1032,7 +1032,7 @@
       "IDECOR, Nuevo mapa del valor de la tierra urbana en Córdoba (2020)",
       "Provincia de Buenos Aires, Ley 14.449 de Acceso Justo al Hábitat, artículos 46 a 52 (2012)",
       "Ciudad de Buenos Aires, Ley 6.062 (2018)",
-      "Lincoln Institute of Land Policy, Recuperación de plusvalías a través de la contribución por mejoras en Trenque Lauquen (2014)",
+      "⚠ Lincoln Institute of Land Policy, Recuperación de plusvalías a través de la contribución por mejoras en Trenque Lauquen (2014)",
       "Provincia de Buenos Aires, Observatorio de Valores de Suelo"
     ],
     "obras": {
@@ -1294,7 +1294,7 @@
     "dato": {
       "valor": "22 %",
       "texto": "del fondo de Aportes del Tesoro Nacional (ATN) de 2025 se repartió; el resto quedó sin distribuir",
-      "fuente": "Politikon Chaco, vía BAE Negocios",
+      "fuente": "⚠ Politikon Chaco, vía BAE Negocios",
       "fecha": "2025"
     },
     "que_ext": "Dos piezas que van juntas. Primero, saneamiento: cada provincia ordena su déficit y publica su gasto y su planta de personal. Segundo, los Aportes del Tesoro Nacional (ATN) dejan de repartirse a discreción del Ejecutivo y pasan a distribuirse automáticamente, con criterios públicos y verificables. En concreto: el fondo ATN (1 % de la masa coparticipable, hoy en manos de la Jefatura de Gabinete, que absorbió las funciones del suprimido Ministerio del Interior) se reparte con reglas automáticas.",
@@ -1421,9 +1421,9 @@
     "indicador": "Proporción del fondo ATN asignada por reglas automáticas y resultado financiero provincial. Meta: 100 % automático y provincias sin déficit.",
     "blindaje": "Reglas por ley y publicación de cada giro; las provincias ganan previsibilidad y tienen interés en sostenerlo.",
     "fuentes": [
-      "Politikon Chaco / BAE Negocios, ATN 2025 (5/1/2026)",
+      "⚠ Politikon Chaco / BAE Negocios, ATN 2025 (5/1/2026)",
       "Sociopolítica Argentina, ATN por provincia oct-2025 a sep-2026",
-      "Infobae, qué provincias fueron las más beneficiadas con ATN (7/6/2026)",
+      "⚠ Infobae, qué provincias fueron las más beneficiadas con ATN (7/6/2026)",
       "Infobae, qué dice la ley de reparto de ATN y qué tiene que pasar para que quede vigente (18/9/2025)"
     ],
     "sinext": false
@@ -1576,7 +1576,6 @@
     "fuentes": [
       "Ministerio de Economía, web oficial del RIGI, corte 24/10/2026",
       "Ley 27.742 (2024), régimen RIGI",
-      "Transformar sin tiempo ni cambios es destruir (Añelo, contenido local)",
       "Ley 27.742, Título VII, artículos 164 a 228 (2024)",
       "Decreto 105/2026, prórroga del plazo de adhesión al RIGI hasta julio de 2027",
       "Ley 27.802 y su reglamentación, Régimen de Incentivo para Medianas Inversiones (2026)",
@@ -4284,7 +4283,6 @@
     "blindaje": "La curva y la sanción quedan en la ley y en cada contrato de estabilidad, de modo que valen por todo el plazo del proyecto. El registro público de oferta local y las auditorías publicadas permiten a las cámaras y a las provincias exigir el cumplimiento.",
     "fuentes": [
       "Ley 27.742 (2024)",
-      "Transformar sin tiempo ni cambios es destruir (estudio UIA–cámara minera–BID)",
       "Ley 27.742, artículos 176, 190, 211 a 217, 221 y 222 (2024)",
       "Cancillería, síntesis del RIGI (2024)",
       "DNU 70/2023, artículo 10 (derogación parcial de la Ley 27.437)",
@@ -4384,7 +4382,7 @@
     "dato": {
       "valor": "US$ 10.493 M",
       "texto": "exportaría en un año la economía del conocimiento al ritmo del primer semestre de 2026: comparte con la minería el tercer lugar entre los complejos exportadores, detrás del agro y la energía",
-      "fuente": "Argencon (cámara del sector)",
+      "fuente": "⚠ Argencon (cámara del sector)",
       "fecha": "1er semestre 2026 (anualizado)"
     },
     "que_ext": "Proponemos jerarquizar la economía del conocimiento —software, servicios profesionales exportables, biotecnología, servicios audiovisuales y satelitales— como un motor de crecimiento por derecho propio. Eso implica reglas estables, libre disponibilidad de los dólares que se cobran por exportar, formación masiva en programación, matemática e idiomas, y conexión con la industria y el agro. En concreto: se prorroga hasta 2039 la Ley 27.506 de Economía del Conocimiento, que hoy vence en 2029, y la meta es pasar de US$ 10.500 a más de 15.000 millones exportados por año.",
@@ -4410,10 +4408,10 @@
     "indicador": "Exportaciones de servicios basados en conocimiento y empleo registrado del sector (meta: crecimiento sostenido, con más provincias exportadoras); egresados de los programas de formación.",
     "blindaje": "Estabilidad fiscal por ley y libre disponibilidad de divisas consagrada en el régimen cambiario, de modo que no dependa de resoluciones de coyuntura.",
     "fuentes": [
-      "Argencon, exportaciones del 1er semestre 2026 (informe del 5/10/2026)",
+      "⚠ Argencon, exportaciones del 1er semestre 2026 (informe del 5/10/2026)",
       "Ley 27.506 (modificada por Ley 27.570), Régimen de Promoción de la Economía del Conocimiento",
       "BCRA, Comunicación A 8481 (14/9/2026)",
-      "Infobae, récord exportador de los servicios basados en el conocimiento (5/10/2026)",
+      "⚠ Infobae, récord exportador de los servicios basados en el conocimiento (5/10/2026)",
       "Acuerdo de intercambio de información tributaria Argentina–Estados Unidos (2016) y acuerdo FATCA (2022, RG AFIP 5303/2022)"
     ],
     "sinext": false
@@ -4508,7 +4506,7 @@
       "INDEC y Ministerio de Turismo y Deportes, Cuenta Satélite de Turismo, años 2019-2022 (noviembre de 2023), cuadros 9 a 11",
       "INDEC, Encuesta de ocupación hotelera, noviembre de 2025 (último informe publicado)",
       "Secretaría de Trabajo, asalariados registrados del sector privado, hoteles y restaurantes, serie desestacionalizada, junio de 2026 (datos.gob.ar)",
-      "ANAC, pasajeros internacionales, agosto de 2026 (vía La Capital de Mar del Plata, 11/09/2026)",
+      "ANAC, pasajeros internacionales, agosto de 2026",
       "Ley 25.997 Nacional de Turismo, arts. 6, 13 a 24 y 44, texto actualizado (Infoleg); Decreto 216/2025; DNU 4/2025",
       "Ley de Impuesto al Valor Agregado (t.o. 1997), art. 43 (Infoleg); Decreto 1043/2016 y Resolución General Conjunta 3971/2016",
       "ARCA, Resolución General 5843/2026, reintegro del IVA a turistas del exterior por compras (Microjuris, 06/05/2026)",
@@ -4758,10 +4756,9 @@
     "blindaje": "Metas, plazos y evaluaciones publicadas por ley; los apoyos vencen solos y su renovación exige demostrar resultados. El mapa, la nómina de grandes exportadores y sus planes de compras son públicos y se actualizan por ley cada año, con un umbral estadístico que ningún gobierno fija a dedo.",
     "fuentes": [
       "datos.gob.ar, empleo industria manufacturera, junio 2026",
-      "Transformar sin tiempo ni cambios es destruir",
       "Consejo Federal de Inversiones, informe de maquinaria agrícola de la Región Centro",
       "Neuquén, Parque Industrial Capital (octubre 2026)",
-      "Diario Río Negro, Parque Industrial y Tecnológico de Bariloche (junio 2026)",
+      "⚠ Diario Río Negro, Parque Industrial y Tecnológico de Bariloche (junio 2026)",
       "Leyes 27.640 (biocombustibles), 20.247 (semillas) y 27.506 (economía del conocimiento)",
       "INDEC, Complejos exportadores, año 2025 (4 de marzo de 2026)",
       "Instituto Geográfico Nacional, límites departamentales; API Georef del Estado nacional (localidades)"
@@ -4991,11 +4988,11 @@
     "blindaje": "Presupuesto plurianual aprobado por ley y acuerdo federal firmado por las provincias, con obras financiadas por organismos multilaterales que exigen continuidad.",
     "fuentes": [
       "SIPA vía datos.gob.ar, empleo por provincia, junio 2026",
-      "Infobae, privatización del Belgrano Cargas: licitación y posible postergación (22/10/2026)",
-      "El Tribuno y Elintra, ramales C14 y C15 del Belgrano Cargas (octubre de 2026)",
+      "⚠ Infobae, privatización del Belgrano Cargas: licitación y posible postergación (22/10/2026)",
+      "⚠ El Tribuno y Elintra, ramales C14 y C15 del Belgrano Cargas (octubre de 2026)",
       "Presidencia de la Nación, renovación de vías del Belgrano Cargas (2019)",
       "Gobierno de Salta y BID, pavimentación de la Ruta Nacional 51, tramos IV y V (mayo de 2026)",
-      "Diario Norte, estado del Gasoducto del NEA (2025 y 2026)",
+      "⚠ Diario Norte, estado del Gasoducto del NEA (2025 y 2026)",
       "Gobierno del Chaco y Perfil, Segundo Acueducto del Interior (julio de 2026)"
     ],
     "obras": {
@@ -5506,7 +5503,7 @@
       "Decreto 116/2025 y cautelar que lo suspende (Cámara Federal de La Plata, prórroga de 2026)",
       "FoGAr, fideicomiso de la Ley 25.300 con el BICE como fiduciario (fogar.ar, 2026)",
       "CNV, Resolución General 1047/2025, régimen de autorización automática",
-      "La Nación, crédito privado en 13,6 % del PIB (26/01/2026)"
+      "⚠ La Nación, crédito privado en 13,6 % del PIB (26/01/2026)"
     ],
     "sinext": false
   },
@@ -5600,8 +5597,8 @@
       "Ley 24.240, art. 36; Ley 25.065, art. 18 (texto del DNU 70/2023, art. 20); Decreto 484/1987, art. 1 (Infoleg)",
       "BCRA, Comunicación «A» 7146 (2020) y texto ordenado de Proveedores no financieros de crédito",
       "Directiva (UE) 2019/1023; España, Ley 16/2022; Chile, Ley 20.720",
-      "iProfesional, proyectos de desendeudamiento en la Comisión de Defensa del Consumidor de Diputados (15/04/2026)",
-      "Letra P, media sanción bonaerense del régimen de sobreendeudamiento familiar (29/09/2026)"
+      "⚠ iProfesional, proyectos de desendeudamiento en la Comisión de Defensa del Consumidor de Diputados (15/04/2026)",
+      "⚠ Letra P, media sanción bonaerense del régimen de sobreendeudamiento familiar (29/09/2026)"
     ],
     "obras": null,
     "sinext": true
@@ -5701,7 +5698,7 @@
     "dato": {
       "valor": "767.000 t",
       "texto": "de fertilizantes fosfatados (MAP y DAP) importó la Argentina en el primer semestre; la producción nacional de MAP y DAP es nula",
-      "fuente": "Bolsa de Comercio de Rosario",
+      "fuente": "⚠ Bolsa de Comercio de Rosario",
       "fecha": "1er semestre 2026 (dato al 23/10/2026)"
     },
     "que_ext": "Dos caminos distintos para dos problemas distintos. En nitrogenados (urea), los proyectos privados existen: el Estado no pone capital, les quita el riesgo que frena la inversión —gas asegurado a precio previsible, transporte reservado y reglas estables—. En fosfatados, donde la producción nacional es nula y ningún privado invierte, el Estado sí invierte en un único eslabón: una planta y un stock que funcionen como reserva estratégica para la siembra. Lo hace a través de una sociedad anónima con mayoría estatal y participación de los que más pierden si falta el fertilizante: productores agropecuarios, YPF, fabricantes de maquinaria agrícola y empresas de energía, siderurgia y construcción de la cadena. En concreto: el gas asegurado apunta a Fertil Pampa (Bahía Blanca, aprobada en el RIGI) y a la segunda planta de Profertil, y la planta de fosfatados irá a Bahía Blanca, al cordón de San Lorenzo o al noroeste bonaerense junto al acueducto del Paraná, según el estudio.",
@@ -5729,13 +5726,13 @@
     "indicador": "Producción nacional de urea y de fosfatados como % del consumo (fosfatados hoy 0 %) y meses de consumo cubiertos por el stock regulador. Meta: autoabastecimiento de urea con saldo exportable.",
     "blindaje": "Contratos de largo plazo de gas y transporte, estabilidad del régimen de inversiones y ley de creación de la sociedad con presupuesto plurianual, que hacen costoso abandonar a mitad de camino.",
     "fuentes": [
-      "Bolsa de Comercio de Rosario, mercado de fertilizantes (2026)",
+      "⚠ Bolsa de Comercio de Rosario, mercado de fertilizantes (2026)",
       "Banco Mundial, Pink Sheet, DAP septiembre 2026",
       "Ministerio de Economía, web oficial del RIGI, proyecto Fertilizantes (24/10/2026)",
       "Alianza estratégica Argentina–India (compra conjunta de fosfatados)",
-      "Infobae, Fertil Pampa: planta de urea en Bahía Blanca aprobada en el RIGI (31/7/2026)",
-      "Infobae, Profertil diseña su segunda planta de urea en Bahía Blanca (15/10/2026)",
-      "La Política Online, gasoducto al Gran Rosario y proyecto de urea en Puerto General San Martín (23/9/2026)"
+      "⚠ Infobae, Fertil Pampa: planta de urea en Bahía Blanca aprobada en el RIGI (31/7/2026)",
+      "⚠ Infobae, Profertil diseña su segunda planta de urea en Bahía Blanca (15/10/2026)",
+      "⚠ La Política Online, gasoducto al Gran Rosario y proyecto de urea en Puerto General San Martín (23/9/2026)"
     ],
     "obras": {
       "titulo": "Dónde: plantas de urea, gas, acueducto y sitios para fosfatados",
@@ -5949,13 +5946,13 @@
     "fuentes": [
       "Secretaría de Energía, producción de gas",
       "Ministerio de Economía, web oficial del RIGI, ampliación del gasoducto",
-      "Global Energy Monitor, Gasoducto Perito Moreno: etapas y trazados (2025)",
-      "La Política Online, tramo Salliqueló–San Jerónimo suspendido (23/9/2026)",
-      "La Nación, cambios en la infraestructura de gas y petróleo (5/10/2026)",
-      "La Capital y Letra P, Acueducto Gran Rosario (2024 y 2026)",
-      "El Litoral, Acueducto Biprovincial Santa Fe–Córdoba, 25 % de avance (12/10/2026)",
+      "⚠ Global Energy Monitor, Gasoducto Perito Moreno: etapas y trazados (2025)",
+      "⚠ La Política Online, tramo Salliqueló–San Jerónimo suspendido (23/9/2026)",
+      "⚠ La Nación, cambios en la infraestructura de gas y petróleo (5/10/2026)",
+      "⚠ La Capital y Letra P, Acueducto Gran Rosario (2024 y 2026)",
+      "⚠ El Litoral, Acueducto Biprovincial Santa Fe–Córdoba, 25 % de avance (12/10/2026)",
       "LU17 y Gobierno del Chaco, Segundo Acueducto del Interior (2025 y 2026)",
-      "Diario Nuevo Día, estado de las represas del río Santa Cruz (12/9/2026)"
+      "⚠ Diario Nuevo Día, estado de las represas del río Santa Cruz (12/9/2026)"
     ],
     "obras": {
       "titulo": "Dónde: gasoductos, acueductos y represas a terminar",
@@ -6352,11 +6349,11 @@
     "blindaje": "Ley con metas anuales y acuerdo federal; las redes instaladas son infraestructura permanente y los indicadores sanitarios publicados hacen visible cualquier retroceso. El cronograma de tarifas y el criterio climático quedan en la ley, y el costo de cada servicio se publica cada semestre.",
     "fuentes": [
       "INDEC, Censo 2022, resultados definitivos, población por combustible para cocinar",
-      "Diario Norte, estado del Gasoducto del NEA (22/09/2026)",
-      "Global Energy Monitor, tramos del Gasoducto del Noreste Argentino",
-      "Aire de Santa Fe y El Litoral, Gasoducto Regional Centro II (agosto y septiembre de 2026)",
+      "⚠ Diario Norte, estado del Gasoducto del NEA (22/09/2026)",
+      "⚠ Global Energy Monitor, tramos del Gasoducto del Noreste Argentino",
+      "⚠ Aire de Santa Fe y El Litoral, Gasoducto Regional Centro II (agosto y septiembre de 2026)",
       "El Litoral (Corrientes), gasoductos previstos para Corrientes (14/03/2026)",
-      "La Nación, Misiones, única provincia sin gasoducto (11/08/2026)",
+      "⚠ La Nación, Misiones, única provincia sin gasoducto (11/08/2026)",
       "Decreto 943/2025, Subsidios Energéticos Focalizados; Decreto 452/2025, Ente Nacional Regulador del Gas y la Electricidad",
       "Ley 27.828 (B.O. 13/10/2026), régimen de zona fría",
       "Proyecto de Presupuesto 2027, metas de cobertura de costos y subsidios a la energía y el transporte",
@@ -6764,11 +6761,11 @@
     "blindaje": "Plan nuclear por ley con presupuesto plurianual y contratos de largo plazo; la ARN como regulador independiente.",
     "fuentes": [
       "INVAP, reactores de investigación exportados (Perú, Argelia, Egipto, Australia; Países Bajos en construcción), vía DEF Online",
-      "EconoJournal, extensión de vida de Atucha I hasta 2027 (marzo de 2026)",
-      "EconoJournal, el CAREM en pausa (2/4/2026)",
-      "Diario La Primera, cancelación de Atucha III y nueva licitación en Lima (5/10/2026)",
+      "⚠ EconoJournal, extensión de vida de Atucha I hasta 2027 (marzo de 2026)",
+      "⚠ EconoJournal, el CAREM en pausa (2/4/2026)",
+      "⚠ Diario La Primera, cancelación de Atucha III y nueva licitación en Lima (5/10/2026)",
       "Gobierno nacional, el RA-10 se pondrá en marcha en 2027 (2026)",
-      "EconoJournal, planta de Dioxitek en Formosa (abril de 2026)",
+      "⚠ EconoJournal, planta de Dioxitek en Formosa (abril de 2026)",
       "ENRE, aumento de potencia por cierre de ciclo de la Central Térmica Brigadier López (noviembre de 2025)"
     ],
     "obras": {
@@ -6968,10 +6965,10 @@
     "blindaje": "Tratado internacional aprobado por ambos congresos, que sustrae a la empresa de los vaivenes de cada gobierno.",
     "fuentes": [
       "datosargentina, balanza comercial energética (datos.gob.ar)",
-      "Shale24, gas argentino a Brasil: módulo firme de 10 millones de m³/día (28/9/2026)",
-      "La Nación, cambios de fondo en la infraestructura de gas y petróleo (5/10/2026)",
-      "Global Energy Monitor, gasoductos Paraná–Uruguayana y Uruguaiana–Porto Alegre",
-      "Tecpetrol, primeras exportaciones de gas a Brasil vía Bolivia (2025)",
+      "⚠ Shale24, gas argentino a Brasil: módulo firme de 10 millones de m³/día (28/9/2026)",
+      "⚠ La Nación, cambios de fondo en la infraestructura de gas y petróleo (5/10/2026)",
+      "⚠ Global Energy Monitor, gasoductos Paraná–Uruguayana y Uruguaiana–Porto Alegre",
+      "⚠ Tecpetrol, primeras exportaciones de gas a Brasil vía Bolivia (2025)",
       "Ministerio de Economía, web oficial del RIGI: Southern Energy y San Matías Pipeline (2026)"
     ],
     "obras": {
@@ -7277,12 +7274,12 @@
     "fuentes": [
       "Ministerio de Economía, web oficial del RIGI",
       "Alianza estratégica Argentina–India, Programa 3",
-      "Diario Financiero, seis proyectos de litio en el RIGI (11/8/2026)",
-      "Infobae, aprobación en el RIGI de Tres Quebradas (29/7/2026)",
+      "⚠ Diario Financiero, seis proyectos de litio en el RIGI (11/8/2026)",
+      "⚠ Infobae, aprobación en el RIGI de Tres Quebradas (29/7/2026)",
       "Infobae, cuatro plantas de litio en Catamarca (11/10/2026)",
-      "Minería y Desarrollo, KABIL en Fiambalá (19/8/2026)",
-      "El Inversor Energético, centro del litio de Palpalá (2017)",
-      "UNLP, planta de celdas y baterías UniLiB",
+      "⚠ Minería y Desarrollo, KABIL en Fiambalá (19/8/2026)",
+      "⚠ El Inversor Energético, centro del litio de Palpalá (2017)",
+      "⚠ UNLP, planta de celdas y baterías UniLiB",
       "Decreto 105/2026, prórroga del RIGI hasta julio de 2027"
     ],
     "obras": {
@@ -7451,7 +7448,7 @@
     "blindaje": "Unidad técnica con mandato por ley y publicación periódica obligatoria del mapa.",
     "fuentes": [
       "INDEC, comercio exterior: importaciones de urea, GNL y fosfatados (2025-2026)",
-      "El Economista, importación anual de concentrado de uranio (2025)",
+      "⚠ El Economista, importación anual de concentrado de uranio (2025)",
       "DNU 70/2023, derogación de la Ley 20.680 de Abastecimiento",
       "Ley 11.683, art. 101 (secreto fiscal)"
     ],
@@ -7603,31 +7600,31 @@
     "blindaje": "Afectación por ley de los fondos hídrico, de bosques y del fuego, excluidos en forma expresa de la facultad de disolver fondos fiduciarios por decreto (artículo 5 de la Ley 27.742), con ejecución pública; leyes de presupuestos mínimos vigentes y nueva de humedales con respaldo ciudadano; planes por cuenca acordados con las provincias; obras financiadas por multilaterales; compromisos internacionales y datos satelitales abiertos.",
     "fuentes": [
       "Secretaría de Agricultura, Ganadería y Pesca, estimaciones agrícolas, producción de granos 2022/23",
-      "Chequeado, Fondo de Infraestructura Hídrica en deuda del Tesoro (2026)",
-      "La Trocha Digital, tramo IV del río Salado paralizado (20/10/2026)",
-      "La Nación, licitación del tramo V del río Salado (5/1/2026)",
-      "Radio Amanecer, Plan Director de los Bajos Submeridionales (26/6/2026)",
+      "⚠ Chequeado, Fondo de Infraestructura Hídrica en deuda del Tesoro (2026)",
+      "⚠ La Trocha Digital, tramo IV del río Salado paralizado (20/10/2026)",
+      "⚠ La Nación, licitación del tramo V del río Salado (5/1/2026)",
+      "⚠ Radio Amanecer, Plan Director de los Bajos Submeridionales (26/6/2026)",
       "MundoMarítimo, adjudicación de la Vía Navegable Troncal, Resolución 36/2026 (19/6/2026)",
       "ENACOM, Resolución 960/2025 (alertas a celulares)",
       "Provincia de Buenos Aires, Ministerio de Infraestructura, licitación de la reconstrucción del canal Maldonado (7/11/2025)",
       "Provincia de Buenos Aires, Ministerio de Infraestructura, firma del contrato para las obras del canal Maldonado (27/2/2026)",
       "Chequeado, Temporal en Bahía Blanca: los factores que explican la magnitud del desastre (marzo de 2025)",
       "Provincia de Buenos Aires, Recursos Hídricos, licitación de la operación de la estación de bombeo de La Picasa (3/9/2025)",
-      "Bolsa de Comercio de Rosario, la problemática hídrica de la laguna La Picasa (9/8/2019)",
-      "Hoy Día Córdoba, plan provincial de mantenimiento y readecuación de obras hídricas para 2026 (15/12/2025)",
-      "Bichos de Campo, Carbap estima más de un millón de hectáreas bajo agua en el centro y noroeste bonaerense (25/8/2025)",
+      "⚠ Bolsa de Comercio de Rosario, la problemática hídrica de la laguna La Picasa (9/8/2019)",
+      "⚠ Hoy Día Córdoba, plan provincial de mantenimiento y readecuación de obras hídricas para 2026 (15/12/2025)",
+      "⚠ Bichos de Campo, Carbap estima más de un millón de hectáreas bajo agua en el centro y noroeste bonaerense (25/8/2025)",
       "Bichos de Campo, el Fondo de Infraestructura Hídrica en el proyecto de Presupuesto 2027 (16/9/2026)",
-      "La Nación, polémica por el uso financiero del fondo para obras hídricas (4/5/2026)",
-      "Perfil, Resistencia amplía un lago compensador para reducir el riesgo de inundaciones (16/10/2026)",
+      "⚠ La Nación, polémica por el uso financiero del fondo para obras hídricas (4/5/2026)",
+      "⚠ Perfil, Resistencia amplía un lago compensador para reducir el riesgo de inundaciones (16/10/2026)",
       "C5N, más de 400 evacuados en Corrientes por la crecida del Paraná y el Uruguay (17/10/2026)",
-      "Noticias NQN, inundaciones en el Litoral y emergencia hídrica en Entre Ríos (13/10/2026)",
-      "El Litoral, mantenimiento de las defensas del Gran Santa Fe (19/3/2024)",
+      "⚠ Noticias NQN, inundaciones en el Litoral y emergencia hídrica en Entre Ríos (13/10/2026)",
+      "⚠ El Litoral, mantenimiento de las defensas del Gran Santa Fe (19/3/2024)",
       "El Litoral, licitación de la defensa de Arroyo Leyes y Rincón (14/11/2023)",
       "Provincia de Buenos Aires, Comité de Cuenca del Río Luján, obras en Luján y Mercedes (1/8/2025) y aniversario del comité (26/3/2026)",
-      "La Gaceta, ampliación de canales en el sur de San Miguel de Tucumán (28/6/2026)",
+      "⚠ La Gaceta, ampliación de canales en el sur de San Miguel de Tucumán (28/6/2026)",
       "Legislatura de Córdoba, Ley 10.936 de consorcios de gestión integrada de cuencas agropecuarias (2023)",
       "Cámara de Diputados, proyecto 6868-D-2022 sobre el Comité Interjurisdiccional de la Región Hídrica del Noroeste de la Llanura Pampeana",
-      "SNMF, superficie afectada por incendios 2020-2025 (vía Chequeado, 04/02/2026)",
+      "SNMF, superficie afectada por incendios 2020-2025",
       "Ley 26.331 de Bosques Nativos, Ley 26.815 de Manejo del Fuego, Ley 27.191, Ley 27.520",
       "Ley 26.331, arts. 30 y 31 (Fondo de Bosques)",
       "FARN vía Argentina Forestal, presupuesto 2027 para bosques y fuego (18/09/2026)",
@@ -8046,16 +8043,16 @@
     "blindaje": "Acuerdo federal con metas anuales públicas, financiamiento multilateral de largo plazo y obras que, una vez hechas, son patrimonio permanente.",
     "fuentes": [
       "INDEC, Censo 2022, resultados provisionales de vivienda",
-      "Diario Panorama, obra cloacal de Añatuya paralizada (14/5/2026)",
-      "Canal 12 Misiones, obras reclamadas a Nación (29/4/2026)",
-      "Charata.com, Fonplata y cloacas de Sáenz Peña (1/9/2026)",
+      "⚠ Diario Panorama, obra cloacal de Añatuya paralizada (14/5/2026)",
+      "⚠ Canal 12 Misiones, obras reclamadas a Nación (29/4/2026)",
+      "⚠ Charata.com, Fonplata y cloacas de Sáenz Peña (1/9/2026)",
       "Decreto 1020/2024, disolución del ENOHSA",
       "AySA, Sistema Riachuelo",
       "Municipalidad de Rojas, plan maestro del acueducto del noroeste bonaerense (19/5/2016)",
-      "Letra P, acueducto noroeste: 23 partidos, un millón de personas, US$ 1.500 millones (18/7/2022)",
-      "Semanario de Junín, el Acueducto Región Noroeste (24/7/2022)",
+      "⚠ Letra P, acueducto noroeste: 23 partidos, un millón de personas, US$ 1.500 millones (18/7/2022)",
+      "⚠ Semanario de Junín, el Acueducto Región Noroeste (24/7/2022)",
       "Ministerio de Economía, adjudicación del 90 % de AySA (8/10/2026)",
-      "El Economista, inversiones y metas del adjudicatario de AySA (6/10/2026)"
+      "⚠ El Economista, inversiones y metas del adjudicatario de AySA (6/10/2026)"
     ],
     "obras": {
       "titulo": "Dónde: primeras obras de cloacas y agua",
@@ -8288,44 +8285,44 @@
     "fuentes": [
       "datos.gob.ar, transferencias de capital a provincias",
       "ArgenPorts, licitación de Belgrano Cargas, Resolución 1350/2026 (2026)",
-      "La Nación, Etapa III de la Red Federal de Concesiones (21/8/2026)",
-      "La Capital, concesión del tramo Portuario Norte (11/5/2026)",
-      "LM Neuquén, Tren Norpatagónico (17/7/2026)",
-      "ArgenPorts, acceso a Puerto Timbúes (20/5/2026)",
-      "OA Web, cesión de la ruta A012 a Santa Fe (21/7/2026)",
+      "⚠ La Nación, Etapa III de la Red Federal de Concesiones (21/8/2026)",
+      "⚠ La Capital, concesión del tramo Portuario Norte (11/5/2026)",
+      "⚠ LM Neuquén, Tren Norpatagónico (17/7/2026)",
+      "⚠ ArgenPorts, acceso a Puerto Timbúes (20/5/2026)",
+      "⚠ OA Web, cesión de la ruta A012 a Santa Fe (21/7/2026)",
       "NoticiasNQN, la Legislatura aprobó el prefinanciamiento de rutas de Vaca Muerta (7/10/2026)",
-      "Letra P, el plan para que las petroleras financien 158 kilómetros de rutas en Vaca Muerta (8/10/2026)",
+      "⚠ Letra P, el plan para que las petroleras financien 158 kilómetros de rutas en Vaca Muerta (8/10/2026)",
       "NoticiasNQN, Koenig defendió el acuerdo con 15 petroleras para financiar rutas hacia Añelo y Rincón (30/9/2026)",
-      "EconoJournal, petroleras y nuevo paquete de rutas en Neuquén (22/7/2026)",
-      "NoticiasNQN, habilitaron el primer tramo del bypass de Añelo (25/5/2026)",
-      "LM Neuquén, se adjudicó a Losi y Rovella la circunvalación de Añelo (9/4/2026)",
-      "El Economista, así será el anillo vial de Vaca Muerta (23/5/2025)",
-      "El Cronista, Río Negro se hace cargo de las Rutas Nacionales 22 y 151 (24/8/2026)",
-      "Diario Río Negro, la involución de la Ruta 22 (4/6/2023)",
-      "Letra P, Ruta 5: el concesionario y las obras paradas de la autopista Mercedes–Suipacha (2/8/2026)",
+      "⚠ EconoJournal, petroleras y nuevo paquete de rutas en Neuquén (22/7/2026)",
+      "⚠ NoticiasNQN, habilitaron el primer tramo del bypass de Añelo (25/5/2026)",
+      "⚠ LM Neuquén, se adjudicó a Losi y Rovella la circunvalación de Añelo (9/4/2026)",
+      "⚠ El Economista, así será el anillo vial de Vaca Muerta (23/5/2025)",
+      "⚠ El Cronista, Río Negro se hace cargo de las Rutas Nacionales 22 y 151 (24/8/2026)",
+      "⚠ Diario Río Negro, la involución de la Ruta 22 (4/6/2023)",
+      "⚠ Letra P, Ruta 5: el concesionario y las obras paradas de la autopista Mercedes–Suipacha (2/8/2026)",
       "Bichos de Campo, Vialidad Nacional decidió no terminar las obras pendientes en la Ruta 7 (2/7/2025)",
-      "Contexto Tucumán, la justicia federal ordenó reparar las Rutas Nacionales 7, 8 y 33 (10/8/2026)",
-      "Contexto Tucumán, la Ruta 9 se concesiona con peajes y bacheo pero sin obras nuevas (22/8/2026)",
-      "BAE Negocios, licitación de la Etapa III de la Red Federal de Concesiones (23/2/2026)",
-      "iProfesional, la autopista de la Ruta 19 ya está lista en un 25 % (26/7/2026)",
-      "La Nación, Ruta 40 en Vaca Muerta: 80 kilómetros de ripio (28/2/2023)",
-      "NoticiasNQN, Mendoza y Neuquén acordaron avanzar en la finalización de la Ruta 40 (22/2/2026)",
-      "La Política Online, Salta negocia completar dos trayectos de la Ruta 40 en los Valles Calchaquíes (12/2/2025)",
+      "⚠ Contexto Tucumán, la justicia federal ordenó reparar las Rutas Nacionales 7, 8 y 33 (10/8/2026)",
+      "⚠ Contexto Tucumán, la Ruta 9 se concesiona con peajes y bacheo pero sin obras nuevas (22/8/2026)",
+      "⚠ BAE Negocios, licitación de la Etapa III de la Red Federal de Concesiones (23/2/2026)",
+      "⚠ iProfesional, la autopista de la Ruta 19 ya está lista en un 25 % (26/7/2026)",
+      "⚠ La Nación, Ruta 40 en Vaca Muerta: 80 kilómetros de ripio (28/2/2023)",
+      "⚠ NoticiasNQN, Mendoza y Neuquén acordaron avanzar en la finalización de la Ruta 40 (22/2/2026)",
+      "⚠ La Política Online, Salta negocia completar dos trayectos de la Ruta 40 en los Valles Calchaquíes (12/2/2025)",
       "Vialidad Nacional, trabajos en la Ruta Nacional 23 en Río Negro (29/10/2025)",
-      "Chequeado, cuántas rutas están asfaltadas, con datos del Consejo Vial Federal de junio de 2023 (2023)",
-      "Bichos de Campo, Córdoba entrega subsidios a sus 286 consorcios camineros (1/4/2025)",
+      "⚠ Chequeado, cuántas rutas están asfaltadas, con datos del Consejo Vial Federal de junio de 2023 (2023)",
+      "⚠ Bichos de Campo, Córdoba entrega subsidios a sus 286 consorcios camineros (1/4/2025)",
       "Infonegocios, Córdoba y el modelo de consorcios camineros, Ley 6.233 (3/3/2021)",
-      "Bichos de Campo, balance del Consorcio Caminero Único de Córdoba (2025)",
+      "⚠ Bichos de Campo, balance del Consorcio Caminero Único de Córdoba (2025)",
       "Gobierno de Entre Ríos, la Ley de Consorcios Camineros (7/9/2026)",
-      "Bichos de Campo, la Comisión Vial Rural de Benito Juárez (8/3/2022)",
-      "iProfesional, fallo que frena la tasa vial en municipios bonaerenses (31/3/2026)",
-      "UADE (INTEC), Evaluación y mejora de la infraestructura rural vial en el sudeste y la cuenca del Salado (2026)",
+      "⚠ Bichos de Campo, la Comisión Vial Rural de Benito Juárez (8/3/2022)",
+      "⚠ iProfesional, fallo que frena la tasa vial en municipios bonaerenses (31/3/2026)",
+      "⚠ UADE (INTEC), Evaluación y mejora de la infraestructura rural vial en el sudeste y la cuenca del Salado (2026)",
       "Bolsa de Comercio de Rosario, el 65 % de la producción agrícola está a menos de 300 km de los puertos (24/7/2026)",
       "Cámara de Diputados, proyecto 3519-D-2025 sobre la distribución del impuesto a los combustibles (Ley 23.966, art. 19) (2025)",
-      "MundoMarítimo, adjudicación de la Vía Navegable Troncal y etapas de profundización (2026)",
-      "Canal 26, peaje de la nueva concesión de la Vía Navegable Troncal (septiembre 2026)",
-      "La Capital y El Cronista, reducción del calado Timbúes–Santa Fe de 25 a 15-17 pies (2024)",
-      "Bolsa de Comercio de Rosario, tramo Santa Fe–Confluencia (10 pies)",
+      "⚠ MundoMarítimo, adjudicación de la Vía Navegable Troncal y etapas de profundización (2026)",
+      "⚠ Canal 26, peaje de la nueva concesión de la Vía Navegable Troncal (septiembre 2026)",
+      "⚠ La Capital y El Cronista, reducción del calado Timbúes–Santa Fe de 25 a 15-17 pies (2024)",
+      "⚠ Bolsa de Comercio de Rosario, tramo Santa Fe–Confluencia (10 pies)",
       "Acuerdo Federal Hidrovía (28/8/2020) y Resolución 307/2020 del ex Ministerio de Transporte (Consejo Federal Hidrovía)",
       "Cancillería de la República Oriental del Uruguay, comunicado 52/21, Canal Magdalena (6/4/2021)",
       "Tratado del Río de la Plata y su Frente Marítimo (1973), artículos 17 a 22",
@@ -9258,13 +9255,13 @@
     "dato": {
       "valor": "142 %",
       "texto": "creció la población de Añelo, capital operativa de Vaca Muerta, entre los censos 2010 y 2022",
-      "fuente": "INDEC, censos 2010 y 2022 (citado en Transformar sin tiempo ni cambios es destruir)",
+      "fuente": "INDEC, censos 2010 y 2022",
       "fecha": "2022"
     },
     "que_ext": "Proponemos planes de absorción urbana para las zonas que crecen por la energía, la minería o la industria: suelo urbanizado, vivienda, agua, cloacas, escuelas, salud y transporte planificados antes de que llegue la población. Se financian con la contrapartida de las grandes inversiones, el impuesto al suelo y crédito para vivienda. Los primeros planes: Añelo y Rincón de los Sauces (Neuquén), Sierra Grande y San Antonio Oeste (Río Negro), Iglesia y Calingasta (San Juan) y los pueblos del litio de la Puna.",
     "que_comp": "Cada zona de crecimiento previsible (polos energéticos, mineros e industriales) tiene un plan de ordenamiento territorial acordado por Nación, provincia y municipio, con: proyección de población y empleo, banco de suelo urbanizado, metas de vivienda (propia y en alquiler), escuelas, centros de salud, agua, cloacas y transporte. El impuesto al valor del suelo (propuesta 15) castiga los lotes ociosos y financia la urbanización; la contrapartida territorial de las grandes inversiones (propuesta 21) aporta obras; y el crédito hipotecario en unidad estable (ajustada por inflación) permite construir.\n\nSe suma la formación de la población local para los empleos que se crean (terminar la secundaria y aprender oficios), para que el crecimiento no deje afuera a quienes viven al lado del yacimiento.\n\nEn concreto: los primeros planes se hacen donde ya hay inversiones aprobadas o en obra. En Neuquén, Añelo (el municipio entregó 687 lotes y estima que faltan unas 2.500 soluciones habitacionales) y Rincón de los Sauces, en el norte de Vaca Muerta. En Río Negro, Sierra Grande, junto a la terminal de Punta Colorada del oleoducto Vaca Muerta Oil Sur, que empezaría a operar a principios de 2027, y San Antonio Oeste, frente al proyecto de gas natural licuado del Golfo San Matías, cuyo primer buque llegaría en 2027. En San Juan, los departamentos de Iglesia (proyecto Vicuña, con más de 2.600 trabajadores) y Calingasta (Los Azules), cuyos campamentos, en el pico de obra, podrían alojar juntos a más de 10.000 trabajadores. En la Puna, Antofagasta de la Sierra (Salar del Hombre Muerto) y Fiambalá (Tres Quebradas), en Catamarca, y Susques (Cauchari-Olaroz), en Jujuy. Meta: que en cada zona la vivienda, las escuelas y los centros de salud crezcan al menos al ritmo de la población proyectada, con el plan aprobado antes de que la obra principal llegue a su pico de empleo; en Añelo, cubrir las 2.500 soluciones habitacionales faltantes durante la Fase II.",
     "porque_ext": "El departamento de Añelo pasó de unos 10.800 habitantes en 2010 a más de 18.000 en 2022, y la localidad creció 142 % en ese período. Recibe unas 20.000 personas por día que trabajan allí sin vivir allí y su autoridad local llegó a pedir que no vinieran con sus familias porque no hay viviendas, escuelas ni salud. La inversión llegó; la ciudad, no.",
-    "porque_comp": "El déficit habitacional de la zona se estima en torno al 60 %, las escuelas están saturadas y la mitad de las parcelas sigue sin construir: es crecer sin plan. Además, más del 60 % de los adultos de la zona no terminó la secundaria, por lo que el empleo que se crea no alcanza a la población local (Transformar sin tiempo ni cambios es destruir, sobre datos locales). Neuquén es la provincia con mayor crecimiento del empleo privado registrado desde fines de 2023 (+8,7 %, SIPA).\n\nLa infraestructura urbana tarda décadas y se la convoca a responder en dos años; ningún nivel del Estado planificó un movimiento de población enteramente previsible. Lo improvisado es caro dos veces: cuando se hace y cuando hay que rehacerlo.",
+    "porque_comp": "El déficit habitacional de la zona se estima en torno al 60 %, las escuelas están saturadas y la mitad de las parcelas sigue sin construir: es crecer sin plan. Además, más del 60 % de los adultos de la zona no terminó la secundaria, por lo que el empleo que se crea no alcanza a la población local ⚠ (estimación sobre datos locales). Neuquén es la provincia con mayor crecimiento del empleo privado registrado desde fines de 2023 (+8,7 %, SIPA).\n\nLa infraestructura urbana tarda décadas y se la convoca a responder en dos años; ningún nivel del Estado planificó un movimiento de población enteramente previsible. Lo improvisado es caro dos veces: cuando se hace y cuando hay que rehacerlo.",
     "grafico": null,
     "cuando": "Fase II · años 2-3 (polos actuales desde la Fase I)",
     "instrumento": "Acuerdos Nación-provincia-municipio y ley de ordenamiento territorial",
@@ -9283,14 +9280,13 @@
     "indicador": "Déficit habitacional y cobertura de servicios en las zonas de crecimiento (meta: que la vivienda y los servicios crezcan al ritmo de la población); empleo local en las nuevas actividades.",
     "blindaje": "Planes de ordenamiento aprobados por ordenanza y ley provincial, ligados a los contratos de las grandes inversiones, que los vuelven exigibles durante toda la vida del proyecto.",
     "fuentes": [
-      "Transformar sin tiempo ni cambios es destruir (Añelo; INDEC censos 2010 y 2022)",
       "SIPA vía datos.gob.ar, empleo por provincia, junio 2026",
-      "Infobae, Añelo duplicó su población (5/10/2026)",
-      "LM Neuquén, comisionado del oleoducto VMOS (19/10/2026)",
-      "LM Neuquén, efecto VMOS en Sierra Grande (2026)",
-      "LM Neuquén, Rincón de los Sauces en la nueva etapa de Vaca Muerta (2026)",
-      "Redacción San Juan, Vicuña y Los Azules: alojar a más de 10.000 trabajadores (25/8/2026)",
-      "Shale24, llegada del buque de GNL de Southern Energy en 2027 (2026)"
+      "⚠ Infobae, Añelo duplicó su población (5/10/2026)",
+      "⚠ LM Neuquén, comisionado del oleoducto VMOS (19/10/2026)",
+      "⚠ LM Neuquén, efecto VMOS en Sierra Grande (2026)",
+      "⚠ LM Neuquén, Rincón de los Sauces en la nueva etapa de Vaca Muerta (2026)",
+      "⚠ Redacción San Juan, Vicuña y Los Azules: alojar a más de 10.000 trabajadores (25/8/2026)",
+      "⚠ Shale24, llegada del buque de GNL de Southern Energy en 2027 (2026)"
     ],
     "obras": {
       "titulo": "Dónde: pueblos que reciben grandes inversiones",
@@ -9534,7 +9530,7 @@
       "Ley 27.078 Argentina Digital",
       "ARSAT, plan de acción y presupuesto 2026 (Resolución 888/2026",
       "ARSAT, Red Federal de Fibra Óptica (2026)",
-      "Convergencia, licitación de la REFEFO en el litoral patagónico (2025)",
+      "⚠ Convergencia, licitación de la REFEFO en el litoral patagónico (2025)",
       "La Nación, costo y características del ARSAT-SG1 (19/08/2025)",
       "ENACOM, acuerdo de conectividad satelital para 6.000 escuelas rurales",
       "Decreto 6/2025 (disolución del Fondo Fiduciario del Servicio Universal) y Decreto 1060/2017 (compartición de infraestructura)",
@@ -10037,7 +10033,7 @@
       "SIPA, asalariados privados, jun-2026",
       "Ley 24.013, Título IV y arts. 143 a 145 (texto actualizado)",
       "Consejo del Salario, Resolución 4/2026 y montos de octubre de 2026 (iProfesional)",
-      "Seguridad Social, beneficiarios de la prestación por desempleo, septiembre de 2026 (vía iProfesional, 21/10/2026)",
+      "Seguridad Social, beneficiarios de la prestación por desempleo, septiembre de 2026",
       "Ley 27.802, arts. 99 y 152"
     ],
     "sinext": false
@@ -10160,7 +10156,7 @@
     "fuentes": [
       "Jefatura de Gabinete, informe al Congreso, nov-2024",
       "Ley 26.421 (Programa RAÍCES) y Resolución 125/2026 de la Jefatura de Gabinete (premios RAÍCES 2026)",
-      "Chequeado, científicos repatriados por RAÍCES 2001-2018",
+      "⚠ Chequeado, científicos repatriados por RAÍCES 2001-2018",
       "Secretaría de Educación (Ministerio de Capital Humano), Resolución 480/2026 (convalidación de títulos secundarios)"
     ],
     "sinext": false
@@ -10221,7 +10217,7 @@
     "dato": {
       "valor": "36 / 100",
       "texto": "puntaje de la Argentina en percepción de corrupción (0 = muy corrupto; 100 = muy transparente)",
-      "fuente": "Transparencia Internacional, Índice de Percepción de la Corrupción",
+      "fuente": "⚠ Transparencia Internacional, Índice de Percepción de la Corrupción",
       "fecha": "2025"
     },
     "que_ext": "Un sistema único y abierto donde cada compra del Estado —licitación, contratación directa, adjudicación, entregas y pagos— se publica el mismo día que se firma, y donde cualquiera puede ver al día cuánto entra, cuánto se gasta, a quién se le paga y cuánto hay en cada cuenta pública. Se lanza por decreto en la primera semana de gobierno y después se blinda por ley. Transparencia total para el Estado, privacidad para el ciudadano. En concreto: COMPR.AR y CONTRAT.AR se unifican en datos abiertos con el estándar internacional de contrataciones abiertas, y Presupuesto Abierto muestra cada pago con su beneficiario.",
@@ -10309,8 +10305,8 @@
     "indicador": "Porcentaje del gasto en compras publicado en tiempo real y del gasto total publicado con beneficiario y concepto al día siguiente. Meta: 100 % del gasto nacional en el primer año.",
     "blindaje": "Ley aprobada con amplio acuerdo y datos abiertos replicados por terceros: una vez que la sociedad ve, no se puede volver a tapar.",
     "fuentes": [
-      "Transparencia Internacional, IPC 2025",
-      "AAIP vía Chequeado (may-2025)",
+      "⚠ Transparencia Internacional, IPC 2025",
+      "AAIP (mayo de 2025)",
       "Ley 27.275",
       "Oficina Nacional de Contrataciones, datos de CONTRAT.AR en el Estándar de Datos para las Contrataciones Abiertas (argentina.gob.ar, may-2023)",
       "Decreto 1023/2001, arts. 9, 18 y 32, y Ley 27.275, art. 32 (textos actualizados, argentina.gob.ar)"
@@ -10497,9 +10493,9 @@
       "INDEC, EPH, pobreza 1S-2026",
       "Decreto 377/2025, traspaso de la flota aérea presidencial al Ministerio de Defensa (2025)",
       "Decreto 514/2025, estructura de la flota presidencial en el Ministerio de Defensa",
-      "Infobae, el ARG-01 en inspección programada en Estados Unidos (15/07/2026)",
+      "⚠ Infobae, el ARG-01 en inspección programada en Estados Unidos (15/07/2026)",
       "Decreto 1176/2026, administración de Olivos y Chapadmalal (seguridad, acceso, intendencia y mantenimiento) a cargo de la Casa Militar",
-      "AABE, licitación de seis hoteles y cesión de tres a la UNMdP en Chapadmalal, vía Los Primeros TV (oct-2026)",
+      "AABE, licitación de seis hoteles y cesión de tres a la UNMdP en Chapadmalal",
       "Ley 25.188 de Ética en el Ejercicio de la Función Pública, art. 2",
       "Ley 27.287, Sistema Nacional para la Gestión Integral del Riesgo",
       "Ley 26.794 (2012), denominación del Centro Cultural del Bicentenario",
@@ -10653,10 +10649,10 @@
       "Ley 27.742, reforma del empleo público (2024)",
       "INDEC, Dotación de personal de la Administración Pública Nacional, empresas y sociedades, agosto 2026 (septiembre 2026)",
       "Ministerio de Modernización, dotación de la administración nacional a diciembre de 2017",
-      "CIPPEC, Evolución y distribución del empleo público en el sector público nacional argentino (2003-2012), vía Chequeado (2016)",
+      "⚠ CIPPEC, Evolución y distribución del empleo público en el sector público nacional argentino (2003-2012), vía Chequeado (2016)",
       "Fundación Libertad, gasto de las legislaturas provinciales según los presupuestos 2026, vía Forbes Argentina (septiembre 2026)",
       "Ministerio de Economía, Dirección Nacional de Asuntos Provinciales, empleo público provincial a diciembre 2024",
-      "Fundación Libertad y Progreso, empleo público provincial 2002-2022, vía Primera Edición (marzo 2024)",
+      "⚠ Fundación Libertad y Progreso, empleo público provincial 2002-2022, vía Primera Edición (marzo 2024)",
       "Decreto 336/2016, registro de convenios de la administración nacional con universidades",
       "Decreto 891/2017, buenas prácticas en materia de simplificación (argentina.gob.ar)",
       "Decreto 27/2018, desburocratización y simplificación",
@@ -10678,7 +10674,7 @@
     "dato": {
       "valor": "16 %",
       "texto": "de las personas está satisfecha con el Poder Judicial",
-      "fuente": "Encuesta de Satisfacción Política y Opinión Pública (ESPOP), Universidad de San Andrés",
+      "fuente": "⚠ Encuesta de Satisfacción Política y Opinión Pública (ESPOP), Universidad de San Andrés",
       "fecha": "octubre 2026"
     },
     "que_ext": "Proponemos una reforma judicial para la transparencia y la rapidez: expedientes totalmente digitales, seguimiento público en tiempo real del estado de cada causa, plazos procesales máximos con consecuencias si no se cumplen, oralidad generalizada, indicadores públicos de cada juzgado y mecanismos de resolución alternativa de conflictos, como la mediación. En concreto: hacer cumplir los plazos que el Código Procesal Penal Federal ya fija (un año de investigación, tres de proceso) y llevarlo a todos los distritos, incluida la justicia nacional de la Ciudad, al fin de la Fase II.",
@@ -10746,7 +10742,7 @@
       "ESPOP-UdeSA, mar-oct 2026 (vía Sociopolítica Argentina)",
       "Código Procesal Penal Federal (Ley 27.063, t.o. Decreto 118/2019), arts. 119, 265 y 266",
       "Ministerio Público Fiscal, UNISA, cronograma de implementación del CPPF (2026)",
-      "Infobae, cronograma del sistema acusatorio en cuatro nuevas jurisdicciones (28/07/2026)",
+      "⚠ Infobae, cronograma del sistema acusatorio en cuatro nuevas jurisdicciones (28/07/2026)",
       "Ministerio de Justicia, Resolución 417/2026, acusatorio en Paraná desde el 30/11/2026",
       "Ley 26.685 de expediente electrónico"
     ],
@@ -10795,7 +10791,7 @@
       "Decretos 222/2003 y 588/2003, procedimiento de preselección de magistrados",
       "Ley 27.148 Orgánica del Ministerio Público Fiscal, art. 11 (2015)",
       "Ley 27.439, régimen de subrogancias (2018)",
-      "La Nación, vacantes judiciales y mandato del Procurador (julio 2026)",
+      "⚠ La Nación, vacantes judiciales y mandato del Procurador (julio 2026)",
       "0264 Noticias, el Ejecutivo posterga las vacantes de la Corte y la Procuración (agosto 2026)"
     ],
     "sinext": false
@@ -10837,7 +10833,7 @@
     "blindaje": "Es un mandato constitucional y una ley votada por la ciudadanía: una vez implementado, volver atrás contradice la Constitución y la decisión popular.",
     "fuentes": [
       "Constitución Nacional, arts. 24, 75 inc. 12 y 118",
-      "Justicia.ar, provincias con juicio por jurados (2026)",
+      "⚠ Justicia.ar, provincias con juicio por jurados (2026)",
       "Ministerio Público Fiscal, UNISA, cronograma de implementación del CPPF (2026)",
       "Cámara de Diputados, dictamen sobre juicio por jurados federal",
       "Mejor Informado, el Gobierno posterga el proyecto de jurados federales (05/07/2026)",
@@ -10980,7 +10976,7 @@
     "dato": {
       "valor": "8 a 21 años",
       "texto": "tardaron en llegar a sentencia las principales causas contra ex funcionarios de alto rango; las que no involucran poder, de 3 a 6",
-      "fuente": "Relevamiento propio sobre 15 causas de corrupción",
+      "fuente": "⚠ Relevamiento propio sobre 15 causas de corrupción",
       "fecha": "2026"
     },
     "que_ext": "Proponemos que los plazos de prescripción de los delitos de corrupción queden suspendidos mientras el acusado o su grupo conserve poder, y que esos delitos se declaren imprescriptibles cuando impliquen enriquecimiento a costa del Estado. Y un sistema real de recupero de activos: lo que se robó, vuelve. En concreto: se reforma el artículo 67 del Código Penal, se declaran imprescriptibles el cohecho (soborno), la malversación y el enriquecimiento ilícito, la extinción de dominio —la pérdida de los bienes de origen ilícito— pasa a ley y se crea la Agencia Nacional de Bienes Recuperados.",
@@ -11008,7 +11004,6 @@
     "indicador": "Causas de corrupción extinguidas por prescripción (meta: cero) y monto recuperado publicado.",
     "blindaje": "Imprescriptibilidad votada por la ciudadanía en consulta popular, que se apoya en el espíritu del art. 36 de la Constitución, que equipara la corrupción grave a un atentado contra la democracia, y en las convenciones internacionales que piden plazos largos y suspensión de la prescripción.",
     "fuentes": [
-      "La moral, la política y el Estado (cap. «El reloj»)",
       "Constitución Nacional, art. 36",
       "Código Penal, art. 67",
       "Código Penal, arts. 62, 67, 174 inc. 5 y 256 a 268 (2)",
@@ -11124,8 +11119,8 @@
       "Sociopolítica Argentina, conflictividad/hechos.json (oct-2026)",
       "Decreto 383/2025, estatuto de la Policía Federal Argentina (Boletín Oficial, 17/06/2025)",
       "Ministerio de Seguridad Nacional, Plan Bandera y Plan Paraná",
-      "Plan Güemes, frontera con Bolivia, vía Sitio Andino (2024)",
-      "Plan Guaçurarí, frontera con Brasil, vía Canal 26 (2025)",
+      "Plan Güemes, frontera con Bolivia",
+      "Plan Guaçurarí, frontera con Brasil",
       "Decreto 454/2025, estatuto de la Gendarmería Nacional (derogó la Ley 19.349); Leyes 18.398 (Prefectura, según el Decreto 457/2025), 26.102 (PSA, según el Decreto 456/2025) y 24.059 (Seguridad Interior)"
     ],
     "obras": {
@@ -11329,10 +11324,10 @@
       "Ley 27.786, Ley Antimafias (2025)",
       "Ley 27.739, reforma del régimen antilavado (2024)",
       "Ley 26.052 y Ley 14.239 de Santa Fe, narcomenudeo",
-      "La Capital, homicidios en los barrios del Plan Bandera",
+      "⚠ La Capital, homicidios en los barrios del Plan Bandera",
       "Ministerio de Seguridad Nacional, Plan Güemes",
       "Aduana, Programa de Control de Contenedores (ONU) en el puerto de Rosario (2023)",
-      "Rosario3 e Infobae, concesión de la Vía Navegable Troncal (jun-oct 2026)",
+      "⚠ Rosario3 e Infobae, concesión de la Vía Navegable Troncal (jun-oct 2026)",
       "Ley 26.364 de prevención y sanción de la trata de personas, modificada por la Ley 26.842"
     ],
     "obras": {
@@ -11506,8 +11501,8 @@
       "Resolución 439/2026, prórroga de la emergencia penitenciaria federal",
       "Resolución 1042/2026, habilitación del Complejo Penitenciario Federal VIII de Marcos Paz",
       "PROCUVIN, población del Servicio Penitenciario Federal 2025",
-      "Chequeado, cárcel federal de Coronda (2025)",
-      "Rosario3, cárcel de alto perfil de Piñero (17/05/2026)",
+      "⚠ Chequeado, cárcel federal de Coronda (2025)",
+      "⚠ Rosario3, cárcel de alto perfil de Piñero (17/05/2026)",
       "Ley 26.743 de identidad de género",
       "Ley 27.801 de Régimen Penal Juvenil (2026), promulgada por el Decreto 138/2026, vigente desde el 5/09/2026"
     ],
@@ -11681,7 +11676,7 @@
       "RNFJA (CSJN) 2025 vía Chequeado (29/05/2026)",
       "Ley 26.485, art. 26; Ley 27.452; Código Civil y Comercial, arts. 551 y 553",
       "Ley 24.417 de protección contra la violencia familiar, arts. 1 y 4",
-      "Perfil, Línea 144: operadores y turnos según informe oficial (06/06/2026)",
+      "⚠ Perfil, Línea 144: operadores y turnos según informe oficial (06/06/2026)",
       "Ministerio de Justicia, dispositivos duales (argentina.gob.ar)",
       "Ley 26.743 de identidad de género"
     ],
@@ -11816,7 +11811,7 @@
       "Ley 13.478, art. 9; Ley 23.746; Ley 27.260, art. 13 (PUAM)",
       "Decreto 942/2025, disolución de la ANDIS; Ley 27.793, Decreto 84/2026 y Resolución 1/2026, Pensión No Contributiva por Discapacidad para Protección Social",
       "Decreto 198/2024, Resolución Conjunta 1/2024 y Resolución 90/2026 de Capital Humano, Programa de Acompañamiento Social",
-      "Diario Río Negro y BAE Negocios, fin de Volver al Trabajo y prórroga de Acompañamiento Social (2026)"
+      "⚠ Diario Río Negro y BAE Negocios, fin de Volver al Trabajo y prórroga de Acompañamiento Social (2026)"
     ],
     "sinext": true
   },
@@ -11860,7 +11855,7 @@
       "Ministerio de Economía, gasto en prestaciones de la seguridad social; INDEC, PIB (2º trimestre 2026)",
       "Leyes 24.476, 25.994, 26.970, 27.705 y 27.260",
       "Ley 26.425 y Decreto 2105/2008 (traspaso de la Superintendencia de AFJP a ANSES), según estados contables de la SAFJP (HCDN)",
-      "Los Andes, qué pasa tras el fin de la moratoria previsional (26/02/2025)",
+      "⚠ Los Andes, qué pasa tras el fin de la moratoria previsional (26/02/2025)",
       "Leyes 24.018 (modificada por la Ley 27.546) y 22.731, regímenes previsionales especiales"
     ],
     "sinext": false
@@ -11965,8 +11960,8 @@
       "INDEC, canasta básica total (octubre 2026)",
       "INDEC, EPH 1er semestre 2026, pobreza por edad",
       "Decreto 274/2024 (sustituye el art. 32 de la Ley 24.241)",
-      "iProfesional, el bono de $70.000 sigue congelado desde marzo de 2024 (23/07/2026)",
-      "Río Negro, haberes y bono de octubre de 2026",
+      "⚠ iProfesional, el bono de $70.000 sigue congelado desde marzo de 2024 (23/07/2026)",
+      "⚠ Río Negro, haberes y bono de octubre de 2026",
       "Ley 27.343 (Oficina de Presupuesto del Congreso)"
     ],
     "sinext": true
@@ -12032,7 +12027,7 @@
     "fuentes": [
       "INDEC, EPH 1er semestre 2026, pobreza por edad",
       "Ley 27.611",
-      "Argentinos por la Educación, Cobertura del nivel inicial: una comparación entre países de la región (2026), vía Chequeado",
+      "⚠ Argentinos por la Educación, Cobertura del nivel inicial: una comparación entre países de la región (2026), vía Chequeado",
       "Ley 27.045, sala de 4 obligatoria y universalización de la sala de 3 (2014)",
       "Ley 26.233, Centros de Desarrollo Infantil (2007)"
     ],
@@ -12047,7 +12042,7 @@
     "dato": {
       "valor": "10 de cada 100",
       "texto": "chicos que empezaron primer grado en 2013 terminaron la secundaria a tiempo y con aprendizajes satisfactorios",
-      "fuente": "Argentinos por la Educación (Relevamiento Anual y Aprender)",
+      "fuente": "⚠ Argentinos por la Educación (Relevamiento Anual y Aprender)",
       "fecha": "cohorte 2013-2024"
     },
     "que_ext": "Ordenar la escuela alrededor de lo esencial —alfabetización plena en los primeros grados, más y mejor matemática y lengua, inglés desde la primaria, informática como materia y educación financiera en la secundaria— y no perder a ningún chico en el camino: un sistema de alerta temprana que sigue asistencia, notas y situaciones de acoso o discriminación —entre ellas por orientación sexual o identidad de género, una de las causas por las que muchos chicos trans dejan la secundaria— y activa tutorías antes del abandono, becas atadas a la asistencia, regreso flexible para quien ya dejó y una secundaria técnica con prácticas reales. Se evalúa cada año y se apoya primero a las escuelas que más lo necesitan. En concreto: meta de 65 % de chicos de tercer grado leyendo al nivel esperado al año 4 (hoy 45 %, Aprender 2024) y un Instituto Nacional de Evaluación Educativa autónomo creado por ley.",
@@ -12177,7 +12172,7 @@
     "indicador": "Aprender (anual), PISA y egreso a tiempo y con aprendizajes (Relevamiento Anual). Meta a diez años, que continúa en los mandatos siguientes: reducir a la mitad los alumnos bajo el nivel básico en matemática y duplicar la proporción que termina a tiempo y aprendiendo.",
     "blindaje": "Acuerdo federal con metas públicas por provincia, evaluación a cargo de un organismo técnico autónomo y financiamiento plurianual atado al cumplimiento.",
     "fuentes": [
-      "Observatorio de Argentinos por la Educación, Índice de Resultados Escolares (cohorte 2013-2024, septiembre de 2025)",
+      "⚠ Observatorio de Argentinos por la Educación, Índice de Resultados Escolares (cohorte 2013-2024, septiembre de 2025)",
       "OCDE, PISA 2022",
       "INDEC, EPH 1er semestre 2026",
       "Ley 26.206 de Educación Nacional",
@@ -12185,7 +12180,7 @@
       "Consejo Federal de Educación, Resoluciones 465/2024, 471/2024 y 493/2025 (Plan Nacional de Alfabetización)",
       "Decreto 579/2024, Plan Nacional de Alfabetización",
       "Secretaría de Educación, Aprender Alfabetización 2024 (mayo de 2025) y Aprender Secundaria 2024 (junio de 2025)",
-      "Argentinos por la Educación, Alfabetización: ¿qué pasó y dónde estamos? (febrero de 2026)",
+      "⚠ Argentinos por la Educación, Alfabetización: ¿qué pasó y dónde estamos? (febrero de 2026)",
       "Ley 27.798 de Presupuesto 2026, artículo 30",
       "Ley 27.440 de Financiamiento Productivo, art. 211 (educación financiera en la Estrategia Nacional de Inclusión Financiera)"
     ],
@@ -12452,28 +12447,28 @@
       "Ley 27.491",
       "Alianza Estratégica Argentina–India, Programa 4",
       "Ministerio de Salud, Resolución 1445/2026, Plan Nacional de Abordaje Integral de Salud Vascular 2026-2030",
-      "Análisis Digital, fin del programa Remediar: listado de esenciales de 128 a 6 drogas (16/10/2026)",
-      "Análisis Digital, coberturas de vacunación 2025 y NOMIVAC (21/07/2026)",
+      "⚠ Análisis Digital, fin del programa Remediar: listado de esenciales de 128 a 6 drogas (16/10/2026)",
+      "⚠ Análisis Digital, coberturas de vacunación 2025 y NOMIVAC (21/07/2026)",
       "Ley 25.649 de prescripción por nombre genérico",
       "Ministerio de Salud de la Nación, finalizó el proceso de toma de cargos de residentes 2025 (07/11/2025)",
       "Ministerio de Salud de la Nación, se cubrieron todos los cargos de especialidades críticas en la primera readjudicación (06/10/2025)",
-      "La Nación, adjudicaron el 81 % de las vacantes de residencias: las especialidades más y menos elegidas (01/09/2025)",
+      "⚠ La Nación, adjudicaron el 81 % de las vacantes de residencias: las especialidades más y menos elegidas (01/09/2025)",
       "Perfil, el Garrahan en crisis: paro de residentes y medida judicial (28/05/2025)",
       "Decreto 760/2025, promulgación de la Ley 27.796 de emergencia pediátrica con aplicación suspendida",
-      "Tiempo Argentino, a días de vencerse la emergencia pediátrica (19/10/2026)",
+      "⚠ Tiempo Argentino, a días de vencerse la emergencia pediátrica (19/10/2026)",
       "Ley 17.102, Servicios de Atención Médica Integral para la Comunidad (SAMIC)",
-      "Letra P, hospitales SAMIC de gestión compartida y aportes de Nación y Provincia (07/01/2026)",
-      "El Marplatense, deuda bonaerense por los cinco hospitales SAMIC (07/11/2024)",
-      "Ámbito, provincias alertan la saturación del sistema público de salud (09/06/2026)",
-      "Perfil, aumentaron un 31 % las cirugías en hospitales públicos porteños (24/04/2025)",
+      "⚠ Letra P, hospitales SAMIC de gestión compartida y aportes de Nación y Provincia (07/01/2026)",
+      "⚠ El Marplatense, deuda bonaerense por los cinco hospitales SAMIC (07/11/2024)",
+      "⚠ Ámbito, provincias alertan la saturación del sistema público de salud (09/06/2026)",
+      "⚠ Perfil, aumentaron un 31 % las cirugías en hospitales públicos porteños (24/04/2025)",
       "Los Andes, médicos de cabecera del PAMI y la Resolución 1107/2026 (14/04/2026)",
       "Los Andes, el Gobierno busca cancelar la deuda del PAMI con prestadores (17/04/2026)",
       "Canal 26, Resolución Conjunta 26/2026: asistencia de $580.000 millones al PAMI (22/05/2026)",
-      "El Ancasti, el PAMI entre la crisis financiera y el impacto en la salud de los afiliados (28/05/2026)",
-      "La Capital, requisitos para el 100 % de cobertura de medicamentos del PAMI en 2025 (30/12/2024)",
+      "⚠ El Ancasti, el PAMI entre la crisis financiera y el impacto en la salud de los afiliados (28/05/2026)",
+      "⚠ La Capital, requisitos para el 100 % de cobertura de medicamentos del PAMI en 2025 (30/12/2024)",
       "Ley 19.032 (INSSJP-PAMI) y Ley 25.615; Decretos 348/2003 y 1/2004 y DNU 2/2004",
       "Ministerio de Salud, Resolución 42/2025, reglamento de la Dirección Nacional de Asistencia Directa Compensatoria (08/01/2025)",
-      "La Capital, Santa Fe refuerza con fondos propios la cobertura de medicamentos oncológicos (22/03/2026)",
+      "⚠ La Capital, Santa Fe refuerza con fondos propios la cobertura de medicamentos oncológicos (22/03/2026)",
       "Chequeado, Día Nacional de la Donación de Órganos: trasplantes y lista de espera del INCUCAI (30/05/2025)",
       "Ley 27.447 de Trasplante de Órganos, Tejidos y Células",
       "Ley 22.127, Sistema Nacional de Residencias del Equipo de Salud; Ley 24.004 de ejercicio de la enfermería",
@@ -12549,7 +12544,7 @@
       "SNIC, Ministerio de Seguridad Nacional, vía datos.gob.ar (2003-2025)",
       "Leyes 26.657, 27.130, 23.737, 27.350 y 27.669; CSJN, fallo Arriola (2009)",
       "ACIJ, Inversión en salud mental: sin recursos para cumplir la ley (2025)",
-      "Parlamentario, el proyecto de prevención de la ludopatía y su estado parlamentario (22/10/2026)",
+      "⚠ Parlamentario, el proyecto de prevención de la ludopatía y su estado parlamentario (22/10/2026)",
       "SEDRONAR, Línea 141 (argentina.gob.ar)",
       "Ley 27.654 de situación de calle y familias sin techo; Decretos 183/2023 y 373/2025"
     ],
@@ -12660,7 +12655,7 @@
     "fuentes": [
       "BCRA, préstamos hipotecarios; INDEC, IPC (octubre 2026)",
       "Ley 27.453",
-      "Infobae, proyecto de financiamiento para barrios populares: RENABAP, FISU y obras paralizadas (25/09/2026)",
+      "⚠ Infobae, proyecto de financiamiento para barrios populares: RENABAP, FISU y obras paralizadas (25/09/2026)",
       "Decreto 312/2025, disolución del Fondo de Integración Socio Urbana",
       "Decreto 764/2026, venta de inmuebles del Estado"
     ],
@@ -12751,7 +12746,7 @@
       "Ministerio de Economía, DNEIyG, 2020",
       "INDEC, Encuesta Nacional de Uso del Tiempo 2021",
       "Ley 20.744 de Contrato de Trabajo, arts. 158, 177 y 179",
-      "iProfesional, la reforma laboral no amplió la licencia por paternidad (19/06/2026)",
+      "⚠ iProfesional, la reforma laboral no amplió la licencia por paternidad (19/06/2026)",
       "Decreto 144/2022, espacios de cuidado en establecimientos de 100 o más trabajadores",
       "Decreto 475/2021 y ANSES, reconocimiento de aportes por tareas de cuidado (vigente en 2026, BAE Negocios, 29/05/2026)",
       "Ley 24.714 de Asignaciones Familiares"
@@ -12899,7 +12894,7 @@
       "Ley 22.431, Ley 24.901, Ley 27.044 y Ley 27.793 (Decreto 84/2026)",
       "Ministerio de Economía, ejecución presupuestaria de pensiones no contributivas (2026)",
       "DNU 942/2025, arts. 4 a 6 (Secretaría Nacional de Discapacidad en el Ministerio de Salud, continuador de la ANDIS) y Decreto 27/2026, organigrama del Ministerio de Salud (26/01/2026)",
-      "El Cisne, Programa Federal Incluir Salud (13/07/2026)"
+      "⚠ El Cisne, Programa Federal Incluir Salud (13/07/2026)"
     ],
     "sinext": true
   },
@@ -13007,8 +13002,8 @@
       "Cancillería (CEI), Intercambio Comercial Argentino 2025",
       "Ley 27.123, acuerdo con China sobre la estación de espacio lejano en Neuquén (2015)",
       "Infobae, el BCRA renovó el swap con el Banco Popular de China por cinco años (agosto 2026)",
-      "iProfesional, reactivación de las represas de Santa Cruz (septiembre 2026)",
-      "Bloomberg Línea, capital chino en proyectos de litio del RIGI (agosto 2026)",
+      "⚠ iProfesional, reactivación de las represas de Santa Cruz (septiembre 2026)",
+      "⚠ Bloomberg Línea, capital chino en proyectos de litio del RIGI (agosto 2026)",
       "Escenario Mundial, la estación china en Neuquén (octubre 2026)",
       "Reglamento (UE) 2019/452, control de inversiones extranjeras directas"
     ],
@@ -13134,9 +13129,9 @@
     "blindaje": "Tratados aprobados por los congresos, leyes del Congreso argentino (perdón al Paraguay, guaraní) y comisiones binacionales con mandato que trasciende a los gobiernos.",
     "fuentes": [
       "Cancillería (CEI), Intercambio Comercial Argentino 2025",
-      "Infobae, primera exportación de gas argentino a Brasil vía Bolivia (2025)",
+      "⚠ Infobae, primera exportación de gas argentino a Brasil vía Bolivia (2025)",
       "Mejor Energía, prueba de exportación por el Gasoducto del Mercosur a Uruguaiana (abril 2026)",
-      "Shale24, módulo firme de gas a Brasil desde 2029 (septiembre 2026)",
+      "⚠ Shale24, módulo firme de gas a Brasil desde 2029 (septiembre 2026)",
       "Canal 26 y Misiones Online, puente San Javier–Porto Xavier (2026)",
       "Ebisa y Tribunal Regional Federal 4 de Brasil, suspensión de Garabí-Panambí (2017-2022)",
       "ABACC, Acuerdo de Guadalajara (1991)",
@@ -13327,7 +13322,7 @@
     "dato": {
       "valor": "53 %",
       "texto": "de nuestras exportaciones de aceite de soja va a la India; con el de girasol, esas ventas sumaron unos US$ 3.630 millones",
-      "fuente": "Bolsa de Comercio de Rosario (vía La Nación, 16/01/2026)",
+      "fuente": "⚠ Bolsa de Comercio de Rosario (vía La Nación, 16/01/2026)",
       "fecha": "2025"
     },
     "que_ext": "Proponemos sumar socios en dos círculos. El primero: una alianza estratégica con la India a quince años, para asegurar el acceso de nuestros aceites, ampliar el acuerdo Mercosur–India, coproducir medicamentos genéricos, industrializar el litio en el país y cooperar en espacio y energía nuclear; y empezar ya con África occidental, con Nigeria como puerta. El segundo: una cooperación de países del sur —Chile, Bolivia, Brasil, Australia, Sudáfrica y Namibia— para asegurar juntos fertilizantes, minerales críticos, cables submarinos y satélites, proyecto por proyecto y sin burocracia nueva. En concreto: ampliar el acuerdo Mercosur–India de unas 450 a 3.000 líneas arancelarias (negociación lanzada en septiembre de 2026), industrializar el litio del proyecto KABIL–CAMYEN en Fiambalá, reforzar la embajada en Abuja, comprar urea en conjunto con Bolivia y Brasil, conectarnos al cable Humboldt Chile–Australia y buscar socios para reactivar el lanzador Tronador II.",
@@ -13366,9 +13361,9 @@
       "Cancillería, Embajada en Nigeria",
       "Naciones Unidas, Resolución 41/11, Zona de Paz y Cooperación del Atlántico Sur (1986)",
       "Convergencia Latina, cables submarinos en Las Toninas; Telxius, Firmina llega a la Argentina (2024)",
-      "CNN Chile y Radio Agricultura, aprobación de la instalación del cable Humboldt (junio de 2026)",
-      "ABI y Brújula Digital, planta de urea de Bulo Bulo (2026)",
-      "CONAE, Centro Espacial Manuel Belgrano; Espacio Tech, el proyecto Tronador sigue detenido (29/07/2026)"
+      "⚠ CNN Chile y Radio Agricultura, aprobación de la instalación del cable Humboldt (junio de 2026)",
+      "⚠ ABI y Brújula Digital, planta de urea de Bulo Bulo (2026)",
+      "⚠ CONAE, Centro Espacial Manuel Belgrano; Espacio Tech, el proyecto Tronador sigue detenido (29/07/2026)"
     ],
     "obras": {
       "titulo": "Dónde: litio, embajada, cables, estaciones y plantas de los nuevos socios",
@@ -13615,8 +13610,8 @@
       "Ley 26.659",
       "Infobae, Argentina pidió al Tribunal del Mar frenar la explotación de Sea Lion (13/10/2026)",
       "iProfesional, la Ley 26.659 y lo que busca modificar el Gobierno (04/09/2026)",
-      "Escenario Mundial, por qué no avanza la nueva fase del Proyecto Humanitario (19/04/2026)",
-      "Falkland Islands Tourism, Getting here (rutas de LATAM)"
+      "⚠ Escenario Mundial, por qué no avanza la nueva fase del Proyecto Humanitario (19/04/2026)",
+      "⚠ Falkland Islands Tourism, Getting here (rutas de LATAM)"
     ],
     "sinext": false
   },
@@ -13659,12 +13654,12 @@
     "blindaje": "Ley de vigilancia marítima, acuerdos regionales y financiamiento plurianual.",
     "fuentes": [
       "Comisión de Límites de la Plataforma Continental (ONU), 2016; Ley 27.557",
-      "Zona Militar, tercer avión P-3C Orion de la Armada (03/03/2026)",
+      "⚠ Zona Militar, tercer avión P-3C Orion de la Armada (03/03/2026)",
       "ArgenPorts, acuerdo Prefectura–CONAE de vigilancia satelital (17/09/2026)",
-      "El Diario Web, satélite SABIA-Mar (ago-2026)",
-      "Escenario Mundial, avance de la Base Naval Integrada de Ushuaia (28/08/2026)",
+      "⚠ El Diario Web, satélite SABIA-Mar (ago-2026)",
+      "⚠ Escenario Mundial, avance de la Base Naval Integrada de Ushuaia (28/08/2026)",
       "El Argentino Diario, licitación del muelle militar de Ushuaia, Resolución 704/2026 (09/10/2026)",
-      "Infodefensa, reactivación de la base Petrel (2025)",
+      "⚠ Infodefensa, reactivación de la base Petrel (2025)",
       "Ley 27.167, PROMAR"
     ],
     "obras": {
@@ -13825,8 +13820,8 @@
       "Leyes 23.554, 24.059, 27.565 y 27.287",
       "Parlamentario, artículo 30 del Presupuesto 2026 y cronograma del FONDEF de la Ley 27.565 (23/12/2025)",
       "Canal 26, llegada de los F-16: 12 de 24 recibidos (9/10/2026)",
-      "Diario Jornada, P-3 Orion para la Base Almirante Zar (9/10/2025)",
-      "Full Aviación, situación de la flota C-130 Hércules (agosto de 2026)",
+      "⚠ Diario Jornada, P-3 Orion para la Base Almirante Zar (9/10/2025)",
+      "⚠ Full Aviación, situación de la flota C-130 Hércules (agosto de 2026)",
       "La Nación, licitación de la Base Naval Integrada de Ushuaia, Resoluciones 704/2026 (muelle) y 733/2026 (galpones) del Ministerio de Defensa (20/10/2026)",
       "DNU 1136/2024 (Ministerio de Seguridad como autoridad de aplicación de la Ley 26.815; el Decreto 81/2025 adecuó los organigramas) y DNU 73/2026 (emergencia ígnea en el sur, coordinada por la Agencia Federal de Emergencias, creada por el Decreto 225/2025)",
       "Municipio de Bahía Blanca, balance de la inundación (marzo de 2025)",
@@ -14078,7 +14073,7 @@
     "dato": {
       "valor": "39",
       "texto": "personas murieron en la represión de las jornadas del 19 y 20 de diciembre de 2001",
-      "fuente": "CELS y causas judiciales",
+      "fuente": "⚠ CELS y causas judiciales",
       "fecha": "2001"
     },
     "que_ext": "Proponemos crear por ley una Comisión Nacional de la Verdad, independiente del Poder Ejecutivo, que investigue los crímenes de lesa humanidad cometidos desde el aparato del Estado —nacional o provincial— entre 1983 y hoy: represiones con muertos, y persecuciones sistemáticas como las sufridas por la comunidad travesti y trans o por comunidades indígenas. La última dictadura queda fuera: tiene su propio proceso, que sigue intacto. En concreto: la Comisión Nacional de la Verdad sobre la Violencia Estatal en Democracia revisa hechos de todos los gobiernos, desde la Masacre de Ingeniero Budge (1987) y la explosión de Río Tercero (1995) hasta diciembre de 2001, el Parque Indoamericano (2010), la Masacre de San Miguel del Monte (2019) y la represión a jubilados de 2025.",
@@ -14108,8 +14103,8 @@
       "Corte Interamericana de Derechos Humanos, caso de la razzia de 1991, sentencia de 2003",
       "CIDH, Informe 55/97 sobre los hechos de La Tablada",
       "Cámara Federal de Casación Penal, causa por el encubrimiento del atentado a la AMIA (2024)",
-      "Amnistía Internacional, General Mosconi (2001)",
-      "CELS, el desalojo del Parque Indoamericano (2014)",
+      "⚠ Amnistía Internacional, General Mosconi (2001)",
+      "⚠ CELS, el desalojo del Parque Indoamericano (2014)",
       "Tribunal Oral en lo Criminal 4 de La Plata, Masacre de San Miguel del Monte (2023)"
     ],
     "sinext": false
@@ -14123,7 +14118,7 @@
     "dato": {
       "valor": "36/100",
       "texto": "puntos obtuvo la Argentina en el Índice de Percepción de la Corrupción, menos que en 2019 (45)",
-      "fuente": "Transparencia Internacional (Poder Ciudadano)",
+      "fuente": "⚠ Transparencia Internacional (Poder Ciudadano)",
       "fecha": "2025"
     },
     "que_ext": "Proponemos una Comisión Nacional contra la Corrupción y el Uso Patrimonial del Estado, creada por ley e independiente del Poder Ejecutivo. Investiga como sistema lo que se volvió costumbre: sobreprecios, contratos dirigidos, militantes designados sin necesidad, y aviones, autos e inmuebles públicos usados como propios. Remite todo a la Justicia y publica sus informes. La ley prohíbe las amnistías por estos hechos, el gobierno asume el compromiso expreso de no indultar ni conmutar penas por ellos, y la exclusión definitiva del indulto se propone para la reforma constitucional. En concreto: investiga desde 1983 y toma como casos testigo, entre otros, Vialidad, Cuadernos, Skanska, Odebrecht, Siemens, Seguros, ANDIS, Correo Argentino y los sueldos de la Legislatura bonaerense, de gobiernos de todos los signos.",
@@ -14213,10 +14208,10 @@
     "indicador": "Índice de Percepción de la Corrupción, casos remitidos y activos recuperados. Meta: superar los 45 puntos, el máximo de la serie, en la Fase III.",
     "blindaje": "Ley votada por la ciudadanía, integración independiente, informes públicos obligatorios y prohibición expresa de amnistías por estos hechos, compromiso de no indultar y exclusión del indulto en la reforma constitucional si la ciudadanía la aprueba en la consulta popular no vinculante.",
     "fuentes": [
-      "Transparencia Internacional, Índice de Percepción de la Corrupción 2012-2025",
-      "La Nación e Inecip, diez causas emblemáticas empantanadas en Comodoro Py (8/8/2025)",
-      "Infobae y Chequeado, condenas en la causa Skanska (13/7/2026)",
-      "La Gaceta, causa ANDIS: 24 procesados y más de $7.800 millones bajo investigación (16/10/2026)",
+      "⚠ Transparencia Internacional, Índice de Percepción de la Corrupción 2012-2025",
+      "⚠ La Nación e Inecip, diez causas emblemáticas empantanadas en Comodoro Py (8/8/2025)",
+      "⚠ Infobae y Chequeado, condenas en la causa Skanska (13/7/2026)",
+      "⚠ La Gaceta, causa ANDIS: 24 procesados y más de $7.800 millones bajo investigación (16/10/2026)",
       "Cholila Online, causa Revelación: el Superior Tribunal de Chubut confirmó condenas (26/9/2024)",
       "Infobae, causa por los sueldos de la Legislatura bonaerense elevada a juicio (27/5/2025); vacunación irregular elevada a juicio (7/4/2026)",
       "Ministerio Público Fiscal, causa Cuadernos en juicio oral (2025-2026)"
@@ -14261,9 +14256,9 @@
       "CONADEP, Nunca Más (1984)",
       "Leyes 26.548 y 26.691",
       "Ministerio Público Fiscal, informe de causas de lesa humanidad",
-      "Abuelas de Plaza de Mayo, casos resueltos (abuelas.org.ar, octubre de 2026)",
-      "Palabras del Derecho, la Justicia Federal ordenó preservar los espacios de memoria (21/01/2025)",
-      "El Ancasti, venta de predios que fueron centros clandestinos (01/11/2024)"
+      "⚠ Abuelas de Plaza de Mayo, casos resueltos (abuelas.org.ar, octubre de 2026)",
+      "⚠ Palabras del Derecho, la Justicia Federal ordenó preservar los espacios de memoria (21/01/2025)",
+      "⚠ El Ancasti, venta de predios que fueron centros clandestinos (01/11/2024)"
     ],
     "obras": {
       "titulo": "Dónde: sitios de memoria",
@@ -14450,7 +14445,7 @@
       "Infobae, reelecciones indefinidas: Formosa, Catamarca y otras provincias (26/8/2026); San Luis aprobó la ley de necesidad de reforma (3/9/2026)",
       "DataClave y El Monterizo, derogación de la ley de lemas en Santa Cruz, Ley 3858 (2024-2026); El Chorrillero, San Luis eliminó los lemas (20/11/2024)",
       "Misiones Plural, ley de lemas en Misiones (8/5/2026); Diario La Provincia SJ, reforma del SIPAD en San Juan (10/10/2026)",
-      "La Gaceta, acoples en Tucumán para 2027 (2026)",
+      "⚠ La Gaceta, acoples en Tucumán para 2027 (2026)",
       "Constitución Nacional, arts. 48, 55, 89 y 99 inc. 4; Ley 27.700 (jerarquía constitucional de la Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores)"
     ],
     "sinext": true
@@ -14494,7 +14489,7 @@
     "fuentes": [
       "Leyes 26.215 y 27.504",
       "Ley 26.215, art. 15, inc. c, según Ley 27.504",
-      "Letra P, cómo se financian las campañas (2023)",
+      "⚠ Letra P, cómo se financian las campañas (2023)",
       "AFIP (hoy ARCA), Resoluciones Generales 4697/2020 y 5529/2024 (Registro Público de Beneficiarios Finales)"
     ],
     "sinext": true
@@ -14641,8 +14636,8 @@
       "INDEC, Censo 2022, población indígena",
       "Constitución Nacional, art. 75 inc. 17; Leyes 24.071 y 26.160",
       "CELS, audiencia por el cumplimiento de la sentencia Lhaka Honhat (17/04/2026)",
-      "Tierra Viva y Servindi, Lhaka Honhat (18/07/2026)",
-      "Tierra Viva, derogación de la emergencia territorial: datos de la CIDH sobre el relevamiento (10/12/2024)",
+      "⚠ Tierra Viva y Servindi, Lhaka Honhat (18/07/2026)",
+      "⚠ Tierra Viva, derogación de la emergencia territorial: datos de la CIDH sobre el relevamiento (10/12/2024)",
       "Examedia y Data Chaco, acueducto Wichí–El Pintado (15/10/2026)",
       "Ley 26.206 de Educación Nacional, arts. 52 a 54"
     ],
@@ -14713,7 +14708,7 @@
     "dato": {
       "valor": "Más de 300",
       "texto": "personas murieron en hechos vinculados al fútbol en la Argentina desde 1922, según el único registro sistemático",
-      "fuente": "Asociación Civil Salvemos al Fútbol (317 al último recuento público)",
+      "fuente": "⚠ Asociación Civil Salvemos al Fútbol (317 al último recuento público)",
       "fecha": "2017; el registro sigue en curso"
     },
     "que_ext": "Fortalecer las instituciones de escala humana —clubes de barrio, cooperativas, mutuales y asociaciones vecinales— con tarifas sociales, trámites simples y seguridad sobre sus predios. Limpiar el fútbol: cuentas de la AFA y de los clubes auditadas y publicadas, saber quién está detrás de cada financista, patrocinante o intermediario, y sacar a la violencia de las canchas. En concreto: dos tercios del padrón total de socios para cualquier conversión en sociedad anónima deportiva (reforma del art. 77, inc. 1, de la Ley 19.550 y del Decreto 730/2024), tarifa de bien público automática para los clubes de barrio y derecho de admisión con rango de ley.",
