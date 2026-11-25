@@ -1,0 +1,120 @@
+{
+ "id": "N189",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de adhesión a la publicación de compras, pagos y cuentas públicas",
+ "sumilla": "Modelo para que cada provincia adhiera a la ley nacional «Ley de contrataciones abiertas y de publicación de los pagos y las cuentas del Estado nacional» y adopte el mismo estándar: compras publicadas el día de su firma en una plataforma única con identificador por contratación, nulidad de lo no publicado, cada pago, ingreso y saldo de cuenta publicado de oficio, excepciones solo por ley y publicadas en forma agregada, e invitación a sus municipios.",
+ "cuando": "Fase I (desde la sanción de la ley «Ley de contrataciones abiertas y de publicación de los pagos y las cuentas del Estado nacional»; adhesiones durante las Fases I y II)",
+ "cuando_breve": "Fase I",
+ "tramite": "Según el régimen de cada legislatura provincial; los municipios adhieren por ordenanza conforme a su régimen",
+ "motivos": "La ley nacional de contrataciones abiertas dispuso que el Estado nacional publique de oficio, en el día y en formatos abiertos, cada contratación, cada pago, cada ingreso y el saldo de cada cuenta, e invitó a las provincias y a los municipios a adoptar el mismo estándar. Una parte sustancial del gasto público argentino se ejecuta en las provincias y los municipios, y sin información comparable entre jurisdicciones el control ciudadano queda incompleto. Las provincias ya publican su presupuesto, su ejecución y su deuda en cumplimiento de los artículos 7° y 8° del Régimen Federal de Responsabilidad Fiscal, Ley N° 25.917; este proyecto da el paso siguiente: que cada compra y cada pago de la provincia se publiquen el mismo día, con un identificador por contratación y en el Estándar de Datos para las Contrataciones Abiertas, el mismo formato que usa la Nación. Lo que no se publica no produce efecto ni puede pagarse. Las únicas excepciones son las que fija la ley, por seguridad y por los datos personales de quienes perciben salarios o prestaciones, y se publican en forma agregada. La adhesión no transfiere competencias a la Nación ni impone gastos nuevos: la provincia conserva su propio régimen de contrataciones y lo adecua a un estándar común que permite comparar y controlar.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Adhesión y ámbito",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Adhesión",
+     "texto": "Adhiérese la Provincia de [Provincia] a la Ley Nacional N° [—] de Contrataciones Abiertas y de Publicación de los Pagos y las Cuentas del Estado Nacional, en los términos de su artículo 15, y adóptase en el ámbito provincial el estándar de publicación de las contrataciones, los pagos, los ingresos y las cuentas públicas que ella establece, conforme a las disposiciones de la presente ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "La presente ley se aplica a la administración pública provincial centralizada y descentralizada, a los organismos autárquicos, a [las empresas y sociedades del Estado provincial] y a los fondos fiduciarios integrados con bienes del Estado provincial. Los Poderes Legislativo y Judicial y los órganos de control provinciales adecuarán sus reglamentaciones a sus disposiciones dentro de los ciento ochenta (180) días de su entrada en vigencia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Contrataciones",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Plataforma única",
+     "texto": "Todas las contrataciones comprendidas en [la ley provincial de contrataciones] y en [la ley provincial de obras públicas] se gestionarán y publicarán en una plataforma electrónica única administrada por [autoridad de aplicación provincial], de acceso libre y gratuito y sin registro previo. Cada contratación tendrá un identificador único que permita seguirla en todas sus etapas: necesidad, autorización, pliegos, consultas y circulares, ofertas, evaluación, impugnaciones, adjudicación, contrato u orden de compra, recepciones o certificados, pagos, penalidades y toda modificación, ampliación, prórroga, renegociación o rescisión."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Publicación en el día y estándar común",
+     "texto": "Cada acto, documento o actuación de esas etapas se publicará en la plataforma el mismo día de su firma o emisión, en formatos abiertos, descargables y de libre reutilización, conforme al Estándar de Datos para las Contrataciones Abiertas o al que lo reemplace, con actualización diaria. En las contrataciones directas, el acto que las encuadre en la causal de excepción, con su fundamentación, se publicará junto con la convocatoria o invitación."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Nulidad de lo no publicado",
+     "texto": "Los actos del procedimiento de contratación, los contratos, las órdenes de compra y sus modificaciones, así como los actos de su ejecución, no producirán efecto alguno mientras no se encuentren publicados en la plataforma. Los que no se hubieran publicado el mismo día de su firma serán nulos de nulidad absoluta e insanable y no podrán dar origen a obligación de pago alguna a cargo de la Provincia. Cuando [autoridad de aplicación provincial] certifique una interrupción del funcionamiento de la plataforma, el plazo se extenderá hasta el día hábil siguiente al de su restablecimiento. Los funcionarios que autoricen, aprueben o paguen contrataciones no publicadas responderán conforme al régimen de responsabilidad de los funcionarios públicos provinciales."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Alertas automáticas",
+     "texto": "La plataforma permitirá comparar cada adjudicación con precios de referencia y emitirá alertas públicas automáticas, al menos, por sobreprecio, por fraccionamiento y por concentración o recurrencia de adjudicaciones en un mismo proveedor, con los parámetros que [autoridad de aplicación provincial] fije y publique."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Pagos, ingresos y cuentas",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Publicación de pagos, ingresos y cuentas",
+     "texto": "[La Tesorería General de la Provincia], los servicios de tesorería de las jurisdicciones y entidades y [la Contaduría General de la Provincia] publicarán de oficio, en un portal público alimentado por el sistema de administración financiera provincial, en formatos abiertos y a más tardar el día hábil siguiente al de su registro:\na) cada pago, con la identificación del beneficiario (nombre o razón social y Clave Única de Identificación Tributaria), el concepto, el monto, la fecha, el medio de pago, la imputación presupuestaria hasta el último nivel de desagregación y, cuando corresponda, el identificador único de la contratación que le da origen;\nb) los recursos percibidos, por concepto y por jurisdicción o entidad, incluidas las transferencias recibidas del Estado nacional;\nc) cada cuenta bancaria de titularidad de las jurisdicciones y entidades, con su saldo diario.\nNo podrá efectuarse pago alguno que no se encuentre registrado en el sistema de administración financiera provincial."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Ejecución presupuestaria",
+     "texto": "[La Contaduría General de la Provincia] publicará con actualización diaria la ejecución presupuestaria de cada jurisdicción y entidad en todas sus etapas, hasta el último nivel de desagregación en que se procese, en forma complementaria a la información que la Provincia publica conforme a los artículos 7° y 8° de la Ley Nacional N° 25.917 y sus modificatorias."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Excepciones y conservación",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Excepciones",
+     "texto": "Solo se exceptúan de la publicación individual la información declarada secreta o reservada por ley por razones de seguridad, y los datos personales de las personas humanas que perciban remuneraciones, haberes previsionales o prestaciones de la seguridad social o de asistencia social. Esa información se publicará en forma agregada por jurisdicción, programa y período, con indicación de la ley que funda la excepción. La reglamentación no podrá ampliar estas excepciones."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Libre reutilización y conservación",
+     "texto": "La información publicada conforme a la presente ley es de libre acceso y reutilización, sin registro previo, sin costo y sin necesidad de invocar interés. Se conservará en forma permanente y ninguna autoridad podrá retirarla, restringir su acceso ni reducir su nivel de detalle o su frecuencia de actualización; las correcciones se publicarán como tales, con indicación de la fecha y del motivo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Cooperación federal",
+     "texto": "[Autoridad de aplicación provincial] coordinará con la Oficina Nacional de Contrataciones, en el ámbito del Consejo Federal para la Transparencia creado por la Ley Nacional N° 27.275, la adopción de formatos y estándares de datos comunes, y remitirá al Consejo Federal de Responsabilidad Fiscal la información que este requiera para comparar el cumplimiento entre jurisdicciones."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Municipios",
+     "texto": "Invítase a los municipios de la Provincia a adherir a la presente ley y a adoptar el mismo estándar de publicación de sus contrataciones, pagos, ingresos y cuentas. [Autoridad de aplicación provincial] pondrá la plataforma única provincial a disposición de los municipios que adhieran, sin costo."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Financiamiento",
+     "texto": "La presente ley no autoriza gastos adicionales. Los costos de desarrollo y operación de la plataforma y del portal se atenderán con los créditos asignados en el presupuesto provincial a las jurisdicciones intervinientes, incluidos los destinados a sistemas de información."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Reglamentación y vigencia",
+     "texto": "El Poder Ejecutivo provincial reglamentará la presente ley dentro de los noventa (90) días de su promulgación. La ley entrará en vigencia a los ciento ochenta (180) días de su publicación en el Boletín Oficial; la nulidad del artículo 5° se aplicará a los actos firmados desde esa fecha."
+    },
+    {
+     "n": 15,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "[Ley provincial de contrataciones o de administración financiera], artículos pertinentes (adecuación por remisión)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

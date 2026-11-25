@@ -1,0 +1,224 @@
+{
+ "id": "N291",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud",
+ "sumilla": "Fija plazos máximos garantizados (30 días para iniciar el tratamiento de un cáncer, 60 para estudios y especialista, 180 para cirugías programadas), crea el registro público de listas de espera, obliga a derivar al vencer el plazo con pago a cargo del financiador y hace obligatorio y automático el pago de los agentes del seguro de salud y del PAMI a los hospitales públicos que atienden a sus afiliados. Incluye la compensación entre subsistemas.",
+ "cuando": "Fase II · envío al inicio de la Fase II; registro público operativo a los 180 días de la publicación y plazos de cirugías y estudios a los 12 meses (art. 31)",
+ "cuando_breve": "Fase II · envío al inicio de la Fase II; registro público operativo a los 180 días de la publicación y plazos de cirugías y estudios a los 12 meses",
+ "tramite": "Mayoría simple; cámara de origen indistinta. No crea ni modifica contribuciones.",
+ "motivos": "Las demoras para acceder a un estudio, a un especialista o a una cirugía programada son hoy uno de los principales problemas del sistema de salud, y no existe información pública que permita medirlas ni una regla que diga qué ocurre cuando se vuelven excesivas. El presente proyecto, inspirado en los regímenes de garantías explícitas de oportunidad aplicados en la región, fija plazos máximos iniciales: treinta días para comenzar el tratamiento de un cáncer diagnosticado, sesenta días para estudios diagnósticos y consultas con especialistas, y ciento ochenta días para cirugías programadas. Crea un registro nacional de listas de espera, público y sin datos personales, al que todo paciente puede acceder para conocer su situación. Cuando el plazo vence, el paciente es derivado a otro prestador y paga quien debía cubrir la prestación. El proyecto ordena además la compensación entre subsistemas: extiende a las obras sociales y al Instituto Nacional de Servicios Sociales para Jubilados y Pensionados la obligación de pagar al hospital público las prestaciones a sus afiliados, que la Ley N° 26.682 ya impone a las entidades de medicina prepaga, con plazo cierto y débito automático. Los plazos podrán acortarse cada dos años con acuerdo del Consejo Federal de Salud, y se invita a las provincias a adherir respecto de sus establecimientos.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto, ámbito y definiciones",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece plazos máximos garantizados de atención para las prestaciones de salud que determina, crea el Registro Nacional de Listas de Espera, regula la derivación del paciente cuando el plazo vence y ordena la compensación de costos entre los subsistemas de salud."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sujetos obligados",
+     "texto": "Quedan obligados por la presente ley: a) los agentes del Sistema Nacional del Seguro de Salud comprendidos en las Leyes N° 23.660 y N° 23.661; b) las entidades de medicina prepaga comprendidas en la Ley N° 26.682; c) el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados creado por la Ley N° 19.032; d) los establecimientos y programas de salud del Estado nacional, respecto de las personas con cobertura pública exclusiva; y e) las provincias y la Ciudad Autónoma de Buenos Aires que adhieran conforme el artículo 29, respecto de su subsector público y de las obras sociales de su jurisdicción."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por: a) financiador: el sujeto obligado a cubrir la prestación según la cobertura del paciente, conforme el artículo 2°; b) prestador: el establecimiento o profesional que realiza la prestación; c) plazo garantizado: el tiempo máximo, en días corridos, entre la indicación y la realización de la prestación; d) indicación: la prescripción de la prestación por el profesional tratante, registrada en la historia clínica del paciente, o la confirmación diagnóstica en el caso del artículo 5°, inciso a); y e) ente de control: el organismo nacional que fiscaliza a los agentes del seguro de salud y a las entidades de medicina prepaga."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Derecho del paciente",
+     "texto": "Los plazos garantizados de la presente ley integran los derechos del paciente reconocidos por la Ley N° 26.529 y se aplican en forma complementaria con la Ley N° 27.797. Ningún financiador puede condicionar su cumplimiento a requisitos no previstos en la presente ley o en su reglamentación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Plazos máximos garantizados",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Plazos",
+     "texto": "Los plazos garantizados iniciales son: a) treinta (30) días para iniciar el tratamiento de un cáncer, desde la confirmación diagnóstica; b) sesenta (60) días para los estudios diagnósticos y para la consulta con médico especialista, desde la indicación; y c) ciento ochenta (180) días para las cirugías programadas, desde la indicación quirúrgica."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Prácticas comprendidas",
+     "texto": "La autoridad de aplicación determina, con la reglamentación, la lista de estudios, especialidades y cirugías comprendidas en los incisos b) y c) del artículo 5°, comenzando por las de mayor demanda y tiempo de espera, y la amplía cada año. El inciso a) comprende todos los tumores malignos desde la entrada en vigencia del plazo respectivo."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Revisión de los plazos",
+     "texto": "Cada dos (2) años, la autoridad de aplicación, con acuerdo del Consejo Federal de Salud, puede acortar los plazos del artículo 5° o incorporar prácticas a la lista del artículo 6°. Los plazos solo pueden prolongarse por ley."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Suspensión del cómputo",
+     "texto": "El cómputo del plazo se suspende mientras: a) el paciente posponga la prestación por decisión propia, expresada y registrada; b) exista una contraindicación clínica documentada en la historia clínica; o c) el paciente no concurra al turno asignado sin causa justificada, hasta que solicite uno nuevo."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Urgencias",
+     "texto": "Nada de lo dispuesto en la presente ley limita la obligación de atender en forma inmediata las urgencias y emergencias."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Registro Nacional de Listas de Espera",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Creación",
+     "texto": "Créase el Registro Nacional de Listas de Espera en el ámbito de la autoridad de aplicación. Cada prestador y cada financiador registran en él toda indicación de una prestación con plazo garantizado, su fecha, el plazo aplicable y su estado, en los plazos y formatos que fije la reglamentación. Cuando la historia clínica compartida esté disponible, el Registro se alimenta en forma automática de ella."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Publicación",
+     "texto": "La autoridad de aplicación publica cada mes, en formato abierto y sin datos personales, las listas de espera por práctica, prestador, financiador y jurisdicción, con la mediana de los tiempos de espera y la proporción de prestaciones realizadas dentro del plazo garantizado."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Acceso del paciente",
+     "texto": "Todo paciente puede consultar en forma gratuita y por medios digitales su posición en la lista de espera, la fecha de vencimiento del plazo garantizado y el prestador asignado."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Datos personales",
+     "texto": "Los datos del Registro son datos sensibles en los términos de la Ley N° 25.326, solo pueden usarse para los fines de la presente ley y están sujetos al deber de confidencialidad."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Interoperabilidad",
+     "texto": "Los prestadores y los financiadores comprendidos en el artículo 2° deben interoperar sus sistemas de registro clínico con la historia clínica compartida entre subsistemas, conforme la Ley N° 27.706 y los estándares que dicte la autoridad de aplicación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Derivación por vencimiento del plazo",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Aviso",
+     "texto": "Quince (15) días antes del vencimiento del plazo garantizado, el Registro avisa al financiador y al paciente. El financiador debe asegurar la prestación dentro del plazo con el prestador asignado o con otro."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Derivación",
+     "texto": "Si el plazo vence sin que se haya realizado la prestación, el financiador debe, dentro de los diez (10) días hábiles, derivar al paciente a otro prestador, público o privado, habilitado e inscripto en el registro nacional de prestadores, que la realice dentro de los treinta (30) días siguientes. El paciente puede rechazar la derivación sin perder su lugar en la lista de espera."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Derivación subsidiaria",
+     "texto": "Si el financiador no deriva en término, el paciente puede pedir la derivación a la autoridad de aplicación o, si se trata de un agente del seguro de salud o de una entidad de medicina prepaga, al ente de control, que asignan un prestador dentro de los diez (10) días hábiles. La prestación queda a cargo del financiador."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Pago de la derivación",
+     "texto": "La prestación realizada por derivación se paga por el financiador que debía cubrirla, al valor convenido con el prestador o, en su defecto, al valor de referencia que fije la autoridad de aplicación conforme el artículo 23. Para las personas con cobertura pública exclusiva, paga el Estado nacional o la jurisdicción adherida de la que dependa el establecimiento que debía atenderla. El paciente no paga más que los coseguros que le correspondan según su cobertura."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Compensación de costos entre subsistemas",
+   "articulos": [
+    {
+     "n": 19,
+     "epigrafe": "Pago a los establecimientos públicos",
+     "texto": "Los agentes del seguro de salud y el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados deben pagar a los establecimientos públicos de salud, nacionales, provinciales o municipales, las prestaciones que estos brinden a sus beneficiarios, aunque no exista convenio, en los mismos términos en que el artículo 20 de la Ley N° 26.682 lo impone a las entidades de medicina prepaga."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Facturación y plazo de pago",
+     "texto": "Los establecimientos facturan por el sistema electrónico que establezca la autoridad de aplicación. El financiador debe pagar o formular objeciones fundadas dentro de los sesenta (60) días de recibida la factura. Solo pueden objetarse la falta de cobertura del paciente, la inexistencia de la prestación o errores formales; la parte no objetada se paga en el mismo plazo."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Débito automático",
+     "texto": "Vencido el plazo del artículo anterior sin pago ni objeción, el ente de control debita el importe adeudado de los montos que el agente del seguro de salud deba percibir por su intermedio, incluidos los del Fondo Solidario de Redistribución, y lo transfiere al establecimiento acreedor. Respecto de los agentes del seguro de salud y del Instituto Nacional de Servicios Sociales para Jubilados y Pensionados, este régimen prevalece sobre el de recupero de costos del Decreto N° 939/2000."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Título ejecutivo",
+     "texto": "La factura de un establecimiento público no objetada en término, o cuya objeción haya sido rechazada por resolución firme de la autoridad de aplicación o del ente de control, constituye título ejecutivo contra el financiador, incluidas las entidades de medicina prepaga y el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Valores de referencia",
+     "texto": "La autoridad de aplicación, con intervención del ente de control, fija y actualiza al menos cada seis (6) meses los valores de referencia de las prestaciones, que se aplican a falta de convenio entre el establecimiento y el financiador."
+    },
+    {
+     "n": 24,
+     "epigrafe": "Destino de lo recuperado",
+     "texto": "Los montos que perciban los establecimientos nacionales por aplicación de este capítulo se destinan a su funcionamiento y equipamiento. Se invita a las provincias, a la Ciudad Autónoma de Buenos Aires y a los municipios a establecer igual destino para sus establecimientos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Autoridad de aplicación, control y sanciones",
+   "articulos": [
+    {
+     "n": 25,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación de la presente ley es la que designe el Poder Ejecutivo nacional, con competencia en materia de salud."
+    },
+    {
+     "n": 26,
+     "epigrafe": "Control",
+     "texto": "El ente de control fiscaliza el cumplimiento de la presente ley por los agentes del seguro de salud y las entidades de medicina prepaga. La autoridad de aplicación lo hace respecto del Instituto Nacional de Servicios Sociales para Jubilados y Pensionados y de los establecimientos y programas nacionales."
+    },
+    {
+     "n": 27,
+     "epigrafe": "Sanciones",
+     "texto": "El incumplimiento de los plazos, de la obligación de derivar o de la obligación de pagar es sancionado conforme el régimen de los artículos 42 a 47 de la Ley N° 23.661, para los agentes del seguro de salud, y del artículo 24 de la Ley N° 26.682, para las entidades de medicina prepaga. La autoridad de aplicación publica cada trimestre la nómina de financiadores con incumplimientos y el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados informa los suyos al Congreso de la Nación."
+    },
+    {
+     "n": 28,
+     "epigrafe": "Informe anual",
+     "texto": "La autoridad de aplicación remite cada año al Congreso de la Nación un informe sobre el cumplimiento de los plazos garantizados, las derivaciones realizadas y los montos facturados, pagados y debitados entre subsistemas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VII – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 29,
+     "epigrafe": "Adhesión",
+     "texto": "Se invita a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a la presente ley respecto de su subsector público y de las obras sociales de su jurisdicción. Las jurisdicciones adheridas acceden al Registro, a la derivación entre prestadores de todo el país y al sistema de facturación del artículo 20. La adhesión no es condición para que sus establecimientos cobren conforme el Capítulo V."
+    },
+    {
+     "n": 30,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos del Registro y de los sistemas de la presente ley se atienden con los créditos asignados a la autoridad de aplicación en la ley de presupuesto vigente, con reasignación de partidas y sin aumento del gasto total. Las prestaciones por derivación se pagan por cada financiador con sus propios recursos. Las erogaciones adicionales del subsector público nacional se incluyen en la ley de presupuesto del ejercicio siguiente al de la entrada en vigencia de la presente, dentro del límite que fije la cuenta fiscal para salud."
+    },
+    {
+     "n": 31,
+     "epigrafe": "Vigencia gradual",
+     "texto": "La presente ley entra en vigencia el día siguiente al de su publicación, con estas salvedades: a) el Capítulo V rige a los noventa (90) días; b) el Registro y el plazo del artículo 5°, inciso a), rigen a los ciento ochenta (180) días; y c) los plazos del artículo 5°, incisos b) y c), rigen a los doce (12) meses."
+    },
+    {
+     "n": 32,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los ciento veinte (120) días de su publicación."
+    },
+    {
+     "n": 33,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 23.661 (complementa: obligación de pago de los agentes del seguro de salud a los establecimientos públicos)",
+  "Ley 26.682, art. 20 (complementa: plazo de pago y título ejecutivo)",
+  "Ley 26.529 (complementa: los plazos garantizados integran los derechos del paciente)",
+  "Ley 19.032 (complementa: el INSSJP queda sujeto a los plazos y al pago a hospitales públicos)",
+  "Decreto 939/2000 (su régimen de recupero cede ante el de la ley respecto de los agentes del seguro de salud y del INSSJP)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

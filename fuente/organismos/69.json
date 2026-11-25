@@ -1,0 +1,121 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "existente",
+    "rol": "Firma por la Nación, integra la Comisión de Seguimiento y conduce el despliegue federal. Administra la cuenta especial, selecciona los barrios y publica la información trimestral. Firma por la Prefectura y usa los datos para investigar el narcotráfico.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Seguridad",
+      "estado": "existente",
+      "rol": "Despliegue en los barrios del Plan Bandera. Coordinación con la provincia y seguimiento de metas.",
+      "hoy": "Subsecretaría de Despliegue Territorial (Secretaría de Seguridad Nacional, MSN; Decreto 727/2025)",
+      "hijos": []
+     },
+     {
+      "nombre": "Unidad de Información Financiera",
+      "estado": "existente",
+      "rol": "Integra los equipos conjuntos para seguir el dinero. Sigue el dinero de las redes de trata y de fraude.",
+      "hoy": "UIF, organismo descentralizado con autonomía y autarquía financiera en jurisdicción del Ministerio de Justicia",
+      "hijos": []
+     },
+     {
+      "nombre": "Administración de bienes recuperados",
+      "estado": "existente",
+      "rol": "Administra y subasta lo decomisado en causas federales, según el DNU 575/2025. Siguen conservando y subastando los bienes según el DNU 575/2025.",
+      "hoy": "Oficina de Bienes Recuperados (Ministerio de Justicia) y AABE (Vicejefatura de Gabinete del Interior)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Seguridad del Ministerio de Justicia y Seguridad",
+      "estado": "existente",
+      "rol": "Propone la aplicación de la subcuenta de seguridad.",
+      "hoy": "Ministerio de Seguridad Nacional",
+      "hijos": []
+     },
+     {
+      "nombre": "Prefectura Naval Argentina",
+      "estado": "modificado",
+      "rol": "Seguimiento del tránsito, detención e inspección de embarcaciones.",
+      "hoy": "Prefectura Naval Argentina (organismo desconcentrado del MSN)",
+      "hijos": []
+     },
+     {
+      "nombre": "Policía Federal Argentina",
+      "estado": "existente",
+      "rol": "Fuerza en la que funciona el cuerpo federal.",
+      "hoy": "Policía Federal Argentina (Ministerio de Seguridad Nacional)",
+      "hijos": [
+       {
+        "nombre": "Cuerpo Federal contra la Trata de Personas y el Fraude Digital",
+        "estado": "nuevo",
+        "rol": "Investiga la trata y el fraude digital, con una división para cada uno, y coopera con la UIF y las provincias.",
+        "hoy": "",
+        "hijos": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Trabajo y Desarrollo Social, Ministerio de Educación, Ciencia y Cultura y Ministerio de Salud",
+    "estado": "existente",
+    "rol": "Componente de recuperación de barrios: escuela, salud, adicciones y trabajo comunitario.",
+    "hoy": "Ministerio de Capital Humano y Ministerio de Salud",
+    "hijos": []
+   },
+   {
+    "nombre": "Fiscalía federal",
+    "estado": "existente",
+    "rol": "Se suma por convenio a los equipos conjuntos.",
+    "hoy": "PROCUNAR y PROCELAC (Ley 27.148, art. 22)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerios de Trabajo y Desarrollo Social, de Educación, Ciencia y Cultura y de Salud",
+    "estado": "existente",
+    "rol": "Proponen y ejecutan los proyectos de recuperación de barrios.",
+    "hoy": "Ministerio de Capital Humano y Ministerio de Salud",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Análisis de riesgo, inspección y escaneo de las cargas de la vía navegable.",
+    "hoy": "ARCA (Ministerio de Economía), Dirección General de Aduanas",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia Nacional de Puertos y Navegación",
+    "estado": "existente",
+    "rol": "Incluye la obligación de dar datos en el acta de toma de posesión, si todavía no ocurrió.",
+    "hoy": "Agencia Nacional de Puertos y Navegación (ANPyN, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Concesionario privado",
+    "estado": "existente",
+    "rol": "Solo entrega datos de tránsito, sin costo, si se pacta en el acta de toma.",
+    "hoy": "Adjudicatario de la Licitación 1/2025",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Gobierno provincial",
+   "rol": "Contraparte: firma, aporta policía y fiscalías y ratifica si corresponde."
+  },
+  {
+   "nombre": "Provincias y municipios",
+   "rol": "Ejecutan proyectos de barrios por convenio; destino propio de los decomisos provinciales."
+  }
+ ]
+}

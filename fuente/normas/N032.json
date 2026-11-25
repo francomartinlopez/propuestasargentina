@@ -1,0 +1,80 @@
+{
+ "id": "N032",
+ "tipo": "ley_nacional",
+ "titulo": "Ley aprobatoria del Acuerdo Federal de Sustitución Tributaria",
+ "sumilla": "Aprueba el acuerdo «Acuerdo Federal de Sustitución Tributaria», precisa que el pago a cuenta del impuesto al suelo en la compraventa no es un tributo sobre la operación, ratifica el piso común del impuesto a la herencia, sustituye los compromisos de Ingresos Brutos y Sellos de los Consensos Fiscales anteriores y fija las obligaciones de información y publicación del Estado nacional.",
+ "cuando": "Fase I: se envía dentro de los 30 días de la firma del acuerdo «Acuerdo Federal de Sustitución Tributaria».",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; Senado como cámara de origen (régimen federal). No crea ni modifica tributos nacionales ni toca la coparticipación.",
+ "motivos": "El Acuerdo Federal de Sustitución Tributaria, suscripto por el Estado nacional con las provincias y la Ciudad Autónoma de Buenos Aires, retoma el objetivo del Consenso Fiscal de 2017 de eliminar el impuesto de sellos y moderar el impuesto sobre los ingresos brutos, que gravan la producción en cascada. A diferencia de los consensos anteriores, que fueron suspendidos o reemplazados, cada etapa de baja queda atada a la recaudación efectiva de los tributos que la sustituyen: el impuesto al valor del suelo y el impuesto a la herencia y donaciones, ambos de las provincias y los municipios. El proyecto aprueba el Acuerdo y precisa dos de sus contenidos. Aclara que el pago a cuenta del impuesto al valor del suelo que se ingresa con la transferencia de un inmueble es un anticipo del impuesto periódico y no un tributo sobre la operación, de modo que se respeta el compromiso de no crear otros impuestos a las transacciones. Ratifica, además, el piso común del impuesto a la herencia acordado por las jurisdicciones, que protege la vivienda única y la empresa familiar. La ley sustituye los compromisos de los consensos fiscales anteriores en materia de ingresos brutos y sellos, mantiene sus topes hasta cada etapa de baja, condiciona solo los beneficios que la Nación otorga por decisión propia y no autoriza gasto.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Aprobación",
+     "texto": "Apruébase el Acuerdo Federal de Sustitución Tributaria suscripto el [fecha] entre el Estado nacional, las provincias y la Ciudad Autónoma de Buenos Aires que se indican en él, cuya copia autenticada forma parte de la presente ley como Anexo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Pago a cuenta del impuesto al valor del suelo",
+     "texto": "A los efectos de la cláusula sexta del Acuerdo, el pago a cuenta del impuesto al valor del suelo que se ingresa con la transferencia de un inmueble es un anticipo del impuesto periódico sobre el suelo, que se descuenta íntegramente de las cuotas siguientes, y no constituye un tributo sobre el acto, el contrato ni la operación."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Piso común del impuesto a la herencia",
+     "texto": "Ratifícase el piso común del impuesto a la transmisión gratuita de bienes establecido en la cláusula octava del Acuerdo, que regirá para las jurisdicciones que lo ratifiquen."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Consensos fiscales anteriores",
+     "texto": "Respecto de las jurisdicciones que ratifiquen el Acuerdo, los compromisos en materia de impuesto sobre los ingresos brutos y de impuesto de sellos de los Consensos Fiscales aprobados por las Leyes N° 27.429, N° 27.469, N° 27.542, N° 27.634 y N° 27.687 quedan sustituidos por los del Acuerdo, con la salvedad de su cláusula quinta. Los demás compromisos de esos Consensos no se modifican."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Condición de los beneficios federales",
+     "texto": "El Poder Ejecutivo nacional aplicará la condición de la cláusula duodécima del Acuerdo a los convenios y programas que asigne fuera de la coparticipación federal de impuestos, a los préstamos y refinanciaciones del Fondo Fiduciario para el Desarrollo Provincial y al acceso a nuevas potestades tributarias. En ningún caso podrán retenerse ni condicionarse la coparticipación federal de impuestos, las transferencias automáticas establecidas por ley ni la ayuda por emergencia o catástrofe."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Información para los tributos de reemplazo",
+     "texto": "La Agencia de Recaudación y Control Aduanero (ARCA) suministrará a las administraciones tributarias de las jurisdicciones que ratifiquen el Acuerdo, mediante convenio, la información necesaria para liquidar y fiscalizar el impuesto al valor del suelo y el impuesto a la transmisión gratuita de bienes. El suministro se limitará a esa finalidad y se hará con sujeción al secreto fiscal establecido en el artículo 101 de la Ley N° 11.683 (t.o. 1998) y a la Ley N° 25.326 de Protección de los Datos Personales; cada consulta quedará registrada con identificación del consultante, fecha y finalidad."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Publicación nacional",
+     "texto": "El Poder Ejecutivo nacional publicará cada año, antes del 30 de junio, la recaudación del año anterior de cada tributo que se reduce y de cada uno que lo reemplaza en todas las jurisdicciones, en pesos y en porcentaje del producto interno bruto, con el informe de la Comisión de Seguimiento del Acuerdo."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Representación nacional y financiamiento",
+     "texto": "El representante del Estado nacional en la Comisión de Seguimiento del Acuerdo y su secretaría técnica serán designados por la Secretaría de Hacienda del Ministerio de Economía. La presente ley no autoriza gasto; su aplicación se atenderá con los créditos asignados a esa Secretaría y a ARCA."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Invitación",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires que no hayan suscripto el Acuerdo a adherir a él por ley local, y, por su intermedio, a los municipios a adherir conforme a su cláusula séptima."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 11,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Leyes 27.429, 27.469, 27.542, 27.634 y 27.687 (Consensos Fiscales): compromisos de Ingresos Brutos y Sellos sustituidos para las jurisdicciones que ratifiquen"
+ ],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,52 @@
+{
+ "id": "N278b",
+ "tipo": "decreto",
+ "titulo": "Decreto que unifica la retención de las Becas Progresar del nivel obligatorio en un régimen recuperable",
+ "sumilla": "Deja sin aplicación, para la línea que termina la escuela obligatoria, la reserva del 20 % de cada cuota que se pierde si no se acredita la asistencia, y la reemplaza por el régimen de aviso y retención recuperable del ministerio: lo retenido se cobra al ponerse al día.",
+ "cuando": "Fase I · año 1 (antes del ciclo lectivo 2028, junto con la resolución de asistencia)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Decreto simple (art. 99, incs. 1 y 2, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "el Expediente N° [—], la Ley N° 27.726, el Decreto N° 84/2014 y sus modificatorios, en particular el Decreto N° 857/2021, y",
+ "considerando": [
+  "Que la Ley N° 27.726 dio rango legal al Programa de Respaldo a Estudiantes Argentinos (PROGRESAR) y faculta a la autoridad de aplicación a fijar las condiciones de permanencia, entre ellas la asistencia.",
+  "Que el artículo 5° del Decreto N° 84/2014, según el texto del Decreto N° 857/2021, dispone que se liquide el ochenta por ciento (80 %) de cada cuota y se reserve el veinte por ciento (20 %) restante hasta acreditar los requisitos, y que esa reserva se pierde si no se acreditan.",
+  "Que para la línea destinada a finalizar la educación obligatoria se adopta un régimen basado en el registro de asistencia, con aviso previo, acompañamiento escolar y retención de la cuota que se recupera cuando la o el estudiante vuelve a cumplir la condición, y que la coexistencia de ambos mecanismos superpondría dos retenciones sobre la misma cuota.",
+  "Que el propósito de la condición es sostener la escolaridad y no sancionar, por lo que lo retenido no debe perderse por el solo transcurso del tiempo mientras la o el estudiante pueda volver a cumplirla dentro del ciclo lectivo.",
+  "Que el servicio jurídico permanente ha tomado la intervención de su competencia.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Línea de educación obligatoria",
+     "texto": "Incorpórase como último párrafo del artículo 5° del Decreto N° 84/2014 y sus modificatorios el siguiente: «La reserva prevista en este artículo no se aplica a la línea destinada a finalizar la educación primaria y secundaria obligatoria. En esa línea, la cuota se liquida completa y se sujeta al régimen de condición de asistencia, aviso y retención que establezca la autoridad de aplicación. Las sumas retenidas en ese régimen se abonan cuando la o el estudiante vuelve a cumplir la condición dentro del mismo ciclo lectivo y no se pierden por el solo transcurso del tiempo.»"
+    },
+    {
+     "n": 2,
+     "epigrafe": "Reservas pendientes",
+     "texto": "Las sumas reservadas a estudiantes de esa línea antes de la entrada en vigencia del presente se abonan, en la primera liquidación posterior, a quienes acrediten la asistencia del ciclo lectivo en curso conforme al régimen de la autoridad de aplicación."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el mismo día que el régimen de condición de asistencia que dicte la autoridad de aplicación para la línea de educación obligatoria."
+    },
+    {
+     "n": 4,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 84/2014, art. 5 (texto Decreto 857/2021): incorpora último párrafo"
+ ],
+ "deroga": [],
+ "variantes": null
+}

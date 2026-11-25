@@ -1,0 +1,125 @@
+{
+ "id": "N320x",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de reporte de brecha salarial en empresas grandes",
+ "sumilla": "Obliga a los empleadores con 250 o más trabajadores (y desde el tercer año, con 100 o más) a publicar cada año su brecha salarial por género —media, mediana, componentes variables y distribución por cuartiles—, calculada en primer término por la Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social con los datos de la seguridad social, para hacer efectiva la igualdad de retribución por trabajo de igual valor.",
+ "cuando": "Fase III · agenda sin fecha comprometida",
+ "cuando_breve": "Fase III · agenda sin fecha comprometida",
+ "tramite": "Mayoría simple; cámara de origen indistinta. No crea contribuciones ni cargas de la seguridad social.",
+ "motivos": "El artículo 172 de la Ley de Contrato de Trabajo garantiza la igualdad de retribución por trabajo de igual valor, y la República asumió el mismo compromiso al ratificar el Convenio N° 100 de la Organización Internacional del Trabajo. Sin embargo, sin información no es posible saber si ese principio se cumple en cada empresa ni corregir las diferencias que no tienen justificación. El presente proyecto establece una obligación de transparencia, no de resultado: los empleadores con doscientos cincuenta o más trabajadores, y desde el tercer año los que tengan cien o más, publican cada año su brecha salarial por género, medida por la diferencia media y mediana de la remuneración por hora, de los componentes variables y de la distribución por cuartiles. Para no generar cargas administrativas innecesarias, la Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social calcula un reporte preliminar con las declaraciones que los empleadores ya presentan a la seguridad social y el empleador lo valida. Los datos se publican sin información individual. El empleador puede acompañar las explicaciones y medidas que considere pertinentes. La experiencia comparada muestra que la publicación por sí sola induce a las empresas a revisar sus políticas salariales.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y alcance",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece la obligación de los empleadores comprendidos en el artículo 2° de publicar cada año su brecha salarial por género, a fin de hacer efectiva la igualdad de retribución por trabajo de igual valor prevista en el artículo 172 de la Ley de Contrato de Trabajo N° 20.744 (t.o. 1976)."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sujetos obligados",
+     "texto": "Quedan obligados los empleadores privados y las empresas y sociedades con participación estatal mayoritaria que tengan, en promedio durante el año anterior, doscientos cincuenta (250) o más trabajadores registrados. Desde el tercer reporte, quedan obligados también los que tengan cien (100) o más."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por: a) remuneración por hora: la remuneración bruta mensual, incluidos los componentes variables, dividida por las horas trabajadas en el mes; b) brecha media: la diferencia entre el promedio de la remuneración por hora de los varones y el de las mujeres, expresada como porcentaje del primero; y c) brecha mediana: la misma diferencia calculada sobre las medianas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Reporte",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Contenido",
+     "texto": "El reporte anual contiene: a) la brecha media y la brecha mediana de la remuneración por hora; b) la brecha media y la brecha mediana de los componentes variables de la remuneración; c) la proporción de mujeres y de varones que perciben componentes variables; d) la proporción de mujeres y de varones en cada cuartil de la remuneración por hora; y e) la brecha media por categoría del convenio colectivo aplicable o, en su defecto, por grupos de puestos de igual valor."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Reporte preliminar",
+     "texto": "La autoridad de aplicación calcula un reporte preliminar de cada empleador obligado con los datos de las declaraciones que este presenta a la seguridad social, y se lo remite antes del 31 de marzo de cada año. El empleador lo valida o lo corrige, con fundamento, dentro de los sesenta (60) días. Si no lo hace, el reporte preliminar se considera validado."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Publicación",
+     "texto": "El reporte validado se publica antes del 30 de junio de cada año en el sitio de internet del empleador y en el portal público de la autoridad de aplicación, identificado por empleador."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Explicaciones",
+     "texto": "El empleador puede acompañar al reporte las explicaciones de las diferencias que considere justificadas y las medidas que haya adoptado o se proponga adoptar, que se publican con él."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Confidencialidad",
+     "texto": "El reporte no contiene datos individuales. Cuando un grupo tenga menos de cinco (5) personas de cada género, sus datos se agregan con los del grupo más próximo. Los datos se tratan conforme la Ley N° 25.326."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Representación sindical",
+     "texto": "El empleador comunica el reporte validado a la representación sindical en el establecimiento o, en su defecto, a la asociación sindical signataria del convenio colectivo aplicable."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Autoridad de aplicación y cumplimiento",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación de la presente ley es la Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social. La Agencia de Recaudación y Control Aduanero (ARCA) le provee la información de las declaraciones a la seguridad social necesaria para el cálculo del artículo 5°, con sujeción al secreto fiscal en todo lo que no se publique."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Incumplimiento",
+     "texto": "Ante la falta de publicación, la autoridad de aplicación intima al empleador a publicar el reporte dentro de los treinta (30) días. Si el incumplimiento persiste, aplica las sanciones del Régimen General de Sanciones por Infracciones Laborales del Anexo II de la Ley N° 25.212 y publica la nómina de empleadores incumplidores."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Informe nacional",
+     "texto": "La autoridad de aplicación publica cada año un informe nacional con la brecha salarial por sector de actividad, tamaño de empleador y jurisdicción, y lo remite al Congreso de la Nación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Evaluación",
+     "texto": "A los tres (3) años del primer reporte, la autoridad de aplicación evalúa los resultados de la presente ley y su efecto sobre la brecha salarial, y remite la evaluación al Congreso de la Nación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Financiamiento",
+     "texto": "La aplicación de la presente ley no requiere gasto adicional: se atiende con los créditos asignados a la autoridad de aplicación en la ley de presupuesto vigente."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Primer reporte",
+     "texto": "El primer reporte se presenta en el año calendario siguiente al de la publicación de la reglamentación, con los datos del año anterior."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 17,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 20.744, art. 172 (complementa)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,138 @@
+{
+ "id": "N108",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de acceso a energía segura en el hogar",
+ "sumilla": "Fija metas anuales de extensión de redes de gas y de conexiones internas, con financiamiento de la conexión en cuotas o subsidio focalizado, ordena el recambio de artefactos inseguros por equipos certificados y la prohibición gradual de los peligrosos, y mide sus resultados con indicadores sanitarios.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "Según el Censo 2022 del INDEC, el 41,6 % de las viviendas del país cocina sin gas de red ni electricidad, y en Formosa, Corrientes, Chaco y Misiones la proporción supera el 94 %. Esos hogares dependen de garrafas, leña o artefactos precarios, con riesgo de intoxicación por monóxido de carbono, incendios y mala calidad del aire interior. La disponibilidad de gas natural de producción nacional permite saldar esa deuda como una política de salud pública tanto como de infraestructura. El proyecto no crea organismos ni modifica el régimen de distribución de la Ley N° 24.076: fija metas anuales de extensión de redes y de conexiones internas en barrios de ingresos bajos y medios, prevé que la conexión se pague en cuotas o con subsidio focalizado, ordena el recambio de artefactos inseguros por equipos certificados instalados por matriculados y encomienda al Ente Nacional Regulador del Gas y la Electricidad la prohibición gradual de los artefactos peligrosos. Donde la red no sea viable se ofrecen alternativas seguras, y la garrafa sigue dentro del régimen de subsidios focalizados vigente. Las prioridades se asignan por riesgo sanitario y pobreza energética, con criterios publicados, y los resultados se miden con indicadores de salud difundidos por provincia. La ejecución se acuerda con las provincias, las distribuidoras y las cooperativas, y el gasto tiene fuente identificada y metas que se fijan cada año en el presupuesto.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto asegurar el acceso de los hogares a una energía segura para cocinar y calefaccionarse, mediante la extensión de las redes de gas natural y de las conexiones internas, el recambio de artefactos inseguros, la prohibición gradual de los artefactos peligrosos y la provisión de soluciones alternativas seguras donde la red no sea viable."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por:\na) hogar sin acceso a energía segura: el que cocina o se calefacciona con leña, carbón, combustibles líquidos o gas licuado de petróleo en envase sin instalación reglamentaria, o con artefactos inseguros;\nb) artefacto inseguro: el que carece de certificación vigente, el que no cumple las normas técnicas de seguridad aplicables o el que por su estado o instalación presenta riesgo de intoxicación, explosión o incendio;\nc) conexión interna: la instalación domiciliaria que vincula el servicio de red con los artefactos del hogar, realizada por un instalador matriculado;\nd) solución alternativa segura: la provisión de gas a granel con instalación reglamentaria o de artefactos eléctricos eficientes para cocción y calefacción."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Es autoridad de aplicación de la presente ley la Secretaría de Energía del Ministerio de Infraestructura y Energía. El Ente Nacional Regulador del Gas y la Electricidad ejerce las funciones técnicas que esta ley le asigna. El Ministerio de Salud participa en la definición y la medición de los indicadores sanitarios."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Relación con el régimen vigente",
+     "texto": "La presente ley complementa la Ley N° 24.076 y no modifica las obligaciones de las licenciatarias de distribución ni el régimen de habilitación y autorización de obras previsto en ella. El acceso a la garrafa de gas licuado de petróleo de los hogares sin red continúa rigiéndose por el régimen de subsidios energéticos focalizados vigente."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Relevamiento, prioridades y metas",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Relevamiento",
+     "texto": "Dentro del primer año de vigencia, la autoridad de aplicación relevará, con las provincias y los municipios, los hogares sin acceso a energía segura y las políticas nacionales, provinciales y municipales vigentes en la materia, comenzando por las Provincias del Chaco, Formosa, Corrientes y Misiones. El relevamiento identificará las políticas que funcionan, las obras en cartera y las necesidades no atendidas, y se publicará con desagregación por provincia y localidad."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Prioridades",
+     "texto": "La extensión de redes, las conexiones internas y el recambio de artefactos se asignarán según el riesgo sanitario y el grado de pobreza energética de cada localidad y barrio, conforme a criterios objetivos que la autoridad de aplicación publicará antes de cada asignación anual."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Metas anuales",
+     "texto": "La autoridad de aplicación fijará metas anuales, por provincia, de:\na) extensión de redes de distribución en barrios de ingresos bajos y medios;\nb) conexiones internas realizadas;\nc) artefactos inseguros reemplazados;\nd) hogares atendidos con soluciones alternativas seguras.\nLas metas y su financiamiento se incluirán en el proyecto de ley de presupuesto de cada ejercicio. Para el primer año de vigencia se fija la meta de CIEN MIL (100.000) artefactos inseguros reemplazados en hogares vulnerables."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Uso de la infraestructura existente",
+     "texto": "Las metas darán prioridad a las conexiones sobre redes y gasoductos ya construidos y a la terminación de las obras en curso, antes de la construcción de redes nuevas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Conexiones, artefactos y soluciones alternativas",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Financiamiento de la conexión",
+     "texto": "Los hogares comprendidos en las metas podrán pagar la conexión interna en cuotas, sin interés o con interés subsidiado, o acceder a un subsidio focalizado que cubra total o parcialmente su costo, según su condición socioeconómica. La reglamentación fijará los requisitos, los montos y el plazo de las cuotas, que no podrán exceder una proporción razonable de los ingresos del hogar."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Recambio de artefactos",
+     "texto": "La autoridad de aplicación ejecutará un programa de recambio de artefactos inseguros por equipos certificados en hogares vulnerables. La instalación estará a cargo de instaladores matriculados y cada recambio quedará registrado con la identificación del equipo, del instalador y del hogar."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Prohibición gradual de artefactos peligrosos",
+     "texto": "El Ente Nacional Regulador del Gas y la Electricidad establecerá, con un cronograma público y gradual, la prohibición de fabricar, importar, comercializar e instalar los artefactos que por su diseño presenten riesgo grave de intoxicación por monóxido de carbono, explosión o incendio. El cronograma preverá plazos de adecuación para fabricantes, importadores y comerciantes y coordinará la prohibición con el programa de recambio."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Instaladores y certificación",
+     "texto": "El Ente Nacional Regulador del Gas y la Electricidad mantendrá la matrícula de instaladores y el régimen de certificación de artefactos y de instalaciones domiciliarias, y verificará por muestreo las instalaciones realizadas en el marco de la presente ley."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Soluciones alternativas",
+     "texto": "Donde la extensión de la red no sea técnica o económicamente viable, la autoridad de aplicación ofrecerá soluciones alternativas seguras, con prioridad para la cocción y la calefacción eléctricas eficientes y el gas a granel con instalación reglamentaria."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Ejecución federal, indicadores y financiamiento",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Ejecución con provincias, distribuidoras y cooperativas",
+     "texto": "La autoridad de aplicación ejecutará la presente ley mediante convenios con las provincias, los municipios, las distribuidoras y las cooperativas de servicios públicos, que fijarán las metas locales, los aportes de cada parte, el ejecutor de cada obra y la rendición de cuentas. Invítase a las provincias a suscribir un acuerdo federal de energía segura en el hogar."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Indicadores sanitarios",
+     "texto": "La autoridad de aplicación, con el Ministerio de Salud, medirá en forma periódica las intoxicaciones por monóxido de carbono, los incendios domiciliarios vinculados al uso de energía y la calidad del aire interior en las zonas comprendidas."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Publicación",
+     "texto": "La autoridad de aplicación publicará cada semestre, en formato de datos abiertos y con desagregación por provincia, el avance de las metas, los fondos ejecutados y los indicadores sanitarios, y presentará al Congreso de la Nación un informe anual de cumplimiento."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la presente ley se atenderán con:\na) los créditos que la ley de presupuesto asigne a la autoridad de aplicación dentro del cupo de inversión en obras de infraestructura del marco fiscal vigente, sin generar déficit primario;\nb) el crédito de organismos multilaterales destinado a obras de redes;\nc) los aportes de provincias, municipios, distribuidoras y cooperativas previstos en los convenios del artículo 14;\nd) el pago de las cuotas de conexión.\nEn el ejercicio de entrada en vigencia, el programa de recambio de artefactos se financiará con la reasignación de créditos de la jurisdicción de la autoridad de aplicación, sin aumento del gasto total autorizado. La extensión de redes, las conexiones internas y los subsidios a la conexión se activan con la ley de presupuesto del ejercicio siguiente."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Cronograma",
+     "texto": "La presente ley se ejecutará según el siguiente cronograma: el relevamiento y el recambio de los primeros CIEN MIL (100.000) artefactos, en el primer año de vigencia; la extensión de redes y conexiones internas, con metas anuales a partir del segundo año."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su promulgación."
+    },
+    {
+     "n": 20,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

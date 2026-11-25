@@ -1,0 +1,220 @@
+{
+ "id": "N040",
+ "tipo": "ley_nacional",
+ "titulo": "Ley Convenio de Coparticipación Federal de Impuestos",
+ "sumilla": "Ley convenio del artículo 75, inciso 2, de la Constitución Nacional que reemplaza la Ley 23.548: incorpora íntegro el IVA a la masa coparticipable (deroga el art. 5 de la Ley 23.966 y fija en el mismo acto la fuente de reemplazo para la previsión social), parte de coeficientes neutrales y reparte el crecimiento de la masa con criterios objetivos, devuelve gradualmente potestades tributarias empezando por la propiedad, ratifica las regalías provinciales, sustituye la asignación discrecional de los ATN por reglas automáticas con cada giro publicado en 48 horas y hace de la Comisión Federal de Impuestos el organismo fiscal federal de control.",
+ "cuando": "Fase II (años 2-3): se envía al Senado en la Fase II; rige desde el 1° de enero siguiente a la aprobación de todas las legislaturas (las asignaciones prorrogadas por «Ley de continuidad tributaria y de baja del impuesto sobre los créditos y débitos bancarios» continúan hasta esa entrada en vigencia, aunque pase el 31/12/2031). El Capítulo IV (ATN) rige desde su publicación.",
+ "cuando_breve": "Fase II",
+ "tramite": "Ley convenio (art. 75 inc. 2 CN): Senado como cámara de origen; mayoría absoluta de la totalidad de los miembros de cada Cámara; no puede ser modificada unilateralmente ni reglamentada; requiere la aprobación de cada legislatura provincial y de la Ciudad Autónoma de Buenos Aires (modelo «Modelo de ley provincial de aprobación de la Ley Convenio de Coparticipación Federal de Impuestos»).",
+ "motivos": "La Constitución Nacional ordenó en 1994 dictar, antes de terminar 1996, una ley convenio de coparticipación sobre la base de acuerdos entre la Nación y las provincias. Ese mandato sigue pendiente: rige la Ley 23.548, sancionada en 1988 como régimen transitorio y prorrogada en forma automática, completada con asignaciones específicas y regímenes especiales que hicieron del reparto un sistema difícil de conocer y de controlar. El proyecto, acordado con las provincias, reemplaza ese régimen. Incorpora a la masa la totalidad del impuesto al valor agregado y fija en el mismo acto la fuente de reemplazo para la previsión social. Parte de coeficientes que no alteran lo que cada jurisdicción recibe y distribuye el crecimiento de la masa con criterios objetivos y públicos, como manda el artículo 75, inciso 2. Devuelve gradualmente a las provincias potestades tributarias, empezando por las que gravan la propiedad, con la condición de cuentas ordenadas y sin que ninguna jurisdicción pierda en la transición, y ratifica que las regalías son recursos provinciales. Los Aportes del Tesoro Nacional dejan de asignarse en forma discrecional: se otorgan ante supuestos definidos con indicadores públicos, cada giro se publica dentro de las cuarenta y ocho horas y el remanente anual se reparte por los coeficientes. La Comisión Federal de Impuestos, integrada por la Nación y las provincias, controla el nuevo reparto.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Naturaleza, objeto y aprobación",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto y naturaleza",
+     "texto": "La presente ley convenio, dictada conforme al artículo 75, inciso 2, y a la cláusula transitoria sexta de la Constitución Nacional, establece el régimen de coparticipación federal de impuestos entre el Estado nacional, las provincias y la Ciudad Autónoma de Buenos Aires, y sustituye el régimen de la Ley N° 23.548. No puede ser modificada unilateralmente ni reglamentada."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Aprobación por las jurisdicciones",
+     "texto": "Las provincias y la Ciudad Autónoma de Buenos Aires aprobarán la presente ley por ley local, sin limitaciones ni reservas, y lo comunicarán al Poder Ejecutivo nacional y a la Comisión Federal de Impuestos dentro de los diez (10) días de su promulgación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Masa coparticipable y distribución",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Masa coparticipable",
+     "texto": "La masa de fondos a distribuir está integrada por el producido de todos los impuestos nacionales existentes o a crearse, con excepción de: a) los derechos de importación y de exportación previstos en el artículo 4° de la Constitución Nacional; b) los aportes y contribuciones con destino a la seguridad social, incluidos los componentes de esa naturaleza de los regímenes simplificados; c) los impuestos o la parte de ellos a los que una ley especial asigne un destino específico conforme al artículo 75, inciso 3, de la Constitución Nacional, por tiempo determinado, que ingresarán a la masa al vencer ese tiempo."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Impuesto al valor agregado íntegro",
+     "texto": "El producido del impuesto al valor agregado integra la masa en su totalidad y no podrá ser objeto de asignaciones específicas ni de regímenes especiales de distribución. Derógase el artículo 5°, Título II, punto 2, de la Ley N° 23.966."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Asignaciones específicas y regímenes especiales vigentes",
+     "texto": "Desde la entrada en vigencia de la presente ley cesan las asignaciones específicas de impuestos coparticipables prorrogadas por los artículos 2° y 3° de la Ley N° [—] de continuidad tributaria y los regímenes especiales de distribución de impuestos nacionales, cuyo producido ingresa a la masa del artículo 3°. Los importes que esas asignaciones y regímenes destinaban al Estado nacional, a las jurisdicciones o a fondos determinados se computan en los coeficientes de base del artículo 8°."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Fuente de reemplazo para la previsión social",
+     "texto": "El Estado nacional destinará cada año al financiamiento del sistema previsional a cargo de la Administración Nacional de la Seguridad Social (ANSES), con cargo a su participación en la distribución primaria y por medio de la ley de presupuesto, un importe no inferior al que habría producido en el mismo año la asignación derogada por el artículo 4°. A ese fin, la participación del Estado nacional en los coeficientes de base incluye el importe que esa asignación produjo en el año base. Las jurisdicciones prestan conformidad a esta fuente de reemplazo con la aprobación de la presente ley."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Distribución primaria",
+     "texto": "El monto total de la masa se distribuirá: a) el uno por ciento (1 %) al Fondo de Aportes del Tesoro Nacional a las Provincias del Capítulo IV; b) el resto, entre el Estado nacional y el conjunto de las provincias y la Ciudad Autónoma de Buenos Aires, en los porcentajes de base que resulten del artículo 8°, con los ajustes de los artículos 9° y 16°."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Año base y coeficientes de base",
+     "texto": "Dentro de los noventa (90) días de la entrada en vigencia de la presente ley, la Comisión Federal de Impuestos calculará y publicará los porcentajes de distribución primaria y los coeficientes de distribución secundaria de base, de modo que, aplicados a la masa del artículo 3° correspondiente al año calendario anterior al de la entrada en vigencia (en adelante, «año base»), el Estado nacional y cada jurisdicción hubieran recibido el mismo importe que efectivamente recibieron ese año por la Ley N° 23.548 y por las asignaciones específicas y los regímenes especiales que cesan conforme al artículo 5°. Hasta su publicación, las transferencias se liquidarán a cuenta con los porcentajes vigentes el día anterior a la entrada en vigencia."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Distribución del crecimiento de la masa",
+     "texto": "La parte de la masa que exceda la del año base, medida a valores constantes según el índice de precios al consumidor del Instituto Nacional de Estadística y Censos (INDEC), se distribuirá entre las jurisdicciones con criterios objetivos, en relación directa con las competencias, servicios y funciones de cada una, en forma equitativa y solidaria y con prioridad para el logro de un grado equivalente de desarrollo, calidad de vida e igualdad de oportunidades. A tal fin se computarán: a) la población; b) los servicios de educación y salud a cargo de cada jurisdicción; c) la brecha de desarrollo, medida con indicadores de condiciones de vida del INDEC; d) la inversa de la capacidad tributaria potencial por habitante. La Comisión Federal de Impuestos aprobará, por dos tercios de sus miembros y dentro de los doce (12) meses de la entrada en vigencia, la metodología y la ponderación de esos indicadores, que revisará cada cinco (5) años y publicará con sus datos. Hasta su aprobación, el crecimiento se distribuirá por los coeficientes de base. La participación del Estado nacional en el crecimiento será la de su porcentaje de base."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Garantía",
+     "texto": "Ninguna jurisdicción recibirá, por aplicación del artículo 9°, un importe menor, a valores constantes, que el que le habría correspondido en el año base por los coeficientes de base. Si la masa de un año fuera inferior a la del año base a valores constantes, se distribuirá por los porcentajes y coeficientes de base."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Transferencia diaria y automática",
+     "texto": "El Banco de la Nación Argentina transferirá en forma diaria y automática a cada jurisdicción el importe que le corresponda, sin costo alguno para ella. El Estado nacional no podrá retener ni compensar esas transferencias, salvo por decisión de la Comisión Federal de Impuestos conforme al artículo 27°."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Devolución de potestades tributarias y recursos provinciales",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Principio y alcance",
+     "texto": "El Estado nacional devolverá a las provincias y a la Ciudad Autónoma de Buenos Aires, en forma gradual, potestades tributarias que hoy ejerce, comenzando por los impuestos que gravan la propiedad. Quedan en el Estado nacional los derechos de importación y de exportación y el impuesto al valor agregado, que se distribuye conforme al Capítulo II."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Primera etapa: impuesto sobre los bienes personales",
+     "texto": "Desde el 1° de enero del año siguiente al de la certificación prevista en el artículo 15° para una jurisdicción, el impuesto sobre los bienes personales no alcanzará a las personas humanas y sucesiones indivisas domiciliadas en ella, y esa jurisdicción podrá establecer por ley local un impuesto sobre su patrimonio. La Agencia de Recaudación y Control Aduanero suministrará a la jurisdicción la información necesaria para su aplicación, con sujeción al secreto fiscal."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Segunda etapa y alcance de la devolución",
+     "texto": "Desde el 1° de enero del segundo año siguiente al de la certificación prevista en el artículo 15° para una jurisdicción, y siempre que haya asumido la potestad de la primera etapa, los impuestos internos no alcanzarán a los hechos imponibles que se perfeccionen en ella, y esa jurisdicción podrá establecer por ley local impuestos equivalentes, con las mismas bases y sin superar las alícuotas nacionales vigentes al momento de la devolución. El impuesto a las ganancias y los impuestos sobre los combustibles continúan integrando la masa del artículo 3° y no serán objeto de devolución antes del 31 de diciembre de 2031; su eventual devolución posterior solo podrá disponerse por ley convenio. La devolución de cada etapa se rige por los artículos 15° y 16°."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Condición de saneamiento",
+     "texto": "Una jurisdicción accederá a cada etapa cuando, además de haber aprobado la presente ley, el Consejo Federal de Responsabilidad Fiscal de la Ley N° 25.917 certifique que cumplió en el último ejercicio cerrado las cláusulas segunda a séptima del Acuerdo Federal de Saneamiento aprobado por la Ley N° [—], o las reglas equivalentes de la Ley N° 25.917 que lo incorporen."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Neutralidad de cada transferencia",
+     "texto": "Cada devolución de potestades será neutral para el Estado nacional y para las demás jurisdicciones. La Comisión Federal de Impuestos calculará el importe que el impuesto devuelto, por la parte recaudada de los contribuyentes de la jurisdicción que asume la potestad, aportó en el año anterior a la participación del Estado nacional y de cada una de las demás jurisdicciones; ese importe, actualizado cada año por la variación de la masa, se deducirá de la participación de la jurisdicción que asume la potestad y se acreditará a los demás en las mismas proporciones."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Obligaciones de las jurisdicciones",
+     "texto": "Las provincias y la Ciudad Autónoma de Buenos Aires se obligan a no establecer, por sí ni por sus municipios, tributos locales análogos a los nacionales que integran la masa. Se exceptúan: a) los impuestos sobre la propiedad inmobiliaria y sobre el valor del suelo; b) los impuestos sobre la transmisión gratuita de bienes; c) los impuestos sobre los automotores; d) los impuestos sobre los ingresos brutos y de sellos, en las condiciones de los acuerdos federales de sustitución tributaria; e) las tasas retributivas de servicios efectivamente prestados; f) los impuestos cuya potestad asuman conforme a este capítulo."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Recursos naturales y regalías",
+     "texto": "Ratifícase que las regalías hidrocarburíferas y mineras son recursos de las provincias en cuyo territorio se encuentran los yacimientos, conforme al artículo 124 de la Constitución Nacional, al artículo 59 de la Ley N° 17.319 en el texto de la Ley N° 27.742 y al artículo 22 de la Ley N° 24.196 en el texto de la Ley N° 27.743, y no integran la masa. El Estado nacional no establecerá regalías ni tributos específicos sobre la producción minera, hidrocarburífera, agropecuaria o forestal, sin perjuicio de los impuestos nacionales de alcance general y de los derechos de exportación durante el cronograma legal de su eliminación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Aportes del Tesoro Nacional",
+   "articulos": [
+    {
+     "n": 19,
+     "epigrafe": "Fondo de Aportes del Tesoro Nacional",
+     "texto": "El Fondo de Aportes del Tesoro Nacional a las Provincias se integra con el porcentaje del inciso a) del artículo 7° y se destina exclusivamente a los supuestos del artículo 20°. Lo administra la Secretaría del Interior de la Jefatura de Gabinete de Ministros, en carácter de autoridad de aplicación, que no podrá asignarlo en forma discrecional. El Fondo queda excluido de la facultad de disolver fondos fiduciarios prevista en el artículo 5° de la Ley N° 27.742; su supresión o el cambio de su destino solo podrán disponerse por ley convenio."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Supuestos y reglas de asignación",
+     "texto": "El Fondo se asignará únicamente: a) ante una emergencia o catástrofe declarada por ley o decreto nacional o por ley provincial, en proporción a la población afectada y al daño estimado según el acto de declaración; b) ante un desequilibrio financiero transitorio de una jurisdicción, medido por la caída a valores constantes de sus recursos de origen nacional y propios respecto del promedio de los tres (3) años anteriores, por encima del umbral que fije la Comisión Federal de Impuestos. La Comisión aprobará y publicará, antes del 30 de noviembre de cada año, las fórmulas de cálculo, los indicadores y el umbral para el año siguiente. Hasta su primera aprobación, solo podrán asignarse aportes por el supuesto del inciso a), en proporción a la población afectada."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Asignación automática",
+     "texto": "Verificado el supuesto, de oficio o a solicitud de la jurisdicción, la autoridad de aplicación dispondrá el giro del importe que resulte de la fórmula dentro de los cinco (5) días hábiles. No podrá denegarlo, reducirlo ni condicionarlo por razones distintas de las previstas en este capítulo."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Publicación de cada giro",
+     "texto": "Dentro de las cuarenta y ocho (48) horas de cada giro, la autoridad de aplicación publicará en su sitio oficial, en formato abierto: la jurisdicción beneficiaria, el supuesto invocado y su fundamento, el acto de declaración o los valores de los indicadores, el cálculo del importe, el monto, la fecha y el acto que lo dispuso. Publicará además, con actualización diaria, el saldo del Fondo, y cada trimestre un informe a la Comisión Federal de Impuestos y a las comisiones de presupuesto de ambas Cámaras del Congreso."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Remanente anual y saldo acumulado",
+     "texto": "El saldo del Fondo no asignado al 31 de diciembre de cada año se distribuirá entre las provincias y la Ciudad Autónoma de Buenos Aires por los coeficientes de distribución secundaria, dentro de los quince (15) días hábiles de enero. Del saldo acumulado a la fecha de entrada en vigencia de este capítulo se distribuirá por los mismos coeficientes solo la parte que cuente con respaldo de caja en el Tesoro nacional, según certificación pública y fundada de la autoridad de aplicación, en el número de cuotas mensuales iguales que fije la ley de presupuesto de cada ejercicio de modo que su pago sea compatible con la meta de resultado primario de ese ejercicio. Cada pago se registrará en la cuenta fiscal anual. La parte del saldo sin respaldo de caja no genera obligación de pago."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Comisión Federal de Impuestos",
+   "articulos": [
+    {
+     "n": 24,
+     "epigrafe": "Organismo fiscal federal",
+     "texto": "La Comisión Federal de Impuestos es el organismo fiscal federal de control del régimen. Está integrada por un (1) representante del Estado nacional y uno (1) por cada provincia y por la Ciudad Autónoma de Buenos Aires que hayan aprobado la presente ley, con sus respectivos suplentes. Funciona en plenario y mediante un comité ejecutivo con representación de todas las regiones, cuya integración fija el plenario. Continúa a la Comisión creada por la Ley N° 23.548, con su personal y bienes."
+    },
+    {
+     "n": 25,
+     "epigrafe": "Funciones",
+     "texto": "Son funciones de la Comisión: a) controlar la liquidación y la transferencia diaria de la masa y de las participaciones; b) calcular y publicar los porcentajes y coeficientes de los artículos 8° y 9°; c) aprobar la metodología del artículo 9° y las fórmulas, indicadores y umbral del artículo 20°; d) controlar la aplicación del Capítulo IV y observar los giros que no se ajusten a él; e) calcular y certificar los importes del artículo 16°; f) decidir, de oficio o a pedido de parte, si un tributo nacional, provincial o municipal se ajusta a la presente ley; g) proponer, para después del 31 de diciembre de 2031, la eventual devolución de los impuestos mencionados en el segundo párrafo del artículo 14°; h) dictar su reglamento interno; i) publicar todas sus decisiones, cálculos y datos en formato abierto."
+    },
+    {
+     "n": 26,
+     "epigrafe": "Decisiones y recursos",
+     "texto": "Las decisiones de la Comisión son obligatorias para el Estado nacional y para las jurisdicciones. Podrán ser revisadas por el plenario a pedido de parte, dentro de los treinta (30) días hábiles de notificadas, y lo resuelto por el plenario será recurrible por recurso extraordinario ante la Corte Suprema de Justicia de la Nación, sin efecto suspensivo."
+    },
+    {
+     "n": 27,
+     "epigrafe": "Incumplimiento",
+     "texto": "Si una jurisdicción mantuviera un tributo declarado contrario a la presente ley, la Comisión ordenará al Banco de la Nación Argentina retener de su participación un importe equivalente a lo recaudado por ese tributo, hasta su derogación. Si el Estado nacional no transfiriera en término una participación o un giro debido conforme al Capítulo IV, la Comisión ordenará al Banco de la Nación Argentina transferirlo con cargo a la participación del Estado nacional."
+    },
+    {
+     "n": 28,
+     "epigrafe": "Funcionamiento y financiamiento",
+     "texto": "La Comisión aprobará y publicará su presupuesto anual, que se financiará con aportes del Estado nacional y de las jurisdicciones en proporción a sus participaciones en la distribución, que el Banco de la Nación Argentina debitará de las transferencias. Sus sesiones del plenario serán públicas, salvo resolución fundada."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 29,
+     "epigrafe": "Publicación de las transferencias",
+     "texto": "La Secretaría de Hacienda del Ministerio de Economía publicará cada día, en formato abierto, las transferencias realizadas a cada jurisdicción por concepto, y cada año, antes del 30 de junio, un informe con la evolución de la masa, de su distribución y de las devoluciones de potestades."
+    },
+    {
+     "n": 30,
+     "epigrafe": "Transición",
+     "texto": "Hasta la entrada en vigencia de la presente ley conforme al artículo 32°, continúan rigiendo la Ley N° 23.548 y las asignaciones y regímenes especiales vigentes. Los trámites pendientes ante la Comisión Federal de Impuestos continuarán conforme a la presente ley."
+    },
+    {
+     "n": 31,
+     "epigrafe": "Derogación",
+     "texto": "Derógase la Ley N° 23.548 y sus modificatorias, desde la entrada en vigencia de la presente ley."
+    },
+    {
+     "n": 32,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el 1° de enero del año siguiente a aquel en que el Poder Ejecutivo nacional reciba la comunicación de su aprobación por todas las provincias y por la Ciudad Autónoma de Buenos Aires. El Capítulo IV se aplicará desde la publicación de la presente ley al fondo previsto en el artículo 3°, inciso d), de la Ley N° 23.548, como norma del Estado nacional sobre el ejercicio de la facultad de su artículo 5°; hasta la entrada en vigencia general, el remanente anual se distribuirá por los coeficientes del artículo 4° de esa ley y las fórmulas se aprobarán conforme a la Ley N° 23.548 por la Comisión Federal de Impuestos."
+    },
+    {
+     "n": 33,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Leyes que establecen asignaciones específicas o regímenes especiales de distribución de impuestos nacionales coparticipables (cesan; su producido ingresa a la masa)",
+  "Régimen del impuesto sobre los bienes personales (Ley 23.966, Título VI): deja de alcanzar a los domiciliados en cada jurisdicción que asuma la potestad",
+  "Ley N° [—] de continuidad tributaria, arts. 2° y 3°: la prórroga de las asignaciones termina con la entrada en vigencia de esta ley"
+ ],
+ "deroga": [
+  "Ley 23.548 y sus modificatorias",
+  "Ley 23.966, art. 5°, Título II, punto 2 (11 % del IVA al Régimen Nacional de Previsión Social)"
+ ],
+ "variantes": null
+}

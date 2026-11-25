@@ -1,0 +1,161 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Ordena la cartera con criterios públicos, verifica el financiamiento antes de licitar e informa al Congreso. Metodología de priorización, fichas, certificados de financiamiento y tablero público.",
+    "hoy": "Secretaría de Coordinación de Infraestructura (Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía",
+      "estado": "modificado",
+      "rol": "Ejecuta acueductos, agua y cloacas sin crear un ente (recursos del ex ENOHSA, Decreto 1020/2024). Firma y ejecuta por la Nación; arma la cartera y publica el avance (funciones asignadas por el decreto «Decreto de asignación a la Secretaría de Obras Públicas, Agua y Vivienda de la ejecución del plan nacional de saneamiento»).",
+      "hoy": "Secretaría de Obras Públicas, con las Subsecretarías de Obras y Servicios y de Recursos Hídricos (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Energía del Ministerio de Infraestructura y Energía",
+      "estado": "existente",
+      "rol": "Gasoductos y represas del programa de obras paralizadas. Firma por la Nación y administra el registro único.",
+      "hoy": "Secretaría de Energía (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Transporte del Ministerio de Infraestructura y Energía",
+      "estado": "existente",
+      "rol": "Ferrocarril de cargas, Tren Norpatagónico y accesos portuarios. Firma por la Nación y liquida la tarifa social por pasajero en las provincias adheridas.",
+      "hoy": "Secretaría de Transporte, con la Subsecretaría de Transporte Ferroviario (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Dirección Nacional de Vialidad",
+      "estado": "modificado",
+      "rol": "Rutas nacionales por resultados y administración del Fondo de Caminos Rurales. Lista de rutas troncales prioritarias, indicadores por resultados y Fondo de Caminos Rurales.",
+      "hoy": "Dirección Nacional de Vialidad (organismo descentralizado, Secretaría de Transporte)",
+      "hijos": [
+       {
+        "nombre": "Fondo de caminos rurales",
+        "estado": "nuevo",
+        "rol": "Paga por kilómetro rural transitable verificado, con recursos del fideicomiso de transporte y techo anual.",
+        "hoy": "",
+        "hijos": []
+       }
+      ]
+     },
+     {
+      "nombre": "Secretaría de Obras Públicas, Agua y Vivienda",
+      "estado": "modificado",
+      "rol": "Firma por la Nación y gestiona el aporte nacional. Ejecutora del plan nacional de saneamiento con las provincias, en reemplazo funcional del ENOHSA disuelto, sin ente nuevo.",
+      "hoy": "Subsecretaría de Recursos Hídricos (Secretaría de Obras Públicas, Ministerio de Economía)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Hacienda del Ministerio de Economía",
+    "estado": "existente",
+    "rol": "Incluye cuotas y planillas del art. 15 de la Ley 24.156 y controla el cupo.",
+    "hoy": "Secretaría de Hacienda, Subsecretaría de Presupuesto (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Jefatura de Gabinete",
+    "estado": "existente",
+    "rol": "Remite el proyecto; no puede reasignar créditos de obras contratadas.",
+    "hoy": "Jefatura de Gabinete de Ministros",
+    "hijos": [
+     {
+      "nombre": "Oficina Nacional de Contrataciones",
+      "estado": "existente",
+      "rol": "Administra COMPR.AR y CONTRAT.AR, donde se sigue cada obra.",
+      "hoy": "Oficina Nacional de Contrataciones (Jefatura de Gabinete de Ministros, Decreto 50/2019 según Decreto 581/2026)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría del Interior de la Jefatura de Gabinete de Ministros",
+      "estado": "existente",
+      "rol": "Articula la firma y las adhesiones.",
+      "hoy": "Vicejefatura de Gabinete del Interior (Decreto 581/2026)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Ambiente de la Jefatura de Gabinete de Ministros",
+      "estado": "modificado",
+      "rol": "Elabora el Índice Ambiental Federal y administra el Fondo de Incentivo.",
+      "hoy": "Subsecretaría de Ambiente (Secretaría de Turismo, Ambiente y Deportes, Vicejefatura de Gabinete del Interior, Jefatura de Gabinete de Ministros)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Externos",
+    "estado": "existente",
+    "rol": "Aportes y convenios de obra; crédito multilateral (BID, CAF, Banco Mundial, Fonplata); concesionarios.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Hacienda",
+    "estado": "existente",
+    "rol": "Interviene en los certificados y mide el cupo de obras.",
+    "hoy": "Secretaría de Hacienda, Subsecretaría de Presupuesto",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "existente",
+    "rol": "Consulta para la priorización por riesgo sanitario.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Finanzas",
+    "estado": "existente",
+    "rol": "Gestiona el crédito multilateral y, en su caso, el aval nacional.",
+    "hoy": "Secretaría de Finanzas (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Obras Públicas",
+    "estado": "existente",
+    "rol": "Superior jerárquico; controla la ejecución.",
+    "hoy": "Secretaría de Obras Públicas (Secretaría de Coordinación de Infraestructura, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Nacional de Actividades Espaciales",
+    "estado": "existente",
+    "rol": "Aporta las mediciones satelitales del índice.",
+    "hoy": "CONAE (Jefatura de Gabinete, Secretaría de Innovación, Ciencia y Tecnología)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Tecnología Industrial",
+    "estado": "existente",
+    "rol": "Hace las mediciones de agua, aire y residuos en terreno.",
+    "hoy": "INTI, organismo descentralizado en la órbita de la Secretaría de Industria, Comercio y de la PyME",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comisión federal de seguimiento",
+   "rol": "Aprueba metas anuales y la cartera; publica el avance."
+  },
+  {
+   "nombre": "Comisión Mixta del Acueducto Región Noroeste",
+   "rol": "Sigue el financiamiento, los contratos con usuarios y el avance de la obra."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Adhieren al registro, aplican la tarifa social y el cronograma a los servicios que regulan."
+  }
+ ]
+}

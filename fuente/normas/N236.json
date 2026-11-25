@@ -1,0 +1,142 @@
+{
+ "id": "N236",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Permanencia Máxima en Destino de las Fuerzas Federales",
+ "sumilla": "Fija una permanencia máxima en el mismo destino de tres años para los mandos y las áreas sensibles y de cinco años para el resto del personal de la Policía Federal, la Gendarmería, la Prefectura y la Policía de Seguridad Aeroportuaria, y de tres años para las jefaturas de unidad del Servicio Penitenciario Federal; ordena una rotación escalonada que empieza por las zonas críticas, con adicionales por traslado, vivienda y escolaridad, carrera que premia la movilidad y auditoría de las declaraciones juradas de los mandos.",
+ "cuando": "Fase II (años 2-3): se envía en la Fase II; el 100 % de los mandos de zonas críticas dentro del plazo máximo a los 2 años de su vigencia.",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La permanencia prolongada de un mismo agente o de un mismo mando en un destino favorece la formación de vínculos con el delito que se debe combatir, en particular en el narcotráfico, las investigaciones criminales y las zonas de mayor criminalidad. Los estatutos de las fuerzas federales, dictados en 2025 con rango de ley, regulan la asignación de destinos pero no fijan plazos máximos de permanencia. El presente proyecto establece un máximo de tres años en el mismo destino para los mandos y para las áreas sensibles, y de cinco años para el resto del personal de la Policía Federal Argentina, la Gendarmería Nacional, la Prefectura Naval Argentina y la Policía de Seguridad Aeroportuaria. En el Servicio Penitenciario Federal, la regla alcanza a las jefaturas de unidad, donde se concentra el riesgo. La rotación es escalonada, para no perder el conocimiento del territorio, y empieza por las zonas críticas de los planes federales vigentes. Se compensa con adicionales por traslado, vivienda y escolaridad, y con una carrera que valora la movilidad. Se complementa con la auditoría de las declaraciones juradas patrimoniales que la Ley N° 25.188 ya exige a los mandos y con información pública sobre su cumplimiento.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto, ámbito y definiciones",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece el régimen de permanencia máxima en destino del personal de las fuerzas policiales y de seguridad federales y de las jefaturas de unidad del Servicio Penitenciario Federal, con el fin de prevenir la formación de vínculos con el delito y fortalecer la integridad de las fuerzas."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "La presente ley se aplica al personal de la Policía Federal Argentina, de la Gendarmería Nacional, de la Prefectura Naval Argentina y de la Policía de Seguridad Aeroportuaria, en adelante 'las fuerzas federales'. En el Servicio Penitenciario Federal se aplica a quienes ejerzan la dirección o la segunda jefatura de una unidad o complejo penitenciario y la jefatura de un módulo de alta seguridad."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por: a) destino: la unidad, subunidad o dependencia en la que el agente presta servicio en forma efectiva; b) mando: quien ejerce la jefatura de una unidad, subunidad o dependencia operativa, y su segundo; c) áreas sensibles: las dependencias de investigación del narcotráfico, de investigaciones e inteligencia criminal y de control de pasos fronterizos, puertos y vías navegables, y toda dependencia con asiento en una zona crítica; y d) zona crítica: el territorio declarado tal conforme el artículo 7°."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Permanencia máxima y rotación",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Permanencia máxima",
+     "texto": "El personal de las fuerzas federales no podrá permanecer en el mismo destino más de: a) tres (3) años, si ejerce un mando o presta servicio en un área sensible; y b) cinco (5) años, en los demás casos. En el Servicio Penitenciario Federal, el personal comprendido en el artículo 2° no podrá permanecer en el mismo destino más de tres (3) años."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Nuevo destino",
+     "texto": "Cumplido el plazo máximo, el agente será asignado a un destino distinto. Los mandos de una zona crítica serán asignados a un destino en otra localidad. Ningún agente podrá volver al mismo destino antes de transcurridos tres (3) años desde su salida."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Rotación escalonada",
+     "texto": "La rotación se realizará en forma escalonada, de modo que en un mismo año no cambie más de un tercio de los mandos de una misma unidad, salvo razones fundadas. Cada fuerza asegurará la continuidad de sus equipos de investigación e inteligencia criminal mediante el traspaso documentado de la información y de las causas en curso."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Zonas críticas",
+     "texto": "La autoridad de aplicación declarará las zonas críticas por resolución fundada y pública, con base en indicadores de criminalidad organizada, y las revisará cada año. Son zonas críticas iniciales: a) el Gran Rosario; b) Orán y Aguas Blancas, en la Provincia de Salta; c) Bernardo de Irigoyen y la Triple Frontera, en la Provincia de Misiones; d) la vía navegable Paraná–Paraguay, con centro en Isla del Cerrito, Provincia del Chaco; y e) el conurbano bonaerense, respecto del personal federal destinado en él."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Excepciones",
+     "texto": "El plazo máximo podrá prorrogarse por única vez y hasta doce (12) meses, por resolución fundada de la autoridad de aplicación, a pedido de un juez o de un fiscal cuando la permanencia del agente resulte indispensable para una investigación en curso. Las prórrogas se registrarán y se informarán en el informe del artículo 13."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Compensaciones y carrera",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Adicionales",
+     "texto": "El personal trasladado en cumplimiento de la presente ley tendrá derecho a: a) un adicional por traslado; b) vivienda fiscal o un suplemento por vivienda en el nuevo destino; y c) un suplemento por escolaridad de sus hijos, cuando el traslado implique cambio de localidad. Los montos y condiciones serán fijados por la reglamentación, con intervención del Ministerio de Economía."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Carrera",
+     "texto": "La movilidad cumplida conforme la presente ley será considerada como antecedente favorable en las calificaciones y en los ascensos del personal. Ningún agente podrá ser perjudicado en su carrera por haber sido trasladado en cumplimiento de esta ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Integridad e información",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Declaraciones juradas auditadas",
+     "texto": "Las declaraciones juradas patrimoniales que presenta el personal comprendido en el artículo 5°, inciso k), de la Ley N° 25.188, conforme sus artículos 4° y 6°, serán auditadas al menos una vez al año por la Autoridad Nacional de Control y Transparencia cuando el agente ejerza un mando en una zona crítica o en un área sensible, y al dejar ese destino."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Registro de permanencia",
+     "texto": "Cada fuerza llevará un registro digital del tiempo de permanencia de cada agente en cada destino, al que tendrán acceso la autoridad de aplicación y la Oficina de Asuntos Internos de las Fuerzas Federales."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Información pública",
+     "texto": "La autoridad de aplicación publicará cada semestre, en formato abierto y sin datos que permitan identificar a las personas, por fuerza y por zona crítica, el porcentaje de mandos y de personal dentro del plazo máximo, los traslados realizados, las prórrogas concedidas y los adicionales abonados, y remitirá cada año un informe a la Comisión Bicameral de Fiscalización de los Órganos y Actividades de Seguridad Interior prevista en la Ley N° 24.059."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Estatutos de las fuerzas",
+     "texto": "Incorpórase como último párrafo del artículo 40 del Estatuto de la Policía Federal Argentina aprobado por el Decreto N° 383/2025 el siguiente: «La asignación de destinos se ajusta a la Ley de Permanencia Máxima en Destino de las Fuerzas Federales.» Incorpórase el mismo párrafo como último párrafo del artículo 19 de la Ley N° 26.102, en el texto del Decreto N° 456/2025. Las disposiciones de la presente ley integran el Estatuto de la Gendarmería Nacional aprobado por el Decreto N° 454/2025, la Ley N° 18.398, en el texto del Decreto N° 457/2025, y el régimen de la Ley N° 20.416 del Servicio Penitenciario Federal, y prevalecen sobre las normas reglamentarias e internas que se les opongan."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Transición",
+     "texto": "Dentro de los dos (2) años de la entrada en vigencia de la presente ley, la totalidad de los mandos de las zonas críticas deberá encontrarse dentro del plazo máximo. El resto del personal que, a esa fecha, exceda el plazo máximo será rotado en forma escalonada dentro de los tres (3) años, comenzando por quienes registren mayor permanencia en el mismo destino."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación de la presente ley la Secretaría de Seguridad del Ministerio de Justicia y Seguridad."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demanden los adicionales del artículo 9° se atenderán con la reasignación de créditos de la jurisdicción del Ministerio de Justicia y Seguridad que identifique en forma expresa la ley de presupuesto del ejercicio en que la presente entre en vigencia, dentro del límite conjunto de cero coma doce por ciento (0,12 %) del Producto Interno Bruto al cuarto año de mandato previsto para la rotación de las fuerzas, la estrategia contra el narcotráfico y el sistema penitenciario. Si no hubiera créditos identificados, los adicionales se abonarán desde la ley de presupuesto del ejercicio siguiente, sin perjuicio de la aplicación de los plazos de permanencia a los mandos de las zonas críticas."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Vigencia y reglamentación",
+     "texto": "La presente ley entrará en vigencia a los noventa (90) días de su publicación en el Boletín Oficial. El Poder Ejecutivo nacional la reglamentará dentro de ese plazo."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 383/2025 (Estatuto de la Policía Federal Argentina), art. 40 (incorpora último párrafo)",
+  "Ley 26.102 según Decreto 456/2025 (Policía de Seguridad Aeroportuaria), art. 19 (incorpora último párrafo)",
+  "Decreto 454/2025 (Estatuto de la Gendarmería Nacional) Ley 18.398 según Decreto 457/2025 (Prefectura Naval Argentina) y Ley 20.416 (Servicio Penitenciario Federal): esta ley integra sus regímenes (art. 14)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

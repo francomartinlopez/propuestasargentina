@@ -1,0 +1,177 @@
+{
+ "id": "N129",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de gestión integral del riesgo hídrico, del Fondo Hídrico y de seguros agropecuarios paramétricos",
+ "sumilla": "Crea comités y planes por cuenca dentro del Sistema Nacional para la Gestión Integral del Riesgo, prohíbe colocar el Fondo Fiduciario de Infraestructura Hídrica en Letras, lo divide en cuentas de 60, 25 y 15 % con publicación obra por obra y lo excluye de la disolución por decreto, y habilita al FONEDA a subsidiar en forma decreciente primas de seguros paramétricos y multirriesgo.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta. La ley no modifica la distribución del impuesto a los combustibles del art. 19 de la Ley 23.966 (4,31 % al Fideicomiso de Infraestructura Hídrica), por lo que no crea ni modifica asignaciones específicas de recursos coparticipables (art. 75 inc. 3 CN). Si se entendiera lo contrario, mayoría absoluta de la totalidad de los miembros de cada Cámara.",
+ "motivos": "Las inundaciones y las sequías golpean con frecuencia creciente a la producción y a las ciudades. El Fondo Fiduciario de Infraestructura Hídrica, creado por el Decreto N° 1381/2001, recibe el 4,31 % del impuesto a los combustibles (artículo 19, inciso e), de la Ley N° 23.966, según la Ley N° 27.430) para financiar obras hídricas, pero una porción relevante de sus recursos se coloca en instrumentos financieros: el proyecto de Presupuesto 2027 prevé que recaude 510.724 millones de pesos, ejecute 393.971 millones en obras y coloque unos 113.130 millones en inversiones financieras. El proyecto ordena la gestión del riesgo hídrico sobre el Sistema Nacional para la Gestión Integral del Riesgo de la Ley N° 27.287 y los comités de cuenca de la Ley N° 25.688. Crea comités y planes por cuenca que priorizan las obras con criterios públicos de población protegida, superficie productiva en riesgo y daño evitado. Prohíbe colocar el Fondo en Letras del Tesoro, lo divide en tres cuentas —obras troncales interjurisdiccionales, cofinanciamiento por concurso y mantenimiento—, exige contrapartida provincial y publicación obra por obra, y lo excluye en forma expresa de la facultad de disolver fondos fiduciarios por decreto. Por último, habilita al Fondo Nacional para la Mitigación de Emergencias y Desastres Agropecuarios a subsidiar, en forma decreciente y transitoria, las primas de seguros paramétricos y multirriesgo para pequeños productores, para que el Estado no solo pague después del desastre.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto establecer la gestión integral del riesgo hídrico por cuenca, ordenar el uso del Fondo Fiduciario de Infraestructura Hídrica y promover seguros agropecuarios frente a eventos climáticos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Integración con el SINAGIR",
+     "texto": "La gestión del riesgo hídrico prevista en esta ley forma parte del Sistema Nacional para la Gestión Integral del Riesgo y la Protección Civil creado por la Ley N° 27.287, y se rige en lo no previsto por ella."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Es autoridad de aplicación de la presente ley la Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía, salvo en lo previsto en el Capítulo IV, cuya autoridad es la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, a cargo del Fondo Nacional para la Mitigación de Emergencias y Desastres Agropecuarios."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Comités y planes por cuenca",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Comités por cuenca",
+     "texto": "Créanse comités por cuenca para las cuencas hídricas interjurisdiccionales, con la función de planificar la gestión del riesgo hídrico y priorizar las obras de su cuenca. Cada comité se integra con un representante del Estado nacional, designado por la autoridad de aplicación, y uno por cada provincia de la cuenca que adhiera mediante convenio. Los comités podrán invitar a los municipios y a los consorcios de productores de la cuenca a participar con voz."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Comités existentes",
+     "texto": "Los comités de cuencas interjurisdiccionales constituidos conforme al artículo 4° de la Ley N° 25.688 o por convenios entre la Nación y las provincias asumen, con el acuerdo de sus integrantes, las funciones previstas en esta ley, sin perjuicio de las que ya ejercen."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Funciones",
+     "texto": "Cada comité por cuenca:\na) elabora y aprueba el plan de gestión del riesgo hídrico de la cuenca;\nb) prioriza las obras de la cuenca conforme a los criterios del artículo 7;\nc) aprueba las reglas de operación de las obras de regulación y de bombeo compartidas;\nd) propone el plan anual de mantenimiento de canales, bombeos y defensas;\ne) publica sus actas, sus planes y la ejecución de las obras de la cuenca."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Criterios de prioridad",
+     "texto": "Las obras se priorizan según la población protegida, la superficie productiva en riesgo, la frecuencia de los daños y el daño evitado. Los criterios, su ponderación y el puntaje de cada obra son públicos."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Planes por cuenca",
+     "texto": "El plan de gestión del riesgo hídrico de cada cuenca contiene, como mínimo: el mapa de riesgo de inundación y de sequía; las obras priorizadas, con su costo, financiamiento y responsable de mantenimiento; el plan de mantenimiento; y, para las ciudades ribereñas de más de VEINTE MIL (20.000) habitantes, los niveles del agua que obligan a evacuar."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Lista nacional de obras prioritarias",
+     "texto": "Dentro del primer año de vigencia de la presente ley, la autoridad de aplicación publicará la lista nacional de regiones y obras prioritarias, acordada con las provincias en el Consejo Hídrico Federal, sobre la base de los criterios del artículo 7 y de los planes por cuenca aprobados."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Convenio por obra",
+     "texto": "Cada obra financiada por el Fondo Fiduciario de Infraestructura Hídrica se instrumenta mediante un convenio entre la Nación, la provincia y, cuando corresponda, los municipios y los consorcios de productores, que fija los aportes de cada parte, el ejecutor y el responsable del mantenimiento."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Fondo Fiduciario de Infraestructura Hídrica",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Afectación",
+     "texto": "Los recursos del Fondo Fiduciario de Infraestructura Hídrica creado por el Decreto N° 1381/2001 se destinan exclusivamente a la ejecución y al mantenimiento de obras hídricas y de control de inundaciones. La presente ley no modifica los recursos que el Fondo recibe conforme a las normas vigentes, incluido el artículo 19, inciso e), de la Ley N° 23.966."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Prohibición de colocaciones",
+     "texto": "El Fondo no podrá colocar sus recursos en Letras del Tesoro ni en otros instrumentos financieros mientras existan obras con proyecto ejecutivo incluidas en la lista nacional de obras prioritarias sin financiamiento asegurado. Los saldos transitorios entre el ingreso de los recursos y su aplicación a obras solo podrán mantenerse en cuentas a la vista en el agente fiduciario."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Cuentas",
+     "texto": "Los recursos del Fondo se distribuyen en tres cuentas:\na) SESENTA POR CIENTO (60 %) para obras troncales interjurisdiccionales;\nb) VEINTICINCO POR CIENTO (25 %) para cofinanciar obras provinciales y municipales, adjudicadas por concurso con los criterios del artículo 7;\nc) QUINCE POR CIENTO (15 %) para el mantenimiento de canales, bombeos y defensas, incluidos los equipos y fondos para los consorcios de productores previstos en el artículo 16."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Contrapartida provincial",
+     "texto": "Las obras cofinanciadas con la cuenta del inciso b) del artículo 13 requieren una contrapartida de la provincia de al menos el TREINTA POR CIENTO (30 %) de su costo, o del VEINTE POR CIENTO (20 %) en las provincias de menores recursos que determine la reglamentación. Las obras troncales interjurisdiccionales no requieren contrapartida."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Desembolsos",
+     "texto": "Los desembolsos del Fondo para obras cofinanciadas se liberan contra la contrapartida depositada y el avance de obra certificado."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Consorcios de productores",
+     "texto": "Con cargo a la cuenta del inciso c) del artículo 13, la autoridad de aplicación podrá proveer equipos y fondos de mantenimiento a los consorcios de productores que limpien y mantengan canales, a cambio de la rendición pública de cuentas de su uso."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Publicación",
+     "texto": "La autoridad de aplicación publica en tiempo real, en formato de datos abiertos, los ingresos del Fondo, los saldos de cada cuenta y su ejecución obra por obra, con el monto comprometido, el pagado, el avance físico y la contrapartida de cada parte."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Meta de ejecución",
+     "texto": "La autoridad de aplicación procurará ejecutar cada año en obras y mantenimiento más del NOVENTA Y CINCO POR CIENTO (95 %) de los recursos disponibles del Fondo, e informará al Congreso de la Nación las causas de todo desvío."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Exclusión de la facultad de disolución",
+     "texto": "El Fondo Fiduciario de Infraestructura Hídrica queda excluido en forma expresa de la facultad de disolver, modificar o desafectar fondos fiduciarios conferida al Poder Ejecutivo nacional por el artículo 5° de la Ley N° 27.742, y de toda otra facultad delegada que tenga ese efecto. Su disolución o la modificación de su afectación solo pueden disponerse por ley."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Financiamiento complementario",
+     "texto": "Las obras de mayor envergadura podrán completarse con crédito de organismos multilaterales destinado a obras y con otros recursos que asigne la ley de presupuesto, dentro del cupo de inversión en obras del marco fiscal vigente y con un tope de UNA DÉCIMA (0,1) de punto del producto interno bruto para el gasto adicional en obras hídricas. La aplicación de la presente ley no autoriza gastos fuera de los recursos del Fondo y de esas partidas. Las obras que excedan el ejercicio se incluyen en la programación plurianual prevista en el artículo 15 de la Ley N° 24.156."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Seguros agropecuarios paramétricos",
+   "articulos": [
+    {
+     "n": 21,
+     "epigrafe": "Subsidio a primas",
+     "texto": "Incorpórase como artículo 18 bis de la Ley N° 26.509 el siguiente:\n«ARTÍCULO 18 bis.- Subsidio a primas de seguros. El Fondo Nacional para la Mitigación de Emergencias y Desastres Agropecuarios podrá destinar parte de sus recursos a subsidiar las primas de seguros agropecuarios paramétricos, que pagan en forma automática según mediciones de lluvia, nivel del agua u otras variables objetivas, y de seguros multirriesgo, contratados por pequeños productores. El subsidio es focalizado, decreciente y transitorio: la autoridad de aplicación fijará para cada campaña el porcentaje de la prima subsidiado y el tope por productor, y un cronograma de reducción del subsidio. La proporción del Fondo destinada a subsidios no podrá afectar la atención de las emergencias y desastres declarados. Los productos de seguro deberán estar aprobados por la Superintendencia de Seguros de la Nación.»"
+    },
+    {
+     "n": 22,
+     "epigrafe": "Productos simples",
+     "texto": "La Secretaría de Agricultura, Ganadería y Pesca promoverá, con la Superintendencia de Seguros de la Nación y las aseguradoras, productos de seguro paramétrico simples y de bajo costo para pequeños productores, y publicará cada campaña la cantidad de pólizas subsidiadas, la superficie cubierta y los pagos realizados."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 23,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la presente ley se atienden con los recursos del Fondo Fiduciario de Infraestructura Hídrica, con los del Fondo Nacional para la Mitigación de Emergencias y Desastres Agropecuarios en lo previsto en el Capítulo IV, y con los créditos asignados a la autoridad de aplicación en la ley de presupuesto vigente para el funcionamiento de los comités, sin aumento del gasto total autorizado. El financiamiento complementario del artículo 20 se activa con la ley de presupuesto del ejercicio siguiente al de la entrada en vigencia de la presente ley."
+    },
+    {
+     "n": 24,
+     "epigrafe": "Cronograma",
+     "texto": "La división del Fondo en cuentas, la prohibición de colocaciones y la publicación rigen desde la entrada en vigencia de la presente ley. Las colocaciones existentes se rescatarán a su vencimiento y se aplicarán a obras. La lista nacional de obras prioritarias y el régimen de subsidio a primas se pondrán en marcha dentro del primer año de vigencia, y los planes por cuenca y los planes anuales de mantenimiento, desde el segundo año."
+    },
+    {
+     "n": 25,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su promulgación."
+    },
+    {
+     "n": 26,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 1381/2001 (Fondo Fiduciario de Infraestructura Hídrica; ratificado por el art. 15 de la Ley 26.181, luego derogada por el art. 147 de la Ley 27.430): afectación exclusiva, prohibición de colocaciones, cuentas 60/25/15 y publicación",
+  "Ley 26.509: incorpora art. 18 bis (subsidio a primas)",
+  "Ley 27.742, art. 5: exclusión expresa del Fondo Hídrico"
+ ],
+ "deroga": [],
+ "variantes": null
+}

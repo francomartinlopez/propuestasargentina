@@ -1,0 +1,201 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Ordena la cartera con criterios públicos, verifica el financiamiento antes de licitar e informa al Congreso. Metodología de priorización, fichas, certificados de financiamiento y tablero público.",
+    "hoy": "Secretaría de Coordinación de Infraestructura (Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía",
+      "estado": "modificado",
+      "rol": "Ejecuta acueductos, agua y cloacas sin crear un ente (recursos del ex ENOHSA, Decreto 1020/2024).",
+      "hoy": "Secretaría de Obras Públicas, con las Subsecretarías de Obras y Servicios y de Recursos Hídricos (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Energía del Ministerio de Infraestructura y Energía",
+      "estado": "existente",
+      "rol": "Gasoductos y represas del programa de obras paralizadas.",
+      "hoy": "Secretaría de Energía (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Transporte del Ministerio de Infraestructura y Energía",
+      "estado": "existente",
+      "rol": "Ferrocarril de cargas, Tren Norpatagónico y accesos portuarios.",
+      "hoy": "Secretaría de Transporte, con la Subsecretaría de Transporte Ferroviario (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Dirección Nacional de Vialidad",
+      "estado": "modificado",
+      "rol": "Rutas nacionales por resultados y administración del Fondo de Caminos Rurales. Lista de rutas troncales prioritarias, indicadores por resultados y Fondo de Caminos Rurales. Firma por la Nación, habilita consorcios y comisiones, paga por kilómetro auditado. Crea, administra y publica el registro.",
+      "hoy": "Dirección Nacional de Vialidad (organismo descentralizado, Secretaría de Transporte)",
+      "hijos": [
+       {
+        "nombre": "Fondo de caminos rurales",
+        "estado": "nuevo",
+        "rol": "Paga por kilómetro rural transitable verificado, con recursos del fideicomiso de transporte y techo anual.",
+        "hoy": "",
+        "hijos": []
+       },
+       {
+        "nombre": "Registro público de maquinaria vial",
+        "estado": "nuevo",
+        "rol": "Inventario abierto de equipos de consorcios, municipios y vialidades; base del crédito de renovación.",
+        "hoy": "",
+        "hijos": []
+       }
+      ]
+     },
+     {
+      "nombre": "Comisión Nacional de Regulación del Transporte (CNRT)",
+      "estado": "modificado",
+      "rol": "Controla obras y acceso abierto e informa cada semestre.",
+      "hoy": "CNRT, organismo descentralizado",
+      "hijos": []
+     },
+     {
+      "nombre": "Belgrano Cargas y Logística S.A.",
+      "estado": "modificado",
+      "rol": "Su red pasa al concesionario con obligaciones de obra y acceso abierto.",
+      "hoy": "Empresa del Estado sujeta a privatización/concesión (Ley 27.742, art. 7 y Anexo I)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia Nacional de Puertos y Navegación",
+      "estado": "modificado",
+      "rol": "Autoridad de aplicación: exige las metas de profundidad, publica costos, tarifas y datos abiertos y acuerda las adendas.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Instituto Nacional del Agua",
+      "estado": "modificado",
+      "rol": "Publica la serie histórica de niveles y monitorea sedimentos y tomas de agua.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Hacienda del Ministerio de Economía",
+    "estado": "existente",
+    "rol": "Incluye cuotas y planillas del art. 15 de la Ley 24.156 y controla el cupo.",
+    "hoy": "Secretaría de Hacienda, Subsecretaría de Presupuesto (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Jefatura de Gabinete",
+    "estado": "existente",
+    "rol": "Remite el proyecto; no puede reasignar créditos de obras contratadas.",
+    "hoy": "Jefatura de Gabinete de Ministros",
+    "hijos": [
+     {
+      "nombre": "Oficina Nacional de Contrataciones",
+      "estado": "existente",
+      "rol": "Administra COMPR.AR y CONTRAT.AR, donde se sigue cada obra.",
+      "hoy": "Oficina Nacional de Contrataciones (Jefatura de Gabinete de Ministros, Decreto 50/2019 según Decreto 581/2026)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Externos",
+    "estado": "existente",
+    "rol": "Aportes y convenios de obra; crédito multilateral (BID, CAF, Banco Mundial, Fonplata); concesionarios.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Hacienda",
+    "estado": "existente",
+    "rol": "Interviene en los certificados y mide el cupo de obras.",
+    "hoy": "Secretaría de Hacienda, Subsecretaría de Presupuesto",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Infraestructura y Energía (Secretaría de Transporte)",
+    "estado": "existente",
+    "rol": "Dicta la resolución, negocia la adenda y la aprueba.",
+    "hoy": "Ministerio de Economía – Secretaría de Transporte (Subsecretaría de Transporte Ferroviario)",
+    "hijos": []
+   },
+   {
+    "nombre": "Operador privado",
+    "estado": "existente",
+    "rol": "Ejecuta las obras con plazo y abre la red a otros operadores.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo vial federal",
+    "estado": "existente",
+    "rol": "Consulta técnica y coordinación con las vialidades provinciales. Intercambio de datos e incorporación de registros provinciales.",
+    "hoy": "Consejo Vial Federal",
+    "hijos": []
+   },
+   {
+    "nombre": "Vialidad Nacional",
+    "estado": "modificado",
+    "rol": "Administra el Fondo, firma los convenios provinciales, fija el monto por kilómetro y paga contra kilómetros auditados.",
+    "hoy": "Dirección Nacional de Vialidad (organismo descentralizado, Secretaría de Transporte, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía y Hacienda",
+    "estado": "modificado",
+    "rol": "Instruye la integración anual de la cuenta separada del Fondo.",
+    "hoy": "Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Auditoría técnica independiente",
+    "estado": "nuevo",
+    "rol": "Verifican los kilómetros transitables que dan derecho al pago.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Lleva el proyecto del Canal Magdalena a la Comisión Administradora del Río de la Plata.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Provincias",
+   "rol": "Reciben información de cronograma y avance."
+  },
+  {
+   "nombre": "Comisión federal de seguimiento",
+   "rol": "Aprueba los anexos de metas, verifica el avance y publica sus actas."
+  },
+  {
+   "nombre": "Consorcio o comisión vial con productores",
+   "rol": "Elabora y controla el plan de mantenimiento por kilómetro; recibe, si así lo fija el convenio, los pagos nacionales por resultado."
+  },
+  {
+   "nombre": "Municipios",
+   "rol": "Administra la cuenta afectada, publica la recaudación y su aplicación y rinde cuentas por kilómetro."
+  },
+  {
+   "nombre": "Consejo Federal Hidrovía",
+   "rol": "Dictamen previo sobre cambios de contrato, tarifas y metas; pedido de información y auditorías."
+  },
+  {
+   "nombre": "Auditoría General de la Nación",
+   "rol": "Audita cada año la concesión."
+  }
+ ]
+}

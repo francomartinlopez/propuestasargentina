@@ -1,0 +1,103 @@
+{
+ "id": "N006",
+ "tipo": "decreto",
+ "titulo": "Decreto de régimen transitorio de acceso preferente a divisas para bienes de capital, repuestos e insumos sin producción local",
+ "sumilla": "Durante el tramo cambiario transitorio, da acceso preferente a divisas a las importaciones de una nómina propia de posiciones NCM de bienes de capital e informática (tomadas de los Anexos III y IV del Decreto 557/2023), sus repuestos y partes, y de la nómina de insumos sin producción local; con exclusión de lo que tenga oferta local, cruce aduanero, exclusión y recupero ante el desvío, publicación mensual y vencimiento automático al cerrar el tramo.",
+ "cuando": "Fase II: se dicta antes del comienzo del año 3 y rige desde la apertura del tramo transitorio; vence con su cierre.",
+ "cuando_breve": "Fase II",
+ "tramite": "Decreto simple del Poder Ejecutivo nacional (art. 99, incs. 1 y 2, CN).",
+ "motivos": null,
+ "visto": "El Expediente N° […], la Ley N° [—] de libertad de moneda y de indexación en los contratos, el Código Aduanero (Ley N° 22.415), el Régimen Penal Cambiario (Ley N° 19.359), la Ley N° 27.742 y sus modificatorias, el Decreto N° 557/2023 y sus modificatorios, entre ellos el Decreto N° 513/2025, la Decisión N° 8/21 del Consejo del Mercado Común del MERCOSUR, y",
+ "considerando": [
+  "Que la transición hacia un mercado de cambios libre se ordena mediante un único tramo transitorio, de duración acotada y con fecha de cierre publicada, conforme a los artículos 9° y 10 de la Ley N° [—].",
+  "Que durante esa transición corresponde dar prioridad, en el uso de las divisas disponibles, a la importación de bienes que aumentan la capacidad de producir: bienes de capital, sus repuestos y partes, e insumos que no se fabrican en el país.",
+  "Que el Anexo III del Decreto N° 557/2023, sustituido por el Anexo II del Decreto N° 513/2025, y su Anexo IV identifican, respectivamente, los bienes de capital y los bienes de informática y telecomunicaciones de la Nomenclatura Común del MERCOSUR, y que la Decisión N° 8/21 del Consejo del Mercado Común admite alícuotas propias para esos bienes hasta 2028.",
+  "Que, para que el régimen no dependa de la prórroga de esa Decisión, corresponde fijar una nómina propia de posiciones arancelarias, publicada como anexo de este decreto.",
+  "Que el acceso preferente no debe desplazar la oferta local equivalente, por lo que se excluyen las posiciones con producción local inscripta en el registro público de oferta local.",
+  "Que el acceso al mercado de cambios corresponde al Banco Central de la República Argentina, entidad autárquica, y que el control aduanero corresponde a la Agencia de Recaudación y Control Aduanero, por lo que este decreto define las nóminas, las condiciones y el control, y comunica las nóminas a ambos organismos.",
+  "Que la exclusión del régimen y el recupero de la diferencia ante un desvío se fundan en el compromiso que asume el importador al adherir, sin perjuicio de las sanciones del Código Aduanero y de la Ley N° 19.359.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Establécese el Régimen Transitorio de Acceso Preferente a Divisas para la importación de bienes de capital, sus repuestos y partes, y de insumos productivos sin producción local, que rige durante el tramo transitorio del mercado de cambios previsto en el artículo 9° de la Ley N° [—]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Nómina de bienes de capital",
+     "texto": "Apruébase la nómina de posiciones arancelarias de la Nomenclatura Común del MERCOSUR (NCM) de bienes de capital y de bienes de informática y telecomunicaciones, y de sus repuestos y partes, que como Anexo I forma parte del presente decreto. La nómina se integra con las posiciones del Anexo III del Decreto N° 557/2023, sustituido por el Anexo II del Decreto N° 513/2025, y del Anexo IV del Decreto N° 557/2023, vigentes a la fecha del presente, más las posiciones de sus repuestos y partes. La nómina rige con independencia de las modificaciones posteriores de esos anexos y de la vigencia de la Decisión N° 8/21 del Consejo del Mercado Común."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Nómina de insumos",
+     "texto": "Integran también el régimen las posiciones arancelarias de materias primas, productos químicos, componentes electrónicos y piezas sin producción local equivalente que fije la autoridad de aplicación, sobre la base de las posiciones sin oferta registrada en el registro público de oferta local, revisadas cada seis (6) meses con participación de las entidades representativas de la industria."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Resguardo de la oferta local",
+     "texto": "La autoridad de aplicación excluye de las nóminas de los artículos 2° y 3° las posiciones en las que exista oferta local equivalente en precio y calidad, inscripta en el registro público de oferta local. La exclusión rige desde la revisión semestral siguiente a la inscripción y no afecta las operaciones ya cursadas."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase autoridad de aplicación del presente régimen a la Secretaría de Producción y Comercio del Ministerio de Economía, que dicta las normas complementarias, actualiza el Anexo I por la sola incorporación de repuestos y partes o por la exclusión del artículo 4°, y comunica las nóminas vigentes al Banco Central de la República Argentina y a la Agencia de Recaudación y Control Aduanero."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Adhesión",
+     "texto": "Para acceder al régimen, el importador presenta ante la autoridad de aplicación, por única vez y por medios electrónicos, una declaración jurada en la que: a) declara que los bienes se destinan a su actividad productiva; b) se compromete, en caso de desvío, a devolver la diferencia del artículo 9°; y c) presta conformidad para la publicación del artículo 10 y para el intercambio de la información de sus operaciones entre el Banco Central de la República Argentina, la Agencia de Recaudación y Control Aduanero y la autoridad de aplicación."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Acceso a divisas",
+     "texto": "El acceso a divisas para los pagos de importaciones de los bienes comprendidos en las nóminas se rige por las normas que dicte el Banco Central de la República Argentina en ejercicio de su Carta Orgánica. El Poder Ejecutivo nacional propone a esa Institución que el acceso se otorgue sin límite de monto y en el día, dentro del segmento preferente del tramo transitorio."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Control aduanero",
+     "texto": "La Dirección General de Aduanas de la Agencia de Recaudación y Control Aduanero cruza cada pago cursado en el marco del régimen con la mercadería efectivamente despachada a plaza, en cantidad, posición arancelaria y valor, y comunica a la autoridad de aplicación los desvíos que detecte."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Desvío: exclusión y recupero",
+     "texto": "Se considera desvío el uso de las divisas obtenidas por el régimen para pagar bienes no comprendidos en las nóminas, en cantidad o valor distintos de los despachados, o sin el ingreso de la mercadería en el plazo correspondiente. Constatado el desvío, previo descargo del importador por diez (10) días hábiles, la autoridad de aplicación: a) lo excluye del régimen en forma inmediata y lo comunica al Banco Central de la República Argentina; y b) lo intima a devolver, dentro de los treinta (30) días, la diferencia entre el tipo de cambio del segmento libre y el del segmento preferente del día del pago, aplicada al monto desviado, conforme al compromiso del artículo 6°, inciso b). Todo ello sin perjuicio de las sanciones del Código Aduanero y de la Ley N° 19.359."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Publicación mensual",
+     "texto": "La autoridad de aplicación publica cada mes, en formato de datos abiertos, el monto de divisas asignado en el marco del régimen por empresa y por posición arancelaria, sobre la base de la información que le suministren el Banco Central de la República Argentina y la Agencia de Recaudación y Control Aduanero, y la nómina de importadores excluidos."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vencimiento",
+     "texto": "El régimen vence de pleno derecho en la fecha de cierre del tramo transitorio, sin necesidad de norma alguna, y no puede prorrogarse por resolución de la autoridad de aplicación. Las obligaciones de control, de devolución y de publicación referidas a operaciones cursadas hasta esa fecha subsisten hasta su cumplimiento."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Negociación en el MERCOSUR",
+     "texto": "Instrúyese al Ministerio de Relaciones Exteriores, Comercio Internacional y Culto y al Ministerio de Economía a promover en el Consejo del Mercado Común la prórroga de la Decisión N° 8/21."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entra en vigencia en la fecha de apertura del tramo transitorio que fije el Banco Central de la República Argentina."
+    },
+    {
+     "n": 14,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,134 @@
+{
+ "id": "N290",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de carrera del equipo de salud",
+ "sumilla": "Reglamenta la ley «Ley de carrera del equipo de salud» para el personal nacional: agrupamientos, concursos públicos con jurado externo y publicidad, puntaje por servicio en zonas con déficit, capacitación continua dentro de la jornada, evaluación de desempeño, ascensos y jefaturas por concurso, y cronograma de 18 meses para concursar los cargos vacantes y transitorios.",
+ "cuando": "Fase I · dentro de los 120 días de publicada la ley «Ley de carrera del equipo de salud» (art. 15)",
+ "cuando_breve": "Fase I · dentro de los 120 días de publicada la ley «Ley de carrera del equipo de salud»",
+ "tramite": "Decreto simple del Poder Ejecutivo nacional (art. 99 incs. 1 y 2 CN); reglamentario, no DNU.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° [●] de carrera del equipo de salud, las Leyes N° 17.132, N° 24.004 y N° 25.164, el Decreto N° 1133/2009, y",
+ "considerando": [
+  "Que la Ley N° [●] estableció las bases de la carrera del equipo de salud, con ingreso por concurso, capacitación continua y ascensos por mérito, conforme los lineamientos acordados en el Consejo Federal de Salud, y encomendó a la reglamentación fijar los agrupamientos del personal y el procedimiento de los concursos.",
+  "Que la carrera se aplica al personal de los establecimientos asistenciales, hospitales e institutos del Ministerio de Salud y de sus organismos descentralizados, y complementa la Ley Marco de Regulación de Empleo Público Nacional N° 25.164 y el Convenio Colectivo de Trabajo Sectorial homologado por el Decreto N° 1133/2009.",
+  "Que en 2025 quedó sin cubrir casi uno de cada cinco cupos de residencias nacionales y que terapia intensiva, medicina general, clínica médica y emergencias son las especialidades menos elegidas, por lo que la carrera debe valorar el servicio en las localidades con déficit de profesionales.",
+  "Que han tomado intervención los servicios jurídicos competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente decreto reglamenta la Ley N° [●] de carrera del equipo de salud, en adelante «la Ley», para el personal comprendido en su artículo 2°."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Agrupamientos",
+     "texto": "A los fines del artículo 3° de la Ley, el personal del equipo de salud se organiza en los siguientes agrupamientos: a) profesional, que comprende a quienes ejercen profesiones de la salud con título universitario de grado regidas por la Ley N° 17.132 y demás normas de ejercicio profesional; b) enfermería, que comprende al personal regido por la Ley N° 24.004; c) técnico, que comprende a técnicas y técnicos de la salud con título de nivel superior; y d) apoyo asistencial, que comprende al personal auxiliar que interviene en forma directa en la atención. El Ministerio de Salud puede establecer subagrupamientos por especialidad o función."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Reglamento de concursos",
+     "texto": "El Ministerio de Salud aprueba por resolución, dentro de los noventa (90) días de la publicación del presente, el reglamento general de concursos de la carrera, conforme las bases de este decreto."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Ingreso por concurso (artículos 5° a 7° de la Ley)",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Convocatoria",
+     "texto": "Cada convocatoria se publica en el Boletín Oficial y en el sitio oficial de acceso abierto del artículo 6° de la Ley, con no menos de quince (15) días hábiles de anticipación al cierre de la inscripción, e indica el cargo, el establecimiento, el perfil y los requisitos, la integración del jurado, el temario y los criterios de puntaje."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Etapas y puntaje",
+     "texto": "El concurso comprende la evaluación de antecedentes, una prueba de oposición escrita o práctica y una entrevista. La oposición representa al menos el cuarenta por ciento (40 %) del puntaje total; los antecedentes, no más del cuarenta por ciento (40 %); y la entrevista, no más del veinte por ciento (20 %)."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Jurado",
+     "texto": "El jurado se integra con tres (3) miembros titulares y tres (3) suplentes: dos (2) profesionales de la especialidad o actividad del cargo, de categoría igual o superior, que no presten servicios en el establecimiento convocante, y un (1) representante de una universidad nacional o de una sociedad científica de la especialidad. Sus integrantes pueden ser recusados y deben excusarse en los casos previstos por el régimen de procedimientos administrativos. El jurado emite dictamen fundado dentro de los treinta (30) días del cierre de la última etapa."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Zonas con déficit de profesionales",
+     "texto": "A los fines del artículo 7° de la Ley, cada año de servicios prestados en una localidad declarada con déficit de profesionales otorga un (1) punto adicional, hasta un máximo equivalente al diez por ciento (10 %) del puntaje de antecedentes. Hasta que el Consejo Federal de Salud fije los criterios del artículo 11 de la Ley, el Ministerio de Salud publica una lista provisoria de localidades con déficit según la relación entre profesionales y habitantes."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Orden de mérito e impugnaciones",
+     "texto": "El orden de mérito se publica y puede impugnarse dentro de los cinco (5) días hábiles. Las impugnaciones se resuelven dentro de los quince (15) días hábiles. El orden de mérito firme tiene validez por doce (12) meses para cubrir vacantes del mismo cargo y establecimiento."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Designaciones transitorias",
+     "texto": "Las designaciones transitorias del artículo 5° de la Ley se registran en un listado público por establecimiento, con su fecha de inicio y de vencimiento. Su vencimiento no puede prorrogarse sin que se haya publicado la convocatoria al concurso del cargo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Capacitación, desempeño y ascensos (artículos 8° a 10 de la Ley)",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Capacitación continua",
+     "texto": "Cada establecimiento aprueba antes del 31 de marzo de cada año un plan anual de capacitación, acorde con las prioridades sanitarias acordadas en el Consejo Federal de Salud, que garantiza a cada agente no menos de cuarenta (40) horas anuales de capacitación gratuita, dentro de la jornada laboral o con licencia remunerada a ese fin. La capacitación acreditada se computa en los concursos y en los ascensos."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Evaluación de desempeño",
+     "texto": "El desempeño de cada agente se evalúa una vez por año, según criterios objetivos publicados con anticipación. El resultado se notifica a la persona evaluada, que puede formular observaciones dentro de los diez (10) días hábiles, las que se resuelven en forma fundada."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Ascensos",
+     "texto": "Los concursos de ascenso de categoría ponderan la evaluación de desempeño, la capacitación acreditada y la antigüedad. Ninguno de esos factores puede representar menos del veinte por ciento (20 %) ni más del cincuenta por ciento (50 %) del puntaje total."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Jefaturas",
+     "texto": "Las funciones de jefatura se cubren por concurso y se ejercen por cuatro (4) años. Al vencimiento se convoca a un nuevo concurso, en el que puede participar quien ejercía la función."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Cronograma de concursos",
+     "texto": "Dentro de los noventa (90) días de la publicación del presente, el Ministerio de Salud publica el inventario de cargos vacantes y ocupados en forma transitoria del personal comprendido. Los concursos se convocan en tres (3) llamados semestrales, el primero de ellos para los servicios de terapia intensiva, emergencias, neonatología y atención primaria, de modo de cumplir el plazo del artículo 14 de la Ley."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Negociación colectiva",
+     "texto": "El Ministerio de Salud convoca dentro de los ciento ochenta (180) días a la comisión negociadora del Convenio Colectivo de Trabajo Sectorial homologado por el Decreto N° 1133/2009 para su adecuación a las bases de la Ley, conforme su artículo 4°."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Asistencia técnica a las jurisdicciones",
+     "texto": "El Ministerio de Salud pone a disposición de las provincias y de la Ciudad Autónoma de Buenos Aires que adhieran a la Ley el reglamento de concursos, el sitio oficial de publicación y la asistencia técnica para organizar sus concursos."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande el presente se atienden conforme el artículo 12 de la Ley."
+    },
+    {
+     "n": 18,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

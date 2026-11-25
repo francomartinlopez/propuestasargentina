@@ -1,0 +1,75 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Defensa",
+    "estado": "modificado",
+    "rol": "Administra el FONDEF y elabora el plan plurianual de reequipamiento. Elabora y aplica la Directiva, aprueba el planeamiento y adecua las resoluciones de frontera. Firma el protocolo e imparte las instrucciones generales de empleo. Elabora y presenta el plan plurianual del FONDEF y publica su ejecución semestral. Fija las vacantes de cada ciclo, resuelve las impugnaciones y publica los órdenes de mérito y los ascensos de las Fuerzas Armadas.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Estado Mayor Conjunto",
+      "estado": "modificado",
+      "rol": "Elabora el planeamiento militar conjunto conforme la Directiva en 180 días. Designa las unidades de respuesta por región y dispone el despliegue en menos de 24 horas.",
+      "hoy": "Estado Mayor Conjunto de las Fuerzas Armadas",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Incluye el aporte en el proyecto de presupuesto y lo transfiere. Calcula el aporte, verifica la regla fiscal en el mensaje del presupuesto y transfiere en cuotas mensuales.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo de Defensa",
+    "estado": "existente",
+    "rol": "Opina sobre la Directiva antes de su aprobación.",
+    "hoy": "Consejo de Defensa Nacional (Ley 23.554)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Recibe la custodia de los objetivos estratégicos que no son instalaciones militares. Firma el protocolo; entiende en el SINAGIR. Cumple las mismas funciones respecto de las fuerzas federales.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": [
+     {
+      "nombre": "Agencia Federal de Emergencias",
+      "estado": "modificado",
+      "rol": "Recibe los pedidos provinciales, los remite al Estado Mayor Conjunto en 2 horas, coordina en el terreno y publica los tiempos de respuesta.",
+      "hoy": "Agencia Federal de Emergencias (Decreto 225/2025)",
+      "hijos": []
+     },
+     {
+      "nombre": "Servicio Nacional de Manejo del Fuego",
+      "estado": "modificado",
+      "rol": "Canaliza los pedidos por incendios forestales y rurales y coordina el apoyo militar.",
+      "hoy": "Servicio Nacional de Manejo del Fuego (Agencia Federal de Emergencias)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Juntas de calificación de las fuerzas",
+    "estado": "modificado",
+    "rol": "Se integran por antigüedad y con un miembro civil sorteado; califican con puntaje y publican el orden de mérito que la autoridad debe respetar.",
+    "hoy": "Juntas de calificación de cada fuerza",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Oficina de Presupuesto del Congreso (OPC)",
+   "rol": "Verifica que el porcentaje propuesto se ajuste al calendario y a la regla fiscal."
+  }
+ ]
+}

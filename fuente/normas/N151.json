@@ -1,0 +1,96 @@
+{
+ "id": "N151",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la ley de restitución del fideicomiso del Fondo Nacional del Manejo del Fuego",
+ "sumilla": "Reglamenta la ley «Ley de restitución del fideicomiso y del destino exclusivo del Fondo Nacional del Manejo del Fuego»: designa el fiduciario, fija el contenido del contrato y el circuito de la contribución del 3 por mil, y ordena el plan anual de aplicación del Servicio Nacional de Manejo del Fuego con prioridad en La Pampa, Chubut, Corrientes y Mendoza.",
+ "cuando": "Fase I (dentro de los 60 días de promulgada la ley «Ley de restitución del fideicomiso y del destino exclusivo del Fondo Nacional del Manejo del Fuego», que es de los Días 61-100)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: decreto reglamentario (art. 99, inc. 2, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° 26.815 de Manejo del Fuego y sus modificatorias, la Ley N° […] de restitución del fideicomiso y del destino exclusivo del Fondo Nacional del Manejo del Fuego, el artículo 5° de la Ley N° 27.742 y el Decreto N° 463/2025, y",
+ "considerando": [
+  "Que el artículo 30 de la Ley N° 26.815 creó el Fondo Nacional del Manejo del Fuego y lo integró, entre otros recursos, con una contribución del tres por mil de las primas de seguros, excepto las de vida.",
+  "Que el Decreto N° 463/2025 disolvió el fideicomiso que instrumentaba el Fondo y asignó la recaudación al Ministerio de Seguridad Nacional con destino genérico.",
+  "Que la Ley N° […] restituyó la instrumentación del Fondo como fideicomiso, con el Servicio Nacional de Manejo del Fuego como beneficiario y destino exclusivo a las finalidades del artículo 31 de la Ley N° 26.815, con prioridad para la prevención, las brigadas y su equipamiento, y lo excluyó de la facultad de disolución del artículo 5° de la Ley N° 27.742.",
+  "Que, según el Servicio Nacional de Manejo del Fuego, en 2020 se quemaron más de 1,15 millones de hectáreas, en 2022 unas 739.000 y en 2025 437.294, y que las Provincias de La Pampa, Chubut, Corrientes y Mendoza estuvieron entre las más afectadas en 2025.",
+  "Que el artículo 11 de esa ley encomienda al Poder Ejecutivo nacional su reglamentación, y corresponde designar el fiduciario, fijar el contenido mínimo del contrato y ordenar el plan anual de aplicación de los recursos.",
+  "Que ha tomado intervención el servicio jurídico permanente del Ministerio de Justicia y Seguridad.",
+  "Que el presente se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Fiduciario y contrato (art. 2° de la ley)",
+     "texto": "Desígnase al Banco de la Nación Argentina como fiduciario del fideicomiso del Fondo Nacional del Manejo del Fuego previsto en el artículo 2° de la Ley N° […]. El Ministerio de Justicia y Seguridad, como autoridad nacional de aplicación de la Ley N° 26.815 y fiduciante, celebrará el contrato con el fiduciario y el Servicio Nacional de Manejo del Fuego, como beneficiario, dentro del plazo fijado por la ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Contenido mínimo del contrato",
+     "texto": "El contrato de fideicomiso preverá, como mínimo: a) una cuenta de integración de la contribución del inciso g) del artículo 30 de la Ley N° 26.815 y de los demás recursos del Fondo; b) que el fiduciario efectúe pagos solo por instrucción del Servicio Nacional de Manejo del Fuego y para las finalidades del plan anual aprobado; c) la prohibición de pagos para gastos de funcionamiento ajenos al manejo del fuego y de transferencias a otras jurisdicciones o fondos; d) las limitaciones a la inversión de los saldos del artículo 6° de la ley; e) la rendición de cuentas trimestral del fiduciario, que se publicará; y f) el control de la Autoridad Nacional de Control y Transparencia."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Integración de la contribución (art. 3° de la ley)",
+     "texto": "El organismo que perciba la contribución del inciso g) del artículo 30 de la Ley N° 26.815 transferirá lo percibido a la cuenta de integración del fideicomiso dentro de los DIEZ (10) días hábiles, sin ingresarlo a rentas generales ni a cuentas de otra jurisdicción, e informará cada mes al Servicio Nacional de Manejo del Fuego los importes percibidos y transferidos. La Superintendencia de Seguros de la Nación suministrará al Servicio la información sobre las primas que constituyen la base de la contribución."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Destino exclusivo (art. 4° de la ley)",
+     "texto": "A los efectos del artículo 4° de la ley, se consideran gastos de funcionamiento ajenos al manejo del fuego las remuneraciones y gastos generales de dependencias que no integren el Sistema Federal de Manejo del Fuego. La mayor parte de los recursos de cada plan anual se destinará a prevención, brigadas profesionales y su equipamiento, conforme a la prioridad fijada por la ley."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Plan anual de aplicación (art. 5° de la ley)",
+     "texto": "El Servicio Nacional de Manejo del Fuego elaborará cada año un plan de aplicación de los recursos del Fondo, que aprobará la autoridad nacional de aplicación de la Ley N° 26.815 antes del 31 de octubre del año anterior. El plan contendrá: a) un diagnóstico de riesgo de incendio por provincia; b) la asignación de los recursos por destino y por provincia; c) metas medibles de brigadistas formados y equipados, sistemas de alerta temprana, cortafuegos y superficie con reducción de vegetación seca; y d) los criterios de asignación, que considerarán la superficie quemada en los CINCO (5) años anteriores, el riesgo de incendio y la capacidad de respuesta de cada provincia, y se publicarán con el plan."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Primer plan y provincias prioritarias",
+     "texto": "El primer plan anual se aprobará dentro de los SESENTA (60) días de celebrado el contrato de fideicomiso. Dará prioridad a la prevención, la alerta temprana, los cortafuegos y la reducción de la vegetación seca en las Provincias de La Pampa, Chubut, Corrientes y Mendoza, sin perjuicio de su revisión anual según el riesgo de incendio."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Convenios con las provincias",
+     "texto": "Los recursos que se apliquen en una provincia se instrumentarán mediante convenios entre el Servicio Nacional de Manejo del Fuego y la provincia, que fijarán las obras, equipos o servicios financiados, sus metas y la rendición de cuentas documentada de su aplicación. No se efectuarán nuevas transferencias a una provincia que tenga rendiciones vencidas y no presentadas."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Saldos (art. 6° de la ley)",
+     "texto": "Los saldos del fideicomiso solo podrán invertirse en depósitos a plazo en entidades financieras públicas o en otros instrumentos de bajo riesgo y alta liquidez que no sean emitidos por el Tesoro nacional, conforme a las instrucciones del fiduciante."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Publicación (art. 7° de la ley)",
+     "texto": "El Servicio Nacional de Manejo del Fuego publicará en su sitio oficial, en formato de datos abiertos y dentro de los TREINTA (30) días de cerrado cada trimestre, los ingresos del fideicomiso, su ejecución por destino y por provincia, el avance de las metas del plan anual y los saldos disponibles. El informe anual al Congreso de la Nación se remitirá antes del 31 de marzo de cada año."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cuenta especial transitoria (art. 10 de la ley)",
+     "texto": "Dentro de los DIEZ (10) días de la entrada en vigencia del presente decreto, el Servicio Nacional de Manejo del Fuego abrirá en el Banco de la Nación Argentina la cuenta especial prevista en el artículo 10 de la ley, cuyo saldo se transferirá al fideicomiso dentro de los CINCO (5) días hábiles de celebrado el contrato."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase a la autoridad nacional de aplicación de la Ley N° 26.815 a dictar las normas complementarias y aclaratorias necesarias para la aplicación del presente decreto."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

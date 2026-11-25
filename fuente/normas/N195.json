@@ -1,0 +1,142 @@
+{
+ "id": "N195",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Publicidad Oficial",
+ "sumilla": "Regula por primera vez por ley la publicidad oficial nacional: criterios públicos y verificables de reparto, prohibición de usarla para premiar o castigar a los medios por su línea editorial, plan anual publicado e informe anual de lo que recibió cada medio.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La publicidad oficial es una herramienta legítima para informar a la población sobre sus derechos, los servicios públicos y las situaciones de riesgo, pero en la Argentina nunca tuvo una ley que fije cómo se reparte. Su asignación quedó librada a decisiones discrecionales de cada gestión y, en los últimos años, a una suspensión dispuesta por el Decreto N° 89/2023 y prorrogada por resoluciones administrativas. La falta de reglas permite que la pauta se use como premio o castigo a los medios según su línea editorial, lo que afecta la libertad de prensa protegida por los artículos 14 y 32 de la Constitución Nacional. Este proyecto establece que la publicidad oficial se asigna con criterios públicos y verificables: adecuación al público destinatario, audiencia medida, costo por contacto, cobertura geográfica y pluralidad. Prohíbe condicionar la pauta al contenido editorial, obliga a cada organismo a publicar un plan anual con sus campañas y presupuesto, crea un registro público de medios proveedores y ordena publicar cada año, en datos abiertos, cuánto recibió cada medio. El gasto queda limitado a la partida que fije la ley de presupuesto. No se trata de gastar más ni menos, sino de que cada peso se asigne con reglas conocidas por todos.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto, ámbito y definiciones",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley regula la asignación, la contratación y la publicidad de la publicidad oficial del Estado nacional, con el fin de garantizar que se destine a informar a la población, que se distribuya con criterios públicos, objetivos y verificables, y que no se utilice para premiar o castigar a medios de comunicación, periodistas o plataformas."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "La presente ley se aplica a las jurisdicciones y entidades del sector público nacional definido en el artículo 8° de la Ley N° 24.156 y sus modificatorias, incluidos los organismos descentralizados, las empresas y sociedades del Estado, los fondos fiduciarios integrados con bienes del Estado nacional y las jurisdicciones Poder Legislativo, Poder Judicial y Ministerio Público del inciso a) de su artículo 9°."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por:\na) Publicidad oficial: toda comunicación, aviso o campaña difundida por cualquier medio de comunicación, plataforma digital o soporte, contratada o pagada, en dinero o en especie, por un sujeto comprendido en el artículo 2°;\nb) Campaña: conjunto de piezas de publicidad oficial con un objetivo de comunicación común;\nc) Avisos obligatorios: los que una norma exige publicar, como edictos, convocatorias a licitación o balances;\nd) Medio: toda persona humana o jurídica que difunda publicidad oficial, incluidos los medios gráficos, audiovisuales, radiales, digitales y la vía pública, y las agencias que intermedien en su contratación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Finalidad y criterios de asignación",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Finalidad",
+     "texto": "La publicidad oficial solo podrá tener por finalidad informar a la población sobre derechos, obligaciones, servicios y trámites públicos, programas de gobierno, salud y seguridad públicas, situaciones de emergencia y el uso de los bienes y servicios del Estado."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Prohibición de discriminación y de presión",
+     "texto": "Queda prohibido asignar, aumentar, reducir, suspender o negar publicidad oficial en razón de la línea editorial, las opiniones o la cobertura informativa de un medio o de sus periodistas, y condicionar su asignación a la difusión u omisión de contenidos determinados."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Criterios de asignación",
+     "texto": "La publicidad oficial se asignará conforme a los siguientes criterios:\na) adecuación del medio al público destinatario de la campaña;\nb) alcance o audiencia del medio, acreditado mediante mediciones verificables de fuente independiente o, en su defecto, por la información que el medio declare en el registro del artículo 8° con carácter de declaración jurada;\nc) costo por contacto o por unidad de audiencia;\nd) cobertura geográfica en relación con el ámbito de la campaña;\ne) pluralidad informativa y diversidad de medios, incluidos los de alcance local.\nLa reglamentación fijará la ponderación de cada criterio, que se publicará antes de la aprobación de cada plan anual y no podrá modificarse durante su ejecución. Los avisos obligatorios se asignarán por el criterio de menor costo que asegure la difusión exigida por la norma que los impone."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Plan anual de comunicación",
+     "texto": "Cada jurisdicción o entidad aprobará y publicará, antes del inicio de cada ejercicio, un plan anual de publicidad oficial que indique las campañas previstas, su objetivo, el público destinatario, el período de difusión, el presupuesto estimado y la aplicación de los criterios del artículo 6°. Las campañas no previstas en el plan solo podrán realizarse por situaciones de emergencia o de interés público sobreviniente, con resolución fundada que se publicará el día de su firma."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Registro, contratación e informe",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Registro público de proveedores",
+     "texto": "Créase el Registro Público de Proveedores de Publicidad Oficial, a cargo de la autoridad de aplicación, en el que deberán inscribirse los medios para recibir publicidad oficial, con indicación de sus titulares y beneficiarios finales, su alcance o audiencia y sus tarifas. El registro será público y se publicará en formato abierto."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Contratación",
+     "texto": "La contratación de publicidad oficial se realizará conforme al régimen de contrataciones aplicable a cada sujeto y a las normas de publicación de las contrataciones del Estado nacional. Cada orden de publicidad indicará la campaña a la que corresponde y la aplicación de los criterios del artículo 6° que justifica la elección del medio, y se publicará el día de su firma."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Informe anual por medio",
+     "texto": "La autoridad de aplicación publicará, antes del 31 de marzo de cada año, en formato abierto, un informe con la publicidad oficial del año anterior que indique, para cada medio y para cada grupo empresario al que pertenezca, los montos recibidos, desagregados por organismo contratante, por campaña y por mes, y el total de los avisos obligatorios. El informe se remitirá al Honorable Congreso de la Nación. Los sujetos comprendidos en el artículo 2° suministrarán la información necesaria dentro de los TREINTA (30) días del cierre del ejercicio."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Límite presupuestario",
+     "texto": "Los créditos destinados a publicidad oficial se identificarán en una partida específica de cada jurisdicción y entidad en la ley de presupuesto. La presente ley no autoriza gastos y la publicidad oficial no podrá superar los créditos asignados en esa partida."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Autoridad de aplicación y control",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación de la presente ley será la Secretaría General de la Presidencia de la Nación. Tendrá a su cargo el registro del artículo 8°, el informe del artículo 10, el dictado de las normas técnicas y la coordinación de la publicidad oficial del Poder Ejecutivo nacional. Los Poderes Legislativo y Judicial y el Ministerio Público designarán, en sus ámbitos, el órgano responsable de aplicar la presente ley, que proveerá la información para el informe anual."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Fundamentación y reclamo",
+     "texto": "Todo medio podrá solicitar la fundamentación de las asignaciones de publicidad oficial y su comparación con las de otros medios, que deberá responderse dentro de los DIEZ (10) días hábiles, e impugnar las que considere contrarias a la presente ley por las vías administrativas y judiciales correspondientes."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Control externo",
+     "texto": "La Autoridad Nacional de Control y Transparencia podrá incluir en su programa de acción anual la auditoría de la asignación de la publicidad oficial y de la exactitud del informe anual."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Responsabilidad",
+     "texto": "El funcionario que asigne publicidad oficial en violación de los artículos 4° a 6° incurrirá en falta grave, sin perjuicio de la responsabilidad civil y penal que corresponda."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Derogaciones",
+     "texto": "Deróganse, a partir de la entrada en vigencia de la presente ley, el Decreto N° 89/2023 y las Resoluciones N° 7147/2024 de la Secretaría de Comunicación y Medios y N° 57/2025 de la Secretaría de Comunicación y Prensa que prorrogaron la suspensión dispuesta por aquel."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su promulgación."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia a los NOVENTA (90) días de su publicación en el Boletín Oficial. El primer informe anual comprenderá la publicidad oficial contratada desde su entrada en vigencia."
+    },
+    {
+     "n": 19,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [
+  "Decreto 89/2023",
+  "Resolución 7147/2024 de la Secretaría de Comunicación y Medios (prórroga)",
+  "Resolución 57/2025 de la Secretaría de Comunicación y Prensa (prórroga)"
+ ],
+ "variantes": null
+}

@@ -1,0 +1,242 @@
+{
+ "id": "N263",
+ "tipo": "ley_nacional",
+ "titulo": "Ley del sistema previsional de dos pilares: cuenta individual optativa, superintendencia autónoma, comisión técnica y cuenta asistencial (reforma de la Ley 24.241)",
+ "sumilla": "Incorpora al Sistema Integrado Previsional Argentino un segundo pilar optativo: los nuevos trabajadores pueden destinar hasta 5 de sus 11 puntos de aporte personal a una cuenta individual de su propiedad, con reglas de inversión prudentes, tope a la deuda del Estado y protección legal del ahorro. Crea la superintendencia autónoma que retoma fuera de ANSES el control de la ex SAFJP y la comisión técnica de revisión quinquenal, separa en una cuenta asistencial financiada con rentas generales las jubilaciones por moratoria y la PUAM, y ratifica por ley los aportes por tareas de cuidado.",
+ "cuando": "Fase II, después de la consulta popular no vinculante del segundo semestre de 2028; se envía solo si la ciudadanía aprueba la cuenta propia.",
+ "cuando_breve": "Fase II, tras la consulta",
+ "tramite": "Mayoría simple. Cámara de Diputados como cámara de origen: redistribuye aportes de la seguridad social. Se busca sanción con amplio acuerdo (blindaje político, no requisito constitucional).",
+ "motivos": "El sistema previsional argentino debe pagar hoy a sus jubilados y, a la vez, ofrecer a quienes empiezan a trabajar una forma de ahorro propio que no dependa de las urgencias del Tesoro. La experiencia del régimen de capitalización vigente entre 1994 y 2008 dejó una lección: al momento de su eliminación, el 55,3 % de las carteras estaba invertido en títulos públicos, expuestos a las cesaciones de pago del Estado. El reparto, por su parte, depende de una base de aportantes reducida por la informalidad: el 37,9 % de los asalariados no tiene descuento jubilatorio (INDEC, segundo trimestre de 2026). El presente proyecto conserva el régimen de reparto como primer pilar, con el haber mínimo garantizado para todos, y agrega un segundo pilar optativo para los nuevos trabajadores, con comisiones sobre el saldo, inversión diversificada, tope a la deuda del Estado y fondos de propiedad de cada trabajador que no pueden transferirse al Estado. Crea una superintendencia autónoma con directorio de mandato fijo, una comisión técnica que revisa los parámetros cada cinco años y una cuenta asistencial, financiada con rentas generales, que separa las prestaciones no contributivas del resultado del sistema contributivo. Ratifica además por ley el reconocimiento de aportes por tareas de cuidado. El costo de transición es gradual y lo cubre el Fondo de Garantía de Sustentabilidad.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y estructura del sistema",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley organiza el Sistema Integrado Previsional Argentino (SIPA) en dos pilares: a) el pilar 1, régimen de reparto que administra la Administración Nacional de la Seguridad Social (ANSES) conforme la Ley N° 24.241 y sus modificatorias, que paga las prestaciones en curso y garantiza el haber mínimo a todas las personas beneficiarias; y b) el pilar 2, régimen de cuentas individuales optativas, complementario del anterior, que se rige por la presente ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Relación con la Ley N° 26.425",
+     "texto": "Lo dispuesto en el artículo 1° de la Ley N° 26.425 se entiende sin perjuicio del régimen de cuentas individuales optativas creado por la presente ley. Los recursos transferidos al Fondo de Garantía de Sustentabilidad por el artículo 7° de esa ley no se ven afectados por la presente, salvo lo previsto en su artículo 28. Las disposiciones del Título III del Libro I de la Ley N° 24.241 no se aplican al pilar 2, salvo remisión expresa."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Pilar 2: elección, aportes y propiedad",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Personas alcanzadas",
+     "texto": "Pueden optar por el pilar 2 las personas que, a partir del 10 de diciembre de 2030, sean dadas de alta por primera vez como trabajadoras en relación de dependencia en el SIPA. Quienes a esa fecha ya registren aportes al SIPA permanecen en el pilar 1, sin perjuicio de los aportes voluntarios del artículo 6°."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Elección",
+     "texto": "La persona trabajadora alcanzada elige, al registrarse su alta laboral, si destina a una cuenta individual de su propiedad hasta cinco (5) puntos porcentuales, en números enteros, de los once (11) puntos de su aporte personal al SIPA previstos en el artículo 11 de la Ley N° 24.241. Quien elige la cuenta sin indicar otra cifra destina cinco (5) puntos. Quien no elige permanece en el pilar 1. La elección puede revertirse una (1) sola vez, con efecto a partir del mes siguiente; en caso de reversión al pilar 1, el saldo acumulado permanece en la cuenta individual, que no recibe nuevos aportes obligatorios."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Distribución de aportes y contribuciones",
+     "texto": "La totalidad de la contribución patronal y la parte del aporte personal no destinada a la cuenta individual ingresan al pilar 1. La Agencia de Recaudación y Control Aduanero (ARCA) recauda los aportes y contribuciones por el Sistema Único de la Seguridad Social y transfiere a la administradora elegida la parte correspondiente a cada cuenta individual dentro de los plazos que fije la reglamentación. Los aportes y contribuciones con destino al Instituto Nacional de Servicios Sociales para Jubilados y Pensionados y a las obras sociales no se modifican."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Aportes voluntarios",
+     "texto": "Toda persona aportante al SIPA, haya o no optado por el pilar 2, puede efectuar aportes voluntarios a una cuenta individual. Los empleadores pueden efectuar aportes a las cuentas de sus trabajadores cuando así se pacte en el contrato individual o en el convenio colectivo, con igual criterio para todo el personal comprendido."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Propiedad e intangibilidad",
+     "texto": "Los fondos acumulados en cada cuenta individual son propiedad de la persona titular. Constituyen un patrimonio separado del de la administradora y del de la entidad custodia, son inembargables salvo por deudas alimentarias y no pueden ser objeto de retención, canje compulsivo, transferencia al Estado nacional, a las provincias, a los municipios o a cualquier ente público, ni de afectación a fines distintos de los previstos en la presente ley."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Prohibición de financiar al Tesoro",
+     "texto": "Ninguna norma de rango inferior a la ley podrá disponer que los fondos del pilar 2 se inviertan en forma obligatoria en títulos públicos o en instrumentos del sector público, ni su canje, reprogramación o transferencia. Todo acto en contrario es nulo de nulidad absoluta."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Administradoras y custodia",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Administradoras",
+     "texto": "Las cuentas individuales son administradas por entidades habilitadas por la Superintendencia de Fondos de Pensión creada en el Capítulo VI, que pueden ser sociedades comerciales, cooperativas, entidades sindicales o entes públicos, en igualdad de condiciones. Las administradoras tienen objeto exclusivo, acreditan el capital mínimo y la idoneidad técnica que fije la reglamentación y compiten entre sí. Ningún empleador, entidad sindical u organismo público puede imponer a una persona trabajadora la elección de una administradora."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Comisiones y cambio de administradora",
+     "texto": "Las administradoras solo pueden cobrar una comisión anual expresada como porcentaje del saldo de cada cuenta, que no puede superar el tope que fije y publique la Superintendencia. Se prohíbe toda comisión sobre las remuneraciones o sobre los aportes. Las comisiones de cada administradora se publican en forma comparable. El cambio de administradora es gratuito y puede ejercerse al menos una (1) vez por año."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Custodia independiente",
+     "texto": "Los títulos y activos de los fondos se depositan en entidades custodias independientes de las administradoras, habilitadas por la Superintendencia entre las entidades financieras y los agentes de custodia registrados ante la Comisión Nacional de Valores. La entidad custodia no puede pertenecer al mismo grupo económico que la administradora."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Inversiones",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Fondos por perfil de riesgo",
+     "texto": "Cada administradora ofrece al menos tres (3) fondos con distinto perfil de riesgo. Cuando la persona titular no elige fondo, sus aportes se asignan a un fondo por defecto según su edad, que se vuelve más conservador a medida que se acerca la edad jubilatoria, conforme la reglamentación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Regla del inversor prudente",
+     "texto": "Las administradoras invierten los fondos con la diligencia de un inversor prudente, en el exclusivo interés de las personas titulares y con criterios de diversificación, rentabilidad y seguridad. Pueden invertir en acciones, títulos de deuda, fondos comunes de inversión, infraestructura, créditos hipotecarios y otros instrumentos, en el país y en el exterior, dentro de los límites amplios que fije la Superintendencia. El límite para inversiones en el exterior no puede ser inferior al treinta por ciento (30 %) de cada fondo."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Deuda del sector público",
+     "texto": "La inversión de cada fondo en títulos o instrumentos emitidos o garantizados por el Estado nacional, las provincias, la Ciudad Autónoma de Buenos Aires, los municipios, el Banco Central de la República Argentina o cualquier ente público no puede superar el porcentaje que fije la Superintendencia, que en ningún caso excederá el veinte por ciento (20 %) del fondo. Esa inversión nunca es obligatoria."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Coordinación con la Comisión Nacional de Valores",
+     "texto": "La Superintendencia y la Comisión Nacional de Valores, en ejercicio de las atribuciones del artículo 19 de la Ley N° 26.831, coordinan las reglas aplicables a los productos de inversión colectiva y a la custodia de los activos de los fondos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Prestaciones",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Prestaciones del pilar 1",
+     "texto": "Las personas que opten por el pilar 2 acceden a las prestaciones del pilar 1 con los mismos requisitos de edad y servicios que las demás. Los años con aportes se computan en forma completa a esos efectos. La prestación básica universal de los artículos 17, inciso a), y 20 de la Ley N° 24.241 y el haber mínimo garantizado por su artículo 125 no se reducen por la elección; los componentes del haber que se determinan sobre las remuneraciones —la prestación compensatoria del artículo 24 y la prestación adicional por permanencia del artículo 30, inciso b), de esa ley— se calculan en proporción a la parte del aporte personal que ingresó al pilar 1. Las prestaciones por invalidez y por fallecimiento se rigen por el pilar 1."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Prestaciones del pilar 2",
+     "texto": "Al acceder a la jubilación, la persona titular dispone del saldo de su cuenta mediante renta vitalicia contratada con una compañía de seguros, retiro programado o una combinación de ambos, en las condiciones que fije la reglamentación. No se admiten retiros anticipados. En caso de fallecimiento, el saldo integra el haber hereditario, sin perjuicio de los derechos de los derechohabientes previsionales."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Superintendencia de Fondos de Pensión",
+   "articulos": [
+    {
+     "n": 18,
+     "epigrafe": "Creación y naturaleza",
+     "texto": "Créase la Superintendencia de Fondos de Pensión como ente autárquico en el ámbito del Poder Ejecutivo nacional, con personería jurídica propia, autarquía administrativa y financiera y autonomía técnica. Es la autoridad de aplicación del pilar 2. En el ejercicio de sus funciones de control no está sujeta a instrucciones de ninguna autoridad."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Funciones",
+     "texto": "Son funciones de la Superintendencia: a) habilitar, supervisar y, en su caso, revocar la habilitación de las administradoras y de las entidades custodias; b) fijar los límites de inversión conforme los artículos 13 y 14, y el tope de comisiones del artículo 10; c) controlar la acreditación de los aportes, la valuación de los fondos y la información a las personas titulares; d) aplicar las sanciones del artículo 22; e) publicar cada mes las comisiones, los rendimientos reales y la composición de las carteras de cada fondo; f) ejercer las funciones de control de la ex Superintendencia de Administradoras de Fondos de Jubilaciones y Pensiones que no hayan sido derogadas; y g) dictar las normas operativas del pilar 2."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Directorio",
+     "texto": "La Superintendencia es dirigida por un directorio de cinco (5) miembros, uno de los cuales lo preside, designados por el Poder Ejecutivo nacional previo concurso público de antecedentes. Deben acreditar idoneidad en materia previsional, actuarial, financiera o jurídica, y no pueden haber integrado órganos de administradoras ni de custodias en los dos (2) años anteriores ni hacerlo en los dos (2) años posteriores a su cese. Duran seis (6) años en sus funciones y pueden ser designados por un único período adicional. Los mandatos se renuevan en forma escalonada: en la primera integración, dos (2) miembros, determinados por sorteo, duran tres (3) años."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Remoción",
+     "texto": "Los miembros del directorio solo pueden ser removidos antes del vencimiento de su mandato por mal desempeño, delito doloso o inhabilidad sobreviniente, mediante decreto fundado del Poder Ejecutivo nacional, previo sumario con derecho de defensa."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Sanciones",
+     "texto": "Las infracciones a la presente ley y a sus normas reglamentarias se sancionan, según su gravedad y previo sumario con derecho de defensa, con: a) apercibimiento; b) multa de hasta el diez por ciento (10 %) del patrimonio neto de la entidad infractora; c) suspensión de la incorporación de nuevas personas titulares; y d) revocación de la habilitación. En caso de revocación, la Superintendencia dispone el traspaso de las cuentas a otra administradora, sin costo para las personas titulares."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Transferencia de funciones desde la ANSES",
+     "texto": "Transfiérense a la Superintendencia, desde la constitución de su directorio, las funciones de la ex Superintendencia de Administradoras de Fondos de Jubilaciones y Pensiones asignadas a la ANSES por los artículos 3° y 6° del Decreto N° 2105/2008, con los créditos presupuestarios, bienes, registros y personal afectados a ellas; el personal conserva su situación de revista y sus derechos adquiridos. Desde esa fecha quedan sin efecto los artículos 3° y 6° del Decreto N° 2105/2008. Lo dispuesto en el artículo 15 de la Ley N° 26.425 respecto de las comisiones médicas no se modifica. Deróganse los artículos 117 a 123 de la Ley N° 24.241."
+    },
+    {
+     "n": 24,
+     "epigrafe": "Informe y control",
+     "texto": "La Superintendencia presenta cada año al Congreso de la Nación un informe público sobre el funcionamiento del pilar 2 y su gestión. Está sujeta al control de la Autoridad Nacional de Control y Transparencia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VII – Comisión Técnica de Parámetros Previsionales",
+   "articulos": [
+    {
+     "n": 25,
+     "epigrafe": "Comisión Técnica",
+     "texto": "Créase la Comisión Técnica de Parámetros Previsionales, órgano consultivo sin autarquía, integrada por cinco (5) especialistas en materia actuarial, demográfica, económica o de seguridad social: dos (2) designados por el Poder Ejecutivo nacional, uno (1) por la Oficina de Presupuesto del Congreso de la Nación, uno (1) por la Superintendencia y uno (1) por el Consejo Interuniversitario Nacional. Sus integrantes no perciben remuneración por esa función. La Superintendencia le brinda el apoyo administrativo y la ANSES le suministra la información que requiera. Cada cinco (5) años, contados desde la entrada en vigencia de la presente ley, la Comisión revisa los parámetros del sistema frente al envejecimiento de la población —edades, tasas de aporte, relación entre aportes y beneficios y sostenibilidad del pilar 1— y eleva al Poder Ejecutivo nacional y al Congreso de la Nación un informe público con sus recomendaciones, que no son vinculantes."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VIII – Cuenta asistencial",
+   "articulos": [
+    {
+     "n": 26,
+     "epigrafe": "Cuenta asistencial",
+     "texto": "Créase, dentro del presupuesto de la ANSES, la cuenta asistencial del SIPA, que registra en forma separada de los recursos y prestaciones del sistema contributivo: a) las jubilaciones y pensiones otorgadas con adhesión a los regímenes de regularización de deudas previsionales de las Leyes N° 24.476, N° 25.994, N° 26.970 y N° 27.705; y b) la Pensión Universal para el Adulto Mayor del Título III de la Ley N° 27.260, hasta su migración al módulo de mayores sin aportes del Ingreso Universal Único. Las prestaciones de la cuenta asistencial se financian con rentas generales del Tesoro nacional. Las jubilaciones del inciso a) siguen siendo prestaciones del sistema previsional, las paga la ANSES y conservan su movilidad y todos los derechos de sus titulares. La ANSES publica cada trimestre el resultado del sistema contributivo y el de la cuenta asistencial por separado."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IX – Aportes por tareas de cuidado",
+   "articulos": [
+    {
+     "n": 27,
+     "epigrafe": "Ratificación del artículo 22 bis",
+     "texto": "Ratifícase, con rango de ley y en su texto vigente, el artículo 22 bis de la Ley N° 24.241, incorporado por el Decreto N° 475/2021, que reconoce a las mujeres y personas gestantes, al único fin de acreditar el mínimo de servicios necesario para la Prestación Básica Universal, un (1) año de servicio por cada hijo o hija nacido con vida, dos (2) años por cada hijo o hija adoptado menor de edad, un (1) año adicional por cada hijo o hija con discapacidad y dos (2) años adicionales por cada hijo o hija a quienes hayan percibido la Asignación Universal por Hijo para Protección Social durante al menos doce (12) meses, continuos o discontinuos. El reconocimiento se aplica en ambos pilares a los fines del acceso a las prestaciones del pilar 1."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo X – Financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 28,
+     "epigrafe": "Costo de transición",
+     "texto": "Los aportes personales que se destinen a cuentas individuales y dejen de ingresar al pilar 1 se compensan con el rendimiento del Fondo de Garantía de Sustentabilidad creado por el Decreto N° 897/2007 y ratificado por la Ley N° 26.425 y, si no alcanzara, con la realización de sus activos, sin afectar las prestaciones en curso. La ANSES informa cada año al Congreso de la Nación el monto de la compensación."
+    },
+    {
+     "n": 29,
+     "epigrafe": "Protección de los fondos",
+     "texto": "El Fondo de Garantía de Sustentabilidad y los fondos del pilar 2 quedan expresamente excluidos de la facultad de disolver o modificar fondos fiduciarios y fondos con destino específico prevista en el artículo 5° de la Ley N° 27.742, y de cualquier otra facultad delegada o reglamentaria de igual alcance."
+    },
+    {
+     "n": 30,
+     "epigrafe": "Financiamiento",
+     "texto": "Conforme el artículo 38 de la Ley N° 24.156 y el artículo 5° de la Ley N° 24.629: a) la Superintendencia se financia en su primer ejercicio con los créditos de la ANSES afectados a las funciones transferidas por el artículo 23, y en los siguientes con los que le asigne la ley de presupuesto; b) el costo de transición del pilar 2 se cubre conforme el artículo 28, con el cronograma que resulta de la apertura gradual del artículo 3°; c) la financiación con rentas generales de la cuenta asistencial del artículo 26 se activa con la ley de presupuesto del ejercicio siguiente al de la publicación de la presente; hasta entonces la separación es contable y las prestaciones se atienden con los recursos con que se pagan a la fecha de sanción; y d) la Comisión Técnica no genera gasto adicional."
+    },
+    {
+     "n": 31,
+     "epigrafe": "Reglamentación y puesta en marcha",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los ciento ochenta (180) días de su publicación. El directorio de la Superintendencia se constituye dentro del mismo plazo; hasta entonces, la ANSES continúa a cargo de las funciones del artículo 23."
+    },
+    {
+     "n": 32,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entra en vigencia el día siguiente al de su publicación en el Boletín Oficial, sin perjuicio de la apertura del pilar 2 desde la fecha fijada en el artículo 3°."
+    },
+    {
+     "n": 33,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.241, Libro I: se incorpora el régimen de cuentas individuales optativas (pilar 2) como régimen complementario del SIPA; el Título III no se aplica al nuevo régimen salvo remisión expresa",
+  "Ley 24.241, art. 22 bis (incorporado por el Decreto 475/2021): se ratifica con rango de ley",
+  "Ley 26.425, art. 1: se interpreta sin perjuicio del pilar 2; art. 7 y recursos del FGS: sin afectación",
+  "Leyes 24.476, 25.994, 26.970 y 27.705 y Ley 27.260, Título III: sus prestaciones se imputan a la cuenta asistencial financiada con rentas generales",
+  "Ley 26.831, art. 19: coordinación de la CNV con la superintendencia"
+ ],
+ "deroga": [
+  "Ley 24.241, arts. 117 a 123 (Superintendencia de AFJP), sustituidos por el Capítulo VI de esta ley",
+  "Decreto 2105/2008, arts. 3 y 6, desde la constitución del directorio de la superintendencia"
+ ],
+ "variantes": null
+}

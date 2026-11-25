@@ -1,0 +1,20 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": []
+ },
+ "externos": [
+  {
+   "nombre": "Comisión bicameral de deuda",
+   "rol": "Revisa la deuda en 18 meses con mandato de no repudio y absorbe en forma permanente el seguimiento de la contratación y el pago de la deuda."
+  },
+  {
+   "nombre": "Comisión de seguimiento de deuda",
+   "rol": "Se disuelve; sus funciones y archivos pasan a la comisión de la Ley 26.984."
+  }
+ ]
+}

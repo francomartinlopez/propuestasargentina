@@ -1,0 +1,175 @@
+{
+ "id": "N103",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de creación de Fosfatados Argentinos Sociedad Anónima",
+ "sumilla": "Crea una sociedad anónima con participación estatal mayoritaria (51 % clase A, intransferible sin ley) y socios de la cadena agropecuaria y del gas, con gobierno profesional, cuentas públicas y operador especializado optativo, que construye la planta de fertilizantes fosfatados y custodia el stock regulador como stock estratégico del Estado.",
+ "cuando": "Fase II (año 2: envío al Congreso; constitución y comienzo de la obra en la Fase II; lo que exceda el año 4 se completa en el mandato siguiente). El gasto se activa con el presupuesto del año siguiente a la sanción.",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La Argentina no produce fosfato monoamónico ni fosfato diamónico y cubre con importaciones todo su consumo de fertilizantes fosfatados, un insumo que no tiene reemplazo en la siembra. A diferencia de los nitrogenados, donde existen proyectos privados a los que basta con reducir el riesgo, en fosfatados no hay iniciativa privada y la dependencia es total: una interrupción del abastecimiento en plena campaña afecta la producción que genera la mayor parte de las divisas del país. El proyecto crea una sociedad anónima con participación estatal mayoritaria y socios de la cadena —productores y cooperativas, YPF, fabricantes de maquinaria agrícola y empresas de energía, siderurgia y construcción— que construye una planta y administra un stock regulador encuadrado en el régimen de stocks estratégicos. Su fundamento es la seguridad del abastecimiento, no la rentabilidad, y por eso se limita a un único eslabón. Para evitar los riesgos conocidos de las empresas públicas, la ley fija un gobierno profesional, con directores independientes seleccionados por concurso, remoción solo por justa causa, cuentas y contratos públicos y la posibilidad de contratar un operador especializado. La localización se decide por estudios hidrogeológicos y logísticos, y ninguna inversión se compromete sin factibilidad hídrica. El aporte estatal se financia como obra dentro del cupo plurianual de infraestructura y su gasto se activa con el presupuesto siguiente.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Creación, naturaleza y objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto de la ley",
+     "texto": "La presente ley dispone la creación de una sociedad anónima con participación estatal mayoritaria que produzca en el país fertilizantes fosfatados y administre un stock regulador, como reserva estratégica para el abastecimiento de la producción agropecuaria."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Creación",
+     "texto": "Créase FOSFATADOS ARGENTINOS SOCIEDAD ANÓNIMA (en adelante, «la Sociedad»), que se constituirá como sociedad anónima con participación estatal mayoritaria en los términos de los artículos 308 a 312 de la Ley General de Sociedades N° 19.550 (t.o. 1984). La Sociedad se rige por la presente ley, por su estatuto y, en lo no previsto, por las normas de derecho privado. Las disposiciones de la presente ley prevalecen sobre las del estatuto."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Objeto social",
+     "texto": "La Sociedad tiene por objeto:\na) construir y operar una planta de fertilizantes fosfatados, incluidos el fosfato monoamónico y el fosfato diamónico, y las instalaciones de proceso necesarias;\nb) asegurar el abastecimiento de roca fosfórica y de azufre mediante contratos de largo plazo y la participación en compras conjuntas;\nc) constituir, mantener y administrar el stock regulador previsto en el Capítulo V;\nd) comercializar su producción en el país y en el exterior;\ne) realizar toda otra actividad conexa o complementaria necesaria para el cumplimiento de su objeto."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Reserva estratégica y no exclusividad",
+     "texto": "La Sociedad se constituye para asegurar el abastecimiento de fertilizantes fosfatados como reserva estratégica de la producción agropecuaria. No goza de exclusividad ni de privilegio alguno frente a otros productores, importadores o comercializadores, y vende su producción a precios de mercado."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Capital y socios",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Capital y clases de acciones",
+     "texto": "El capital de la Sociedad se representa en acciones de dos clases:\na) acciones clase A, de titularidad del Estado nacional, que representarán en todo momento no menos del cincuenta y uno por ciento (51 %) del capital social y de los votos;\nb) acciones clase B, que podrán suscribir los socios de la cadena previstos en el artículo siguiente.\nMientras no se integre la totalidad de las acciones clase B ofrecidas, el Estado nacional podrá ser titular transitorio de ellas, con obligación de ofrecerlas conforme al artículo siguiente."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Socios de la cadena",
+     "texto": "Las acciones clase B se ofrecerán, mediante un procedimiento público, con igualdad de trato y a un precio determinado por valuación independiente, a:\na) productores agropecuarios, sus cooperativas y sus entidades representativas;\nb) YPF Sociedad Anónima, cuya participación se decidirá por sus propios órganos societarios;\nc) fabricantes de cosechadoras, sembradoras, implementos y demás maquinaria agrícola;\nd) empresas de energía, siderurgia y construcción que participen de la cadena del gas natural.\nEl estatuto fijará el límite de participación de cada accionista clase B, de modo que ninguno pueda ejercer por sí solo los derechos de veto previstos en el estatuto."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Operador especializado",
+     "texto": "El Directorio podrá contratar, mediante concurso público nacional e internacional, un operador especializado en la producción de fertilizantes fosfatados, con remuneración vinculada al cumplimiento de metas de producción, costos y seguridad que se publicarán. El operador podrá suscribir acciones clase B en las condiciones del artículo anterior."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Intransferibilidad y exclusión de privatización",
+     "texto": "Las acciones clase A no podrán transferirse, gravarse ni reducirse por debajo del porcentaje del artículo 5°, inciso a), sino por ley. La Sociedad no podrá ser incluida en ningún régimen de privatización, incluido el previsto en el artículo 7° y el Anexo I de la Ley N° 27.742, sino por ley expresa que la individualice."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Gobierno profesional",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Directorio",
+     "texto": "El Directorio se compone de siete (7) miembros: cuatro (4) designados por las acciones clase A, de los cuales al menos dos (2) serán independientes, y tres (3) designados por las acciones clase B. Los directores duran tres (3) años en sus funciones, se renuevan en forma escalonada y pueden ser designados nuevamente por un solo período consecutivo. El Directorio aprueba el plan de negocios plurianual, el presupuesto anual y las contrataciones relevantes, y designa al Gerente General."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Idoneidad, incompatibilidades y remoción",
+     "texto": "Los directores y el Gerente General deberán acreditar idoneidad profesional y experiencia en la industria química, de fertilizantes, minera o energética, o en finanzas o gestión de empresas. Los directores independientes y el Gerente General serán seleccionados mediante concurso público de antecedentes, con publicidad de los antecedentes de los candidatos. No podrán ser directores ni Gerente General quienes ejerzan o hayan ejercido en los dos (2) años anteriores cargos electivos, funciones políticas en cualquier nivel de gobierno o cargos de conducción en partidos políticos. Los directores y el Gerente General solo podrán ser removidos antes del vencimiento de su mandato por justa causa, mediante decisión fundada que se publicará."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Personal y contrataciones",
+     "texto": "El personal de la Sociedad se selecciona por mérito, mediante procedimientos públicos, y se rige por la legislación laboral común. Las contrataciones de obras, bienes y servicios se realizan mediante procedimientos competitivos y públicos, conforme al reglamento que apruebe el Directorio, que se publicará."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Integridad",
+     "texto": "La Sociedad adoptará un programa de integridad que incluirá un código de conducta, un régimen de conflictos de interés, declaraciones juradas patrimoniales de directores y gerentes, un canal de denuncias con protección del denunciante y la debida diligencia de proveedores y clientes."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Cuentas públicas y control",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Cuentas públicas",
+     "texto": "La Sociedad llevará su contabilidad conforme a las Normas Internacionales de Información Financiera y publicará en su sitio oficial, en formato de datos abiertos: sus estados contables trimestrales y anuales con el informe del auditor; su plan de negocios y su presupuesto; los contratos que celebre, con la sola reserva temporal de las cláusulas comerciales cuya divulgación afecte su posición competitiva, por un plazo máximo de tres (3) años; las resoluciones del Directorio; la composición, antecedentes y remuneraciones de directores y gerentes; y la información de gestión sobre avance de obra, producción, costos y existencias del stock regulador, actualizada al menos cada mes."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Control",
+     "texto": "La Sociedad está sujeta al control interno de la Sindicatura General de la Nación (SIGEN) y al control externo de la Autoridad Nacional de Control y Transparencia, conforme a los artículos 8°, inciso b), 98, 100 y 117 de la Ley N° 24.156. Sus estados contables serán auditados además por una firma de auditoría externa independiente, seleccionada por concurso y rotada como máximo cada cinco (5) años. Los informes de auditoría serán públicos."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Informe al Congreso",
+     "texto": "La Sociedad remitirá cada año al Congreso de la Nación, por intermedio del Poder Ejecutivo nacional, un informe de gestión que incluirá el avance de la obra, la producción nacional de fertilizantes fosfatados como porcentaje del consumo y los meses de consumo cubiertos por el stock regulador."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Localización, abastecimiento y stock regulador",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Localización",
+     "texto": "La Sociedad decidirá la localización de la planta sobre la base de estudios hidrogeológicos y logísticos que comparen, al menos, los siguientes sitios: a) Bahía Blanca, en las áreas de Puerto Galván e Ingeniero White; b) el cordón San Lorenzo–Puerto General San Martín, sobre el río Paraná; y c) la zona de Salliqueló, en el noroeste de la Provincia de Buenos Aires, con provisión de agua del Acueducto Región Noroeste. Ninguna inversión en la planta podrá comprometerse sin la factibilidad hídrica aprobada por la autoridad provincial competente. Los estudios y la decisión de localización, con sus fundamentos, se publicarán. Si la planta se ubica en un sitio cuya provisión de agua dependa de una obra en construcción o a construir, la Sociedad podrá contribuir a su financiamiento mediante un contrato de agua de largo plazo, en iguales condiciones que los demás usuarios industriales de la obra."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Abastecimiento de insumos",
+     "texto": "La Sociedad asegurará el abastecimiento de roca fosfórica y de azufre mediante contratos de largo plazo con proveedores de la región, con diversidad de orígenes. Podrá participar en compras conjuntas con empresas o entidades de otros Estados con los que la República Argentina tenga acuerdos de cooperación."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Stock regulador",
+     "texto": "La Sociedad constituirá y mantendrá un stock regulador de fertilizantes fosfatados equivalente a una parte del consumo anual del país, cuyo volumen se fijará conforme al estudio técnico que se realice con intervención de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía. El stock regulador constituye el stock estratégico de fertilizantes fosfatados a cargo del Estado nacional en los términos de los artículos 13 y 15 de la Ley N° [—] de Seguridad de Suministro de Insumos Críticos y Stocks Estratégicos, y su custodia y administración quedan encomendadas a la Sociedad. Su uso, rotación y reposición se rigen por esa ley, que excluye los controles de precios, y por su reglamentación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Financiamiento",
+   "articulos": [
+    {
+     "n": 19,
+     "epigrafe": "Aportes del Estado nacional",
+     "texto": "Los aportes de capital del Estado nacional destinados a la ingeniería, la construcción de la planta y la constitución del stock regulador se financian como obra dentro del cupo de obras previsto en el artículo 4° de la Ley N° [—] de Presupuesto Plurianual de Infraestructura, con las fuentes de su artículo 5°. El monto total de los aportes y su cronograma de integración se incluirán en la ley de presupuesto conforme al artículo 15 de la Ley N° 24.156, y las cuotas comprometidas tendrán la prioridad prevista en el artículo 8° de aquella ley. El gasto que autoriza la presente ley se activa con la ley de presupuesto del ejercicio siguiente al de su sanción; en el ejercicio de la sanción, la constitución de la Sociedad y los estudios se atenderán con los créditos vigentes del Ministerio de Economía, sin incremento del gasto total."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Costo del stock y garantías",
+     "texto": "El costo de mantener el stock regulador se atiende conforme al artículo 19 de la Ley N° [—] de Seguridad de Suministro de Insumos Críticos y Stocks Estratégicos. El Estado nacional no garantiza las obligaciones de la Sociedad, salvo autorización expresa de una ley. Los acreedores de la Sociedad solo tienen acción contra su patrimonio."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VII – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 21,
+     "epigrafe": "Ejercicio de los derechos del Estado",
+     "texto": "El Poder Ejecutivo nacional ejercerá los derechos de accionista clase A por intermedio del Ministerio de Economía, con consulta a la Secretaría de Agricultura, Ganadería y Pesca en lo relativo al stock regulador."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Constitución",
+     "texto": "El Poder Ejecutivo nacional aprobará el estatuto, que se ajustará a la presente ley, y constituirá la Sociedad dentro de los ciento ochenta (180) días de la entrada en vigencia de la presente ley."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 24,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.742, art. 7 y Anexo I (exclusión expresa de la sociedad de todo régimen de privatización sin ley, sin modificar su texto)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

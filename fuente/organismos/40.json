@@ -1,0 +1,81 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Ambiente de la Jefatura de Gabinete de Ministros",
+    "estado": "modificado",
+    "rol": "Coordina con las provincias en el COFEMA, lleva el registro público y coordina el Inventario de Glaciares.",
+    "hoy": "Subsecretaría de Ambiente (Secretaría de Turismo, Ambiente y Deportes, Vicejefatura de Gabinete del Interior, Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto científico de glaciares",
+    "estado": "modificado",
+    "rol": "Valida científicamente, con dictamen público y participación provincial, qué glaciares y periglaciares se protegen. Valida con dictamen público toda identificación, incorporación o eliminación de cuerpos del Inventario.",
+    "hoy": "Instituto Argentino de Nivología, Glaciología y Ciencias Ambientales (unidad ejecutora CONICET–UNCuyo–Gobierno de Mendoza)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Minería del Ministerio de Infraestructura y Energía",
+    "estado": "existente",
+    "rol": "Es consultada en lo que atañe a la política minera.",
+    "hoy": "Secretaría de Minería (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comités de cuencas interjurisdiccionales",
+    "estado": "modificado",
+    "rol": "Participan en la evaluación ambiental estratégica de las cuencas interjurisdiccionales.",
+    "hoy": "Comités de cuencas hídricas (Ley 25.688, art. 4)",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo de investigación científica",
+    "estado": "existente",
+    "rol": "Organismo del que depende el IANIGLA; reasigna créditos para la validación en el primer año.",
+    "hoy": "CONICET (Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad ambiental nacional",
+    "estado": "modificado",
+    "rol": "Coordina el Inventario Nacional de Glaciares.",
+    "hoy": "Subsecretaría de Ambiente (Secretaría de Turismo, Ambiente y Deportes, Vicejefatura de Gabinete del Interior, Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad ambiental provincial",
+    "estado": "modificado",
+    "rol": "Conduce la consulta, la evaluación estratégica y el registro de datos abiertos.",
+    "hoy": "Según cada provincia",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Ambiente",
+    "estado": "existente",
+    "rol": "Asistencia técnica a las provincias y registro público nacional.",
+    "hoy": "Subsecretaría de Ambiente (Secretaría de Turismo, Ambiente y Deportes, Vicejefatura de Gabinete del Interior, Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Consejo Federal de Medio Ambiente (COFEMA)",
+   "rol": "Ámbito de coordinación de la aplicación con las provincias."
+  },
+  {
+   "nombre": "Provincias con glaciares",
+   "rol": "Participan en la validación con estudios, observaciones y trabajos de campo."
+  },
+  {
+   "nombre": "Comités de monitoreo participativo",
+   "rol": "Monitoreo independiente con comunidades y universidades."
+  }
+ ]
+}

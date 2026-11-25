@@ -1,0 +1,149 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Autoridad de aplicación que designe el PEN",
+    "estado": "modificado",
+    "rol": "Designa al fiduciario y fija las condiciones de la garantía.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Aporte inicial del Fondo con el presupuesto siguiente. Designa el fiduciario, fija montos, comisiones y relación de cobertura, e incluye el aporte inicial en el presupuesto.",
+    "hoy": "Ministerio de Economía (Secretaría de Hacienda)",
+    "hijos": [
+     {
+      "nombre": "Agencia de Administración de Bienes del Estado",
+      "estado": "modificado",
+      "rol": "Regularización dominial y escrituración (Ley 27.453). Separa los terrenos aptos, publica el inventario y vende con cargo de construir.",
+      "hoy": "AABE",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de bienes del Estado",
+      "estado": "existente",
+      "rol": "Regularización dominial y escrituración.",
+      "hoy": "AABE (JGM, Vicejefatura de Gabinete del Interior)",
+      "hijos": []
+     },
+     {
+      "nombre": "Tesorería General de la Nación",
+      "estado": "existente",
+      "rol": "Transfiere a la Cuenta los saldos del ex FISU.",
+      "hoy": "Tesorería General de la Nación (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+      "estado": "modificado",
+      "rol": "Lleva el registro voluntario de contratos y controla la amortización acelerada y su reintegro.",
+      "hoy": "Agencia de Recaudación y Control Aduanero, organismo descentralizado del Ministerio de Economía",
+      "hijos": []
+     },
+     {
+      "nombre": "Superintendencia de Seguros de la Nación",
+      "estado": "modificado",
+      "rol": "Estandariza el seguro de caución para alquileres.",
+      "hoy": "Superintendencia de Seguros de la Nación, organismo descentralizado del Ministerio de Economía",
+      "hijos": []
+     },
+     {
+      "nombre": "Comisión Nacional de Valores (CNV)",
+      "estado": "modificado",
+      "rol": "Dicta las normas de oferta pública de valores respaldados por hipotecas de vivienda.",
+      "hoy": "CNV, organismo descentralizado del Ministerio de Economía",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Obras Públicas, Agua y Vivienda",
+    "estado": "modificado",
+    "rol": "Administra la Cuenta, publica metas y ejecuta obras. Inscribe los proyectos, asigna el cupo fiscal y controla la afectación al alquiler.",
+    "hoy": "Subsecretaría de Obras y Servicios (Secretaría de Obras Públicas, Ministerio de Economía), que absorbió las funciones de la suprimida Subsecretaría de Integración Socio-Urbana (Decreto 146/2026)",
+    "hijos": [
+     {
+      "nombre": "Cuenta de afectación específica",
+      "estado": "nuevo",
+      "rol": "Financia obras paralizadas, agua y cloacas y escrituración. Recibe los recursos del art. 5 de la ley y paga las obras.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Provincias",
+    "estado": "modificado",
+    "rol": "Liquida y percibe el componente mensual y el pago a cuenta donde no lo cobren los municipios.",
+    "hoy": "Direcciones de rentas provinciales (en Córdoba, la Dirección General de Rentas)",
+    "hijos": []
+   },
+   {
+    "nombre": "Entidad financiera pública",
+    "estado": "modificado",
+    "rol": "Administra el Fondo, otorga y ejecuta garantías y publica el estado trimestral.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Fondo de Garantía para la Primera Vivienda",
+      "estado": "nuevo",
+      "rol": "Garantiza parte del capital de créditos para primera vivienda.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Administra la Cuenta, releva y reactiva o relicita las obras paralizadas, publica metas e informes.",
+    "hoy": "Subsecretaría de Obras y Servicios (Secretaría de Obras Públicas, Ministerio de Economía), que absorbió las funciones de la ex Subsecretaría de Integración Socio-Urbana (Decreto 146/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Gobiernos municipales",
+    "estado": "existente",
+    "rol": "Informan zonificación y factibilidad de servicios; pueden convenir el loteo con servicios.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Dicta las normas de aplicación de la cláusula para las entidades financieras."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Controla el Fondo."
+  },
+  {
+   "nombre": "Jurisdicciones provinciales",
+   "rol": "Aportan y ejecutan por convenio."
+  },
+  {
+   "nombre": "Catastro provincial",
+   "rol": "Publica los mapas de valores del suelo, determina la base, la revalúa en cada transmisión y resuelve las impugnaciones técnicas."
+  },
+  {
+   "nombre": "Municipios",
+   "rol": "Cobran el componente mensual por ordenanza donde la ley provincial lo habilite."
+  },
+  {
+   "nombre": "Área municipal de planeamiento urbano",
+   "rol": "Delimita las áreas, aprueba los permisos en plazo y publica los resultados."
+  },
+  {
+   "nombre": "Prestadores de servicios públicos",
+   "rol": "Certifican la capacidad de las redes en las áreas de densificación."
+  }
+ ]
+}

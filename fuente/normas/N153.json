@@ -1,0 +1,99 @@
+{
+ "id": "N153",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de Presupuestos Mínimos de Protección Ambiental de los Humedales",
+ "sumilla": "Designa la autoridad nacional, fija el procedimiento y los plazos de la metodología y del plan de trabajo del Inventario con cada provincia, la guía de ordenamiento por zonas acordada en el COFEMA, la participación de los productores, la intervención de Agricultura, la definición de alteración sustancial y la plataforma de datos abiertos.",
+ "cuando": "Fase II (dentro de los 90 días de publicada la ley «Ley de presupuestos mínimos de protección ambiental de los humedales»)",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica: decreto reglamentario (art. 99, inc. 2, CN).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° [—] de Presupuestos Mínimos de Protección Ambiental de los Humedales, la Ley General del Ambiente N° 25.675, la Ley N° 23.919, la Ley de Ministerios N° 22.520 (t.o. Decreto N° 438/92) y sus modificatorias, y",
+ "considerando": [
+  "Que la Ley N° [—] estableció los presupuestos mínimos de protección ambiental de los humedales, ordenó terminar el Inventario Nacional de Humedales dentro de los veinticuatro meses y dispuso que cada provincia ordene sus humedales por zonas, con participación de los productores y de las comunidades.",
+  "Que corresponde designar la autoridad nacional de aplicación, fijar el procedimiento para acordar la metodología del Inventario en el Consejo Federal de Medio Ambiente y los planes de trabajo con cada provincia, y precisar la participación de los productores y la intervención de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía en lo relativo a los usos productivos.",
+  "Que, para dar certeza a los productores durante el régimen transitorio, corresponde precisar qué se entiende por alteración sustancial del régimen hídrico.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que el presente se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad nacional de aplicación (art. 17)",
+     "texto": "Desígnase autoridad nacional de aplicación de la Ley N° [—] de Presupuestos Mínimos de Protección Ambiental de los Humedales (en adelante, «la Ley») a la JEFATURA DE GABINETE DE MINISTROS, que la ejercerá por intermedio de la SECRETARÍA DE AMBIENTE."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Metodología del Inventario (art. 6°)",
+     "texto": "Dentro de los CIENTO VEINTE (120) días de la entrada en vigencia del presente decreto, la autoridad nacional someterá al Consejo Federal de Medio Ambiente la metodología del Inventario Nacional de Humedales, que comprenderá tres niveles de detalle —regiones, sistemas y unidades de humedales—, con las escalas, los criterios de delimitación, las variables a relevar en cada nivel y el formato común de la información."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Plan de trabajo",
+     "texto": "Dentro de los SESENTA (60) días de acordada la metodología, la autoridad nacional acordará con cada provincia un plan de trabajo para terminar el Inventario en su territorio dentro del plazo del artículo 6° de la Ley, con las tareas a cargo de cada parte y un cronograma trimestral. El avance se publicará cada TRES (3) meses."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cooperación científica (art. 8°)",
+     "texto": "La autoridad nacional celebrará convenios con los organismos científicos y técnicos nacionales, incluidos el INSTITUTO NACIONAL DE TECNOLOGÍA AGROPECUARIA (INTA) y la COMISIÓN NACIONAL DE ACTIVIDADES ESPACIALES (CONAE), y con universidades, para el relevamiento, el procesamiento de imágenes satelitales y la validación de campo."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Guía para el ordenamiento (arts. 11 y 12)",
+     "texto": "Dentro de los CIENTO OCHENTA (180) días, la autoridad nacional someterá al Consejo Federal de Medio Ambiente una guía técnica para el ordenamiento por zonas, que desarrollará los criterios del artículo 12 de la Ley, ejemplos de condiciones de manejo para cada categoría y tipo de humedal, y el contenido mínimo de la norma provincial de aprobación."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Intervención de la Secretaría de Agricultura, Ganadería y Pesca",
+     "texto": "La SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA del MINISTERIO DE ECONOMÍA intervendrá en la elaboración de la metodología y de la guía en lo relativo a los usos productivos, y propondrá prácticas de manejo productivo compatibles con cada categoría."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Participación de los productores (art. 13)",
+     "texto": "Las mesas de trabajo por zona se integrarán con representantes de los productores y de sus entidades, de los municipios y de las comunidades locales. La consulta pública previa a la aprobación de cada ordenamiento durará al menos TREINTA (30) días, y la autoridad local responderá en forma fundada las observaciones recibidas y publicará sus respuestas. La autoridad nacional ofrecerá a las provincias asistencia para organizar las mesas."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Planes de adecuación (art. 14)",
+     "texto": "La autoridad nacional, con la SECRETARÍA DE AGRICULTURA, GANADERÍA Y PESCA, publicará una guía de buenas prácticas para los planes de adecuación de los usos existentes y prestará asistencia técnica a las provincias que la soliciten."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Alteraciones sustanciales (art. 15)",
+     "texto": "A los fines del régimen transitorio, son alteraciones sustanciales del régimen hídrico los rellenos, terraplenes, endicamientos, drenajes y canalizaciones que modifiquen en forma permanente el escurrimiento, la permanencia o la extensión del agua en un humedal inventariado. No lo son las labores agrícolas y ganaderas habituales ni el mantenimiento de obras existentes."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Humedales interjurisdiccionales (art. 16)",
+     "texto": "La autoridad nacional propondrá en el Consejo Federal de Medio Ambiente y en los comités por cuenca que correspondan un procedimiento para compatibilizar los ordenamientos de humedales compartidos, que se aplicará antes de la aprobación de cada ordenamiento provincial."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Plataforma de información (art. 19)",
+     "texto": "La plataforma de datos abiertos funcionará dentro de los DOCE (12) meses y se actualizará con cada avance del Inventario, cada ordenamiento aprobado y la información satelital disponible."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Informe anual (art. 20)",
+     "texto": "El informe anual se remitirá al Congreso de la Nación antes del 30 de junio de cada año y se publicará el mismo día."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 14,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

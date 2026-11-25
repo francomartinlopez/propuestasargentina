@@ -1,0 +1,90 @@
+{
+ "id": "N252",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de adhesión a la Ley de Uso de la Fuerza de las Fuerzas Federales",
+ "sumilla": "Cada legislatura adhiere a los principios y reglas de empleo de la fuerza, cámaras corporales, registros e información pública de la ley «Ley de Uso de la Fuerza de las Fuerzas Federales» para su policía y su servicio penitenciario, crea un órgano provincial de asuntos internos fuera de la cadena de mando y ratifica el Acuerdo Federal de Uso de la Fuerza.",
+ "cuando": "Fase II (años 2-3): después de la firma del acuerdo «Acuerdo Federal de Uso de la Fuerza» (cláusula segunda: proyecto a la Legislatura en 90 días).",
+ "cuando_breve": "Fase II",
+ "tramite": "Según la constitución de cada provincia; mayoría simple salvo que la constitución local exija otra para ratificar convenios.",
+ "motivos": "El empleo de la fuerza por la policía y el servicio penitenciario de la Provincia afecta derechos fundamentales y la seguridad de los propios agentes, y requiere reglas estables, conocidas y fijadas por ley. La Ley nacional de Uso de la Fuerza de las Fuerzas Federales adoptó los Principios Básicos de las Naciones Unidas sobre el Empleo de la Fuerza y de Armas de Fuego, hizo obligatorias las cámaras corporales con grabación inalterable y creó registros de detenciones, de empleo de armas y de denuncias, e invitó a las provincias a adherir. La Provincia suscribió con el Estado nacional el Acuerdo Federal de Uso de la Fuerza, por el que se comprometió a adoptar esos estándares. El presente proyecto ratifica ese Acuerdo y adhiere a las reglas de la ley nacional que pueden aplicarse a las fuerzas provinciales: los principios para el empleo de la fuerza y de las armas de fuego, las cámaras corporales, los registros y la información pública. Como la oficina de asuntos internos creada por la ley nacional es federal, el proyecto crea un órgano provincial fuera de la cadena de mando, con facultades de investigación propias. A la vez, asegura a los agentes capacitación, equipamiento y asistencia legal cuando actúan dentro de la ley.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Ratificación",
+     "texto": "Ratifícase el Acuerdo Federal de Uso de la Fuerza suscripto el [fecha] entre el Estado nacional y la Provincia, cuya copia autenticada forma parte de la presente ley como Anexo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Adhesión",
+     "texto": "Adhiérese la Provincia de [Provincia] a los Capítulos II, III y V de la Ley nacional N° [—] de Uso de la Fuerza de las Fuerzas Federales, que se aplicarán a la policía de la Provincia y, fuera de los establecimientos penitenciarios, al servicio penitenciario provincial. Las referencias de esos capítulos a la autoridad de aplicación y a la Oficina de Asuntos Internos se entenderán hechas a la autoridad de aplicación de la presente ley y al órgano creado por su artículo 4°."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Servicio penitenciario",
+     "texto": "Dentro de los establecimientos penitenciarios, el empleo de la fuerza por el personal del servicio penitenciario provincial se rige por el régimen que apruebe la autoridad de aplicación, que deberá ajustarse a los principios y reglas del Capítulo II de la ley nacional."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Órgano de asuntos internos",
+     "texto": "Créase la [Dirección/Oficina] Provincial de Asuntos Internos en el ámbito de la autoridad de aplicación, fuera de la cadena de mando de la policía y del servicio penitenciario provinciales, con dependencia directa del titular de la autoridad de aplicación. Su titular será designado previo procedimiento público de selección y no podrá haber revistado en esas fuerzas durante los cinco (5) años anteriores."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Competencia y facultades",
+     "texto": "El órgano de asuntos internos investigará todo empleo de armas de fuego y todo empleo de la fuerza del que resulten lesiones graves o la muerte de una persona, las denuncias por abuso de autoridad, violencia institucional, tortura o tratos crueles, y los hechos de corrupción atribuidos a agentes. Podrá requerir informes, acceder a las grabaciones y a los registros, recibir declaraciones, inspeccionar dependencias sin aviso previo e instruir sumarios, y denunciará de inmediato al ministerio público los hechos que puedan constituir delito."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Puesta en funcionamiento",
+     "texto": "El órgano de asuntos internos deberá encontrarse en funcionamiento dentro de los ciento ochenta (180) días de la publicación de la presente ley. Las áreas de asuntos internos existentes en la policía y en el servicio penitenciario provinciales pasan a depender de él, con su personal, bienes y créditos."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cámaras corporales",
+     "texto": "La totalidad de las patrullas de la policía provincial deberá contar con cámaras corporales dentro de los tres (3) años de la publicación de la presente ley, conforme el cronograma que apruebe la autoridad de aplicación."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Registro de denuncias",
+     "texto": "La autoridad de aplicación celebrará con el Comité Nacional para la Prevención de la Tortura el convenio para coordinar el registro provincial de denuncias por abuso y violencia institucional."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación de la presente ley el [Ministerio de seguridad provincial] o el organismo que lo sustituya."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Normas que se oponen",
+     "texto": "Quedan modificadas, en lo que se opongan a la presente, la [ley orgánica de la policía provincial] y la [ley del servicio penitenciario provincial], y sin efecto las normas reglamentarias e internas contrarias a ella."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la presente ley se atenderán con los créditos asignados a la autoridad de aplicación en el presupuesto provincial. Si no hubiera créditos suficientes para la adquisición de cámaras corporales, se atenderán con la ley de presupuesto del ejercicio siguiente, y entretanto la obligación de uso rige respecto de las cámaras disponibles."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia a los noventa (90) días de su publicación en el Boletín Oficial de la Provincia."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "[Ley orgánica de la policía provincial y ley del servicio penitenciario provincial]: en lo que se opongan (art. 10)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

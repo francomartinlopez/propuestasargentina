@@ -1,0 +1,102 @@
+{
+ "id": "N430",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de incentivos sanos en el Estado: sin pagos atados a juicios, multas ni recaudación bruta",
+ "sumilla": "Los honorarios que pagan quienes pierden un juicio contra el Estado ingresan al Tesoro y no a los abogados del Estado; la cuenta de jerarquización de ARCA se reemplaza por un sueldo fijo y una bonificación por metas que no dependen de la recaudación bruta; ningún organismo puede financiarse ni pagar premios con sus propias multas, y se releva y elimina todo otro régimen de pagos atados a juicios, multas o aranceles.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "Un funcionario debe ganar por hacer bien su trabajo, no por cuánto le cobra a la gente. Hoy los abogados de ARCA estiman y cobran sus propios honorarios sobre lo que reclaman en las ejecuciones fiscales, de modo que ganan más cuanto más grande es el reclamo y cuanto más avanza el juicio. Una auditoría interna de 2024 encontró que casi una de cada cinco ejecuciones pendientes debía darse de baja. Al mismo tiempo, la cuenta de jerarquización reparte un porcentaje de la recaudación bruta entre el personal, aunque la mayor parte de lo que se recauda no depende de su trabajo sino de la economía y de la inflación. El presente proyecto mantiene el estímulo al buen desempeño, pero lo ata a resultados que sí dependen de cada agente: cobrar bien, depurar los juicios que no corresponden, no demandar por error, atender a tiempo. Lo que el deudor paga en costas va al Tesoro; quien hoy cobra esos pagos no pierde ingresos de un día para el otro, porque el promedio de lo percibido se incorpora al sueldo.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Honorarios de los abogados del Estado",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Destino de los honorarios",
+     "texto": "Los honorarios que se regulen o estimen a cargo de la parte vencida en los juicios en que intervengan como representantes o patrocinantes del Estado nacional, de sus organismos descentralizados y de ARCA abogados que perciben una remuneración del Estado ingresan en su totalidad al Tesoro nacional. Esos abogados no perciben honorarios por su actuación, sin perjuicio de la bonificación del artículo 3°."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Regulación judicial",
+     "texto": "En las ejecuciones fiscales los honorarios serán regulados por el juez. Queda sin efecto la estimación administrativa de honorarios por el propio agente fiscal. Modíficase en ese sentido el régimen de honorarios de las ejecuciones fiscales de la Ley N° 11.683 (texto ordenado en 1998 y sus modificatorias)."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Bonificación por desempeño",
+     "texto": "Los abogados del artículo 1° podrán percibir una bonificación anual, con cargo al presupuesto del organismo y con un tope del treinta por ciento (30 %) de su remuneración, según metas públicas fijadas al inicio de cada año: el recupero neto de las deudas a su cargo, la proporción de causas depuradas, la ausencia de demandas iniciadas por deudas pagadas, prescriptas o improcedentes y el cumplimiento de plazos. El monto reclamado o embargado no será indicador de desempeño."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Intimación previa",
+     "texto": "Antes de iniciar una ejecución fiscal contra una persona humana, una micro o pequeña empresa o una entidad sin fines de lucro, ARCA verificará los pagos registrados e intimará por el domicilio fiscal electrónico, ofreciendo un plan de facilidades de pago. No se trabarán embargos sobre cuentas sueldo, cuentas previsionales ni los fondos necesarios para pagar los salarios del mes."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Remuneración del personal de ARCA",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Fin de la cuenta de jerarquización",
+     "texto": "Derógase el artículo 16 del Decreto N° 1399/2001 y toda otra norma que asigne al personal de ARCA una participación en la recaudación. El promedio mensual percibido por cada agente por ese concepto en los doce (12) meses anteriores a la vigencia de la presente ley se incorpora a su remuneración como suma fija, actualizable con la pauta salarial general."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Bonificación por metas",
+     "texto": "El convenio colectivo de ARCA establecerá una bonificación por metas, con un tope del veinte por ciento (20 %) de la remuneración, basada en indicadores que dependan de la gestión del organismo: la reducción de la brecha de evasión estimada, el cumplimiento voluntario en término, los plazos de atención y de devolución, los reclamos resueltos y los fallos adversos evitables. La recaudación bruta no será indicador. Los indicadores y su resultado se publican cada año."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Multas y aranceles",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Multas al Tesoro",
+     "texto": "Lo que recauden los organismos del Sector Público Nacional por multas y sanciones ingresa a Rentas Generales. Ningún organismo podrá financiar su presupuesto, remuneraciones, premios ni bonificaciones con esos fondos."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Prohibición de porcentajes",
+     "texto": "Queda prohibido pagar a funcionarios, agentes, concesionarios o contratistas un porcentaje de las multas que se apliquen o de los aranceles que se cobren por servicios públicos registrales o de control. Los contratos vigentes que lo prevean se adecuarán a una retribución fija por servicio prestado al vencimiento de su plazo o dentro de los dos (2) años, lo que ocurra primero."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Provincias y municipios",
+     "texto": "Invítase a las provincias, a la Ciudad Autónoma de Buenos Aires y a los municipios a adherir a los artículos 7° y 8°, en particular respecto de los contratos de control de tránsito que remuneran al contratista con un porcentaje de las multas; a abrir la verificación técnica vehicular a la competencia entre talleres habilitados, sin zonas exclusivas, y a eliminar los cupos de registros notariales, de modo que pueda ejercer la fe pública todo escribano que apruebe el examen de idoneidad."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Relevamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Relevamiento",
+     "texto": "La Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros relevará dentro de los ciento ochenta (180) días todos los regímenes del Sector Público Nacional que paguen a personas una suma atada a recaudación, juicios, multas o aranceles, y publicará la nómina con su base legal, sus beneficiarios por categoría y su costo. Cada régimen se derogará o se convertirá en una bonificación por metas conforme a esta ley dentro del año siguiente."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 11.683 (t.o. 1998), régimen de honorarios de las ejecuciones fiscales"
+ ],
+ "deroga": [
+  "Decreto 1399/2001, art. 16 (cuenta de jerarquización)"
+ ],
+ "variantes": null
+}

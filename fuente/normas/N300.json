@@ -1,0 +1,104 @@
+{
+ "id": "N300",
+ "tipo": "acuerdo_federal",
+ "titulo": "Convenio modelo Nación–jurisdicción para los hospitales SAMIC: aporte automático, directores por concurso y contratos de gestión con metas",
+ "sumilla": "Convenio marco que la Nación firma con cada jurisdicción que comparte hospitales SAMIC (la Ciudad Autónoma de Buenos Aires por el Garrahan; la Provincia de Buenos Aires por El Cruce y los demás SAMIC bonaerenses): fija la proporción de aporte de cada parte, descuenta en forma automática el aporte de la jurisdicción de su coparticipación, designa a los directores por concurso, ata la gestión a contratos con metas publicadas y concilia las deudas cruzadas.",
+ "cuando": "Fase I (primer año del mandato)",
+ "cuando_breve": "Fase I",
+ "tramite": "Convenio entre el Estado Nacional y cada jurisdicción. La retención de coparticipación requiere la aprobación de la legislatura local; el convenio se ratifica además por ley nacional (mayoría simple, cámara de origen indistinta).",
+ "motivos": "",
+ "visto": "",
+ "considerando": [
+  "Que en el presente Convenio intervienen el ESTADO NACIONAL, representado por los titulares del Ministerio de Salud y del Ministerio de Economía, y la [JURISDICCIÓN], representada por su [Gobernador / Jefe de Gobierno], en adelante 'las partes'.",
+  "Que los hospitales comprendidos en el Anexo se rigen por la Ley N° 17.102 de Servicios de Atención Médica Integral para la Comunidad (SAMIC), cuyos artículos 3° a 9° continúan vigentes para los hospitales existentes, aunque sus artículos 1° y 2° fueron derogados por el Decreto N° 460/2025.",
+  "Que esos hospitales se financian con aportes de la Nación y de la jurisdicción en proporciones convenidas, y que los atrasos en esos aportes generaron deudas cruzadas que afectan su funcionamiento.",
+  "Que un mecanismo automático de aporte, con el consentimiento expreso de la jurisdicción, da previsibilidad al financiamiento de los hospitales y evita nuevas deudas.",
+  "Que la designación de sus directores por concurso y la gestión por contratos con metas públicas fortalecen a estos hospitales, que siguen siendo públicos."
+ ],
+ "formula": "Por ello, LAS PARTES ACUERDAN:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cláusula primera – Objeto",
+     "texto": "El presente Convenio regula el financiamiento, la conducción y la gestión de los hospitales de gestión compartida entre las partes regidos por la Ley N° 17.102 que se enumeran en el Anexo, que continúan siendo hospitales públicos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cláusula segunda – Proporción de aportes",
+     "texto": "Cada parte aporta al presupuesto anual de funcionamiento de cada hospital en la proporción que fija el Anexo. Salvo acuerdo expreso en contrario, se mantienen las proporciones vigentes a la fecha de la firma. El presupuesto anual de cada hospital lo aprueba su Consejo de Administración conforme la Ley N° 17.102, sobre la base del contrato de gestión de la cláusula octava."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cláusula tercera – Calendario de aportes",
+     "texto": "Los aportes de cada parte se ingresan en doce (12) cuotas mensuales iguales, dentro de los primeros diez (10) días hábiles de cada mes, en la cuenta de cada hospital."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cláusula cuarta – Aporte automático de la jurisdicción",
+     "texto": "La [JURISDICCIÓN] presta su consentimiento expreso e irrevocable, mientras rija el presente Convenio, para que el Ministerio de Economía retenga cada mes, de los recursos que le corresponden por el régimen de coparticipación federal de impuestos, el importe de la cuota de su aporte, y lo transfiera a la cuenta de cada hospital dentro de los cinco (5) días hábiles siguientes. La retención procede de pleno derecho, sin necesidad de intimación."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula quinta – Aporte de la Nación",
+     "texto": "El Ministerio de Salud transfiere la cuota del aporte nacional en el plazo de la cláusula tercera, con los créditos que le asigna cada ley de presupuesto para estos hospitales. El atraso de la Nación devenga, a favor del hospital, los intereses que fije el Anexo, y se informa en forma pública."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cláusula sexta – Cambio del régimen de coparticipación",
+     "texto": "Si el régimen de coparticipación federal de impuestos fuera sustituido o modificado, la retención de la cláusula cuarta se aplica sobre los recursos que correspondan a la [JURISDICCIÓN] por el régimen que lo sustituya, en los términos que este prevea."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula séptima – Directores por concurso",
+     "texto": "La máxima autoridad ejecutiva de cada hospital se designa por concurso público y abierto de antecedentes y oposición, con jurado de tres (3) miembros sorteados en acto público del Registro Nacional de Jurados del artículo 8° ter del Anexo de la Ley N° 25.164, en la especialidad de gestión hospitalaria, ninguno de los cuales revistará en el hospital, por un período de cuatro (4) años, con posibilidad de una renovación sujeta a la evaluación del contrato de gestión. Las bases, los antecedentes de los postulantes, el dictamen y el orden de mérito se publican. El Consejo de Administración del hospital designa a quien encabece el orden de mérito; ninguna de las partes podrá elegir entre los postulantes aprobados ni apartarse de ese orden."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cláusula octava – Contrato de gestión",
+     "texto": "Cada hospital suscribe con las partes, dentro de los ciento ochenta (180) días de la firma, un contrato de gestión plurianual con metas anuales verificables, al menos sobre: a) producción de consultas, egresos, cirugías y estudios; b) tiempos de espera por práctica; c) cobertura de los cupos de residencias; d) indicadores de calidad y seguridad del paciente; e) ejecución presupuestaria y recupero de costos de pacientes con cobertura; y f) actividades de referencia y telemedicina con hospitales del interior. El contrato y sus resultados anuales se publican."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cláusula novena – Conciliación de deudas",
+     "texto": "Dentro de los ciento veinte (120) días de la firma, la Comisión de Seguimiento concilia los aportes adeudados por cada parte a la fecha de la firma. El saldo neto que resulte a cargo de la [JURISDICCIÓN] se cancela en cuotas mediante el mecanismo de la cláusula cuarta, y el que resulte a cargo de la Nación, con los créditos de la ley de presupuesto del ejercicio siguiente, en el plazo que fije la Comisión."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cláusula décima – Comisión de Seguimiento",
+     "texto": "Créase una Comisión de Seguimiento integrada por dos (2) representantes de cada parte, que aprueba los contratos de gestión, evalúa su cumplimiento cada año, verifica el ingreso de los aportes y publica sus actas e informes."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Cláusula undécima – Transparencia",
+     "texto": "Cada hospital publica en su sitio oficial su presupuesto, los aportes recibidos de cada parte con su fecha, sus compras y contrataciones, y el informe anual de cumplimiento del contrato de gestión."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cláusula duodécima – Vigencia",
+     "texto": "El presente Convenio rige desde su ratificación por ambas partes y por cinco (5) años, y se renueva automáticamente por períodos iguales, salvo denuncia con una anticipación no menor de un (1) año. Sustituye, en lo que se le oponga, a los convenios anteriores entre las partes sobre los mismos hospitales."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Cláusula decimotercera – Controversias",
+     "texto": "Las partes resuelven de común acuerdo las controversias sobre la interpretación o la ejecución de este Convenio y, en su defecto, quedan sometidas a la competencia originaria de la Corte Suprema de Justicia de la Nación."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Cláusula decimocuarta – Ratificación",
+     "texto": "La [JURISDICCIÓN] somete el presente Convenio, y en especial el consentimiento de la cláusula cuarta, a la aprobación de su legislatura. El Poder Ejecutivo nacional lo remite al Congreso de la Nación para su ratificación por ley."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Anexo – Hospitales comprendidos y proporción de aportes",
+     "texto": "[Hospital]: aporte de la Nación [●] %; aporte de la [JURISDICCIÓN] [●] %. Intereses por atraso de cualquiera de las partes: [●]. (Se completa para cada hospital: Hospital de Pediatría Prof. Dr. Juan P. Garrahan, con la Ciudad Autónoma de Buenos Aires; Hospital de Alta Complejidad en Red El Cruce, Hospital Cuenca Alta, Hospital Bicentenario de Esteban Echeverría, Hospital René Favaloro y Hospital Néstor Kirchner de La Matanza, con la Provincia de Buenos Aires, o con la denominación legal vigente de cada uno.)"
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

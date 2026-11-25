@@ -1,0 +1,95 @@
+{
+ "id": "N146",
+ "tipo": "ordenanza_modelo",
+ "titulo": "Ordenanza municipal modelo de plan de ordenamiento territorial y banco de suelo urbanizado",
+ "sumilla": "Modelo para los municipios de las zonas de crecimiento previsible: aprueba el plan de ordenamiento con metas de vivienda y servicios, crea el banco de suelo urbanizado, exige urbanización previa a la ocupación y prepara la aplicación del impuesto al suelo ocioso con un registro público de lotes ociosos.",
+ "cuando": "Fase I (junto con la ley provincial «Ley provincial modelo de aprobación del plan de ordenamiento territorial de una zona de crecimiento previsible» de cada zona)",
+ "cuando_breve": "Fase I",
+ "tramite": "No pasa por el Congreso: modelo que cada Concejo Deliberante sanciona por mayoría simple, o la que exija la ley orgánica municipal para normas de uso del suelo y disposición de inmuebles.",
+ "motivos": "El Municipio de [Municipio] se encuentra en una zona de crecimiento previsible por las inversiones energéticas, mineras o industriales aprobadas o en obra en su entorno. La experiencia de las localidades que crecieron sin plan muestra déficit habitacional, escuelas saturadas, barrios sin agua ni cloacas y una parte importante de los lotes urbanos sin construir, retenidos a la espera de valorización. Para evitarlo, el Municipio acordó con la Provincia y la Nación un plan de ordenamiento territorial con proyección de población y empleo y metas de vivienda y servicios. La presente ordenanza aprueba ese plan en el ámbito municipal, crea un banco de suelo urbanizado para vivienda propia y en alquiler y para equipamientos, exige que el suelo se urbanice antes de ocuparse y crea un registro público de lotes ociosos en el área urbanizada, como base para aplicar el impuesto al suelo ocioso cuando lo habilite la legislación provincial. Con ello, el suelo que hoy se retiene se vuelca a la vivienda, y la valorización que generan las inversiones y las obras públicas contribuye a financiar la urbanización. La ordenanza no crea tributos: remite a la ley provincial en la materia.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Concejo Deliberante de [Municipio] sanciona con fuerza de Ordenanza:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Aprobación del plan",
+     "texto": "Apruébase el Plan de Ordenamiento Territorial de la zona de crecimiento previsible de [Municipio], acordado con la Provincia de [Provincia] y el Estado Nacional, que como Anexo forma parte de la presente Ordenanza, con su proyección de población y empleo, sus áreas de expansión urbana y sus metas de vivienda, propia y en alquiler, escuelas, centros de salud, agua, cloacas y transporte."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Carácter obligatorio y adecuación",
+     "texto": "El Plan es obligatorio para el Municipio. El Departamento Ejecutivo elevará a este Concejo, dentro de los NOVENTA (90) días, la adecuación de las normas de uso y ocupación del suelo al Plan. Hasta su sanción, no se aprobarán loteos ni cambios de uso del suelo contrarios al Plan."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Urbanización previa",
+     "texto": "No se habilitará la ocupación de nuevos loteos sin que cuenten con agua, cloacas o un sistema de saneamiento aprobado, energía, calles y desagües, a cargo del loteador o en el marco de las obras del Plan."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Banco de Suelo Urbanizado",
+     "texto": "Créase el Banco de Suelo Urbanizado de [Municipio], con el objeto de reunir, urbanizar y asignar suelo para vivienda propia y en alquiler, para equipamientos de educación, salud y recreación y para los servicios previstos en el Plan."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Integración del Banco",
+     "texto": "Integran el Banco de Suelo Urbanizado: a) los inmuebles municipales aptos que el Departamento Ejecutivo afecte; b) las cesiones de suelo de los nuevos loteos, en la proporción del [DIEZ POR CIENTO (10 %), valor sugerido: cada Municipio fija el suyo] de la superficie vendible, además de las cesiones para calles y espacios verdes; c) las tierras fiscales que aporte la Provincia; d) los inmuebles que adquiera o reciba en donación; y e) el suelo y las obras que aporten los inversores de la zona como contrapartida."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Destino y asignación",
+     "texto": "El suelo del Banco solo podrá destinarse a los fines del Plan y no podrá venderse ni cederse para otros fines. Los lotes para vivienda se adjudicarán por sorteo o concurso público entre los inscriptos que cumplan los requisitos que fije la reglamentación, con prioridad para los residentes de la zona; los destinados a vivienda en alquiler o a desarrolladores, por licitación pública con precio o alquiler máximo."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Registro público del Banco",
+     "texto": "El Departamento Ejecutivo llevará un registro público y actualizado de los inmuebles del Banco, su estado de urbanización, su destino y sus adjudicatarios."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Registro de lotes ociosos",
+     "texto": "Créase el Registro Público de Lotes Ociosos, en el que se inscribirán los inmuebles baldíos o sin edificación significativa ubicados en el área urbanizada que defina el Plan, con su titular, superficie y valuación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Impuesto al suelo ocioso",
+     "texto": "El Municipio aplicará sobre los lotes ociosos el impuesto o componente sobre el valor del suelo en las condiciones y desde la fecha en que lo habilite la legislación provincial. Lo que perciba por ese concepto se afectará a la urbanización del suelo y al Banco de Suelo Urbanizado."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Inversiones y contrapartidas",
+     "texto": "El Departamento Ejecutivo propondrá a la Provincia que las obras del Plan integren el catálogo público de obras de contrapartida de las grandes inversiones de la zona, y podrá celebrar convenios con los inversores para el aporte de suelo, obras y servicios."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Publicidad e informe",
+     "texto": "El Departamento Ejecutivo publicará en el sitio oficial del Municipio el Plan, sus metas y su avance, el registro del Banco y el Registro de Lotes Ociosos, y elevará a este Concejo un informe anual de cumplimiento de las metas."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Reglamentación",
+     "texto": "El Departamento Ejecutivo reglamentará la presente Ordenanza dentro de los NOVENTA (90) días de su promulgación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Vigencia",
+     "texto": "La presente Ordenanza entrará en vigencia el día siguiente al de su publicación."
+    },
+    {
+     "n": 14,
+     "epigrafe": "",
+     "texto": "Comuníquese al Departamento Ejecutivo, publíquese, regístrese y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Código de planeamiento o normas de uso del suelo de [Municipio] (se adecuan al plan)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

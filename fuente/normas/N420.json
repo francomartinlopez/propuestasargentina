@@ -1,0 +1,98 @@
+{
+ "id": "N420",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de establecimientos especializados del Régimen Penal Juvenil",
+ "sumilla": "Dispone que ninguna pena privativa de la libertad del Régimen Penal Juvenil de la Ley 27.801 puede ejecutarse fuera de un establecimiento especializado, nuevo, habilitado y auditado, orientado a la educación, el trabajo y la reinserción; mientras no lo haya, el juez aplica medidas alternativas. Crea el plan de construcción de centros regionales con las provincias.",
+ "cuando": "Fase I · año 1 (ley y plan); centros regionales construidos en las Fases II y III",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "La Ley N° 27.801 creó un nuevo Régimen Penal Juvenil, vigente desde el 5 de septiembre de 2026, que alcanza a adolescentes desde los 14 años y prohíbe que compartan establecimientos con adultos. Una pena privativa de la libertad para un adolescente solo tiene sentido si su ejecución lo educa, lo forma para trabajar y lo prepara para volver a su comunidad; si se cumple en un lugar inadecuado, el resultado es el contrario. El presente proyecto establece que esas penas solo pueden cumplirse en establecimientos especializados, nuevos y preparados para ese fin, habilitados por un organismo técnico y auditados cada año; mientras no existan en la jurisdicción, el juez debe aplicar las medidas alternativas que la propia ley prevé. Y organiza con las provincias la construcción de centros regionales para que esa condición se cumpla en todo el país.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Principio",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece las condiciones de los establecimientos en los que se ejecutan las penas y medidas privativas de la libertad del Régimen Penal Juvenil de la Ley N° 27.801, y el plan para construirlos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Condición de ejecución",
+     "texto": "Ninguna pena ni medida privativa de la libertad impuesta en el Régimen Penal Juvenil podrá ejecutarse fuera de un establecimiento especializado habilitado conforme la presente ley. Si en la jurisdicción no hubiera un establecimiento habilitado con plaza disponible, el juez sustituirá la privación de libertad por las medidas alternativas que prevé la Ley N° 27.801, con supervisión y, cuando corresponda, monitoreo electrónico, hasta que la plaza exista."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Establecimientos especializados",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Requisitos",
+     "texto": "Los establecimientos especializados serán construidos o adecuados a ese fin, separados por completo de cualquier establecimiento para adultos, y deberán contar con: a) una capacidad máxima de sesenta (60) plazas, en unidades de convivencia pequeñas; b) escuela con la educación obligatoria completa y formación profesional; c) talleres y espacios de trabajo con certificación de oficios; d) un equipo interdisciplinario de salud, salud mental y acompañamiento familiar; e) espacios para el deporte, la recreación y las visitas; y f) personal seleccionado por concurso y formado en forma específica para la tarea."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Plan individual",
+     "texto": "Cada adolescente tendrá desde su ingreso un plan individual de educación, trabajo y reinserción, revisado cada tres (3) meses por el equipo interdisciplinario e informado al juez de ejecución."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Habilitación y auditoría",
+     "texto": "La habilitación de cada establecimiento estará a cargo de la autoridad de aplicación, previo informe técnico, y será auditada cada año por el Comité Nacional para la Prevención de la Tortura. Un establecimiento que deje de cumplir los requisitos no podrá recibir nuevos ingresos hasta subsanarlos."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Egreso acompañado",
+     "texto": "El egreso se acompaña con un programa de reinserción que incluye la continuidad educativa, la intermediación laboral y, cuando haga falta, alojamiento transitorio."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Plan de centros regionales",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Plan federal",
+     "texto": "La autoridad de aplicación acordará con las provincias y la Ciudad Autónoma de Buenos Aires un plan de construcción de centros regionales especializados, al menos uno por región del país, con su localización, su capacidad y su cronograma, que se publicará."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Financiamiento",
+     "texto": "La Nación financiará la construcción de los centros regionales con los créditos de infraestructura penitenciaria que asigne la ley de presupuesto, y las provincias su operación, conforme los convenios que se celebren. Las provincias podrán convenir con la Nación el uso de los centros regionales para los adolescentes de su jurisdicción."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación de la presente ley es la Secretaría de Justicia del Ministerio de Justicia y Seguridad."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Información pública",
+     "texto": "La autoridad de aplicación publicará cada semestre la cantidad de plazas habilitadas y ocupadas por establecimiento, el avance de las obras y los resultados educativos y de reinserción, sin datos que permitan identificar a ninguna persona."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

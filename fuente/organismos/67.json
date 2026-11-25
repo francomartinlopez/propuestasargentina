@@ -1,0 +1,32 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Presidencia",
+    "estado": "existente",
+    "rol": "Prepara el decreto y sus ampliaciones del temario.",
+    "hoy": "Secretaría Legal y Técnica de la Presidencia de la Nación",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Sesiona en extraordinarias sobre el temario."
+  },
+  {
+   "nombre": "Comisión bicameral de control de decretos",
+   "rol": "Dictamina en 10 días hábiles con control reforzado de materia, bases y plazo; declara la nulidad de los DNU en materias vedadas."
+  },
+  {
+   "nombre": "Servicio Técnico Legislativo",
+   "rol": "Cuerpo técnico permanente por concurso que informa cada proyecto antes de su votación."
+  }
+ ]
+}

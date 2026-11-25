@@ -1,0 +1,150 @@
+{
+ "id": "N352",
+ "tipo": "ley_nacional",
+ "titulo": "Ley del Sistema Nacional de Vigilancia Marítima",
+ "sumilla": "Crea el sistema permanente de vigilancia marítima con un centro unificado de monitoreo en la Prefectura que integra datos de la Armada y de los satélites de la CONAE, y exige identificación y trazabilidad a todo buque que use servicios de puertos argentinos.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La República tiene bajo su jurisdicción uno de los espacios marítimos más extensos del hemisferio sur, ampliado por la plataforma continental cuyo límite exterior fijó la Ley N° 27.557 sobre la base de las recomendaciones que la Comisión de Límites de la Plataforma Continental de las Naciones Unidas emitió en 2016. En el borde exterior de la zona económica exclusiva opera una flota extranjera numerosa que pesca recursos que nacen y se desarrollan en aguas argentinas, con frecuencia sin identificación ni trazabilidad, y parte de sus capturas se descarga en puertos de la región. Vigilar ese espacio exige tecnología y coordinación más que nuevos medios aislados. El país cuenta con el sistema de vigilancia electrónica de la Prefectura Naval Argentina, con satélites de radar propios desarrollados por la Comisión Nacional de Actividades Espaciales y con medios aéreos y navales de la Armada Argentina. El presente proyecto los integra en un Sistema Nacional de Vigilancia Marítima con un centro unificado de monitoreo en la Prefectura, respeta la separación entre defensa nacional y seguridad interior, y exige a todo buque que use puertos argentinos mantener su identificación y acreditar la trazabilidad de su derrotero, en línea con el Acuerdo sobre Medidas del Estado Rector del Puerto aprobado por la Ley N° 27.815. El proyecto fija las fuentes de financiamiento y un plazo de dieciocho meses para la puesta en funcionamiento del centro.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto, ámbito y principios",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley crea el Sistema Nacional de Vigilancia Marítima, de carácter permanente, con el objeto de detectar, identificar y seguir a los buques que naveguen en los espacios marítimos bajo jurisdicción nacional y en sus áreas adyacentes, prevenir la pesca ilegal, no declarada y no reglamentada, y exigir la trazabilidad de todo buque que utilice servicios de puertos argentinos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "El Sistema abarca los espacios marítimos establecidos por la Ley N° 23.968 y la plataforma continental cuyo límite exterior fijó la Ley N° 27.557. Comprende también el monitoreo de las áreas de alta mar adyacentes a la zona económica exclusiva, en la medida en que lo permita el derecho internacional."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por: a) sistema de identificación automática: el equipo que transmite en forma automática la identidad, la posición, el rumbo y la velocidad del buque, conforme las normas de la Organización Marítima Internacional; b) sistema de seguimiento satelital: el equipo de posicionamiento y monitoreo satelital que transmite la posición del buque a la autoridad competente; c) trazabilidad: el registro continuo y verificable de la identidad, la posición y el derrotero del buque; y d) servicios portuarios: el ingreso a puerto, el atraque, el desembarco, el transbordo, el abastecimiento de combustible y víveres, el mantenimiento y la reparación."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Principios de actuación",
+     "texto": "La Prefectura Naval Argentina conserva el ejercicio de la policía de seguridad de la navegación y de la jurisdicción administrativa de la navegación que le asignan los artículos 2° y 4° de la Ley N° 18.398. La Armada Argentina participa del Sistema mediante el aporte de datos y el patrullaje del espacio marítimo, sin ejercer funciones policiales ni de seguridad interior, conforme las Leyes N° 23.554 de Defensa Nacional y N° 24.059 de Seguridad Interior."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Sistema Nacional de Vigilancia Marítima y Centro Unificado de Monitoreo",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Integración del Sistema",
+     "texto": "Integran el Sistema Nacional de Vigilancia Marítima: a) la Prefectura Naval Argentina; b) la Armada Argentina, por intermedio del Ministerio de Defensa; c) la Comisión Nacional de Actividades Espaciales (CONAE); d) la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, autoridad de aplicación de la Ley N° 24.922; e) la Dirección General de Aduanas de la Agencia de Recaudación y Control Aduanero (ARCA); y f) la Agencia Nacional de Puertos y Navegación. Se invitará a integrarlo a las provincias con litoral marítimo y a sus autoridades portuarias."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Centro Unificado de Monitoreo Marítimo",
+     "texto": "Créase el Centro Unificado de Monitoreo Marítimo, que funcionará en el ámbito de la Prefectura Naval Argentina sobre la base del Sistema Integrado de Vigilancia Electrónico del Mar y del Sistema Guardacostas. El Centro integra en una imagen marítima común: a) los datos de los sistemas de identificación automática; b) los datos de los sistemas de seguimiento satelital de la flota pesquera; c) las imágenes de radar y ópticas de los satélites de observación de la Tierra nacionales, incluidas las de las misiones SAOCOM y SABIA-Mar; y d) los datos del patrullaje aéreo y naval de la Armada Argentina y de la Prefectura Naval Argentina."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Funciones del Centro",
+     "texto": "Son funciones del Centro Unificado de Monitoreo Marítimo: a) mantener en tiempo real la imagen marítima común de los espacios del artículo 2°; b) detectar a los buques que naveguen sin transmitir su identificación o con transmisiones inconsistentes; c) alertar a los organismos competentes para la adopción de las medidas que correspondan; d) proponer la coordinación del patrullaje, con prioridad en el borde exterior de la zona económica exclusiva; e) llevar el registro de trazabilidad previsto en el Capítulo III; f) intercambiar información con otros Estados conforme los acuerdos que se celebren; y g) publicar un informe anual con las detecciones, las alertas y las medidas adoptadas, que omita la información reservada."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Aporte de datos",
+     "texto": "Los organismos integrantes del Sistema deben aportar al Centro, en tiempo real y conforme los protocolos que fije la reglamentación, los datos y las imágenes de que dispongan. La CONAE dará prioridad a la programación de adquisiciones de imágenes requeridas por el Centro. La información de la defensa nacional que aporte la Armada Argentina conserva su clasificación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Patrullaje coordinado",
+     "texto": "La Prefectura Naval Argentina y la Armada Argentina aprobarán un plan anual de patrullaje coordinado, aéreo y naval, de los espacios del artículo 2°. Las medidas de policía sobre los buques detectados, incluidas la visita, la inspección y la conducción a puerto, corresponden a la Prefectura Naval Argentina y a las demás autoridades competentes."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Plazo de puesta en funcionamiento",
+     "texto": "El Centro Unificado de Monitoreo Marítimo estará en funcionamiento dentro de los DIECIOCHO (18) meses de la entrada en vigencia de la presente ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Trazabilidad de los buques",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Obligación de trazabilidad",
+     "texto": "Todo buque, cualquiera sea su bandera, que solicite servicios portuarios en un puerto argentino deberá: a) mantener en funcionamiento permanente su sistema de identificación automática mientras navegue en los espacios marítimos bajo jurisdicción nacional; y b) en el caso de los buques pesqueros y de los buques de apoyo a la pesca, incluidos los de transporte de capturas y de abastecimiento, acreditar la trazabilidad de su derrotero durante el período anterior al arribo que fije la reglamentación, mediante los datos de su sistema de identificación automática y de su sistema de seguimiento satelital."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Acreditación y verificación",
+     "texto": "La trazabilidad se acredita al solicitar los servicios portuarios, en la forma que establezca la reglamentación. La Prefectura Naval Argentina la verifica con los datos del Centro Unificado de Monitoreo Marítimo y la registra."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Denegación de servicios portuarios",
+     "texto": "A los buques que no acrediten la trazabilidad exigida en el artículo 11 se les denegarán los servicios portuarios, en particular el desembarco y el transbordo de capturas, salvo en casos de fuerza mayor, de peligro para la vida humana en el mar o de razones humanitarias, o para su inspección por la autoridad competente. La medida se aplicará de conformidad con el Acuerdo sobre Medidas del Estado Rector del Puerto destinadas a prevenir, desalentar y eliminar la pesca ilegal, no declarada y no reglamentada, aprobado por la Ley N° 27.815."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Puertos de cualquier jurisdicción",
+     "texto": "Las obligaciones de este Capítulo rigen en todos los puertos del país, cualquiera sea su titularidad o jurisdicción, en ejercicio de la competencia federal sobre la navegación y el comercio con las naciones extranjeras y entre provincias del artículo 75, inciso 13, de la Constitución Nacional. Las autoridades portuarias y los operadores de los puertos no prestarán servicios portuarios a los buques a los que se hayan denegado."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Modificación de la Ley N° 24.922",
+     "texto": "Sustitúyese el artículo 33 de la Ley N° 24.922 por el siguiente:\n«ARTÍCULO 33.- La Autoridad de Aplicación podrá decidir la instalación de artefactos en los buques para efectuar el seguimiento satelital de los mismos y los armadores pesqueros deberán cuidar y mantener dichos artefactos en perfecto estado de funcionamiento.\nLos buques pesqueros que operen con permiso de pesca en los espacios marítimos bajo jurisdicción nacional deberán llevar instalado y en funcionamiento permanente un equipo de seguimiento satelital. La Autoridad de Aplicación integrará en tiempo real sus datos al Centro Unificado de Monitoreo Marítimo.\nLas infracciones cometidas con respecto a lo dispuesto en este artículo serán sancionadas conforme lo establecido por el artículo 51 de esta ley.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Cooperación internacional",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Acuerdos regionales",
+     "texto": "El Poder Ejecutivo nacional promoverá con la República Oriental del Uruguay, la República Federativa del Brasil y la República de Chile acuerdos para denegar los servicios portuarios a los buques pesqueros sin trazabilidad y para intercambiar la información de sus sistemas de vigilancia marítima. Los acuerdos que impongan obligaciones a la República se someterán a la aprobación del Honorable Congreso de la Nación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 17,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "El Poder Ejecutivo nacional designará la autoridad de aplicación de la presente ley, que será el Ministerio de Justicia y Seguridad, del que depende la Prefectura Naval Argentina. La autoridad de aplicación coordina el Sistema con el Ministerio de Defensa y con los demás organismos integrantes."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la aplicación de la presente ley se atienden con las siguientes fuentes: a) el equipamiento y la operación de los medios de la Armada Argentina afectados al Sistema, con los recursos del Fondo Nacional de la Defensa de la Ley N° 27.565, en los términos de su artículo 2°; b) la puesta en funcionamiento y la operación del Centro Unificado de Monitoreo Marítimo, con la reasignación de los créditos asignados a la Prefectura Naval Argentina en el Presupuesto General de la Administración Nacional para sus sistemas de vigilancia y comunicaciones; y c) la provisión de imágenes satelitales, con los créditos asignados a la CONAE. Los gastos que no puedan atenderse con esas fuentes en el ejercicio en curso se incluirán en el proyecto de presupuesto del ejercicio siguiente, conforme el cronograma del artículo 10."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días corridos de su promulgación."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Vigencia de las obligaciones de trazabilidad",
+     "texto": "Las obligaciones del Capítulo III serán exigibles a partir de los CIENTO OCHENTA (180) días corridos de la publicación de la reglamentación."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.922, art. 33 (sustituye)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

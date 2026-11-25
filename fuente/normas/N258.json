@@ -1,0 +1,151 @@
+{
+ "id": "N258",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley del Ingreso Universal Único",
+ "sumilla": "Reglamenta la ley del IUU: padrón único con protección de datos, monto de cada módulo, liquidación y pago automático a la cuenta del titular, retiro por escalones frente al ingreso formal y ventanilla de reclamo con plazo de respuesta de 30 días.",
+ "cuando": "Fase I · dentro de los 90 días de publicada la ley del IUU («Ley del Ingreso Universal Único», art. 25)",
+ "cuando_breve": "Fase I · dentro de los 90 días de publicada la ley del IUU",
+ "tramite": "Decreto simple del Poder Ejecutivo nacional (art. 99 incs. 1 y 2 CN); reglamentario, no DNU.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° [●] del Ingreso Universal Único, las Leyes N° 24.714, N° 25.326, N° 27.260, N° 27.491, N° 27.611 y N° 27.793, los Decretos N° 1602/2009, N° 84/2026 y N° 198/2024, y",
+ "considerando": [
+  "Que la Ley N° [●] creó el Ingreso Universal Único (IUU), prestación no contributiva que unifica en un solo padrón y una sola liquidación los programas nacionales de transferencia de ingresos enumerados en su artículo 13, y encomendó a la reglamentación el monto de cada módulo, los escalones del retiro gradual y el plazo de respuesta de la ventanilla de reclamo.",
+  "Que la ley designó a la Administración Nacional de la Seguridad Social (ANSES) como autoridad de aplicación, a cargo del padrón único, la liquidación, el pago y los reclamos.",
+  "Que el artículo 17 de esa ley constituye la base legal del tratamiento y de la cesión de datos entre organismos a los efectos de los artículos 5° y 11 de la Ley N° 25.326, con la finalidad exclusiva de determinar el derecho al IUU, liquidarlo y controlarlo, por lo que corresponde fijar las medidas de seguridad y de minimización de datos.",
+  "Que el retiro por escalones debe asegurar que cada aumento del ingreso formal se traduzca siempre en un aumento del ingreso total del hogar, y que la cláusula de no pérdida impide que la migración reduzca, en pesos o en términos reales, lo que cada titular percibe.",
+  "Que el artículo 23 de esa ley prorroga el Programa de Acompañamiento Social, sin nuevas altas, hasta la migración de cada titular al módulo de desempleo de transición.",
+  "Que han tomado intervención los servicios jurídicos competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente decreto reglamenta la Ley N° [●] del Ingreso Universal Único, en adelante «la Ley», en lo relativo al padrón único, el monto de los módulos, la liquidación y el pago, el retiro por escalones y la ventanilla de reclamo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La Administración Nacional de la Seguridad Social (ANSES), en su carácter de autoridad de aplicación conforme el artículo 4° de la Ley, dicta las normas operativas complementarias del presente dentro de los sesenta (60) días de su publicación. El Ministerio de Trabajo y Desarrollo Social es la autoridad colaboradora prevista en ese artículo para la verificación de los controles de salud y escolaridad del módulo por hijo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Padrón único (artículo 18 de la Ley)",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Conformación del padrón",
+     "texto": "La ANSES conforma el padrón único del IUU dentro de los noventa (90) días de la publicación del presente, con los siguientes datos de cada titular y de su grupo familiar: a) identificación y Código Único de Identificación Laboral; b) domicilio y medio de contacto; c) composición del grupo familiar; d) prestaciones que percibe de los programas absorbidos; e) ingresos formales informados por la Agencia de Recaudación y Control Aduanero (ARCA); f) certificación de discapacidad, cuando corresponda, informada por la Secretaría de Discapacidad del Ministerio de Salud; y g) acreditación de controles de salud, vacunación y escolaridad de niñas y niños, informada por el Ministerio de Salud, por las autoridades educativas y por las jurisdicciones que adhieran. No se incorporan al padrón otros datos que los necesarios para determinar el derecho al IUU, liquidarlo y controlarlo."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Convenios con las jurisdicciones",
+     "texto": "La ANSES aprueba un modelo de convenio con las provincias y la Ciudad Autónoma de Buenos Aires para el intercambio de los datos del artículo anterior. El convenio establece la finalidad exclusiva del intercambio, los datos alcanzados, las medidas de seguridad y la prohibición de usar los datos recibidos para otros fines."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Protección de los datos personales",
+     "texto": "El tratamiento y la cesión de datos del padrón se rigen por la Ley N° 25.326, sobre la base legal del artículo 18 de la Ley a los efectos de sus artículos 5° y 11. La ANSES: a) limita el acceso a cada dato según la función del agente y registra cada consulta en forma auditable; b) no cede los datos del padrón a terceros ajenos a la administración del IUU; c) inscribe la base del padrón en el registro de bases de datos públicas, con la información que exige el artículo 22 de la Ley N° 25.326; y d) atiende los derechos de acceso, rectificación y actualización a través de la ventanilla de reclamo del Capítulo V."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Actualización del padrón",
+     "texto": "El padrón se actualiza cada mes con la información de ARCA y de los demás organismos que lo integran. Todo cambio que modifique el monto percibido se comunica a la persona titular antes de su aplicación, con indicación de su causa."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Monto, liquidación y pago (artículos 5°, 10, 11 y 19 de la Ley)",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Monto de los módulos",
+     "texto": "El monto de cada módulo es el siguiente: a) módulo por hijo: la suma de los importes que, conforme las escalas vigentes a la fecha de la migración, correspondan al grupo familiar por la Asignación Universal por Hijo, la Asignación por Embarazo, la Asignación por Cuidado de Salud Integral, la Prestación Alimentar y el complemento de leche del Plan de los 1000 Días; b) módulo de discapacidad: el importe de la Pensión No Contributiva por Discapacidad para Protección Social; c) módulo de desempleo de transición: el importe del Programa de Acompañamiento Social; y d) módulo de mayores sin aportes: el ochenta por ciento (80 %) del haber mínimo garantizado del Sistema Integrado Previsional Argentino. Las escalas así determinadas se aplican también a las altas posteriores a la migración y se actualizan conforme el artículo 11 de la Ley. La ANSES publica cada mes la tabla de montos vigentes."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Liquidación y pago automático",
+     "texto": "El IUU se liquida en forma mensual y de oficio y se paga según un calendario publicado, en una cuenta gratuita a nombre de la persona titular, sin trámite previo ni costo alguno. Las cuentas en las que hoy se perciben los programas absorbidos se mantienen. La titularidad del módulo por hijo se determina conforme las reglas vigentes para la Asignación Universal por Hijo. Cuando la persona titular no tenga cuenta, la ANSES la abre de oficio en una entidad bancaria o de pago."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Acreditación de controles y escolaridad",
+     "texto": "Hasta que la acreditación automática esté disponible en cada jurisdicción, los controles de salud, la vacunación y la escolaridad del módulo por hijo se acreditan conforme el mecanismo vigente de la Asignación Universal por Hijo, incluida la retención parcial que se abona al acreditarlos. La ANSES da por acreditados de oficio los controles y la escolaridad que surjan del Registro Nacional de la Población Vacunada Digital del artículo 16 de la Ley N° 27.491, del registro nominal de niñas y niños de cero a cinco años y del registro de trayectorias escolares. Cuando falte un dato, notifica a la persona titular, que puede acreditarlo por la vía tradicional."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Retiro por escalones (artículo 12 de la Ley)",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Ingreso computable",
+     "texto": "A los fines del retiro por escalones se computa el promedio de los últimos tres (3) meses de los ingresos formales de la persona titular informados por ARCA: remuneraciones del trabajo registrado y rentas del trabajo autónomo o monotributista. En el módulo por hijo se computa el ingreso del grupo familiar conforme las reglas vigentes para la Asignación Universal por Hijo."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Escalones",
+     "texto": "En los módulos de discapacidad, de desempleo de transición y de mayores sin aportes el retiro se aplica así: a) umbral de inicio: un (1) salario mínimo, vital y móvil, o el umbral de compatibilidad del programa de origen si fuera mayor; en el módulo de discapacidad, dos (2) salarios mínimos, vitales y móviles, conforme el artículo 6° de la Ley; b) por cada escalón completo de un cuarto (1/4) de salario mínimo, vital y móvil de ingreso computable por encima del umbral, el módulo se reduce en el doce coma cinco por ciento (12,5 %) de su monto; c) la reducción de cada escalón no puede superar la mitad del ingreso adicional que la motiva, de modo que el ingreso total siempre aumente; y d) el módulo se extingue cuando el ingreso computable supera en dos (2) salarios mínimos, vitales y móviles el umbral de inicio. En el módulo por hijo rigen las reglas de compatibilidad de la Asignación Universal por Hijo, conforme el artículo 12 de la Ley."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Restitución automática",
+     "texto": "Cuando el ingreso computable disminuya, el módulo se restituye de oficio en la liquidación siguiente, en el monto que corresponda a su nuevo escalón, sin trámite de la persona titular."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Módulo de desempleo de transición",
+     "texto": "Hasta la entrada en vigencia del régimen legal de prestaciones por desempleo que lo articule, el módulo de desempleo de transición comprende a las personas migradas desde el Programa de Acompañamiento Social. La ANSES verifica que ninguna persona perciba al mismo tiempo ese módulo y la prestación por desempleo por la misma contingencia. Las personas que perciban el Programa de Acompañamiento Social en virtud de la prórroga del artículo 24 de la Ley se migran de oficio al módulo dentro del segundo tramo, sin interrupción del pago."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Ventanilla de reclamo (artículo 20 de la Ley)",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Ventanilla de reclamo",
+     "texto": "La ANSES habilita la ventanilla de reclamo del IUU en todas sus oficinas de atención y por medios digitales. Cada reclamo recibe un número de seguimiento y se responde en forma fundada dentro de los treinta (30) días corridos de presentado. La respuesta es recurrible conforme el régimen de procedimientos administrativos. Mientras se tramita un reclamo vinculado con la migración, el pago no se interrumpe. La ANSES publica cada trimestre la cantidad de reclamos por motivo, el plazo promedio de respuesta y su resultado."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Migración, información y disposiciones finales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Aviso de migración",
+     "texto": "Con no menos de treinta (30) días de anticipación a la migración de cada programa, la ANSES informa a cada titular el módulo que le corresponde, el monto resultante y, en su caso, el complemento de no pérdida del artículo 14 de la Ley, que se identifica por separado en cada recibo de pago."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Datos abiertos y auditoría",
+     "texto": "Los datos agregados del artículo 21 de la Ley se publican antes del día quince (15) de cada mes con la información del mes anterior. La ANSES pone a disposición de la Autoridad Nacional de Control y Transparencia el acceso a las bases y sistemas necesarios para la auditoría anual del artículo 22 de la Ley."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande el presente se atienden con los créditos de los programas absorbidos, que se reasignan conforme el artículo 23 de la Ley."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entra en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 19,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

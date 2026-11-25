@@ -1,0 +1,78 @@
+{
+ "id": "N407",
+ "tipo": "invitacion",
+ "titulo": "Invitación a la Corte Suprema de Justicia de la Nación y a los tribunales superiores de provincia a organizar juzgados y expediente digital para la insolvencia de personas y pequeñas empresas",
+ "sumilla": "Notas del Poder Ejecutivo que invitan a la Corte Suprema (justicia nacional en lo comercial) y a los tribunales superiores de provincia y de la Ciudad a asignar juzgados o secretarías, tramitar en forma electrónica e interoperable con la plataforma nacional, celebrar audiencias a distancia, aprobar formularios y publicar estadísticas de los procedimientos de «Ley de segunda oportunidad: insolvencia de las personas humanas, concurso preventivo simplificado y prevención del sobreendeudamiento», con un texto modelo de acordada.",
+ "cuando": "Fase I (año 1), con la sanción de «Ley de segunda oportunidad: insolvencia de las personas humanas, concurso preventivo simplificado y prevención del sobreendeudamiento»; los juzgados deben estar asignados al entrar en vigencia la ley (180 días).",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (acordadas de la Corte Suprema y de los tribunales superiores; organización judicial local).",
+ "motivos": "",
+ "visto": "",
+ "considerando": [],
+ "formula": "Por ello, ACORDARON:",
+ "capitulos": [
+  {
+   "titulo": "Notas del Poder Ejecutivo nacional",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Nota a la Corte Suprema de Justicia de la Nación",
+     "texto": "Buenos Aires, [fecha].\nAl señor Presidente de la Corte Suprema de Justicia de la Nación\nS/D\nTengo el agrado de dirigirme a V.E. a fin de proponer a esa Corte, con pleno respeto de su independencia y de sus atribuciones, la adopción de medidas de organización para que los procedimientos de la Ley N° [—] de segunda oportunidad y el concurso preventivo simplificado de los artículos 288 a 289 quater de la Ley N° 24.522 tramiten con rapidez en la justicia nacional en lo comercial.\nLa ley crea una conciliación extrajudicial gratuita y digital para las personas humanas sobreendeudadas, cuyo resultado se homologa judicialmente, y un procedimiento judicial con plazos breves para los casos sin acuerdo. Su eficacia depende de que la homologación y el control de los planes se resuelvan en días, con expediente electrónico y comunicación directa con la plataforma que administra el Poder Ejecutivo nacional.\nSe acompaña, como anexo, un texto modelo de acordada que esa Corte podrá considerar, adaptar o desestimar, con intervención de la Cámara Nacional de Apelaciones en lo Comercial y del Consejo de la Magistratura en lo que corresponda a sus competencias. El Poder Ejecutivo nacional ofrece la interoperabilidad de la plataforma, sin costo para el Poder Judicial, y la capacitación de su personal.\nSaludo a V.E. con distinguida consideración."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Nota a los tribunales superiores de provincia y de la Ciudad Autónoma de Buenos Aires",
+     "texto": "Buenos Aires, [fecha].\nAl señor Presidente del [Superior Tribunal de Justicia / Corte Suprema de Justicia] de la Provincia de [Provincia]\nS/D\nTengo el agrado de dirigirme a V.E., con pleno respeto de la autonomía provincial y de la independencia judicial, para invitar a ese Tribunal, en el marco del artículo 31 de la Ley N° [—] de segunda oportunidad, a asignar juzgados o secretarías a los procedimientos de insolvencia de las personas humanas y al concurso preventivo simplificado, y a integrar su expediente electrónico con la plataforma nacional de conciliación. Se acompaña como referencia el mismo texto modelo de acordada propuesto a la Corte Suprema de Justicia de la Nación. Copia de la presente se remite a la Junta Federal de Cortes y Superiores Tribunales de Justicia de las Provincias Argentinas y Ciudad Autónoma de Buenos Aires.\nSaludo a V.E. con distinguida consideración."
+    }
+   ]
+  },
+  {
+   "titulo": "Anexo – Texto modelo de acordada",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Encabezamiento y considerandos",
+     "texto": "ACORDADA N° [—]/[año]. En [ciudad], a los [—] días del mes de [—] del año [—], los señores Ministros que suscriben la presente,\nCONSIDERARON:\nI) Que la Ley N° [—] de segunda oportunidad creó un régimen de insolvencia de las personas humanas sobreendeudadas, con conciliación extrajudicial, homologación judicial de los planes y un procedimiento judicial con plazos breves, y estableció un concurso preventivo simplificado para las micro y pequeñas empresas, de trámite electrónico.\nII) Que la Ley N° 26.685 autorizó la utilización de expedientes, documentos, firmas, comunicaciones y domicilios electrónicos en los procesos judiciales.\nIII) Que la eficacia de esos procedimientos exige que se resuelvan en los plazos de la ley, con expediente electrónico y comunicación directa con la plataforma nacional de conciliación.\nPor ello, ACORDARON:"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Punto 1°",
+     "texto": "Asignar a [los juzgados / las secretarías] que determine [la Cámara de Apelaciones con competencia comercial / este Tribunal], según la carga de trabajo de cada circunscripción, la tramitación de los procedimientos de la Ley N° [—] de segunda oportunidad y de los concursos preventivos simplificados."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Punto 2°",
+     "texto": "Disponer que esos procedimientos tramiten íntegramente en forma electrónica, que las remisiones de la plataforma nacional de conciliación se reciban por interoperabilidad con el sistema de gestión de causas y que las resoluciones de homologación, apertura, incumplimiento y liberación se comuniquen a la plataforma en forma automática."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Punto 3°",
+     "texto": "Disponer que las audiencias de esos procedimientos puedan celebrarse a distancia y que la persona deudora pueda actuar sin patrocinio letrado en la homologación del plan acordado, sin perjuicio de su derecho a la asistencia de la defensa pública."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Punto 4°",
+     "texto": "Aprobar formularios y modelos de resolución para la homologación del plan acordado, la apertura del procedimiento judicial, el plan judicial, la liberación y la petición del concurso preventivo simplificado."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Punto 5°",
+     "texto": "Publicar cada trimestre, por juzgado y en formato abierto, la cantidad de procedimientos ingresados, homologados, con plan judicial, liquidados y con liberación, y la duración de cada etapa."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Punto 6°",
+     "texto": "Disponer la capacitación de magistrados y funcionarios, en coordinación con la Secretaría de Justicia del Ministerio de Justicia y Seguridad, autoridad de aplicación de la Ley N° [—] de segunda oportunidad, que la ofrece sin costo."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Punto 7°",
+     "texto": "La presente regirá desde la entrada en vigencia de la Ley N° [—] de segunda oportunidad. Todo lo cual dispusieron y mandaron, ordenando que se comunique y se registre."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

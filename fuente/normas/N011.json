@@ -1,0 +1,59 @@
+{
+ "id": "N011",
+ "tipo": "resolucion",
+ "titulo": "Comunicación modelo del BCRA: canasta de monedas aceptadas para el pago de tributos y obligaciones con el Estado nacional",
+ "sumilla": "Define la canasta de monedas del art. 7 de la ley «Ley de libertad de moneda y de indexación en los contratos y de fecha máxima de unificación cambiaria» (peso, dólar estadounidense y euro, con criterios públicos para sumar otras), publica cada día hábil su tipo de cambio de referencia, la revisa una vez por año y obliga a las entidades a cursar en esas monedas los pagos de tributos.",
+ "cuando": "Fase II: al comenzar el año 3, en la fecha de apertura del tramo transitorio, cuando entra en vigencia el Capítulo III de «Ley de libertad de moneda y de indexación en los contratos y de fecha máxima de unificación cambiaria» (art. 13).",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (Comunicación «A» del BCRA, dictada por su Directorio).",
+ "motivos": null,
+ "visto": "La Carta Orgánica del Banco Central de la República Argentina, Ley N° 24.144 y sus modificatorias, los artículos 7°, 8° y 13 de la Ley N° [—] de libertad de moneda y de indexación en los contratos, los artículos 765 y 766 del Código Civil y Comercial de la Nación, y",
+ "considerando": [
+  "Que el artículo 7° de la Ley N° [—] encomienda a esta Institución definir y publicar la canasta de monedas aceptadas para el pago de los tributos nacionales y de las demás obligaciones de dar dinero con el Sector Público Nacional, y publicar cada día hábil el tipo de cambio de referencia de cada moneda.",
+  "Que la ley exige que las monedas de la canasta sean de libre convertibilidad, coticen en el mercado local y puedan depositarse en cuentas en las entidades financieras del país.",
+  "Que el dólar estadounidense y el euro reúnen esas condiciones y concentran la mayor parte de los depósitos en moneda extranjera y de las operaciones con el exterior.",
+  "Que la canasta no altera la moneda que las partes pacten en sus obligaciones, que se rigen por los artículos 765 y 766 del Código Civil y Comercial de la Nación.",
+  "Que la presente se dicta en uso de las facultades conferidas por la Carta Orgánica del Banco Central de la República Argentina, Ley N° 24.144 y sus modificatorias."
+ ],
+ "formula": "A LAS ENTIDADES FINANCIERAS, A LAS CASAS DE CAMBIO: Nos dirigimos a Uds. para comunicarles que esta Institución adoptó la siguiente resolución:",
+ "capitulos": [
+  {
+   "titulo": "Comunicación «A» […] – Ref.: Circular CAMEX 1-[…] / OPASI 2-[…]. Canasta de monedas de la Ley N° [—].",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Punto 1 – Composición",
+     "texto": "Establecer que la canasta de monedas del artículo 7° de la Ley N° [—] se integra por el peso, el dólar estadounidense y el euro."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Punto 2 – Incorporación de otras monedas",
+     "texto": "Disponer que podrá incorporarse a la canasta toda moneda extranjera de curso legal en su país de emisión que, durante los doce (12) meses anteriores, haya sido de libre convertibilidad, haya cotizado en forma diaria en el mercado de cambios local y haya contado con cuentas a la vista habilitadas en entidades financieras del país. Cualquier persona podrá solicitar la incorporación de una moneda con fundamento en esos criterios."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Punto 3 – Tipo de cambio de referencia",
+     "texto": "Disponer que esta Institución publique en su sitio oficial, cada día hábil, el tipo de cambio de referencia en pesos de cada moneda de la canasta, con la metodología de cálculo, para la cancelación de obligaciones conforme al artículo 8° de la Ley N° [—]."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Punto 4 – Revisión",
+     "texto": "Establecer que esta Institución revise la composición de la canasta al menos una vez por año. Toda incorporación o exclusión se publica con al menos treinta (30) días de anticipación a su vigencia; la exclusión no afecta los pagos ya efectuados."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Punto 5 – Entidades",
+     "texto": "Disponer que las entidades financieras que actúen como agentes de recaudación de tributos nacionales admitan el pago con cualquiera de las monedas de la canasta, mediante débito en cuentas o transferencia, conforme a la reglamentación de la Agencia de Recaudación y Control Aduanero (ARCA), y transfieran lo percibido, en la misma moneda, a la cuenta que indique la Tesorería General de la Nación."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Punto 6 – Vigencia",
+     "texto": "Las presentes disposiciones entrarán en vigencia en la fecha de entrada en vigencia del Capítulo III de la Ley N° [—], conforme a su artículo 13."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

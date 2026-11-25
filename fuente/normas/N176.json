@@ -1,0 +1,96 @@
+{
+ "id": "N176",
+ "tipo": "decreto",
+ "titulo": "Reglamentación de la ley de formación continua",
+ "sumilla": "Regula el catálogo de normas de competencia y los evaluadores de saberes, la inscripción de entidades evaluadoras y el procedimiento de acreditación independiente de instituciones, el pago 70/30 condicionado a la inserción registrada a 12 meses y el mínimo de inserción para conservar la acreditación.",
+ "cuando": "Fase II (años 2-3): dentro de los 90 días de publicada la ley «Ley de formación continua».",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (decreto reglamentario, art. 99 inc. 2 CN).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° [—] de formación continua, las Leyes Nros. 24.013, 26.058 y 27.802, y el Decreto N° [—] reglamentario de la reforma del sistema integral de prestaciones por desempleo, y",
+ "considerando": [
+  "Que la Ley N° [—] organizó la acreditación de saberes y oficios, la acreditación independiente de las instituciones de formación y un financiamiento de la formación atado a la inserción laboral de los egresados.",
+  "Que la Ley encomendó a la reglamentación la proporción del pago condicionado a la inserción y el mínimo de inserción para conservar la acreditación.",
+  "Que corresponde reemplazar la acreditación transitoria prevista en la reglamentación de la reforma del sistema integral de prestaciones por desempleo por la acreditación independiente de la Ley.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Normas de competencia",
+     "texto": "La autoridad de aplicación de los Capítulos II y IV de la Ley N° [—] de formación continua (en adelante, la Ley) aprobará y publicará el catálogo de normas de competencia del artículo 3° de la Ley, elaboradas en mesas sectoriales integradas por cámaras empresarias y asociaciones sindicales de cada sector. El primer catálogo se aprobará dentro de los CIENTO OCHENTA (180) días y priorizará las ocupaciones con mayor demanda registrada en el Portal Empleo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Evaluadores de saberes",
+     "texto": "Los evaluadores de saberes se inscribirán en un registro de la autoridad de aplicación, acreditando idoneidad en la ocupación y ausencia de vínculo con la institución que haya brindado la formación a la persona evaluada. La evaluación podrá combinar pruebas prácticas, entrevistas y la presentación de antecedentes de trabajo. Será gratuita para las personas que perciban la prestación por desempleo o tengan una cuenta individual de formación."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Certificado digital",
+     "texto": "El certificado de saberes y oficios será digital, contendrá un código de verificación en línea y se inscribirá en el registro público del artículo 3° de la Ley, en el que cualquier persona podrá verificar su autenticidad."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Entidades evaluadoras de instituciones",
+     "texto": "El INSTITUTO NACIONAL DE EDUCACIÓN TECNOLÓGICA (INET) y la autoridad de aplicación inscribirán como entidades evaluadoras, a los fines del artículo 7° de la Ley, a las universidades, organismos técnicos y entidades privadas que acrediten capacidad técnica e independencia, y resolverán cada solicitud dentro de los SESENTA (60) días."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Procedimiento de acreditación",
+     "texto": "La institución que solicite su acreditación elegirá una entidad evaluadora inscripta que no se encuentre alcanzada por las incompatibilidades del artículo 8° de la Ley. La entidad emitirá su dictamen dentro de los NOVENTA (90) días, y el INET y la autoridad de aplicación resolverán dentro de los TREINTA (30) días siguientes. La acreditación, el dictamen y su fundamento se publicarán. La renovación se solicitará con SEIS (6) meses de anticipación al vencimiento."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Instituciones sin egresados",
+     "texto": "Las instituciones que aún no tengan egresados podrán obtener una acreditación provisoria por DIECIOCHO (18) meses, sobre la base de los demás criterios del artículo 7° de la Ley. Vencido ese plazo, su acreditación definitiva considerará la inserción de sus primeros egresados."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Proporción de los pagos",
+     "texto": "A los fines del artículo 9° de la Ley, el SETENTA POR CIENTO (70 %) del valor de cada formación se pagará al completarse y el TREINTA POR CIENTO (30 %) restante se pagará por cada egresado que registre inserción laboral dentro de los DOCE (12) meses."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Medición de la inserción",
+     "texto": "Se considera inserción laboral registrada el empleo en relación de dependencia registrado o el alta como trabajador independiente con aportes ingresados, durante al menos TRES (3) meses dentro de los DOCE (12) meses posteriores a la finalización. La ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (ANSES) y la AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO (ARCA) suministrarán a la autoridad de aplicación la información necesaria, con resguardo de los datos personales."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Mínimo de inserción",
+     "texto": "La autoridad de aplicación fijará cada año, por especialidad y región, el mínimo de inserción del artículo 11 de la Ley, que no podrá ser inferior a la mitad de la mediana de inserción de las instituciones acreditadas de la misma especialidad y región en el año anterior."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Información pública",
+     "texto": "La información del artículo 10 de la Ley se publicará en los meses de marzo y septiembre de cada año en un tablero de acceso libre, junto con el listado de instituciones y entidades evaluadoras acreditadas."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Transición",
+     "texto": "Las instituciones acreditadas en forma transitoria conforme el artículo 6° del Decreto N° [—], reglamentario de la reforma del sistema integral de prestaciones por desempleo, deberán solicitar su acreditación conforme la Ley dentro de los SEIS (6) meses de la entrada en vigencia del presente, y conservarán su condición hasta que se resuelva, dentro del plazo máximo del artículo 16 de la Ley."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto N° [—], art. 6: la acreditación transitoria cesa conforme el art. 11"
+ ],
+ "deroga": [],
+ "variantes": null
+}

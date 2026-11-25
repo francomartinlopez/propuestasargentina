@@ -1,0 +1,93 @@
+{
+ "id": "N402",
+ "tipo": "acuerdo_federal",
+ "titulo": "Acuerdo Federal de Tarifas y Tarifa Social",
+ "sumilla": "La Nación y las provincias acuerdan un registro único y una tarifa social única para los servicios que regula cada jurisdicción, un cronograma de escalones para los cargos de distribución de electricidad y gas, el agua y el transporte provinciales, y la tarifa social por pasajero financiada por la Nación en forma automática según los viajes registrados; la Nación apoya el agua solo con obras.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Convenio entre la Nación y las provincias (art. 125 CN) previsto por el art. 31 de la ley «Ley de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas». No requiere ley nacional: los compromisos nacionales son los de la ley «Ley de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas» y de cada presupuesto; el PEN lo aprueba por decreto. Cada provincia lo ratifica por ley (modelo «Modelo de ley provincial de ratificación del Acuerdo Federal de Tarifas y Tarifa Social y de adhesión a la tarifa social única»).",
+ "motivos": "",
+ "visto": "",
+ "considerando": [
+  "Que el presente Acuerdo se celebra entre el ESTADO NACIONAL, representado por los titulares de las Secretarías de Energía y de Transporte del Ministerio de Infraestructura y Energía y por el titular de la Secretaría del Interior de la Jefatura de Gabinete de Ministros, y las PROVINCIAS que lo suscriben, representadas por sus Gobernadores, en adelante «las partes».",
+  "Que la Ley N° […] de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas establece una tarifa social única con un solo registro, un cronograma de ocho escalones semestrales para que las tarifas de jurisdicción nacional cubran su costo y una tarifa social por pasajero financiada por el Estado nacional, igual en el área metropolitana de Buenos Aires y en el resto del país.",
+  "Que buena parte de la distribución de electricidad y de gas, del agua potable y los desagües cloacales y del transporte público de pasajeros es regulada por las provincias y los municipios, y que el artículo 31 de esa ley prevé un acuerdo federal para que se sumen a esos criterios.",
+  "Que el Decreto N° 943/2025 invitó a los poderes concedentes y a los entes reguladores provinciales a adherir al régimen de Subsidios Energéticos Focalizados y a adecuar sus circuitos de información, cuyo registro la ley amplía como registro único de tarifa social."
+ ],
+ "formula": "Por ello, LAS PARTES ACUERDAN:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cláusula primera – Objeto",
+     "texto": "Las partes acuerdan aplicar en sus jurisdicciones los criterios de la Ley N° […] de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas (en adelante, «la ley»): un registro único y una tarifa social única para la electricidad, el gas, el agua y el transporte; un cronograma público que acerque las tarifas a su costo en escalones conocidos; y la tarifa social por pasajero financiada por el Estado nacional."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cláusula segunda – Registro único",
+     "texto": "Cada provincia adhiere al registro único de tarifa social previsto en el artículo 14 de la ley, incorpora a él dentro de los NOVENTA (90) días a los beneficiarios de sus tarifas sociales provinciales y lo usa como registro de ellas. El Estado nacional comunica a cada provincia, cada mes, la condición de beneficiario de los hogares de su territorio, con los resguardos de la Ley N° 25.326 y del artículo 19 de la ley."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cláusula tercera – Tarifa social",
+     "texto": "Cada provincia aplica la tarifa social, de oficio y sin trámites nuevos, a los hogares del registro único en los servicios de electricidad, gas por redes, agua potable y desagües cloacales y transporte público de pasajeros que regula. La provincia define el beneficio en los servicios a su cargo y lo financia con sus recursos o con la estructura tarifaria de esos servicios, salvo la tarifa social por pasajero de la cláusula sexta."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cláusula cuarta – Costo y cronograma",
+     "texto": "Cada provincia publica, dentro de los NOVENTA (90) días de su adhesión, el costo y la cobertura inicial, por categoría de usuario, de los cargos de distribución de electricidad y de gas que regula (valor agregado de distribución), de sus servicios de agua potable y desagües cloacales y de su transporte público de pasajeros, y aprueba para cada uno un cronograma de escalones semestrales equivalente al del artículo 7° de la ley, con el tope del artículo 8° y sin escalones en los meses de mayor consumo de cada servicio. Las provincias que adhieran después del 1° de marzo de 2028 distribuyen su brecha inicial entre los escalones que resten hasta el 1° de septiembre de 2031."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula quinta – Agua",
+     "texto": "Las partes acuerdan que el Estado nacional no financia la operación de ninguna prestadora de servicios de agua potable y desagües cloacales, y que el apoyo nacional al sector se destina exclusivamente a obras, con criterios de asignación publicados, en el marco del plan nacional de agua y saneamiento y del acuerdo federal de saneamiento. Las provincias procuran que las tarifas de sus servicios de agua cubran su costo conforme a la cláusula cuarta, con la tarifa social de la cláusula tercera."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cláusula sexta – Tarifa social por pasajero",
+     "texto": "El Estado nacional financia la tarifa social por pasajero en los servicios de transporte público de pasajeros de jurisdicción provincial y municipal de las partes, con el mismo porcentaje de descuento por viaje que en los servicios de jurisdicción nacional, conforme a los artículos 17 y 28 de la ley. El monto es el descuento aplicado en cada viaje registrado de una persona beneficiaria y se transfiere en forma automática cada mes a la provincia, o a los prestadores o municipios que ella designe, sin convenio por prestador ni asignación discrecional. A ese fin, la provincia asegura que los servicios validen los viajes con el sistema SUBE o con un sistema interoperable."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula séptima – Compensaciones provinciales",
+     "texto": "Cada provincia aplica a las compensaciones que paga a sus prestadores de transporte la misma regla de reducción del artículo 27 de la ley, a medida que aumenta la cobertura de su cronograma."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cláusula octava – Publicación",
+     "texto": "Las partes publican cada semestre, en formato de datos abiertos y con el formato común que acuerden, el costo, la cobertura y el avance de cada servicio que regulan, los hogares con tarifa social y la tarifa social por pasajero recibida y pagada."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cláusula novena – Municipios y Ciudad Autónoma de Buenos Aires",
+     "texto": "Las provincias invitan a sus municipios que regulen servicios de agua o de transporte a adherir al registro único y a la tarifa social. La Ciudad Autónoma de Buenos Aires y los municipios podrán adherir al presente Acuerdo en iguales términos."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cláusula décima – Adhesión posterior",
+     "texto": "Las provincias que no suscriban el Acuerdo en su firma podrán adherir en cualquier momento, con los mismos derechos y obligaciones desde su adhesión."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Cláusula undécima – Vigencia y denuncia",
+     "texto": "El presente Acuerdo rige para cada provincia desde su ratificación por ley provincial y hasta el 31 de diciembre de 2032. Cualquier parte podrá denunciarlo con CIENTO OCHENTA (180) días de anticipación; la denuncia hace cesar la tarifa social por pasajero financiada por el Estado nacional en esa jurisdicción desde que surte efecto."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cláusula duodécima – Controversias",
+     "texto": "Las controversias sobre la interpretación o la ejecución de este Acuerdo se tratan primero entre las autoridades de aplicación. En su defecto, quedan sometidas a la competencia originaria de la Corte Suprema de Justicia de la Nación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Cláusula decimotercera – Aprobación y ratificación",
+     "texto": "El presente Acuerdo no requiere aprobación por ley nacional, porque los compromisos financieros del Estado nacional son los que establece la ley, con los recursos de su artículo 32, y no modifica otras leyes nacionales ni afecta la coparticipación federal de impuestos. El Poder Ejecutivo nacional lo aprueba por decreto y lo publica en el Boletín Oficial. Cada provincia lo ratifica por ley, conforme al modelo de ley de adhesión, porque compromete la regulación de sus servicios públicos, y lo publica en su boletín oficial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,96 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Publica las alícuotas que rigen tras cada certificación e inventaría los beneficios sectoriales. Aporta recaudación y estimaciones de incumplimiento y publica las nuevas alícuotas tras cada certificación. Aplica las exenciones de IVA y de los impuestos nacionales a la producción audiovisual.",
+    "hoy": "ARCA (Decreto 953/2024)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Hacienda del Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Suministra a la OPC la información de la cuenta fiscal y elabora con ARCA el inventario de beneficios sectoriales.",
+    "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Hacienda",
+    "estado": "modificado",
+    "rol": "Reúne y envía a la OPC la información anual, calcula la recaudación comprometida en la cuenta fiscal y elabora el inventario de beneficios. Representa a la Nación en la Comisión Federal de Impuestos, suministra datos y publica las transferencias.",
+    "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior",
+    "estado": "modificado",
+    "rol": "Pierde la asignación discrecional: solo verifica los supuestos, aplica las fórmulas, gira y publica cada giro en 48 horas.",
+    "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete del Interior (DNU 571/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Banco de la Nación Argentina",
+    "estado": "modificado",
+    "rol": "Transfiere en forma diaria y automática las participaciones y aplica las retenciones que ordene la Comisión.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Responsabilidad Fiscal",
+    "estado": "modificado",
+    "rol": "Certifica el cumplimiento del saneamiento que habilita cada transferencia de potestades.",
+    "hoy": "Consejo Federal de Responsabilidad Fiscal (Ley 25.917)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social (ANSES)",
+    "estado": "existente",
+    "rol": "Recibe por presupuesto la fuente de reemplazo del 11 % del IVA.",
+    "hoy": "ANSES (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Cine y Artes Audiovisuales (INCAA)",
+    "estado": "suprimido",
+    "rol": "Se disuelve: los subsidios ya otorgados se pagan, el archivo fílmico pasa a la Secretaría de Cultura y Deportes y la escuela de cine a una universidad.",
+    "hoy": "INCAA, ente público no estatal (Ley 17.741)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Cultura y Deportes",
+    "estado": "modificado",
+    "rol": "Recibe la custodia del archivo y del patrimonio fílmico y el registro de obras.",
+    "hoy": "Secretaría de Cultura de la Presidencia de la Nación",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Oficina de Presupuesto del Congreso (OPC)",
+   "rol": "Certifica cada año el excedente de reemplazo que habilita cada escalón del IVA y evalúa públicamente el escalón anterior."
+  },
+  {
+   "nombre": "Comisiones de presupuesto del Congreso",
+   "rol": "Reciben la certificación y la evaluación (vínculo de la OPC con el Congreso, Ley 27.343)."
+  },
+  {
+   "nombre": "Comisión Federal de Impuestos",
+   "rol": "Organismo fiscal federal: controla la liquidación diaria, calcula los coeficientes, aprueba indicadores y fórmulas de ATN, certifica la neutralidad de cada transferencia de potestades y resuelve la analogía de tributos."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Comunica la aprobación, designa el representante ante la Comisión Federal de Impuestos y solicita la certificación para asumir potestades."
+  },
+  {
+   "nombre": "Universidad nacional que recibe la escuela de cine (ENERC)",
+   "rol": "Recibe por convenio la Escuela Nacional de Experimentación y Realización Cinematográfica."
+  }
+ ]
+}

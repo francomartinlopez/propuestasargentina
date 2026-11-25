@@ -1,0 +1,40 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Producción y Comercio del Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación; plan de promoción con el INPROTUR.",
+    "hoy": "Secretaría de Turismo, Ambiente y Deportes (Vicejefatura de Gabinete del Interior)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto de promoción turística",
+    "estado": "modificado",
+    "rol": "Plan cuatrienal por mercados con metas y rendición de cuentas; recibe el 50 % del impuesto sobre los pasajes.",
+    "hoy": "INPROTUR (Ley 25.997)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Estadística y Censos",
+    "estado": "modificado",
+    "rol": "Encuestas de turismo financiadas por el fondo.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo federal de turismo",
+    "estado": "modificado",
+    "rol": "Ámbito del acuerdo y del catálogo de obras por polo.",
+    "hoy": "Consejo Federal de Turismo (Ley 25.997)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

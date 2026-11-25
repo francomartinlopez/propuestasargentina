@@ -1,0 +1,70 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Grupo de Trabajo de Integración Energética",
+    "estado": "nuevo",
+    "rol": "Cancillerías y autoridades de energía: seguimiento del Tratado, facilitación de permisos y gestión con Bolivia; sin poder sobre ENERSUD.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Negocia (desde la Fase I), firma y canjea las notificaciones; integra el Grupo de Trabajo.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Energía",
+    "estado": "existente",
+    "rol": "Negociación técnica; aplica a ENERSUD el régimen general de exportación de gas; integra el Grupo de Trabajo.",
+    "hoy": "Secretaría de Energía (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "YPF S.A.",
+      "estado": "existente",
+      "rol": "Socia argentina: aporta el 50 % y designa la mitad del directorio, por decisión de sus propios órganos.",
+      "hoy": "YPF S.A. (Ley 26.741, art. 15; 51 % expropiado, compartido entre el Estado nacional y las provincias productoras)",
+      "hijos": [
+       {
+        "nombre": "Sociedad anónima privada de energía con capital argentino y brasileño por mitades",
+        "estado": "nuevo",
+        "rol": "Vende gas argentino al Brasil, desarrolla el gasoducto Uruguaiana–Triunfo, contrata GNL de San Matías y coopera en petroquímica y fertilizantes.",
+        "hoy": "",
+        "hijos": []
+       }
+      ]
+     },
+     {
+      "nombre": "Petrolera de mayoría estatal",
+      "estado": "existente",
+      "rol": "Socia argentina: aporta el 50 % y designa la mitad del directorio, por decisión de sus propios órganos.",
+      "hoy": "YPF S.A. (Ley 26.741, art. 15; 51 % expropiado, compartido entre el Estado nacional y las provincias productoras)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Grupo de trabajo binacional de energía",
+    "estado": "nuevo",
+    "rol": "Cancillerías y autoridades de energía: seguimiento del Tratado, facilitación de permisos y gestión con Bolivia; sin poder sobre ENERSUD.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Cancillería",
+    "estado": "modificado",
+    "rol": "Negocia (desde la Fase I), firma y canjea las notificaciones; integra el Grupo de Trabajo.",
+    "hoy": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

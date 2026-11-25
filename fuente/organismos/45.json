@@ -1,0 +1,93 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Provincias",
+    "estado": "modificado",
+    "rol": "Liquida y percibe el componente mensual y el pago a cuenta donde no lo cobren los municipios. Coordina la ejecución del plan por los organismos provinciales e informa a la Legislatura.",
+    "hoy": "Direcciones de rentas provinciales (en Córdoba, la Dirección General de Rentas)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Identifica zonas, presta asistencia técnica, coordina contrapartidas y publica el registro.",
+    "hoy": "No existe hoy un área de hábitat (Decreto 70/2025); la Secretaría de Obras Públicas (Ministerio de Economía) solo cierra los programas de la ex Secretaría de Desarrollo Territorial, Hábitat y Vivienda",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "existente",
+    "rol": "Prioriza las obras del plan en los Planes de Contrapartida. Comunica cada adhesión y el cronograma de empleo del proyecto.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Agencia de Administración de Bienes del Estado (AABE)",
+      "estado": "existente",
+      "rol": "Informa los inmuebles nacionales de cada zona.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Educación, Ciencia y Cultura; Ministerio de Salud",
+    "estado": "existente",
+    "rol": "Coordinan escuelas, formación en oficios y centros de salud de los planes.",
+    "hoy": "Ministerio de Capital Humano; Ministerio de Salud",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Obras Públicas, Agua y Vivienda",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación: metodología, delimitación, acuerdos, guía, equipos regionales y registro.",
+    "hoy": "Secretaría de Obras Públicas (Secretaría de Coordinación de Infraestructura, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Equipos técnicos regionales de ordenamiento territorial",
+    "estado": "nuevo",
+    "rol": "Asisten a los municipios de varias zonas próximas (con personal existente y convenios con universidades).",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior",
+    "estado": "modificado",
+    "rol": "Firma por la Nación y coordina la asistencia técnica nacional.",
+    "hoy": "Vicejefatura de Gabinete del Interior, Jefatura de Gabinete de Ministros (Decreto 581/2026; el Ministerio del Interior fue suprimido por DNU 571/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Banco municipal de suelo",
+    "estado": "nuevo",
+    "rol": "Reúne, urbaniza y asigna suelo para vivienda y equipamientos según el plan.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Catastro provincial",
+   "rol": "Publica los mapas de valores del suelo, determina la base, la revalúa en cada transmisión y resuelve las impugnaciones técnicas."
+  },
+  {
+   "nombre": "Municipios",
+   "rol": "Cobran el componente mensual por ordenanza donde la ley provincial lo habilite."
+  },
+  {
+   "nombre": "Provincias y municipios",
+   "rol": "Aprueban los planes por ley y ordenanza, crean bancos de suelo y aplican tributos sobre el suelo ocioso."
+  },
+  {
+   "nombre": "Mesa Tripartita de Ordenamiento Territorial de [Municipio]",
+   "rol": "Elabora el plan, verifica metas y publica el avance."
+  }
+ ]
+}

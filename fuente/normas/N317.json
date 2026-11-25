@@ -1,0 +1,102 @@
+{
+ "id": "N317",
+ "tipo": "ordenanza_modelo",
+ "titulo": "Ordenanza municipal modelo de densificación en áreas con servicios",
+ "sumilla": "Modelo para que cada municipio delimite las áreas que ya tienen agua, cloacas, calles y transporte, y permita en ellas, por derecho y sin excepciones caso por caso, construir más superficie y vivienda multifamiliar, con aprobación en plazo, control de la capacidad de las redes y publicación de resultados.",
+ "cuando": "Fase II (junto con el impuesto al suelo de la propuesta 15)",
+ "cuando_breve": "Fase II",
+ "tramite": "No pasa por el Congreso: modelo que cada Concejo Deliberante sanciona por mayoría simple, según la ley orgánica municipal de su provincia; donde la ley provincial de ordenamiento territorial limita la densidad o exige convalidación provincial, se requiere además la ley o el acto provincial habilitante.",
+ "motivos": "En muchas ciudades argentinas las normas urbanas limitan cuánto se puede construir en los barrios que ya cuentan con agua, cloacas, calles pavimentadas y transporte público. Esas restricciones encarecen el suelo, empujan a las familias hacia la periferia, donde llevar servicios cuesta mucho más, y desaprovechan las redes que el municipio ya pagó. La presente ordenanza delimita las áreas servidas y permite en ellas, por derecho, una mayor superficie edificable y la vivienda multifamiliar, sin necesidad de excepciones ni convenios caso por caso. Para que el crecimiento no sature los servicios, la aprobación de cada proyecto verifica la capacidad de las redes y, cuando hace falta, el refuerzo se acuerda en forma proporcional. Se excluyen las áreas de protección patrimonial o ambiental y las de riesgo. La ordenanza fija un plazo cierto para aprobar los permisos, publica sus resultados y prevé una evaluación periódica. Se complementa con la tributación sobre el suelo ocioso, para que la mayor capacidad de construir se traduzca en más viviendas y no en lotes retenidos.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Concejo Deliberante de [Municipio] sanciona con fuerza de Ordenanza:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente Ordenanza tiene por objeto aprovechar las redes de servicios existentes en el Municipio de [Municipio] permitiendo, en las áreas que cuentan con ellas, una mayor superficie edificable y la vivienda multifamiliar."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente se entiende por: a) área servida: el conjunto de parcelas urbanas con frente a calles que cuentan con red de agua potable, red de desagües cloacales, calzada pavimentada o mejorada y alumbrado público, y que se encuentran a no más de quinientos (500) metros de un recorrido de transporte público regular; b) Área de Densificación: el área servida delimitada conforme el artículo 3°; y c) indicadores urbanísticos: el factor de ocupación del suelo (FOS), el factor de ocupación total (FOT), la altura máxima, la densidad y las dimensiones mínimas de parcela."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Delimitación",
+     "texto": "El Departamento Ejecutivo delimita las Áreas de Densificación dentro de los ciento veinte (120) días de la promulgación de la presente, las publica en un plano oficial accesible en el sitio del Municipio y las actualiza cada año a medida que se extienden las redes. Quedan excluidas las áreas de protección patrimonial o ambiental, las zonas de riesgo hídrico o geológico y las zonas industriales."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Indicadores en las Áreas de Densificación",
+     "texto": "En las Áreas de Densificación rigen los siguientes indicadores urbanísticos: a) el factor de ocupación total se incrementa en un [cincuenta por ciento (50 %)] sobre el vigente para cada zona; b) la altura máxima es de [●] metros; c) no se aplican límites de densidad de población distintos de los que resulten de los indicadores anteriores; d) se admite la vivienda multifamiliar en todas las parcelas; y e) la superficie mínima de parcela para nuevas subdivisiones es de [●] metros cuadrados."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Aprobación por derecho",
+     "texto": "Los proyectos que se ajusten a los indicadores del artículo 4° y a las normas de edificación se aprueban sin necesidad de excepción, convenio urbanístico ni tratamiento particular por este Concejo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Plazo de aprobación",
+     "texto": "El Departamento Ejecutivo resuelve las solicitudes de permiso de obra en las Áreas de Densificación dentro de los [sesenta (60)] días hábiles de presentada la documentación completa. La demora se informa al solicitante con su causa y se computa en el informe del artículo 10."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Capacidad de las redes",
+     "texto": "Con la solicitud de permiso, el Departamento Ejecutivo requiere a los prestadores de agua y cloacas la certificación de capacidad, que se expide dentro de los treinta (30) días. Si la capacidad es insuficiente, el Departamento Ejecutivo puede condicionar el permiso a la ejecución, a cargo del solicitante, de los refuerzos de red proporcionales al proyecto, o fijar el plazo en que el refuerzo previsto por el prestador estará disponible."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Normas de edificación",
+     "texto": "Las normas de seguridad, habitabilidad, accesibilidad y eficiencia energética del Código de Edificación se aplican sin cambios."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Coordinación tributaria",
+     "texto": "El Departamento Ejecutivo propone a este Concejo, en la ordenanza fiscal, la adecuación de los tributos sobre el suelo en las Áreas de Densificación, para que la mayor capacidad de construir no favorezca la retención de lotes baldíos."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Publicación y evaluación",
+     "texto": "El Departamento Ejecutivo publica cada trimestre los permisos solicitados y aprobados en las Áreas de Densificación, la superficie y las viviendas autorizadas y los plazos de aprobación, y presenta a este Concejo cada dos (2) años una evaluación de la superficie construida, la población, la capacidad de las redes y la necesidad de ajustar los indicadores."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Prevalencia",
+     "texto": "Dentro de las Áreas de Densificación, los indicadores de la presente prevalecen sobre los del código de planeamiento o de zonificación y sobre toda norma municipal que se le oponga."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Legislación provincial",
+     "texto": "Cuando la legislación provincial de ordenamiento territorial fije límites de densidad o indicadores inferiores a los de la presente, o exija la convalidación provincial de los cambios de zonificación, la presente se aplica en la medida en que esa legislación lo permita, y el Departamento Ejecutivo gestiona ante la Provincia de [Provincia] la convalidación o la norma habilitante."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Reglamentación",
+     "texto": "El Departamento Ejecutivo reglamenta la presente Ordenanza dentro de los noventa (90) días de su promulgación."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "La presente Ordenanza entra en vigencia el día siguiente al de su publicación; los indicadores del artículo 4° rigen desde la publicación del plano del artículo 3°."
+    },
+    {
+     "n": 15,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Departamento Ejecutivo, publíquese, regístrese y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Código de planeamiento o de zonificación del Municipio (indicadores urbanísticos en las Áreas de Densificación)"
+ ],
+ "deroga": [
+  "Normas municipales que se opongan a la presente dentro de las Áreas de Densificación"
+ ],
+ "variantes": null
+}

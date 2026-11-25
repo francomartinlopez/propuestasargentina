@@ -1,0 +1,216 @@
+{
+ "id": "N257",
+ "tipo": "ley_nacional",
+ "titulo": "Ley del Ingreso Universal Único",
+ "sumilla": "Crea el Ingreso Universal Único con cuatro módulos (por hijo, discapacidad, desempleo de transición y mayores sin aportes), la lista cerrada de programas que absorbe, la cláusula de no pérdida, la actualización mensual por IPC, el retiro por escalones y la migración en tres tramos hasta el cierre del año 2. Se redacta en dos variantes según la regla de compatibilidad de la pensión por discapacidad con el empleo registrado.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta (no crea ni modifica contribuciones). Si en el trámite se modificara el financiamiento contributivo de la Ley 24.714, Cámara de Diputados como cámara de origen.",
+ "motivos": "La protección de los ingresos de los hogares más vulnerables está dispersa en programas creados en distintos momentos, con padrones, montos, requisitos y organismos diferentes. Esa dispersión encarece la gestión, deja personas sin cobertura y abre espacio a intermediarios. El presente proyecto unifica esos programas en un Ingreso Universal Único, organizado en cuatro módulos —por hijo, discapacidad, desempleo de transición y mayores sin aportes—, con un solo padrón y una sola liquidación a cargo de la ANSES, que ya paga la mayor parte de ellos. La lista de programas absorbidos es cerrada y no se amplía sin ley. Nadie cobra menos que con el programa que se reemplaza, ni en pesos ni en términos reales; los montos se actualizan cada mes por inflación, y el ingreso se retira por escalones a medida que crece el ingreso formal, para que trabajar en blanco siempre convenga. En el caso de las personas con discapacidad se conserva como piso la compatibilidad con el empleo registrado que estableció la Ley N° 27.793. La migración se hace de oficio, por tramos y sin interrumpir pagos, y se completa al cierre del segundo año. El pago es directo, sin gestores; los datos se publican en forma agregada y la Autoridad Nacional de Control y Transparencia audita el sistema cada año. El financiamiento proviene de las partidas de los programas reemplazados.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto, principios y autoridad de aplicación",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Créase el Ingreso Universal Único (IUU), prestación no contributiva de la seguridad social, de carácter mensual, que unifica en un solo padrón y una sola liquidación los programas nacionales de transferencia de ingresos enumerados en forma taxativa en el artículo 13 de la presente ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Módulos",
+     "texto": "El IUU se organiza en cuatro módulos: a) módulo por hijo; b) módulo de discapacidad; c) módulo de desempleo de transición; y d) módulo de mayores sin aportes. Una misma persona o grupo familiar puede percibir más de un módulo cuando reúna los requisitos de cada uno."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Principios",
+     "texto": "El IUU se rige por los siguientes principios: a) pago directo y automático a una cuenta a nombre de la persona titular, sin intermediarios; b) prohibición de condicionar el acceso o el pago a la intervención de gestores, organizaciones o funcionarios, o a cualquier forma de afiliación o participación política o gremial; c) no pérdida de ingresos en la migración desde los programas que reemplaza; d) retiro gradual frente al ingreso formal, de modo que trabajar en forma registrada siempre aumente el ingreso total; y e) transparencia mediante datos agregados que protejan la privacidad de cada titular."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La Administración Nacional de la Seguridad Social (ANSES) es la autoridad de aplicación de la presente ley: administra el padrón único, liquida y paga el IUU y resuelve los reclamos. La Secretaría de Discapacidad del Ministerio de Salud conserva la certificación de la discapacidad, y la Secretaría de Niñez, Adolescencia y Familia del Ministerio de Trabajo y Desarrollo Social colabora en la verificación de los controles de salud y escolaridad del módulo por hijo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Módulos",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Módulo por hijo",
+     "texto": "El módulo por hijo comprende a los grupos familiares que reúnan las condiciones vigentes a la fecha de sanción de la presente ley para la Asignación Universal por Hijo para Protección Social, la Asignación por Embarazo para Protección Social y la Asignación por Cuidado de Salud Integral previstas en la Ley N° 24.714, y a las titulares de la pensión de la Ley N° 23.746. Su percepción se sujeta a la acreditación de los controles de salud, del calendario de vacunación y de la escolaridad, en la forma que establezca la reglamentación. El módulo integra en un solo pago las prestaciones por hijo y por embarazo, el componente alimentario y los pagos del Plan de los 1000 Días."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Módulo de discapacidad",
+     "texto": "El módulo de discapacidad comprende a las personas que reúnan los requisitos de la Pensión No Contributiva por Discapacidad para Protección Social prevista en el artículo 9° de la Ley N° 13.478, según el texto del artículo 5° de la Ley N° 27.793, cuyo otorgamiento continúa rigiéndose por esas normas. La certificación de la condición de discapacidad se efectúa conforme el artículo 3° de la Ley N° 22.431, con criterios revisados y publicados. Se conserva como piso la compatibilidad con el empleo registrado prevista en el artículo 7° de la Ley N° 27.793: la percepción del módulo es compatible con el trabajo registrado mientras el ingreso de la persona titular no supere dos (2) salarios mínimos, vitales y móviles. Por encima de ese ingreso se aplica el retiro por escalones del artículo 12. Ninguna norma reglamentaria podrá establecer una regla de compatibilidad menos favorable."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Módulo de desempleo de transición",
+     "texto": "El módulo de desempleo de transición comprende a las personas que, al momento de la migración, sean titulares del Programa de Acompañamiento Social creado por el artículo 2° del Decreto N° 198/2024, y a las personas sin empleo que reúnan los requisitos que fije la reglamentación. Se articula con el régimen de prestaciones por desempleo y con los programas de empleo que establezca la ley, de modo que una misma persona no perciba prestaciones superpuestas por la misma contingencia y que el paso de un régimen a otro no interrumpa el ingreso."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Módulo de mayores sin aportes",
+     "texto": "El módulo de mayores sin aportes comprende a las personas de sesenta y cinco (65) años o más que no perciban jubilación, pensión ni retiro de carácter contributivo y reúnan los demás requisitos que establezca la reglamentación, que no podrán ser más exigentes que los previstos para la Pensión Universal para el Adulto Mayor en el Título III de la Ley N° 27.260. El monto del módulo no podrá ser inferior al ochenta por ciento (80 %) del haber mínimo garantizado del Sistema Integrado Previsional Argentino. Se financia con rentas generales del Tesoro nacional y se registra en forma separada de los recursos y prestaciones del sistema contributivo."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Exclusiones",
+     "texto": "No integran el IUU ni se ven afectadas por la presente ley: a) las asignaciones familiares del subsistema contributivo de la Ley N° 24.714 que perciben los trabajadores registrados y los beneficiarios del sistema previsional; b) las becas del Programa de Respaldo a Estudiantes de Argentina (PROGRESAR); y c) los subsidios a la energía."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Monto, actualización y retiro gradual",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Monto",
+     "texto": "La reglamentación fija el monto de cada módulo, que no podrá ser inferior a la suma de las prestaciones que reemplaza, conforme la cláusula de no pérdida del artículo 14."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Actualización mensual",
+     "texto": "Los montos del IUU se actualizan en forma mensual y automática según la variación del Índice de Precios al Consumidor (IPC) nivel general que publica el Instituto Nacional de Estadística y Censos (INDEC), correspondiente al segundo mes anterior al de pago. La actualización no podrá ser suspendida ni diferida por norma de rango inferior a la ley."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Retiro por escalones",
+     "texto": "Cuando la persona titular o su grupo familiar obtengan ingresos de trabajo registrado o de otras fuentes formales, el IUU se reduce por escalones de ingreso que fija la reglamentación, de modo que cada aumento del ingreso formal se traduzca siempre en un aumento del ingreso total del hogar. La reducción no es inmediata ni total al primer ingreso registrado, salvo en el módulo por hijo, que se rige por las reglas de compatibilidad vigentes para la Asignación Universal por Hijo hasta que la reglamentación establezca escalones iguales o más favorables. En el módulo de discapacidad, los escalones se aplican solo por encima del ingreso previsto en el artículo 6°. La Agencia de Recaudación y Control Aduanero (ARCA) suministra a la ANSES la información de ingresos formales necesaria a estos efectos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Programas que absorbe, no pérdida y migración",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Lista cerrada de programas",
+     "texto": "El IUU absorbe exclusivamente los siguientes programas nacionales: a) módulo por hijo: la Asignación Universal por Hijo para Protección Social (Decreto N° 1602/2009, incorporada a la Ley N° 24.714), la Asignación por Embarazo para Protección Social (Decreto N° 446/2011, artículo 14 quater de la Ley N° 24.714), la Prestación Alimentar del Plan Nacional Argentina contra el Hambre, los pagos del Plan de los 1000 Días de la Ley N° 27.611, incluido su complemento de leche, y la pensión no contributiva para madres de siete o más hijos (Ley N° 23.746); b) módulo de discapacidad: la Pensión No Contributiva por Discapacidad para Protección Social (artículo 9° de la Ley N° 13.478, texto según la Ley N° 27.793, y Decreto N° 84/2026), incluidas las pensiones por invalidez convertidas de oficio en los términos del artículo 9° de la Ley N° 27.793; c) módulo de desempleo de transición: el Programa de Acompañamiento Social (artículo 2° del Decreto N° 198/2024); y d) módulo de mayores sin aportes: la Pensión Universal para el Adulto Mayor (Título III de la Ley N° 27.260). La incorporación de cualquier otro programa requiere ley del Congreso."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Cláusula de no pérdida",
+     "texto": "Ninguna persona titular de un programa absorbido percibirá por el IUU un monto inferior, ni en pesos ni en términos reales, al que le correspondería percibir por ese programa. Si de la aplicación de la presente ley resultara un monto menor, la diferencia se abona como complemento de no pérdida, que se actualiza conforme el artículo 11 y se mantiene mientras subsistan las condiciones que dieron derecho al programa de origen. Las personas migradas conservan las prestaciones accesorias que les correspondían, incluida la cobertura de salud."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Migración por tramos",
+     "texto": "La migración se realiza en tres tramos: a) primer tramo, a completar antes del 10 de diciembre de 2028: Asignación Universal por Hijo, Asignación por Embarazo, Prestación Alimentar y pagos del Plan de los 1000 Días; b) segundo tramo, a completar antes del 30 de junio de 2029: Programa de Acompañamiento Social y pensión para madres de siete o más hijos; y c) tercer tramo, a completar antes del 10 de diciembre de 2029: pensiones no contributivas por discapacidad y Pensión Universal para el Adulto Mayor, con su liquidación unificada en la ANSES. La migración es de oficio, no requiere trámite de la persona titular, no interrumpe el pago y respeta la antigüedad y los derechos adquiridos en el programa de origen. El Poder Ejecutivo nacional declara por decreto la conclusión de cada tramo."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Adecuación y derogación de las normas de origen",
+     "texto": "A partir de la fecha en que se declare concluido el tramo respectivo: a) primer tramo: deróganse el inciso c) del artículo 1° y los artículos 14 bis a 14 octies de la Ley N° 24.714, el Decreto N° 1602/2009 y el Decreto N° 446/2011, y el Poder Ejecutivo nacional deja sin efecto la Prestación Alimentar; las referencias de la Ley N° 24.714 y de otras normas a esas prestaciones se entienden hechas al módulo por hijo del IUU; b) segundo tramo: derógase el artículo 2° del Decreto N° 198/2024 y la Ley N° 23.746 deja de admitir nuevas altas, sin perjuicio de la cláusula de no pérdida para sus titulares; y c) tercer tramo: deróganse los artículos 13 a 19 de la Ley N° 27.260, y las pensiones del artículo 9° de la Ley N° 13.478 por discapacidad se liquidan como módulo de discapacidad del IUU. La Ley N° 27.611 mantiene su vigencia en todo lo que no se refiera a prestaciones dinerarias."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Referencias a la Agencia Nacional de Discapacidad",
+     "texto": "Las referencias de la Ley N° 27.793, y en particular de sus artículos 6°, 11 y 16, a la Agencia Nacional de Discapacidad se entienden hechas a la Secretaría de Discapacidad, salvo en lo relativo a la liquidación y el pago de las pensiones, que corresponden a la Administración Nacional de la Seguridad Social (ANSES) conforme el artículo 4° de la presente ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Padrón, pago, reclamos y control",
+   "articulos": [
+    {
+     "n": 18,
+     "epigrafe": "Padrón único",
+     "texto": "La ANSES conforma el padrón único del IUU con la información de sus propias bases, de la ARCA, del Ministerio de Salud y de las provincias y la Ciudad Autónoma de Buenos Aires que adhieran mediante convenio. El tratamiento de datos se rige por la Ley N° 25.326; la presente ley constituye la base legal del tratamiento y de la cesión de datos entre organismos a los efectos de los artículos 5°, inciso 2, apartado b), y 11, inciso 3, apartado a), de esa ley. Los datos se usan con la finalidad exclusiva de determinar el derecho al IUU, liquidarlo y controlarlo."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Pago directo",
+     "texto": "El IUU se paga en forma automática a una cuenta gratuita a nombre de la persona titular. Ninguna persona u organización puede intervenir en la inscripción, el cobro o la percepción del IUU a cambio de una contraprestación. Toda retención, descuento o exigencia de cualquier tipo sobre el pago, salvo las dispuestas por orden judicial, se considera falta grave y se denuncia a la autoridad competente."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Ventanilla de reclamo",
+     "texto": "La ANSES habilita una ventanilla de reclamo presencial y digital, y responde cada reclamo en el plazo máximo que fije la reglamentación. El pago de las personas migradas no se interrumpe mientras se tramita un reclamo vinculado con la migración."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Datos abiertos",
+     "texto": "La ANSES publica cada mes datos agregados del IUU por módulo, jurisdicción, tramo de edad y monto, en formato abierto y de modo que no permitan identificar a ninguna persona titular."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Auditoría",
+     "texto": "La Autoridad Nacional de Control y Transparencia audita cada año el IUU, incluidos el padrón, la liquidación, los pagos y el cumplimiento de la cláusula de no pérdida, y eleva su informe al Congreso de la Nación, que lo publica."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Financiamiento, disposición transitoria y disposiciones finales",
+   "articulos": [
+    {
+     "n": 23,
+     "epigrafe": "Financiamiento",
+     "texto": "El IUU se financia con: a) los créditos presupuestarios asignados a los programas absorbidos, que se reasignan al IUU a medida que se completa cada tramo; b) para el módulo de mayores sin aportes, las rentas generales del Tesoro nacional; y c) para el módulo por hijo, además, los recursos que la Ley N° 24.714 asigna hoy a la Asignación Universal por Hijo. El cronograma de ejecución es el de los tramos del artículo 15. Toda mejora de los montos por encima de lo que exige la cláusula de no pérdida solo puede disponerse con fuente expresa en la ley de presupuesto, dentro de la regla fiscal; si no tuviera fuente al sancionarse la presente ley, se activa con el presupuesto siguiente, en los términos del artículo 38 de la Ley N° 24.156 y del artículo 5° de la Ley N° 24.629. Las facultades de reestructuración presupuestaria no podrán reducir los créditos necesarios para cumplir la cláusula de no pérdida."
+    },
+    {
+     "n": 24,
+     "epigrafe": "Disposición transitoria. Prórroga del Programa de Acompañamiento Social",
+     "texto": "Prorrógase la vigencia del Programa de Acompañamiento Social creado por el artículo 2° del Decreto N° 198/2024, y de las prestaciones que perciben sus titulares, desde el vencimiento del plazo fijado por el artículo 1° de la Resolución N° 90/2026 del Ministerio de Capital Humano y hasta la fecha en que cada titular sea migrado al módulo de desempleo de transición conforme el artículo 15, inciso b). Durante la prórroga: a) el programa no admite nuevas altas; b) las prestaciones se liquidan en las mismas condiciones vigentes al vencimiento de ese plazo, con su actualización; y c) se financian con los créditos presupuestarios asignados al programa, que se reasignan al IUU conforme el artículo 22, inciso a). La prórroga cesa para cada titular en la fecha de su migración y, para el programa, al declararse concluido el segundo tramo, conforme el artículo 16, inciso b)."
+    },
+    {
+     "n": 25,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 26,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entra en vigencia el día siguiente al de su publicación en el Boletín Oficial, sin perjuicio de la vigencia diferida de las derogaciones del artículo 16 y de la prórroga del artículo 24."
+    },
+    {
+     "n": 27,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.714, art. 1 inc. c y arts. 14 bis a 14 octies (derogación diferida al primer tramo)",
+  "Ley 27.260, arts. 13 a 19 (derogación diferida al tercer tramo)",
+  "Ley 23.746 (cierre de nuevas altas al segundo tramo)",
+  "Ley 13.478, art. 9 (texto Ley 27.793): la pensión por discapacidad se liquida como módulo del IUU",
+  "Ley 27.611: sus prestaciones dinerarias pasan al módulo por hijo",
+  "Ley 27.793, arts. 6, 11 y 16 (referencias a la Agencia Nacional de Discapacidad, por el art. 17)"
+ ],
+ "deroga": [
+  "Decreto 1602/2009 (al concluir el primer tramo)",
+  "Decreto 446/2011 (al concluir el primer tramo)",
+  "Decreto 198/2024, art. 2 (al concluir el segundo tramo)",
+  "Prestación Alimentar (Res. MDS 8/2020, componente A, y modificatorias): el PEN la deja sin efecto al concluir el primer tramo"
+ ],
+ "variantes": [
+  {
+   "variante": "a",
+   "condicion": "La regla del artículo 7° de la Ley 27.793 (pensión compatible con empleo registrado hasta dos SMVM) sigue vigente al enviarse el proyecto.",
+   "texto": "Es el texto principal de este archivo (artículo 6°)."
+  },
+  {
+   "variante": "b",
+   "condicion": "La ley de Presupuesto 2027 (u otra norma posterior) volvió incompatible la pensión con el empleo formal o fijó una regla menos favorable. Si además eliminó la conversión de oficio del art. 9 de la Ley 27.793, el mismo artículo la restituye.",
+   "sustituye_articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Módulo de discapacidad y restitución de la compatibilidad con el empleo",
+     "texto": "El módulo de discapacidad comprende a las personas que reúnan los requisitos de la Pensión No Contributiva por Discapacidad para Protección Social prevista en el artículo 9° de la Ley N° 13.478, según el texto del artículo 5° de la Ley N° 27.793, cuyo otorgamiento continúa rigiéndose por esas normas. La certificación de la condición de discapacidad se efectúa conforme el artículo 3° de la Ley N° 22.431, con criterios revisados y publicados. Restitúyese, con carácter permanente, la compatibilidad de esa pensión con el empleo registrado en los términos del artículo 7° de la Ley N° 27.793 en su texto original: la percepción del módulo es compatible con el trabajo registrado mientras el ingreso de la persona titular no supere dos (2) salarios mínimos, vitales y móviles. Déjanse sin efecto las disposiciones de la ley de presupuesto general de la Administración Nacional para el ejercicio 2027, y de toda otra norma posterior a la Ley N° 27.793, en cuanto hayan establecido la incompatibilidad de esa pensión con el empleo registrado o una regla menos favorable. Las personas cuya pensión hubiera sido suspendida o dada de baja por esa causa son reincorporadas de oficio al módulo, sin necesidad de nueva solicitud. Por encima de dos (2) salarios mínimos, vitales y móviles se aplica el retiro por escalones del artículo 12. Si esas normas hubieran eliminado también la conversión de oficio de las pensiones no contributivas anteriores a la Pensión No Contributiva por Discapacidad para Protección Social prevista en el artículo 9° de la Ley N° 27.793, esa conversión se restituye en los términos de su texto original. Ninguna norma reglamentaria podrá establecer una regla de compatibilidad menos favorable."
+    }
+   ],
+   "agrega_a_modifica": [
+    "Ley de Presupuesto General de la Administración Nacional para el ejercicio 2027 (artículo pertinente, a identificar una vez sancionada): se deja sin efecto en cuanto haya modificado la compatibilidad de la pensión por discapacidad"
+   ],
+   "motivos": "La protección de los ingresos de los hogares más vulnerables está dispersa en programas creados en distintos momentos, con padrones, montos, requisitos y organismos diferentes. Esa dispersión encarece la gestión, deja personas sin cobertura y abre espacio a intermediarios. El presente proyecto unifica esos programas en un Ingreso Universal Único, organizado en cuatro módulos —por hijo, discapacidad, desempleo de transición y mayores sin aportes—, con un solo padrón y una sola liquidación a cargo de la ANSES, que ya paga la mayor parte de ellos. La lista de programas absorbidos es cerrada y no se amplía sin ley. Nadie cobra menos que con el programa que se reemplaza, ni en pesos ni en términos reales; los montos se actualizan cada mes por inflación, y el ingreso se retira por escalones a medida que crece el ingreso formal, para que trabajar en blanco siempre convenga. En el caso de las personas con discapacidad se restituye la compatibilidad con el empleo registrado hasta dos salarios mínimos que estableció la Ley N° 27.793 y que una norma posterior dejó sin efecto, y se reincorpora de oficio a quienes perdieron la pensión por esa causa. La migración se hace de oficio, por tramos y sin interrumpir pagos, y se completa al cierre del segundo año. El pago es directo, sin gestores; los datos se publican en forma agregada y la Autoridad Nacional de Control y Transparencia audita el sistema cada año. El financiamiento proviene de las partidas de los programas reemplazados."
+  }
+ ]
+}

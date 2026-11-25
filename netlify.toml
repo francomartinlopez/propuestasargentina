@@ -4,3 +4,29 @@
 [functions]
   directory = "netlify/functions"
   node_bundler = "esbuild"
+
+# Las herramientas de armado, las fuentes y las instrucciones de trabajo viven en el repositorio
+# pero no se sirven en el sitio.
+[[redirects]]
+  from = "/herramientas/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/fuente/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/CLAUDE.md"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/CHANGELOG.md"
+  to = "/404.html"
+  status = 404
+  force = true

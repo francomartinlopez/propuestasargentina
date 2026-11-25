@@ -1,0 +1,67 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Dirección Nacional Electoral",
+    "estado": "modificado",
+    "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada proyecto.",
+    "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de recupero de activos",
+    "estado": "nuevo",
+    "rol": "Administra, conserva, vende o asigna los bienes cautelados, decomisados y extinguidos, lleva el inventario público único y gestiona la repatriación de activos. Recibe esa competencia.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Oficina de administración de bienes recuperados",
+    "estado": "suprimido",
+    "rol": "Se disuelve; su personal, bienes y créditos pasan a la Agencia. Se disuelve y se transfiere a la Agencia.",
+    "hoy": "Oficina de Bienes Recuperados, organismo desconcentrado del Ministerio de Justicia (Anexo III del Decreto 50/2019, texto Decreto 582/2025)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración de inmuebles del Estado",
+    "estado": "modificado",
+    "rol": "Pierde la competencia para enajenar y concesionar bienes de origen ilícito y de extinción de dominio. Conserva la administración de los inmuebles del Estado;",
+    "hoy": "AABE, organismo descentralizado de la JGM en el ámbito de la Vicejefatura de Gabinete del Interior (Decreto 1382/2012)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto y Unidad de Información Financiera",
+    "estado": "existente",
+    "rol": "Cooperación internacional e información financiera para la repatriación.",
+    "hoy": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto; UIF (Ministerio de Justicia)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia Nacional de Bienes Recuperados",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación del régimen de bienes recuperados; operativa en 12 meses.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Fiscalía de extinción de dominio",
+   "rol": "Ejerce la acción."
+  },
+  {
+   "nombre": "Corte Suprema de Justicia de la Nación",
+   "rol": "Coordina su base con el inventario por convenio."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Querellante en las causas de corrupción contra funcionarios, con legitimación para recurrir y pedir la reapertura."
+  }
+ ]
+}

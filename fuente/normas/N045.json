@@ -1,0 +1,126 @@
+{
+ "id": "N045",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial del impuesto a la transmisión gratuita de bienes",
+ "sumilla": "Crea el impuesto progresivo sobre lo que recibe cada heredero, legatario o donatario, con el piso común federal (mínimo exento por beneficiario no menor a una vivienda familiar tipo, vivienda única y empresa familiar exentas, donaciones de diez años acumuladas), valuación con el registro patrimonial, adhesión a la ley nacional de coordinación, cómputo como recaudación de reemplazo y un capítulo optativo que destina un porcentaje del excedente a la dotación de capital joven.",
+ "cuando": "Fase II (años 2-3): cada provincia la sanciona y la aplica desde el 1° de enero siguiente a la certificación de que su registro patrimonial está operativo (cobertura nacional al cierre del año 2).",
+ "cuando_breve": "Fase II",
+ "tramite": "Ley tributaria provincial, según la constitución de cada provincia (algunas exigen iniciativa o trámite especial). En la Provincia de Buenos Aires, adecuación de la Ley 14.044.",
+ "motivos": "La Provincia se comprometió en el Acuerdo Federal de Sustitución Tributaria a reducir el impuesto de sellos y el impuesto sobre los ingresos brutos a medida que entre en vigor una recaudación de reemplazo propia, basada en el patrimonio y no en la producción. El impuesto a la transmisión gratuita de bienes es una de esas fuentes. El impuesto recae sobre lo que recibe cada heredero, legatario o donatario, no sobre la masa que deja el causante: una misma fortuna repartida entre muchos paga menos que concentrada en uno. Es progresivo y respeta el piso común acordado por las jurisdicciones: un mínimo exento por beneficiario no menor al valor de una vivienda familiar tipo, la exención de la vivienda única familiar y de la empresa familiar que el heredero siga explotando, y la acumulación de las donaciones de los diez años anteriores, para que no sean una vía de elusión. Los bienes se valúan con el registro patrimonial, de modo que el impuesto no dependa de valuaciones fiscales desactualizadas, y cada contribuyente puede impugnar su valuación. El proyecto adhiere a la ley nacional de coordinación, que evita que otra jurisdicción grave la misma transmisión, y computa lo recaudado como recaudación de reemplazo para el cronograma de baja de sellos e ingresos brutos. Un capítulo optativo permite destinar parte de lo recaudado por encima de lo previsto a una dotación de capital para los jóvenes.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Creación y adhesión",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación",
+     "texto": "Establécese en la Provincia de [Provincia] el impuesto a la transmisión gratuita de bienes, que se regirá por la presente ley, por el Código Fiscal y por la Ley Impositiva."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Adhesión a la ley nacional de coordinación",
+     "texto": "Adhiérese a la Ley nacional N° [—] de coordinación federal de los impuestos a la transmisión gratuita de bienes. El impuesto se aplicará a las transmisiones que esa ley atribuya a la Provincia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – El impuesto",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Hecho imponible",
+     "texto": "Está gravado todo enriquecimiento a título gratuito que se produzca por herencia, legado, donación, anticipo de herencia, renuncia de derechos a favor de determinada persona o cualquier otra transmisión gratuita, respecto de los bienes atribuidos a la Provincia conforme al artículo 2°."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Sujetos",
+     "texto": "Son contribuyentes los herederos, legatarios y donatarios (en adelante, «beneficiarios»). El impuesto se determina en forma separada sobre la porción que recibe cada beneficiario."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Base imponible y valuación",
+     "texto": "La base imponible es el valor de los bienes recibidos por cada beneficiario, neto de las deudas y cargas que le correspondan. Los inmuebles se valuarán por el valor que registre el registro patrimonial previsto en la Ley nacional N° 26.209 y sus modificaciones; los demás bienes, por su valor de mercado a la fecha de la transmisión, conforme a las normas que dicte la autoridad de aplicación. El beneficiario podrá impugnar la valuación por los recursos del Código Fiscal."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Mínimo exento por beneficiario",
+     "texto": "Cada beneficiario goza de un mínimo exento no inferior al valor de una vivienda familiar tipo en la Provincia, que fijará cada año la Ley Impositiva con los datos del registro patrimonial. Cuando la base supere el mínimo, el impuesto se aplicará solo sobre el excedente."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Exenciones",
+     "texto": "Están exentas: a) la transmisión del inmueble que constituía la vivienda única y permanente del causante o que pase a constituir la del grupo familiar del beneficiario; b) la transmisión de una empresa familiar, o de las participaciones en ella, que reúna la condición de micro, pequeña o mediana empresa conforme a la normativa nacional, siempre que el beneficiario continúe su explotación durante al menos cinco (5) años; si la enajenara antes, ingresará el impuesto en proporción al tiempo faltante; c) las transmisiones al Estado nacional, provincial o municipal y a las entidades de bien público exentas por el Código Fiscal."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Alícuotas",
+     "texto": "El impuesto se liquidará con una escala de alícuotas marginales progresivas por tramos de base imponible, diferenciada según el grado de parentesco entre el causante o donante y el beneficiario, que fijará la Ley Impositiva."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Acumulación de transmisiones",
+     "texto": "Para determinar el impuesto, a cada transmisión se sumarán las recibidas por el mismo beneficiario en los diez (10) años anteriores, por cualquier título gratuito, que tributarán con la misma escala. El mínimo exento se aplicará una sola vez en ese período y se descontará el impuesto pagado por las transmisiones anteriores. Las transmisiones atribuidas a otras jurisdicciones se computarán solo para determinar la alícuota, conforme a la ley nacional de coordinación."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Liquidación, pago e información",
+     "texto": "El beneficiario presentará la declaración jurada y pagará el impuesto en los plazos que fije el Código Fiscal. Los jueces, escribanos y registros no darán curso a la partición, adjudicación, inscripción o registración de bienes transmitidos a título gratuito sin la constancia de pago o de exención expedida por la autoridad de aplicación, y le informarán los actos en que intervengan."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Sustitución tributaria",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Recaudación de reemplazo",
+     "texto": "La recaudación del impuesto se computará como recaudación de reemplazo a los fines del cronograma de reducción del impuesto de sellos y del impuesto sobre los ingresos brutos de la Ley provincial N° [—], de ratificación del Acuerdo Federal de Sustitución Tributaria, y se publicará conforme a esa ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Dotación de capital joven [capítulo optativo]",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Destino de una parte del excedente",
+     "texto": "[Optativo] La Provincia destina el [CINCUENTA POR CIENTO (50 %), valor sugerido: cada Provincia fija el suyo] del excedente de recaudación del impuesto, entendido como lo recaudado en cada año por encima de lo previsto para ese año en el convenio que suscriba con el Estado nacional, a la dotación de capital joven prevista en la Ley nacional N° [—]. El Poder Ejecutivo suscribirá ese convenio y transferirá el aporte dentro de los noventa (90) días del cierre de cada año."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La [autoridad de aplicación provincial en materia tributaria] es la autoridad de aplicación de la presente ley."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial de la Provincia. El impuesto se aplicará a las transmisiones cuyo hecho imponible ocurra desde el 1° de enero del año siguiente a aquel en que la autoridad de aplicación certifique que el registro patrimonial está operativo en el territorio provincial."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Provincias que ya aplican el impuesto",
+     "texto": "[Solo para las provincias que ya tengan el impuesto, como la Provincia de Buenos Aires con la Ley N° 14.044:] Adecúase la Ley provincial N° [—] a la presente: sus disposiciones se sustituyen por las de los Capítulos I a III desde la fecha del artículo 14°."
+    },
+    {
+     "n": 16,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Código Fiscal y Ley Impositiva de [Provincia] (se incorpora el impuesto y su escala)",
+  "Para la Provincia de Buenos Aires: Ley 14.044 (adecuación al piso común y a la valuación por registro patrimonial)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

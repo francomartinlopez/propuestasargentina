@@ -1,0 +1,218 @@
+{
+ "id": "N329",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de evaluación de inversiones extranjeras en sectores estratégicos",
+ "sumilla": "Somete a evaluación previa, con criterios públicos y para todo origen, las inversiones extranjeras nuevas, compras de control y renovaciones de concesión en energía, puertos, telecomunicaciones, datos, minerales críticos y tierras; restituye por ley los límites a la propiedad extranjera de tierras rurales con evaluación caso por caso por encima de ellos, y crea la comisión evaluadora y la comisión bicameral de control.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Mayoría simple; cámara de origen indistinta (no crea tributos).",
+ "motivos": "La República mantiene un régimen de inversiones extranjeras abierto, con igualdad de trato entre inversores locales y extranjeros (Ley N° 21.382). Esa apertura es un activo que el presente proyecto preserva. Sin embargo, la Argentina carece de un mecanismo que permita evaluar, antes de que se perfeccionen, las operaciones que pueden afectar la seguridad nacional o la continuidad del abastecimiento en sectores como la energía, los puertos, las telecomunicaciones, los datos, los minerales críticos y las tierras. Según la Cancillería, con datos del INDEC, en 2025 un solo país aportó el 23,7 % de las importaciones argentinas, lo que muestra la importancia de evitar dependencias concentradas. El proyecto, inspirado en mecanismos comparados como el del Reglamento (UE) 2019/452, establece una evaluación previa con criterios públicos, plazos breves y silencio positivo, aplicable a inversores de cualquier origen y compatible con los tratados de inversión. Respeta la estabilidad de los proyectos adheridos al Régimen de Incentivo para Grandes Inversiones, que solo se evalúan ante un cambio de control o una ampliación fuera del plan aprobado. La evaluación queda a cargo de una comisión interministerial sin estructura propia, bajo control de una comisión bicameral del Congreso. Por último, el proyecto restituye por ley los límites a la titularidad extranjera de tierras rurales, cuya vigencia se encuentra hoy en discusión judicial, y permite evaluar caso por caso las adquisiciones que los excedan.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y ámbito de aplicación",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece un régimen de evaluación previa, con criterios públicos y aplicable a inversores de cualquier origen, de las inversiones extranjeras en sectores estratégicos, con el fin de resguardar la seguridad nacional, el orden público y la continuidad del abastecimiento de bienes y servicios esenciales. Asimismo, establece los límites a la titularidad y posesión extranjera de tierras rurales y crea la Comisión de Evaluación de Inversiones Estratégicas y la Comisión Bicameral de Control de las Inversiones Estratégicas."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sectores estratégicos",
+     "texto": "A los fines de la presente ley son sectores estratégicos: a) la energía, que comprende la generación, el transporte y la distribución de energía eléctrica y la producción, el transporte y la distribución de hidrocarburos; b) los puertos y las terminales portuarias; c) las telecomunicaciones y los servicios de tecnologías de la información y las comunicaciones; d) la infraestructura de almacenamiento y tratamiento de datos a gran escala, en los términos que fije la reglamentación; e) los minerales críticos, conforme la lista que apruebe y publique la autoridad de aplicación, que se revisará al menos cada DOS (2) años; y f) las tierras rurales, entendidas como todo predio ubicado fuera de los ejidos urbanos, cualquiera sea su destino o actividad."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Operaciones alcanzadas",
+     "texto": "Quedan sujetas a evaluación previa las siguientes operaciones de inversores extranjeros en los sectores estratégicos: a) las inversiones nuevas; b) la adquisición, directa o indirecta, del control de una empresa, establecimiento o activo; c) la renovación o prórroga de concesiones, licencias o permisos otorgados por el Estado nacional, cuando su titular sea un inversor extranjero o esté controlado por él; y d) las adquisiciones de tierras rurales que excedan los límites del Capítulo III. La reglamentación podrá establecer un procedimiento simplificado para las operaciones de menor significación económica, sin eximirlas de la notificación."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Inversor extranjero y control",
+     "texto": "A los fines de la presente ley se considera inversor extranjero: a) la persona humana que no tenga nacionalidad argentina ni residencia permanente en el país; b) la persona jurídica constituida en el exterior; c) la persona jurídica constituida en el país en la que las personas de los incisos a) o b) sean titulares, directa o indirectamente, de más del CINCUENTA POR CIENTO (50 %) del capital o de votos suficientes para formar la voluntad social; y d) los Estados extranjeros y las entidades controladas por ellos. Se entiende por control la posibilidad de ejercer, directa o indirectamente, una influencia determinante sobre la gestión o las decisiones estratégicas de la empresa o del activo."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Igualdad de trato por origen",
+     "texto": "Los criterios de evaluación se aplican por igual a los inversores de cualquier origen. Ninguna resolución dictada en virtud de la presente ley podrá fundarse en la nacionalidad del inversor como tal, sino en los criterios del artículo 8°. La presente ley se aplica de conformidad con los tratados internacionales vigentes para la República, en ejercicio de las excepciones de seguridad esencial y de orden público que ellos reconocen."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Proyectos adheridos al Régimen de Incentivo para Grandes Inversiones",
+     "texto": "Los proyectos adheridos al Régimen de Incentivo para Grandes Inversiones del Título VII de la Ley N° 27.742 antes de la entrada en vigencia de la presente ley solo quedan sujetos a evaluación cuando se produzca un cambio de control o una ampliación no comprendida en el plan de inversión aprobado. Nada de lo dispuesto en la presente ley afecta la estabilidad otorgada en los términos del artículo 201 de la Ley N° 27.742."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Procedimiento y criterios de evaluación",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Notificación previa",
+     "texto": "Las operaciones alcanzadas deberán notificarse a la autoridad de aplicación antes de su perfeccionamiento o, en el caso de las renovaciones y prórrogas, antes de su otorgamiento. Los actos y contratos que instrumenten operaciones alcanzadas se entienden celebrados bajo la condición suspensiva de la no objeción prevista en la presente ley. La autoridad sectorial competente no otorgará la renovación o prórroga de una concesión, licencia o permiso alcanzado sin la resolución prevista en el artículo 10."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Criterios de evaluación",
+     "texto": "La evaluación considerará exclusivamente los siguientes criterios, que la autoridad de aplicación publicará con sus pautas interpretativas: a) si el inversor es controlado, directa o indirectamente, por un Estado extranjero o por entidades sujetas a sus instrucciones; b) los efectos de la operación sobre la continuidad y la seguridad del abastecimiento de energía, de servicios portuarios, de telecomunicaciones o de minerales críticos; c) el acceso que la operación otorgue a datos personales o a información sensible a gran escala; d) la concentración en un único proveedor u origen de insumos o servicios críticos; e) la proximidad de la operación a instalaciones de la defensa o de la seguridad nacional; y f) los antecedentes del inversor en operaciones que hayan afectado la seguridad o el orden público de otros Estados."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Plazos",
+     "texto": "La autoridad de aplicación resolverá dentro de los CUARENTA Y CINCO (45) días hábiles de recibida la notificación completa. El plazo podrá ampliarse por única vez por otros CUARENTA Y CINCO (45) días hábiles, por resolución fundada, cuando la complejidad de la operación lo requiera. Vencido el plazo sin resolución, la operación se tendrá por no objetada. Cuando la operación deba notificarse también conforme la Ley N° 27.442, los plazos correrán en forma simultánea y la autoridad de aplicación se coordinará con la Autoridad Nacional de la Competencia para evitar requerimientos duplicados."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Resolución y recursos",
+     "texto": "La autoridad de aplicación, previo dictamen de la Comisión de Evaluación de Inversiones Estratégicas, resolverá: a) la no objeción de la operación; b) la no objeción sujeta a condiciones de mitigación proporcionadas al riesgo identificado, que podrán referirse a la gobernanza de la empresa, la localización y el resguardo de datos, la continuidad del abastecimiento o la desinversión de activos sensibles; o c) la objeción, solo cuando el riesgo no pueda mitigarse por las condiciones del inciso b). Toda resolución será fundada en los criterios del artículo 8°. La objeción requiere dictamen de la Comisión que la recomiende. Las resoluciones son recurribles conforme el régimen nacional de procedimientos administrativos y, agotada la vía administrativa, ante la justicia en lo contencioso administrativo federal."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Falta de notificación",
+     "texto": "Las operaciones alcanzadas que se perfeccionen sin notificación o en contra de una objeción no serán oponibles al Estado nacional ni podrán inscribirse en los registros públicos nacionales. La autoridad de aplicación podrá evaluar de oficio las operaciones no notificadas dentro de los TRES (3) años de su perfeccionamiento."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Publicidad",
+     "texto": "La autoridad de aplicación publicará en su sitio web oficial: a) los criterios del artículo 8° y sus pautas interpretativas; b) la lista de minerales críticos; c) una síntesis de cada resolución de objeción o de no objeción con condiciones, que omita la información calificada como reservada; y d) un informe estadístico anual con la cantidad de operaciones notificadas, los plazos de resolución y el sentido de las resoluciones, por sector y por origen del inversor."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Autoridades sectoriales y provincias",
+     "texto": "La evaluación prevista en la presente ley no sustituye los requisitos establecidos por las leyes sectoriales ni las facultades de las provincias sobre sus recursos naturales, conforme el artículo 124 de la Constitución Nacional. Las provincias podrán solicitar a la autoridad de aplicación la evaluación de operaciones sobre recursos de su dominio y serán informadas de las resoluciones que se refieran a su territorio."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Tierras rurales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Límite general",
+     "texto": "La titularidad o posesión de tierras rurales por inversores extranjeros no podrá superar el QUINCE POR CIENTO (15 %) del total de las tierras rurales del territorio nacional. El mismo límite se computa respecto de cada provincia y de cada departamento, municipio o entidad administrativa equivalente."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Límite por nacionalidad",
+     "texto": "Las personas humanas o jurídicas de una misma nacionalidad extranjera no podrán superar el TREINTA POR CIENTO (30 %) del porcentaje establecido en el artículo 14."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Límite por titular",
+     "texto": "Las tierras rurales de un mismo titular extranjero no podrán superar las MIL HECTÁREAS (1.000 ha) en la zona núcleo o la superficie equivalente que determine la autoridad de aplicación según la localización y la calidad de las tierras."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Cuerpos de agua y zonas de seguridad",
+     "texto": "Los inversores extranjeros no podrán ser titulares ni poseedores de inmuebles rurales que contengan o sean ribereños de cuerpos de agua de envergadura y permanentes, conforme los identifique la reglamentación. La adquisición de inmuebles en zonas de seguridad de frontera se rige por el Decreto-Ley N° 15.385/44, ratificado por la Ley N° 12.913."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Evaluación por encima de los límites",
+     "texto": "Las adquisiciones de tierras rurales que excedan los límites de los artículos 14, 15 y 16 solo podrán perfeccionarse con resolución de no objeción dictada conforme el procedimiento del Capítulo II, que además de los criterios del artículo 8° considerará la magnitud del exceso y su efecto sobre la concentración de la titularidad de la tierra en la jurisdicción de que se trate."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Registro de tierras rurales",
+     "texto": "La autoridad de aplicación llevará un registro de la titularidad y posesión extranjera de tierras rurales, integrado con la información de los registros de la propiedad inmueble y de los catastros provinciales, y publicará cada año los porcentajes de titularidad extranjera a nivel nacional, provincial y departamental. Los registros de la propiedad inmueble no inscribirán actos alcanzados por este Capítulo sin el certificado que expida la autoridad de aplicación."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Nulidad",
+     "texto": "Los actos jurídicos celebrados en violación de lo dispuesto en este Capítulo son de nulidad absoluta, sin derecho a indemnización alguna en favor de quienes participaron en ellos."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Derechos adquiridos y tratados de inversión",
+     "texto": "El presente Capítulo no afecta los derechos adquiridos con anterioridad a su entrada en vigencia. A los fines de los tratados bilaterales de inversión vigentes, la adquisición de tierras rurales no se considera inversión, por tratarse de un recurso natural no renovable que aporta el país receptor."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Relación con la Ley N° 26.737",
+     "texto": "El presente Capítulo regula en forma íntegra los límites a la titularidad y posesión extranjera de tierras rurales. Las disposiciones de la Ley N° 26.737 que se consideren vigentes quedan reemplazadas por las de este Capítulo desde su entrada en vigencia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Comisión de Evaluación de Inversiones Estratégicas",
+   "articulos": [
+    {
+     "n": 23,
+     "epigrafe": "Creación",
+     "texto": "Créase la Comisión de Evaluación de Inversiones Estratégicas, que funcionará en el ámbito de la autoridad de aplicación, sin estructura orgánica propia ni personal propio."
+    },
+    {
+     "n": 24,
+     "epigrafe": "Integración",
+     "texto": "La Comisión se integra con personal técnico designado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, el Ministerio de Economía, el Ministerio de Defensa y el Ministerio de Justicia y Seguridad, en la forma que establezca la reglamentación. Podrá requerir informes a la Secretaría de Inteligencia de Estado de la Presidencia de la Nación, a la Autoridad Nacional de la Competencia, a las autoridades sectoriales y a las provincias."
+    },
+    {
+     "n": 25,
+     "epigrafe": "Funciones y reserva",
+     "texto": "Son funciones de la Comisión: a) dictaminar sobre cada operación notificada o evaluada de oficio; b) proponer a la autoridad de aplicación las pautas interpretativas de los criterios del artículo 8° y la lista de minerales críticos; y c) elaborar un informe semestral reservado para la Comisión Bicameral de Control de las Inversiones Estratégicas. Sus integrantes deben guardar reserva sobre la información comercial, personal o de seguridad a la que accedan."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Control parlamentario",
+   "articulos": [
+    {
+     "n": 26,
+     "epigrafe": "Comisión Bicameral",
+     "texto": "Créase en el ámbito del Honorable Congreso de la Nación la Comisión Bicameral de Control de las Inversiones Estratégicas. Su integración y funcionamiento se rigen por lo que dispongan ambas Cámaras, respetando la proporción de las representaciones políticas."
+    },
+    {
+     "n": 27,
+     "epigrafe": "Funciones",
+     "texto": "La Comisión Bicameral recibe: a) dentro de los DIEZ (10) días hábiles de dictadas, copia íntegra de las resoluciones de objeción y de no objeción con condiciones y de los dictámenes que las fundan; y b) el informe semestral reservado de la Comisión de Evaluación. Puede requerir información adicional a la autoridad de aplicación y emite un informe público anual sobre el funcionamiento del régimen, que omite la información reservada."
+    },
+    {
+     "n": 28,
+     "epigrafe": "Reserva",
+     "texto": "La información que reciba la Comisión Bicameral conserva la calificación de reserva asignada por la autoridad de aplicación. Se aplican, en lo pertinente, a sus miembros y a su personal los deberes y las responsabilidades previstos en los artículos 16, 32, 36 y 40 de la Ley N° 25.520."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 29,
+     "epigrafe": "Modificación de la Ley N° 21.382",
+     "texto": "Incorpórase como último párrafo del artículo 1° de la Ley de Inversiones Extranjeras N° 21.382 (t.o. 1993) el siguiente: «Lo dispuesto en el presente artículo se aplica sin perjuicio de la evaluación previa de las inversiones extranjeras en sectores estratégicos establecida por la ley de evaluación de inversiones extranjeras en sectores estratégicos, cuyos criterios son iguales para los inversores de cualquier origen.» La facultad de invertir sin aprobación previa prevista en el artículo 2° del Decreto N° 1853/93 se entiende con la misma salvedad."
+    },
+    {
+     "n": 30,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "El Poder Ejecutivo nacional designará la autoridad de aplicación de la presente ley, que será el Ministerio de Economía."
+    },
+    {
+     "n": 31,
+     "epigrafe": "Financiamiento",
+     "texto": "La aplicación de la presente ley no demanda erogaciones adicionales. La Comisión de Evaluación funciona con personal y créditos de las jurisdicciones que la integran, asignados en el Presupuesto General de la Administración Nacional."
+    },
+    {
+     "n": 32,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entra en vigencia el día de su publicación en el Boletín Oficial. El Capítulo II se aplica a las operaciones que no se hayan perfeccionado a la fecha de entrada en vigencia de su reglamentación, que el Poder Ejecutivo nacional dictará dentro de los NOVENTA (90) días corridos de la promulgación."
+    },
+    {
+     "n": 33,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 21.382 (t.o. 1993), art. 1 (incorpora último párrafo)",
+  "Decreto 1853/1993, art. 2 (salvedad)"
+ ],
+ "deroga": [
+  "Ley 26.737 (reemplazo de las disposiciones que se consideren vigentes, art. 22)"
+ ],
+ "variantes": null
+}

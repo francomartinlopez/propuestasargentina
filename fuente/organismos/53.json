@@ -1,0 +1,75 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Evaluador académico independiente",
+    "estado": "existente",
+    "rol": "Evalúa el piloto con grupo de comparación.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Coordina el plan nacional y los equipos de calle de salud mental y consumos.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Trabajo y Desarrollo Social",
+    "estado": "modificado",
+    "rol": "Organiza la salida laboral: capacitación, trabajo comunitario e ingreso único.",
+    "hoy": "Ministerio de Capital Humano (Decreto 378/2026)",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Trabajo y Empleo",
+      "estado": "modificado",
+      "rol": "Gestiona el Programa, el banco público de proyectos, los convenios y la evaluación. Firma los convenios, asigna participantes y paga en forma directa.",
+      "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+      "hijos": []
+     },
+     {
+      "nombre": "Administración Nacional de la Seguridad Social",
+      "estado": "existente",
+      "rol": "Puede pagar el complemento en cuenta bancaria por encargo de la autoridad de aplicación. Paga el complemento en la cuenta del participante.",
+      "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social",
+      "estado": "modificado",
+      "rol": "Evalúa y publica proyectos, controla la no sustitución, distribuye lugares y contrata el seguro y la evaluación.",
+      "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Instituto Nacional de Estadística y Censos (INDEC)",
+    "estado": "existente",
+    "rol": "Hace el relevamiento anual de personas en situación de calle con las provincias.",
+    "hoy": "INDEC, organismo desconcentrado del Ministerio de Economía (Decreto 50/2019, Anexo III, ap. IX, según Decreto 146/2026)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Municipios",
+   "rol": "Proponen y ejecutan proyectos del banco público."
+  },
+  {
+   "nombre": "Municipios y organizaciones sociales",
+   "rol": "Presentan proyectos, supervisan y certifican asistencia, sin manejar fondos."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Pueden aportar formación, proyectos o recursos."
+  }
+ ]
+}

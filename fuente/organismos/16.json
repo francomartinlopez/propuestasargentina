@@ -1,0 +1,107 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+    "estado": "modificado",
+    "rol": "Administradora técnica de la base del registro patrimonial. Administra la base técnica del registro patrimonial bajo secreto fiscal y registro de consultas.",
+    "hoy": "ARCA, ente autárquico en el ámbito del Ministerio de Economía (Decreto 953/2024)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Geográfico Nacional",
+    "estado": "existente",
+    "rol": "Marco geodésico oficial y asistencia técnica. Fija el marco geodésico y las instrucciones técnicas de georreferenciación (Ley 22.963, arts. 2 y 5).",
+    "hoy": "IGN, organismo descentralizado del Ministerio de Defensa (Secretaría de Investigación, Política Industrial y Producción para la Defensa)",
+    "hijos": []
+   },
+   {
+    "nombre": "Registro Nacional de la Propiedad del Automotor e Inspección General de Justicia (IGJ)",
+    "estado": "existente",
+    "rol": "Se interconectan con los catastros.",
+    "hoy": "DNRPA e Inspección General de Justicia (Ministerio de Justicia)",
+    "hijos": []
+   },
+   {
+    "nombre": "Jefatura de Gabinete de Ministros",
+    "estado": "existente",
+    "rol": "Firma por la Nación.",
+    "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete del Interior",
+    "hijos": [
+     {
+      "nombre": "Agencia de Acceso a la Información Pública",
+      "estado": "modificado",
+      "rol": "Audita cada año el cumplimiento de las garantías de privacidad y aplica sanciones.",
+      "hoy": "Agencia de Acceso a la Información Pública (AAIP), ente autárquico en el ámbito de la Jefatura de Gabinete de Ministros",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros",
+      "estado": "modificado",
+      "rol": "Provee la plataforma de interoperabilidad y fija con el Consejo los protocolos.",
+      "hoy": "Jefatura de Gabinete de Ministros – Secretaría de Innovación, Ciencia y Tecnología",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Infraestructura de datos espaciales",
+    "estado": "modificado",
+    "rol": "Publica los mapas de valor del suelo por zona.",
+    "hoy": "IDERA",
+    "hijos": []
+   },
+   {
+    "nombre": "Catastros provinciales",
+    "estado": "modificado",
+    "rol": "Aplica el estándar, valúa, publica los mapas y se interconecta.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal del Catastro",
+    "estado": "existente",
+    "rol": "Aprueba el estándar y la metodología y fija el cronograma con la Provincia. Coordina el registro: aprueba la nómina de datos y la matriz de accesos.",
+    "hoy": "Consejo Federal del Catastro (Ley 26.209, art. 15)",
+    "hijos": []
+   },
+   {
+    "nombre": "Registro automotor nacional",
+    "estado": "modificado",
+    "rol": "Se interconecta y aporta titularidad y valuación de vehículos.",
+    "hoy": "DNRPA (Ministerio de Justicia; Subsecretaría de Asuntos Registrales)",
+    "hijos": []
+   },
+   {
+    "nombre": "Inspección General de Justicia",
+    "estado": "modificado",
+    "rol": "Se interconecta y aporta datos societarios.",
+    "hoy": "IGJ (Ministerio de Justicia)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Consejo Federal del Catastro",
+   "rol": "Ámbito de firma; aprueba los estándares y la metodología y gobierna el registro patrimonial."
+  },
+  {
+   "nombre": "Catastros y registros provinciales",
+   "rol": "Adoptan los estándares, valúan y se interconectan."
+  },
+  {
+   "nombre": "Justicia",
+   "rol": "Autoriza todo uso de los datos distinto del catastral, registral o tributario."
+  },
+  {
+   "nombre": "Registros provinciales",
+   "rol": "Se interconectan con el catastro y con los registros nacionales."
+  }
+ ]
+}

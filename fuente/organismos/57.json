@@ -1,0 +1,98 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Oficina Nacional de Contrataciones",
+    "estado": "modificado",
+    "rol": "Unifica COMPR.AR y CONTRAT.AR en una plataforma única en datos abiertos con alertas, en seis meses. Administra por ley la plataforma única y certifica interrupciones del sistema. Administra la plataforma única, publica el esquema de datos y los parámetros de las alertas y certifica interrupciones.",
+    "hoy": "Oficina Nacional de Contrataciones (Jefatura de Gabinete de Ministros, Secretaría Ejecutiva)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Hacienda",
+    "estado": "modificado",
+    "rol": "Abre el portal de pagos alimentado por el e-SIDIF sobre Presupuesto Abierto, en seis meses. Administra el portal de pagos sobre el e-SIDIF y su esquema de datos.",
+    "hoy": "Secretaría de Hacienda (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Tesorería General de la Nación y Contaduría General de la Nación",
+    "estado": "modificado",
+    "rol": "Registran en el e-SIDIF todos los pagos, ingresos y cuentas para su publicación",
+    "hoy": "Tesorería General de la Nación y Contaduría General de la Nación (Subsecretaría de Presupuesto, Secretaría de Hacienda)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Acceso a la Información Pública",
+    "estado": "modificado",
+    "rol": "Publica cada trimestre el informe de cumplimiento por organismo. Informe trimestral de cumplimiento al Congreso.",
+    "hoy": "Agencia de Acceso a la Información Pública (ente autárquico en el ámbito de la Jefatura de Gabinete)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital",
+    "estado": "modificado",
+    "rol": "Replica la información en el portal nacional de datos abiertos",
+    "hoy": "Secretaría de Innovación, Ciencia y Tecnología (Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Sindicatura General de la Nación (SIGEN)",
+    "estado": "modificado",
+    "rol": "Recibe los incumplimientos y aporta precios testigo para las alertas. Aporta precios testigo para las alertas y recibe sus resultados.",
+    "hoy": "Sindicatura General de la Nación (Presidencia de la Nación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Órganos rectores de tesorería y contabilidad",
+    "estado": "modificado",
+    "rol": "Publican por ley cada pago, ingreso, saldo y la ejecución diaria. Publican pagos, ingresos, saldos y ejecución diaria en el formato fijado.",
+    "hoy": "Tesorería General de la Nación y Contaduría General de la Nación (Secretaría de Hacienda, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad de transparencia y datos personales",
+    "estado": "modificado",
+    "rol": "Informe trimestral de cumplimiento con los indicadores definidos.",
+    "hoy": "AAIP (ente autárquico en el ámbito de la Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   },
+   {
+    "nombre": "Órgano rector provincial de contrataciones",
+    "estado": "modificado",
+    "rol": "Administra la plataforma única provincial en el estándar común y publica los parámetros de las alertas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ámbito federal de cooperación en transparencia",
+    "estado": "existente",
+    "rol": "Ámbito técnico para formatos y estándares de datos comunes.",
+    "hoy": "Consejo Federal para la Transparencia (Ley 27.275)",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Responsabilidad Fiscal",
+    "estado": "existente",
+    "rol": "Recibe la información de cumplimiento para la comparación entre provincias.",
+    "hoy": "Consejo Federal de Responsabilidad Fiscal (Ley 25.917, art. 27)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Puede auditar el cumplimiento y la integridad de lo publicado"
+  },
+  {
+   "nombre": "Órganos rectores provinciales de tesorería y contabilidad",
+   "rol": "Publican cada pago, ingreso y saldo de cuenta al día hábil siguiente."
+  }
+ ]
+}

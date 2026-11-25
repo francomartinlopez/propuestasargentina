@@ -1,0 +1,78 @@
+{
+ "id": "N222",
+ "tipo": "invitacion",
+ "titulo": "Invitación a la Corte Suprema de Justicia de la Nación a crear el tablero público por causa en la justicia federal",
+ "sumilla": "Nota del Poder Ejecutivo que invita a la Corte Suprema a crear, sobre el expediente electrónico de la Ley 26.685 y el sistema de gestión Lex100, un tablero público por causa que muestre la etapa, los plazos y las demoras de cada causa federal, con resguardo de los datos sensibles, para el 100 % de las causas federales en el primer año, con un texto modelo de acordada.",
+ "cuando": "Fase I (tablero para el 100 % de las causas federales al 10/12/2028)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (acordada de la Corte Suprema; reglamentación conjunta con el Consejo de la Magistratura, Ley 26.685, art. 2)",
+ "motivos": "",
+ "visto": "",
+ "considerando": [],
+ "formula": "Por ello, ACORDARON:",
+ "capitulos": [
+  {
+   "titulo": "Nota del Poder Ejecutivo nacional",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Nota",
+     "texto": "Buenos Aires, [fecha].\nAl señor Presidente de la Corte Suprema de Justicia de la Nación\nS/D\nTengo el agrado de dirigirme a V.E. a fin de proponer a esa Corte, con pleno respeto de su independencia y de sus atribuciones, la creación de un tablero público por causa para la justicia federal, construido sobre el expediente electrónico previsto en la Ley N° 26.685 y sobre el sistema de gestión Lex100.\nUna justicia rápida y previsible es condición de la seguridad jurídica. Que cada persona pueda ver en qué etapa está una causa, qué plazos rigen y cuánto tiempo lleva cada etapa permite medir las demoras, ordenar los recursos donde más se necesitan y fortalecer la confianza pública en los tribunales, con el debido resguardo de los datos sensibles.\nAcompaño como anexo un texto modelo de acordada, a título de colaboración, para que V.E. y los señores Ministros lo consideren, lo modifiquen o lo descarten según su criterio, y para su eventual reglamentación conjunta con el Consejo de la Magistratura de la Nación, conforme al artículo 2° de la Ley N° 26.685. El Poder Ejecutivo nacional ofrece la cooperación técnica de la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros.\nSaludo a V.E. con mi más distinguida consideración.\n[Firma del Presidente de la Nación]\nc.c.: Presidente del Consejo de la Magistratura de la Nación."
+    }
+   ]
+  },
+  {
+   "titulo": "Anexo – Texto modelo de acordada",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Encabezamiento y considerandos",
+     "texto": "ACORDADA N° [—]/[año]. En Buenos Aires, a los [—] días del mes de [—] del año [—], los señores Ministros que suscriben la presente,\nCONSIDERARON:\nI) Que la Ley N° 26.685 autorizó la utilización de expedientes, documentos, firmas, comunicaciones y domicilios electrónicos en los procesos judiciales, y dispuso que esta Corte y el Consejo de la Magistratura de la Nación reglamenten en forma conjunta su utilización.\nII) Que la información que registra el sistema de gestión de causas permite conocer la etapa, los plazos y la duración de cada proceso, y que su publicidad contribuye a la transparencia y a la mejora del servicio de justicia.\nIII) Que esa publicidad debe conciliarse con la protección de los datos personales y de las personas en situación de vulnerabilidad, y con el secreto de las actuaciones que dispongan los jueces."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Punto 1°",
+     "texto": "Crear el Tablero Público de Causas, de acceso libre y gratuito en el sitio oficial del Poder Judicial de la Nación, que mostrará para cada causa en trámite ante los tribunales federales de todo el país, a partir de los datos del sistema de gestión de causas: el número de expediente, el fuero, el tribunal, el tipo de proceso, la fecha de inicio, la etapa en que se encuentra, la fecha de la última actuación, las audiencias fijadas, el plazo legal o reglamentario de la etapa y los días transcurridos, y la indicación de si ese plazo está vencido."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Punto 2°",
+     "texto": "Disponer que el Tablero no publicará los nombres ni otros datos que permitan identificar a las partes en las causas de familia, en las que intervengan niñas, niños o adolescentes, en las de víctimas de delitos contra la integridad sexual, en las que se ventilen datos de salud, ni en las que el juez haya dispuesto el secreto de las actuaciones mientras este dure. En las demás causas se publicarán los datos que ya son de acceso público en la consulta de causas."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Punto 3°",
+     "texto": "Publicar cada año, en formato abierto, indicadores de duración y de desempeño por tribunal y por tipo de proceso, incluidos la duración media por etapa, el número de causas con plazos vencidos y el cumplimiento de los plazos máximos fijados por las leyes procesales."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Punto 4°",
+     "texto": "Establecer que el Tablero comprenderá el cien por ciento (100 %) de las causas en trámite ante los tribunales federales dentro de los doce (12) meses de la presente, conforme al cronograma por fuero y jurisdicción que apruebe la Presidencia del Tribunal."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Punto 5°",
+     "texto": "Invitar al Consejo de la Magistratura de la Nación a suscribir la presente como reglamentación conjunta en los términos del artículo 2° de la Ley N° 26.685, y a prever los recursos necesarios para su implementación."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Punto 6°",
+     "texto": "Disponer que la Presidencia del Tribunal podrá extender el Tablero a los demás tribunales del Poder Judicial de la Nación, y aceptar la cooperación técnica que ofrece el Poder Ejecutivo nacional."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Punto 7°",
+     "texto": "Incluir en los indicadores del Punto 3° un apartado específico para las causas por delitos contra la administración pública, que muestre para cada juzgado, fiscalía y cámara la duración de cada etapa, la cantidad de archivos, desestimaciones y sobreseimientos dictados y su resultado en la revisión, separando las causas contra funcionarios en ejercicio de las causas contra ex funcionarios, con el detalle de su evolución en el tiempo."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cierre",
+     "texto": "Todo lo cual dispusieron y mandaron, ordenando que se comunique, se publique en la página web del Tribunal y en el Boletín Oficial, y se registre en el libro correspondiente, por ante mí, que doy fe."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

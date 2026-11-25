@@ -1,0 +1,100 @@
+{
+ "id": "N362",
+ "tipo": "resolucion",
+ "titulo": "Resolución de la Dirección Nacional de Migraciones: Procedimiento Digital de Radicación en 30 días",
+ "sumilla": "Organiza el trámite digital de radicación: requisitos cerrados y publicados, residencia precaria automática, un solo turno biométrico, resolución en 20 días y comunicación en el día al RENAPER para que el DNI salga dentro del plazo total de 30 días, con tablero público de plazos.",
+ "cuando": "Fase I (dentro de los 30 días del decreto «Decreto de plazos máximos de radicación y de refugio, reglamentario de la ley de migraciones y refugio en plazo cierto»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (resolución de la Dirección Nacional de Migraciones).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° 25.871 de Migraciones, la reglamentación aprobada por el Decreto N° 616/2010, la Ley N° 17.671, el Decreto N° […] de plazos máximos de radicación y de refugio, y CONSIDERANDO:",
+ "considerando": [
+  "Que el Decreto N° […] fijó en TREINTA (30) días corridos el plazo máximo entre la presentación de una solicitud de residencia completa y la emisión del Documento Nacional de Identidad, y en VEINTE (20) días corridos el plazo de esta Dirección Nacional para resolverla.",
+  "Que el mismo decreto dispuso que el trámite se realice por medios electrónicos, con un único turno presencial para la captura de datos biométricos, y que la residencia precaria se otorgue en forma automática con la solicitud completa.",
+  "Que el artículo 13 de ese decreto encomendó a esta Dirección Nacional dictar las normas de procedimiento necesarias para su aplicación.",
+  "Que la Ley N° 25.871 no establece un plazo máximo para resolver las solicitudes de residencia y que las demoras administrativas favorecen la informalidad laboral de las personas migrantes.",
+  "Que el servicio jurídico permanente ha tomado la intervención que le compete.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por la Ley N° 25.871, la reglamentación aprobada por el Decreto N° 616/2010 y el Decreto N° […]."
+ ],
+ "formula": "Por ello, EL DIRECTOR NACIONAL DE MIGRACIONES RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Apruébase el Procedimiento Digital de Radicación, que rige la tramitación de las solicitudes de residencia temporaria y permanente ante esta DIRECCIÓN NACIONAL, desde su presentación hasta la comunicación al REGISTRO NACIONAL DE LAS PERSONAS para la emisión del Documento Nacional de Identidad."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Plataforma",
+     "texto": "Las solicitudes se presentan exclusivamente a través de la plataforma digital de radicación de esta DIRECCIÓN NACIONAL, que permite cargar la documentación, abonar las tasas, consultar el estado del trámite, recibir notificaciones y descargar la residencia precaria y la constancia de residencia otorgada. Las delegaciones prestarán asistencia presencial para la carga a quienes la requieran, sin que ello modifique los plazos."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Requisitos",
+     "texto": "La Dirección de Asuntos Migratorios o el área que la reemplace publicará en el sitio web oficial, dentro de los QUINCE (15) días de la entrada en vigencia de la presente, la lista cerrada de requisitos de cada categoría y criterio de residencia. Los documentos emitidos por organismos nacionales que puedan obtenerse por interoperabilidad no se exigirán al solicitante."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Verificación de completitud",
+     "texto": "Dentro de los TRES (3) días hábiles de presentada la solicitud, el área de recepción verificará si está completa. Si no lo está, notificará al solicitante, en un solo acto, la totalidad de los requisitos faltantes. Vencido ese plazo sin observación, la solicitud se tiene por completa desde su presentación."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Residencia precaria digital",
+     "texto": "Con la solicitud completa, la plataforma emitirá en forma automática la residencia precaria en formato digital, con un código de verificación que permita a empleadores, establecimientos educativos y de salud y entidades financieras comprobar su autenticidad en línea."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Turno biométrico",
+     "texto": "La plataforma asignará, al tenerse por completa la solicitud, un turno para la captura de datos biométricos dentro de los DIEZ (10) días corridos siguientes, en la delegación o centro de documentación que elija el solicitante. Los datos biométricos se capturan una sola vez y se utilizan también para la emisión del Documento Nacional de Identidad."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Control de antecedentes",
+     "texto": "El cruce de antecedentes se realizará por medios electrónicos con los registros nacionales competentes y con los de otros Estados con los que existan convenios. Cuando deban requerirse antecedentes a otro Estado, el área competente dejará constancia en el expediente de la fecha del requerimiento y de la respuesta, a los fines de la suspensión del plazo prevista en el artículo 6° del Decreto N° […]."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Resolución",
+     "texto": "La resolución sobre la solicitud se dictará dentro de los VEINTE (20) días corridos de tenerse por completa, descontadas las suspensiones previstas. La denegatoria será fundada y se notificará con indicación de los recursos disponibles."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Comunicación al Registro Nacional de las Personas",
+     "texto": "Otorgada la residencia, el sistema comunicará en el mismo día al REGISTRO NACIONAL DE LAS PERSONAS, por interoperabilidad, la residencia otorgada y los datos biométricos del solicitante, a los fines del inicio de oficio del trámite del Documento Nacional de Identidad."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Alertas de vencimiento",
+     "texto": "La plataforma generará alertas internas a los DIEZ (10) y a los QUINCE (15) días corridos de cada solicitud completa sin resolver. Las solicitudes que superen el plazo máximo se informarán cada semana al titular de esta DIRECCIÓN NACIONAL, con indicación del área y de la causa de la demora."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Tablero público",
+     "texto": "Esta DIRECCIÓN NACIONAL publicará cada mes en su sitio web oficial, en formato abierto, la cantidad de solicitudes presentadas, resueltas y pendientes, el tiempo promedio y la distribución de los plazos de resolución, por categoría de residencia y por delegación."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Reclamos",
+     "texto": "El solicitante cuya solicitud supere el plazo máximo podrá presentar un reclamo por la plataforma, que deberá ser atendido dentro de los CINCO (5) días hábiles por el área responsable."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Aplicación",
+     "texto": "El presente procedimiento se aplica a las solicitudes que se presenten desde los SESENTA (60) días corridos de la publicación del Decreto N° […]. Las solicitudes en trámite a esa fecha se migrarán a la plataforma y se resolverán con prioridad según su antigüedad."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

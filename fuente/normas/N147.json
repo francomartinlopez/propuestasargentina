@@ -1,0 +1,114 @@
+{
+ "id": "N147",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de restitución del Fondo Fiduciario del Servicio Universal y de adjudicación de sus programas por licitación pública",
+ "sumilla": "Restablece el fondo fiduciario del Servicio Universal de la Ley 27.078 con destino exclusivo, mantiene el aporte del 1 % de los licenciatarios TIC y obliga a adjudicar sus programas por licitación pública con metas de cobertura verificables y datos abiertos.",
+ "cuando": "Fase I",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; cámara de origen indistinta (no crea ni modifica tributos ni contribuciones: el aporte del art. 22 de la Ley 27.078 sigue igual).",
+ "motivos": "La Ley N° 27.078 garantiza el Servicio Universal de tecnologías de la información y las comunicaciones y lo financia con un aporte del uno por ciento de los ingresos de los licenciatarios. El Decreto N° 6/2025 derogó el artículo 21, que creaba el fondo fiduciario, y disolvió el fideicomiso, pero mantuvo la obligación de aportar: los licenciatarios siguen contribuyendo sin que exista un instrumento con destino fijo. A su vez, el artículo 25 permite encomendar programas en forma directa, sin competencia. Según el Ente Nacional de Comunicaciones, el país alcanzó 85,4 accesos fijos a internet cada cien hogares en el segundo trimestre de 2026, con fuertes diferencias entre provincias, y la red federal de fibra óptica de la empresa estatal AR-SAT tiene tramos todavía sin iluminar. El presente proyecto restablece el fondo como fideicomiso con destino exclusivo, ordena que sus programas se adjudiquen por licitación pública con metas de cobertura verificables y publicación en datos abiertos, fija como primera prioridad la conexión de escuelas y centros de salud y excluye al fondo en forma expresa de la facultad de disolver fondos fiduciarios del artículo 5° de la Ley N° 27.742. No crea gasto nuevo: se financia con el aporte que los licenciatarios ya realizan.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley restablece el Fondo Fiduciario del Servicio Universal previsto en la Ley N° 27.078 de Argentina Digital, con destino exclusivo, mantiene el aporte de inversión de su artículo 22 y dispone que los programas del Servicio Universal se adjudiquen por licitación pública con metas de cobertura verificables y publicación en formato de datos abiertos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Modificaciones a la Ley N° 27.078",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Fondo Fiduciario del Servicio Universal",
+     "texto": "Restablécese la vigencia del artículo 21 de la Ley N° 27.078, con el siguiente texto:\n«Artículo 21.- Fondo Fiduciario del Servicio Universal. El Fondo Fiduciario del Servicio Universal se instrumenta mediante un fideicomiso en el que el Estado nacional actúa como fiduciante por intermedio de la Autoridad de Aplicación, el fiduciario es una entidad financiera pública que designe el Poder Ejecutivo nacional y los beneficiarios son los adjudicatarios de los programas del Servicio Universal, en la medida del cumplimiento verificado de sus obligaciones. Integran su patrimonio los aportes de inversión del artículo 22, las donaciones y legados y el producido de su inversión. Sus recursos tienen destino exclusivo al financiamiento de los programas del Servicio Universal: no podrán aplicarse a gastos de funcionamiento de la Autoridad de Aplicación ni transferirse a rentas generales o a otros fondos. La disolución del Fondo o la modificación de su destino solo podrán disponerse por ley.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Aplicación de los fondos por licitación pública",
+     "texto": "Sustitúyese el artículo 25 de la Ley N° 27.078 por el siguiente:\n«Artículo 25.- Aplicación de fondos. Los fondos del Servicio Universal se aplicarán por medio de programas específicos, que la Autoridad de Aplicación definirá con metas de cobertura, calidad y plazo medibles, y con el método para verificarlas. La ejecución de cada programa se adjudicará por licitación pública, nacional o internacional, con publicidad, concurrencia e igualdad de trato entre oferentes. No podrá encomendarse ni adjudicarse en forma directa. Podrán ofertar los licenciatarios de Servicios de TIC, incluidas las cooperativas, las pequeñas y medianas empresas y las empresas y sociedades en las que el Estado nacional, las provincias o los municipios tengan participación, en las mismas condiciones que los demás oferentes. Los pagos se efectuarán contra el cumplimiento verificado de las metas. Las empresas y sociedades de los estados provinciales o municipales licenciatarias de Servicios de TIC tendrán el mismo tratamiento jurídico tributario reconocido a la empresa ARSAT, en la medida y proporción que desarrollen el mismo objeto que ésta. Los programas del Servicio Universal deben entenderse como obligaciones sujetas a revisión periódica, por lo que los servicios incluidos y los programas que se elaboren serán revisados, al menos cada DOS (2) años, en función de las necesidades y requerimientos sociales, la demanda existente y la evolución tecnológica.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Régimen del Fondo",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Integración de los aportes",
+     "texto": "Los aportes de inversión del artículo 22 de la Ley N° 27.078 se depositarán en la cuenta del fideicomiso que indique la Autoridad de Aplicación y se transferirán a su patrimonio dentro de los DIEZ (10) días hábiles de percibidos, sin ingresar a rentas generales."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Contenido de los programas",
+     "texto": "Cada programa del Servicio Universal fijará, como mínimo: a) las localidades, hogares o establecimientos a cubrir; b) la velocidad y la calidad mínimas del servicio; c) el plazo de cumplimiento y los hitos intermedios; d) el monto máximo de financiamiento; e) el método de verificación de las metas, que incluirá mediciones independientes; y f) las sanciones por incumplimiento, entre ellas la pérdida de los pagos pendientes y la ejecución de las garantías."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Prioridades",
+     "texto": "La Autoridad de Aplicación dará prioridad a los programas que conecten, con velocidad mínima garantizada, a la totalidad de las escuelas y de los centros de salud públicos del país al 10 de diciembre de 2030, y a los que lleven el servicio a las localidades y zonas rurales sin cobertura o con menos accesos fijos por hogar. Para la última milla, se procurará la participación de cooperativas, pequeñas y medianas empresas y proveedores locales."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Datos abiertos",
+     "texto": "La Autoridad de Aplicación publicará en formato de datos abiertos, y mantendrá actualizados: a) los ingresos del Fondo y sus saldos; b) cada programa, con sus metas; c) cada convocatoria, las ofertas recibidas, el acta de adjudicación y el contrato; d) los pagos realizados, por adjudicatario y por hito; e) el resultado de las verificaciones de metas; y f) la cobertura y la velocidad del servicio por localidad. Remitirá además al Congreso de la Nación un informe anual sobre la ejecución del Fondo."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Exclusión de la facultad de disolución",
+     "texto": "El Fondo Fiduciario del Servicio Universal y el fideicomiso que lo instrumenta quedan excluidos en forma expresa de la facultad de disolver, modificar o desafectar fondos fiduciarios conferida al Poder Ejecutivo nacional por el artículo 5° de la Ley N° 27.742, y de toda otra facultad delegada que tenga ese efecto. Su disolución o la modificación de su destino solo pueden disponerse por ley."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Constitución del fideicomiso y transición",
+     "texto": "El contrato de fideicomiso se celebrará dentro de los NOVENTA (90) días de la entrada en vigencia de la presente ley. Hasta entonces, los aportes del artículo 22 de la Ley N° 27.078 se depositarán en una cuenta especial con el destino exclusivo del artículo 21 de esa ley, que se transferirá al fideicomiso al constituirse.\nLos saldos de aportes del Servicio Universal que a la entrada en vigencia de la presente ley se encuentren en cuentas de la Autoridad de Aplicación sin aplicar a programas se transferirán también al fideicomiso. Mientras permanezcan en él, los saldos solo podrán invertirse en instrumentos de bajo riesgo y alta liquidez que no sean emitidos por el Tesoro nacional."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Financiamiento",
+     "texto": "La presente ley no autoriza gastos adicionales del Tesoro nacional: los programas del Servicio Universal se financian exclusivamente con los recursos del Fondo, dentro de sus disponibilidades."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Normas de aplicación",
+     "texto": "La Autoridad de Aplicación dictará, dentro de los NOVENTA (90) días de la entrada en vigencia de la presente ley, el reglamento del Servicio Universal adecuado a ella y convocará a las primeras licitaciones."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Derogación",
+     "texto": "Déjanse sin efecto los artículos 3° y 4° del Decreto N° 6/2025 en cuanto se opongan a la presente ley."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 14,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.078, art. 21 (restablece su vigencia con nuevo texto)",
+  "Ley 27.078, art. 25 (sustituye)",
+  "Ley 27.742, art. 5 (exclusión expresa del fondo)"
+ ],
+ "deroga": [
+  "Decreto 6/2025, arts. 3 y 4, en lo que se opongan a esta ley"
+ ],
+ "variantes": null
+}

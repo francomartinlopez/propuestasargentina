@@ -1,0 +1,70 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Define y actualiza el Programa Médico Obligatorio como canasta mínima.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Superintendencia de Servicios de Salud",
+      "estado": "modificado",
+      "rol": "Lleva el registro único de portabilidad, administra el Fondo Solidario como compensador por edad y riesgo, audita y aprueba el régimen electoral de las obras sociales sindicales. Registro único en 6 meses, fórmula de compensación en 12, simulación, cobertura de desempleados y régimen electoral sindical.",
+      "hoy": "Superintendencia de Servicios de Salud (organismo descentralizado, Ministerio de Salud)",
+      "hijos": [
+       {
+        "nombre": "Fondo compensador de riesgo del seguro de salud",
+        "estado": "modificado",
+        "rol": "Pasa de subsidiar menores ingresos a compensar por edad y riesgo; financia la cobertura de desempleados sin aportes.",
+        "hoy": "Fondo Solidario de Redistribución (Ley 23.661, art. 22), cuenta especial administrada por la SSS",
+        "hijos": []
+       }
+      ]
+     },
+     {
+      "nombre": "Regulador nacional de obras sociales y prepagas",
+      "estado": "modificado",
+      "rol": "Registro único de portabilidad («Ley de libre elección y portabilidad en el Sistema Nacional del Seguro de Salud» art. 8) y compensación del Fondo Solidario por edad y enfermedades crónicas («Ley de libre elección y portabilidad en el Sistema Nacional del Seguro de Salud» art. 11), con auditoría y publicación (arts. 10 y 12).",
+      "hoy": "Superintendencia de Servicios de Salud (organismo descentralizado, Ministerio de Salud)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Distribuye aportes y contribuciones al agente elegido según el registro único.",
+    "hoy": "ARCA, ente autárquico en el ámbito del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "estado": "existente",
+    "rol": "Financia la cobertura de salud mientras se cobra la prestación por desempleo (Ley 24.013, art. 119 inc. b).",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "estado": "modificado",
+    "rol": "Regula la portabilidad del seguro de vida obligatorio. Normas del seguro de vida portable en 180 días.",
+    "hoy": "Superintendencia de Seguros de la Nación (organismo descentralizado, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero; Administración Nacional de la Seguridad Social",
+    "estado": "existente",
+    "rol": "ARCA distribuye aportes según el registro; ANSES informa extinciones y prestaciones por desempleo.",
+    "hoy": "ARCA (Ministerio de Economía) y ANSES (Ministerio de Capital Humano)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

@@ -1,0 +1,240 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Jefatura de Gabinete",
+    "estado": "modificado",
+    "rol": "Adecúa la distribución administrativa; pierde la facultad de reducir las partidas protegidas y ampliar gastos reservados.",
+    "hoy": "Jefatura de Gabinete de Ministros",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Ambiente",
+      "estado": "modificado",
+      "rol": "Transfiere el Fondo de Bosques en cuotas trimestrales y publica cada giro y la rendición de las provincias. Termina el Inventario con las provincias, asiste técnicamente, publica la información e informa al Congreso. Metodología, planes de trabajo, guía de ordenamiento, plataforma e informe anual.",
+      "hoy": "Subsecretaría de Ambiente, Secretaría de Turismo, Ambiente y Deportes (Vicejefatura de Gabinete, JGM)",
+      "hijos": []
+     },
+     {
+      "nombre": "Ente Nacional de Comunicaciones",
+      "estado": "modificado",
+      "rol": "Normas para la difusión celular de los avisos por los prestadores móviles.",
+      "hoy": "ENACOM (organismo descentralizado, Jefatura de Gabinete de Ministros)",
+      "hijos": []
+     },
+     {
+      "nombre": "Dirección Nacional Electoral",
+      "estado": "modificado",
+      "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada pregunta.",
+      "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Ambiente de la Jefatura de Gabinete de Ministros",
+      "estado": "modificado",
+      "rol": "Elabora el Índice Ambiental Federal y administra el Fondo de Incentivo.",
+      "hoy": "Subsecretaría de Ambiente (Secretaría de Turismo, Ambiente y Deportes, Vicejefatura de Gabinete del Interior, Jefatura de Gabinete de Ministros)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación: lista nacional de obras, cuentas del Fondo, publicación y representación nacional en los comités.",
+    "hoy": "Subsecretaría de Recursos Hídricos (Secretaría de Obras Públicas, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "existente",
+    "rol": "Fiduciante: adecua el contrato de fideicomiso a la ley.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía",
+      "estado": "modificado",
+      "rol": "Administra el subsidio decreciente a primas de seguros paramétricos.",
+      "hoy": "Secretaría de Agricultura, Ganadería y Pesca (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Superintendencia de Seguros de la Nación",
+      "estado": "modificado",
+      "rol": "Aprueba los productos de seguro paramétrico y multirriesgo. No percibe ni liquida la contribución; suministra la información sobre las primas que constituyen su base («Decreto reglamentario de la ley de restitución del fideicomiso del Fondo Nacional del Manejo del Fuego», art. 3).",
+      "hoy": "Superintendencia de Seguros de la Nación (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Agricultura, Ganadería y Pesca",
+      "estado": "modificado",
+      "rol": "Define beneficiarios y cronograma decreciente del subsidio a primas. Consulta sobre los usos productivos (vía reglamentación «Decreto reglamentario de la Ley de Presupuestos Mínimos de Protección Ambiental de los Humedales»). Usos productivos y prácticas de manejo compatibles.",
+      "hoy": "Secretaría de Agricultura, Ganadería y Pesca (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Instituto Nacional de Tecnología Industrial",
+      "estado": "existente",
+      "rol": "Hace las mediciones de agua, aire y residuos en terreno.",
+      "hoy": "INTI, organismo descentralizado en la órbita de la Secretaría de Industria, Comercio y de la PyME",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Comités de cuenca",
+    "estado": "nuevo",
+    "rol": "Aprueban el plan de riesgo hídrico de la cuenca, priorizan obras y fijan reglas de operación.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Comités de la Ley 25.688 y por convenio",
+    "estado": "modificado",
+    "rol": "Asumen las nuevas funciones con acuerdo de sus integrantes.",
+    "hoy": "Comités de cuencas (Ley 25.688, art. 4) y comités por convenio, como el de la Región Hídrica del Noroeste de la Llanura Pampeana",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad con competencia en recursos hídricos",
+    "estado": "modificado",
+    "rol": "Designa al representante de la Nación en cada comité y es autoridad de aplicación de la ley.",
+    "hoy": "Subsecretaría de Recursos Hídricos (Secretaría de Obras Públicas, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Fiduciante. Hoy percibe la contribución del 3 por mil (Decreto 463/2025); como organismo que la percibe, la transfiere al fideicomiso (art. 3) o, hasta su constitución, a la cuenta especial (art. 10), y deja de aplicarla con destino genérico. aprueba el plan anual de aplicación.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": [
+     {
+      "nombre": "Servicio Nacional de Manejo del Fuego",
+      "estado": "modificado",
+      "rol": "Beneficiario del fideicomiso; aplica los recursos y publica su ejecución. elabora y ejecuta el plan anual, firma los convenios con provincias y publica la ejecución.",
+      "hoy": "Servicio Nacional de Manejo del Fuego (Agencia Federal de Emergencias, Ministerio de Seguridad Nacional)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia Federal de Emergencias",
+      "estado": "modificado",
+      "rol": "Autoridad de aplicación: coordina, opera la sala de situación y emite los avisos.",
+      "hoy": "Agencia Federal de Emergencias (Decreto 225/2025; desconcentrado del Ministerio de Seguridad Nacional)",
+      "hijos": [
+       {
+        "nombre": "Sistema de alerta temprana hídrica",
+        "estado": "nuevo",
+        "rol": "Integra pronósticos, datos y avisos a celulares con niveles de evacuación por ciudad.",
+        "hoy": "",
+        "hijos": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Banco de la Nación Argentina",
+    "estado": "modificado",
+    "rol": "Fiduciario del Fondo Nacional del Manejo del Fuego.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Obras Públicas, Agua y Vivienda",
+    "estado": "modificado",
+    "rol": "Ejerce la autoridad de aplicación: concursos, desembolsos, convenios con consorcios y publicación. Firma por la Nación y la representa en el Comité. Firma y aprueba cada convenio por obra y publica su ejecución.",
+    "hoy": "Subsecretaría de Recursos Hídricos (Secretaría de Obras Públicas, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional del Agua",
+    "estado": "modificado",
+    "rol": "Integra el comité evaluador de los concursos. Estudio técnico base del reglamento de operación. Pronóstico hidrológico, plataforma común de datos y asistencia técnica para niveles de evacuación. Publica la serie histórica de niveles y monitorea sedimentos y tomas de agua.",
+    "hoy": "Instituto Nacional del Agua (Secretaría de Obras Públicas, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Interjurisdiccional de la Cuenca de la Laguna La Picasa",
+    "estado": "modificado",
+    "rol": "Opera la cuenca, con presupuesto anual propio, unidad técnica permanente e informe público anual.",
+    "hoy": "Comisión Interjurisdiccional de la Cuenca de la Laguna La Picasa (Ley 27.509; Nación, Buenos Aires, Córdoba y Santa Fe)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comité Interjurisdiccional de la Región Hídrica del Noroeste de la Llanura Pampeana",
+    "estado": "modificado",
+    "rol": "Suma a Santa Fe y aprueba, junto con la Comisión, las reglas de las derivaciones del río Quinto.",
+    "hoy": "Comité Interjurisdiccional de la Región Hídrica del Noroeste de la Llanura Pampeana (Nación, Buenos Aires, Córdoba, La Pampa y San Luis)",
+    "hijos": []
+   },
+   {
+    "nombre": "Partes locales",
+    "estado": "existente",
+    "rol": "Aportan contrapartida, ejecutan y mantienen las obras.",
+    "hoy": "Según cada obra",
+    "hijos": []
+   },
+   {
+    "nombre": "Servicio Meteorológico Nacional",
+    "estado": "modificado",
+    "rol": "Pronósticos y alertas meteorológicas.",
+    "hoy": "Servicio Meteorológico Nacional (organismo descentralizado, Ministerio de Defensa)",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Medio Ambiente (COFEMA)",
+    "estado": "existente",
+    "rol": "Acuerda la metodología del Inventario y compatibiliza humedales interjurisdiccionales. Acuerda la metodología y la guía; compatibiliza humedales compartidos.",
+    "hoy": "COFEMA",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Nacional de Actividades Espaciales",
+    "estado": "existente",
+    "rol": "Aporta las mediciones satelitales del índice.",
+    "hoy": "CONAE (Jefatura de Gabinete, Secretaría de Innovación, Ciencia y Tecnología)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia Nacional de Puertos y Navegación",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación: exige las metas de profundidad, publica costos, tarifas y datos abiertos y acuerda las adendas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Lleva el proyecto del Canal Magdalena a la Comisión Administradora del Río de la Plata.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comités de cuenca",
+   "rol": "Planifican la gestión del riesgo hídrico y priorizan las obras de su cuenca."
+  },
+  {
+   "nombre": "Consejo hídrico federal",
+   "rol": "Acuerda con la Nación la lista nacional de obras prioritarias."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Integran los comités por convenio; municipios y consorcios participan con voz."
+  },
+  {
+   "nombre": "Consejo Federal Hidrovía",
+   "rol": "Dictamen previo sobre cambios de contrato, tarifas y metas; pedido de información y auditorías."
+  },
+  {
+   "nombre": "Auditoría General de la Nación",
+   "rol": "Audita cada año la concesión."
+  }
+ ]
+}

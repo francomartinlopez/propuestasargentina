@@ -1,0 +1,53 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Universidades y Ciencia",
+    "estado": "modificado",
+    "rol": "Ejecuta la senda de inversión en ciencia y técnica. Transfiere a las universidades, aplica la fórmula y firma contratos-programa. Calcula y publica la distribución por fórmula, fija los coeficientes de costo y firma los contratos-programa.",
+    "hoy": "Secretaría de Innovación, Ciencia y Tecnología (JGM, Vicejefatura de Gabinete; Decreto 50/2019, texto Decreto 581/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación",
+    "estado": "modificado",
+    "rol": "Canaliza los fondos sectoriales por FONCyT, FONTAR y FONARSEC con convocatorias anuales en fecha. Convocatorias anuales en fecha de FONCyT, FONTAR y FONARSEC; informe público por fondo.",
+    "hoy": "Agencia I+D+i, organismo descentralizado de la JGM",
+    "hijos": []
+   },
+   {
+    "nombre": "Organismos nacionales de ciencia y técnica",
+    "estado": "modificado",
+    "rol": "Reciben un piso real; el CONICET llega a 600 ingresos a carrera en 2031. Piso real con ajuste dentro del ejercicio; CONICET con calendario de ingresos a carrera.",
+    "hoy": "CONICET y CONAE (JGM); CNEA, INTA e INTI (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Universidades y Ciencia del Ministerio de Educación, Ciencia y Cultura",
+    "estado": "modificado",
+    "rol": "Propone cada año la distribución del incremento y la parte de los fondos sectoriales. Transfiere la recomposición salarial y los tramos de gastos de funcionamiento.",
+    "hoy": "Secretaría de Innovación, Ciencia y Tecnología (JGM, Vicejefatura de Gabinete)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Audita cada universidad nacional al menos una vez entre 2028 y 2031."
+  },
+  {
+   "nombre": "Consejo Interuniversitario Nacional",
+   "rol": "Es consultado sobre los coeficientes y sobre la revisión trienal de las ponderaciones."
+  },
+  {
+   "nombre": "Universidades nacionales",
+   "rol": "Informan los datos de la fórmula y, si lo deciden, firman contratos-programa con metas."
+  }
+ ]
+}

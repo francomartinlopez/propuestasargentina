@@ -1,0 +1,126 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Autoridad Nacional de la Competencia",
+    "estado": "modificado",
+    "rol": "Pasa a tener presupuesto propio con tasas y multas, mandatos escalonados y obligación de publicar decisiones y prioridades. Presupuesto propio con cuenta recaudadora, mandatos escalonados y publicación de decisiones.",
+    "hoy": "Autoridad Nacional de la Competencia (Tribunal de Defensa de la Competencia, Secretaría de Instrucción de Conductas Anticompetitivas y Secretaría de Concentraciones Económicas), organismo descentralizado y autárquico (Ley 27.442, art. 18)",
+    "hijos": [
+     {
+      "nombre": "Tribunal de competencia",
+      "estado": "modificado",
+      "rol": "Sus integrantes pasan a mandatos escalonados: nunca vence la mayoría en un mismo año.",
+      "hoy": "Tribunal de Defensa de la Competencia",
+      "hijos": []
+     },
+     {
+      "nombre": "Instrucción de conductas",
+      "estado": "modificado",
+      "rol": "Titular por concurso con acuerdo del Senado y mandato fijo; aplica el plan anual de prioridades.",
+      "hoy": "Secretaría de Instrucción de Conductas Anticompetitivas",
+      "hijos": []
+     },
+     {
+      "nombre": "Control de concentraciones",
+      "estado": "modificado",
+      "rol": "Titular por concurso con acuerdo del Senado y mandato fijo; aplica el control previo con prioridades publicadas.",
+      "hoy": "Secretaría de Concentraciones Económicas",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Producción y Comercio",
+    "estado": "modificado",
+    "rol": "Aloja el Servicio, homologa acuerdos, publica datos abiertos y fija el umbral de crédito de alto costo. Opera el Servicio y la ventanilla federal, lleva el registro de conciliadores, homologa, publica datos y fija el umbral de alto costo.",
+    "hoy": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial (Secretaría de Industria, Comercio y de la PyME, Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "Servicio Nacional de Conciliación Previa en las Relaciones de Consumo",
+      "estado": "nuevo",
+      "rol": "Concilia en forma gratuita y digital los reclamos de consumo, con plazo máximo de 60 días. Concilia en forma digital, gratuita y en 60 días (creado por «Ley de defensa de la competencia y del consumidor: autonomía de la Autoridad de la Competencia, conciliación previa nacional y préstamo responsable»).",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Autoridad de competencia",
+    "estado": "modificado",
+    "rol": "Gana presupuesto propio, mandatos escalonados y obligación de publicar decisiones y prioridades.",
+    "hoy": "Autoridad Nacional de la Competencia, organismo descentralizado y autárquico en el ámbito del PEN (Ley 27.442, art. 18); en el Decreto 50/2019 figura en el Ministerio de Economía, Secretaría de Industria, Comercio y de la PyME",
+    "hijos": []
+   },
+   {
+    "nombre": "Servicio de conciliación de consumo",
+    "estado": "nuevo",
+    "rol": "Concilia en forma gratuita y digital los reclamos de consumo, unido a la ventanilla única federal.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad nacional de defensa del consumidor",
+    "estado": "modificado",
+    "rol": "Aloja el Servicio, lleva el registro de conciliadores, homologa acuerdos y publica datos abiertos.",
+    "hoy": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
+    "hijos": []
+   },
+   {
+    "nombre": "Antecesor",
+    "estado": "suprimido",
+    "rol": "Antecedente: queda reemplazado por el nuevo Servicio creado por ley.",
+    "hoy": "Disuelto por el Decreto 55/2025",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital",
+    "estado": "existente",
+    "rol": "Asistencia técnica para el Servicio en TAD y Mi Argentina.",
+    "hoy": "Jefatura de Gabinete de Ministros – Secretaría de Innovación, Ciencia y Tecnología",
+    "hijos": []
+   },
+   {
+    "nombre": "Policía Federal Argentina",
+    "estado": "existente",
+    "rol": "Fuerza en la que funciona el cuerpo federal.",
+    "hoy": "Policía Federal Argentina (Ministerio de Seguridad Nacional)",
+    "hijos": [
+     {
+      "nombre": "Cuerpo Federal contra la Trata de Personas y el Fraude Digital",
+      "estado": "nuevo",
+      "rol": "Investiga la trata y el fraude digital, con una división para cada uno, y coopera con la UIF y las provincias.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Unidad de Información Financiera",
+    "estado": "existente",
+    "rol": "Sigue el dinero de las redes de trata y de fraude.",
+    "hoy": "UIF (Ministerio de Justicia)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Interviene en el umbral de alto costo y dicta las normas de préstamo responsable para sus entidades."
+  },
+  {
+   "nombre": "Senado de la Nación",
+   "rol": "Presta acuerdo a los integrantes de la Autoridad de la Competencia."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Invitados a integrar sus conciliaciones a la ventanilla única federal."
+  }
+ ]
+}

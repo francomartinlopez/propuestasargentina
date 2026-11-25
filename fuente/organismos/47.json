@@ -1,0 +1,75 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social",
+    "estado": "modificado",
+    "rol": "Coautoridad del régimen (art. 77 Ley 27.802); registra acuerdos de horarios por establecimiento, homologa y registra fondos de cese convencionales y publica la evaluación a los 2 años.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Estima y publica el costo fiscal de la rebaja del art. 76, sujeto al tope del presupuesto; coautoridad del régimen.",
+    "hoy": "Ministerio de Economía (Secretaría de Finanzas)",
+    "hijos": [
+     {
+      "nombre": "Comisión Nacional de Valores",
+      "estado": "modificado",
+      "rol": "Habilita y supervisa a las entidades que administran las cuentas individuales de cese y regula el cambio de entidad sin costo. Adecúa sus normas sobre entidades y fondos y fija el procedimiento de traspaso en 30 días.",
+      "hoy": "CNV (organismo descentralizado, Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero",
+      "estado": "modificado",
+      "rol": "Recauda la contribución, la acredita por CUIL en la cuenta de cada trabajador, deriva la fracción al Fondo Nacional del Empleo y registra las adhesiones. Identifica el CUIL al alta, habilita la elección de entidad, deriva la fracción al FNE y aplica la rebaja del art. 76 dentro del tope.",
+      "hoy": "ARCA (ente autárquico en el ámbito del Ministerio de Economía)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "estado": "existente",
+    "rol": "Verifica pagos con las entidades (art. 69 Ley 27.802) e interviene en la evaluación.",
+    "hoy": "ANSES (organismo descentralizado, Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Superintendencia de Riesgos del Trabajo",
+    "estado": "modificado",
+    "rol": "Verifica el art. 4 bis de la Ley 27.348 en las provincias, publica la litigiosidad mensual y sigue la meta al 10/12/2031. Provee los entornos digitales, firma los convenios y verifica el art. 4 bis (puede suspender asistencia y financiamiento).",
+    "hoy": "SRT (organismo descentralizado, Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Trabajo y Empleo",
+    "estado": "modificado",
+    "rol": "Modelo de adhesión, informe actuarial de la fracción, registro de fondos de cese convencionales, evaluación e informe de vigencia.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": [
+     {
+      "nombre": "Fondo de la prestación por desempleo",
+      "estado": "modificado",
+      "rol": "Recibe una fracción de las contribuciones de cese (art. 145 Ley 24.013, nuevo párrafo).",
+      "hoy": "Fondo Nacional del Empleo (Ley 24.013, art. 143)",
+      "hijos": []
+     }
+    ]
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Cuerpo pericial médico judicial provincial",
+   "rol": "Pericias médicas en juicios por accidentes y enfermedades del trabajo con el baremo único y los entornos digitales de la SRT."
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "id": "N367",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de creación de la Comisión Nacional contra la Corrupción y el Uso Patrimonial del Estado",
+ "sumilla": "Crea en el ámbito del Congreso una comisión independiente, con miembros por concurso, acuerdo de dos tercios y presencia de la oposición, que investiga la corrupción desde el 10/12/1983 con acceso resguardado a información tributaria, financiera y societaria, publica informes sectoriales y un informe final y remite a la Justicia. Excluye la amnistía.",
+ "cuando": "Fase I · año 1: consulta popular vinculante en el primer semestre de 2028",
+ "cuando_breve": "Fase I · año 1, dentro de los 30 días de la constitución de la Comisión",
+ "tramite": "Mayoría simple; cámara de origen indistinta. La designación de los miembros requiere luego dos tercios de los presentes en cada Cámara. Se somete a consulta popular vinculante: si la mayoría de los votos válidos la aprueba, se convierte en ley en forma automática (art. 40 de la Constitución Nacional).",
+ "motivos": "El artículo 36 de la Constitución Nacional define el grave delito doloso contra el Estado que conlleve enriquecimiento como un atentado contra el sistema democrático. Sin embargo, las causas de corrupción avanzan caso por caso, demoran décadas y muchas veces prescriben, mientras las prácticas que las originan —sobreprecios, contrataciones dirigidas, empleo público con fines partidarios y uso privado de bienes del Estado— se repiten bajo gobiernos y en jurisdicciones de distinto signo. Este proyecto crea una Comisión Nacional contra la Corrupción y el Uso Patrimonial del Estado, en el ámbito del Congreso, con autonomía funcional, partida propia y un mandato de cuatro años que concluye con su informe final. Sus miembros se eligen por concurso público, con acuerdo de dos tercios de cada Cámara y con presencia asegurada de propuestas de la oposición. La Comisión investiga desde el 10 de diciembre de 1983, con prioridad para los hechos no prescriptos. Accede, con deber de reserva, a la información tributaria, financiera y societaria, coopera con la Autoridad Nacional de Control y Transparencia y la Unidad de Información Financiera, publica cuatro informes sectoriales y remite a la Justicia lo que encuentre, con pedidos de recupero de activos por las convenciones contra la corrupción. No reemplaza a los tribunales ni a los órganos de control. La ley excluye la amnistía de estos delitos y el Poder Ejecutivo asume el compromiso expreso de no indultar ni conmutar penas por ellos.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Creación, naturaleza y objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación",
+     "texto": "Créase la Comisión Nacional contra la Corrupción y el Uso Patrimonial del Estado, en adelante «la Comisión», que funcionará en el ámbito del Congreso de la Nación con autonomía funcional y autarquía financiera, sin recibir instrucciones de ninguna autoridad. La Comisión es independiente del Poder Ejecutivo nacional."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Fundamento y objeto",
+     "texto": "En ejercicio del mandato del artículo 36 de la Constitución Nacional, la Comisión tiene por objeto investigar como sistema la corrupción y el uso del Estado en beneficio particular o partidario —sobreprecios, contrataciones dirigidas, designaciones sin necesidad funcional y uso privado de bienes públicos—, documentar sus patrones y casos, publicar sus hallazgos y remitirlos a la Justicia."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Período y alcance",
+     "texto": "La Comisión investiga hechos ocurridos desde el 10 de diciembre de 1983, con prioridad para los que no se encuentren prescriptos. Su alcance comprende el Sector Público Nacional y, en los términos del artículo 26, a las provincias, a la Ciudad Autónoma de Buenos Aires y a los municipios. Investiga a todos los gobiernos y fuerzas políticas con el mismo criterio."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Carácter no jurisdiccional",
+     "texto": "La Comisión no juzga ni atribuye responsabilidad penal, ni reemplaza a los tribunales, al Ministerio Público ni a la Autoridad Nacional de Control y Transparencia. Esclarece patrones, documenta casos, publica informes y remite las pruebas a la Justicia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Casos testigo",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Casos testigo por sector",
+     "texto": "La Comisión tomará como casos testigo, entre otros y sin que la enumeración sea taxativa, hechos con actuación judicial o de organismos de control de gobiernos y jurisdicciones de distinto signo: a) obra pública: la adjudicación de obra vial en la Provincia de Santa Cruz entre 2003 y 2015; el cobro de sobornos y el reparto concertado de la obra pública investigado en la causa conocida como «Cuadernos»; los sobornos en la ampliación de gasoductos de 2005 y 2006; los pagos vinculados a las plantas potabilizadoras de Paraná de las Palmas y Berazategui; y los pagos ilegales en contratos de obra pública de la Provincia del Chubut; b) compras y contratos: el contrato de documentos de identidad de 1998; la informatización de la administración tributaria en la década de 1990; la intermediación en las pólizas de seguros de organismos nacionales; y los sobreprecios en compras de medicamentos e insumos para personas con discapacidad; c) acuerdos con el Estado: el acuerdo de 2016 sobre la deuda de la concesionaria del servicio postal y los negocios en torno a proyectos de parques eólicos adjudicados por el Estado; d) empleo público: el cobro de sueldos de empleados de la Legislatura de la Provincia de Buenos Aires con tarjetas retenidas por terceros; e) uso de bienes del Estado: la vacunación fuera de turno de personas allegadas al poder en 2021."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Denuncias y nuevos casos",
+     "texto": "La lista del artículo anterior está abierta. La Comisión recibe denuncias e incorpora de oficio nuevos casos que encuadren en su objeto, por resolución fundada y pública."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Integración y selección",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Integración",
+     "texto": "La Comisión se integra con cinco (5) miembros, que actúan en forma colegiada. Al menos dos (2) de ellos deben haber sido propuestos por bloques parlamentarios que no pertenezcan al partido o alianza que integra el Poder Ejecutivo nacional. La presidencia se ejerce en forma rotativa por períodos anuales, según el reglamento interno."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Requisitos e incompatibilidades",
+     "texto": "Para ser miembro se requiere ser argentino, poseer título universitario y reconocida trayectoria en derecho, contabilidad, auditoría, economía o administración pública, e integridad comprobada. No pueden ser miembros quienes hayan ocupado cargos electivos o de nivel político en cualquier jurisdicción en los cuatro (4) años anteriores, ni quienes estén o hayan estado vinculados a los hechos a investigar o tengan con ellos conflicto de interés en los términos de la Ley N° 25.188. El cargo es incompatible con cualquier otra función pública, salvo la docencia, y con la actividad partidaria."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Concurso público",
+     "texto": "Los miembros se seleccionan por concurso público de antecedentes y entrevista, con audiencia pública e impugnaciones. El jurado se integra con un (1) representante de las universidades nacionales, designado por el Consejo Interuniversitario Nacional; un (1) representante de la Autoridad Nacional de Control y Transparencia; y un (1) representante de las entidades de la sociedad civil dedicadas a la transparencia, elegido entre ellas. El jurado eleva un orden de mérito de al menos diez (10) postulantes."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Acuerdo del Congreso",
+     "texto": "Una comisión bicameral especial, integrada por seis (6) diputados y seis (6) senadores según la proporción de los bloques, propone a los cinco (5) miembros entre los que integran el orden de mérito, respetando lo dispuesto en el artículo 7°. La designación requiere el acuerdo de las dos terceras partes de los miembros presentes de cada Cámara. Si una propuesta no obtiene el acuerdo, se propone a otro postulante del orden de mérito."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Mandato y remoción",
+     "texto": "El mandato de los miembros dura hasta el cierre de la Comisión y no es renovable. Solo pueden ser removidos por mal desempeño, delito doloso o incapacidad sobreviniente, por el mismo procedimiento y la misma mayoría que su designación, previo derecho de defensa. Las vacantes se cubren con el orden de mérito vigente, respetando lo dispuesto en el artículo 7°. La remuneración de los miembros la fijan de común acuerdo los Presidentes de ambas Cámaras y no puede superar la dieta de un diputado nacional."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Facultades y acceso a la información",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Reglamento interno",
+     "texto": "La Comisión dicta su propio reglamento interno dentro de los sesenta (60) días de su constitución y lo publica en el Boletín Oficial. Ningún órgano de otro poder del Estado puede reglamentar su funcionamiento interno."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Facultades",
+     "texto": "Para el cumplimiento de su objeto, la Comisión puede: a) requerir información, documentos y expedientes a cualquier organismo del Sector Público Nacional, a los Poderes Legislativo y Judicial y al Ministerio Público, que deben entregarlos dentro de los quince (15) días hábiles; b) acceder a los registros públicos; c) realizar auditorías forenses de contratos, obras y procedimientos, por sí o mediante convenio con la Autoridad Nacional de Control y Transparencia o con universidades nacionales; d) tomar declaraciones; e) celebrar convenios de cooperación con la Autoridad Nacional de Control y Transparencia, la Unidad de Información Financiera (UIF), la Inspección General de Justicia (IGJ) y la Agencia de Recaudación y Control Aduanero (ARCA); f) solicitar a la Justicia las medidas que requieran orden judicial."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Declaraciones juradas",
+     "texto": "La Comisión puede requerir a la Autoridad Nacional de Control y Transparencia, autoridad de aplicación de la Ley N° 25.188, las declaraciones juradas patrimoniales previstas en sus artículos 4° a 6°. A los fines del acceso al anexo reservado previsto en el artículo 5° de la Ley N° 26.857 y al sobre reservado del inciso e) del artículo 6° de la Ley N° 25.188, la Comisión se considera autoridad competente, con deber de reserva."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Secreto fiscal",
+     "texto": "Incorpórase como último párrafo del artículo 101 de la Ley N° 11.683 (texto ordenado en 1998 y sus modificaciones) el siguiente: «El secreto establecido en este artículo no rige respecto de los requerimientos de la Comisión Nacional contra la Corrupción y el Uso Patrimonial del Estado, que queda sujeta al mismo deber de reserva y solo podrá utilizar la información para el cumplimiento de su objeto y para la remisión de pruebas a la Justicia.»"
+    },
+    {
+     "n": 16,
+     "epigrafe": "Secreto financiero",
+     "texto": "Incorpórase como último párrafo del artículo 39 de la Ley N° 21.526 el siguiente: «Lo dispuesto en este artículo no rige respecto de los requerimientos de la Comisión Nacional contra la Corrupción y el Uso Patrimonial del Estado, que queda sujeta al mismo deber de reserva.»"
+    },
+    {
+     "n": 17,
+     "epigrafe": "Información de la Unidad de Información Financiera",
+     "texto": "Incorpórase como último párrafo del artículo 22 de la Ley N° 25.246 el siguiente: «El deber de secreto no impide a la Unidad de Información Financiera suministrar información a la Comisión Nacional contra la Corrupción y el Uso Patrimonial del Estado, a requerimiento fundado de esta, que queda sujeta al mismo deber de secreto y a las mismas sanciones por su revelación.»"
+    },
+    {
+     "n": 18,
+     "epigrafe": "Información societaria",
+     "texto": "La IGJ y ARCA suministrarán a la Comisión la información societaria y de beneficiarios finales que requiera. La Comisión podrá celebrar convenios con los registros provinciales de personas jurídicas con el mismo fin."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Deber de reserva y colaboración",
+     "texto": "Los miembros y el personal de la Comisión están obligados a guardar reserva sobre la información protegida por secreto legal que reciban, que solo podrá difundirse en los informes en forma agregada o cuando forme parte de la remisión a la Justicia. Los funcionarios que obstaculicen la labor de la Comisión, retengan u oculten información o destruyan documentos incurren en falta grave, sin perjuicio de la responsabilidad penal que corresponda."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Informes, remisión a la Justicia y cierre",
+   "articulos": [
+    {
+     "n": 20,
+     "epigrafe": "Informes sectoriales",
+     "texto": "La Comisión publica cuatro (4) informes sectoriales —obra pública, compras y contratos, empleo público y uso de bienes del Estado— dentro de los dos (2) años de su constitución. Cada informe describe los patrones encontrados, los casos documentados y las recomendaciones de reforma normativa e institucional."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Informe final",
+     "texto": "La Comisión presenta su informe final al Congreso de la Nación y a la ciudadanía antes de cumplirse los cuatro (4) años de su constitución, con el balance de los casos remitidos, los activos cuyo recupero se haya solicitado y las recomendaciones de reforma."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Remisión a la Justicia",
+     "texto": "Cuando la Comisión reúna elementos sobre la posible comisión de delitos, los remite sin demora al Ministerio Público Fiscal de la Nación, con intervención de la Procuraduría de Investigaciones Administrativas cuando corresponda, o a la autoridad judicial competente, con las pruebas reunidas. Cuando los hechos involucren a personas jurídicas, la remisión indica su posible responsabilidad en los términos de la Ley N° 27.401."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Recupero de activos",
+     "texto": "La Comisión puede solicitar a las autoridades competentes que promuevan la cooperación internacional y el recupero de activos previstos en la Convención Interamericana contra la Corrupción, aprobada por la Ley N° 24.759, y en la Convención de las Naciones Unidas contra la Corrupción, aprobada por la Ley N° 26.097."
+    },
+    {
+     "n": 24,
+     "epigrafe": "Amnistías",
+     "texto": "Los delitos contra la administración pública y los graves delitos dolosos contra el Estado que conlleven enriquecimiento, comprendidos en el artículo 36 de la Constitución Nacional, que la Comisión remita a la Justicia no son susceptibles de amnistía."
+    },
+    {
+     "n": 25,
+     "epigrafe": "Cierre",
+     "texto": "La Comisión cesa de pleno derecho al cumplirse los cuatro (4) años de su constitución, una vez presentado el informe final, sin necesidad de norma alguna. Su acervo documental se transfiere al archivo que determinen de común acuerdo los Presidentes de ambas Cámaras, con resguardo de la información protegida por secreto legal."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Provincias y financiamiento",
+   "articulos": [
+    {
+     "n": 26,
+     "epigrafe": "Provincias y municipios",
+     "texto": "Se invita a las provincias, a la Ciudad Autónoma de Buenos Aires y a los municipios a adherir a la presente ley y a celebrar convenios con la Comisión para el acceso a la información de sus jurisdicciones."
+    },
+    {
+     "n": 27,
+     "epigrafe": "Financiamiento",
+     "texto": "La Comisión tiene partida propia en el presupuesto del Poder Legislativo Nacional y un servicio administrativo financiero propio en los términos de la Ley N° 24.156. Los gastos del primer ejercicio se atienden con la reasignación de créditos del presupuesto vigente del Poder Legislativo Nacional que dispongan de común acuerdo los Presidentes de ambas Cámaras, sin incremento del gasto total. A partir del ejercicio siguiente, el proyecto de presupuesto incluye la partida de la Comisión, que se extingue con su cierre. El gasto se ejecuta en cuatro (4) ejercicios, conforme al cronograma que la Comisión apruebe y publique al constituirse."
+    },
+    {
+     "n": 28,
+     "epigrafe": "Constitución",
+     "texto": "La Comisión se constituye dentro de los ciento veinte (120) días de la entrada en vigencia de esta ley. Los plazos de los artículos anteriores se cuentan desde su constitución."
+    },
+    {
+     "n": 29,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 11.683 (t.o. 1998), art. 101 (incorpora último párrafo)",
+  "Ley 21.526, art. 39 (incorpora último párrafo)",
+  "Ley 25.246, art. 22 (incorpora último párrafo)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

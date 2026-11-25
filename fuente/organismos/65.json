@@ -1,0 +1,39 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Dirección Nacional Electoral",
+    "estado": "modificado",
+    "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada proyecto. Provee los datos del padrón electoral para el padrón de jurados.",
+    "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Padrón, compensación, fechas por etapa y capacitación.",
+    "hoy": "Ministerio de Justicia (Secretaría de Justicia)",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Justicia",
+      "estado": "modificado",
+      "rol": "Confecciona el padrón de jurados, paga la compensación, fija las fechas de cada etapa y organiza la capacitación.",
+      "hoy": "Ministerio de Justicia (Secretaría de Justicia)",
+      "hijos": []
+     }
+    ]
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Oficina judicial",
+   "rol": "Sortean los candidatos, citan a los jurados y organizan las audiencias."
+  }
+ ]
+}

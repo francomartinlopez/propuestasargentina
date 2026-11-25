@@ -1,0 +1,104 @@
+{
+ "id": "N144",
+ "tipo": "acuerdo_federal",
+ "titulo": "Acuerdo modelo Nación–provincia–municipio para planes de ordenamiento territorial en zonas de crecimiento previsible",
+ "sumilla": "Modelo de acuerdo tripartito para cada una de las nueve zonas iniciales (Añelo, Rincón de los Sauces, Sierra Grande, San Antonio Oeste, Iglesia, Calingasta, Antofagasta de la Sierra, Fiambalá y Susques): plan de ordenamiento con proyección de población y empleo, banco de suelo urbanizado y metas de vivienda, escuelas, salud, agua, cloacas y transporte, aprobado antes del pico de empleo de la inversión.",
+ "cuando": "Fase I (polos existentes); para nuevos polos, junto con cada gran inversión",
+ "cuando_breve": "Fase I",
+ "tramite": "No pasa por el Congreso: acuerdo tripartito aprobado por la Nación por decreto, por ley provincial (modelo «Ley provincial modelo de aprobación del plan de ordenamiento territorial de una zona de crecimiento previsible») y por ordenanza (modelo «Ordenanza municipal modelo de plan de ordenamiento territorial y banco de suelo urbanizado»), conforme al criterio.",
+ "motivos": "",
+ "visto": "",
+ "considerando": [
+  "Que en el presente Acuerdo intervienen el ESTADO NACIONAL, representado por el titular de la Secretaría del Interior de la Jefatura de Gabinete de Ministros, la PROVINCIA DE [Provincia], representada por su Gobernador, y el MUNICIPIO DE [Municipio], representado por su Intendente, en adelante 'las partes'.",
+  "Que las inversiones energéticas, mineras e industriales aprobadas o en obra en la zona atraerán población y empleo en plazos previsibles, y que la vivienda, las escuelas, los centros de salud y los servicios urbanos tardan años en construirse.",
+  "Que el crecimiento sin plan produce déficit habitacional, servicios saturados y especulación con el suelo, cuyos costos recaen sobre la población local y sobre los propios proyectos.",
+  "Que la planificación del uso del suelo es competencia provincial y municipal, conforme a los artículos 121 y 123 de la Constitución Nacional, y que la Nación puede contribuir con asistencia técnica y con las obras de contrapartida de las grandes inversiones.",
+  "Que corresponde que el plan quede aprobado antes de que la obra principal alcance su pico de empleo y vinculado a los compromisos de los inversores durante toda la vida del proyecto."
+ ],
+ "formula": "Por ello, LAS PARTES ACUERDAN:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cláusula primera – Objeto",
+     "texto": "Las partes acuerdan elaborar, aprobar y ejecutar un plan de ordenamiento territorial para la zona de crecimiento previsible de [Municipio], para que el suelo urbanizado, la vivienda y los servicios se planifiquen antes de que llegue la población que atraerán las inversiones de la zona."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cláusula segunda – Zonas iniciales",
+     "texto": "Este modelo se suscribirá, en primer término, para las siguientes zonas: Añelo y Rincón de los Sauces, en la Provincia del Neuquén; Sierra Grande y San Antonio Oeste, en la Provincia de Río Negro; Iglesia y Calingasta, en la Provincia de San Juan; Antofagasta de la Sierra y Fiambalá, en la Provincia de Catamarca; y Susques, en la Provincia de Jujuy. Podrá suscribirse para otras zonas al aprobarse cada nueva gran inversión."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cláusula tercera – Contenido del plan",
+     "texto": "El plan contendrá, como mínimo: a) la proyección de población y de empleo de la zona, con las inversiones previstas y sus cronogramas; b) las áreas de expansión urbana y el banco de suelo urbanizado; c) las metas de vivienda, propia y en alquiler; d) las metas de escuelas, centros de salud, agua, cloacas y transporte; e) las obras necesarias, su costo, su fuente de financiamiento y su cronograma; y f) los indicadores de seguimiento."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cláusula cuarta – Meta",
+     "texto": "La vivienda, las escuelas y los centros de salud de la zona deberán crecer al menos al ritmo de la población proyectada. En el caso de Añelo, el plan incluirá cubrir el faltante estimado de DOS MIL QUINIENTAS (2.500) soluciones habitacionales durante la segunda fase del programa de gobierno, al 10 de diciembre de 2030."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula quinta – Plazo",
+     "texto": "El plan se elaborará dentro de los CIENTO OCHENTA (180) días de la firma y deberá quedar aprobado antes de que la obra principal de la inversión alcance su pico de empleo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cláusula sexta – Compromisos del Municipio",
+     "texto": "El Municipio aprobará el plan por ordenanza, creará el banco de suelo urbanizado, adecuará sus normas de uso del suelo y aplicará los instrumentos sobre el suelo ocioso que le habilite la legislación provincial."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula séptima – Compromisos de la Provincia",
+     "texto": "La Provincia aprobará el plan por ley, coordinará la provisión de agua, cloacas, energía, escuelas, salud y transporte a su cargo, aportará tierras fiscales al banco de suelo cuando existan en la zona e incorporará las obras del plan al catálogo público de obras prioritarias previsto para las contrapartidas de las grandes inversiones."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cláusula octava – Compromisos de la Nación",
+     "texto": "La Nación prestará asistencia técnica para elaborar y ejecutar el plan, incluidos equipos técnicos que podrán compartirse entre municipios, y coordinará con la autoridad de aplicación del régimen de grandes inversiones que las obras de contrapartida de los proyectos de la zona se elijan del plan."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cláusula novena – Vínculo con las grandes inversiones",
+     "texto": "Las partes promoverán que los compromisos de obra de los inversores de la zona se incorporen a sus planes de contrapartida y a sus contratos, de modo que sean exigibles durante toda la vida del proyecto."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cláusula décima – Formación de la población local",
+     "texto": "Las partes coordinarán la oferta de terminación de la educación secundaria y de formación en oficios para la población local, orientada a los empleos que se crean en la zona."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Cláusula undécima – Financiamiento",
+     "texto": "Las obras del plan se financian con las obras de contrapartida de las grandes inversiones, con los recursos del impuesto al suelo ocioso y del banco de suelo, con crédito hipotecario para vivienda y con aportes provinciales y municipales. La asistencia técnica nacional se atiende con los créditos presupuestarios existentes de la Secretaría del Interior, sin transferencias adicionales."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cláusula duodécima – Mesa Tripartita",
+     "texto": "Créase la Mesa Tripartita de Ordenamiento Territorial de [Municipio], integrada por UN (1) representante de cada parte, que elaborará el proyecto de plan, verificará el cumplimiento de las metas, revisará el plan al menos cada DOS (2) años y publicará cada año un informe de avance."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Cláusula decimotercera – Publicidad",
+     "texto": "El plan, sus metas, las obras y su avance se publicarán en los sitios oficiales de las partes, y las contrataciones, en los sistemas de compras abiertas de cada jurisdicción."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Cláusula decimocuarta – Ratificación y vigencia",
+     "texto": "El presente Acuerdo no requiere aprobación por ley nacional, porque no compromete créditos de ejercicios futuros, no modifica leyes nacionales ni afecta la coparticipación federal de impuestos. El Estado nacional lo aprueba por el decreto que aprobó el acuerdo modelo; la Provincia, por la ley provincial que apruebe el plan, y el Municipio, por la ordenanza respectiva. Rige desde la última de esas aprobaciones y mientras estén en ejecución las inversiones que lo motivan."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Cláusula decimoquinta – Firma",
+     "texto": "En prueba de conformidad, se firman TRES (3) ejemplares de un mismo tenor y a un solo efecto, en [Municipio], a los […] días del mes de […] de 2028."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

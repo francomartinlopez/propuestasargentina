@@ -1,0 +1,61 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría del Interior de la Jefatura de Gabinete de Ministros",
+    "estado": "existente",
+    "rol": "Negocia con los gobernadores y firma por la Nación.",
+    "hoy": "Jefatura de Gabinete de Ministros, asistida por la Vicejefatura de Gabinete del Interior (DNU 571/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Hacienda del Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Firma por la Nación, ejerce la secretaría técnica de la Comisión de Seguimiento y aporta la cuenta fiscal.",
+    "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos; Subsecretaría de Coordinación Fiscal Provincial)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "existente",
+    "rol": "Provee información para los tributos de reemplazo.",
+    "hoy": "ARCA (Decreto 953/2024)",
+    "hijos": []
+   },
+   {
+    "nombre": "Provincias",
+    "estado": "modificado",
+    "rol": "Liquida y percibe el componente mensual y el pago a cuenta donde no lo cobren los municipios.",
+    "hoy": "Direcciones de rentas provinciales (en Córdoba, la Dirección General de Rentas)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comisión federal de seguimiento",
+   "rol": "Fija la metodología del costo fiscal, verifica el cronograma y publica el informe anual."
+  },
+  {
+   "nombre": "Consejo Federal del Catastro",
+   "rol": "Asiste en la ley modelo del impuesto al suelo."
+  },
+  {
+   "nombre": "Provincias y municipios",
+   "rol": "Firman, ratifican, bajan sellos, Ingresos Brutos y la tasa de Seguridad e Higiene y cobran los tributos de reemplazo."
+  },
+  {
+   "nombre": "Catastro provincial",
+   "rol": "Publica los mapas de valores del suelo, determina la base, la revalúa en cada transmisión y resuelve las impugnaciones técnicas."
+  },
+  {
+   "nombre": "Municipios",
+   "rol": "Cobran el componente mensual por ordenanza donde la ley provincial lo habilite."
+  }
+ ]
+}

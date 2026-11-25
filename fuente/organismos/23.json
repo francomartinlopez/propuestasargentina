@@ -1,0 +1,127 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Banco de la Nación Argentina",
+    "estado": "modificado",
+    "rol": "Fiduciario del Fondo.",
+    "hoy": "Banco de la Nación Argentina (entidad autárquica, Ley 21.799)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Propone las obras que financia el Fondo con los criterios públicos de la cartera única.",
+    "hoy": "Secretaría de Coordinación de Infraestructura (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "existente",
+    "rol": "Negocia en el MERCOSUR el margen sobre el AEC y la prórroga de la Lista Nacional de Excepciones. Comunica al MERCOSUR las modificaciones de la Lista Nacional de Excepciones.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Resuelve las investigaciones, firma las actas de metas, verifica su cumplimiento y eleva el informe anual; puede delegar en la Secretaría de Producción y Comercio. Refrenda el decreto, verifica las condiciones y publica los anexos.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Producción y Comercio",
+      "estado": "modificado",
+      "rol": "Dicta las medidas de estándares mínimos, prepara los tramos y los aranceles de transición, firma y verifica las actas de metas e informa al Congreso. Prepara los anexos por posición y el seguimiento de las metas sectoriales.",
+      "hoy": "Ministerio de Economía (Subsecretaría de Comercio Exterior, Secretaría de Industria, Comercio y de la PyME)",
+      "hijos": []
+     },
+     {
+      "nombre": "Comisión Nacional de Comercio Exterior",
+      "estado": "modificado",
+      "rol": "Instruye las investigaciones de estándares mínimos además de las de dumping y subvenciones.",
+      "hoy": "Comisión Nacional de Comercio Exterior (organismo desconcentrado del Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+      "estado": "modificado",
+      "rol": "Percibe los aranceles y transfiere cada mes el diferencial de transición al Fondo. Aplica las alícuotas y transfiere el diferencial al Fondo.",
+      "hoy": "ARCA, organismo descentralizado del Ministerio de Economía",
+      "hijos": []
+     },
+     {
+      "nombre": "Fondo Fiduciario de Infraestructura Productiva",
+      "estado": "nuevo",
+      "rol": "Recibe el 100 % del diferencial de transición y financia rutas, ferrocarriles, energía y agua de la cartera única del Presupuesto Plurianual de Infraestructura.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Hacienda",
+      "estado": "modificado",
+      "rol": "Fiduciante del Fondo, registro presupuestario de la afectación y medición de la condición tributaria de los tramos.",
+      "hoy": "Secretaría de Hacienda, con la Subsecretaría de Presupuesto",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Hacienda / oficina de presupuesto",
+      "estado": "modificado",
+      "rol": "Fiduciante en nombre del Estado nacional; instruye al fiduciario e incluye el Fondo en el presupuesto.",
+      "hoy": "Secretaría de Hacienda (Ministerio de Economía), con la Subsecretaría de Presupuesto",
+      "hijos": []
+     },
+     {
+      "nombre": "Coordinación de infraestructura",
+      "estado": "modificado",
+      "rol": "Propone las obras con los criterios públicos de la cartera única (ley «Ley de Presupuesto Plurianual de Infraestructura»).",
+      "hoy": "Secretaría de Coordinación de Infraestructura (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Administración tributaria y aduanera",
+      "estado": "modificado",
+      "rol": "Identifica el diferencial de transición y lo transfiere al Fondo cada mes.",
+      "hoy": "ARCA, organismo descentralizado del Ministerio de Economía",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Banco público nacional",
+    "estado": "modificado",
+    "rol": "Fiduciario del Fondo. Fiduciario: administra los recursos, paga las obras y publica cada trimestre ingresos y pagos.",
+    "hoy": "Banco de la Nación Argentina",
+    "hijos": []
+   },
+   {
+    "nombre": "Fondo de infraestructura productiva",
+    "estado": "nuevo",
+    "rol": "Recibe el 100 % del diferencial de transición (afectación del art. 23 inc. c de la Ley 24.156) y financia rutas, ferrocarriles, energía y agua; excluido del art. 5 de la Ley 27.742.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Fondo de infraestructura regional",
+    "estado": "suprimido",
+    "rol": "Ya suprimido; el nuevo Fondo ocupa su lugar sin necesidad de derogar lo que queda de la Ley 24.855.",
+    "hoy": "Disuelto por el Decreto 463/2025 (Cap. II de la Ley 24.855 derogado)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Audita el Fondo cada año."
+  },
+  {
+   "nombre": "Órganos de control",
+   "rol": "Auditoría externa anual (AGN) y control interno (SIGEN)."
+  }
+ ]
+}

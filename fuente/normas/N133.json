@@ -1,0 +1,93 @@
+{
+ "id": "N133",
+ "tipo": "acuerdo_federal",
+ "titulo": "Convenio tipo por obra hídrica entre la Nación, la provincia, los municipios y los consorcios de productores",
+ "sumilla": "Modelo de convenio para cada obra financiada por el Fondo Fiduciario de Infraestructura Hídrica: fija los aportes de cada parte, el ejecutor, el responsable del mantenimiento, los desembolsos contra contrapartida y avance certificado, y la publicación obra por obra.",
+ "cuando": "Fase I · año 1 (aprobado con la reglamentación «Decreto reglamentario de la Ley de Gestión Integral del Riesgo Hídrico, del Fondo Hídrico y de Seguros Agropecuarios Paramétricos»; se firma uno por obra)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Convenio entre la Nación y la provincia, con municipios y consorcios cuando corresponda. Del lado nacional lo autoriza el art. 10 de la ley «Ley de gestión integral del riesgo hídrico, del Fondo Hídrico y de seguros agropecuarios paramétricos» y lo aprueba la autoridad de aplicación; los compromisos plurianuales se incluyen en el presupuesto (art. 15, Ley 24.156). La provincia lo ratifica por ley si su Constitución lo exige.",
+ "motivos": "",
+ "visto": "",
+ "considerando": [
+  "Que el presente Convenio se celebra entre el ESTADO NACIONAL, representado por el titular de la autoridad de aplicación de la Ley N° […] de Gestión Integral del Riesgo Hídrico; la PROVINCIA DE [Provincia], representada por [cargo]; y, cuando corresponda, el MUNICIPIO DE [Municipio], representado por su Intendente, y el CONSORCIO [denominación], representado por su presidente, en adelante \"las partes\".",
+  "Que el artículo 10 de esa ley dispone que cada obra financiada por el Fondo Fiduciario de Infraestructura Hídrica se instrumente mediante un convenio que fije los aportes de cada parte, el ejecutor y el responsable del mantenimiento.",
+  "Que la obra [denominación de la obra] integra [la lista nacional de obras prioritarias / el resultado del concurso de cofinanciamiento del año (…)] con el puntaje publicado conforme al artículo 7° de la ley.",
+  "Que los compromisos que excedan el ejercicio deben contar con crédito y cronograma plurianual conforme al artículo 15 de la Ley N° 24.156."
+ ],
+ "formula": "Por ello, LAS PARTES ACUERDAN:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Cláusula primera – Objeto",
+     "texto": "El presente Convenio tiene por objeto la ejecución y el mantenimiento de la obra [denominación], ubicada en [localización], según el proyecto ejecutivo aprobado por [organismo y acto], con un costo total de [monto] a valores de [fecha] y un plazo de ejecución de [meses]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cláusula segunda – Tipo de obra y cuenta",
+     "texto": "La obra se financia con la cuenta del Fondo Fiduciario de Infraestructura Hídrica correspondiente a [obras troncales interjurisdiccionales / cofinanciamiento de obras provinciales y municipales / mantenimiento], conforme al artículo 13 de la Ley N° […]."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cláusula tercera – Aportes",
+     "texto": "Las partes aportan:\na) el Estado nacional: [monto] ([porcentaje] %), con recursos del Fondo y, en su caso, crédito de organismos multilaterales destinado a obras;\nb) la Provincia: [monto] ([porcentaje] %), en dinero o en aportes de obra valorizados;\nc) el Municipio: [monto o aporte], en obras urbanas menores o relocalizaciones;\nd) el Consorcio: [aporte], en tareas de limpieza y mantenimiento.\nEn las obras cofinanciadas, la contrapartida provincial, incluidos los aportes municipales y del consorcio, no será inferior al TREINTA POR CIENTO (30 %) del costo total, o al VEINTE POR CIENTO (20 %) en las provincias de menores recursos. Las obras troncales interjurisdiccionales no requieren contrapartida."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cláusula cuarta – Ejecutor",
+     "texto": "El ejecutor de la obra es [la Provincia / el Estado nacional / el Municipio], que la contratará por los procedimientos de su jurisdicción y será responsable de su inspección y de la certificación del avance."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula quinta – Cronograma y desembolsos",
+     "texto": "El cronograma de desembolsos figura en el Anexo I. Cada desembolso nacional se libera contra el avance de obra certificado y la contrapartida depositada o certificada correspondiente al mismo período. Los aportes de ejercicios futuros quedan sujetos a su inclusión en la programación plurianual del presupuesto nacional y de los presupuestos provinciales."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cláusula sexta – Responsable del mantenimiento",
+     "texto": "Terminada la obra, su operación y mantenimiento quedan a cargo de [la Provincia / el Municipio / el Consorcio], conforme al plan de mantenimiento del Anexo II, que fija las tareas, su frecuencia y su costo anual estimado. El Estado nacional podrá contribuir con la cuenta de mantenimiento del Fondo según los planes anuales aprobados."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula séptima – Consorcios de productores",
+     "texto": "Cuando el Consorcio reciba equipos o fondos para el mantenimiento, los aplicará exclusivamente a las tareas del Anexo II y rendirá cuentas en forma pública cada semestre. La falta de rendición suspende nuevas asignaciones."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cláusula octava – Publicación",
+     "texto": "El ejecutor publicará la convocatoria, la adjudicación, el contrato, cada certificado de avance y cada pago en el sistema de compras públicas de su jurisdicción, y remitirá esa información a la autoridad de aplicación nacional para su publicación obra por obra en formato de datos abiertos."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cláusula novena – Modificaciones",
+     "texto": "Toda modificación del proyecto, del costo o del plazo que supere el DIEZ POR CIENTO (10 %) requiere la conformidad previa de todas las partes y la actualización del Anexo I."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cláusula décima – Incumplimiento",
+     "texto": "Si una parte no integra su aporte en el plazo del cronograma, las demás la intimarán a regularizarlo dentro de los SESENTA (60) días. Persistiendo el incumplimiento, el Estado nacional podrá suspender los desembolsos pendientes y reasignar los fondos a otra obra de la lista de prioridad, sin perjuicio de los trabajos ya certificados."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Cláusula undécima – Vigencia",
+     "texto": "El presente Convenio rige desde su aprobación por las partes y hasta la recepción definitiva de la obra. Las obligaciones de mantenimiento subsisten mientras la obra esté en servicio."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cláusula duodécima – Controversias",
+     "texto": "Las partes resolverán de común acuerdo las controversias sobre la interpretación o la ejecución de este Convenio. En su defecto, las que involucren al Estado nacional y a la Provincia quedan sometidas a la competencia originaria de la Corte Suprema de Justicia de la Nación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Cláusula decimotercera – Aprobación",
+     "texto": "El Estado nacional aprueba el presente Convenio por acto de la autoridad de aplicación, conforme al artículo 10 de la Ley N° […]. La Provincia lo someterá a la ratificación de su Legislatura si así correspondiera según su Constitución; el Municipio, a su Concejo Deliberante. El Convenio se publicará en el Boletín Oficial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

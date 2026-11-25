@@ -1,0 +1,110 @@
+{
+ "id": "N093",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de gobierno y transparencia de los bancos públicos provinciales",
+ "sumilla": "Texto modelo para que cada provincia adopte para su banco el estándar del Banco Nación: prioridad al crédito productivo de largo plazo, directorio por concurso, remoción solo por causa, prohibición de créditos a funcionarios, cartera trimestral publicada e informe anual a la Legislatura.",
+ "cuando": "Fase II (años 2-3), desde la sanción de la ley «Ley de banca pública para el crédito productivo y de garantías», que invita a las provincias (art. 20)",
+ "cuando_breve": "Fase II",
+ "tramite": "Según la constitución de cada provincia; mayoría simple salvo que la constitución local exija otra para reformar la carta orgánica del banco.",
+ "motivos": "La Ley nacional de banca pública para el crédito productivo fijó al Banco de la Nación Argentina un mandato de crédito productivo de largo plazo, la designación de su conducción por concurso, la publicación trimestral de su cartera y la prohibición de prestar a sus directivos y a los funcionarios superiores del Estado, e invitó a las provincias a adoptar las mismas reglas para sus bancos. Los bancos públicos provinciales son una herramienta central del crédito a las empresas de cada provincia. Su valor depende de que presten con criterio técnico, de que sus decisiones sean conocidas y de que no se usen para beneficiar a quienes gobiernan. Esta ley adopta para el Banco de la Provincia ese mismo estándar: prioridad al crédito productivo de largo plazo con recursos propios, directorio elegido por concurso público con orden de mérito fundado, remoción solo por causa, prohibición de créditos a los funcionarios y a sus familiares directos, salvo las líneas generales en idénticas condiciones que el público, y publicación trimestral de la cartera por sector, tamaño de empresa y lugar, con resguardo del secreto financiero. El directorio informará cada año a esta Legislatura sobre el cumplimiento del mandato, con estados contables auditados.",
+ "visto": null,
+ "considerando": null,
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y alcance",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece el régimen de gobierno y transparencia del Banco de [Provincia], en adelante «el Banco», en adhesión a la invitación del artículo 20 de la Ley nacional N° [—] de banca pública para el crédito productivo y de garantías."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Alcance",
+     "texto": "Las disposiciones de la presente ley integran la carta orgánica o el estatuto del Banco y prevalecen sobre las que se les opongan. Si el Banco estuviera organizado como sociedad, el Poder Ejecutivo provincial, en ejercicio de los derechos del accionista, promoverá la reforma de su estatuto para incorporarlas dentro de los NOVENTA (90) días."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Mandato",
+     "texto": "El Banco dará prioridad al crédito productivo de largo plazo a las micro, pequeñas y medianas empresas de la Provincia, con sus propios recursos y conforme a un análisis de riesgo crediticio basado en la capacidad de repago y en las garantías. Ninguna autoridad ajena al Banco podrá instruir el otorgamiento de un crédito a una persona determinada."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Gobierno",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Designación por concurso",
+     "texto": "Los integrantes del directorio del Banco que corresponda designar al Poder Ejecutivo provincial serán elegidos entre los integrantes de las ternas que resulten de un concurso público de antecedentes y oposición, conducido por un jurado de reconocida idoneidad en materia bancaria y financiera, integrado por personas ajenas a la administración del Banco. La convocatoria, el reglamento, la integración del jurado, los antecedentes de los postulantes y el orden de mérito fundado se publicarán en el Boletín Oficial de la Provincia y en el sitio oficial del Banco. Cuando la Constitución provincial prevea el acuerdo de la Legislatura, este se prestará sobre el candidato que resulte del concurso."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Requisitos e incompatibilidades",
+     "texto": "Los integrantes del directorio deberán acreditar idoneidad y experiencia en materia bancaria, financiera o de evaluación de proyectos de inversión. No podrán serlo quienes en los DOS (2) años anteriores hayan ocupado cargos electivos o de conducción en partidos políticos, ni quienes tengan participación en entidades financieras privadas o mantengan con el Banco deudas en situación irregular."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Remoción",
+     "texto": "Los integrantes del directorio solo podrán ser removidos antes del vencimiento de su mandato por decreto fundado en mal desempeño, incumplimiento grave de la presente ley o de la carta orgánica, condena por delito doloso o inhabilidad sobreviniente."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Prohibición de créditos a funcionarios",
+     "texto": "El Banco no podrá otorgar créditos, garantías ni ninguna otra forma de financiación a: a) los integrantes de su directorio, sus síndicos y sus gerentes; b) el Gobernador y el Vicegobernador, los ministros, secretarios y subsecretarios del Poder Ejecutivo provincial, los legisladores provinciales, los magistrados del Poder Judicial y del Ministerio Público de la Provincia, los intendentes y los titulares de organismos descentralizados, entes y empresas del sector público provincial; c) los cónyuges o convivientes de esas personas y las personas jurídicas que ellas controlen. La prohibición rige mientras dure el cargo y hasta UN (1) año después de su cese. Se exceptúan los créditos de las líneas generales para vivienda única y los préstamos personales y tarjetas de crédito en idénticas condiciones que las ofrecidas al público, que se informarán al órgano de control del Banco y se publicarán en forma agregada cada año. El crédito otorgado en violación de este artículo hará responsables en forma personal y solidaria a quienes lo aprobaron."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Transparencia y control",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Publicación trimestral de la cartera",
+     "texto": "El Banco publicará cada trimestre, en formato abierto y dentro de los CUARENTA Y CINCO (45) días de su cierre, la composición de su cartera de préstamos por sector de actividad, tamaño de empresa, departamento o municipio, plazo y tasa, y su morosidad con la misma apertura, con resguardo del secreto de las operaciones previsto en la Ley nacional N° 21.526 de Entidades Financieras. Ninguna celda publicada podrá permitir identificar a un deudor determinado."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Informe anual",
+     "texto": "El directorio presentará cada año a la Legislatura un informe sobre el cumplimiento del mandato del artículo 3°, con los estados contables auditados por auditor externo independiente."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Control",
+     "texto": "El Banco está sujeto al control del órgano de control externo de la Provincia, sin perjuicio de la supervisión del Banco Central de la República Argentina en los términos de la Ley nacional N° 21.526."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Transición",
+     "texto": "Los integrantes del directorio en funciones a la entrada en vigencia de la presente ley completarán su mandato. Las designaciones posteriores se harán conforme al artículo 4°. La prohibición del artículo 7° rige desde la entrada en vigencia de la presente ley y no afecta los créditos otorgados antes, que se informarán al órgano de control del Banco."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo provincial reglamentará la presente ley dentro de los NOVENTA (90) días de su publicación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial de la Provincia."
+    },
+    {
+     "n": 14,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Carta orgánica o estatuto del Banco de [Provincia] (ley provincial; no verificada)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

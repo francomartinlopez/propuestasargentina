@@ -1,0 +1,86 @@
+{
+ "id": "N043",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de exención del sueldo en el impuesto a las ganancias",
+ "sumilla": "Reglamenta la ley «Ley de exención del sueldo en el impuesto a las ganancias hasta quince salarios mínimos»: publicación semestral del tope actualizado, aplicación mensual y anual por el agente de retención, pluriempleo, presunción de control a partir del 10 % de participación familiar y criterios contra la sustitución de utilidades por sueldo y la relación de dependencia simulada.",
+ "cuando": "Fase II: dentro de los 60 días de la publicación de la ley «Ley de exención del sueldo en el impuesto a las ganancias hasta quince salarios mínimos» (art. 7 de esa ley).",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica: decreto reglamentario (art. 99 inc. 2 CN).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley de Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones, su reglamentación aprobada por el Decreto N° 862/2019 y sus modificaciones, la Ley N° [—] de exención del sueldo en el impuesto a las ganancias (en adelante, «la Ley»), y",
+ "considerando": [
+  "Que la Ley incorporó al artículo 82 de la Ley de Impuesto a las Ganancias un tramo exento para las ganancias del trabajo personal en relación de dependencia, equivalente a quince salarios mínimos, vitales y móviles a la fecha de su sanción, y al artículo 30 su actualización semestral por el índice de precios al consumidor.",
+  "Que el artículo 4° de la Ley excluye de la exención las remuneraciones que pagan entidades controladas por el trabajador o su familia, las que sustituyen la distribución de utilidades y las de relaciones de dependencia simuladas, y remite a la reglamentación los criterios de control o influencia significativa.",
+  "Que corresponde fijar reglas que permitan a los agentes de retención aplicar el tramo exento mes a mes y que eviten que la exención se use para reetiquetar como sueldo rentas de capital o de trabajo independiente.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente decreto reglamenta la Ley N° [—] (en adelante, «la Ley») y los párrafos incorporados por ella a los artículos 30 y 82 de la Ley de Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Publicación del tope actualizado",
+     "texto": "La Agencia de Recaudación y Control Aduanero (ARCA) publicará, antes del primer día hábil de enero y de julio de cada año, el tope mensual y anual de exención actualizado conforme al artículo 30 de la Ley de Impuesto a las Ganancias, con la misma metodología y en el mismo acto en que publique los importes de ese artículo."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Aplicación mensual y anual",
+     "texto": "El agente de retención aplicará en cada mes el tope mensual vigente y, en el mes en que se pague el sueldo anual complementario, un tope adicional igual a la mitad del tope mensual por cada cuota. En la liquidación anual o final se aplicará el tope anual, que en caso de actualización semestral será la suma de los topes mensuales de cada semestre más los adicionales correspondientes."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Pluriempleo",
+     "texto": "El trabajador que perciba ganancias del inciso b) del artículo 82 de más de un empleador designará a uno de ellos como agente de retención principal, que aplicará el tramo exento sobre la suma de todas las remuneraciones informadas. Los demás empleadores retendrán sin aplicar el tramo exento, y las diferencias se ajustarán en la liquidación anual."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Control o influencia significativa",
+     "texto": "A los fines del inciso a) del artículo 4° de la Ley, se presume que existe control o influencia significativa cuando el trabajador, su cónyuge o conviviente y sus parientes hasta el segundo grado tengan en conjunto, directa o indirectamente, el diez por ciento (10 %) o más del capital o de los votos de la entidad empleadora, o cuando alguno de ellos integre su órgano de administración. El trabajador deberá informarlo a su empleador mediante declaración jurada, y el empleador no aplicará el tramo exento."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Sustitución de utilidades",
+     "texto": "A los fines del inciso b) del artículo 4° de la Ley, ARCA considerará, entre otros indicios, que la remuneración supere en forma significativa la habitual para funciones equivalentes, que crezca cuando disminuyan las utilidades distribuidas o que se pague en proporción a ellas."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Relación de dependencia simulada",
+     "texto": "A los fines del inciso c) del artículo 4° de la Ley, ARCA considerará, entre otros indicios, la ausencia de sujeción a órdenes y horarios, la prestación simultánea de servicios a terceros por cuenta propia y la registración posterior a una prestación independiente de las mismas tareas para el mismo beneficiario."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Publicación anual",
+     "texto": "La información prevista en el artículo 6° de la Ley se publicará antes del 30 de junio de cada año, por tramo de remuneración y por actividad, en formato abierto."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase a ARCA a dictar las normas complementarias del presente. Sus disposiciones complementan la reglamentación aprobada por el Decreto N° 862/2019 y sus modificaciones."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial y se aplicará desde la fecha en que surta efecto la Ley."
+    },
+    {
+     "n": 11,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 862/2019 (reglamentario de Ganancias): se complementa, sin sustituir artículos"
+ ],
+ "deroga": [],
+ "variantes": null
+}

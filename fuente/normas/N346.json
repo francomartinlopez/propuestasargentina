@@ -1,0 +1,73 @@
+{
+ "id": "N346",
+ "tipo": "tratado",
+ "titulo": "Acuerdo entre la República Argentina y la República de Chile de cooperación para la conexión de la Argentina al cable submarino Humboldt",
+ "sumilla": "Acuerdo ejecutivo para conectar a la Argentina, mediante un ramal terrestre de fibra óptica a través de la cordillera, con el cable Humboldt (Valparaíso–Sídney): grupo de trabajo para la traza, acceso no discriminatorio a la capacidad del cable, agilidad en las autorizaciones y uso de infraestructura existente; la obra la hacen los operadores.",
+ "cuando": "Fase II (el cable Humboldt opera desde 2027)",
+ "cuando_breve": "Fase II",
+ "tramite": "Acuerdo ejecutivo: lo firma el Poder Ejecutivo nacional (art. 99 inc. 11 de la Constitución) y se publica su texto en el Boletín Oficial; no requiere aprobación del Congreso mientras solo comprometa estudios y cooperación. Todo protocolo que genere obligaciones financieras o ceda competencias se somete al Congreso (art. 75 inc. 22).",
+ "motivos": "Casi toda la conectividad internacional de la Argentina depende de cables submarinos que llegan a la costa bonaerense y se conectan con el mundo a través del Brasil y de los Estados Unidos. No existe ninguna salida directa hacia Oceanía ni hacia Asia por el Pacífico. La República de Chile impulsa el cable Humboldt, que unirá Valparaíso con Sídney y cuya operación está prevista desde 2027. El Acuerdo que se propone suscribir, en el marco del Tratado de Maipú de Integración y Cooperación aprobado por la Ley N° 26.561, organiza la cooperación entre ambos países para que la Argentina se conecte a ese cable mediante un ramal terrestre de fibra óptica a través de la cordillera. Crea un grupo de trabajo que define la traza y el cronograma; compromete a Chile a promover que la capacidad del cable se ofrezca a los operadores argentinos en condiciones transparentes y no discriminatorias; y compromete a ambas Partes a tramitar con agilidad las autorizaciones y a facilitar el uso de la infraestructura existente. La obra y su operación quedan a cargo de operadores licenciados de cada país, por acuerdos comerciales. El Acuerdo no genera obligaciones financieras para los Estados y suma una ruta de respaldo que mejora la resiliencia de las comunicaciones del país.",
+ "visto": "",
+ "considerando": [],
+ "formula": "ACUERDO ENTRE LA REPÚBLICA ARGENTINA Y LA REPÚBLICA DE CHILE DE COOPERACIÓN PARA LA CONEXIÓN DE LA REPÚBLICA ARGENTINA AL SISTEMA DE CABLE SUBMARINO HUMBOLDT La República Argentina y la República de Chile (en adelante, «las Partes»), TENIENDO PRESENTE el Tratado de Maipú de Integración y Cooperación entre la República Argentina y la República de Chile, de 2009; CONSIDERANDO la importancia de diversificar las rutas de conectividad internacional de ambos países y de integrar su infraestructura de telecomunicaciones; TENIENDO EN CUENTA que el sistema de cable submarino Humboldt unirá la República de Chile con Oceanía; HAN CONVENIDO lo siguiente:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente Acuerdo tiene por objeto la cooperación entre las Partes para conectar la red de telecomunicaciones de la República Argentina con el sistema de cable submarino Humboldt mediante un ramal terrestre de fibra óptica que cruce la frontera común."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Grupo de Trabajo",
+     "texto": "Las Partes constituyen, dentro de los SESENTA (60) días de la firma, un Grupo de Trabajo integrado por representantes de sus ministerios de relaciones exteriores y de sus autoridades de telecomunicaciones, que dentro de los DOCE (12) meses propondrá la traza del ramal, el o los pasos fronterizos, el punto de interconexión con el sistema Humboldt, los requisitos técnicos y un cronograma."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Acceso a la capacidad",
+     "texto": "La República de Chile promoverá que la capacidad del sistema Humboldt se ofrezca a los operadores licenciados en la República Argentina en condiciones transparentes, razonables y no discriminatorias respecto de los operadores licenciados en la República de Chile."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Autorizaciones",
+     "texto": "Cada Parte tramitará conforme su legislación, en plazos razonables y por procedimientos simplificados, las licencias, permisos de paso, autorizaciones ambientales y demás habilitaciones necesarias para construir y operar el ramal en su territorio."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Construcción y operación",
+     "texto": "El ramal será construido, financiado y operado por operadores licenciados en cada Parte, públicos o privados, mediante acuerdos comerciales entre ellos. Las Partes facilitarán el uso de las trazas de rutas, ductos, líneas eléctricas y otras infraestructuras existentes en la zona de frontera."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Seguridad y continuidad",
+     "texto": "Las Partes cooperarán en la protección física del ramal, intercambiarán información sobre incidentes que afecten su funcionamiento y facilitarán el acceso de los equipos de reparación a ambos lados de la frontera."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Neutralidad regulatoria",
+     "texto": "Nada en el presente Acuerdo afecta la legislación de cada Parte sobre telecomunicaciones, protección de datos personales y defensa de la competencia."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Obligaciones financieras",
+     "texto": "El presente Acuerdo no genera obligaciones financieras para las Partes. Todo aporte público que se decida se acordará, en su caso, mediante un protocolo específico sujeto a los procedimientos constitucionales de cada Parte."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Solución de diferencias",
+     "texto": "Las diferencias sobre la interpretación o la aplicación del presente Acuerdo se resolverán mediante consultas por la vía diplomática."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Vigencia y denuncia",
+     "texto": "El presente Acuerdo entrará en vigor en la fecha de su firma y tendrá una duración de DIEZ (10) años, renovable automáticamente por períodos iguales. Cualquier Parte podrá denunciarlo por la vía diplomática, con efecto a los SEIS (6) meses. Hecho en […], el […] de […] de […], en dos originales en idioma español, ambos igualmente auténticos."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

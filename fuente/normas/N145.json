@@ -1,0 +1,83 @@
+{
+ "id": "N145",
+ "tipo": "ley_provincial",
+ "titulo": "Ley provincial modelo de aprobación del plan de ordenamiento territorial de una zona de crecimiento previsible",
+ "sumilla": "Modelo para que cada legislatura ratifique el acuerdo tripartito y apruebe por ley el plan de ordenamiento territorial de la zona, lo haga obligatorio para los organismos provinciales y lo ligue a los compromisos de los inversores durante toda la vida del proyecto.",
+ "cuando": "Fase I (después de la firma de cada acuerdo «Acuerdo modelo Nación–provincia–municipio para planes de ordenamiento territorial en zonas de crecimiento previsible» y antes del pico de empleo de la inversión)",
+ "cuando_breve": "Fase I",
+ "tramite": "No pasa por el Congreso: modelo de ley para cada Legislatura provincial (Neuquén, Río Negro, San Juan, Catamarca y Jujuy en primer término), por mayoría simple salvo que la Constitución provincial exija otra.",
+ "motivos": "Las inversiones energéticas, mineras e industriales de la zona de [Municipio] atraerán población y empleo en plazos previsibles. Sin planificación, el crecimiento produce déficit habitacional, escuelas y centros de salud saturados, lotes ociosos que se retienen a la espera de valorización y barrios sin agua ni cloacas, cuyo costo recae sobre la población local y termina encareciendo los propios proyectos. Lo que se improvisa se paga dos veces: cuando se hace y cuando hay que rehacerlo. La planificación del suelo es competencia provincial y municipal, conforme a los artículos 121 y 123 de la Constitución Nacional. Por eso la Provincia, la Nación y el Municipio acordaron un plan de ordenamiento territorial con proyección de población y empleo, banco de suelo urbanizado y metas de vivienda, escuelas, salud, agua, cloacas y transporte. El presente proyecto ratifica ese acuerdo y aprueba el plan por ley, para que obligue a todos los organismos provinciales, solo pueda modificarse por ley y quede vinculado a los compromisos de obra de los inversores de la zona durante toda la vida de cada proyecto. La ley no crea tributos ni autoriza gastos adicionales: las obras se financian con las fuentes que el plan identifica.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Ratificación",
+     "texto": "Ratifícase el Acuerdo de Ordenamiento Territorial celebrado entre el Estado Nacional, la Provincia de [Provincia] y el Municipio de [Municipio] el […] de […] de 2028, que como Anexo I forma parte de la presente ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Aprobación del plan",
+     "texto": "Apruébase el Plan de Ordenamiento Territorial de la zona de crecimiento previsible de [Municipio], que como Anexo II forma parte de la presente ley, con su proyección de población y empleo, sus áreas de expansión urbana y banco de suelo urbanizado, y sus metas de vivienda, escuelas, centros de salud, agua, cloacas y transporte."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Carácter obligatorio",
+     "texto": "El Plan es obligatorio para todos los organismos, entes y empresas de la Provincia, que deberán ajustar a él sus decisiones de localización de obras, servicios y equipamientos y su programación presupuestaria. Las obras provinciales previstas en el Plan se incluirán en el presupuesto provincial conforme al cronograma del Anexo II."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Meta",
+     "texto": "La vivienda, las escuelas y los centros de salud de la zona deberán crecer al menos al ritmo de la población proyectada en el Plan."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Vínculo con las inversiones",
+     "texto": "El Poder Ejecutivo provincial incorporará las obras del Plan al catálogo público de obras prioritarias de la región previsto para las contrapartidas de las grandes inversiones y exigirá, en los contratos, concesiones, permisos y acuerdos que otorgue o celebre en adelante con los inversores de la zona, el cumplimiento de los compromisos de obra que les correspondan según el Plan durante toda la vida del proyecto."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Modificación y revisión",
+     "texto": "El Plan solo podrá modificarse por ley. Será revisado al menos cada DOS (2) años, a propuesta de la Mesa Tripartita prevista en el Acuerdo, para ajustar las proyecciones y las metas a la evolución de las inversiones y de la población."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "El Poder Ejecutivo provincial designará la autoridad de aplicación de la presente ley, que coordinará la ejecución del Plan por los organismos provinciales y con el Municipio."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Publicidad e informe",
+     "texto": "La autoridad de aplicación publicará el Plan, sus metas, las obras y su avance en el sitio oficial de la Provincia, y remitirá a la Legislatura un informe anual de cumplimiento."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Financiamiento",
+     "texto": "La presente ley no autoriza gastos adicionales: las obras del Plan se financian con las fuentes que este identifica y, en lo que corresponda a la Provincia, con los créditos que le asigne cada ley de presupuesto conforme al cronograma del Anexo II."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Invitación al Municipio",
+     "texto": "Invítase al Municipio de [Municipio] a aprobar el Plan por ordenanza y a adecuar a él sus normas de uso del suelo."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial de la Provincia."
+    },
+    {
+     "n": 12,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

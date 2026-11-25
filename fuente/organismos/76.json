@@ -1,0 +1,96 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Autoridad de aplicación que designe el PEN",
+    "estado": "modificado",
+    "rol": "Coordina el piso, la fórmula, los convenios y el informe anual.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Ejecuta el componente de los mil días. Componente de los mil días y datos de controles de salud.",
+    "hoy": "Ministerio de Salud (autoridad de la Ley 27.611)",
+    "hijos": [
+     {
+      "nombre": "Consejo federal sanitario",
+      "estado": "modificado",
+      "rol": "Acuerda las metas de controles y vacunas.",
+      "hoy": "COFESA (Ley 22.373)",
+      "hijos": []
+     },
+     {
+      "nombre": "Registro nominal de 0 a 5 años",
+      "estado": "nuevo",
+      "rol": "Seguimiento nominal de controles, vacunas y vacantes de cada chico de 0 a 5 años.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Garantiza el piso en el presupuesto.",
+    "hoy": "Ministerio de Economía (Secretaría de Hacienda)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Trabajo y Desarrollo Social",
+    "estado": "modificado",
+    "rol": "Calcula y publica los coeficientes, firma convenios, transfiere y publica el informe anual.",
+    "hoy": "Ministerio de Capital Humano (Secretaría Nacional de Niñez, Adolescencia y Familia)",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Educación y Secretaría de Niñez, Adolescencia y Familia",
+      "estado": "modificado",
+      "rol": "Sala de 3, centros de primera infancia y acompañamiento a la crianza.",
+      "hoy": "Ministerio de Capital Humano",
+      "hijos": []
+     },
+     {
+      "nombre": "Administración Nacional de la Seguridad Social",
+      "estado": "modificado",
+      "rol": "Aporta el padrón de niñas y niños y recibe la acreditación automática de controles.",
+      "hoy": "ANSES",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Instituto Nacional de Estadística y Censos",
+    "estado": "modificado",
+    "rol": "Provee las tasas de pobreza de 0 a 14 años y las proyecciones de población.",
+    "hoy": "INDEC, organismo desconcentrado del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión federal de seguimiento",
+    "estado": "nuevo",
+    "rol": "Aprueba relaciones niños/adulto y superficies, consolida y publica metas y avance.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo federal educativo",
+    "estado": "modificado",
+    "rol": "Resolución con las metas de sala de 3 por jurisdicción.",
+    "hoy": "Consejo Federal de Educación (Ley 26.206, arts. 116-118)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Jurisdicciones provinciales",
+   "rol": "Ejecutan con metas públicas."
+  }
+ ]
+}

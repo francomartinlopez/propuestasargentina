@@ -1,0 +1,109 @@
+{
+ "id": "N059",
+ "tipo": "resolucion",
+ "titulo": "Resolución General de la Agencia de Recaudación y Control Aduanero: actualización mensual de los importes del Régimen Simplificado y aviso al superar el 80 % del tope de la categoría K",
+ "sumilla": "Ejecuta la ley «Ley de reforma del monotributo y de formalización laboral: actualización mensual, tránsito gradual al régimen general, régimen permanente de incentivo, tramo joven y detracción»: fija el cálculo, el redondeo y la publicación mensual de los topes, cuotas y aportes del monotributo por el IPC, su aplicación a la categorización y a los límites de exclusión, y el aviso al contribuyente cuyos ingresos de doce meses superan el 80 % del tope de la categoría K.",
+ "cuando": "Fase I: dentro de los 60 días de la publicación de la ley «Ley de reforma del monotributo y de formalización laboral: actualización mensual, tránsito gradual al régimen general, régimen permanente de incentivo, tramo joven y detracción» (art. 9 de esa ley); la primera actualización mensual, el primer día del mes siguiente a la vigencia de esa ley.",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: resolución general de ARCA, publicada en el Boletín Oficial.",
+ "motivos": "",
+ "visto": "El Expediente N° [—], el Anexo de la Ley N° 24.977, sus modificaciones y complementarias, la Ley N° [—] de reforma del monotributo (en adelante, «la Ley»), la Resolución General N° 4309 (AFIP) y sus modificatorias, y",
+ "considerando": [
+  "Que la Ley sustituyó el artículo 52 del Anexo de la Ley N° 24.977 y dispuso que los montos máximos de ingresos brutos de cada categoría, los importes del impuesto integrado, las cotizaciones previsionales y los demás importes fijos del régimen se actualicen mensualmente, de pleno derecho, por la variación del Índice de Precios al Consumidor que publica el Instituto Nacional de Estadística y Censos correspondiente al segundo mes anterior, y que esta Agencia los publique antes del inicio de cada mes.",
+  "Que la Ley incorporó a continuación del artículo 20 del Anexo un artículo sin número que obliga a esta Agencia a notificar al contribuyente cuyos ingresos brutos de los últimos doce (12) meses superen el ochenta por ciento (80 %) del límite de la Categoría K, con el monto alcanzado, el margen restante y las condiciones del escalón de transición y del retorno al régimen.",
+  "Que corresponde fijar el procedimiento de cálculo, redondeo y publicación y el del aviso, y dejar sin efecto las disposiciones que preveían una actualización semestral.",
+  "Que han tomado intervención las áreas técnicas y el servicio jurídico de esta Agencia.",
+  "Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 19 de la Ley."
+ ],
+ "formula": "Por ello, EL DIRECTOR EJECUTIVO DE LA AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "Título I – Actualización mensual",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente reglamenta el artículo 52 del Anexo de la Ley N° 24.977 y el artículo sin número incorporado a continuación de su artículo 20, en el texto de la Ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cálculo",
+     "texto": "Los importes de cada mes resultan de multiplicar los del mes anterior por uno (1) más la variación mensual del Índice de Precios al Consumidor nivel general del Instituto Nacional de Estadística y Censos (INDEC) correspondiente al segundo mes anterior al de la actualización. La primera actualización se aplica sobre los importes vigentes a la fecha de entrada en vigencia de la Ley."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Importes comprendidos",
+     "texto": "Se actualizan conforme al artículo anterior: a) los montos máximos de ingresos brutos de cada categoría; b) los montos máximos de alquileres devengados y el precio máximo unitario de venta del inciso c) del tercer párrafo del artículo 2° del Anexo; c) los importes del impuesto integrado; d) las cotizaciones previsionales al sistema previsional y al régimen de obras sociales; e) los importes del inciso e) del segundo párrafo del artículo 31 y del primer párrafo del artículo 32 del Anexo, y los demás importes fijos expresados en pesos en el Anexo de la Ley N° 24.977. Los parámetros físicos, como la superficie afectada y la energía consumida, no se actualizan."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Redondeo",
+     "texto": "Los montos máximos de ingresos brutos, de alquileres y el precio unitario se redondearán al múltiplo de mil pesos ($ 1.000) superior, y los importes del impuesto integrado y de las cotizaciones, al peso ($ 1) superior. El cálculo de cada mes se hará sobre los importes sin redondear del mes anterior."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Publicación",
+     "texto": "Esta Agencia publicará en el Boletín Oficial y en su sitio oficial, antes del primer día de cada mes, la tabla de importes aplicables en ese mes, con la variación del índice utilizada, y mantendrá disponible la serie completa en formato abierto. La publicación es declarativa: los importes rigen de pleno derecho por imperio del artículo 52 del Anexo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Aplicación",
+     "texto": "Para la categorización, la recategorización y el cómputo de los límites de los artículos 20 y 21 del Anexo se tomarán los importes vigentes en el mes de que se trate. La obligación mensual de cada contribuyente es la de su categoría según la tabla de ese mes; los débitos automáticos y los medios de pago se ajustarán de oficio."
+    }
+   ]
+  },
+  {
+   "titulo": "Título II – Aviso al superar el 80 % del tope de la Categoría K",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Cálculo del umbral",
+     "texto": "Esta Agencia calculará cada mes, para cada contribuyente adherido, la suma de sus ingresos brutos de los últimos doce (12) meses según los comprobantes electrónicos emitidos y la demás información de que disponga, y la comparará con el ochenta por ciento (80 %) del límite máximo de la Categoría K vigente en el mes."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Aviso",
+     "texto": "Cuando la suma supere ese umbral, esta Agencia notificará al contribuyente en su domicilio fiscal electrónico, dentro de los diez (10) días del mes siguiente, y le dará aviso además por los medios de contacto que haya registrado. El aviso indicará: a) el monto alcanzado y los comprobantes considerados; b) el margen restante hasta el límite de la Categoría K; c) las condiciones del escalón de transición y del retorno al régimen previstos en el Anexo; d) la forma de corregir los datos si fueran erróneos. El aviso no implica exclusión ni cambio de categoría."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Seguimiento",
+     "texto": "Mientras el contribuyente se mantenga por encima del umbral, el servicio digital del régimen mostrará cada mes el monto alcanzado y el margen restante actualizados."
+    }
+   ]
+  },
+  {
+   "titulo": "Título III – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Información pública",
+     "texto": "La información anual prevista en el artículo 16 de la Ley incluirá la cantidad de avisos emitidos por mes y por categoría."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Normas sustituidas",
+     "texto": "Derógase el artículo 100 de la Resolución General N° 4309 (AFIP), sustituido por la Resolución General N° 5546/2024 (AFIP), que establece la actualización semestral de los importes del Régimen Simplificado. Déjanse sin efecto las demás disposiciones de las resoluciones generales reglamentarias del Régimen Simplificado que prevean esa actualización semestral, en cuanto se opongan a la presente."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente entrará en vigencia el día de su publicación en el Boletín Oficial. La actualización mensual se aplicará desde el primer día del mes siguiente al de la entrada en vigencia de la Ley, conforme a su artículo 20, inciso a), y el aviso, desde el mes siguiente al de la publicación de la presente."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.977, Anexo, art. 52 (texto de «Ley de reforma del monotributo y de formalización laboral: actualización mensual, tránsito gradual al régimen general, régimen permanente de incentivo, tramo joven y detracción»): reglamenta",
+  "Ley 24.977, Anexo, artículo sin número a continuación del art. 20 (texto de «Ley de reforma del monotributo y de formalización laboral: actualización mensual, tránsito gradual al régimen general, régimen permanente de incentivo, tramo joven y detracción»): reglamenta"
+ ],
+ "deroga": [
+  "Resoluciones generales reglamentarias del Régimen Simplificado, en lo relativo a la actualización semestral (sin número: no verificadas)"
+ ],
+ "variantes": null
+}

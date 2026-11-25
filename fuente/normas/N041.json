@@ -1,0 +1,75 @@
+{
+ "id": "N041",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de aprobación de la Ley Convenio de Coparticipación Federal de Impuestos",
+ "sumilla": "Modelo para que cada legislatura apruebe sin limitaciones ni reservas la ley convenio «Ley Convenio de Coparticipación Federal de Impuestos» (art. 75 inc. 2 CN): acepta la coparticipación íntegra del IVA con su fuente de reemplazo previsional, los coeficientes de base, el régimen automático de ATN y la Comisión Federal de Impuestos, asume la prohibición de tributos análogos y prevé el ejercicio de las potestades que se devuelvan.",
+ "cuando": "Fase II: después de la sanción de la ley convenio «Ley Convenio de Coparticipación Federal de Impuestos»; cada legislatura la aprueba antes del 31/12/2031.",
+ "cuando_breve": "Fase II",
+ "tramite": "Ley provincial según la constitución de cada provincia (en la CABA, ley de la Legislatura). La aprobación es condición de vigencia de la ley convenio (art. 75 inc. 2 CN).",
+ "motivos": "La Constitución Nacional dispone que el régimen de coparticipación se establezca por una ley convenio, sobre la base de acuerdos entre la Nación y las provincias, que debe ser aprobada por cada una de ellas. El Congreso de la Nación sancionó esa ley convenio, que reemplaza el régimen transitorio de la Ley 23.548, vigente desde 1988. El proyecto aprueba la ley convenio sin limitaciones ni reservas, como exige su naturaleza. Con ello la Provincia acepta que todo el impuesto al valor agregado integre la masa a distribuir, con una fuente de reemplazo para la previsión social a cargo de la participación nacional; que el reparto parta de coeficientes que no alteran lo que hoy recibe y que el crecimiento se distribuya con criterios objetivos y públicos; que los Aportes del Tesoro Nacional se asignen por reglas automáticas, con cada giro publicado; y que la Comisión Federal de Impuestos controle el régimen. La Provincia asume la obligación de no establecer tributos análogos a los nacionales distribuidos, con las excepciones de la ley convenio, entre ellas los impuestos sobre el suelo y sobre la transmisión gratuita de bienes, y queda en condiciones de asumir las potestades tributarias que se le devuelvan cuando acredite sus cuentas ordenadas.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Aprobación",
+     "texto": "Apruébase sin limitaciones ni reservas la Ley N° [—], Ley Convenio de Coparticipación Federal de Impuestos, dictada conforme al artículo 75, inciso 2, de la Constitución Nacional, cuyo texto forma parte de la presente como Anexo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Conformidades expresas",
+     "texto": "La Provincia presta conformidad expresa: a) a la incorporación íntegra del impuesto al valor agregado a la masa coparticipable y a la fuente de reemplazo para la previsión social de los artículos 4° y 6° de la ley convenio; b) a los coeficientes de base y a la distribución del crecimiento de la masa de sus artículos 8° y 9°; c) al régimen de Aportes del Tesoro Nacional de sus artículos 19 a 23."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Obligaciones asumidas",
+     "texto": "La Provincia asume las obligaciones del artículo 17 de la ley convenio, que harán cumplir también sus municipios, y acatará las decisiones de la Comisión Federal de Impuestos. El Poder Ejecutivo comunicará a la Comisión, dentro de los noventa (90) días de la entrada en vigencia de la ley convenio, la nómina de los tributos provinciales y municipales vigentes."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Representación ante la Comisión Federal de Impuestos",
+     "texto": "El Poder Ejecutivo designará al representante titular y al suplente de la Provincia ante la Comisión Federal de Impuestos, que serán funcionarios del área de [hacienda / economía] de la Provincia, y comunicará su designación a la Comisión."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Potestades que se devuelvan",
+     "texto": "El Poder Ejecutivo solicitará al Consejo Federal de Responsabilidad Fiscal la certificación prevista en el artículo 15 de la ley convenio. La Provincia ejercerá cada potestad devuelta conforme a los artículos 13 y 14 de la ley convenio mediante ley tributaria local, con la deducción del artículo 16 de esa ley."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Aportes del Tesoro Nacional",
+     "texto": "El Poder Ejecutivo solicitará Aportes del Tesoro Nacional solo en los supuestos del artículo 20 de la ley convenio, con la documentación que acredite el supuesto invocado."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Comunicación",
+     "texto": "El Poder Ejecutivo comunicará la presente ley al Poder Ejecutivo nacional y a la Comisión Federal de Impuestos dentro de los diez (10) días de su promulgación."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Derogación",
+     "texto": "Derógase la Ley provincial N° [—], de adhesión a la Ley N° 23.548, desde la entrada en vigencia de la ley convenio."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial de la Provincia. Las obligaciones que asume regirán desde la entrada en vigencia de la ley convenio."
+    },
+    {
+     "n": 10,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [
+  "Ley provincial [N° —] de adhesión a la Ley 23.548 (desde la entrada en vigencia de la ley convenio)"
+ ],
+ "variantes": null
+}

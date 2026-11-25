@@ -1,0 +1,46 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "existente",
+    "rol": "Coordina la apertura con el régimen de acceso preferente.",
+    "hoy": "Ministerio de Economía (Secretaría de Política Económica)",
+    "hijos": [
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+      "estado": "modificado",
+      "rol": "Reglamenta el pago de tributos con la canasta.",
+      "hoy": "Agencia de Recaudación y Control Aduanero (ARCA), en el ámbito del Ministerio de Economía",
+      "hijos": []
+     },
+     {
+      "nombre": "Tesorería General de la Nación",
+      "estado": "existente",
+      "rol": "Registra en pesos lo percibido en otras monedas.",
+      "hoy": "Tesorería General de la Nación (Secretaría de Hacienda, Ministerio de Economía), órgano rector de la Ley 24.156",
+      "hijos": []
+     },
+     {
+      "nombre": "Comisión Nacional de Valores (CNV)",
+      "estado": "existente",
+      "rol": "Deja sin efecto las restricciones cruzadas vinculadas (RG 622/2013, Tít. XVIII, Cap. V) en la misma fecha.",
+      "hoy": "Comisión Nacional de Valores",
+      "hijos": []
+     }
+    ]
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Define y publica la canasta de monedas y el tipo de cambio de referencia; abre y cierra el tramo transitorio dentro de la fecha máxima."
+  }
+ ]
+}

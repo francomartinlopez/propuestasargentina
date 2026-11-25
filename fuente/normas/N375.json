@@ -1,0 +1,73 @@
+{
+ "id": "N375",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de adhesión al régimen de simultaneidad electoral de la Ley N° 15.262",
+ "sumilla": "La provincia se acoge a la Ley 15.262 para celebrar sus elecciones el mismo día que las nacionales, con el Registro Nacional de Electores, y autoriza al Poder Ejecutivo provincial a firmar el convenio de unificación de cronogramas y logística que ofrece la Nación (art. 4 de «Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista»).",
+ "cuando": "Fase I · año 1, después de la sanción de «Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista» y al menos 60 días antes de las elecciones de 2029",
+ "cuando_breve": "Fase I · año 1, después de la sanción de «Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista» y al menos 60 días antes de las elecciones de 2029",
+ "tramite": "Ley provincial; mayoría y trámite según cada constitución provincial.",
+ "motivos": "Votar el mismo día en las elecciones nacionales y provinciales reduce costos, simplifica la vida de los electores y mejora la participación. La Ley nacional N° 15.262 permite a las provincias que utilicen el Registro Nacional de Electores celebrar sus elecciones en forma simultánea con las nacionales, comunicándolo al Poder Ejecutivo nacional con anticipación. La ley nacional de Boleta Única, PASO, candidaturas y financiamiento a la vista prevé que la autoridad electoral nacional ofrezca a las jurisdicciones que se acojan a ese régimen la unificación de cronogramas y la coordinación de la logística. Este proyecto adhiere al régimen de simultaneidad, fija la regla de convocar en la misma fecha y autoriza al Poder Ejecutivo provincial a firmar el convenio de coordinación, con distribución de los costos compartidos. La Provincia conserva su autonomía para definir sus cargos, sus sistemas electorales y sus organismos electorales, y solo una ley sancionada con doce meses de anticipación puede desdoblar una elección.",
+ "visto": null,
+ "considerando": null,
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Adhesión",
+     "texto": "La Provincia de [Provincia] se acoge al régimen de simultaneidad de elecciones nacionales, provinciales y municipales de la Ley nacional N° 15.262 y sus modificatorias."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Simultaneidad",
+     "texto": "Las elecciones de cargos provinciales y municipales, y las elecciones primarias provinciales cuando estén previstas, se celebran en la misma fecha que las elecciones nacionales generales y primarias, respectivamente, en los años en que coincidan."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Padrón",
+     "texto": "En las elecciones simultáneas se utiliza el padrón del Registro Nacional de Electores, conforme a la Ley nacional N° 15.262."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Comunicación al Poder Ejecutivo nacional",
+     "texto": "El Poder Ejecutivo provincial comunica al Poder Ejecutivo nacional la decisión de celebrar elecciones simultáneas con una antelación de por lo menos sesenta (60) días a la fecha de la elección nacional, conforme al artículo 2° de la Ley nacional N° 15.262, indicando los cargos a elegir."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Convenio de coordinación",
+     "texto": "Autorízase al Poder Ejecutivo provincial a celebrar con la autoridad de aplicación del régimen electoral nacional y con la Justicia Nacional Electoral el convenio de unificación de cronogramas y coordinación de la logística electoral, que comprenda el uso común de establecimientos, autoridades de mesa, transporte y custodia, y la distribución de los costos compartidos en proporción a las categorías de cada jurisdicción. El convenio se publica en el Boletín Oficial de la Provincia."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Organismo electoral provincial",
+     "texto": "El organismo electoral provincial conserva sus competencias sobre la oficialización de candidaturas, la boleta y el escrutinio de los cargos provinciales y municipales, y coordina con la Justicia Nacional Electoral los aspectos comunes del acto electoral."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Desdoblamiento",
+     "texto": "Solo por ley, sancionada con al menos doce (12) meses de anticipación a la elección nacional, puede disponerse que una elección provincial no se celebre en forma simultánea."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la aplicación de la presente ley se atienden con los créditos del presupuesto provincial destinados a las elecciones, que se reducen en la medida de los costos compartidos con la Nación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Adecuación",
+     "texto": "Quedan sin efecto, en cuanto se opongan a la presente, las disposiciones de la legislación electoral provincial sobre fecha de las elecciones. El Poder Ejecutivo provincial reglamenta la presente ley dentro de los sesenta (60) días."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

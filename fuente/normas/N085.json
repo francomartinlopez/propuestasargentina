@@ -1,0 +1,151 @@
+{
+ "id": "N085",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Ventanilla Única Digital para Empresas",
+ "sumilla": "Fija por ley la ventanilla única digital creada por decreto en el año 1: un trámite único para constituir, modificar y cerrar empresas, con firma digital como autenticidad suficiente para las SAS con modelo tipo, 24 horas hábiles para constituirlas y abrir la cuenta, dato único y uso limitado de los datos. Agrega un cierre simplificado para sociedades sin actividad ni deudas y ratifica los convenios federales.",
+ "cuando": "Fase II (años 2-3)",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La Ley N° 27.349 obliga a inscribir en veinticuatro horas las sociedades por acciones simplificadas que usan el estatuto modelo y a otorgar la clave tributaria en el mismo plazo. Durante el primer año, un decreto integró en una ventanilla única digital la inscripción, la clave tributaria, el alta como empleador y la apertura de la cuenta bancaria, y se firmaron convenios con provincias y municipios. Este proyecto da rango legal a esa ventanilla para que no dependa de la decisión de cada gestión. Reconoce la firma digital de todos los otorgantes como autenticidad suficiente para inscribir las sociedades que usan el modelo tipo en cualquier registro del país, fija el plazo de veinticuatro horas hábiles para todo el trámite y para la apertura de la cuenta, prohíbe pedir datos que el Estado ya tiene y limita el uso de los datos compartidos a la finalidad del trámite. También simplifica el cierre: las sociedades sin actividad, sin deudas y sin trabajadores podrán disolverse y cancelar su inscripción en un solo acto, bajo declaración jurada y con responsabilidad de quienes la firman. Por último, ratifica los convenios federales y ordena publicar cada mes los plazos efectivos de cada organismo.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y autoridad de aplicación",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece con carácter permanente la Ventanilla Única Digital para Empresas, en adelante «la Ventanilla Única», como servicio nacional para constituir, modificar y cerrar sociedades y para iniciar o cesar una actividad empresarial mediante un único trámite digital, sin presentaciones presenciales ni intermediarios obligatorios."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "La Ventanilla Única comprende la constitución, la modificación y el cierre de las sociedades regidas por la Ley General de Sociedades N° 19.550 (t.o. 1984) y de las sociedades por acciones simplificadas del Título III de la Ley N° 27.349, y, en lo que corresponda, el inicio y el cese de actividad de las personas humanas que desarrollen una actividad empresarial."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación de la presente ley la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros. La autoridad de aplicación administrará la Ventanilla Única, coordinará a los organismos y entidades que intervienen y fijará los estándares técnicos de interoperabilidad."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Trámite único",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Trámite único",
+     "texto": "Mediante un único formulario digital, con firma digital conforme a la Ley N° 25.506 y validación de identidad en línea, la Ventanilla Única integrará:\na) la inscripción de la sociedad en el registro público que corresponda a su domicilio;\nb) la asignación de la Clave Única de Identificación Tributaria (CUIT) por la Agencia de Recaudación y Control Aduanero (ARCA);\nc) el alta como empleador ante esa Agencia, cuando el solicitante lo requiera;\nd) la apertura de una cuenta en la entidad financiera que elija el solicitante; y\ne) las habilitaciones de las jurisdicciones locales que se integren conforme al Capítulo IV."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Dato único",
+     "texto": "Ningún organismo o entidad que intervenga en la Ventanilla Única podrá exigir al solicitante datos o documentos que ya consten en el trámite o que obren en poder de otro organismo integrado a ella."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Firma digital y autenticidad",
+     "texto": "En la constitución de sociedades por acciones simplificadas que adopten el modelo tipo de instrumento constitutivo, el instrumento firmado con firma digital por todos los otorgantes, con identidad validada en la Ventanilla Única, satisface el requisito de autenticidad para su inscripción en cualquier registro público del país, sin necesidad de certificación notarial ni de homologación de firmas."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Plazo de constitución",
+     "texto": "El trámite de constitución de una sociedad por acciones simplificada que adopte el modelo tipo quedará concluido dentro de las VEINTICUATRO (24) horas hábiles de presentada la documentación completa, con la sociedad inscripta conforme al plazo del Título III de la Ley N° 27.349, la CUIT asignada, el alta de empleador efectuada, si se la solicitó, y la cuenta abierta. Para los demás tipos societarios y trámites, la reglamentación fijará el plazo máximo de cada organismo y entidad."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Observaciones",
+     "texto": "Cada organismo o entidad formulará, dentro de su plazo y en una sola vez, todas las observaciones que merezca la presentación. Subsanadas, no podrá formular observaciones nuevas sobre los aspectos ya presentados. La observación no fundada en un requisito legal o reglamentario expreso no suspende el plazo."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Apertura de cuenta",
+     "texto": "Las entidades financieras abrirán la cuenta solicitada a través de la Ventanilla Única dentro de las VEINTICUATRO (24) horas hábiles de recibida la solicitud, con cumplimiento de la debida diligencia de identificación del cliente y del beneficiario final que exige la Ley N° 25.246, que se efectuará sobre la información validada en la Ventanilla Única. El BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA) dictará las normas complementarias."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Uso de los datos",
+     "texto": "Los datos que los organismos y entidades intercambien a través de la Ventanilla Única solo podrán usarse para el trámite respectivo y para el ejercicio de las funciones propias de cada uno, conforme a la legislación de protección de los datos personales. Se prohíbe su uso para cualquier otra finalidad. Cada intercambio quedará registrado, con indicación del organismo, el agente, la fecha y el dato consultado, y el titular podrá conocer ese registro por la misma vía."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Modificación y cierre de empresas",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Modificaciones",
+     "texto": "Las modificaciones de los datos de la sociedad o de la actividad se tramitarán por la Ventanilla Única, que comunicará el cambio en forma simultánea a todos los organismos y entidades integrados, sin nuevas presentaciones."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Cierre simplificado",
+     "texto": "Las sociedades que no registren actividad, activos ni deudas exigibles, incluidas las fiscales y las de la seguridad social, y que no tengan trabajadores registrados, podrán disolverse, liquidarse y cancelar su inscripción en un único acto, por decisión unánime de sus socios y mediante declaración jurada con firma digital de sus socios y administradores, acompañada de un balance final de liquidación. En ese caso no se aplicarán los trámites sucesivos de disolución y liquidación de los artículos 94 a 112 de la Ley General de Sociedades N° 19.550 (t.o. 1984), salvo en lo que la reglamentación disponga para la publicidad del acto."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Efectos del cierre",
+     "texto": "La inscripción del cierre simplificado se tramitará en forma simultánea con la baja de la CUIT, del alta de empleador y de la cuenta de la sociedad. Los socios y los administradores que hubieran suscripto la declaración jurada responderán en forma solidaria e ilimitada por las obligaciones sociales omitidas o falseadas en ella, sin perjuicio de las demás responsabilidades que correspondan."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Provincias y municipios",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Convenios",
+     "texto": "La autoridad de aplicación podrá suscribir convenios con las provincias, la Ciudad Autónoma de Buenos Aires y los municipios para integrar a la Ventanilla Única sus registros públicos y sus habilitaciones, con el mismo modelo tipo de instrumento constitutivo, el mismo plazo de inscripción y, para las habilitaciones de actividades de bajo riesgo, un plazo máximo para resolver, la aprobación automática si el organismo no se pronuncia en ese plazo y el control posterior, conforme a la legislación local."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Ratificación",
+     "texto": "Ratifícanse los convenios suscriptos por el Estado nacional con las provincias, la Ciudad Autónoma de Buenos Aires y los municipios para la integración a la Ventanilla Única creada por el Decreto N° [—], cuya nómina integra el Anexo de la presente ley. Los convenios que se suscriban en adelante conforme al mismo modelo serán comunicados al Honorable Congreso de la Nación dentro de los TREINTA (30) días de su firma."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Invitación",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a la presente ley y a adecuar las normas de sus registros públicos al plazo y a la regla de autenticidad de los artículos 6° y 7°."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Transparencia y disposiciones finales",
+   "articulos": [
+    {
+     "n": 17,
+     "epigrafe": "Publicación de resultados",
+     "texto": "La autoridad de aplicación publicará cada mes, en formato abierto, la cantidad de trámites iniciados y concluidos por la Ventanilla Única, el plazo efectivo de cada etapa por organismo, entidad financiera y jurisdicción, el grado de cumplimiento de los plazos de la presente ley y la cantidad de cierres simplificados."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la presente ley se atenderán con los créditos asignados a las jurisdicciones y organismos intervinientes en la ley de presupuesto de cada ejercicio, sin incremento de su monto total."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Continuidad",
+     "texto": "La Ventanilla Única Digital creada por el Decreto N° [—] continuará funcionando conforme a sus normas hasta la entrada en vigencia de la reglamentación de la presente ley, en todo lo que no se le oponga."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su publicación y fijará en ella los plazos máximos de cada organismo y entidad."
+    },
+    {
+     "n": 21,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 19.550, arts. 94 a 112 (excepción para el cierre simplificado, sin sustituir su texto)",
+  "Ley 27.349, Título III (complementa: autenticidad por firma digital y plazo integrado; arts. 38 y 60 citados por su contenido)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,130 @@
+{
+ "id": "N387",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de consulta previa, libre e informada a los pueblos indígenas",
+ "sumilla": "Reglamenta la ley «Ley de consulta previa, libre e informada a los pueblos indígenas»: funciones del órgano técnico, identificación de medidas y comunidades, plan de consulta, entrega de información, nómina y pago del asesoramiento técnico independiente, actas, control previo de validez de la consulta, seguimiento de los acuerdos y verificación de los casos de consentimiento obligatorio (traslados y agua de consumo).",
+ "cuando": "Fase I · año 1, dentro de los 90 días de publicada «Ley de consulta previa, libre e informada a los pueblos indígenas» (art. 19 de esa ley)",
+ "cuando_breve": "Fase I · año 1, dentro de los 90 días de publicada «Ley de consulta previa, libre e informada a los pueblos indígenas»",
+ "tramite": "Decreto reglamentario (art. 99 inc. 2 CN).",
+ "motivos": null,
+ "visto": "El Expediente N° [número], la Ley N° 23.302, la Ley N° 24.071 que aprobó el Convenio N° 169 de la Organización Internacional del Trabajo y la Ley de consulta previa, libre e informada N° [número], y",
+ "considerando": [
+  "Que la Ley N° [número] reglamentó los artículos 6° y 15 del Convenio N° 169 de la Organización Internacional del Trabajo, aprobado por la Ley N° 24.071, y estableció que las medidas del Estado nacional susceptibles de afectar directamente a pueblos o comunidades indígenas deben consultarse antes de su adopción.",
+  "Que esa ley dispuso que sin consulta válida la medida es nula, que los acuerdos alcanzados son obligatorios y que se requiere el consentimiento de la comunidad cuando la medida implique su traslado, en los términos del artículo 16 del Convenio N° 169 de la OIT, o afecte sus fuentes de agua de consumo.",
+  "Que el artículo 19 de esa ley encomendó al Poder Ejecutivo nacional su reglamentación dentro de los noventa días, sin que su falta impida su aplicación.",
+  "Que corresponde precisar el procedimiento a cargo de los organismos responsables y del órgano técnico, el modo de asegurar la información técnica independiente y los controles que garantizan la validez de cada consulta.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Apruébase la reglamentación de la Ley N° [número] de consulta previa, libre e informada a los pueblos indígenas."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Órgano técnico",
+     "texto": "El órgano técnico del artículo 5° de la Ley N° [número] es el Instituto Nacional de Asuntos Indígenas (INAI), autoridad de aplicación de la Ley N° 23.302. Tiene a su cargo: a) asistir a los organismos responsables y a las comunidades en cada etapa; b) emitir los dictámenes previstos en este decreto; c) llevar el registro público de consultas del artículo 16 de la ley; d) aprobar guías y modelos de plan, de información y de actas; e) capacitar a los agentes de los organismos responsables."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Enlaces",
+     "texto": "Cada organismo del Sector Público Nacional con competencia para adoptar medidas alcanzadas por el artículo 2° de la Ley N° [número] designa un área responsable de conducir sus consultas y la comunica al órgano técnico dentro de los treinta (30) días de la entrada en vigencia del presente decreto."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Procedimiento",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Identificación",
+     "texto": "La notificación del artículo 6° de la Ley N° [número] describe la medida, su ubicación georreferenciada cuando corresponda y las comunidades que pueden resultar afectadas. El órgano técnico puede, dentro de los diez (10) días hábiles, indicar otras comunidades que deban ser consultadas. En caso de duda sobre la afectación directa, se consulta."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Instituciones representativas",
+     "texto": "La comunidad comunica por escrito, o por acta en su lengua con traducción, las instituciones o personas que la representan en la consulta, según sus formas propias de organización. El organismo responsable no puede elegir ni condicionar a los representantes."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Plan de consulta",
+     "texto": "El plan del artículo 7° de la Ley N° [número] se documenta en un acta firmada por el organismo responsable y los representantes de la comunidad, se remite al órgano técnico y se publica en el registro de consultas."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Información",
+     "texto": "La información del artículo 8° de la Ley N° [número] incluye, como mínimo, la descripción de la medida, los estudios de impacto ambiental y social cuando existan, los riesgos, las alternativas evaluadas y los beneficios previstos. Se entrega por escrito y se expone en reuniones abiertas a la comunidad, con intérpretes cuando corresponda. Toda información nueva que surja durante la consulta se entrega sin demora."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Asesoramiento técnico independiente",
+     "texto": "El órgano técnico publica y actualiza una nómina de universidades nacionales, organismos científicos públicos y profesionales disponibles para el asesoramiento del artículo 9° de la Ley N° [número], sin perjuicio de que la comunidad elija otros que reúnan los requisitos legales. El asesor declara bajo juramento no tener vínculo con el proponente ni con el organismo responsable. Cuando el costo esté a cargo del proponente, el organismo responsable fija su monto con criterios publicados, el proponente lo deposita antes de la etapa de información y el organismo paga al asesor contra la entrega de sus informes."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Evaluación interna y diálogo",
+     "texto": "Durante la evaluación interna del artículo 10 de la Ley N° [número], el organismo responsable y el proponente se abstienen de todo contacto con la comunidad que no haya sido acordado en el plan. Las reuniones de diálogo del artículo 11 se documentan en actas que firman las partes y se publican en el registro, con resguardo de la información culturalmente reservada."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Efectos",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Control de validez",
+     "texto": "Antes de adoptar una medida alcanzada por la Ley N° [número], el organismo responsable requiere al órgano técnico un dictamen sobre el cumplimiento de las etapas de la consulta, que se emite dentro de los quince (15) días hábiles. El acto de adopción cita la consulta realizada y el dictamen. El dictamen no sustituye el control judicial de la validez de la consulta."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Acuerdos",
+     "texto": "Los acuerdos del artículo 13 de la Ley N° [número] se transcriben como condiciones en el acto que adopta la medida o en la autorización. El organismo responsable verifica su cumplimiento y publica cada año un informe en el registro. La comunidad puede denunciar el incumplimiento ante el organismo responsable, que resuelve dentro de los treinta (30) días hábiles."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Falta de acuerdo",
+     "texto": "La resolución fundada del artículo 14 de la Ley N° [número] se notifica a la comunidad, se publica en el registro y contiene la respuesta individual a cada objeción y las medidas de resguardo adoptadas."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Consentimiento obligatorio",
+     "texto": "A los fines del artículo 15 de la Ley N° [número]: a) hay traslado o reubicación cuando la medida implique que la comunidad o parte de ella deba abandonar, en forma temporal o permanente, las tierras que ocupa; b) se afectan las fuentes de agua de consumo cuando la medida pueda alterar la cantidad, la calidad o el acceso a las aguas superficiales o subterráneas que la comunidad utiliza para beber, cocinar o la higiene. El órgano técnico se expide en su dictamen sobre la concurrencia de esos supuestos. El consentimiento se documenta en acta firmada por los representantes de la comunidad y no puede presumirse."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Registro público de consultas",
+     "texto": "El registro del artículo 16 de la Ley N° [número] funciona en el sitio oficial del órgano técnico en formato de datos abiertos, desde los noventa (90) días de la entrada en vigencia del presente decreto."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos del órgano técnico se atienden con los créditos de su jurisdicción y los de cada consulta con los del organismo responsable, conforme al artículo 18 de la Ley N° [número]."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entra en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

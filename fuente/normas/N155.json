@@ -1,0 +1,112 @@
+{
+ "id": "N155",
+ "tipo": "decreto",
+ "titulo": "Reglamentación de la ley de cuentas individuales de cese",
+ "sumilla": "Regula la apertura automática de la cuenta por CUIL, la elección y el cambio de entidad sin costo, el pago con constancia cancelatoria, la fracción anual para el Fondo Nacional del Empleo, el tope de la rebaja del art. 76 y la constatación de la vigencia junto con la red de desempleo y salud.",
+ "cuando": "Fase II (años 2-3): dentro de los 90 días de publicada la ley «Ley de cuentas individuales de cese y modernización de la contratación»; sus normas operativas se aplican cuando rijan los Capítulos II a IV de esa ley.",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (decreto reglamentario, art. 99 inc. 2 CN).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° [—] de cuentas individuales de cese, la Ley N° 27.802, la Ley de Contrato de Trabajo N° 20.744 (t.o. 1976), la Ley N° 24.013 y los Decretos Nros. 408/2026 y 1228/2026, y",
+ "considerando": [
+  "Que la Ley N° [—] convirtió las cuentas de los Fondos de Asistencia Laboral del Título II de la Ley N° 27.802 en cuentas individuales de cese de cada persona que trabaja, portables entre empleos y con el saldo a su nombre, que saldan la indemnización por despido cuando la cubren.",
+  "Que la Ley destinó una fracción de las contribuciones al Fondo Nacional del Empleo, a fijar por el Poder Ejecutivo nacional en cada ejercicio, y mantuvo la reducción de contribuciones patronales del artículo 76 de la Ley N° 27.802 dentro de un tope de costo fiscal fijado en cada ley de presupuesto.",
+  "Que la Ley condicionó la vigencia de su núcleo a la operatividad de la reforma de la prestación por desempleo y de la libre elección y portabilidad de la cobertura de salud, y encomendó al Poder Ejecutivo nacional constatar su cumplimiento.",
+  "Que el Decreto N° 408/2026, con las modificaciones del Decreto N° 1228/2026, reglamentó el régimen de los Fondos de Asistencia Laboral como cuenta del empleador, por lo que corresponde adecuarlo a las cuentas individuales.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Normas complementarias",
+     "texto": "Los organismos mencionados en el artículo 77 de la Ley N° 27.802 dictarán, en el marco de sus competencias y dentro de los sesenta (60) días de la publicación del presente, las normas complementarias necesarias para la apertura, la administración, la portabilidad y el uso de las cuentas individuales de cese de la Ley N° [—] (en adelante, la Ley). La COMISIÓN NACIONAL DE VALORES (CNV) adecuará sus normas sobre las entidades habilitadas y los fondos autorizados para administrar los Fondos de Asistencia Laboral."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Apertura de la cuenta",
+     "texto": "La AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO (ARCA) identificará, al registrarse el alta de cada relación laboral comprendida en la Ley, el Código Único de Identificación Laboral (CUIL) de la persona que trabaja y lo comunicará a la entidad habilitada que corresponda conforme el artículo 62 de la Ley N° 27.802, en el texto del artículo 11 de la Ley. La entidad abrirá la cuenta individual de cese dentro de los CINCO (5) días hábiles. Cada persona tendrá una única cuenta individual de cese: si ya la tuviera, las contribuciones de su nuevo empleador se acreditarán en ella, en una subcuenta separada."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Elección y cambio de entidad",
+     "texto": "La persona titular podrá elegir la entidad habilitada y cambiarla sin costo, mediante el servicio digital que habilite ARCA, al menos UNA (1) vez por año calendario y, además, cada vez que la entidad modifique sus comisiones. El traspaso del saldo, con todas sus subcuentas, se completará dentro de los TREINTA (30) días corridos de la solicitud, conforme el procedimiento que fije la CNV."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Información a la persona titular",
+     "texto": "La entidad habilitada pondrá a disposición de la persona titular, por medios digitales y en forma gratuita, el saldo de su cuenta por subcuenta, las contribuciones recibidas, los rendimientos, las comisiones cobradas y los retiros, con actualización mensual. Cada empleador solo podrá consultar la información de la subcuenta formada con sus propias contribuciones."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Adhesión de contratos vigentes",
+     "texto": "La Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social aprobará el modelo de acuerdo de adhesión del artículo 3° de la Ley, que dejará constancia de su carácter voluntario. El acuerdo o la cláusula convencional se registrará ante ARCA, y las contribuciones se acreditarán en la cuenta individual de cese desde el período mensual siguiente al del registro. Los recursos acumulados en la cuenta del empleador hasta la adhesión podrán aplicarse, conforme el artículo 64 de la Ley N° 27.802, al pago de la parte de la indemnización que corresponda a la antigüedad anterior a la adhesión."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Carencia",
+     "texto": "El período de carencia previsto en el artículo 65 de la Ley N° 27.802 y en el artículo 15 del Decreto N° 408/2026, en su texto vigente, se computa respecto de cada subcuenta desde la primera contribución de ese empleador registrada en ARCA."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Procedimiento de pago y constancia cancelatoria",
+     "texto": "Cuando el empleador aplique el saldo de su subcuenta al pago de una indemnización, se seguirá el procedimiento del artículo 69 de la Ley N° 27.802. La entidad habilitada verificará los datos con la información de la ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL (ANSES) y de ARCA, transferirá la suma a la cuenta bancaria de la persona que trabaja dentro de los CINCO (5) días hábiles y emitirá una constancia que consignará la liquidación practicada conforme el artículo 245 de la Ley de Contrato de Trabajo N° 20.744 (t.o. 1976), el monto aplicado de la subcuenta y la diferencia abonada por el empleador. Acreditado el pago íntegro, la constancia hará prueba a los fines del artículo 14 de la Ley."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Disponibilidad del saldo",
+     "texto": "La ANSES comunicará a la entidad habilitada el otorgamiento de la jubilación o del retiro por invalidez de la persona titular, y la entidad pondrá el saldo a su disposición dentro de los DIEZ (10) días hábiles. En caso de fallecimiento, las personas del artículo 248 de la Ley de Contrato de Trabajo N° 20.744 (t.o. 1976) acreditarán su vínculo ante la entidad con la documentación que fije la Secretaría de Trabajo y Empleo. La habilitación del uso parcial del saldo durante el desempleo, prevista en el artículo 17 de la Ley, se considerará en la evaluación del artículo 29 de la Ley; hasta entonces, el saldo solo se libera en los supuestos de este artículo."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Fracción destinada al Fondo Nacional del Empleo",
+     "texto": "La fracción del artículo 18 de la Ley se fijará por decreto antes del inicio de cada ejercicio, sobre la base de un informe actuarial de la Secretaría de Trabajo y Empleo, con intervención de la ANSES y del Ministerio de Economía, que se publicará con TREINTA (30) días de anticipación y considerará el costo de la prestación por desempleo y la suficiencia de las cuentas para cubrir las indemnizaciones. Para el ejercicio en que entren en vigencia los Capítulos II a IV de la Ley, la fracción se fijará en el decreto que constate el cumplimiento de esas condiciones, previsto en el artículo 13 del presente. ARCA derivará la fracción al Fondo Nacional del Empleo al recaudar cada contribución."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Reducción de contribuciones patronales",
+     "texto": "El Ministerio de Economía publicará, junto con el proyecto de ley de presupuesto de cada ejercicio, la estimación del costo fiscal de la reducción prevista en el artículo 76 de la Ley N° 27.802 para las cuentas individuales de cese. Si la ley de presupuesto fijara un tope inferior a esa estimación, ese Ministerio determinará la fecha de apertura de las cuentas a partir de la cual la reducción deja de aplicarse en forma total y pasa a aplicarse en forma decreciente, comenzando por las cuentas más antiguas, y ARCA aplicará ese esquema desde el primer período mensual del ejercicio."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Fondos de cese convencionales",
+     "texto": "La Secretaría de Trabajo y Empleo llevará el registro público de los convenios colectivos que adopten fondos o sistemas de cese conforme el artículo 22 de la Ley, con indicación de su ámbito, del aporte del empleador y de la entidad que los administra, y lo publicará en formato abierto en su sitio web oficial."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Evaluación pública",
+     "texto": "La evaluación prevista en el artículo 29 de la Ley se publicará en formato abierto. ARCA, la ANSES, la CNV y la SUPERINTENDENCIA DE RIESGOS DEL TRABAJO (SRT) suministrarán a la Secretaría de Trabajo y Empleo, en forma anonimizada, la información necesaria."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Constatación de la vigencia",
+     "texto": "Dentro de los DIEZ (10) días de cumplidas las condiciones del artículo 27 de la Ley, la Secretaría de Trabajo y Empleo informará al PODER EJECUTIVO NACIONAL la certificación de la plena operatividad de la reforma del sistema integral de prestaciones por desempleo y la fecha de operatividad de la libre elección y la portabilidad de la cobertura de salud, a los fines del decreto que constate su cumplimiento."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Decreto N° 408/2026",
+     "texto": "El Decreto N° 408/2026 y sus modificatorios se aplican a las cuentas individuales de cese en todo lo que no se oponga a la Ley y al presente decreto."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial. Sus artículos 2° a 12 se aplican desde la entrada en vigencia de los Capítulos II a IV de la Ley."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 408/2026, texto según Decreto 1228/2026 (aplicación supletoria a las cuentas individuales)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

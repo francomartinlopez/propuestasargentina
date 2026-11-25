@@ -1,0 +1,63 @@
+{
+ "id": "N425",
+ "tipo": "decreto",
+ "titulo": "Decreto del Plan Nacional de Salud Mental y Trabajo para personas en situación de calle",
+ "sumilla": "Restituye a la Nación la coordinación de la política para personas en situación de calle de la Ley 27.654 y crea un plan nacional con relevamiento anual, equipos de calle de salud mental y consumos, alojamiento con tratamiento y un camino al trabajo a través del trabajo comunitario y la intermediación laboral, con las provincias y los municipios.",
+ "cuando": "Fase I · año 1 (relevamiento en el primer invierno)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Decreto (art. 99, inc. 2, CN), reglamentario de la Ley 27.654",
+ "motivos": null,
+ "visto": "La Ley N° 27.654 de Situación de Calle y Familias sin Techo, la Ley N° 26.657 de Salud Mental, los Decretos N° 183/2023 y N° 373/2025, y",
+ "considerando": [
+  "Que la Ley N° 27.654 tiene por objeto garantizar integralmente y hacer operativos los derechos de las personas en situación de calle y en riesgo de estarlo, y prevé un relevamiento anual de alcance nacional.",
+  "Que el Decreto N° 373/2025 modificó su reglamentación y trasladó a las provincias la responsabilidad principal de la atención.",
+  "Que la situación de calle combina, en la mayoría de los casos, problemas de salud mental o de consumos y la falta de trabajo, y que la respuesta requiere coordinación nacional, atención sanitaria y un camino al empleo.",
+  "Que el presente se dicta en uso de las facultades del artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Coordinación nacional",
+     "texto": "El Ministerio de Trabajo y Desarrollo Social, con el Ministerio de Salud, ejerce la coordinación nacional de la política de la Ley N° 27.654 de personas en situación de calle y familias sin techo. Déjanse sin efecto las modificaciones a su reglamentación que limitaron esa coordinación."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Relevamiento",
+     "texto": "Cada año, antes del invierno, se realiza el relevamiento nacional de personas en situación de calle previsto en la Ley N° 27.654, con el Instituto Nacional de Estadística y Censos y los organismos provinciales, y se publican sus resultados por localidad."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Equipos de calle",
+     "texto": "Créanse equipos interdisciplinarios de calle de salud mental y consumos, que recorren las zonas con más personas en situación de calle, ofrecen atención y derivan a la red de salud, conforme la Ley N° 26.657 de Salud Mental."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Alojamiento con tratamiento",
+     "texto": "La Nación financia, por convenio con provincias y municipios, plazas de alojamiento transitorio con tratamiento de salud mental y de consumos, abiertas las veinticuatro (24) horas."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Camino al trabajo",
+     "texto": "Cada persona alojada tiene un plan de salida con documentación, el ingreso universal cuando corresponda, la incorporación al programa de trabajo comunitario y la intermediación laboral de las Oficinas de Empleo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Metas",
+     "texto": "Son metas del plan reducir a la mitad, al cierre del mandato, la cantidad de personas en situación de calle relevada en el primer año, y que ninguna persona relevada quede sin una oferta de alojamiento y de atención de salud."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

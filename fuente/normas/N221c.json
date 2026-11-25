@@ -1,0 +1,55 @@
+{
+ "id": "N221c",
+ "tipo": "ley_aprobatoria",
+ "titulo": "Ley aprobatoria del Convenio de Transferencia a la Ciudad Autónoma de Buenos Aires de la Justicia Nacional Ordinaria en lo Criminal y Correccional",
+ "sumilla": "Aprueba el convenio «Convenio de Transferencia a la Ciudad Autónoma de Buenos Aires de la Justicia Nacional Ordinaria en lo Criminal y Correccional», deja sin efecto para la competencia transferida la reserva de la justicia nacional ordinaria y fija la fuente: los créditos de los órganos transferidos, sin aumento del gasto.",
+ "cuando": "Fase II (años 2-3): se envía al Congreso con el convenio firmado; sanción antes del 10/12/2030.",
+ "cuando_breve": "Fase II",
+ "tramite": "Mayoría simple; cámara de origen indistinta. Ley aprobatoria de un convenio Nación–Ciudad.",
+ "motivos": "La implementación del sistema acusatorio en la justicia federal avanza por distritos conforme la Ley N° 27.150. La justicia nacional ordinaria en lo criminal y correccional con asiento en la Ciudad Autónoma de Buenos Aires, en cambio, no puede incorporarse a ese cronograma por resolución, y su situación se vincula con la autonomía que el artículo 129 de la Constitución Nacional reconoce a la Ciudad. Las Leyes N° 25.752 y N° 26.702 ya aprobaron transferencias de competencias penales que la Ciudad ejerce con un procedimiento acusatorio. El convenio que este proyecto aprueba completa ese camino por etapas: transfiere la competencia, los cargos, el personal que lo acepte y los créditos correspondientes, y asegura que las causas en trámite concluyan ante los órganos y con la ley procesal con que se iniciaron. El proyecto no autoriza gasto adicional: los recursos que se transfieren son los que la ley de presupuesto ya asigna a los órganos transferidos, que se reducen en igual importe. Tampoco modifica la coparticipación federal de impuestos. La meta es que, antes del 10 de diciembre de 2030, todos los procesos penales de la Ciudad se rijan por el sistema acusatorio.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Aprobación",
+     "texto": "Apruébase el Convenio de Transferencia a la Ciudad Autónoma de Buenos Aires de la Justicia Nacional Ordinaria en lo Criminal y Correccional, suscripto entre el Estado Nacional y la Ciudad Autónoma de Buenos Aires el [—], cuya copia autenticada forma parte de la presente ley como Anexo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Competencia transferida",
+     "texto": "Desde la fecha de cada etapa del Convenio, la competencia transferida deja de corresponder a la justicia nacional ordinaria con asiento en la Ciudad Autónoma de Buenos Aires, y no rige a su respecto la reserva de esa competencia establecida en el artículo 8° de la Ley N° 24.588. Las causas en trámite se rigen por la cláusula tercera del Convenio."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Fuente de los recursos",
+     "texto": "Las transferencias de la cláusula sexta del Convenio se atienden exclusivamente con los créditos que la ley de presupuesto de cada ejercicio asigna a los órganos y cargos transferidos, que se reducen en igual importe. La presente ley no autoriza gasto adicional. El Jefe de Gabinete de Ministros efectuará las reestructuraciones presupuestarias necesarias, sin aumento del gasto total."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Garantías del personal",
+     "texto": "Los magistrados, funcionarios y empleados que no se transfieran conservan sus cargos y derechos en el Poder Judicial de la Nación y en los Ministerios Públicos nacionales, que los reasignarán conforme a sus necesidades."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Información al Congreso",
+     "texto": "La Comisión de Implementación del Convenio remitirá sus informes semestrales a la Comisión Bicameral de Monitoreo e Implementación del Código Procesal Penal Federal creada por el artículo 7° de la Ley N° 27.063, sustituido por la Ley N° 27.482, que los publicará."
+    },
+    {
+     "n": 6,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.588, art. 8 (justicia nacional ordinaria): no rige para la competencia transferida"
+ ],
+ "deroga": [],
+ "variantes": null
+}

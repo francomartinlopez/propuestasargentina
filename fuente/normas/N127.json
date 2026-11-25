@@ -1,0 +1,155 @@
+{
+ "id": "N127",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de seguridad de suministro de insumos críticos, mapa público de dependencias y stocks estratégicos",
+ "sumilla": "Da mandato legal a la unidad técnica de seguridad de suministro, le otorga una excepción acotada al secreto fiscal para conocer proveedores y orígenes, obliga a publicar cada año el mapa de dependencias en versión agregada crea un régimen de stocks mínimos por insumo de riesgo alto y faculta a exigir un proveedor alternativo en los insumos de origen único, sin controles de precios ni multas.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La economía argentina depende de insumos que provienen de pocos proveedores o de pocos países: fertilizantes fosfatados, concentrado de uranio para las centrales nucleares, gas natural licuado de invierno, principios activos de medicamentos, semiconductores, coque y gasoil. Una interrupción originada en el exterior puede afectar la producción de alimentos, la generación eléctrica o la provisión de medicamentos. El Poder Ejecutivo creó por decreto una unidad técnica que releva esas dependencias. Este proyecto le da mandato legal y completa sus herramientas en cuatro puntos que exigen ley. Primero, una excepción acotada al secreto fiscal del artículo 101 de la Ley N° 11.683, limitada a los datos de comercio exterior de los insumos críticos, con deber de reserva y publicación solo agregada. Segundo, la obligación de publicar cada año el mapa de dependencias. Tercero, un régimen de stocks estratégicos que fija, para cada insumo de riesgo alto, un stock mínimo en días de consumo, quién lo guarda y cómo se paga. Cuarto, la facultad de exigir, con criterios objetivos, plazo razonable y publicidad, un segundo proveedor o una fuente alternativa para los insumos que dependen de un solo origen. El proyecto no restablece la Ley N° 20.680 de Abastecimiento, derogada por el Decreto N° 70/2023: no habilita controles de precios, márgenes ni cupos, ni sanciones al comercio. Las respuestas al riesgo son proporcionales y dan preferencia a la diversificación de proveedores antes que al cierre de la economía.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y unidad técnica",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto conocer y reducir el riesgo de interrupción del suministro de los insumos críticos de los que depende el país, mediante un mapa público de dependencias, respuestas proporcionales al riesgo y un régimen de stocks estratégicos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por:\na) insumo crítico: el bien cuya falta afectaría en forma grave la salud de la población, la producción de alimentos, la provisión de energía, la defensa o el funcionamiento de cadenas productivas esenciales;\nb) insumo de riesgo alto: el insumo crítico cuyo suministro depende de pocos proveedores o países, con baja posibilidad de reemplazo en el corto plazo y stock disponible insuficiente, conforme a la metodología pública que fije la autoridad de aplicación;\nc) stock estratégico: la existencia mínima de un insumo de riesgo alto, expresada en días de consumo, que debe mantenerse disponible en el país."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Autoridad de aplicación y unidad técnica",
+     "texto": "Es autoridad de aplicación de la presente ley la que designe el Poder Ejecutivo nacional en el ámbito del Ministerio de Economía. La autoridad de aplicación contará con una unidad técnica de seguridad de suministro, que ejercerá las funciones que esta ley le asigna. La unidad técnica no podrá ser suprimida ni privada de esas funciones sino por ley."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Funciones de la unidad técnica",
+     "texto": "La unidad técnica:\na) elabora y actualiza el mapa de dependencias de insumos críticos;\nb) clasifica los insumos según su riesgo de suministro, conforme a una metodología pública;\nc) propone para cada insumo de riesgo alto una respuesta proporcional: diversificación de proveedores, acuerdos con socios confiables, compras conjuntas regionales, stock estratégico o producción local, con preferencia por la diversificación;\nd) propone los stocks estratégicos y las exigencias de proveedor alternativo previstos en el Capítulo IV;\ne) informa a la autoridad de aplicación ante cada alerta de suministro."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Mapa de dependencias",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Contenido del mapa",
+     "texto": "El mapa de dependencias consigna, para cada insumo crítico, los proveedores, los países de origen, el grado de concentración, la posibilidad de reemplazo, el stock disponible y la clasificación de riesgo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Lista inicial",
+     "texto": "El primer mapa comprenderá, al menos: urea y fertilizantes fosfatados; concentrado de uranio para las centrales nucleares; gas natural licuado; principios activos de medicamentos y vacunas; semiconductores y componentes electrónicos; coque para la siderurgia; y gasoil."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Publicación anual obligatoria",
+     "texto": "La autoridad de aplicación publicará cada año, antes del 30 de junio, la versión pública del mapa de dependencias, en formato de datos abiertos, junto con las respuestas adoptadas o propuestas para cada insumo de riesgo alto y su grado de avance. El mapa se actualizará además ante cada crisis internacional que pueda afectar el suministro. La versión pública presenta la información en forma agregada y no permite identificar a contribuyentes ni operaciones individuales."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Versión reservada",
+     "texto": "La autoridad de aplicación mantendrá una versión reservada del mapa con la información individual, a la que solo podrán acceder la unidad técnica, el Ministerio de Justicia y Seguridad, el Ministerio de Defensa, el Ministerio de Salud y el Ministerio de Infraestructura y Energía, para los fines de la presente ley."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Informe al Congreso",
+     "texto": "La autoridad de aplicación remitirá cada año al Congreso de la Nación el mapa público y un informe sobre los insumos de riesgo alto, las respuestas adoptadas y el estado de los stocks estratégicos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Acceso a la información",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Excepción acotada al secreto fiscal",
+     "texto": "Incorpórase como último párrafo del artículo 101 de la Ley N° 11.683 el siguiente:\n«El secreto establecido en este artículo no rige respecto de la información de comercio exterior que la Agencia de Recaudación y Control Aduanero (ARCA) suministre a la unidad técnica de seguridad de suministro creada por ley, limitada a la identificación de importadores, exportadores y proveedores del exterior, el país de origen y de procedencia, las cantidades, los valores y las fechas de las operaciones de los bienes incluidos en el mapa de dependencias de insumos críticos. La unidad técnica y sus agentes quedan sujetos al secreto y a las responsabilidades previstas en este artículo, solo podrán utilizar esa información para los fines de la ley que la crea y únicamente podrán difundirla en forma agregada, de modo que no permita identificar a los contribuyentes.»"
+    },
+    {
+     "n": 11,
+     "epigrafe": "Entrega de la información",
+     "texto": "La ARCA proveerá a la unidad técnica la información prevista en el artículo anterior en forma periódica y por medios electrónicos, conforme a un convenio que asegure la trazabilidad de los accesos."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Información de las empresas",
+     "texto": "La unidad técnica podrá requerir a importadores, productores y distribuidores de insumos de riesgo alto información sobre sus existencias, sus proveedores y sus consumos. La información recibida queda sujeta al deber de reserva previsto en el artículo 10 y se trata conforme a la Ley N° 25.326."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Stocks estratégicos y proveedor alternativo",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Régimen",
+     "texto": "Para cada insumo de riesgo alto respecto del cual la respuesta proporcional sea un stock estratégico, el Poder Ejecutivo nacional fijará, a propuesta de la autoridad de aplicación y con fundamento público:\na) el stock mínimo, expresado en días de consumo;\nb) el sujeto que lo guarda: los importadores, los productores o el Estado nacional;\nc) la forma de pago;\nd) las condiciones de almacenamiento, rotación y uso del stock;\ne) los supuestos en que puede utilizarse y el plazo para reponerlo."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Stocks a cargo de importadores o productores",
+     "texto": "Cuando el stock se ponga a cargo de importadores o productores, la obligación se fijará con alcance general para todos los operadores del insumo, en proporción a sus propias ventas o consumos, con un plazo de adecuación no menor de SEIS (6) meses. El costo del stock queda a cargo del obligado, que podrá trasladarlo libremente a sus precios, salvo que la reglamentación prevea un reconocimiento parcial de costos financiado conforme al artículo 19."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Stocks a cargo del Estado",
+     "texto": "Cuando el stock quede a cargo del Estado nacional, podrá constituirse mediante compra directa, contratos de almacenamiento con terceros o compras conjuntas con otros Estados del Mercosur, por los procedimientos de contratación vigentes."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Exclusión de controles de precios",
+     "texto": "La presente ley no restablece la Ley N° 20.680, derogada por el artículo 9° del Decreto N° 70/2023, ni faculta a fijar precios, márgenes de ganancia, cupos de producción o de venta, ni a imponer sanciones al comercio. El uso de los stocks estratégicos no habilita la requisa ni la intervención de empresas."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Proveedor alternativo en insumos de origen único",
+     "texto": "La autoridad de aplicación podrá exigir, por resolución fundada, que los importadores y productores de un insumo de riesgo alto cuyo suministro dependa de un solo proveedor o de un solo país de origen cuenten con un segundo proveedor no vinculado al principal o con otra fuente alternativa habilitada, incluida la producción local. La exigencia:\na) se fundará en criterios objetivos de la metodología pública prevista en el artículo 4°, inciso b), entre ellos el grado de concentración del abastecimiento, la posibilidad de reemplazo en el corto plazo y el stock disponible;\nb) tendrá alcance general para todos los operadores del insumo cuya participación en el mercado supere el porcentaje que fije la reglamentación;\nc) otorgará un plazo razonable de adecuación según las condiciones de cada mercado, que no será menor de VEINTICUATRO (24) meses;\nd) se publicará en el Boletín Oficial y en el sitio oficial de la autoridad de aplicación, con su fundamento, el insumo alcanzado y el plazo;\ne) podrá dar lugar a una compensación, en las condiciones que fije la reglamentación y financiada conforme al artículo 19, cuando la habilitación de la fuente alternativa exija costos extraordinarios que excedan los de una diversificación razonable.\nLa exigencia no podrá imponer un proveedor, un país de origen, precios ni cantidades determinados, y se tendrá por cumplida cuando el obligado acredite que no existe una fuente alternativa habilitable dentro del plazo fijado."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Incumplimiento",
+     "texto": "Ante el incumplimiento de la obligación de mantener un stock o de contar con un proveedor alternativo conforme al artículo anterior, la autoridad de aplicación intimará al obligado a regularizarlo. Si el incumplimiento persiste, la autoridad publicará la nómina de incumplidores y el obligado perderá el derecho a cualquier reconocimiento de costos o compensación previstos en esta ley y su reglamentación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 19,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos de funcionamiento de la unidad técnica se atienden con los créditos asignados a la jurisdicción de la autoridad de aplicación en la ley de presupuesto vigente, sin aumento del gasto total autorizado. Los stocks a cargo del Estado nacional, los reconocimientos de costos y las compensaciones previstas en el artículo 17 se financiarán con las partidas que la ley de presupuesto asigne a partir del ejercicio siguiente al de la entrada en vigencia de la presente ley, por insumo y con participación privada cuando corresponda; hasta entonces no podrán constituirse stocks a cargo del Estado."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Cronograma",
+     "texto": "La autoridad de aplicación publicará el primer mapa con la lista inicial dentro de los DOCE (12) meses de la entrada en vigencia de la presente ley y, dentro de los VEINTICUATRO (24) meses, la respuesta propuesta para cada insumo de riesgo alto."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su promulgación."
+    },
+    {
+     "n": 22,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 11.683, art. 101 (incorpora último párrafo: excepción acotada para la unidad técnica)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

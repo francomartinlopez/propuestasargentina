@@ -1,0 +1,58 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "existente",
+    "rol": "Fija el cronograma, coordina la puesta en marcha y elabora el proyecto de ley o el convenio para la justicia nacional ordinaria. Remite la nota y ofrece cooperación técnica.",
+    "hoy": "Ministerio de Justicia (Secretaría de Justicia)",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Justicia",
+      "estado": "modificado",
+      "rol": "Fija el monto de la competencia, los honorarios, la plataforma a distancia, el servicio gratuito y el registro de centros de arbitraje.",
+      "hoy": "Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos (Subsecretaría de Acceso a la Justicia, Ministerio de Justicia)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerios públicos y Corte Suprema",
+    "estado": "existente",
+    "rol": "Adecúan sus estructuras en las jurisdicciones que se implementan; se los invita.",
+    "hoy": "Procuración General, Defensoría General, Corte Suprema y Consejo de la Magistratura",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión mixta Nación–Ciudad",
+    "estado": "nuevo",
+    "rol": "Sigue el cronograma, aprueba inventarios y publica informes semestrales.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Administración del Poder Judicial",
+   "rol": "Recibe los informes de vencimiento del plazo máximo, publica los indicadores por juzgado y provee salas y equipos de registro."
+  },
+  {
+   "nombre": "Corte Suprema de Justicia de la Nación",
+   "rol": "Dicta las acordadas de implementación del registro audiovisual sobre el expediente electrónico."
+  },
+  {
+   "nombre": "Comisión bicameral de implementación procesal",
+   "rol": "Recibe la información de avance; no fija el cronograma desde el DNU 188/2024."
+  },
+  {
+   "nombre": "Consejo de la Magistratura",
+   "rol": "Reglamentación conjunta (Ley 26.685) y recursos para el tablero."
+  }
+ ]
+}

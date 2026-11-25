@@ -1,0 +1,85 @@
+{
+ "id": "N333",
+ "tipo": "tratado",
+ "titulo": "Protocolo adicional al acuerdo con China sobre la Estación de Espacio Lejano de Bajada del Agrio (Neuquén): inspección anual de uso civil (condicional)",
+ "sumilla": "Si el acuerdo aprobado por la Ley 27.123 no lo permite, agrega por protocolo una inspección anual de la CONAE con acceso pleno a instalaciones, equipos, registros y personal de la estación, inspecciones extraordinarias, registros obligatorios y un informe público que resguarda la tecnología protegida.",
+ "cuando": "Fase I (condicional: solo si el acuerdo vigente no permite la inspección)",
+ "cuando_breve": "Fase I",
+ "tramite": "Aprobación del Congreso por ley (art. 75 inc. 22 de la Constitución; mayoría simple, cámara de origen indistinta); negociación, firma y ratificación por el Poder Ejecutivo nacional (art. 99 inc. 11). Protocolo modificatorio: solo si el acuerdo vigente no permite la inspección.",
+ "motivos": "El Acuerdo con la República Popular China sobre la Estación de Espacio Lejano en la Provincia del Neuquén, aprobado por la Ley N° 27.123 en 2015, cedió un predio para la operación de una estación de seguimiento de misiones espaciales por un plazo prolongado. Las Partes acordaron luego que su uso sería exclusivamente civil, pero el control previsto es colaborativo y no asegura una verificación periódica con acceso pleno. La transparencia sobre una instalación de esta naturaleza, en territorio argentino y operada por un organismo extranjero, es una condición de la confianza pública en la cooperación espacial, que el país valora. El presente Protocolo, que se negocia solo si el Acuerdo vigente no permite esa verificación, establece una inspección anual a cargo de la agencia espacial nacional con acceso pleno a instalaciones, equipos, registros y personal, inspecciones extraordinarias por motivos fundados, el deber de llevar registros completos de operación y la publicación de un informe que resguarda la información tecnológica protegida. Prevé consultas ante cualquier incumplimiento y la adecuación de los acuerdos de implementación con la Provincia del Neuquén. No altera el destino civil de la Estación ni los demás compromisos asumidos: los hace verificables, con reglas que la República aplica por igual a la cooperación con cualquier Estado.",
+ "visto": "",
+ "considerando": [],
+ "formula": "PROTOCOLO ADICIONAL AL ACUERDO DE COOPERACIÓN ENTRE EL GOBIERNO DE LA REPÚBLICA ARGENTINA Y EL GOBIERNO DE LA REPÚBLICA POPULAR CHINA SOBRE LA ESTACIÓN DE ESPACIO LEJANO EN LA PROVINCIA DEL NEUQUÉN, RELATIVO A LA VERIFICACIÓN DEL USO EXCLUSIVAMENTE CIVIL El Gobierno de la República Argentina y el Gobierno de la República Popular China (en adelante, «las Partes»), TENIENDO PRESENTE el Acuerdo de Cooperación entre el Gobierno de la República Argentina y el Gobierno de la República Popular China sobre la construcción, el establecimiento y la operación de una estación de espacio lejano de China en la provincia del Neuquén, Argentina, en el marco del Programa Chino de Exploración de la Luna, celebrado en la ciudad de Buenos Aires el 23 de abril de 2014 y aprobado en la República Argentina por la Ley N° 27.123 (en adelante, «el Acuerdo»), y el protocolo adicional de 2016 por el cual las Partes reafirmaron que la Estación se destina a usos exclusivamente civiles; RECORDANDO el Tratado sobre los principios que deben regir las actividades de los Estados en la exploración y utilización del espacio ultraterrestre, incluso la Luna y otros cuerpos celestes, de 1967, del que ambas Partes son parte; RECONOCIENDO que la confianza pública en la cooperación espacial entre ambos países se fortalece con mecanismos de verificación periódicos, transparentes y acordados; HAN CONVENIDO lo siguiente:",
+ "capitulos": [
+  {
+   "titulo": "Verificación del uso civil",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente Protocolo establece un mecanismo de verificación anual del uso exclusivamente civil de la Estación de Espacio Lejano en la Provincia del Neuquén (en adelante, «la Estación») y de las instalaciones, equipos y actividades comprendidos en el Acuerdo."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Uso exclusivamente civil",
+     "texto": "Las Partes reafirman que la Estación y todas sus instalaciones se destinan exclusivamente a fines civiles y pacíficos de exploración del espacio lejano, seguimiento, telemetría y comando de misiones espaciales civiles, y que no se utilizarán con fines militares ni para actividades de inteligencia."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Inspección anual",
+     "texto": "La Comisión Nacional de Actividades Espaciales de la República Argentina (CONAE), o el organismo que la suceda, realizará una inspección anual de la Estación, con acceso pleno a: a) todas las instalaciones, edificios y áreas del predio; b) los equipos de recepción, transmisión y procesamiento; c) los registros de operación del artículo 5°; d) los planes de misión y la nómina de los objetos espaciales atendidos; y e) el personal que opera la Estación, para entrevistas técnicas. La Parte argentina notificará la fecha de inspección con QUINCE (15) días de anticipación."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Inspecciones extraordinarias",
+     "texto": "La Parte argentina podrá solicitar inspecciones extraordinarias por motivos fundados, con CINCO (5) días de anticipación. La Parte china las facilitará en las mismas condiciones del artículo 3°."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Registros de operación",
+     "texto": "La entidad que opera la Estación llevará y conservará por un plazo mínimo de CINCO (5) años registros completos de todas las actividades de seguimiento, telemetría y comando, con indicación de fecha, hora, objeto espacial, misión y tipo de actividad, y los pondrá a disposición del equipo inspector."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Equipo inspector",
+     "texto": "El equipo inspector estará integrado por personal técnico de la CONAE y podrá incluir representantes del Ente Nacional de Comunicaciones (ENACOM) y de la Provincia del Neuquén. Sus integrantes guardarán confidencialidad sobre la información tecnológica de propiedad de la Parte china a la que accedan, que solo podrá utilizarse a los fines de la verificación."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Informe",
+     "texto": "La CONAE elaborará un informe de cada inspección, que se comunicará a la Parte china. La Parte argentina podrá publicar una versión del informe que omita la información tecnológica protegida conforme el artículo 6°."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Consultas",
+     "texto": "Si una inspección no pudiera realizarse en las condiciones del presente Protocolo o comprobara actividades incompatibles con el artículo 2°, las Partes celebrarán consultas dentro de los TREINTA (30) días de la notificación de cualquiera de ellas, con el fin de restablecer el cumplimiento. Si el incumplimiento persistiera, la Parte argentina podrá adoptar las medidas que prevén el Acuerdo y el derecho internacional."
+    }
+   ]
+  },
+  {
+   "titulo": "Disposiciones finales",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Acuerdos de implementación",
+     "texto": "Las Partes adecuarán a lo dispuesto en el presente Protocolo, dentro de los NOVENTA (90) días de su entrada en vigor, los acuerdos de implementación celebrados entre sus organismos competentes y con la Provincia del Neuquén."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Relación con el Acuerdo",
+     "texto": "El presente Protocolo forma parte integrante del Acuerdo y tendrá la misma duración. En caso de discrepancia, prevalece el presente Protocolo."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Entrada en vigor",
+     "texto": "El presente Protocolo entrará en vigor en la fecha de la última de las notificaciones por las cuales las Partes se comuniquen, por vía diplomática, el cumplimiento de sus respectivos requisitos internos. Hecho en […], el […] de […] de […], en dos ejemplares originales, en idiomas español y chino, siendo ambos textos igualmente auténticos."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Acuerdo con China sobre la Estación de Espacio Lejano en Neuquén, aprobado por la Ley 27.123 (protocolo adicional)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

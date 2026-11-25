@@ -1,0 +1,120 @@
+{
+ "id": "N053",
+ "tipo": "decreto",
+ "titulo": "Decreto de aplicación, en el ámbito del Poder Ejecutivo nacional, de la Ley Convenio de Coparticipación Federal de Impuestos",
+ "sumilla": "Sin reglamentar la ley convenio (art. 75 inc. 2 CN lo prohíbe), organiza a los organismos nacionales para cumplirla: designa la autoridad de aplicación del Fondo ATN, crea el portal de giros con publicación en 48 horas, fija el circuito de liquidación diaria, el suministro de datos a la Comisión Federal de Impuestos para los coeficientes y los indicadores, la adecuación de Bienes Personales en cada etapa y la fuente previsional en el presupuesto.",
+ "cuando": "Fase II: dentro de los 30 días de la publicación de la ley convenio «Ley Convenio de Coparticipación Federal de Impuestos» (el Capítulo IV rige desde esa publicación); el resto, con su entrada en vigencia general.",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica: decreto del Poder Ejecutivo (art. 99 incs. 1 y 2 CN) limitado a la organización de la Administración nacional; no reglamenta la ley convenio.",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° 23.548, la Ley N° [—], Ley Convenio de Coparticipación Federal de Impuestos (en adelante, «la Ley Convenio»), la Ley N° 25.917 y sus modificatorias, y",
+ "considerando": [
+  "Que el artículo 75, inciso 2, de la Constitución Nacional dispone que la ley convenio de coparticipación no puede ser modificada unilateralmente ni reglamentada, por lo que el presente se limita a organizar a los organismos del Poder Ejecutivo nacional para el cumplimiento de las obligaciones que la Ley Convenio pone a cargo del Estado nacional, sin alterar ni interpretar su contenido.",
+  "Que el Capítulo IV de la Ley Convenio sustituye la asignación discrecional de los Aportes del Tesoro Nacional por reglas automáticas, dispone que cada giro se publique dentro de las cuarenta y ocho horas y se aplica desde su publicación, conforme a su artículo 32.",
+  "Que la Comisión Federal de Impuestos debe calcular los coeficientes de base, la distribución del crecimiento de la masa y la neutralidad de cada devolución de potestades, para lo cual requiere información que producen organismos nacionales.",
+  "Que el artículo 6° de la Ley Convenio obliga al Estado nacional a destinar por presupuesto al sistema previsional un importe no inferior al que habría producido la asignación del impuesto al valor agregado que deroga.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto y alcance",
+     "texto": "El presente decreto organiza a los organismos del Poder Ejecutivo nacional para el cumplimiento de la Ley N° [—], Ley Convenio de Coparticipación Federal de Impuestos (en adelante, «la Ley Convenio»). Sus disposiciones no reglamentan, modifican ni interpretan la Ley Convenio y, en caso de duda, prevalecen la Ley Convenio y las decisiones de la Comisión Federal de Impuestos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Aportes del Tesoro Nacional",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación del Fondo",
+     "texto": "Desígnase autoridad de aplicación del Fondo de Aportes del Tesoro Nacional a las Provincias, a los fines del artículo 19 de la Ley Convenio, a la Jefatura de Gabinete de Ministros, que actuará por intermedio de su Secretaría del Interior. La autoridad de aplicación no podrá delegar la facultad de disponer giros fuera de esa Secretaría."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Solicitudes y actuación de oficio",
+     "texto": "Las jurisdicciones presentarán sus solicitudes por medio de un formulario digital único, al que acompañarán el acto de declaración de la emergencia o los datos que acrediten el supuesto del artículo 20 de la Ley Convenio. La autoridad de aplicación actuará de oficio cuando un decreto nacional declare una emergencia o catástrofe que afecte a una jurisdicción. Cada solicitud recibirá un número y su estado podrá consultarse en el portal del artículo 5°."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cálculo y giro",
+     "texto": "La autoridad de aplicación calculará el importe con las fórmulas e indicadores vigentes aprobados por la Comisión Federal de Impuestos y dispondrá el giro dentro del plazo del artículo 21 de la Ley Convenio. El acto que lo disponga contendrá el cálculo completo. Cuando el supuesto no se acredite, la denegatoria fundada se notificará y publicará en el mismo plazo."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Portal público de giros",
+     "texto": "Créase el Portal de Aportes del Tesoro Nacional en el sitio oficial de la Jefatura de Gabinete de Ministros, donde se publicarán, dentro de las cuarenta y ocho (48) horas de cada giro y en formato abierto, los datos del artículo 22 de la Ley Convenio; las solicitudes recibidas, con su estado; las denegatorias; y el saldo diario del Fondo. Los datos no podrán retirarse del Portal."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Remanente y saldo acumulado",
+     "texto": "La autoridad de aplicación instruirá al Banco de la Nación Argentina para distribuir el remanente anual y las cuotas del saldo acumulado conforme al artículo 23 de la Ley Convenio, en el número de cuotas que fije la ley de presupuesto, con los coeficientes que corresponda aplicar según su artículo 32."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Informes",
+     "texto": "La autoridad de aplicación remitirá cada trimestre a la Comisión Federal de Impuestos y a las comisiones de presupuesto de ambas Cámaras del Congreso el informe previsto en el artículo 22 de la Ley Convenio, y atenderá las observaciones de la Comisión dentro de los diez (10) días hábiles."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Liquidación, datos y potestades",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Liquidación diaria",
+     "texto": "La Agencia de Recaudación y Control Aduanero (ARCA) informará cada día al Banco de la Nación Argentina y a la Secretaría de Hacienda del Ministerio de Economía la recaudación de los impuestos que integran la masa, para su transferencia diaria y automática conforme al artículo 11 de la Ley Convenio. El Banco de la Nación Argentina publicará cada día las transferencias realizadas por jurisdicción y por concepto."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Datos para la Comisión Federal de Impuestos",
+     "texto": "La Secretaría de Hacienda reunirá y remitirá a la Comisión Federal de Impuestos, dentro de los treinta (30) días de la entrada en vigencia general de la Ley Convenio, lo recibido en el año base por el Estado nacional y cada jurisdicción por coparticipación, asignaciones específicas y regímenes especiales de distribución, a los fines de su artículo 8°, y cada año la información que la Comisión le requiera. El Instituto Nacional de Estadística y Censos (INDEC) suministrará a la Comisión los índices de precios y los indicadores de población y de condiciones de vida necesarios para el artículo 9° de la Ley Convenio."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Representación nacional",
+     "texto": "El representante del Estado nacional ante la Comisión Federal de Impuestos y su suplente serán designados por el Ministro de Economía entre los funcionarios de la Secretaría de Hacienda."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Devolución del impuesto sobre los bienes personales",
+     "texto": "Recibida la certificación del artículo 15 de la Ley Convenio respecto de una jurisdicción, ARCA dictará, antes del 1° de octubre del mismo año, las normas que adecuen la aplicación del impuesto sobre los bienes personales conforme al artículo 13 de la Ley Convenio, incluido el régimen de responsable sustituto, y suscribirá con la administración tributaria de la jurisdicción un convenio de suministro de información con sujeción al secreto fiscal. La Secretaría de Hacienda suministrará a la Comisión los datos para el cálculo del artículo 16 de la Ley Convenio."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Fuente previsional",
+     "texto": "La Secretaría de Hacienda incluirá en cada proyecto de ley de presupuesto, en los créditos de la Administración Nacional de la Seguridad Social (ANSES), el importe previsto en el artículo 6° de la Ley Convenio, con el cálculo que lo sustenta."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Publicación anual",
+     "texto": "La Secretaría de Hacienda publicará el informe anual del artículo 29 de la Ley Convenio antes del 30 de junio de cada año."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "El Capítulo II del presente rige desde su publicación en el Boletín Oficial. Los Capítulos I, III y IV rigen desde la entrada en vigencia general de la Ley Convenio, salvo el artículo 9° en lo relativo a la preparación de la información, que rige desde la publicación."
+    },
+    {
+     "n": 15,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

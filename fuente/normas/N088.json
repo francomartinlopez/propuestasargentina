@@ -1,0 +1,65 @@
+{
+ "id": "N088",
+ "tipo": "resolucion",
+ "titulo": "Comunicación modelo del BCRA: masificación del cheque electrónico (ECHEQ) y del pagaré electrónico",
+ "sumilla": "Obliga a los bancos a ofrecer el ECHEQ a todos los cuentacorrentistas por canales digitales, con costos no mayores que el cheque papel y depósito sin cargo, interoperable con todas las entidades y los mercados, y habilita el descuento y la custodia del pagaré electrónico en las mismas condiciones.",
+ "cuando": "Fase I (año 1)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (Comunicación «A» del BCRA, dictada por su Directorio).",
+ "motivos": null,
+ "visto": "La Ley N° 24.452 de Cheques, el Decreto-Ley N° 5965/63, la Ley N° 27.444, las Comunicaciones «A» 6578, 6725 y 7832, y",
+ "considerando": [
+  "Que la Ley N° 27.444 admitió los cheques, las letras de cambio y los pagarés generados por medios electrónicos, y que esta Institución reglamentó el cheque electrónico (ECHEQ) por la Comunicación «A» 6578 y sus complementarias.",
+  "Que el cheque y el pagaré son los instrumentos de financiamiento más usados por las pequeñas y medianas empresas, y que su versión electrónica reduce costos, plazos y riesgos de fraude y permite su negociación en los mercados de capitales.",
+  "Que el uso de estos instrumentos todavía depende de que cada entidad los ofrezca en todos sus canales, a costos razonables y en forma interoperable con las demás entidades y con los mercados.",
+  "Que la presente se dicta en uso de las facultades conferidas por la Carta Orgánica del Banco Central de la República Argentina, Ley N° 24.144 y sus modificatorias."
+ ],
+ "formula": "A LAS ENTIDADES FINANCIERAS: Nos dirigimos a Uds. para comunicarles que esta Institución adoptó la siguiente resolución:",
+ "capitulos": [
+  {
+   "titulo": "Comunicación «A» […] – Ref.: Circular […]. Cheques y pagarés generados por medios electrónicos. Adecuaciones.",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Punto 1 – Oferta obligatoria del ECHEQ",
+     "texto": "Disponer que las entidades financieras que ofrezcan cuentas corrientes habiliten a todos sus titulares, sin requisitos de saldo ni de antigüedad adicionales a los de la cuenta, la emisión, el endoso, la cesión, el depósito, la custodia, el aval y el descuento de cheques generados por medios electrónicos (ECHEQ) a través de sus canales de banca por internet y de banca móvil."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Punto 2 – Costos",
+     "texto": "Establecer que las comisiones y cargos por la emisión, el endoso y la custodia de ECHEQ no podrán superar los que la entidad aplique a las mismas operaciones con cheques librados en soporte papel, y que la recepción y el depósito de ECHEQ no tendrán cargo para el beneficiario. Las entidades publicarán sus comisiones por operaciones con ECHEQ y pagarés electrónicos en el régimen de transparencia vigente."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Punto 3 – Interoperabilidad",
+     "texto": "Disponer que el ECHEQ pueda endosarse o cederse a favor de cualquier titular de cuenta en cualquier entidad financiera, y depositarse para su custodia y negociación en los mercados autorizados por la Comisión Nacional de Valores, sin restricciones técnicas entre entidades."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Punto 4 – Acreditación",
+     "texto": "Establecer que los ECHEQ depositados se acrediten en la cuenta del beneficiario el mismo día de su fecha de pago, en la medida en que el librador tenga fondos disponibles."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Punto 5 – Pagaré electrónico",
+     "texto": "Disponer que las entidades financieras admitan para su descuento, y como garantía de operaciones de crédito, los pagarés generados por medios electrónicos conforme al inciso g) del artículo 101 del Decreto-Ley N° 5965/63, registrados en las infraestructuras de registro y custodia que habilite esta Institución, en las mismas condiciones de canales y costos establecidas para el ECHEQ en los puntos 1 y 2. Esta Institución habilitará esas infraestructuras dentro de los CIENTO OCHENTA (180) días, asegurando su interoperabilidad con las que se utilicen para el ECHEQ y con los mercados autorizados."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Punto 6 – Información estadística",
+     "texto": "Esta Institución publicará cada mes la cantidad y el monto de ECHEQ y de pagarés electrónicos emitidos, descontados y negociados en mercados, con apertura por tamaño de empresa y por provincia."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Punto 7 – Vigencia",
+     "texto": "Las presentes disposiciones entrarán en vigencia a los NOVENTA (90) días corridos de su difusión, salvo el punto 5, que se aplicará desde la habilitación de las infraestructuras allí previstas."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Comunicaciones BCRA A 6578, A 6725 y A 7832 (ECHEQ): se complementan"
+ ],
+ "deroga": [],
+ "variantes": null
+}

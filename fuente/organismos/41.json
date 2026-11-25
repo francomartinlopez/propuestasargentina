@@ -1,0 +1,112 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Salud y Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT)",
+    "estado": "existente",
+    "rol": "Integra la Mesa: medicamentos, principios activos y vacunas.",
+    "hoy": "Ministerio de Salud; ANMAT",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Energía",
+    "estado": "existente",
+    "rol": "Integra la Mesa: combustibles, GNL y uranio.",
+    "hoy": "Secretaría de Energía (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Defensa",
+    "estado": "existente",
+    "rol": "Integra la Mesa y recibe la versión reservada del mapa.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad sanitaria",
+    "estado": "existente",
+    "rol": "Medicamentos, principios activos y vacunas.",
+    "hoy": "Ministerio de Salud; ANMAT",
+    "hijos": []
+   },
+   {
+    "nombre": "Área con competencia en defensa",
+    "estado": "existente",
+    "rol": "Insumos de defensa; recibe la versión reservada del mapa.",
+    "hoy": "Ministerio de Defensa",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación de la ley «Ley de seguridad de suministro de insumos críticos, mapa público de dependencias y stocks estratégicos».",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Unidad de Seguridad de Suministro",
+      "estado": "nuevo",
+      "rol": "Elabora el mapa de dependencias de insumos críticos y propone respuestas proporcionales. Metodología de riesgo, mapa, propuesta de stocks y constatación de interrupciones.",
+      "hoy": "",
+      "hijos": [
+       {
+        "nombre": "Mesa de Coordinación de Seguridad de Suministro",
+        "estado": "nuevo",
+        "rol": "Coordina con Salud y ANMAT, Energía, Defensa y Agricultura (ad honorem).",
+        "hoy": "",
+        "hijos": []
+       },
+       {
+        "nombre": "Mesa interministerial de suministro",
+        "estado": "nuevo",
+        "rol": "Coordina con Salud y ANMAT, Energía, Defensa y Agricultura (ad honorem, sin estructura).",
+        "hoy": "",
+        "hijos": []
+       }
+      ]
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA) – Dirección General de Aduanas",
+      "estado": "existente",
+      "rol": "Provee datos de importación (agregados hasta la ley «Ley de seguridad de suministro de insumos críticos, mapa público de dependencias y stocks estratégicos»).",
+      "hoy": "ARCA (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Agricultura, Ganadería y Pesca",
+      "estado": "existente",
+      "rol": "Integra la Mesa: fertilizantes.",
+      "hoy": "Secretaría de Agricultura, Ganadería y Pesca (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Unidad técnica de seguridad de suministro",
+      "estado": "nuevo",
+      "rol": "Mapa de dependencias de insumos críticos y respuestas proporcionales; mandato legal por «Ley de seguridad de suministro de insumos críticos, mapa público de dependencias y stocks estratégicos». Recibe mandato legal, excepción al secreto fiscal y la propuesta de stocks.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Área con competencia en energía",
+      "estado": "existente",
+      "rol": "Combustibles, GNL y uranio.",
+      "hoy": "Secretaría de Energía (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero",
+      "estado": "modificado",
+      "rol": "Entrega la información de comercio exterior bajo la excepción acotada. Entrega mensual de la información de comercio exterior por convenio.",
+      "hoy": "ARCA (Dirección General de Aduanas y Dirección General Impositiva; Ministerio de Economía)",
+      "hijos": []
+     }
+    ]
+   }
+  ]
+ },
+ "externos": []
+}

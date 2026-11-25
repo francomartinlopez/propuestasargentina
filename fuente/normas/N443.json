@@ -1,0 +1,100 @@
+{
+ "id": "N443",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de reconocimiento y enseñanza del idioma guaraní",
+ "sumilla": "Declara al guaraní patrimonio cultural de la Nación, sin modificar el uso del español. En las provincias que adhieran —donde puede ser idioma oficial alternativo, como en Corrientes desde 2004— da derechos concretos: presentar escritos ante oficinas nacionales en guaraní, ser atendido en esa lengua en salud, seguridad social, justicia y pasos de frontera, y contar con intérprete gratuito en los procesos judiciales. Promueve su enseñanza a través del Consejo Federal de Educación (obligatoria en las provincias adheridas y optativa en el resto), forma docentes, encarga al INDEC medir cuántas personas lo hablan e impulsa su adopción como lengua de trabajo del Mercosur.",
+ "cuando": "Fase I (año 1)",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; cámara de origen indistinta. La educación es competencia concurrente: la obligatoriedad rige en las provincias que adhieran.",
+ "motivos": "El guaraní es la lengua de millones de personas a un lado y otro de la frontera. En el Paraguay es idioma oficial desde la Constitución de 1992; en el Mercosur fue declarado uno de los idiomas del bloque en 2006, aunque nunca se lo usó como lengua de trabajo; en la Argentina se habla en Corrientes, Misiones, Formosa, Chaco y en los barrios del conurbano y de las grandes ciudades donde viven cientos de miles de personas de origen paraguayo. La provincia de Corrientes lo declaró idioma oficial alternativo en 2004 (Ley 5598) y dispuso enseñarlo en todos los niveles; Misiones y Formosa tienen programas educativos propios. No existe una medición oficial de cuántas personas hablan guaraní en la Argentina. El Censo 2022 solo preguntó por el uso de lenguas indígenas a quienes se reconocieron como indígenas, y la mayoría de los hablantes de guaraní no lo son. Esta ley no afirma que sea la segunda lengua más hablada del país: encarga medirlo. Lo que sí está claro es que una lengua que se habla en la casa y en la calle, pero que no entra en la escuela, en el hospital ni en la oficina pública, se pierde o se vuelve motivo de vergüenza. La Ley de Educación Nacional (26.206) ya prevé la educación intercultural bilingüe, pero solo para los pueblos indígenas. La Argentina no tiene una ley que declare un idioma oficial: el español lo es de hecho. Esta ley no altera esa situación ni crea categorías abstractas. Declara al guaraní patrimonio cultural de la Nación y le da derechos concretos donde se habla: en las provincias que adhieran, que conservan la facultad de declararlo idioma oficial alternativo, quien habla guaraní puede dirigirse en su lengua a las oficinas nacionales, ser atendido en ella y contar con intérprete ante la justicia. Cada provincia decide además si su enseñanza es obligatoria. Y acerca a la Argentina al Paraguay, que lo habla casi en su totalidad.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Reconocimiento y derechos",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Patrimonio cultural",
+     "texto": "Declárase al idioma guaraní patrimonio cultural de la Nación. Esta declaración no modifica el uso del idioma español por las autoridades nacionales."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Provincias adheridas",
+     "texto": "Las provincias que adhieran a la presente ley, o que ya lo hayan establecido, como la Provincia de Corrientes por su Ley 5598, pueden declarar al guaraní idioma oficial alternativo en su territorio, en las condiciones que fije cada legislación provincial. En ellas rigen los derechos del artículo siguiente."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Derechos de los hablantes",
+     "texto": "En las provincias adheridas, toda persona tiene derecho a: a) presentar escritos en guaraní ante los organismos del Estado nacional con sede en ellas, que los responden en español y, cuando sea posible, también en guaraní; b) ser atendida en guaraní en los servicios nacionales de salud, seguridad social, justicia y control de frontera, en la forma gradual que fije la reglamentación; c) contar con intérprete gratuito de guaraní en los procesos ante la justicia federal y nacional, cuando no comprenda suficientemente el español."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Otras lenguas",
+     "texto": "El reconocimiento del guaraní no limita los derechos lingüísticos de los pueblos indígenas establecidos en el artículo 75, inciso 17, de la Constitución Nacional y en la Ley 26.206, ni el reconocimiento de otras lenguas por leyes posteriores."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Enseñanza",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Enseñanza",
+     "texto": "El Ministerio de Educación, Ciencia y Cultura propondrá al Consejo Federal de Educación contenidos comunes para la enseñanza del guaraní en los niveles primario y secundario. Su enseñanza es obligatoria en las provincias adheridas, en la forma y gradualidad que cada una determine, y optativa en las demás."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Formación docente",
+     "texto": "El Instituto Nacional de Formación Docente, junto con las universidades nacionales de la región, organiza profesorados y trayectos de formación en lengua guaraní, y acuerda con el Paraguay el reconocimiento recíproco de esos títulos."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Materiales",
+     "texto": "El Estado nacional produce y distribuye en forma gratuita materiales didácticos en guaraní, en acuerdo con las provincias y con las instituciones educativas y culturales del Paraguay."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Medición e integración regional",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Medición",
+     "texto": "El Instituto Nacional de Estadística y Censos incluye en el próximo censo nacional de población y en las encuestas a hogares preguntas sobre las lenguas que habla toda la población, sin limitarlas a quienes se reconozcan como indígenas, y publica sus resultados por provincia y departamento."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Mercosur",
+     "texto": "El Ministerio de Relaciones Exteriores, Comercio Internacional y Culto promueve en el Mercosur la adopción del guaraní como lengua de trabajo del bloque, junto con el español y el portugués."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Adhesión",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a la presente ley."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos se atienden con los créditos asignados al Ministerio de Educación, Ciencia y Cultura en la ley de presupuesto, sin aumento del gasto total."
+    },
+    {
+     "n": 12,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 26.206 de Educación Nacional (complementa el régimen de educación intercultural bilingüe con la enseñanza del guaraní)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

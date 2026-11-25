@@ -1,0 +1,121 @@
+{
+ "id": "N305",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de apuestas online y prevención de la ludopatía",
+ "sumilla": "Designa autoridad de aplicación a la Secretaría de Salud Mental y Adicciones del Ministerio de Salud y reglamenta la verificación de identidad y edad con el RENAPER, los límites de depósito, el Registro Nacional de Autoexclusión, los plazos de bloqueo de sitios, pagos y publicidad de operadores no autorizados y el procedimiento sancionatorio de la ley de apuestas en línea.",
+ "cuando": "Fase I (dentro de los 90 días de la publicación de la ley, art. 23 de «Ley de apuestas online y prevención de la ludopatía»)",
+ "cuando_breve": "Fase I",
+ "tramite": "Decreto reglamentario del Poder Ejecutivo nacional (art. 99 inc. 2 CN). No es DNU.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° [●] de apuestas en línea y prevención de la ludopatía, y",
+ "considerando": [
+  "Que la Ley N° [●] de apuestas en línea estableció un piso común nacional de protección de las personas menores de edad y de prevención de la ludopatía en los juegos de azar y apuestas en línea, con verificación de identidad, registro nacional de autoexclusión, límites de depósito, reglas de publicidad y bloqueo de operadores no autorizados.",
+  "Que su artículo 19 encomienda al Poder Ejecutivo nacional designar la autoridad de aplicación, y su artículo 23, reglamentarla dentro de los noventa (90) días de su publicación.",
+  "Que la prevención de las adicciones, incluida la ludopatía, es competencia de la Secretaría de Salud Mental y Adicciones del Ministerio de Salud.",
+  "Que la ley conserva en las provincias y en la Ciudad Autónoma de Buenos Aires la potestad de licenciar y fiscalizar el juego, por lo que su aplicación debe coordinarse con ellas.",
+  "Que las órdenes a las entidades financieras y a los proveedores de servicios de pago corresponden al Banco Central de la República Argentina en ejercicio de sus propias facultades.",
+  "Que han tomado intervención los servicios jurídicos competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación – artículo 19",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° [●] de apuestas en línea a la Secretaría de Salud Mental y Adicciones del Ministerio de Salud, la que podrá dictar las normas complementarias e interpretativas de la ley y del presente."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Verificación de identidad – artículo 6°",
+     "texto": "La verificación de identidad y edad se realiza mediante el servicio de validación biométrica del Registro Nacional de las Personas (RENAPER), al registrarse el jugador y, en adelante, al menos cada doce (12) meses, al modificar el medio de pago registrado y cada vez que existan indicios de uso de la cuenta por un tercero. El RENAPER presta el servicio a los operadores autorizados según su arancel vigente, a cargo de estos. Los operadores conservan la constancia de cada validación durante cinco (5) años."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cuenta y medios de pago – artículo 7°",
+     "texto": "Los operadores autorizados verifican que la titularidad de cada medio de pago coincida con la identidad validada del jugador. No pueden acreditarse depósitos ni realizarse retiros por medios de pago de terceros."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Límites de depósito – artículo 8°",
+     "texto": "La autoridad de aplicación fija por resolución, expresados en salarios mínimos, vitales y móviles, los topes máximos de los límites de depósito diario, semanal y mensual. El aumento de un límite fijado por el jugador rige a los siete (7) días corridos de solicitado; su reducción, de inmediato."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Herramientas de juego responsable – artículo 9°",
+     "texto": "La autoridad de aplicación aprueba dentro de los sesenta (60) días los requisitos mínimos de las herramientas de juego responsable, la frecuencia de las alertas de sesión y el formato del acceso directo al Registro Nacional de Autoexclusión y a la línea nacional de ayuda."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Registro Nacional de Autoexclusión – artículo 10",
+     "texto": "La inscripción en el Registro Nacional de Autoexclusión se realiza en forma digital, con validación de identidad por el RENAPER, o en forma presencial ante la autoridad de aplicación o los organismos con los que esta celebre convenio. La persona elige un plazo de seis (6) meses, un (1) año, tres (3) años o por tiempo indeterminado. La inscripción por tiempo indeterminado solo puede dejarse sin efecto a pedido de la persona después de transcurridos tres (3) años. La autoridad de aplicación pone el Registro en funcionamiento dentro de los noventa (90) días de la publicación del presente."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Consulta del Registro – artículo 11",
+     "texto": "Los operadores autorizados consultan el Registro en forma automatizada antes de habilitar una cuenta y al menos una vez por día respecto de sus cuentas activas. El saldo de la cuenta bloqueada se reintegra al medio de pago registrado dentro de los cinco (5) días hábiles."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Datos e interconexión – artículo 12",
+     "texto": "La autoridad de aplicación es responsable del tratamiento de los datos del Registro. Los convenios de interconexión con los registros de las jurisdicciones aseguran que la inscripción en cualquiera de ellos se comunique a los demás dentro de las veinticuatro (24) horas."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Publicidad – artículos 13 y 14",
+     "texto": "La autoridad de aplicación aprueba dentro de los sesenta (60) días el texto y el tamaño mínimos de las advertencias del artículo 13 y los criterios para determinar los contenidos, horarios, espacios y plataformas con audiencia mayoritaria de menores del artículo 14, con intervención de la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros y de la Secretaría de Niñez, Adolescencia y Familia del Ministerio de Trabajo y Desarrollo Social."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Bloqueo de sitios – artículo 16",
+     "texto": "El Ente Nacional de Comunicaciones ordena el bloqueo a los prestadores de servicios de internet dentro de las cuarenta y ocho (48) horas de recibido el requerimiento, y estos lo ejecutan dentro de las cuarenta y ocho (48) horas de notificados. La autoridad de aplicación publica y actualiza la nómina de sitios y aplicaciones bloqueados en su sitio oficial."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Bloqueo de pagos – artículo 17",
+     "texto": "La autoridad de aplicación comunica en forma continua al Banco Central de la República Argentina la nómina de operadores no autorizados del artículo 16, a los efectos de las normas que dicte en ejercicio de sus facultades. Invítase al Banco Central de la República Argentina a dictarlas dentro de los sesenta (60) días."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Plataformas digitales – artículo 18",
+     "texto": "Las plataformas digitales, redes sociales y buscadores retiran la publicidad y los enlaces notificados dentro de las veinticuatro (24) horas de recibida la notificación de la autoridad de aplicación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Sanciones – artículo 20",
+     "texto": "Las infracciones se sustancian por sumario ante la autoridad de aplicación conforme la Ley de Procedimiento Administrativo N° 19.549 y su reglamentación. Cuando el infractor sea un operador autorizado, la autoridad de aplicación notifica el inicio del sumario a la jurisdicción licenciante, que puede intervenir en él. Las multas se gradúan conforme los criterios del artículo 20 de la ley."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Acuerdo con las jurisdicciones – artículo 21",
+     "texto": "La autoridad de aplicación promueve el acuerdo con las provincias y la Ciudad Autónoma de Buenos Aires previsto en el artículo 21 de la ley, que incluye la interconexión de registros, el intercambio de información sobre operadores no autorizados, la fiscalización conjunta y la articulación con los servicios de salud mental."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Adecuación – artículo 23",
+     "texto": "El plazo de adecuación de los operadores autorizados se computa desde la puesta en funcionamiento del Registro Nacional de Autoexclusión, que la autoridad de aplicación comunica en el Boletín Oficial."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande el presente se atienden con los créditos asignados a los organismos intervinientes."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entra en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 18,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

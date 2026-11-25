@@ -1,0 +1,56 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Instituto Nacional de Evaluación Educativa (INEE)",
+    "estado": "modificado",
+    "rol": "Publica por establecimiento los resultados de Aprender de las escuelas financiadas por alumno. Aporta los resultados de Aprender y publica los de las escuelas participantes.",
+    "hoy": "Creado por la ley «Ley del Instituto Nacional de Evaluación Educativa y del piso de inversión educativa» (Días 61-100); antes, Subsecretaría de Información y Evaluación Educativa (Secretaría de Educación, Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad educativa provincial",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación: fórmula, adhesiones, arancel regulado, sorteos y pagos.",
+    "hoy": "Según cada provincia",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo federal educativo",
+    "estado": "modificado",
+    "rol": "Ámbito de firma; aprueba los criterios comunes de la fórmula y recibe los informes de evaluación.",
+    "hoy": "Consejo Federal de Educación (Ley 26.206, arts. 116-118)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión federal de seguimiento",
+    "estado": "nuevo",
+    "rol": "Consolida fórmulas, diseño común de evaluación e informes; sin remuneración.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de evaluación educativa",
+    "estado": "existente",
+    "rol": "Aporta datos de Aprender y asistencia técnica; publica resultados por escuela de los pilotos.",
+    "hoy": "Creado por la ley «Ley del Instituto Nacional de Evaluación Educativa y del piso de inversión educativa»",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Jurisdicciones provinciales",
+   "rol": "Informan al INEE la nómina de escuelas financiadas por alumno."
+  },
+  {
+   "nombre": "Evaluador independiente",
+   "rol": "Evalúa aprendizajes y segregación frente a escuelas comparables; informe público antes de toda extensión."
+  }
+ ]
+}

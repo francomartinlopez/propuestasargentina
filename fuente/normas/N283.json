@@ -1,0 +1,60 @@
+{
+ "id": "N283",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de publicación de resultados de las escuelas financiadas por alumno (modificación del art. 97 de la Ley 26.206)",
+ "sumilla": "Modifica el art. 97 de la Ley de Educación Nacional para que las escuelas, estatales o privadas, que reciban financiamiento por alumno conforme una ley provincial publiquen sus resultados de Aprender por establecimiento, con indicadores de contexto, manteniendo la reserva de identidad de alumnos y docentes.",
+ "cuando": "Fase II · antes del primer ciclo lectivo de los pilotos de financiamiento por alumno («Modelo de ley provincial de financiamiento educativo por alumno (pilotos)», «Acuerdo federal de financiamiento educativo por alumno»)",
+ "cuando_breve": "Fase II · antes del primer ciclo lectivo de los pilotos de financiamiento por alumno",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "La Ley de Educación Nacional dispone que la difusión de los resultados de las evaluaciones resguarde la identidad de alumnos, docentes e instituciones, a fin de evitar cualquier forma de estigmatización. Ese criterio es razonable como regla general, pero no se ajusta a las escuelas que reciben fondos públicos en función de los alumnos que eligen asistir a ellas. Cuando el financiamiento sigue al alumno, las familias necesitan información confiable para elegir, y la sociedad necesita saber si los recursos públicos mejoran los aprendizajes. El presente proyecto exceptúa de la reserva de identidad institucional a los establecimientos, de gestión estatal o privada, que reciban financiamiento por alumno conforme una ley provincial o de la Ciudad Autónoma de Buenos Aires, y dispone que sus resultados de las evaluaciones nacionales se publiquen por escuela, acompañados de indicadores de contexto que permitan una lectura justa. La identidad de alumnos y docentes sigue protegida en todos los casos, y los resultados no pueden usarse para elaborar ordenamientos con fines sancionatorios. La medida no genera gasto adicional y se ejecuta con los recursos de la evaluación nacional existente.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto que los establecimientos educativos que reciben financiamiento por alumno publiquen sus resultados en las evaluaciones nacionales de aprendizajes."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sustitución del artículo 97 de la Ley N° 26.206",
+     "texto": "Sustitúyese el artículo 97 de la Ley N° 26.206 por el siguiente: «ARTÍCULO 97.- El Ministerio de Educación, Ciencia y Cultura, el Instituto Nacional de Evaluación Educativa y las jurisdicciones educativas harán públicos los datos e indicadores que contribuyan a facilitar la transparencia, la buena gestión de la educación y la investigación educativa. La política de difusión de la información sobre los resultados de las evaluaciones resguardará la identidad de los/as alumnos/as, docentes e instituciones educativas, a fin de evitar cualquier forma de estigmatización, en el marco de la legislación vigente en la materia. Se exceptúan de la reserva de identidad institucional los establecimientos de gestión estatal o privada que reciban financiamiento asignado por alumno conforme una ley provincial o de la Ciudad Autónoma de Buenos Aires: sus resultados en las evaluaciones nacionales se publican por establecimiento, acompañados de indicadores de contexto escolar y socioeconómico. En ningún caso se difunden datos que permitan identificar a alumnos/as o docentes, ni se elaboran con esos resultados ordenamientos de establecimientos con fines sancionatorios.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Participación en las evaluaciones",
+     "texto": "Los establecimientos comprendidos en la excepción del artículo 97 de la Ley N° 26.206, según el texto de la presente, participan con carácter censal en las evaluaciones nacionales de aprendizajes de los años que se evalúen."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Información de las jurisdicciones",
+     "texto": "Las provincias y la Ciudad Autónoma de Buenos Aires informan cada año al Instituto Nacional de Evaluación Educativa, antes del inicio del ciclo lectivo, la nómina de los establecimientos que reciben financiamiento por alumno. El Instituto publica los resultados de esos establecimientos dentro de los plazos de publicación de la evaluación nacional."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Financiamiento",
+     "texto": "La presente ley no autoriza gasto adicional. Su ejecución se atiende con los créditos asignados al Instituto Nacional de Evaluación Educativa por la ley de presupuesto."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entra en vigencia el día siguiente al de su publicación en el Boletín Oficial y se aplica a las evaluaciones nacionales que se tomen desde el ciclo lectivo siguiente."
+    },
+    {
+     "n": 7,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 26.206, art. 97 (sustituye)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

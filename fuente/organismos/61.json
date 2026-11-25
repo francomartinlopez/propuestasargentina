@@ -1,0 +1,126 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría General de la Presidencia",
+    "estado": "modificado",
+    "rol": "Se suprime su objetivo sobre Olivos. Aprueba y publica el manual de la imagen institucional única del Estado y lleva la consulta pública de nombres. Aprueba y aplica el manual de ceremonial tradicional.",
+    "hoy": "Unidad Gabinete de Asesores (Secretaría General de la Presidencia), objetivo 11 sobre el Paseo de la República de Olivos",
+    "hijos": [
+     {
+      "nombre": "Casa Militar",
+      "estado": "modificado",
+      "rol": "Pierde la intendencia, el mantenimiento y la higiene de Olivos y Chapadmalal; conserva la custodia del Presidente y la seguridad de la Casa de Gobierno.",
+      "hoy": "Casa Militar (Secretaría General de la Presidencia de la Nación), objetivos 8 a 11 según Decreto 1176/2026",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Agencia de Administración de Bienes del Estado (AABE)",
+    "estado": "modificado",
+    "rol": "Recibe la administración de Olivos y Chapadmalal, exige cupo social en Chapadmalal y publica el inventario en seis meses.",
+    "hoy": "AABE, organismo descentralizado de la Jefatura de Gabinete de Ministros, en la Vicejefatura de Gabinete del Interior (Decreto 581/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Gestiona el centro de rehabilitación de Olivos, la base de helicópteros sanitarios y el centro de Chapadmalal.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Sistema Nacional para la Gestión Integral del Riesgo y la Protección Civil (SINAGIR)",
+    "estado": "modificado",
+    "rol": "Requiere las aeronaves para misiones sanitarias, de evacuación y humanitarias.",
+    "hoy": "SINAGIR (Ley 27.287): Consejo Nacional presidido por el Ministerio de Seguridad Nacional; Secretaría Ejecutiva a cargo de la Agencia Federal de Emergencias",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Defensa",
+    "estado": "modificado",
+    "rol": "Sigue operando y manteniendo la flota con destino de emergencias; adecua nombre y funciones en 60 días.",
+    "hoy": "Ministerio de Defensa, Subsecretaría de Planeamiento Operativo y Servicio Logístico de la Defensa (Decreto 514/2025); Fuerza Aérea Argentina",
+    "hijos": [
+     {
+      "nombre": "Ministerio de Defensa / Fuerza Aérea",
+      "estado": "modificado",
+      "rol": "Sigue operando y manteniendo la flota con destino de emergencias; adecua nombre y funciones en 60 días.",
+      "hoy": "Ministerio de Defensa, Subsecretaría de Planeamiento Operativo y Servicio Logístico de la Defensa (Decreto 514/2025); Fuerza Aérea Argentina",
+      "hijos": []
+     },
+     {
+      "nombre": "Regimiento de Granaderos a Caballo General San Martín",
+      "estado": "existente",
+      "rol": "Escolta presidencial en el ceremonial.",
+      "hoy": "Ejército Argentino",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Jefatura de Gabinete de Ministros",
+    "estado": "modificado",
+    "rol": "Regula el parque automotor común y reasigna partidas con el ahorro.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración de inmuebles del Estado",
+    "estado": "modificado",
+    "rol": "Recibe la administración de Olivos y Chapadmalal, exige cupo social en Chapadmalal y publica el inventario en seis meses.",
+    "hoy": "AABE, organismo descentralizado de la Jefatura de Gabinete de Ministros, en la Vicejefatura de Gabinete del Interior (Decreto 581/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Sistema nacional de emergencias",
+    "estado": "modificado",
+    "rol": "Requiere las aeronaves para misiones sanitarias, de evacuación y humanitarias.",
+    "hoy": "SINAGIR (Ley 27.287): Consejo Nacional presidido por el Ministerio de Seguridad Nacional; Secretaría Ejecutiva a cargo de la Agencia Federal de Emergencias",
+    "hijos": []
+   },
+   {
+    "nombre": "Centro Cultural Julio César Strassera",
+    "estado": "modificado",
+    "rol": "Cambia de nombre por ley.",
+    "hoy": "Palacio Libertad, Centro Cultural Domingo Faustino Sarmiento (DNU 897/2024)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos",
+    "estado": "existente",
+    "rol": "Solo puede retirar un monumento por urgencia de seguridad o conservación, con obligación de restituirlo.",
+    "hoy": "",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Municipios",
+   "rol": "Normas urbanas para el parque público y los usos de salud."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Recibe denuncias, fija reintegros y multas y publica el informe anual."
+  },
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Aprueba por ley todo nombre o cambio de nombre de bienes del Estado nacional y el retiro de monumentos."
+  },
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Emite billetes y monedas sin figuras, solo con su valor y elementos de seguridad abstractos."
+  },
+  {
+   "nombre": "Legislaturas provinciales y concejos deliberantes",
+   "rol": "Aprueban los nombres y cambios de nombre a propuesta del ejecutivo de cada nivel."
+  }
+ ]
+}

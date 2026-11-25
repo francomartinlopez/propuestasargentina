@@ -1,0 +1,94 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Economía y Hacienda",
+    "estado": "modificado",
+    "rol": "Administra el Fondo, aprueba la política de inversión, dispone retiros por resolución fundada y publica informes trimestrales.",
+    "hoy": "Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Administra el Fondo, aprueba su política de inversión, dispone los retiros y publica informes trimestrales.",
+    "hoy": "Ministerio de Economía (Secretarías de Hacienda y de Finanzas)",
+    "hijos": [
+     {
+      "nombre": "Fondo anticíclico",
+      "estado": "suprimido",
+      "rol": "Se deroga; su saldo pasa al nuevo Fondo dentro de 30 días. su saldo pasa al Fondo de Estabilización Fiscal.",
+      "hoy": "Fondo Anticíclico Fiscal (Ley 25.152, art. 9)",
+      "hijos": []
+     },
+     {
+      "nombre": "Oficina de crédito público",
+      "estado": "modificado",
+      "rol": "Publica condiciones, destino y aplicación de cada operación de deuda y el cálculo de mejora de cada reestructuración.",
+      "hoy": "Oficina Nacional de Crédito Público (Secretaría de Finanzas, Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Finanzas",
+      "estado": "modificado",
+      "rol": "Administra el Fondo: calcula la tendencia y los depósitos, aprueba la política de inversión, dispone los retiros y publica los informes. Publica cada operación y su destino, el cálculo de la mejora y la estrategia de sostenibilidad de la deuda.",
+      "hoy": "Ministerio de Economía – Secretaría de Finanzas",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Hacienda",
+      "estado": "modificado",
+      "rol": "Publica el resultado primario mensual y estima el efecto de los cambios normativos para la condición de retiro.",
+      "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio provincial de hacienda",
+    "estado": "modificado",
+    "rol": "Administra el Fondo, calcula la tendencia y los depósitos, dispone los retiros y publica los informes.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Federal de Responsabilidad Fiscal",
+    "estado": "existente",
+    "rol": "Recibe los informes trimestrales.",
+    "hoy": "Consejo Federal de Responsabilidad Fiscal (Ley 25.917, art. 27)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Agente financiero (art. 4 inc. c de la Carta Orgánica): cuentas separadas y ejecución de la política de inversión."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Auditoría anual del Fondo, remitida al Congreso y publicada."
+  },
+  {
+   "nombre": "Oficina de Presupuesto del Congreso (OPC)",
+   "rol": "Informe trimestral de cumplimiento de la regla de resultado y de deuda y del movimiento del Fondo."
+  },
+  {
+   "nombre": "Fondo de estabilización",
+   "rol": "Ahorra ingresos extraordinarios ligados a precios de exportación, hasta el 3 % del PIB."
+  },
+  {
+   "nombre": "Banco provincial o agente financiero",
+   "rol": "Custodia los activos en cuentas separadas y ejecuta la política de inversión."
+  },
+  {
+   "nombre": "Órgano de control externo provincial",
+   "rol": "Auditoría anual."
+  }
+ ]
+}

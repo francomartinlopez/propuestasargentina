@@ -1,0 +1,145 @@
+{
+ "id": "N203",
+ "tipo": "decreto",
+ "titulo": "Reglamentación de la Ley de Inteligencia Nacional N° 25.520 reformada",
+ "sumilla": "Reglamenta, en lo que corresponde al Poder Ejecutivo, la reforma de la Ley 25.520: el registro inalterable de operaciones y su acceso por la Comisión Bicameral y el Auditor General, la declaración excepcional de actividades encubiertas, la rendición reservada y documentada de los gastos reservados con reintegro de lo no usado, las excepciones regladas para urgencias, la entrega de los acuerdos con servicios extranjeros y el fin de los medios propios de interceptación; deroga el Decreto 950/2002.",
+ "cuando": "Fase I (dentro de los 90 días de la promulgación de la ley «Ley de reforma de la Ley de Inteligencia Nacional N° 25.520: misión acotada, control judicial y parlamentario y servicios extranjeros»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (decreto reglamentario, art. 99, inc. 2, de la Constitución Nacional)",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley de Inteligencia Nacional N° 25.520 y sus modificatorias, la Ley N° [—] que la reforma, la Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional N° 24.156 y sus modificatorias, los Decretos N° 950/02, N° 614/24 y N° 941/25, y",
+ "considerando": [
+  "Que la Ley N° [—] reformó la Ley N° 25.520 de Inteligencia Nacional para acotar la misión del Sistema de Inteligencia Nacional a las amenazas externas, el terrorismo y el crimen organizado complejo, someter toda intervención sobre personas a orden judicial, asegurar el control pleno del Honorable Congreso de la Nación y limitar los gastos reservados.",
+  "Que el artículo 32 bis de la Ley N° 25.520 ordena a cada organismo del Sistema llevar un registro inalterable de todas sus operaciones, al que tienen acceso pleno la Comisión Bicameral de Fiscalización de los Organismos y Actividades de Inteligencia y el Auditor General de Inteligencia.",
+  "Que el artículo 38 ter de esa ley dispone que la rendición de los gastos reservados sea secreta pero obligatoria y documentada ante la Comisión Bicameral, y que los fondos no utilizados se reintegren al Tesoro nacional al cierre de cada ejercicio.",
+  "Que los artículos 2° bis y 4° ter de la ley admiten, como excepciones regladas, la declaración fundada y temporaria del carácter encubierto de una actividad determinada y la cooperación sin orden judicial previa ante un riesgo inminente para la vida por actos de terrorismo, con comunicación inmediata al juez y a la Comisión Bicameral.",
+  "Que el Decreto N° 950/02, reglamentario de la Ley N° 25.520, y las reglamentaciones dictadas en virtud del Decreto N° 941/25 deben ser reemplazados por una reglamentación ajustada a la ley reformada.",
+  "Que la reglamentación comprende solo las obligaciones de los organismos del Poder Ejecutivo nacional y no alcanza a la organización ni al funcionamiento de la Comisión Bicameral ni del Auditor General de Inteligencia, que corresponden al Honorable Congreso de la Nación.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional y por el artículo 22 de la Ley N° [—]."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Registro de operaciones",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Contenido del registro",
+     "texto": "El registro previsto en el artículo 32 bis de la Ley de Inteligencia Nacional N° 25.520, en el texto establecido por la Ley N° [—], se llevará en un sistema electrónico único por organismo y consignará para cada operación, con numeración correlativa: su objeto y su encuadre en la misión del artículo 2° bis; el fundamento legal; la orden judicial, con indicación del juzgado y la fecha, cuando corresponda; la resolución que haya declarado su carácter encubierto, en su caso; las fechas de inicio y finalización; el funcionario responsable; el personal y los recursos asignados, incluidos los gastos reservados imputados; y el resultado."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Inalterabilidad y conservación",
+     "texto": "Cada asiento del registro contará con sello de tiempo y no podrá ser borrado ni modificado; las rectificaciones se asentarán como nuevos asientos con su fundamento. El sistema registrará la identidad de cada persona que consulte o asiente información. El registro se conservará en forma permanente. La Inspectoría General de Inteligencia verificará cada semestre su integridad e informará el resultado al titular del organismo y a la Comisión Bicameral de Fiscalización de los Organismos y Actividades de Inteligencia."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Acceso pleno",
+     "texto": "Los organismos del Sistema de Inteligencia Nacional otorgarán a la Comisión Bicameral y al Auditor General de Inteligencia acceso directo de consulta al registro y pondrán a su disposición, dentro de los cinco (5) días hábiles de requeridos, las operaciones, los gastos, la documentación y las instalaciones, conforme a los artículos 32 bis y 41 ter de la ley. Ningún funcionario podrá oponerles secreto alguno. La Inspectoría General de Inteligencia prestará al Auditor General la colaboración que requiera."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Excepciones regladas",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Actividad encubierta",
+     "texto": "La resolución que declare el carácter encubierto de una actividad determinada, conforme al artículo 2° bis de la ley, será dictada por el titular del organismo, indicará la actividad, su fundamento, su plazo, que no excederá de noventa (90) días, y el funcionario responsable, se inscribirá en el registro de operaciones en el mismo acto y se comunicará a la Comisión Bicameral dentro de las cuarenta y ocho (48) horas. Su renovación requerirá una nueva resolución fundada con los mismos requisitos. Vencido el plazo sin renovación, la actividad cesará de pleno derecho."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cooperación urgente ante riesgo inminente",
+     "texto": "La cooperación con un servicio extranjero sin orden judicial previa, en el supuesto de riesgo inminente para la vida de personas por actos de terrorismo previsto en el artículo 4° ter de la ley, solo podrá disponerla el titular del organismo por resolución fundada, que se inscribirá en el registro de operaciones, se comunicará al juez competente dentro de las veinticuatro (24) horas, con copia de todo lo actuado, y a la Comisión Bicameral dentro de las cuarenta y ocho (48) horas. Si el juez revoca lo actuado, la cooperación cesará de inmediato y la información obtenida no podrá utilizarse ni conservarse."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Flagrancia",
+     "texto": "Cuando el personal de inteligencia tome conocimiento de un delito en flagrancia, dará aviso inmediato a las fuerzas policiales o de seguridad y a la autoridad judicial competente, conforme al artículo 4° de la ley, y asentará el aviso en el registro de operaciones. En ningún caso aprehenderá ni detendrá personas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Gastos reservados",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Formulación presupuestaria",
+     "texto": "La Secretaría de Hacienda del Ministerio de Economía verificará, al formular el proyecto de ley de presupuesto, que los gastos reservados de los organismos del Sistema de Inteligencia Nacional no superen el diez por ciento (10 %) de los créditos de la función Inteligencia, conforme al artículo 38 ter de la ley. Ninguna jurisdicción tramitará modificaciones presupuestarias que incrementen esos créditos."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Rendición reservada",
+     "texto": "Los titulares de los organismos que administren gastos reservados rendirán cuenta de ellos ante la Comisión Bicameral cada tres (3) meses, dentro de los treinta (30) días del cierre de cada trimestre, con la documentación respaldatoria de cada gasto y su vinculación con las operaciones del registro. La rendición será secreta. La falta de rendición en término impedirá nuevas transferencias de fondos reservados al organismo hasta que se regularice."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Reintegro al Tesoro",
+     "texto": "Los fondos reservados no utilizados al cierre de cada ejercicio se reintegrarán a la Tesorería General de la Nación dentro de los quince (15) días hábiles siguientes. La Tesorería informará el monto reintegrado por organismo a la Comisión Bicameral."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Interceptaciones y servicios extranjeros",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Fin de los medios propios de interceptación",
+     "texto": "Dentro de los sesenta (60) días de la entrada en vigencia del presente, cada organismo del Sistema de Inteligencia Nacional inventariará los equipos, programas y contratos que permitan interceptar o captar comunicaciones o ingresar en dispositivos o sistemas informáticos, cesará en su uso y los pondrá a disposición de la autoridad judicial competente, conforme al artículo 20 bis de la ley, mediante acta que se comunicará a la Comisión Bicameral y al Auditor General de Inteligencia."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Acuerdos con servicios extranjeros",
+     "texto": "Todo organismo del Estado nacional que celebre un acuerdo, memorando, protocolo o compromiso de cooperación o de intercambio de información con un servicio de inteligencia o de seguridad extranjero lo entregará completo, con sus anexos, a la Comisión Bicameral dentro de los diez (10) días de su firma, conforme al artículo 33 bis de la ley, y no lo ejecutará hasta su inscripción. Los acuerdos vigentes se entregarán en el plazo del artículo 19 de la Ley N° [—]. El Ministerio de Relaciones Exteriores, Comercio Internacional y Culto y el titular de cada organismo de inteligencia llevarán una nómina reservada de los acuerdos entregados."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Informe semestral sobre actividad extranjera",
+     "texto": "Los informes previstos en el artículo 33 ter de la ley se presentarán dentro de los treinta (30) días del cierre de cada semestre calendario e indicarán, como mínimo, las operaciones de servicios extranjeros detectadas, las campañas de influencia sobre la opinión pública o los procesos electorales, los casos de uso de software espía, las denuncias judiciales efectuadas y las medidas adoptadas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV bis – Colaboradores",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Registro Reservado de Colaboradores",
+     "texto": "El Registro Reservado de Colaboradores del artículo 33 quater de la ley se llevará en soporte digital inalterable, con un legajo por colaborador que consigne su identidad, la tarea asignada, el funcionario que la encomendó, su duración y cada pago con su comprobante. La inscripción es previa a toda tarea o pago. Los organismos darán acceso pleno y en línea a la Comisión Bicameral y al Auditor General de Inteligencia, y publicarán cada año, antes del 31 de marzo, la cantidad de colaboradores y el monto total pagado en el ejercicio anterior."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Derogaciones",
+     "texto": "Derógase el Decreto N° 950/02. Déjanse sin efecto las normas reglamentarias dictadas en virtud del Decreto N° 941/25 en cuanto se opongan a la ley reformada o al presente."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Financiamiento",
+     "texto": "La aplicación del presente se atenderá con los créditos asignados a los organismos del Sistema de Inteligencia Nacional en la ley de presupuesto y no autoriza gastos adicionales."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 17,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [
+  "Decreto 950/2002 (reglamentario de la Ley 25.520)",
+  "Normas reglamentarias dictadas en virtud del DNU 941/2025, en cuanto se opongan"
+ ],
+ "variantes": null
+}

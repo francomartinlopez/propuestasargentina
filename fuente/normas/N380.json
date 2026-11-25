@@ -1,0 +1,90 @@
+{
+ "id": "N380",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de necesidad de reforma constitucional con las cláusulas modelo de una sola reelección, renuncia previa, incompatibilidad familiar y límite de edad",
+ "sumilla": "Declara la necesidad de reformar la constitución provincial para incorporar cláusulas modelo: una sola reelección en la vida para el mismo cargo, renuncia previa para ser candidato a otro cargo, cómputo de todos los mandatos sin cláusulas que reinicien la cuenta, incompatibilidad de familiares directos para suceder en el mismo cargo ejecutivo y límite de 70 años para candidatos, magistrados, funcionarios y empleados.",
+ "cuando": "Fase III (año 4): cuando cada provincia habilite su reforma constitucional, en el marco del Acuerdo «Acuerdo Federal de Reglas Electorales Limpias» (meta: antes del 10/12/2031).",
+ "cuando_breve": "Fase III",
+ "tramite": "Ley provincial de declaración de necesidad de la reforma, con la mayoría especial que exija cada constitución provincial; luego, convención constituyente (o el procedimiento de enmienda que prevea la constitución).",
+ "motivos": "La alternancia es condición del sistema republicano que la Constitución Nacional manda garantizar a las provincias, y la Corte Suprema de Justicia de la Nación la ha resguardado frente a habilitaciones de reelecciones indefinidas. En el marco del Acuerdo Federal de Reglas Electorales Limpias, este proyecto declara la necesidad de reformar la Constitución provincial para incorporar reglas que cortan la política como carrera sin fin. Nadie puede ser elegido para el mismo cargo más de dos veces en su vida, en forma consecutiva o alternada, y la cuenta no se reinicia con reformas ni con cláusulas transitorias. Quien ocupa un cargo electivo y quiere ser candidato a otro distinto debe renunciar antes de inscribirse, para que las candidaturas sean en serio. El cónyuge, el conviviente y los parientes directos de quien ejerce un cargo ejecutivo no pueden sucederlo en el período siguiente. Y así como la Constitución fija edades mínimas, se fija una edad máxima de setenta años para ejercer funciones públicas, sin acortar los mandatos ni las designaciones en curso y con la jubilación asegurada para los empleados. La reforma se limita a estos puntos.",
+ "visto": null,
+ "considerando": null,
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Declaración de necesidad de la reforma",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Declaración",
+     "texto": "Declárase necesaria la reforma parcial de la Constitución de la Provincia de [Provincia], al solo efecto de incorporar las cláusulas del Capítulo II de la presente ley y de adecuar a ellas los artículos [—] referidos a la reelección y a los requisitos de los cargos electivos, judiciales y administrativos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Convención",
+     "texto": "La Convención Constituyente se integra, se elige y funciona conforme a la Constitución provincial. Los convencionales se eligen en la primera elección provincial que se celebre después de la promulgación de la presente ley."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Límite",
+     "texto": "La Convención no puede tratar otros puntos que los habilitados por esta ley, ni introducir cláusulas transitorias que permitan a quienes ejercen o ejercieron un cargo ser elegidos nuevamente en contra de lo dispuesto en el artículo 4°."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Cláusulas modelo",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Cláusula modelo 1 – Una sola reelección en la vida",
+     "texto": "«Artículo [—].- Quien haya sido elegido para un cargo electivo provincial o municipal puede ser reelegido para ese mismo cargo una sola vez, en forma consecutiva o alternada. Cumplidos dos mandatos en el mismo cargo, no puede volver a ser elegido para él. El ejercicio del cargo por sucesión, por más de la mitad de un mandato, se computa como un mandato.»"
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cláusula modelo 2 – Renuncia previa y candidatura única",
+     "texto": "«Artículo [—].- Quien ejerza un cargo electivo provincial o municipal y pretenda ser precandidato o candidato a un cargo electivo distinto, nacional, provincial o municipal, debe renunciar a su cargo antes de la inscripción de su precandidatura o candidatura. No se exige la renuncia para postularse a la única reelección en el mismo cargo. Nadie puede ser candidato a más de un cargo electivo en la misma elección.»"
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cláusula modelo 3 – Incompatibilidad familiar",
+     "texto": "«Artículo [—].- No pueden ser candidatos a Gobernador, Vicegobernador o Intendente, en la elección inmediata siguiente, el cónyuge, el conviviente ni los parientes hasta el segundo grado de consanguinidad o primero de afinidad de quien ejerza ese mismo cargo o lo haya ejercido durante el mandato que concluye.»"
+    },
+    {
+     "n": 7,
+     "epigrafe": "Cláusula modelo 4 – Límite de edad",
+     "texto": "«Artículo [—].- Nadie ejerce funciones en el Estado provincial ni en los municipios después de cumplir setenta (70) años. En consecuencia: a) no puede ser candidato a un cargo electivo quien cumpla setenta (70) años antes de la finalización del mandato al que se postula; b) los magistrados del Poder Judicial y los integrantes del Ministerio Público cesan al cumplir setenta (70) años; y c) los funcionarios designados y los empleados públicos, de planta o contratados, cesan al cumplir setenta (70) años, con el beneficio jubilatorio que corresponda asegurado por la ley.»"
+    },
+    {
+     "n": 8,
+     "epigrafe": "Cláusula modelo 5 – Cómputo sin reinicio",
+     "texto": "«Artículo [—].- Para la aplicación del artículo [cláusula modelo 1] se computan todos los mandatos ejercidos antes de su entrada en vigencia. Ninguna reforma ni cláusula transitoria puede disponer que el cómputo se reinicie.»"
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cláusula modelo 6 – Transitoria",
+     "texto": "«Disposición transitoria.- Las reglas de los artículos [cláusulas modelo 2 a 4] se aplican a las candidaturas, designaciones y acuerdos posteriores a la entrada en vigencia de esta reforma, sin acortar los mandatos ni las designaciones en curso.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la elección y el funcionamiento de la Convención Constituyente se atienden con los créditos del presupuesto provincial que se asignen a ese fin."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Constitución de la Provincia de [Provincia], arts. [—] (por convención constituyente)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,59 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Trabajo y Empleo",
+    "estado": "modificado",
+    "rol": "Certifica los escalones, fija el aporte de los monotributistas y el monto de las cuentas de formación, y conduce el Portal Empleo y la red de oficinas. Certifica escalones, fija aporte y montos de monotributistas y de las cuentas, acredita instituciones y certifica la operatividad plena. Organiza la acreditación de saberes, paga por resultados y publica la inserción por institución y curso.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social (ANSES)",
+    "estado": "modificado",
+    "rol": "Liquida y paga la prestación e interviene en la certificación de cada escalón. Estima costos, hace el estudio actuarial, abre las cuentas de formación y paga.",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo Nacional del Empleo, la Productividad y el Salario Mínimo, Vital y Móvil",
+    "estado": "modificado",
+    "rol": "Deja de fijar el mínimo, el máximo y el porcentaje de la prestación; recibe el informe y recomienda.",
+    "hoy": "Consejo Nacional del Empleo, la Productividad y el SMVM (Ley 24.013, art. 135)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+    "estado": "modificado",
+    "rol": "Recauda el aporte específico de los monotributistas.",
+    "hoy": "ARCA, ente autárquico en el ámbito del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Educación Tecnológica",
+    "estado": "modificado",
+    "rol": "Inscribe a las entidades evaluadoras y registra la acreditación de las instituciones, junto con la Secretaría de Trabajo y Empleo.",
+    "hoy": "INET (Secretaría de Educación, Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo federal de ministros de educación",
+    "estado": "existente",
+    "rol": "Acuerdos de reconocimiento recíproco de certificados y acreditaciones.",
+    "hoy": "Consejo Federal de Educación (Ley 26.206, art. 116)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Municipios",
+   "rol": "Intermediación y seguimiento de la búsqueda activa."
+  }
+ ]
+}

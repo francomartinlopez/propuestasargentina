@@ -1,0 +1,138 @@
+{
+ "id": "N418",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Simplificación Normativa y Calidad Regulatoria",
+ "sumilla": "Ordena un inventario único de las normas generales del Poder Ejecutivo y la derogación expresa de las que quedaron en desuso, eleva a ley el análisis de costos y beneficios con consulta pública antes de dictar regulaciones que impongan cargas, fija una regla de compensación (cada carga nueva elimina otra equivalente), pone vencimiento a los diez años a las regulaciones que no se revisan y obliga a publicar cada trámite con sus requisitos, plazo y costo.",
+ "cuando": "Fase I · año 1 (envío en los Días 61-100; inventario completo en 24 meses)",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "Las personas y las empresas cargan con un volumen de normas que nadie puede conocer entero: decretos, resoluciones y disposiciones que se suman año tras año, muchas en desuso, duplicadas o contradictorias. El Decreto N° 891/2017 aprobó buenas prácticas en materia de simplificación, entre ellas evaluar el impacto de las nuevas regulaciones, y el Decreto N° 27/2018 avanzó en la desburocratización, pero esas reglas dependen de la voluntad de cada gobierno. El presente proyecto las vuelve permanentes por ley. Ordena un inventario único de las normas generales del Poder Ejecutivo, sobre la base del Digesto Jurídico Argentino de la Ley N° 26.939, y la derogación expresa de las que ya no se aplican. Exige que toda regulación que imponga cargas se dicte con un análisis de costos y beneficios publicado y con consulta pública, conforme el procedimiento de elaboración participativa de normas. Fija una regla de compensación para que el peso total de las cargas no crezca, y un vencimiento a los diez años para las regulaciones que nadie revisa. Por último, dispone que ningún organismo pueda exigir un requisito que no esté publicado en el catálogo único de trámites, ni pedir información que el Estado ya tiene.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y alcance",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto simplificar y ordenar las normas y los trámites del Estado nacional, mejorar la calidad de las regulaciones y reducir las cargas administrativas que pesan sobre las personas y las empresas."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Alcance",
+     "texto": "La presente ley se aplica a las normas de alcance general y a los trámites de la Administración Pública Nacional centralizada y descentralizada, comprendida en el inciso a) del artículo 8° de la Ley N° 24.156. Se invita al Poder Legislativo, al Poder Judicial y al Ministerio Público a adoptar reglas equivalentes."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por: a) carga administrativa: todo requisito, trámite, autorización, registro, información o pago que una norma impone a personas o empresas para ejercer una actividad o un derecho; b) regulación: toda norma de alcance general que crea, modifica o amplía cargas administrativas; y c) costo de cumplimiento: el tiempo y el dinero que insume cumplir una carga, estimado según la metodología que apruebe la autoridad de aplicación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Inventario y depuración de normas",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Inventario único",
+     "texto": "Dentro de los veinticuatro (24) meses de la vigencia de la presente ley, la autoridad de aplicación relevará todas las normas de alcance general dictadas por el Poder Ejecutivo nacional y por los organismos comprendidos en el artículo 2° que se encuentren vigentes, y publicará un inventario único en formato abierto, que indicará para cada una su objeto, el organismo responsable y si se encuentra en uso. El inventario se coordinará con el Digesto Jurídico Argentino de la Ley N° 26.939."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Derogación expresa",
+     "texto": "Las normas que el inventario identifique como caídas en desuso, cumplidas en su objeto, duplicadas o contradictorias serán derogadas expresamente por el organismo que las dictó, o por el Poder Ejecutivo nacional, dentro de los seis (6) meses de su identificación. Cuando se trate de normas con rango de ley, el Poder Ejecutivo nacional remitirá al Congreso de la Nación un proyecto de ley de derogación."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Textos ordenados",
+     "texto": "Cada ministerio publicará, dentro de los treinta y seis (36) meses de la vigencia de la presente ley, un texto ordenado de las normas vigentes en su materia, de modo que cualquier persona pueda conocer en un solo documento las reglas que debe cumplir."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Calidad de las nuevas regulaciones",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Análisis de costos y beneficios",
+     "texto": "Toda regulación que imponga cargas administrativas con un costo de cumplimiento superior al umbral que fije la reglamentación se dictará con un análisis previo de costos y beneficios, que identifique el problema que busca resolver, las alternativas consideradas, los costos de cumplimiento estimados y los beneficios esperados. El análisis se publicará junto con el proyecto de norma."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Consulta pública",
+     "texto": "Los proyectos de regulación comprendidos en el artículo anterior se someterán a consulta pública durante un plazo no menor de treinta (30) días corridos, conforme el procedimiento de elaboración participativa de normas vigente. El organismo responderá en forma fundada las observaciones recibidas al dictar la norma."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Regla de compensación",
+     "texto": "El organismo que dicte una regulación que aumente cargas administrativas deberá derogar o simplificar, en el mismo acto o dentro de los noventa (90) días, otras cargas a su cargo por un costo de cumplimiento igual o mayor. La autoridad de aplicación llevará la cuenta de las cargas creadas y eliminadas por cada organismo y la publicará cada año."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Revisión y vencimiento",
+     "texto": "Las regulaciones que se dicten a partir de la vigencia de la presente ley tendrán una cláusula de revisión a los diez (10) años. Antes de ese plazo, el organismo responsable evaluará sus resultados y publicará si la mantiene, la modifica o la deroga. La regulación que no sea evaluada y ratificada dentro de ese plazo caducará de pleno derecho."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Excepciones",
+     "texto": "Los artículos 7° a 10 no se aplican a las normas dictadas por razones de emergencia sanitaria, de seguridad o de catástrofe, que deberán ser evaluadas dentro del año de su dictado, ni a las normas de naturaleza tributaria o presupuestaria."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Trámites",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Catálogo único de trámites",
+     "texto": "Cada organismo publicará en un catálogo único digital todos sus trámites, con sus requisitos, el plazo máximo para resolver y su costo. Ningún organismo podrá exigir un requisito que no figure en el catálogo."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Información que el Estado ya tiene",
+     "texto": "Ningún organismo podrá exigir a las personas documentos o datos que obren en poder de otro organismo del Sector Público Nacional; los obtendrá por intercambio electrónico, con los resguardos de la Ley N° 25.326."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Silencio positivo",
+     "texto": "La autoridad de aplicación revisará cada año el listado de autorizaciones a las que se aplica el silencio con sentido positivo del inciso b) del artículo 10 de la Ley N° 19.549, y publicará las razones de cada exclusión."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación de la presente ley es la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Informe anual",
+     "texto": "La autoridad de aplicación presentará cada año al Congreso de la Nación un informe público con el avance del inventario, las normas derogadas, las cargas creadas y eliminadas, los análisis de costos y beneficios realizados y el cumplimiento de los plazos de los trámites."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Financiamiento",
+     "texto": "La aplicación de la presente ley se atiende con los créditos asignados a la autoridad de aplicación, sin gasto adicional."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

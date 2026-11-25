@@ -1,0 +1,109 @@
+{
+ "id": "N295",
+ "tipo": "resolucion",
+ "titulo": "Resolución del PAMI: pago a médicos de cabecera por afiliado y resultados, y pago a prestadores en 30 días",
+ "sumilla": "Reemplaza la cápita fija de los médicos de cabecera por una cápita más un pago trimestral por resultados (crónicos controlados, vacunas y visitas a domicilio) y obliga a pagar a todos los prestadores dentro de los 30 días de aprobada la factura, con cada pago publicado.",
+ "cuando": "Fase I · desde el primer mes (pagos a 30 días); nuevo régimen de cabecera desde el segundo mes",
+ "cuando_breve": "Fase I · desde el primer mes",
+ "tramite": "No aplica: resolución de la conducción del INSSJP (hasta la constitución del Directorio de «Decreto de normalización del PAMI: fin de la conducción transitoria y constitución del Directorio Ejecutivo Nacional»; luego, del Directorio Ejecutivo Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° 19.032 y sus modificatorias, la Resolución INSSJP N° 883/2017 (Nomenclador Común), la Resolución INSSJP N° 1107/2026, el Decreto N° [●] de normalización del Instituto, y",
+ "considerando": [
+  "Que el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados brinda atención médica a más de cinco millones y medio de personas afiliadas, organizada a partir del médico de cabecera.",
+  "Que la Resolución INSSJP N° 1107/2026 estableció para los médicos de cabecera una retribución fija por afiliado, sin componentes vinculados con el control de las enfermedades crónicas, la vacunación o la atención domiciliaria.",
+  "Que pagar una parte de la retribución según resultados verificables orienta la atención primaria hacia lo que más mejora la salud de las personas mayores: presión arterial y diabetes controladas, vacunas al día y visitas a quienes no pueden trasladarse.",
+  "Que las demoras en el pago a clínicas, farmacias y profesionales afectan la continuidad de las prestaciones, y que un plazo fijo y publicado de pago da previsibilidad a los prestadores y permite el control público.",
+  "Que el servicio jurídico permanente ha tomado la intervención que le compete.",
+  "Que la presente se dicta en uso de las facultades conferidas por la Ley N° 19.032 y sus modificatorias."
+ ],
+ "formula": "Por ello, EL TITULAR DE LA CONDUCCIÓN EJECUTIVA DEL INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Retribución de los médicos de cabecera",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Establécese el régimen de retribución de los médicos de cabecera del Instituto, que se compone de: a) una cápita mensual por cada persona afiliada a cargo; y b) un pago trimestral por resultados."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cápita",
+     "texto": "El valor de la cápita no puede ser inferior al vigente a la fecha de la presente según la Resolución INSSJP N° 1107/2026, y se actualiza en la misma oportunidad y porcentaje que los valores del Nomenclador Común aprobado por la Resolución INSSJP N° 883/2017."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Indicadores de resultados",
+     "texto": "El pago por resultados se calcula sobre los siguientes indicadores, cada uno con un peso del veinticinco por ciento (25 %): a) proporción de personas afiliadas a cargo con diagnóstico de hipertensión arterial con control de presión registrado en el trimestre; b) proporción de personas afiliadas a cargo con diagnóstico de diabetes con control metabólico registrado en el semestre; c) proporción de personas afiliadas a cargo con las vacunas antigripal y antineumocócica indicadas para su edad aplicadas y registradas; y d) proporción de personas afiliadas a cargo con dependencia o movilidad reducida que recibieron al menos una visita domiciliaria en el trimestre."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Metas",
+     "texto": "El área prestacional del Instituto publica antes del inicio de cada año las metas de cada indicador. Durante el primer año, las metas se fijan sobre la línea de base que surja del primer trimestre de registro."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Monto del pago por resultados",
+     "texto": "El pago por resultados de cada trimestre es de hasta el treinta por ciento (30 %) de las cápitas del trimestre, y se liquida en proporción al cumplimiento de la meta de cada indicador, dentro de los treinta (30) días del cierre del trimestre."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Registro y control",
+     "texto": "Los indicadores se calculan con los datos que el médico de cabecera registra en el sistema informático del Instituto. El Instituto audita los registros por muestreo; los datos falsos dan lugar al recupero de lo pagado y a las sanciones previstas en el contrato prestacional."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Pago a prestadores en plazo",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Plazo de pago",
+     "texto": "El Instituto paga a todos sus prestadores dentro de los treinta (30) días corridos de aprobada la factura."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Aprobación de las facturas",
+     "texto": "La auditoría de cada factura se completa dentro de los quince (15) días corridos de su presentación. Si la factura tiene observaciones parciales, se aprueba y se paga en plazo la parte no observada."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Publicación de los pagos",
+     "texto": "El Instituto publica en su sitio oficial, en formato abierto y con actualización semanal, cada pago a prestadores con la identificación del prestador, el concepto, el período, el monto y las fechas de presentación, aprobación y pago de la factura, sin datos de las personas afiliadas. Publica además, cada mes, el plazo promedio y máximo de pago."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Programación financiera",
+     "texto": "El presupuesto anual del Instituto y su programación financiera mensual aseguran los fondos necesarios para cumplir el plazo del artículo 7°."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Vigencia",
+     "texto": "El plazo de pago del artículo 7° se aplica a las facturas presentadas desde el primer día del mes siguiente al de la publicación de la presente. El régimen de retribución de los médicos de cabecera rige desde el primer día del segundo mes siguiente."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Normas que se oponen",
+     "texto": "Déjase sin efecto la Resolución INSSJP N° 1107/2026 en cuanto se oponga a la presente, e incorpórase el componente por resultados al Nomenclador Común aprobado por la Resolución INSSJP N° 883/2017."
+    },
+    {
+     "n": 13,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Resolución INSSJP 883/2017 (Nomenclador Común): se incorpora el componente por resultados"
+ ],
+ "deroga": [
+  "Resolución INSSJP 1107/2026, en lo que se oponga (cápita fija como única retribución)"
+ ],
+ "variantes": null
+}

@@ -1,0 +1,90 @@
+{
+ "id": "N056",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de liquidación propuesta del impuesto para las personas humanas (reforma del artículo 11 de la Ley 11.683)",
+ "sumilla": "Hace de la liquidación propuesta por ARCA la regla para las personas humanas en Ganancias: el contribuyente la acepta, la corrige o la impugna en línea, con carga de la prueba de los ajustes en el fisco. Fija finalidad exclusivamente tributaria, registro de accesos y metas del 50 % al año 2 y del 80 % al año 4.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Mayoría simple; cámara de origen indistinta (procedimiento tributario; no crea tributos). Si se envía junto con el paquete tributario, Cámara de Diputados.",
+ "motivos": "Quien cumple con sus obligaciones fiscales carga, además del impuesto, con el costo de cumplir: formularios, vencimientos y asesoramiento para declarar datos que el Estado ya recibe de empleadores, bancos y registros. La Ley N° 27.799 y su modificatoria, la Ley N° 27.826, crearon un régimen simplificado de declaración del impuesto a las ganancias para personas humanas, sin topes de ingresos ni de patrimonio, cuya declaración se presume exacta. Este proyecto da el paso siguiente. Reforma el artículo 11 de la Ley N° 11.683, que hace de la declaración jurada la regla, para que en las personas humanas la regla sea la liquidación que propone la Agencia de Recaudación y Control Aduanero (ARCA). El contribuyente la recibe con el detalle de cada dato y su fuente, y puede aceptarla, corregirla o impugnarla por medio digital y sin abogado. La liquidación aceptada o corregida se presume exacta, y todo ajuste posterior exige determinación de oficio con la carga de la prueba en el fisco. Quien lo prefiera puede seguir presentando su declaración. La contracara es la privacidad: los datos tienen finalidad exclusivamente tributaria, quedan bajo secreto fiscal, su uso para otro fin requiere orden judicial y cada acceso queda registrado y es conocible por el contribuyente. La aplicación es gradual, con metas públicas de alcance y un informe anual al Congreso.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Liquidación propuesta como regla para las personas humanas",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Reforma del artículo 11 de la Ley N° 11.683",
+     "texto": "Incorpóranse como párrafos finales del artículo 11 de la Ley N° 11.683 (t.o. 1998) y sus modificaciones los siguientes: «Sin perjuicio de lo dispuesto en los párrafos anteriores, para las personas humanas la determinación del impuesto a las ganancias se efectuará, como regla, mediante la liquidación que proponga la Agencia de Recaudación y Control Aduanero (ARCA) sobre la base de la información que reciba de los empleadores, las entidades financieras, los demás agentes de información y los registros públicos, y de la que haya aportado el propio contribuyente. La Agencia podrá extender, por resolución general, la liquidación propuesta a otros gravámenes a cargo de personas humanas y de pequeños contribuyentes. La liquidación propuesta se notificará en el domicilio fiscal electrónico, con el detalle de cada dato utilizado y de su fuente. Dentro de los treinta (30) días corridos de notificada, el contribuyente podrá aceptarla, o corregirla o impugnarla en forma total o parcial por medio digital, sin necesidad de patrocinio letrado. Vencido ese plazo sin respuesta, la liquidación se tendrá por aceptada. La liquidación aceptada, o la corregida por el contribuyente, tendrá los efectos de la declaración jurada y gozará de presunción de exactitud. La Agencia deberá resolver la impugnación en forma fundada dentro de los treinta (30) días corridos; si no lo hiciera, regirá la liquidación corregida por el contribuyente. Todo ajuste posterior solo podrá efectuarse mediante el procedimiento de determinación de oficio previsto en los artículos 16 y siguientes de esta ley, y la carga de la prueba de los hechos que lo sustenten corresponderá a la Agencia. El contribuyente podrá, en todos los casos, optar por presentar su declaración jurada en lugar de aceptar la liquidación propuesta, y podrá rectificar la liquidación aceptada dentro del plazo de prescripción.»"
+    },
+    {
+     "n": 2,
+     "epigrafe": "Articulación con el régimen simplificado de ganancias",
+     "texto": "La liquidación propuesta se aplicará sobre la base del régimen de declaración jurada simplificada del Capítulo III del Título II de la Ley N° 27.799 y sus modificaciones. Los contribuyentes que acepten o corrijan la liquidación propuesta gozarán de la presunción de exactitud prevista en el artículo 40 de esa ley, con los alcances de su reglamentación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Garantías de privacidad y trazabilidad",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Finalidad exclusivamente tributaria",
+     "texto": "Los datos que la Agencia de Recaudación y Control Aduanero reciba o cruce para elaborar la liquidación propuesta solo podrán utilizarse con fines tributarios y quedan sujetos al secreto fiscal del artículo 101 de la Ley N° 11.683 (t.o. 1998) y a la Ley N° 25.326 de Protección de los Datos Personales. Su uso para cualquier otro fin requerirá orden judicial."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Registro de accesos",
+     "texto": "Cada acceso a los datos de un contribuyente quedará registrado en forma inalterable, con identificación del agente, fecha, datos consultados y motivo. El contribuyente podrá conocer ese registro por medio digital, con las excepciones previstas en la Ley N° 25.326."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Responsabilidad",
+     "texto": "El acceso o uso de los datos en violación de lo dispuesto en este capítulo hará pasible al agente de las sanciones previstas en el artículo 101 de la Ley N° 11.683 (t.o. 1998) y en la Ley N° 25.326, sin perjuicio de su responsabilidad administrativa y civil."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Implementación",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Gradualidad y metas",
+     "texto": "La Agencia de Recaudación y Control Aduanero aplicará la liquidación propuesta en forma gradual, comenzando por los trabajadores en relación de dependencia y los pequeños contribuyentes inscriptos en el Régimen Simplificado, con las siguientes metas: a) al 31 de diciembre de 2029, la mitad de las personas humanas inscriptas en el impuesto a las ganancias recibirá la liquidación propuesta; b) al 31 de diciembre de 2031, el ochenta por ciento (80 %)."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Informe anual",
+     "texto": "La Agencia de Recaudación y Control Aduanero publicará cada año e informará al Congreso de la Nación la proporción de contribuyentes que recibió la liquidación propuesta, la proporción que la aceptó, la tasa de impugnación, el resultado de las impugnaciones y los accesos a datos observados por la Agencia de Acceso a la Información Pública, órgano de control de la Ley N° 25.326."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Financiamiento",
+     "texto": "Las erogaciones que demande la presente ley se atenderán con los créditos asignados a la Agencia de Recaudación y Control Aduanero en la ley de presupuesto, sin incremento de su monto total."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Normas de aplicación",
+     "texto": "La Agencia de Recaudación y Control Aduanero dictará las normas de aplicación dentro de los ciento veinte (120) días de la publicación de la presente ley."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial y se aplicará a los períodos fiscales que establezca la Agencia de Recaudación y Control Aduanero conforme al cronograma del artículo 6°, el primero de los cuales deberá cerrar dentro del año calendario de su entrada en vigencia."
+    },
+    {
+     "n": 11,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 11.683 (t.o. 1998), art. 11 (párrafos incorporados)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

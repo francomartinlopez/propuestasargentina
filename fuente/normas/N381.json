@@ -1,0 +1,77 @@
+{
+ "id": "N381",
+ "tipo": "invitacion",
+ "titulo": "Invitación a la Cámara Nacional Electoral: plataforma abierta de aportes consultable desde el celular",
+ "sumilla": "Nota del Poder Ejecutivo que invita a la Cámara Nacional Electoral a dictar una acordada para la plataforma abierta de aportes de la ley «Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista», con un texto modelo anexo que la Cámara puede adoptar, modificar o descartar.",
+ "cuando": "Fase I · año 1, después de la promulgación de «Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista»",
+ "cuando_breve": "Fase I · año 1, después de la promulgación de «Ley de Boleta Única, PASO, candidaturas y financiamiento a la vista»",
+ "tramite": "Nota del Poder Ejecutivo nacional; la acordada es facultad exclusiva de la Cámara Nacional Electoral (Poder Judicial).",
+ "motivos": "NOTA MODELO. Al señor Presidente de la Cámara Nacional Electoral: Tengo el agrado de dirigirme a usted con motivo de la sanción de la Ley N° [número], que dispone la publicación de cada aporte a partidos políticos y campañas dentro de las setenta y dos horas, en formato de datos abiertos y con una interfaz consultable desde dispositivos móviles, con la identificación del beneficiario final de los aportantes y el cruce con los contratistas del Estado. La plataforma de aportes de la Justicia Nacional Electoral prevista en el artículo 16 ter de la Ley N° 26.215 es el ámbito natural de esa publicación, y su diseño corresponde exclusivamente a ese Tribunal. Con pleno respeto de su independencia, el Poder Ejecutivo nacional acompaña, a título de colaboración, un texto modelo de acordada que podría servir de base para ese trabajo, y pone a disposición la información de la Agencia de Recaudación y Control Aduanero (ARCA) y del sistema de compras del Estado, conforme al Decreto N° [número] reglamentario de la ley. Saludo a usted con mi consideración más distinguida.",
+ "visto": null,
+ "considerando": [
+  "Que la Ley N° [número] dispuso que todo aporte a partidos, alianzas, agrupaciones, campañas y precandidaturas se publique dentro de las setenta y dos horas de su recepción en la plataforma pública de la Justicia Nacional Electoral, con su contenido mínimo, en formato de datos abiertos y con una interfaz consultable desde dispositivos móviles (artículos 14 y 15).",
+  "Que la misma ley encomendó a esta Justicia el cruce de la declaración de beneficiario final de las personas jurídicas aportantes con el registro de la Agencia de Recaudación y Control Aduanero (ARCA), la publicación de la publicidad política digital y la emisión de alertas cuando un aportante resulte contratista del Estado (artículos 16 a 18).",
+  "Que la plataforma de aportes prevista en el artículo 16 ter de la Ley N° 26.215 constituye el instrumento adecuado para cumplir esos mandatos."
+ ],
+ "formula": "ANEXO – TEXTO MODELO DE ACORDADA. En la Ciudad de Buenos Aires, a los [días] del mes de [mes] de [año], reunidos en acuerdo los señores jueces de la Cámara Nacional Electoral, CONSIDERARON: [considerandos]. Por ello, ACORDARON:",
+ "capitulos": [
+  {
+   "titulo": "Anexo – Texto modelo de acordada de la Cámara Nacional Electoral",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Plataforma abierta de aportes",
+     "texto": "Disponer que la plataforma de aportes del artículo 16 ter de la Ley N° 26.215 publique, conforme a la Ley N° [número], cada aporte informado dentro de las setenta y dos (72) horas de su recepción, con el nombre o la razón social del aportante, su clave de identificación tributaria o laboral, el monto, la fecha, el destinatario y la campaña o categoría a la que se imputa."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Formato",
+     "texto": "La información se publica en formato de datos abiertos, con descarga completa, libre y gratuita, una interfaz de programación de acceso público y una versión adaptada a dispositivos móviles que permita buscar por aportante, partido, candidatura, distrito y fecha, sin registro previo del usuario."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Carga por los partidos",
+     "texto": "Los responsables económico-financieros cargan cada aporte en la plataforma dentro de las cuarenta y ocho (48) horas de recibido, mediante un formulario electrónico que valida la clave de identificación del aportante y la bancarización del aporte."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Beneficiario final",
+     "texto": "La plataforma recibe la declaración de beneficiario final de las personas jurídicas aportantes, la cruza en forma automática con el registro de beneficiarios finales de la Agencia de Recaudación y Control Aduanero (ARCA) y publica el beneficiario final junto con el aporte, con la indicación de las discrepancias."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Publicidad política digital",
+     "texto": "Se habilita en la plataforma una sección para la publicidad política paga en plataformas digitales y redes sociales, con monto, pagador, plataforma y fecha, conforme al artículo 17 de la Ley N° [número]."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Alertas",
+     "texto": "La plataforma cruza diariamente a los aportantes y sus beneficiarios finales con el registro de proveedores, contratistas, concesionarios y permisionarios del Estado que suministre la Oficina Nacional de Contrataciones, y publica una alerta en cada coincidencia. Las alertas que indiquen un aporte prohibido se comunican al juez federal con competencia electoral del distrito y al Ministerio Público Fiscal."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Primarias e internas",
+     "texto": "Lo dispuesto en esta acordada rige también para las elecciones primarias y para las elecciones internas de los partidos."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Convenios",
+     "texto": "Encomendar a la Secretaría que corresponda la celebración de los convenios con ARCA, la Oficina Nacional de Contrataciones, la Autoridad Nacional de Control y Transparencia y la Unidad de Información Financiera (UIF) necesarios para el funcionamiento de la plataforma."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Puesta en funcionamiento",
+     "texto": "La plataforma funciona con estas características antes de la primera elección nacional alcanzada por la Ley N° [número]."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese en el Boletín Oficial y en el sitio web de esta Cámara, y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

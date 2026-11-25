@@ -1,0 +1,75 @@
+{
+ "id": "N034",
+ "tipo": "ordenanza_modelo",
+ "titulo": "Ordenanza municipal modelo de adhesión al Acuerdo Federal de Sustitución Tributaria y de cronograma de baja de la tasa de Seguridad e Higiene",
+ "sumilla": "Modelo para que cada municipio adhiera al Acuerdo Federal de Sustitución Tributaria («Acuerdo Federal de Sustitución Tributaria», cláusula séptima) e incorpore la tasa de Seguridad e Higiene, o el tributo equivalente sobre la facturación, al cronograma de baja: primero industria y servicios a empresas, cada etapa atada a la recaudación del componente mensual del suelo, sin subas ni nuevos tributos sobre la facturación.",
+ "cuando": "Fase II: adhesión desde la ratificación provincial; etapas anuales desde el 1/1/2029, sujetas a la recaudación del componente mensual del suelo.",
+ "cuando_breve": "Fase II",
+ "tramite": "No pasa por el Congreso: modelo que cada Concejo Deliberante sanciona por mayoría simple o la que exija la ley orgánica municipal para normas tributarias.",
+ "motivos": "La tasa por inspección de seguridad e higiene se calcula en la mayoría de los municipios sobre los ingresos o la facturación de cada actividad, por lo que funciona en los hechos como otro gravamen sobre las transacciones, que se acumula en cada etapa de la cadena de producción. El Acuerdo Federal de Sustitución Tributaria, ratificado por la Provincia, invita a los municipios a incorporar esa tasa al mismo cronograma de baja que el impuesto sobre los ingresos brutos. La presente ordenanza adhiere al Acuerdo y fija ese cronograma. La reducción comienza por la industria y los servicios prestados a empresas, donde el efecto de acumulación es mayor, y cada etapa se aplica solo cuando el Municipio recibe del componente mensual del impuesto al valor del suelo una recaudación que cubre su costo, de modo que las cuentas municipales no se desequilibren. Mientras tanto, la tasa no podrá aumentarse, el Municipio no creará otros tributos sobre la facturación y las reducciones aplicadas solo podrán revertirse por ordenanza. La recaudación de la tasa y la del componente que la reemplaza se publicarán cada año.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Concejo Deliberante de [Municipio] sanciona con fuerza de Ordenanza:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Adhesión",
+     "texto": "Adhiérese el Municipio de [Municipio] al Acuerdo Federal de Sustitución Tributaria, ratificado por la Ley provincial N° [—], en los términos de su cláusula séptima."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Cronograma de baja",
+     "texto": "Las alícuotas de la tasa por inspección de seguridad e higiene, o del tributo municipal equivalente que se liquide sobre los ingresos o la facturación (en adelante, «la tasa»), se reducirán conforme al cronograma del Anexo II, desde el 1° de enero de cada año a partir de 2029. El cronograma reducirá primero las alícuotas de la actividad industrial y de los servicios prestados a empresas, y luego las de las demás etapas intermedias de la producción, de modo que la recaudación de la tasa del año 2031, a valores constantes según el índice de precios al consumidor, sea al menos un quince por ciento (15 %) menor que la del año 2027."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Condición de cada etapa",
+     "texto": "Cada etapa se aplicará cuando el Departamento Ejecutivo certifique, antes del 1° de diciembre del año anterior y con la metodología de la Comisión de Seguimiento del Acuerdo, que la recaudación del componente mensual del impuesto al valor del suelo percibida por el Municipio, o la que le corresponda por la Provincia, en el año anterior cubre el costo fiscal de la etapa. Si no pudiera certificarse, la etapa se aplicará desde el primer día del semestre siguiente en que se certifique, y el Departamento Ejecutivo informará al Concejo Deliberante las causas de la demora."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Topes e irreversibilidad",
+     "texto": "Hasta que se aplique cada etapa, las alícuotas y los importes mínimos de la tasa no podrán superar los vigentes a la fecha de la presente. Una vez aplicada una etapa, las alícuotas reducidas solo podrán aumentarse por ordenanza."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Ningún otro tributo sobre la facturación",
+     "texto": "El Municipio no establecerá nuevos tributos sobre los ingresos, la facturación o las transacciones que sustituyan total o parcialmente la reducción de la tasa."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Naturaleza de la tasa",
+     "texto": "La tasa continuará retribuyendo el servicio de inspección efectivamente prestado. La presente no modifica su hecho imponible ni los sujetos obligados."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Publicación",
+     "texto": "El Departamento Ejecutivo publicará cada año, antes del 30 de junio, la recaudación del año anterior de la tasa y del componente mensual del impuesto al valor del suelo, a valores corrientes y constantes, y el grado de avance del cronograma."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Comunicación",
+     "texto": "El Departamento Ejecutivo comunicará la presente a la autoridad de aplicación provincial y a la Comisión de Seguimiento del Acuerdo dentro de los diez (10) días de su promulgación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Vigencia",
+     "texto": "La presente Ordenanza entrará en vigencia el día siguiente al de su publicación."
+    },
+    {
+     "n": 10,
+     "epigrafe": "",
+     "texto": "Comuníquese al Departamento Ejecutivo, publíquese, regístrese y archívese.\nANEXO I: Acuerdo Federal de Sustitución Tributaria. ANEXO II: Cronograma de alícuotas de la tasa por actividad (columnas: actividad; alícuota vigente; 2029; 2030; 2031), con las actividades industriales y de servicios a empresas en primer término."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ordenanza fiscal y tarifaria de [Municipio]: alícuotas de la tasa por inspección de seguridad e higiene (Anexo II)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

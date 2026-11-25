@@ -1,0 +1,97 @@
+{
+ "id": "N245",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la reforma de la Ley N° 24.660: cupo, clasificación, régimen de líderes y reinserción",
+ "sumilla": "Reglamenta la ley «Ley de reforma de la Ley N° 24.660 de Ejecución de la Pena Privativa de la Libertad: cupo legal, alta seguridad, clasificación, trabajo, educación y reinserción» en el Servicio Penitenciario Federal: fija el procedimiento y los estándares mínimos del cupo, la clasificación al ingreso en tres niveles de riesgo, el régimen especial para líderes que reemplaza a la resolución puente «Resolución puente: régimen especial de alojamiento para líderes de organizaciones criminales», las metas de trabajo y educación y el programa de reinserción, y ordena adecuar los decretos reglamentarios vigentes de la Ley 24.660.",
+ "cuando": "Fase II (años 2-3): dentro de los 90 días de publicada la ley «Ley de reforma de la Ley N° 24.660 de Ejecución de la Pena Privativa de la Libertad: cupo legal, alta seguridad, clasificación, trabajo, educación y reinserción» (art. 11 de esa ley); rige con ella.",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (decreto reglamentario, art. 99 inc. 2 CN).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° 24.660 y sus modificatorias, la Ley N° [—] de reforma de la Ley N° 24.660, la Ley N° 20.416, los Decretos Nros. 18/1997, 1136/1997, 396/1999, 807/2004, 140/2015 y 61/2025, y",
+ "considerando": [
+  "Que la Ley N° [—] reformó la Ley N° 24.660 para establecer un cupo legal por establecimiento con control judicial, la clasificación obligatoria al ingreso, un régimen especial para líderes de organizaciones criminales, los establecimientos de alta seguridad, metas de trabajo y educación y un programa de reinserción.",
+  "Que el Servicio Penitenciario Federal depende del Poder Ejecutivo nacional por intermedio del Ministerio de Justicia y Seguridad, conforme el artículo 4° de la Ley N° 20.416, al que corresponde aplicar la reforma en el ámbito federal.",
+  "Que el régimen especial para líderes de organizaciones criminales rige desde el primer año de gestión por resolución ministerial, cuyo contenido la ley incorporó, por lo que corresponde ordenar la transición sin solución de continuidad.",
+  "Que los decretos reglamentarios vigentes de la Ley N° 24.660 deben adecuarse al nuevo texto legal.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "El Ministerio de Justicia y Seguridad es la autoridad de aplicación de la Ley N° 24.660 en el ámbito del Servicio Penitenciario Federal, en el texto de la Ley N° [—], y dictará las normas complementarias del presente decreto."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Estándares de habitabilidad (artículo 59)",
+     "texto": "La autoridad de aplicación aprobará, dentro de los noventa (90) días, los estándares de habitabilidad para fijar el cupo de cada establecimiento, conforme las Reglas Mínimas de las Naciones Unidas para el Tratamiento de los Reclusos. En las celdas individuales se alojará una sola persona, y en los alojamientos colectivos se asegurará una superficie mínima por persona, ventilación, luz natural e instalaciones sanitarias suficientes."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Fijación y publicación del cupo (artículo 59)",
+     "texto": "La Dirección Nacional del Servicio Penitenciario Federal fijará el cupo de cada establecimiento dentro de los ciento veinte (120) días de aprobados los estándares, previa inspección de cada unidad, y lo publicará en su sitio oficial junto con la población alojada, actualizada cada mes. Toda habilitación o clausura de plazas modificará el cupo y se comunicará a los jueces de ejecución y a la Procuración Penitenciaria de la Nación dentro de los cinco (5) días."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Clasificación (artículo 13)",
+     "texto": "La clasificación al ingreso distinguirá tres niveles de riesgo: bajo, medio y alto, conforme criterios objetivos que aprobará la autoridad de aplicación, entre ellos la gravedad de la imputación o de la condena, los antecedentes de violencia en detención y la pertenencia a organizaciones criminales. La clasificación se revisará al menos una vez al año y cada vez que cambien las circunstancias que la fundaron."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Régimen especial para líderes (artículo 160)",
+     "texto": "La incorporación al régimen especial para líderes de organizaciones criminales será dispuesta por la Dirección Nacional del Servicio Penitenciario Federal, a propuesta de su área de seguridad y con intervención de la Secretaría de Seguridad del Ministerio de Justicia y Seguridad. La persona incorporada y su defensa serán notificadas y podrán presentar descargo ante el juez competente. Las personas incorporadas conservan el acceso a la educación, al trabajo, a la salud y a la asistencia espiritual en las modalidades compatibles con la seguridad del módulo."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Transición del régimen especial",
+     "texto": "Las incorporaciones dispuestas conforme la resolución ministerial que estableció el régimen especial de alojamiento para líderes de organizaciones criminales continuarán bajo el régimen del artículo 160 de la Ley N° 24.660, en el texto de la Ley N° [—], y serán revisadas dentro de los seis (6) meses. Esa resolución queda sin efecto desde la entrada en vigencia del presente decreto."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Inhibidores (artículo 160)",
+     "texto": "La Dirección Nacional con competencia en arquitectura penitenciaria del ministerio es responsable de la instalación de los inhibidores en los establecimientos del Servicio Penitenciario Federal, y su Dirección Nacional, de su funcionamiento permanente. Se publicará cada trimestre el estado de funcionamiento por establecimiento y la cantidad de teléfonos móviles secuestrados."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Metas de trabajo y educación (artículos 106 y 133)",
+     "texto": "La autoridad de aplicación aprobará cada año, antes del 31 de diciembre, las metas del año siguiente de internos que trabajan y que estudian por establecimiento, con el objetivo de que la mayoría de las personas alojadas en el Servicio Penitenciario Federal trabaje o estudie al 10 de diciembre de 2030, y publicará su cumplimiento."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Programa de reinserción (artículo 172)",
+     "texto": "El programa de reinserción será ejecutado por el área de reinserción social del ministerio, en coordinación con los patronatos de liberados y con los servicios de empleo. Comprenderá la preparación para el egreso desde los seis (6) meses anteriores, la intermediación laboral, la vivienda transitoria para quienes no cuenten con ella y el seguimiento durante al menos un (1) año."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Plan de plazas",
+     "texto": "El plan de plazas del artículo 8° de la Ley N° [—] será elaborado por la Dirección Nacional con competencia en arquitectura penitenciaria y aprobado por la autoridad de aplicación."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Adecuación de reglamentos",
+     "texto": "La autoridad de aplicación propondrá al Poder Ejecutivo nacional, dentro de los ciento ochenta (180) días, la adecuación a la Ley N° [—] de los Decretos Nros. 18/1997, 1136/1997, 396/1999, 807/2004, 140/2015 y 61/2025. Hasta entonces, esos decretos se aplicarán en cuanto no se opongan a la ley y al presente."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el mismo día que la Ley N° [—]."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decretos 18/1997, 1136/1997, 396/1999, 807/2004, 140/2015 y 61/2025 (reglamentarios de la Ley 24.660): se adecuan en lo pertinente (art. 11)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

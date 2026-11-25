@@ -1,0 +1,129 @@
+{
+ "id": "N309",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de abordaje sanitario de los consumos y acceso regulado bajo supervisión médica",
+ "sumilla": "Reglamenta «Ley de abordaje sanitario de los consumos: reforma de la Ley 23.737 y acceso regulado bajo supervisión médica»: designa la autoridad de aplicación y regula el Registro Nacional de Acceso Regulado (modelo REPROCANN), la inscripción de médicos, la habilitación de canales de provisión y productores, la trazabilidad, el control de cantidades en tiempo real, las tasas, la cuenta especial de prevención y tratamiento y la revisión periódica.",
+ "cuando": "Fase II · dentro de los 180 días de publicada la ley «Ley de abordaje sanitario de los consumos: reforma de la Ley 23.737 y acceso regulado bajo supervisión médica» (art. 25)",
+ "cuando_breve": "Fase II · dentro de los 180 días de publicada la ley «Ley de abordaje sanitario de los consumos",
+ "tramite": "Decreto simple del Poder Ejecutivo nacional (art. 99 incs. 1 y 2 CN); reglamentario, no DNU.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° [—] de abordaje sanitario de los consumos, las Leyes N° 23.737, N° 25.326, N° 26.657, N° 27.350 y N° 27.669, el Decreto N° 883/2020, y",
+ "considerando": [
+  "Que la Ley N° [—] derogó la punición de la tenencia de estupefacientes para consumo personal y creó un régimen de acceso regulado, bajo supervisión médica y solo por canales con control sanitario, a las sustancias enumeradas en su Anexo I.",
+  "Que el registro nacional previsto en el artículo 8° de la Ley N° 27.350, reglamentado por el Decreto N° 883/2020, constituye una experiencia útil de inscripción de personas usuarias bajo indicación médica, que la ley toma como modelo.",
+  "Que corresponde designar la autoridad de aplicación y establecer los requisitos de inscripción, habilitación, dispensa, trazabilidad y control que permitan poner en funcionamiento el régimen en forma gradual y segura.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que el presente se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente decreto reglamenta la Ley N° [—] de abordaje sanitario de los consumos, en adelante «la Ley»."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase al Ministerio de Salud como autoridad de aplicación de la Ley, conforme su artículo 21. La autoridad dicta las normas complementarias y puede delegar funciones operativas en sus organismos descentralizados."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Registro Nacional de Acceso Regulado",
+     "texto": "El Registro del artículo 11 de la Ley funciona en forma digital. La inscripción la solicita el médico inscripto con la conformidad de la persona usuaria, cuya identidad se valida con el Registro Nacional de las Personas (RENAPER). La inscripción se renueva cada año. Los datos del Registro son confidenciales, solo pueden usarse para los fines de la Ley y no pueden ser cedidos a las fuerzas de seguridad ni a otros organismos, salvo orden judicial fundada en una causa por desvío o por un delito de la Ley N° 23.737."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Médicos inscriptos",
+     "texto": "Pueden inscribirse los médicos con matrícula nacional o provincial vigente que aprueben la capacitación que dicte la autoridad de aplicación y presenten una declaración jurada de no tener vínculos con productores, importadores o canales de provisión del régimen. La inscripción se renueva cada dos (2) años."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Evaluación y controles",
+     "texto": "La evaluación inicial y los controles del artículo 12 de la Ley comprenden la historia de consumo, las contraindicaciones que fije la autoridad de aplicación y la información sobre riesgos, que la persona usuaria firma. Los controles se hacen con la frecuencia mínima que indica el Anexo I de la Ley para cada sustancia. Sin control vigente, el Registro suspende la posibilidad de dispensa."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cantidades",
+     "texto": "El Registro controla en tiempo real las cantidades dispensadas a cada persona usuaria y bloquea toda dispensa que supere el límite del esquema fijado por el médico dentro de los máximos del Anexo I de la Ley."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Habilitación de canales",
+     "texto": "Las farmacias y los establecimientos de salud que soliciten habilitación conforme el artículo 13 de la Ley deben contar con habilitación sanitaria vigente, director técnico farmacéutico, condiciones de seguridad y almacenamiento, y conexión con el Registro para el registro electrónico de cada dispensa. La habilitación dura dos (2) años y es renovable."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Dispensa",
+     "texto": "Cada dispensa requiere la verificación de la identidad de la persona usuaria, de su inscripción vigente y del saldo disponible en el Registro, y se registra en el acto. Se prohíbe dispensar a terceros, incluso con autorización de la persona usuaria."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Productores e importadores",
+     "texto": "La habilitación del artículo 14 de la Ley exige el cumplimiento de las buenas prácticas de fabricación y de las normas de calidad de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT), condiciones de seguridad física y un responsable técnico. La producción de cannabis y sus derivados se habilita además conforme la Ley N° 27.669, en coordinación con la Agencia Regulatoria de la Industria del Cáñamo y del Cannabis Medicinal (ARICCAME)."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Trazabilidad",
+     "texto": "Cada unidad de sustancia lleva un código único que se registra en el sistema de trazabilidad de la ANMAT en cada etapa, desde la producción o la importación hasta la dispensa. Las diferencias de inventario se informan dentro de las veinticuatro (24) horas."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Publicidad",
+     "texto": "La prohibición del artículo 15 de la Ley alcanza a toda comunicación comercial en cualquier medio, incluidos los digitales, a la exhibición de marcas en los canales de provisión y a la difusión pagada por terceros. No alcanza a la información sanitaria de la autoridad de aplicación."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Sumario y multas",
+     "texto": "Las sanciones del artículo 16 de la Ley se aplican previo sumario con derecho de defensa, conforme la Ley Nacional de Procedimientos Administrativos N° 19.549. Las multas se calculan con el valor del salario mínimo, vital y móvil vigente a la fecha de pago y se depositan en la cuenta especial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Tasas",
+     "texto": "La autoridad de aplicación fija las tasas del artículo 17 de la Ley por resolución fundada en un estudio de costos de habilitación y fiscalización, que se publica, y las actualiza cada año."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Cuenta especial",
+     "texto": "La cuenta especial del artículo 18 de la Ley se abre en el Tesoro nacional y la administra la autoridad de aplicación. La Secretaría de Salud Mental y Adicciones del Ministerio de Salud ejecuta los programas conforme el artículo 20 de la Ley. La ejecución se publica cada trimestre."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Revisión periódica",
+     "texto": "La primera revisión del artículo 9° de la Ley se encarga a los tres (3) años del inicio del régimen, mediante convenios con universidades nacionales y organismos nacionales de ciencia y técnica, con las garantías de independencia, plazos y publicidad de la evaluación inicial."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Suspensión precautoria",
+     "texto": "A los fines del artículo 10 de la Ley, se considera alerta sanitaria grave el aumento significativo y verificado de intoxicaciones, internaciones o muertes asociadas a una sustancia del régimen, o la detección de un riesgo nuevo para la salud no evaluado. La resolución de suspensión indica sus fundamentos y su plazo."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Coordinación contra el desvío",
+     "texto": "La autoridad de aplicación y el Ministerio de Justicia y Seguridad celebran un protocolo para la detección y denuncia del desvío. El Ministerio de Justicia y Seguridad accede solo a información agregada del Registro y del sistema de trazabilidad, salvo orden judicial."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Información pública",
+     "texto": "El informe del artículo 22 de la Ley se publica antes del 31 de marzo de cada año, con los datos del año anterior."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande el presente se atienden conforme el artículo 23 de la Ley."
+    },
+    {
+     "n": 20,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

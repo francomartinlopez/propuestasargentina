@@ -1,0 +1,139 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Dirección Nacional Electoral",
+    "estado": "modificado",
+    "rol": "Organiza la consulta y publica la información oficial objetiva sobre cada proyecto.",
+    "hoy": "Dirección Nacional Electoral (Vicejefatura de Gabinete del Interior, JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad de aplicación que designe el PEN",
+    "estado": "modificado",
+    "rol": "Registro Nacional de Autoexclusión, nómina de sitios bloqueados, sanciones y acuerdo con las provincias.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Registro Nacional de Autoexclusión de Juegos de Azar y Apuestas en Línea",
+    "estado": "nuevo",
+    "rol": "Inscripción gratuita y digital, interconectada con registros provinciales.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Registro Nacional de las Personas (RENAPER)",
+    "estado": "modificado",
+    "rol": "Validación biométrica de identidad y edad. Servicio de validación biométrica de identidad y edad para operadores autorizados.",
+    "hoy": "RENAPER, organismo descentralizado en el ámbito de la Vicejefatura de Gabinete del Interior (JGM)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ente Nacional de Comunicaciones (ENACOM)",
+    "estado": "modificado",
+    "rol": "Ordena el bloqueo de sitios de operadores no autorizados. Ordena el bloqueo de sitios en 48 horas.",
+    "hoy": "ENACOM, organismo descentralizado de la JGM",
+    "hijos": []
+   },
+   {
+    "nombre": "Comité federal de juego en línea",
+    "estado": "nuevo",
+    "rol": "Coordina registros, bloqueos, fiscalización y estándares; publica un informe anual.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "existente",
+    "rol": "Encarga la evaluación, firma los convenios y publica el informe. Autoridad de aplicación: registro de personas usuarias y de médicos, habilitación de canales y productores, fiscalización y suspensión precautoria. Autoridad de aplicación de «Ley de abordaje sanitario de los consumos: reforma de la Ley 23.737 y acceso regulado bajo supervisión médica»: registro, habilitaciones, tasas, sanciones y administración de la cuenta especial. Coordina el plan nacional y los equipos de calle de salud mental y consumos.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Salud Mental y Adicciones",
+      "estado": "modificado",
+      "rol": "Prevención y línea nacional de ayuda las 24 horas. Registro Nacional de Autoexclusión, nómina de sitios bloqueados, topes de depósito, sumarios y acuerdo con las provincias. Provee información y es consultada; no integra el panel. Ejecuta los programas de prevención y tratamiento financiados con la cuenta especial. Opera la Línea 141 ampliada las 24 horas.",
+      "hoy": "Secretaría de Políticas Integrales sobre Drogas (Ministerio de Salud)",
+      "hijos": [
+       {
+        "nombre": "Área nacional de salud mental",
+        "estado": "existente",
+        "rol": "Protocolos clínicos, capacitación y red de derivación.",
+        "hoy": "Dirección Nacional de Abordaje Integral de Salud Mental (nombre no verificado)",
+        "hijos": []
+       }
+      ]
+     },
+     {
+      "nombre": "Agencia de drogas y adicciones",
+      "estado": "existente",
+      "rol": "Firma por la Nación, administra el Registro Nacional de Autoexclusión y la nómina de bloqueos, preside el Comité Federal.",
+      "hoy": "SEDRONAR (Ministerio de Salud), según el decreto reglamentario «Decreto reglamentario de la Ley de apuestas online y prevención de la ludopatía»",
+      "hijos": []
+     },
+     {
+      "nombre": "Administración Nacional de Medicamentos, Alimentos y Tecnología Médica",
+      "estado": "modificado",
+      "rol": "Calidad y trazabilidad de las sustancias desde la producción hasta la dispensa. Calidad de producción e importación y sistema de trazabilidad por unidad.",
+      "hoy": "Administración Nacional de Medicamentos, Alimentos y Tecnología Médica, organismo descentralizado del Ministerio de Salud",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Salud Mental y Adicciones del Ministerio de Salud",
+      "estado": "modificado",
+      "rol": "Ejecuta los programas de prevención y tratamiento de la cuenta especial.",
+      "hoy": "Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina, Ministerio de Salud",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "existente",
+    "rol": "Concentra la persecución penal en las redes de narcotráfico y coordina la prevención del desvío (propuesta 69).",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia Regulatoria de la Industria del Cáñamo y del Cannabis Medicinal",
+    "estado": "existente",
+    "rol": "Habilita la producción de cannabis conforme la Ley 27.669, en coordinación con la autoridad de aplicación.",
+    "hoy": "Agencia Regulatoria de la Industria del Cáñamo y del Cannabis Medicinal (Ley 27.669), intervenida por Decreto 833/2024",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Trabajo y Desarrollo Social",
+    "estado": "modificado",
+    "rol": "Organiza la salida laboral: capacitación, trabajo comunitario e ingreso único.",
+    "hoy": "Ministerio de Capital Humano (Decreto 378/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Estadística y Censos (INDEC)",
+    "estado": "existente",
+    "rol": "Hace el relevamiento anual de personas en situación de calle con las provincias.",
+    "hoy": "INDEC, organismo desconcentrado del Ministerio de Economía (Decreto 50/2019, Anexo III, ap. IX, según Decreto 146/2026)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Bloqueo de pagos a operadores no autorizados."
+  },
+  {
+   "nombre": "Jurisdicciones provinciales",
+   "rol": "Licencian y fiscalizan el juego; pueden pedir bloqueos y fijar exigencias mayores."
+  },
+  {
+   "nombre": "Evaluador independiente",
+   "rol": "Realiza la evaluación y redacta el informe, sin instrucciones del Ministerio sobre sus conclusiones."
+  }
+ ]
+}

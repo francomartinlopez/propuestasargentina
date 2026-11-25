@@ -1,0 +1,111 @@
+{
+ "id": "N318",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de licencia por paternidad pagada por ANSES",
+ "sumilla": "Modifica el art. 158 inc. a de la Ley de Contrato de Trabajo y crea en la Ley 24.714 la asignación por paternidad o cuidado del segundo progenitor, pagada por ANSES: 15 días desde la vigencia, ampliación por etapas según la recaudación del régimen hasta 30 días en 2031, igual para adopción, con monotributistas y autónomos (que suman además una asignación por maternidad de 90 días por el SMVM diario, que hoy no cobran), y camino hacia licencias equivalentes y compartidas.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; Cámara de Diputados como cámara de origen, aunque no crea contribuciones.",
+ "motivos": "La Ley de Contrato de Trabajo reconoce al trabajador dos días corridos de licencia por el nacimiento de un hijo, a cargo del empleador, y no prevé licencia para el segundo progenitor en caso de adopción. Ese plazo es insuficiente para acompañar los primeros días de vida y refuerza la idea de que el cuidado recae solo en las mujeres, lo que a su vez encarece su contratación. El presente proyecto amplía esa licencia a quince días corridos desde su entrada en vigencia y la lleva en forma gradual hasta treinta días en 2031, a medida que la recaudación del régimen de asignaciones familiares lo permita. La licencia rige igual para la adopción. Como ocurre con la licencia por maternidad, su costo no lo paga el empleador: la Administración Nacional de la Seguridad Social abona una asignación igual a la remuneración, financiada con las contribuciones existentes del régimen, sin crear cargas nuevas. Se incluye a monotributistas y trabajadores autónomos. Además, como las monotributistas y las autónomas no cobran hoy la asignación por maternidad (las monotributistas solo reciben la prenatal), el proyecto les reconoce durante los noventa días de esa licencia una asignación diaria igual al salario mínimo, vital y móvil, con los mismos recursos del régimen. Por último, el proyecto fija el camino hacia licencias equivalentes y compartidas, con una evaluación anual de su efecto sobre el empleo de las mujeres y un proyecto de ley a presentar antes de mediados de 2031.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Licencia por paternidad o cuidado del segundo progenitor",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley amplía la licencia por nacimiento del segundo progenitor, la extiende a la adopción y la hace pagar por el régimen de asignaciones familiares, como la licencia por maternidad, y no por el empleador. Extiende además una asignación por maternidad a las personas gestantes inscriptas en el Régimen Simplificado para Pequeños Contribuyentes y en el régimen de trabajadores autónomos. Se entiende por segundo progenitor a la persona que, siendo madre o padre del niño o niña por naturaleza o por adopción, no goza de la licencia prevista en el artículo 177 de la Ley de Contrato de Trabajo N° 20.744 (t.o. 1976)."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sustitución del inciso a) del artículo 158 de la Ley N° 20.744",
+     "texto": "Sustitúyese el inciso a) del artículo 158 de la Ley de Contrato de Trabajo N° 20.744 (t.o. 1976) por el siguiente: «a) Por nacimiento de hijo o hija, o por adopción, a la persona trabajadora que sea segundo progenitor: el plazo de licencia por paternidad o cuidado del segundo progenitor que establece la ley, durante el cual percibe la asignación prevista en la Ley N° 24.714, a cargo del régimen de asignaciones familiares. La licencia comienza el día del nacimiento o el de la entrega del niño, niña o adolescente con fines de adopción, y se goza en días corridos.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Plazo de la licencia",
+     "texto": "La licencia del inciso a) del artículo 158 de la Ley N° 20.744, según el texto de la presente, es de quince (15) días corridos desde la entrada en vigencia de la presente ley, y se amplía en forma gradual a veinte (20) días desde el 1° de enero de 2029, a veinticinco (25) días desde el 1° de enero de 2030 y a treinta (30) días desde el 1° de enero de 2031."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Condición de cada ampliación",
+     "texto": "Cada ampliación del artículo 3° rige si la Administración Nacional de la Seguridad Social (ANSES) informa, antes del 30 de septiembre del año anterior, que la recaudación de las contribuciones del régimen de asignaciones familiares permite atenderla sin desequilibrar el régimen. Si no lo permite, la ampliación se difiere al año siguiente, sin alterar las etapas posteriores más que en el mismo plazo. El informe es público."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Asignación por paternidad o cuidado del segundo progenitor",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Incorporación del inciso l) al artículo 6° de la Ley N° 24.714",
+     "texto": "Incorpórase como inciso l) del artículo 6° de la Ley N° 24.714 el siguiente: «l) Asignación por paternidad o cuidado del segundo progenitor.»"
+    },
+    {
+     "n": 6,
+     "epigrafe": "Incorporación del artículo 11 bis a la Ley N° 24.714",
+     "texto": "Incorpórase como artículo 11 bis de la Ley N° 24.714 el siguiente: «ARTÍCULO 11 bis.- La asignación por paternidad o cuidado del segundo progenitor consiste en el pago de una suma igual a la remuneración que la persona trabajadora hubiera debido percibir en su empleo durante el período de licencia previsto en el inciso a) del artículo 158 de la Ley de Contrato de Trabajo N° 20.744 (t.o. 1976). Rige igual en caso de adopción. Se requieren los mismos requisitos de antigüedad que el artículo 11 exige para la asignación por maternidad. La paga la Administración Nacional de la Seguridad Social.»"
+    },
+    {
+     "n": 7,
+     "epigrafe": "Monotributistas y trabajadores autónomos: segundo progenitor y maternidad",
+     "texto": "Las personas inscriptas en el Régimen Simplificado para Pequeños Contribuyentes y en el régimen de trabajadores autónomos que sean segundo progenitor por nacimiento o adopción perciben, durante el mismo plazo del artículo 3°, una asignación diaria equivalente al salario mínimo, vital y móvil diario, a cargo del régimen de asignaciones familiares, siempre que estén al día con sus obligaciones previsionales en la forma que fije la reglamentación. Las personas gestantes inscriptas en esos regímenes que no perciban una asignación por maternidad perciben, durante el plazo de la licencia por maternidad del artículo 177 de la Ley N° 20.744 (t.o. 1976), una asignación diaria equivalente al salario mínimo, vital y móvil diario, a cargo del régimen de asignaciones familiares, en las mismas condiciones."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Camino hacia licencias equivalentes y compartidas",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Evaluación",
+     "texto": "La ANSES y la Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social evalúan cada año el uso de la licencia y su efecto sobre el empleo de las mujeres, con la información del Sistema Integrado Previsional Argentino, y publican sus resultados."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Licencias equivalentes y compartidas",
+     "texto": "Sobre la base de esa evaluación, el Poder Ejecutivo nacional remite al Congreso de la Nación, antes del 30 de junio de 2031, un proyecto de ley que establezca en forma progresiva licencias equivalentes para ambos progenitores y la posibilidad de compartirlas, pagadas por el régimen de asignaciones familiares, con su fuente y su cronograma."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Financiamiento",
+     "texto": "Las asignaciones creadas por la presente ley, incluidas las del artículo 7°, se financian con los recursos existentes del régimen de asignaciones familiares previstos en el artículo 5° de la Ley N° 24.714, incluido el porcentaje del impuesto integrado con destino al Sistema Integrado Previsional Argentino de su inciso a'), sin crear ni aumentar contribuciones. Su ampliación se ajusta a la recaudación de ese régimen conforme el artículo 4°. Conforme el artículo 38 de la Ley N° 24.156 y el artículo 5° de la Ley N° 24.629, la ley de presupuesto de cada ejercicio prevé los créditos correspondientes."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Fiscalización",
+     "texto": "La Secretaría de Trabajo y Empleo fiscaliza el otorgamiento de la licencia por los empleadores."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los sesenta (60) días de su publicación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entra en vigencia el primer día del segundo mes siguiente al de su publicación en el Boletín Oficial y se aplica a los nacimientos y entregas con fines de adopción que ocurran desde esa fecha."
+    },
+    {
+     "n": 14,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 20.744, art. 158 inc. a",
+  "Ley 24.714, art. 6 (nuevo inc. l) y nuevo art. 11 bis"
+ ],
+ "deroga": [],
+ "variantes": null
+}

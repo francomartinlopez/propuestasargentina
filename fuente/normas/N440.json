@@ -1,0 +1,65 @@
+{
+ "id": "N440",
+ "tipo": "ley_nacional",
+ "titulo": "Ley del Servicio Técnico Legislativo del Congreso de la Nación",
+ "sumilla": "Crea el Servicio Técnico Legislativo, un cuerpo técnico permanente del Congreso, con ingreso por concurso, al servicio de todos los bloques, que publica un informe técnico de cada proyecto antes de su tratamiento en el recinto; e invita a las Cámaras a exigir ese informe 48 horas antes de votar y a publicar la asistencia y el voto de cada legislador en datos abiertos.",
+ "cuando": "Fase I (año 1); el Servicio funciona plenamente desde el segundo período ordinario",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; cámara de origen indistinta. Las reglas de funcionamiento del recinto requieren además la reforma de los reglamentos de cada Cámara (art. 66 CN).",
+ "motivos": "Buena parte de las leyes se vota sin que los legisladores conozcan a fondo lo que votan. Se vota por disciplina partidaria, sin haber leído los expedientes, y hay jefes de bancada que la noche anterior a una sesión clave deben pedir a periodistas que les expliquen un informe porque ni ellos ni sus asesores lo estudiaron. Los asesores dependen de cada legislador, cambian con cada mandato y muchas veces se eligen por lealtad y no por capacidad. Los congresos que funcionan bien tienen cuerpos técnicos permanentes, profesionales y no partidarios, que estudian cada proyecto y lo explican a todos los legisladores por igual. La Oficina de Presupuesto del Congreso, creada por la Ley N° 27.343, demostró que ese modelo funciona en el análisis fiscal. Esta ley lo extiende a toda la tarea legislativa: crea un Servicio Técnico Legislativo con personal que ingresa por concurso, que no responde a ningún bloque y que publica, para cada proyecto con dictamen, un informe sobre qué cambia, a quién afecta, cuánto cuesta y con qué normas choca. Además invita a cada Cámara a no tratar ningún proyecto en el recinto sin ese informe publicado al menos cuarenta y ocho horas antes, y a publicar en datos abiertos la asistencia y el voto de cada legislador.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación",
+     "texto": "Créase en el ámbito del Congreso de la Nación el Servicio Técnico Legislativo, como cuerpo técnico permanente, profesional y no partidario, al servicio de ambas Cámaras, de sus comisiones y de todos los legisladores por igual. La Oficina de Presupuesto del Congreso, creada por la Ley N° 27.343, conserva sus funciones y coordina con el Servicio el análisis fiscal de los proyectos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Funciones",
+     "texto": "El Servicio: a) elabora y publica un informe técnico de cada proyecto que obtenga dictamen de comisión, que explique en lenguaje claro qué cambia, a quiénes alcanza, su costo fiscal estimado por la Oficina de Presupuesto del Congreso, las normas que modifica o con las que puede entrar en conflicto y la experiencia comparada relevante; b) responde las consultas técnicas de cualquier legislador o comisión y publica sus respuestas, salvo que el consultante pida reserva hasta la presentación del proyecto; c) mantiene un digesto actualizado de la legislación vigente."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Dirección",
+     "texto": "El Servicio es conducido por un director elegido por concurso público de antecedentes y oposición, designado por resolución conjunta de las Presidencias de ambas Cámaras por un período de seis (6) años, renovable por única vez, que solo puede ser removido por mal desempeño con el voto de los dos tercios de la Comisión Parlamentaria Mixta Revisora de Cuentas."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Personal",
+     "texto": "El personal del Servicio ingresa y asciende exclusivamente por concurso público de antecedentes y oposición, con jurados que incluyen académicos de universidades nacionales. No puede prestar servicios a bloques, partidos ni legisladores en forma individual, ni realizar actividad partidaria pública. Su remuneración se fija con la referencia de mercado del Escalafón Técnico de Control."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Invitación a las Cámaras",
+     "texto": "Invítase a cada Cámara a incorporar a su reglamento: a) que ningún proyecto sea tratado en el recinto sin el informe técnico del Servicio publicado al menos cuarenta y ocho (48) horas antes, salvo decisión de los dos tercios de los presentes por razones de urgencia, que se fundará y publicará; b) la publicación, en formato de datos abiertos y dentro de las veinticuatro (24) horas, de la asistencia de cada legislador a las sesiones y reuniones de comisión y de su voto nominal en cada votación."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Financiamiento",
+     "texto": "El Servicio se financia con los créditos del presupuesto del Poder Legislativo nacional. Las Cámaras reasignarán a ese fin, en primer lugar, los créditos destinados a contratos de asesoría que no se renueven."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Puesta en funcionamiento",
+     "texto": "Los concursos del director y del personal se convocarán dentro de los ciento ochenta (180) días de la vigencia de la presente ley. El Servicio emitirá informes técnicos de todos los proyectos con dictamen a partir del segundo período ordinario de sesiones posterior a su vigencia."
+    },
+    {
+     "n": 8,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.343 (Oficina de Presupuesto del Congreso: coordinación con el Servicio)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

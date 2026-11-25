@@ -1,0 +1,122 @@
+{
+ "id": "N029",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de continuidad tributaria y de baja del impuesto sobre los créditos y débitos bancarios",
+ "sumilla": "Prorroga hasta el 31/12/2031, sin cambiar alícuotas, los tributos de la Ley 27.702 y mantiene las asignaciones específicas y el 11 % del IVA a previsión hasta la ley convenio. Fija por ley el cronograma del impuesto al cheque: primero sube el cómputo como pago a cuenta de Ganancias, después baja la alícuota, hasta dejar la recaudación neta en la mitad al año 4.",
+ "cuando": "Semana 1 (se envía el día 1 en sesiones extraordinarias; sanción antes del 31/12/2027)",
+ "cuando_breve": "Semana 1",
+ "tramite": "Cámara de Diputados como cámara de origen (tributos, art. 52 CN), en sesiones extraordinarias (art. 99 inc. 9 CN). Mayoría simple, salvo los artículos 2° y 3° (asignaciones específicas de recursos coparticipables), que requieren mayoría absoluta de la totalidad de los miembros de cada Cámara (art. 75 inc. 3 CN).",
+ "motivos": "El 31 de diciembre de 2027 vencen, por el artículo 1° de la Ley N° 27.702, el impuesto a las ganancias, el impuesto sobre los bienes personales, el impuesto sobre los créditos y débitos, el adicional sobre cigarrillos y el régimen simplificado, junto con las asignaciones específicas de impuestos coparticipables. Para dar certeza a contribuyentes, provincias y previsión social, este proyecto prorroga esos tributos hasta el 31 de diciembre de 2031 sin modificar sus alícuotas; sus reformas tramitarán por leyes propias. Las asignaciones específicas y la del once por ciento del impuesto al valor agregado a la previsión social se mantienen hasta que entre en vigencia la ley convenio de coparticipación, con un plazo máximo cierto, como exige el artículo 75, inciso 3, de la Constitución Nacional. El impuesto sobre los créditos y débitos, creado en 2001 con carácter de emergencia, encarece cada movimiento bancario y empuja al uso de efectivo. La facultad de ampliar su cómputo como pago a cuenta, prevista en el artículo 7° de la Ley N° 27.432, nunca se completó. En lugar de prorrogarlo entero otra vez, el proyecto fija por ley un cronograma: primero se amplía el cómputo y después se reduce la alícuota, hasta que la recaudación neta de 2031 sea la mitad de la de 2027. Cada etapa se aplica cuando la recaudación de reemplazo está asegurada, ninguna puede revertirse por decreto y los regímenes de las pequeñas y medianas empresas se preservan.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Prórroga de los tributos que vencen el 31 de diciembre de 2027",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Prórroga",
+     "texto": "Prorrógase hasta el 31 de diciembre de 2031, inclusive, el plazo previsto en el artículo 2° de la Ley N° 27.432, prorrogado por el artículo 1° de la Ley N° 27.702, para todos los tributos alcanzados por esas disposiciones —impuesto a las ganancias, impuesto sobre los bienes personales, impuesto sobre los créditos y débitos en cuentas bancarias y otras operatorias establecido por los artículos 1° a 6° de la Ley N° 25.413, impuesto adicional de emergencia sobre el precio final de venta de cigarrillos y Régimen Simplificado para Pequeños Contribuyentes—, sin modificación de sus alícuotas ni de sus demás elementos, con la sola excepción de lo dispuesto en el Capítulo III de la presente ley para el impuesto sobre los créditos y débitos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Asignaciones específicas",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Asignaciones específicas de impuestos coparticipables",
+     "texto": "Prorrógase la vigencia de las asignaciones específicas de impuestos coparticipables cuyo vencimiento opera el 31 de diciembre de 2027 en virtud del artículo 2° de la Ley N° 27.702, incluidas las previstas en el artículo 4° de la Ley N° 27.432, hasta la entrada en vigencia de la ley convenio prevista en el artículo 75, inciso 2, de la Constitución Nacional y, como máximo, hasta el 31 de diciembre de 2031. Si a esa fecha la ley convenio no estuviera vigente, la continuidad de las asignaciones solo podrá disponerse por una nueva ley, con plazo cierto. La presente prórroga se dicta en los términos del artículo 75, inciso 3, de la Constitución Nacional."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Asignación del impuesto al valor agregado a la previsión social",
+     "texto": "Prorrógase, en los mismos términos y con el mismo plazo del artículo anterior, la asignación del once por ciento (11 %) del producido del impuesto al valor agregado al Régimen Nacional de Previsión Social dispuesta por el artículo 5°, Título II, punto 2, de la Ley N° 23.966. La ley convenio, al entrar en vigencia, determinará el destino de esos recursos y su fuente de reemplazo para la previsión social."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Impuesto sobre los créditos y débitos: cronograma legal de baja",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Objeto y meta",
+     "texto": "El impuesto establecido por el artículo 1° de la Ley N° 25.413 continúa vigente durante el plazo prorrogado por el artículo 1° de la presente ley, sujeto al cronograma de baja de este capítulo. La meta del cronograma es que la recaudación neta del impuesto correspondiente al año 2031, medida en porcentaje del producto interno bruto, no supere la mitad de la recaudación neta correspondiente al año 2027 medida de la misma forma."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Recaudación neta",
+     "texto": "A los fines de este capítulo, se entiende por recaudación neta el producido del impuesto en el año calendario, deducidos los importes que los contribuyentes hayan computado como pago a cuenta de otros tributos. El producto interno bruto será el que publique el Instituto Nacional de Estadística y Censos (INDEC)."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Primera etapa: ampliación del cómputo como pago a cuenta",
+     "texto": "A partir del 1° de enero de 2029 y durante los años 2029 y 2030, el porcentaje del impuesto que los titulares de las cuentas pueden computar como pago a cuenta del impuesto a las ganancias se incrementará en forma anual y escalonada sobre los porcentajes vigentes a la fecha de entrada en vigencia de la presente ley, fijados por el artículo 13 del Anexo del Decreto N° 380/2001 en el texto del Decreto N° 409/2018. El Poder Ejecutivo nacional fijará el porcentaje de cada año antes del inicio del año calendario respectivo."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Segunda etapa: reducción de la alícuota",
+     "texto": "A partir del 1° de enero de 2031, el Poder Ejecutivo nacional reducirá la alícuota general del impuesto, y en la misma proporción las alícuotas diferenciales, en la medida necesaria para alcanzar la meta del artículo 4°. La reducción podrá anticiparse total o parcialmente al año 2030 si la ampliación del cómputo prevista en el artículo anterior hubiera alcanzado el cien por ciento (100 %) del impuesto."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Etapas atadas a la recaudación de reemplazo",
+     "texto": "Cada etapa del cronograma se aplicará cuando la Secretaría de Hacienda del Ministerio de Economía certifique, en el marco de la cuenta fiscal anual, que la recaudación efectiva de los recursos de reemplazo identificados en el presupuesto del año respectivo cubre el costo fiscal de esa etapa. Si la certificación no fuera posible, la etapa se aplicará al inicio del semestre siguiente en que lo sea, y el Poder Ejecutivo nacional informará al Congreso de la Nación las causas de la demora y el nuevo calendario."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Irreversibilidad de cada etapa",
+     "texto": "Una vez aplicada una etapa del cronograma, el porcentaje de cómputo como pago a cuenta no podrá reducirse ni la alícuota podrá incrementarse. Las facultades del Poder Ejecutivo nacional en materia de alícuotas y cómputo del impuesto quedan limitadas a lo dispuesto en este capítulo y no podrán ejercerse para elevar la alícuota general por encima de la vigente a la fecha de entrada en vigencia de la presente ley."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Regímenes de las micro, pequeñas y medianas empresas",
+     "texto": "Los porcentajes de cómputo como pago a cuenta que corresponden a las micro, pequeñas y medianas empresas en virtud del artículo 6° de la Ley N° 27.264 y de su reglamentación se mantienen y no podrán ser inferiores, en ningún año, a los que resulten de la aplicación del artículo 6° de la presente ley para el resto de los contribuyentes."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Derogación",
+     "texto": "Derógase el artículo 7° de la Ley N° 27.432."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Publicación anual",
+     "texto": "El Poder Ejecutivo nacional publicará cada año, junto con el proyecto de ley de presupuesto, la recaudación bruta y neta del impuesto, los importes computados como pago a cuenta, el porcentaje de cómputo y las alícuotas vigentes, y la recaudación efectiva de cada uno de los recursos de reemplazo a que se refiere el artículo 8°."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación y fijará, en ese acto, el porcentaje de cómputo como pago a cuenta correspondiente al año 2029."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 15,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.432, art. 2 (plazo, prorrogado por Ley 27.702, art. 1)",
+  "Ley 27.702, art. 2 (asignaciones específicas)",
+  "Ley 27.432, art. 4 (asignaciones específicas, por remisión)",
+  "Ley 23.966, art. 5, Título II, punto 2 (plazo de la asignación del 11 % del IVA)",
+  "Ley 25.413, arts. 1 a 6 (vigencia y cronograma del impuesto)",
+  "Decreto 380/2001, Anexo, art. 13 (texto según Decreto 409/2018): piso del cómputo"
+ ],
+ "deroga": [
+  "Ley 27.432, art. 7"
+ ],
+ "variantes": null
+}

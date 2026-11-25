@@ -1,0 +1,87 @@
+{
+ "id": "N071",
+ "tipo": "resolucion",
+ "titulo": "Resolución general de ARCA: canal «Exportación Simple de Servicios» para independientes y pymes",
+ "sumilla": "Crea un canal digital único y optativo para que monotributistas, independientes y pymes facturen exportaciones de servicios con formulario precargado, vinculen el cobro, obtengan en línea el certificado de residencia fiscal y tengan a mano la información para sus declaraciones.",
+ "cuando": "Fase I (año 1)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (resolución general de ARCA).",
+ "motivos": null,
+ "visto": "El Expediente Electrónico N° […], la Ley N° 11.683 (t.o. 1998) y sus modificaciones, el Anexo de la Ley N° 24.977, la Resolución General N° 3.689 (AFIP), sus modificatorias y complementarias, los Decretos Nros. 618/1997 y 953/2024, y",
+ "considerando": [
+  "Que el crecimiento de las exportaciones de servicios basados en el conocimiento depende en buena medida de trabajadores independientes y pequeñas empresas, para quienes la facturación, la vinculación de los cobros y la acreditación de su residencia fiscal suponen trámites y costos desproporcionados.",
+  "Que es conveniente reunir esos trámites en un único canal digital, optativo y con datos precargados, sin crear nuevas obligaciones.",
+  "Que el certificado de residencia fiscal permite a los exportadores invocar los convenios para evitar la doble imposición y reducir las retenciones en la fuente en el exterior.",
+  "Que la presente se coordina con la simplificación cambiaria dispuesta por el BANCO CENTRAL DE LA REPÚBLICA ARGENTINA para los cobros de exportaciones de servicios.",
+  "Que han tomado la intervención que les compete las áreas técnicas y el servicio jurídico de esta Agencia.",
+  "Que la presente se dicta en ejercicio de las facultades conferidas por la Ley N° 11.683 (t.o. 1998) y sus modificaciones por los artículos 7° y 8° del Decreto N° 618/1997, sus modificatorios y complementarios, y por el Decreto N° 953/2024."
+ ],
+ "formula": "Por ello, EL DIRECTOR EJECUTIVO DE LA AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Créase el servicio «Exportación Simple de Servicios», canal digital único para que los sujetos comprendidos en el artículo 2° emitan sus comprobantes de exportación de servicios, vinculen los cobros y cumplan sus obligaciones de información sin trámites presenciales."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sujetos comprendidos",
+     "texto": "Podrán utilizar el servicio, en forma optativa: a) las personas humanas adheridas al Régimen Simplificado para Pequeños Contribuyentes; b) las personas humanas inscriptas en el régimen general; y c) las micro, pequeñas y medianas empresas, conforme a la Ley N° 25.300 y sus normas complementarias, que exporten servicios."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Acceso",
+     "texto": "El servicio se habilitará con Clave Fiscal, sin necesidad de inscripciones o altas adicionales, en el sitio web de esta Agencia y en su aplicación móvil."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Comprobante de exportación precargado",
+     "texto": "El servicio permitirá emitir el comprobante electrónico de exportación de servicios (factura clase «E» y notas de crédito y débito clase «E») previsto en la Resolución General N° 3.689 (AFIP), sus modificatorias y complementarias, mediante un formulario simplificado, con precarga de los datos del emisor y de los clientes del exterior ya registrados, selección del tipo de servicio por lista y conversión automática de la moneda. Los campos que no resulten obligatorios para los servicios no se requerirán."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Vinculación del cobro",
+     "texto": "El exportador podrá vincular en el mismo servicio cada comprobante con el cobro acreditado en su cuenta en el país, a partir de la información que suministren las entidades financieras. La vinculación cumplirá la declaración requerida por la normativa cambiaria, sin presentaciones adicionales ante esta Agencia."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Certificado de residencia fiscal",
+     "texto": "El servicio emitirá en línea y en el acto, a solicitud del exportador que cumpla sus obligaciones formales, el certificado de residencia fiscal en la República Argentina, para su presentación ante clientes y administraciones tributarias del exterior a los fines de los convenios para evitar la doble imposición y de las retenciones en la fuente."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Información para la declaración anual",
+     "texto": "El servicio pondrá a disposición del exportador, con carácter informativo, el total facturado por exportaciones de servicios, los cobros vinculados y los impuestos retenidos en el exterior que el exportador declare, para su uso en las declaraciones juradas y, en el caso de los pequeños contribuyentes, en el control de su categoría."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Asistencia",
+     "texto": "Esta Agencia habilitará en el servicio una guía y un canal de consultas específico para exportadores de servicios, con respuesta dentro de los CINCO (5) días hábiles."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Indicadores",
+     "texto": "Esta Agencia publicará cada trimestre la cantidad de usuarios del servicio, los comprobantes emitidos y el monto facturado, por tipo de sujeto y por provincia."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución general entrará en vigencia el día de su publicación en el Boletín Oficial y será de aplicación a partir de los NOVENTA (90) días corridos."
+    },
+    {
+     "n": 11,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Régimen de comprobantes electrónicos de exportación (resolución general a identificar): se agrega un canal simplificado"
+ ],
+ "deroga": [],
+ "variantes": null
+}

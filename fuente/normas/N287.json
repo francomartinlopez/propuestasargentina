@@ -1,0 +1,129 @@
+{
+ "id": "N287",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley plurianual de universidades y ciencia",
+ "sumilla": "Reglamenta la ley «Ley plurianual de universidades y ciencia»: calendario anual de la senda de ciencia y técnica hasta +0,1 % del PIB en 2031, cálculo y ejecución del piso real de CONICET, CONAE, CNEA, INTA e INTI, canalización de los fondos sectoriales por FONCyT, FONTAR y FONARSEC con convocatorias en fecha, ingresos a la carrera del CONICET y pago inmediato de la recomposición salarial universitaria con tramos para gastos de funcionamiento.",
+ "cuando": "Fase I · dentro de los 90 días de publicada la ley «Ley plurianual de universidades y ciencia» (art. 13)",
+ "cuando_breve": "Fase I · dentro de los 90 días de publicada la ley «Ley plurianual de universidades y ciencia»",
+ "tramite": "Decreto simple del Poder Ejecutivo nacional (art. 99 incs. 1 y 2 CN); reglamentario, no DNU.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° [●] plurianual de universidades y ciencia, las Leyes N° 24.156, N° 27.614, N° 27.795 y N° 27.798, y",
+ "considerando": [
+  "Que la Ley N° [●] restableció con un nuevo calendario los artículos 5° a 7° de la Ley N° 27.614, derogados por el artículo 30, inciso b), de la Ley N° 27.798, fijó un piso real para los organismos nacionales de ciencia y técnica y dispuso canalizar los fondos sectoriales por los fondos existentes de la Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Agencia I+D+i).",
+  "Que la misma ley dispuso el cumplimiento íntegro de la recomposición salarial del artículo 5° de la Ley N° 27.795 desde su entrada en vigencia y la actualización de los gastos de funcionamiento de los artículos 3° y 4° de esa ley en tres tramos anuales, con fuente expresa, y que sus pisos y calendarios solo pueden modificarse por ley del Congreso.",
+  "Que en 2023 el gasto nacional en ciencia y técnica fue del cero coma veinticuatro por ciento (0,24 %) del Producto Interno Bruto, según el Ministerio de Economía, y que la previsibilidad de los recursos es condición para sostener equipos de investigación.",
+  "Que han tomado intervención los servicios jurídicos competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Senda de inversión en ciencia y técnica",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente decreto reglamenta la Ley N° [●] plurianual de universidades y ciencia, en adelante «la Ley», y los artículos 5° a 7° de la Ley N° 27.614, según el texto dado por la Ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Medición",
+     "texto": "A los fines del artículo 5° de la Ley N° 27.614, el presupuesto nacional destinado a la función ciencia y técnica es el devengado de la Administración Nacional en esa función del clasificador presupuestario por finalidad y función, expresado como proporción del Producto Interno Bruto nominal que publica el Instituto Nacional de Estadística y Censos (INDEC). El Ministerio de Economía calcula el valor del ejercicio 2027 y lo publica dentro de los treinta (30) días de la publicación del presente."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Calendario de la senda",
+     "texto": "El monto adicional sobre el nivel de 2027 es, como mínimo, de un tercio del cero coma uno por ciento (0,1 %) del Producto Interno Bruto en el ejercicio 2029, de dos tercios en el ejercicio 2030 y de la totalidad en el ejercicio 2031. Cada proyecto de ley de presupuesto incluye un anexo con el cumplimiento de la senda y la distribución del incremento entre los organismos, los fondos sectoriales y el programa de regreso de investigadores emigrados."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Piso real de los organismos",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Organismos comprendidos",
+     "texto": "El piso del artículo 6° de la Ley N° 27.614 alcanza al Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), a la Comisión Nacional de Actividades Espaciales (CONAE), a la Comisión Nacional de Energía Atómica (CNEA), al Instituto Nacional de Tecnología Agropecuaria (INTA) y al Instituto Nacional de Tecnología Industrial (INTI)."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Cálculo del piso",
+     "texto": "El piso de cada organismo es el total de sus créditos devengados en el ejercicio 2027, por todas las fuentes de financiamiento salvo el endeudamiento externo con destino específico, multiplicado por el cociente entre el Índice de Precios al Consumidor promedio del ejercicio y el del ejercicio 2027. Cada ley de presupuesto lo calcula con la inflación proyectada; si la inflación efectiva la supera, el Jefe de Gabinete de Ministros adecua los créditos dentro del mismo ejercicio."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Ejecución",
+     "texto": "La programación de cuotas de compromiso y de devengado de los organismos comprendidos no puede impedir la ejecución de los créditos que integran el piso."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Fondos sectoriales",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Parte del incremento",
+     "texto": "Cada proyecto de ley de presupuesto explicita, a propuesta de la Secretaría de Universidades y Ciencia del Ministerio de Educación, Ciencia y Cultura, la parte del incremento del artículo 5° de la Ley N° 27.614 que se asigna a los fondos sectoriales del artículo 7° de esa ley y su distribución entre litio y baterías, energía nuclear, agrobiotecnología, salud e inteligencia artificial. La distribución se publica."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Convocatorias en fecha",
+     "texto": "La Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Agencia I+D+i) publica antes del 30 de noviembre de cada año el calendario de convocatorias del año siguiente del Fondo para la Investigación Científica y Tecnológica (FONCyT), del Fondo Tecnológico Argentino (FONTAR) y del Fondo Argentino Sectorial (FONARSEC), con al menos una convocatoria anual de cada fondo para las áreas del artículo anterior. Los resultados se publican dentro de los ciento ochenta (180) días del cierre de cada convocatoria y el primer desembolso se efectúa dentro de los sesenta (60) días de la adjudicación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Evaluación",
+     "texto": "Los proyectos se seleccionan mediante evaluación por pares o por especialistas externos, conforme las normas de cada fondo."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Informe",
+     "texto": "La Agencia I+D+i publica cada año, por fondo y por área, las convocatorias realizadas, los proyectos presentados y adjudicados, los montos comprometidos y desembolsados y los plazos efectivos de cada etapa."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Carrera del investigador (artículo 3° de la Ley)",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Calendario de ingresos",
+     "texto": "El CONICET convoca, como mínimo, cuatrocientos cincuenta (450) ingresos a la Carrera del Investigador Científico y Tecnológico en la convocatoria correspondiente al ejercicio 2028, quinientos (500) en la de 2029, quinientos cincuenta (550) en la de 2030 y seiscientos (600) en la de 2031."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Universidades nacionales (artículos 5°, 6° y 11 de la Ley)",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Recomposición salarial",
+     "texto": "La Secretaría de Universidades y Ciencia transfiere a cada universidad nacional, desde el mes siguiente al de la entrada en vigencia de la Ley, los fondos necesarios para liquidar la recomposición salarial del artículo 5° de la Ley N° 27.795, conforme sus términos. La reasignación de créditos del artículo 11, inciso a), de la Ley se dispone dentro de los treinta (30) días de la entrada en vigencia de la Ley."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Gastos de funcionamiento",
+     "texto": "Cada tramo anual del artículo 6° de la Ley se transfiere en cuotas mensuales iguales a partir del mes siguiente al de la aprobación de la distribución del presupuesto del ejercicio respectivo. El tramo de 2028 se transfiere a partir del mes siguiente a la reasignación del artículo anterior."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande el presente se atienden conforme el artículo 11 de la Ley."
+    },
+    {
+     "n": 15,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

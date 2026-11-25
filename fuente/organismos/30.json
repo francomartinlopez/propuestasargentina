@@ -1,0 +1,115 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Autoridad Nacional de la Competencia",
+    "estado": "modificado",
+    "rol": "Pasa a tener presupuesto propio con tasas y multas, mandatos escalonados y obligación de publicar decisiones y prioridades. Presupuesto propio con cuenta recaudadora, mandatos escalonados y publicación de decisiones.",
+    "hoy": "Autoridad Nacional de la Competencia (Tribunal de Defensa de la Competencia, Secretaría de Instrucción de Conductas Anticompetitivas y Secretaría de Concentraciones Económicas), organismo descentralizado y autárquico (Ley 27.442, art. 18)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Producción y Comercio",
+    "estado": "modificado",
+    "rol": "Aloja el Servicio, homologa acuerdos, publica datos abiertos y fija el umbral de crédito de alto costo. Consulta sobre garantías de SGR y FoGAr para la versión garantizada. Controla las reglas de riesgo del FoGAr y dicta las reglas de solvencia de las SGR. Opera el Servicio y la ventanilla federal, lleva el registro de conciliadores, homologa, publica datos y fija el umbral de alto costo.",
+    "hoy": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial (Secretaría de Industria, Comercio y de la PyME, Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "Servicio Nacional de Conciliación Previa en las Relaciones de Consumo",
+      "estado": "nuevo",
+      "rol": "Concilia en forma gratuita y digital los reclamos de consumo, con plazo máximo de 60 días. Concilia en forma digital, gratuita y en 60 días (creado por «Ley de defensa de la competencia y del consumidor: autonomía de la Autoridad de la Competencia, conciliación previa nacional y préstamo responsable»).",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Comisión Nacional de Valores",
+    "estado": "existente",
+    "rol": "Dicta la resolución, autoriza en forma automática y controla después. Negociación de ECHEQ y pagarés en los mercados autorizados.",
+    "hoy": "CNV, organismo descentralizado del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Banco de la Nación Argentina",
+    "estado": "modificado",
+    "rol": "Mandato de crédito productivo de largo plazo a pymes, directorio por concurso, cartera publicada y prohibición de créditos a funcionarios; sigue autárquico.",
+    "hoy": "Banco de la Nación Argentina, entidad financiera pública autárquica (Ley 21.799); transformación en S.A. dispuesta por el Decreto 116/2025 y suspendida por cautelar",
+    "hijos": []
+   },
+   {
+    "nombre": "Fondo público de garantías",
+    "estado": "modificado",
+    "rol": "Prioriza garantías y reafianzamiento a créditos de inversión, con reglas de riesgo y capitalización acotada; protegido del art. 5 de la Ley 27.742.",
+    "hoy": "Fideicomiso de los arts. 8 a 13 de la Ley 25.300, con el BICE como fiduciario",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Producción y Comercio del Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Fija y publica las reglas de solvencia de las SGR.",
+    "hoy": "Subsecretaría de la Pequeña y Mediana Empresa (Secretaría de Industria, Comercio y de la PyME, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Finanzas",
+    "estado": "modificado",
+    "rol": "Integra el jurado del concurso, elabora el texto ordenado de la Carta Orgánica y ejerce los derechos del accionista en el BICE.",
+    "hoy": "Secretaría de Finanzas – Subsecretaría de Servicios Financieros (Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "Banco público de inversión",
+      "estado": "modificado",
+      "rol": "Objeto principal: préstamos de inversión y de financiación de exportaciones a 5 años o más; sigue como fiduciario del FoGAr.",
+      "hoy": "BICE S.A., ente del sector público financiero en el ámbito del Ministerio de Economía (Decreto 146/2026); fiduciario del FoGAr",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Banco de Inversión y Comercio Exterior S.A. (BICE)",
+    "estado": "modificado",
+    "rol": "Se especializa por reforma estatutaria en préstamos de inversión y exportación a 5 años o más y publica su cartera.",
+    "hoy": "BICE S.A., ente del sector público financiero en el ámbito del Ministerio de Economía (Decreto 146/2026); fiduciario del FoGAr",
+    "hijos": []
+   },
+   {
+    "nombre": "Banco público nacional",
+    "estado": "modificado",
+    "rol": "Mandato legal de crédito productivo de largo plazo a pymes; directorio por concurso; cartera trimestral publicada; prohibición de créditos a funcionarios; sigue entidad pública autárquica.",
+    "hoy": "Banco de la Nación Argentina, entidad financiera pública autárquica (Ley 21.799); transformación en S.A. dispuesta por el Decreto 116/2025, suspendida por cautelar",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital",
+    "estado": "existente",
+    "rol": "Asistencia técnica para el Servicio en TAD y Mi Argentina.",
+    "hoy": "Jefatura de Gabinete de Ministros – Secretaría de Innovación, Ciencia y Tecnología",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Interviene en el umbral de alto costo y dicta las normas de préstamo responsable para sus entidades."
+  },
+  {
+   "nombre": "Senado de la Nación",
+   "rol": "Presta acuerdo a los integrantes de la Autoridad de la Competencia."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Invitados a integrar sus conciliaciones a la ventanilla única federal."
+  },
+  {
+   "nombre": "Banco público provincial",
+   "rol": "Adopta el estándar de gobierno y transparencia del Banco Nación: concurso, cartera publicada y prohibición de créditos a funcionarios."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Aprueba adhesiones y Planes de Contrapartida, firma convenios de catálogos, selecciona auditores y aplica infracciones. Fija la escala de montos mínimos y la metodología del beneficio fiscal, aprueba adhesiones y migraciones, selecciona auditores y aplica infracciones.",
+    "hoy": "Ministerio de Economía (Decreto 749/2024), con el Comité Evaluador de Proyectos",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Producción y Comercio",
+      "estado": "modificado",
+      "rol": "Lleva el registro público único de oferta local y mide el contenido nacional. Lleva el registro de oferta local que define la base de la curva. Dicta la resolución y publica el registro único. Evalúa y da de alta a los proveedores por rubro y posición. Verifica la posición arancelaria de cada bien.",
+      "hoy": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Instituto Nacional de Tecnología Industrial (INTI)",
+      "estado": "modificado",
+      "rol": "Certifica técnicamente a los proveedores inscriptos (función nueva asignada por ley). Normas técnicas y certificación de la capacidad de los proveedores. Certifica capacidad y calidad de los proveedores y verifica en las impugnaciones.",
+      "hoy": "INTI",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero (ARCA)",
+      "estado": "existente",
+      "rol": "Aplica la exención limitada de importación y ejecuta la devolución de beneficios. Interviene en la metodología del beneficio fiscal, aplica la exención limitada y ejecuta la devolución. Consulta el registro a la fecha de cada importación.",
+      "hoy": "ARCA, ente autárquico en el ámbito del Ministerio de Economía",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Producción y Comercio del Ministerio de Economía",
+      "estado": "modificado",
+      "rol": "Diseña y ejecuta el Programa, fija metas por rubro y publica el costo de la preferencia pyme. Garantías a través de las SGR y del FoGAr.",
+      "hoy": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa (Ministerio de Economía), con la Subsecretaría de Industria y Economía del Conocimiento",
+      "hijos": []
+     },
+     {
+      "nombre": "Banco de Inversión y Comercio Exterior",
+      "estado": "existente",
+      "rol": "Presta capital de trabajo e inversión a proveedores calificados con recursos propios.",
+      "hoy": "Banco de Inversión y Comercio Exterior S.A. (BICE)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Auditor externo",
+    "estado": "nuevo",
+    "rol": "Verifican contrapartida y contenido nacional: primera auditoría a los 18 meses, luego anual. Verifican contrapartida y contenido nacional (18 meses y luego cada año) y publican sus informes.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Oficina Nacional de Contrataciones",
+    "estado": "existente",
+    "rol": "Aplica la preferencia en los procedimientos y publica cada adjudicación.",
+    "hoy": "Oficina Nacional de Contrataciones (Jefatura de Gabinete de Ministros)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Provincias y municipios",
+   "rol": "Elaboran los catálogos públicos de obras y aprueban cada Plan de Contrapartida."
+  }
+ ]
+}

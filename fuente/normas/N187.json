@@ -1,0 +1,151 @@
+{
+ "id": "N187",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de contrataciones abiertas y de publicación de los pagos y las cuentas del Estado nacional",
+ "sumilla": "Hace obligatorio por ley que cada compra se publique el día de su firma en una plataforma única con identificador por contratación, declara nulo lo no publicado, obliga a publicar cada pago, ingreso y saldo de cuenta, impide que la reglamentación amplíe las excepciones e invita a provincias y municipios a adherir.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "El Régimen de Contrataciones de la Administración Nacional ya reconoce la transparencia y la publicidad como principios, y la Ley N° 27.275 obliga a publicar el listado de contrataciones, las transferencias y la ejecución del presupuesto. Pero la información sigue fragmentada entre sistemas, se publica de manera incompleta o con demora, y gran parte solo se obtiene mediante pedidos individuales. Este proyecto convierte en ley la publicación que el Poder Ejecutivo dispuso por decreto al inicio de su gestión e invierte la carga: el Estado publica de oficio y en el día. Toda contratación nacional, incluida la obra pública, se gestiona en una plataforma única, con un identificador por compra, en el Estándar de Datos para las Contrataciones Abiertas; cada acto se publica el día de su firma y lo no publicado es nulo y no puede pagarse. La Tesorería y la Contaduría publican cada pago con su beneficiario, concepto e imputación, los ingresos y el saldo de cada cuenta pública. Las únicas excepciones son las que fija la ley, por seguridad, defensa y datos personales de quienes perciben salarios o prestaciones, y se publican en forma agregada, sin que una reglamentación pueda ampliarlas. Se invita a las provincias, a la Ciudad Autónoma de Buenos Aires y a los municipios a adoptar el mismo estándar.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y ámbito",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto garantizar que toda contratación, todo pago, todo ingreso y el saldo de toda cuenta del Estado nacional se publiquen de oficio, en internet, en formatos abiertos y en el día, para permitir el control de la sociedad sobre la gestión de los fondos públicos, con resguardo de los datos personales de los ciudadanos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "Las disposiciones de la presente ley se aplican a las jurisdicciones y entidades de la Administración Nacional comprendidas en el inciso a) del artículo 8° de la Ley N° 24.156 y sus modificatorias y, en lo que respecta a la transparencia activa, a todos los sujetos obligados enumerados en el artículo 7° de la Ley N° 27.275."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Modificaciones al Régimen de Contrataciones de la Administración Nacional (Decreto N° 1023/01)",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Transparencia y plataforma única",
+     "texto": "Sustitúyese el artículo 9° del Régimen de Contrataciones de la Administración Nacional aprobado por el Decreto N° 1023/01 y sus modificatorios, por el siguiente:\n«ARTÍCULO 9°.- TRANSPARENCIA. La contratación pública se desarrollará en todas sus etapas en un contexto de transparencia que se basará en la publicidad y difusión de las actuaciones emergentes de la aplicación de este régimen, la utilización de las tecnologías informáticas que permitan aumentar la eficiencia de los procesos y facilitar el acceso de la sociedad a la información relativa a la gestión del Estado en materia de contrataciones y en la participación real y efectiva de la comunidad, lo cual posibilitará el control social sobre las contrataciones públicas.\nTodas las contrataciones comprendidas en este régimen, incluidas las de obra pública, se gestionarán y publicarán en una plataforma electrónica única administrada por el Órgano Rector, de acceso libre y gratuito y sin registro previo. Cada contratación tendrá un identificador único que permita seguirla en todas sus etapas: necesidad, autorización, pliegos, consultas y circulares, ofertas, evaluación, impugnaciones, adjudicación, contrato u orden de compra, recepciones o certificados, pagos, penalidades y toda modificación, ampliación, prórroga, renegociación o rescisión.\nCada acto, documento o actuación de esas etapas se publicará en la plataforma el mismo día de su firma o emisión. La información se publicará en formatos abiertos, descargables y de libre reutilización, conforme al Estándar de Datos para las Contrataciones Abiertas o al que lo reemplace, con actualización diaria, y se replicará en el portal nacional de datos abiertos.\nEn las contrataciones directas, el acto que las encuadre en la causal de excepción, con su fundamentación y los antecedentes que la acreditan, se publicará en la plataforma junto con la convocatoria o invitación.\nLa plataforma permitirá comparar cada adjudicación con precios de referencia y emitirá alertas públicas automáticas, al menos, por sobreprecio, por fraccionamiento y por concentración o recurrencia de adjudicaciones en un mismo proveedor.\nAsimismo, teniendo como base el principio de transparencia, la apertura de las ofertas siempre se realizará en acto público, siendo ello también aplicable a las contrataciones públicas electrónicas.»"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Nulidad de lo no publicado",
+     "texto": "Sustitúyese el artículo 18 del Régimen de Contrataciones de la Administración Nacional aprobado por el Decreto N° 1023/01 y sus modificatorios, por el siguiente:\n«ARTÍCULO 18.- NULIDAD DE LO NO PUBLICADO. REVOCACIÓN DE LOS ACTOS ADMINISTRATIVOS DEL PROCEDIMIENTO DE CONTRATACIÓN. Los actos del procedimiento de contratación, los contratos, las órdenes de compra y sus modificaciones, ampliaciones, prórrogas y renegociaciones, así como los actos de su ejecución, no producirán efecto alguno mientras no se encuentren publicados en la plataforma prevista en el artículo 9°. Los que no se hubieran publicado el mismo día de su firma serán nulos de nulidad absoluta e insanable y no podrán dar origen a obligación de pago alguna a cargo del Estado nacional. Cuando el Órgano Rector certifique una interrupción del funcionamiento de la plataforma, el plazo se extenderá hasta el día hábil siguiente al de su restablecimiento.\nLa comprobación de que en un llamado a contratación se hubieran omitido los requisitos de publicidad y difusión previa, en los casos en que la norma lo exija, o formulado especificaciones o incluido cláusulas cuyo cumplimiento sólo fuera factible por determinado interesado u oferente, de manera que el mismo esté dirigido a favorecer situaciones particulares, dará lugar a la revocación inmediata del procedimiento, cualquiera fuere el estado de trámite en que se encuentre.\nEn todos los casos se iniciarán las actuaciones sumariales pertinentes, y los funcionarios que hubieran autorizado, aprobado, gestionado o pagado contrataciones no publicadas responderán conforme al régimen de responsabilidad de los funcionarios previsto en el presente.»"
+    },
+    {
+     "n": 5,
+     "epigrafe": "Publicidad y difusión",
+     "texto": "Sustitúyese el artículo 32 del Régimen de Contrataciones de la Administración Nacional aprobado por el Decreto N° 1023/01 y sus modificatorios, por el siguiente:\n«ARTÍCULO 32.- PUBLICIDAD Y DIFUSIÓN. La convocatoria a presentar ofertas en las licitaciones y concursos públicos que no se realicen en formato digital deberá efectuarse mediante la publicación de avisos en el órgano oficial de publicación de los actos de gobierno por el término de DOS (2) días, con un mínimo de VEINTE (20) días corridos de antelación a la fecha fijada para la apertura, computados a partir del día siguiente a la última publicación.\nEn los casos de contrataciones que por su importancia, complejidad u otras características lo hicieran necesario, deberán ampliarse los plazos de antelación fijados, en las condiciones que determine la reglamentación.\nCuando se trate de licitaciones o concursos internacionales, deberán disponerse las publicaciones pertinentes en países extranjeros, con una antelación que no será menor a CUARENTA (40) días corridos, en la forma y con las modalidades que establezca la reglamentación.\nLa invitación a presentar ofertas en las licitaciones y concursos privados deberá efectuarse con un mínimo de SIETE (7) días corridos de antelación a la fecha fijada para la apertura, en las condiciones que fije la reglamentación.\nTodas las convocatorias, cualquiera sea el procedimiento de selección que se utilice, se difundirán en la plataforma prevista en el artículo 9° desde el día en que se les comience a dar publicidad o se cursen invitaciones. Con el fin de cumplir el principio de transparencia, se publicarán en dicha plataforma, el mismo día de su firma o emisión, las convocatorias, los proyectos de pliegos sometidos a consideración pública, los pliegos de bases y condiciones, las circulares, el acta de apertura, las ofertas, los dictámenes de evaluación, las impugnaciones y su resolución, las adjudicaciones, las órdenes de compra y contratos, las recepciones, los pagos, las penalidades y sanciones, y toda modificación contractual.\nLas contrataciones directas encuadradas en el apartado 6 del inciso d) del artículo 25 quedan exceptuadas de la publicación individual de sus etapas; se publicarán en forma agregada, por jurisdicción y período, con indicación del monto total y del acto que declaró el secreto. Las encuadradas en los apartados 5, para los casos de emergencia, y 8 del mismo inciso quedan exceptuadas únicamente de la difusión previa de la convocatoria, y todas sus demás etapas se publicarán el mismo día de su firma.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Modificaciones a la Ley de Administración Financiera N° 24.156",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Publicidad de pagos, ingresos y cuentas",
+     "texto": "Incorpórase como artículo 84 bis de la Ley N° 24.156 y sus modificatorias, el siguiente:\n«ARTÍCULO 84 bis.- Publicidad de los pagos, los ingresos y las cuentas. La Tesorería General de la Nación, los servicios de tesorería de las jurisdicciones y entidades de la administración nacional y la Contaduría General de la Nación publicarán de oficio, en un portal público alimentado por el sistema integrado de información financiera, en formatos abiertos, descargables y de libre reutilización, a más tardar el día hábil siguiente al de su registro:\na) Cada pago, con la identificación del beneficiario (nombre o razón social y Clave Única de Identificación Tributaria), el concepto, el monto, la fecha, el medio de pago, la imputación presupuestaria hasta el último nivel de desagregación y, cuando corresponda, el identificador único de la contratación que le da origen;\nb) Los recursos percibidos, por concepto y por jurisdicción o entidad;\nc) Cada cuenta bancaria de titularidad de las jurisdicciones y entidades de la administración nacional, con su saldo diario.\nNo podrá efectuarse pago alguno que no se encuentre registrado en el sistema integrado de información financiera.\nSolo se exceptúan de la publicación individual la información declarada secreta o reservada por ley por razones de defensa o seguridad, y los datos personales de las personas humanas que perciban remuneraciones, haberes previsionales o prestaciones de la seguridad social o de asistencia social. Esa información se publicará en forma agregada por jurisdicción, programa y período, con indicación de la ley que funda la excepción. La reglamentación no podrá ampliar estas excepciones.»"
+    },
+    {
+     "n": 7,
+     "epigrafe": "Publicidad de la ejecución",
+     "texto": "Incorpórase como artículo 91 bis de la Ley N° 24.156 y sus modificatorias, el siguiente:\n«ARTÍCULO 91 bis.- Publicidad de la ejecución. La Contaduría General de la Nación publicará de oficio, con actualización diaria y en formatos abiertos, la ejecución presupuestaria de cada jurisdicción y entidad de la administración nacional en todas sus etapas, hasta el último nivel de desagregación en que se procese, y la información de los registros contables que permita vincular cada pago con su compromiso, su devengado y, en su caso, con la contratación que le dio origen. La información publicada conforme a este artículo y al artículo 84 bis se conservará en forma permanente y no podrá ser retirada ni alterada; las correcciones se publicarán como tales, con indicación de la fecha y del motivo.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Modificación a la Ley de Derecho de Acceso a la Información Pública N° 27.275",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Transparencia activa",
+     "texto": "Sustitúyese el artículo 32 de la Ley N° 27.275 y su modificatoria, por el siguiente:\n«ARTÍCULO 32.- Transparencia activa. Los sujetos obligados enumerados en el artículo 7° de la presente ley, con excepción de los indicados en sus incisos i) y q), deberán facilitar la búsqueda y el acceso a la información pública a través de su página oficial de la red informática, de una manera clara, estructurada y entendible para los interesados y procurando remover toda barrera que obstaculice o dificulte su reutilización por parte de terceros.\nAsimismo, los sujetos obligados deberán publicar de oficio, sin necesidad de solicitud previa, en forma completa, actualizada, por medios digitales y en formatos abiertos:\na) Un índice de la información pública que estuviese en su poder con el objeto de orientar a las personas en el ejercicio del derecho de acceso a la información pública, indicando, además, dónde y cómo deberá realizarse la solicitud;\nb) Su estructura orgánica y funciones;\nc) La nómina de autoridades y personal de la planta permanente y transitoria u otra modalidad de contratación, incluyendo consultores, pasantes y personal contratado en el marco de proyectos financiados por organismos multilaterales, detallando sus respectivas funciones y posición en el escalafón;\nd) Las escalas salariales, incluyendo todos los componentes y subcomponentes del salario total, correspondientes a todas las categorías de empleados, funcionarios, consultores, pasantes y contratados;\ne) El presupuesto asignado a cada área, programa o función, las modificaciones durante cada ejercicio anual y el estado de ejecución actualizado en forma diaria hasta el último nivel de desagregación en que se procese;\nf) Las transferencias de fondos provenientes o dirigidos a personas humanas o jurídicas, públicas o privadas, y sus beneficiarios, con actualización diaria;\ng) Todas las contrataciones públicas, licitaciones, concursos, obras públicas y adquisiciones de bienes y servicios, en todas sus etapas y con un identificador único por contratación, especificando objetivos, características, montos y proveedores, así como los socios y accionistas principales de las sociedades o empresas proveedoras, publicadas el mismo día de la firma de cada acto;\nh) Todo acto o resolución, de carácter general o particular, con su texto completo, publicado el mismo día de su firma, especialmente las normas que establecieran beneficios para el público en general o para un sector, las actas en las que constara la deliberación de un cuerpo colegiado, la versión taquigráfica y los dictámenes jurídicos y técnicos producidos antes de la decisión y que hubiesen servido de sustento o antecedente;\ni) Los informes de auditorías o evaluaciones, internas o externas, realizadas previamente, durante o posteriormente, referidas al propio organismo, sus programas, proyectos y actividades;\nj) Los permisos, concesiones y autorizaciones otorgados y sus titulares;\nk) Los servicios que brinda el organismo directamente al público, incluyendo normas, cartas y protocolos de atención al cliente;\nl) Todo mecanismo o procedimiento por medio del cual el público pueda presentar peticiones, acceder a la información o de alguna manera participar o incidir en la formulación de la política o el ejercicio de las facultades del sujeto obligado;\nm) Información sobre la autoridad competente para recibir las solicitudes de información pública y los procedimientos dispuestos por esta ley para interponer los reclamos ante la denegatoria;\nn) Un índice de trámites y procedimientos que se realicen ante el organismo, así como los requisitos y criterios de asignación para acceder a las prestaciones;\no) Mecanismos de presentación directa de solicitudes o denuncias a disposición del público en relación a acciones u omisiones del sujeto obligado;\np) Una guía que contenga información sobre sus sistemas de mantenimiento de documentos, los tipos y formas de información que obran en su poder y las categorías de información que publica;\nq) Las acordadas, resoluciones y sentencias que estén obligados a publicar de acuerdo con lo establecido en la ley 26.856;\nr) La información que responda a los requerimientos de información pública realizados con mayor frecuencia;\ns) Las declaraciones juradas de aquellos sujetos obligados a presentarlas en sus ámbitos de acción;\nt) Cada pago que efectúen, con beneficiario, concepto, monto e imputación presupuestaria, y cada cuenta bancaria de su titularidad con su saldo, a más tardar el día hábil siguiente al de su registro;\nu) Cualquier otra información que sea de utilidad o se considere relevante para el ejercicio del derecho de acceso a la información pública.\nEl acceso a todas las secciones del Boletín Oficial será libre y gratuito a través de Internet.\nLa información comprendida en este artículo solo podrá dejar de publicarse en forma individual cuando se configure alguna de las excepciones previstas en el artículo 8° de la presente ley o en otra ley; en tal caso se publicará en forma agregada, con indicación de la norma que funda la excepción. La reglamentación no podrá ampliar las excepciones ni restringir el alcance de la información pública definida en esta ley.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Control y continuidad",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Libre reutilización",
+     "texto": "La información publicada conforme a la presente ley es de libre acceso y reutilización por cualquier persona, sin registro previo, sin costo y sin necesidad de invocar interés. Su réplica, procesamiento y difusión por terceros no requieren autorización."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Conservación",
+     "texto": "Los datos publicados conforme a la presente ley se conservarán en forma permanente en los portales oficiales y en el portal nacional de datos abiertos. Ninguna autoridad podrá retirarlos, restringir su acceso ni reducir su nivel de detalle o su frecuencia de actualización."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Seguimiento",
+     "texto": "La Agencia de Acceso a la Información Pública publicará trimestralmente un informe de cumplimiento de la presente ley, por jurisdicción y entidad, que indique al menos el porcentaje del gasto en contrataciones publicado el día de la firma y el porcentaje del gasto total publicado con beneficiario y concepto al día hábil siguiente, y lo remitirá al Honorable Congreso de la Nación."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Auditoría externa",
+     "texto": "La Autoridad Nacional de Control y Transparencia podrá incluir en su programa de acción anual la auditoría del cumplimiento de las obligaciones de publicación establecidas en la presente ley y de la integridad de la información publicada."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Primacía sobre la reglamentación",
+     "texto": "Quedan sin efecto las disposiciones de la reglamentación de la Ley N° 27.275 aprobada por el Decreto N° 206/17 y sus modificatorios, incluidas las incorporadas por el Decreto N° 780/24, en cuanto se opongan a la presente ley o restrinjan la publicación de la información que ella ordena."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Otros poderes",
+     "texto": "Los Poderes Legislativo y Judicial de la Nación y el Ministerio Público adecuarán sus reglamentaciones de contrataciones y de administración financiera a los estándares de publicación de la presente ley dentro de los CIENTO OCHENTA (180) días de su entrada en vigencia."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Adhesión",
+     "texto": "Invítase a las provincias, a la Ciudad Autónoma de Buenos Aires y, por su intermedio, a los municipios, a adherir a la presente ley y a adoptar en sus respectivas jurisdicciones el mismo estándar de publicación de sus contrataciones, pagos, ingresos y cuentas. El Consejo Federal para la Transparencia creado por el artículo 29 de la Ley N° 27.275 será el ámbito de cooperación técnica para la adopción de formatos y estándares de datos comunes."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Financiamiento",
+     "texto": "La presente ley no autoriza gastos adicionales. Los costos de desarrollo y operación de la plataforma única y del portal de pagos se atenderán con los créditos asignados en el Presupuesto de la Administración Nacional a las jurisdicciones intervinientes, incluidos los destinados a modernización y sistemas de información."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su promulgación. La reglamentación no podrá ampliar las excepciones a la publicación previstas en la presente ley ni en las normas que modifica."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Vigencia y transición",
+     "texto": "La presente ley entrará en vigencia a los TREINTA (30) días de su publicación en el Boletín Oficial. La nulidad prevista en el artículo 18 del Régimen aprobado por el Decreto N° 1023/01, en el texto establecido por la presente, se aplicará a los actos firmados a partir de esa fecha. Los procedimientos y contratos en curso deberán publicar en la plataforma única la totalidad de sus actuaciones anteriores dentro de los NOVENTA (90) días de la entrada en vigencia, y no podrán efectuarse nuevos pagos hasta su publicación."
+    },
+    {
+     "n": 19,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 1023/2001, art. 9 (sustituido)",
+  "Decreto 1023/2001, art. 18 (sustituido)",
+  "Decreto 1023/2001, art. 32 (sustituido)",
+  "Ley 24.156, art. 84 bis (incorporado al Título IV)",
+  "Ley 24.156, art. 91 bis (incorporado al Título V)",
+  "Ley 27.275, art. 32 (sustituido)",
+  "Decreto 206/2017, texto según Decreto 780/2024 (sin efecto en lo que se oponga)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

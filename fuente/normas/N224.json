@@ -1,0 +1,145 @@
+{
+ "id": "N224",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de concursos y designación de magistrados con plazos y procedimientos públicos",
+ "sumilla": "Reforma la Ley 24.937 para fijar plazos máximos por etapa de los concursos, examen anónimo, entrevistas públicas y tablero de vacantes; eleva a ley la preselección pública de candidatos con plazos para el Ejecutivo y un mecanismo automático ante su demora; dispone concurso y mandato fijo para el Procurador General y limita las subrogancias.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Mayoría absoluta de la totalidad de los miembros de cada Cámara (art. 114 CN, ley especial del Consejo de la Magistratura); cámara de origen indistinta",
+ "motivos": "La independencia judicial requiere tribunales integrados por magistrados designados por mérito y en plazos razonables. Hoy una parte significativa de los cargos de la magistratura nacional está vacante y se cubre con subrogantes, y la Corte Suprema funciona con menos miembros de los que fija la Ley N° 26.183. La Ley N° 24.937 solo establece un plazo total desde la prueba de oposición hasta la terna; el resto del concurso depende del reglamento del propio Consejo. Este proyecto fija plazos máximos para cada etapa del concurso, consagra por ley el examen anónimo, las entrevistas públicas y grabadas y la publicación de los puntajes, y crea un tablero mensual de vacantes que muestra el atraso en cada instancia. Eleva a ley el procedimiento público de preselección de candidatos que hoy fijan los Decretos N° 222/2003 y N° 588/2003, con la etapa de observaciones ciudadanas, para que ningún gobierno pueda recortarlo por decreto, y agrega criterios de diversidad para la Corte. Fija plazos al Poder Ejecutivo y, si no envía el pliego a tiempo, se tiene por propuesto el primero de la terna. Respeta el acuerdo del Senado que exige la Constitución: para el Senado, solo publicidad del atraso. Dispone que el Procurador General surja de un concurso público, con mandato fijo, y acorta el plazo de las subrogancias.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley fija plazos máximos para cada etapa de los concursos de selección de magistrados del Consejo de la Magistratura de la Nación; establece por ley el procedimiento público de preselección de los candidatos que el Poder Ejecutivo nacional propone al Honorable Senado de la Nación, con plazos y un mecanismo automático ante la demora en enviar el pliego; dispone que el Procurador General de la Nación surja de un concurso público y tenga mandato fijo; y limita en el tiempo las subrogancias."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Concursos en el Consejo de la Magistratura (reforma de la Ley N° 24.937)",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Plazos máximos por etapa",
+     "texto": "Incorpórase como artículo 13 bis de la Ley N° 24.937 y sus modificatorias el siguiente: «Artículo 13 bis.- Plazos de los concursos. Sin perjuicio del plazo total previsto en el artículo 13, apartado C, desde la prueba de oposición hasta la elevación de la terna, cada concurso se ajustará a los siguientes plazos máximos, contados en días hábiles: a) convocatoria: treinta (30) días desde que el Consejo tome conocimiento de la vacante; b) inscripción: diez (10) días desde la publicación de la convocatoria; c) prueba de oposición: cuarenta (40) días desde el cierre de la inscripción; d) calificación de la prueba de oposición y evaluación de antecedentes: treinta (30) días desde la prueba; e) vista e impugnaciones: cinco (5) días desde la notificación de las calificaciones; f) entrevistas personales: veinte (20) días desde la resolución de las impugnaciones; g) dictamen de la Comisión de Selección y decisión del plenario sobre la terna: treinta (30) días desde la última entrevista. La prórroga del artículo 13, apartado C, solo podrá disponerse una vez por concurso y por resolución fundada del plenario, que se publicará.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Transparencia de los concursos",
+     "texto": "Incorpórase como artículo 13 ter de la Ley N° 24.937 y sus modificatorias el siguiente: «Artículo 13 ter.- Transparencia. La prueba de oposición será anónima: la identidad de cada concursante se mantendrá reservada hasta que se califiquen todas las pruebas. Las entrevistas personales serán públicas, se transmitirán en directo y se grabarán, y las grabaciones quedarán disponibles en el sitio oficial del Consejo. Los puntajes de cada concursante en cada etapa, el orden de mérito y los fundamentos de la terna se publicarán en ese sitio.»"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Tablero de vacantes",
+     "texto": "Incorpórase como artículo 13 quater de la Ley N° 24.937 y sus modificatorias el siguiente: «Artículo 13 quater.- Tablero de vacantes. El Consejo publicará cada mes, en formato abierto, el tablero de vacantes de la magistratura con: la fecha en que se produjo cada vacante; la etapa en que se encuentra su concurso y los días transcurridos; la fecha de elevación de la terna al Poder Ejecutivo; la fecha de remisión del pliego al Honorable Senado de la Nación y la de su tratamiento; y el atraso respecto de cada plazo legal o reglamentario. El Poder Ejecutivo nacional y el Honorable Senado de la Nación informarán al Consejo los datos que les correspondan.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Procedimiento de preselección y plazos del Poder Ejecutivo",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Ámbito",
+     "texto": "Este capítulo regula el procedimiento por el cual el Poder Ejecutivo nacional selecciona a los candidatos que propone al Honorable Senado de la Nación para cubrir los cargos de juez de la Corte Suprema de Justicia de la Nación, de magistrado de los tribunales inferiores de la Nación, de Procurador General de la Nación, de Defensor General de la Nación y de los demás magistrados del Ministerio Público cuyo nombramiento requiere el acuerdo del Senado."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Publicidad de los candidatos",
+     "texto": "La autoridad que designe el Poder Ejecutivo nacional publicará en el Boletín Oficial, en su sitio oficial y en al menos dos (2) diarios de circulación nacional, durante tres (3) días, el nombre y los antecedentes curriculares de cada candidato que se considere, junto con su declaración jurada patrimonial en los términos de la Ley N° 25.188, la nómina de las sociedades civiles y comerciales que integre o haya integrado en los últimos ocho (8) años, los estudios de abogados a los que haya pertenecido y la nómina de clientes o contratistas de los últimos ocho (8) años, con resguardo del secreto profesional. Para la Corte Suprema, la publicación se hará dentro de los treinta (30) días de producida la vacante. Para los demás cargos, dentro de los quince (15) días hábiles de recibida la terna."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Observaciones ciudadanas y pedidos de opinión",
+     "texto": "Dentro de los quince (15) días de la última publicación, los ciudadanos, las organizaciones no gubernamentales, los colegios y asociaciones profesionales, las entidades académicas y de derechos humanos podrán presentar por escrito y de modo fundado y documentado las posturas, observaciones y circunstancias que consideren de interés respecto de los candidatos. En el mismo plazo, la autoridad competente podrá requerir opinión a organizaciones de relevancia en el ámbito profesional, judicial, académico, social y de derechos humanos. El candidato podrá responder las observaciones. Todas las presentaciones y respuestas se publicarán."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Corte Suprema: audiencia pública y diversidad",
+     "texto": "Para los cargos de la Corte Suprema de Justicia de la Nación, vencido el plazo del artículo 7°, la autoridad competente celebrará una audiencia pública en la que cada candidato expondrá y responderá las observaciones recibidas. En la selección se procurará que la composición de la Corte refleje la diversidad de género, de procedencia regional y de especialidad jurídica, y el decreto que disponga la propuesta al Senado expresará cómo se atendieron esos criterios."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Plazos del Poder Ejecutivo",
+     "texto": "El Poder Ejecutivo nacional remitirá al Honorable Senado de la Nación el pliego del candidato que proponga: a) para la Corte Suprema de Justicia de la Nación, dentro de los treinta (30) días de celebrada la audiencia pública del artículo 8°; b) para los cargos que se cubren por terna, dentro de los sesenta (60) días hábiles de recibida la terna; c) para el Procurador General de la Nación, dentro de los treinta (30) días de vencido el plazo del artículo 7°."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Mecanismo automático ante la demora del Poder Ejecutivo",
+     "texto": "Si vencido el plazo del inciso b) del artículo 9° el Poder Ejecutivo nacional no hubiera remitido el pliego, se tendrá por propuesto al candidato que ocupe el primer lugar de la terna, y la autoridad competente remitirá su pliego al Honorable Senado de la Nación dentro de los cinco (5) días hábiles siguientes. La demora se publicará en el tablero de vacantes."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Tratamiento en el Senado",
+     "texto": "Se invita al Honorable Senado de la Nación a establecer en su reglamento un plazo máximo para pronunciarse sobre los pliegos de magistrados. El tablero de vacantes del artículo 13 quater de la Ley N° 24.937 publicará los días transcurridos desde la recepción de cada pliego y el atraso respecto de ese plazo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Procurador General de la Nación",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Designación por concurso y mandato fijo",
+     "texto": "Sustitúyese el artículo 11 de la Ley N° 27.148 Orgánica del Ministerio Público Fiscal por el siguiente: «Artículo 11.- Procurador General de la Nación. Designación. El Procurador General de la Nación es el jefe del Ministerio Público Fiscal de la Nación y es el responsable de su buen funcionamiento. Su autoridad se extiende a todo el territorio nacional.\nEl Procurador General de la Nación será designado por el Poder Ejecutivo nacional con acuerdo del Senado por dos tercios (2/3) de sus miembros presentes, entre los tres (3) candidatos mejor calificados en un concurso público de antecedentes y oposición, y conforme al procedimiento de publicidad y observaciones ciudadanas que establezca la ley. Para ser Procurador General de la Nación se requiere ser ciudadano argentino con título de abogado de validez nacional, con ocho (8) años de ejercicio, y reunir las demás calidades exigidas para ser senador nacional.\nEl concurso será convocado por la autoridad del Poder Ejecutivo nacional que designe el decreto reglamentario, dentro de los treinta (30) días de producida la vacante, y sustanciado por un jurado de cinco (5) profesores titulares regulares de derecho de universidades nacionales, sorteados en acto público. El Procurador General durará cinco (5) años en sus funciones y podrá ser designado por un único período más, previo nuevo concurso. Solo podrá ser removido por las causales y mediante el procedimiento previstos en el artículo 76 de esta ley.\nLa Procuración General de la Nación es la sede de actuación del Procurador General de la Nación.»"
+    },
+    {
+     "n": 13,
+     "epigrafe": "Cobertura de la Procuración General",
+     "texto": "Si a la fecha de entrada en vigencia de la presente ley la Procuración General de la Nación no tuviera titular designado con acuerdo del Senado, el concurso previsto en el artículo 11 de la Ley N° 27.148 se convocará dentro de los treinta (30) días de esa fecha."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Subrogancias (reforma de la Ley N° 27.439)",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Plazo máximo de las subrogancias",
+     "texto": "Sustitúyese el artículo 13 de la Ley N° 27.439 por el siguiente: «Artículo 13.- Los jueces subrogantes permanecerán en el cargo hasta el cese de la causal que generó su designación o hasta que asuma el titular del cargo. En ningún caso la subrogancia, ni las demás designaciones transitorias para cubrir cargos vacantes de magistrados, podrán exceder el plazo de seis (6) meses contados desde la designación, prorrogable por única vez por otros seis (6) meses mediante resolución fundada que acredite la causa de la prórroga, a cuyo vencimiento se producirá la caducidad de pleno derecho de aquélla y serán inválidas las actuaciones que se realizaren con posterioridad, sin perjuicio de las sanciones administrativas o penales que pudieren corresponder.\nLas cámaras deberán informar bimestralmente al Consejo de la Magistratura la situación de subrogancia de sus respectivas jurisdicciones.\nEn el supuesto de que la causal que generó la licencia, suspensión, vacancia, remoción u otro impedimento de un magistrado sea definitiva, la cámara deberá comunicar tal situación dentro de los tres (3) días de producida la vacante al Consejo de la Magistratura, a fin de dar cumplimiento al procedimiento de selección y designación definitiva en los términos del artículo 99, inciso 4, de la Constitución Nacional.\nLa vigencia de la función del juez subrogante de un tribunal oral podrá extenderse exclusivamente en aquellas causas en que ya hubiere sido sorteado al momento de operarse la caducidad del nombramiento, al solo efecto de resolverlas y hasta tanto se dicte la sentencia definitiva.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Procedimientos vigentes",
+     "texto": "Las disposiciones del Capítulo III sustituyen los procedimientos de los Decretos N° 222/2003 y N° 588/2003 y sus modificatorios, incluido el Decreto N° 467/2026, que se derogan a partir de la entrada en vigencia de la reglamentación de la presente ley."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Concursos en trámite",
+     "texto": "Los plazos del artículo 13 bis de la Ley N° 24.937 se aplicarán a las etapas de los concursos en trámite que no hayan comenzado a la fecha de entrada en vigencia de la presente ley. El Consejo de la Magistratura adecuará su reglamento de concursos dentro de los sesenta (60) días de esa fecha."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Financiamiento y reglamentación",
+     "texto": "La aplicación de la presente ley se atenderá con los créditos asignados al Consejo de la Magistratura y al Ministerio de Justicia y Seguridad en la Ley de Presupuesto del ejercicio, y no autoriza gastos adicionales. El Poder Ejecutivo nacional reglamentará el Capítulo III y la convocatoria del concurso previsto en el artículo 11 de la Ley N° 27.148, en el texto del artículo 12 de la presente ley, dentro de los sesenta (60) días de la promulgación."
+    },
+    {
+     "n": 18,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 24.937, arts. 13 bis, 13 ter y 13 quater (incorporados)",
+  "Ley 27.148, art. 11 (sustituido)",
+  "Ley 27.439, art. 13 (sustituido)"
+ ],
+ "deroga": [
+  "Decreto 222/2003 y sus modificatorios (desde la reglamentación)",
+  "Decreto 588/2003 y sus modificatorios, incluido el Decreto 467/2026 (desde la reglamentación)"
+ ],
+ "variantes": null
+}

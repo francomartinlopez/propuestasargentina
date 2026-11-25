@@ -1,0 +1,125 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Jefatura de Gabinete",
+    "estado": "modificado",
+    "rol": "Adecúa la distribución administrativa; pierde la facultad de reducir las partidas protegidas y ampliar gastos reservados.",
+    "hoy": "Jefatura de Gabinete de Ministros",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Ambiente",
+      "estado": "modificado",
+      "rol": "Transfiere el Fondo de Bosques en cuotas trimestrales y publica cada giro y la rendición de las provincias.",
+      "hoy": "Subsecretaría de Ambiente, Secretaría de Turismo, Ambiente y Deportes (Vicejefatura de Gabinete, JGM)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Inteligencia de Estado (SIDE)",
+    "estado": "modificado",
+    "rol": "Misión acotada; pierde la aprehensión, el carácter encubierto general y la inteligencia por fuga de información; lleva el registro de cada operación",
+    "hoy": "Secretaría de Inteligencia de Estado (Presidencia de la Nación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia Nacional de Contrainteligencia y Agencia Federal de Ciberinteligencia",
+    "estado": "modificado",
+    "rol": "Mandato expreso de detectar operaciones extranjeras y software espía; informe reservado semestral a la Bicameral",
+    "hoy": "Agencia Nacional de Contrainteligencia y Agencia Federal de Ciberinteligencia (órganos de la SIDE)",
+    "hijos": []
+   },
+   {
+    "nombre": "Servicio de Inteligencia Argentino e Inspectoría General de Inteligencia",
+    "estado": "modificado",
+    "rol": "Sujetos a la misión acotada, al registro de operaciones y a la auditoría posterior",
+    "hoy": "Órganos de la SIDE",
+    "hijos": []
+   },
+   {
+    "nombre": "Control interno de inteligencia",
+    "estado": "modificado",
+    "rol": "Colabora con el Auditor. Verifica la integridad del registro y colabora con el Auditor General.",
+    "hoy": "Inspectoría General de Inteligencia (órgano de la SIDE)",
+    "hijos": []
+   },
+   {
+    "nombre": "Organismo central de inteligencia",
+    "estado": "modificado",
+    "rol": "Misión acotada; sin aprehensión ni encubrimiento general ni inteligencia por fuga de información; registro de cada operación. Lleva el registro de operaciones, rinde los gastos reservados ante la Bicameral y entrega los acuerdos con servicios extranjeros.",
+    "hoy": "Secretaría de Inteligencia de Estado (Presidencia de la Nación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Contrainteligencia",
+    "estado": "modificado",
+    "rol": "Detecta espionaje, influencia y software espía extranjeros; informe reservado semestral a la Bicameral",
+    "hoy": "Agencia Nacional de Contrainteligencia (órgano de la SIDE)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ciberinteligencia",
+    "estado": "modificado",
+    "rol": "Ídem, en el ámbito digital",
+    "hoy": "Agencia Federal de Ciberinteligencia (órgano de la SIDE)",
+    "hijos": []
+   },
+   {
+    "nombre": "Registro parlamentario reservado",
+    "estado": "nuevo",
+    "rol": "Recibe completo todo acuerdo con servicios extranjeros en 10 días; sin inscripción no se ejecuta",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Cancillería",
+    "estado": "modificado",
+    "rol": "Entrega a la Comisión los acuerdos de cooperación que celebre con servicios extranjeros",
+    "hoy": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "hijos": []
+   },
+   {
+    "nombre": "Inteligencia criminal y militar",
+    "estado": "modificado",
+    "rol": "Mismas obligaciones de registro, rendición y entrega de acuerdos.",
+    "hoy": "Dirección Nacional de Inteligencia Criminal (DNIC) y Dirección General de Inteligencia del Estado Mayor Conjunto de las Fuerzas Armadas (DGIEMCO)",
+    "hijos": []
+   },
+   {
+    "nombre": "Órgano rector presupuestario",
+    "estado": "modificado",
+    "rol": "Controla el tope del 10 % al formular el presupuesto y registra el reintegro de fondos reservados no usados.",
+    "hoy": "Secretaría de Hacienda (Ministerio de Economía)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comisión Bicameral de Fiscalización de los Organismos y Actividades de Inteligencia",
+   "rol": "Acceso pleno a operaciones y gastos; lleva el Registro de Acuerdos con Servicios Extranjeros con poder de objeción; elige al Auditor"
+  },
+  {
+   "nombre": "Auditor General de Inteligencia",
+   "rol": "Revisa cada operación al terminar, con acceso pleno; operativo desde 2029, Fase II"
+  },
+  {
+   "nombre": "Oficina judicial de escuchas",
+   "rol": "Única vía de interceptación, con orden judicial y registro de cada una"
+  },
+  {
+   "nombre": "Auditoría independiente de inteligencia",
+   "rol": "Revisa cada operación concluida (legalidad, misión, orden judicial, fondos); informes reservados a la Bicameral e informe anual agregado"
+  },
+  {
+   "nombre": "Comisión de control parlamentario de inteligencia",
+   "rol": "Elige y remueve al Auditor por dos tercios"
+  }
+ ]
+}

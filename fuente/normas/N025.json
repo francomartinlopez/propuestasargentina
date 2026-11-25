@@ -1,0 +1,213 @@
+{
+ "id": "N025",
+ "tipo": "ley_nacional",
+ "titulo": "Ley del Sistema Estadístico Nacional y del Instituto Nacional de Estadística y Censos autárquico",
+ "sumilla": "Reemplaza la Ley 17.622: el INDEC pasa a ser ente autárquico fuera del Ministerio de Economía, con director por concurso, acuerdo del Senado y mandato de seis años, presupuesto plurianual, metodologías públicas con dictamen previo de un Consejo Académico de Estadística (universidades nacionales y CONICET), calendario obligatorio y revisión externa.",
+ "cuando": "Días 8-30",
+ "cuando_breve": "Días 8-30",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "Entre 2007 y 2016 la Argentina no tuvo un índice de precios nacional confiable, y para reconstruir la serie de esos años deben usarse los índices de San Luis y de la Ciudad Autónoma de Buenos Aires. La recuperación posterior del INDEC descansó en decisiones de gestión, no en garantías legales: el Instituto sigue siendo un organismo desconcentrado del Ministerio de Economía, regido por la Ley 17.622 de 1968. Además, el índice de precios al consumidor todavía pondera los gastos con la encuesta de 2004/05. El presente proyecto reemplaza aquella ley. El INDEC pasa a ser un ente autárquico, no sujeto a instrucciones del Poder Ejecutivo en sus metodologías y publicaciones, con un director elegido por concurso público, designado con acuerdo del Senado por seis años, un plazo más largo que el mandato presidencial, y removible solo por causas graves. Su presupuesto es plurianual y no puede reducirse por decisiones administrativas. Las metodologías se publican, y todo cambio se anuncia con anticipación y cuenta con el dictamen previo de un Consejo Académico de Estadística integrado por universidades nacionales y el CONICET. El calendario de publicación es obligatorio, el acceso a los datos es simultáneo para todos y la calidad se somete a revisión externa. La ley conserva el secreto estadístico y la obligación de informar, y ordena relevar una nueva encuesta de gastos de los hogares.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto, principios y Sistema Estadístico Nacional",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley regula el Sistema Estadístico Nacional y el Instituto Nacional de Estadística y Censos (INDEC), al que otorga el carácter de ente autárquico, y establece las garantías de independencia, calidad y publicidad de la estadística pública."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Principios",
+     "texto": "La estadística pública se rige por los principios de independencia profesional, imparcialidad, objetividad, transparencia metodológica, secreto estadístico, puntualidad conforme a un calendario público e igualdad de acceso de todos los usuarios a la información."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Sistema Estadístico Nacional",
+     "texto": "El Sistema Estadístico Nacional está integrado por:\na) el INDEC, que es su órgano rector;\nb) los servicios estadísticos de los organismos de la Administración Pública Nacional, centralizada y descentralizada, y de las demás entidades del Sector Público Nacional;\nc) los organismos de estadística de las provincias, de la Ciudad Autónoma de Buenos Aires y de los municipios que se incorporen mediante convenio con el INDEC.\nLos integrantes del Sistema aplicarán las normas técnicas, metodologías y nomenclaturas que fije el INDEC."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Naturaleza y funciones del INDEC",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Naturaleza",
+     "texto": "El INDEC es un ente autárquico del Estado nacional, con personalidad jurídica propia y autarquía técnica, administrativa y financiera, y capacidad para actuar en el ámbito del derecho público y privado. No está sujeto a instrucciones del Poder Ejecutivo nacional en la determinación de sus programas, metodologías, contenidos, plazos y formas de difusión. Se vincula con el Poder Ejecutivo nacional por intermedio de la Jefatura de Gabinete de Ministros a los solos efectos presupuestarios y de comunicación institucional. Tiene su sede en la Ciudad Autónoma de Buenos Aires."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Funciones",
+     "texto": "Son funciones del INDEC:\na) planificar, coordinar y normalizar la actividad del Sistema Estadístico Nacional;\nb) elaborar el programa anual y el programa plurianual de estadísticas oficiales;\nc) producir y difundir las estadísticas oficiales a su cargo, incluidos los índices de precios, las cuentas nacionales, las estadísticas de empleo, pobreza y distribución del ingreso, y las del sector externo;\nd) organizar y ejecutar los censos nacionales y las encuestas nacionales de hogares y de gastos de los hogares;\ne) definir, publicar y revisar las metodologías, clasificaciones y nomenclaturas estadísticas;\nf) construir las series necesarias para el seguimiento de las políticas públicas, entre ellas las de patrimonio, informalidad, productividad y eficacia del gasto público;\ng) celebrar convenios con organismos nacionales, provinciales, municipales, universidades y organismos internacionales;\nh) representar al Estado nacional ante los organismos internacionales en materia estadística."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Dirección del INDEC",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Director",
+     "texto": "El INDEC será dirigido por un Director, que ejercerá su representación legal y su administración. Para ser Director se requiere ser argentino, poseer título universitario y acreditar idoneidad y trayectoria en estadística, economía o disciplinas afines."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Concurso",
+     "texto": "El Director será seleccionado por concurso público y abierto de antecedentes y oposición. El concurso será sustanciado por un jurado de cinco (5) miembros de reconocida trayectoria en estadística o economía, designados por el Consejo Académico de Estadística, que no podrán desempeñar cargos en el Poder Ejecutivo nacional. El jurado elevará una terna, por orden de mérito y con dictamen fundado y público, al Poder Ejecutivo nacional."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Designación y mandato",
+     "texto": "El Poder Ejecutivo nacional designará al Director entre los integrantes de la terna, con acuerdo del Honorable Senado de la Nación. El Director durará seis (6) años en su cargo y podrá ser designado por un nuevo período, por única vez, previo nuevo concurso."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Incompatibilidades",
+     "texto": "El cargo de Director es de dedicación exclusiva e incompatible con toda otra función pública o privada, salvo la docencia y la investigación, y con el desempeño de cargos partidarios. Rige para el Director el régimen de ética en el ejercicio de la función pública."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Remoción",
+     "texto": "El Director solo podrá ser removido por mal desempeño, por la comisión de un delito doloso o por incapacidad sobreviniente. La remoción será dispuesta por el Poder Ejecutivo nacional, previo descargo del afectado, con acuerdo del Honorable Senado de la Nación."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Atribuciones del Director",
+     "texto": "Son atribuciones del Director:\na) dirigir el INDEC y el Sistema Estadístico Nacional;\nb) aprobar los programas estadísticos, las metodologías y el calendario de publicación;\nc) elaborar el proyecto de presupuesto plurianual del INDEC;\nd) designar y remover al personal conforme al régimen aplicable;\ne) designar, entre el personal de carrera, al funcionario que lo reemplazará en caso de ausencia o impedimento transitorio;\nf) celebrar convenios y contratos;\ng) dictar las normas internas necesarias para el funcionamiento del INDEC."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Consejo Académico de Estadística",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Creación e integración",
+     "texto": "Créase el Consejo Académico de Estadística, integrado por siete (7) miembros de reconocida trayectoria académica en estadística, economía, demografía o disciplinas afines: cinco (5) designados por el Consejo Interuniversitario Nacional entre docentes e investigadores de universidades nacionales y dos (2) designados por el Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) entre sus investigadores. Los miembros durarán cuatro (4) años en sus funciones, ejercerán el cargo con carácter honorario y elegirán a su presidente."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Funciones del Consejo",
+     "texto": "Son funciones del Consejo Académico de Estadística:\na) dictaminar, con carácter previo y obligatorio, sobre todo cambio de metodología de las estadísticas oficiales;\nb) designar al jurado del concurso del Director;\nc) emitir opinión sobre el programa plurianual de estadísticas y sobre los informes de revisión externa;\nd) formular recomendaciones sobre la calidad de la estadística pública."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Dictamen",
+     "texto": "El Consejo emitirá su dictamen dentro de los sesenta (60) días de recibida la propuesta de cambio metodológico. El dictamen es público y no vinculante; si el INDEC se aparta de él, lo fundará expresamente. Vencido el plazo sin dictamen, el INDEC podrá continuar el procedimiento. El INDEC proveerá al Consejo el apoyo administrativo necesario."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Metodología, calendario y revisión externa",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Metodologías",
+     "texto": "Las metodologías, fuentes, clasificaciones y procedimientos de cada estadística oficial se publicarán en forma completa. Todo cambio de metodología se anunciará con una anticipación no menor de tres (3) meses a su aplicación, junto con el dictamen del Consejo Académico de Estadística y, cuando corresponda, con series empalmadas que permitan la comparación."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Calendario obligatorio",
+     "texto": "El INDEC publicará, antes del inicio de cada año, el calendario de difusión de todas las estadísticas oficiales de ese año, con fecha y hora. El calendario es obligatorio. Solo podrá modificarse por causas técnicas fundadas, mediante resolución del Director publicada con antelación a la fecha afectada."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Igualdad de acceso",
+     "texto": "Las estadísticas oficiales se difundirán en forma simultánea para todos los usuarios. Ninguna autoridad ni persona ajena al INDEC podrá acceder a ellas antes de su publicación."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Revisión externa",
+     "texto": "El INDEC someterá la calidad de sus estadísticas a una revisión externa de un organismo internacional, según normas internacionales de difusión de datos, al menos una vez durante cada período de mandato del Director. El informe de revisión se publicará en forma íntegra junto con la respuesta del INDEC."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Secreto estadístico y obligación de informar",
+   "articulos": [
+    {
+     "n": 19,
+     "epigrafe": "Secreto estadístico",
+     "texto": "Los datos individuales que el INDEC y los integrantes del Sistema Estadístico Nacional obtengan con fines estadísticos son secretos. Solo podrán difundirse en compilaciones de conjunto, de modo que no pueda individualizarse a las personas humanas o jurídicas a quienes se refieren, y no podrán utilizarse con fines fiscales, judiciales, policiales ni de otra naturaleza ajena a la estadística. El personal que acceda a ellos está obligado a guardar el secreto aun después de cesar en sus funciones."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Obligación de suministrar información",
+     "texto": "Las personas humanas y jurídicas, públicas y privadas, están obligadas a suministrar en tiempo y forma los datos que les requieran el INDEC y los integrantes del Sistema Estadístico Nacional para la elaboración de las estadísticas oficiales y los censos, y a responder con veracidad."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Sanciones",
+     "texto": "La negativa a suministrar los datos, su falseamiento o su entrega fuera de plazo serán sancionados por el INDEC, previo sumario que garantice el derecho de defensa, con multa de uno (1) a cien (100) salarios mínimos, vitales y móviles, graduada según la gravedad de la infracción y la reincidencia. La violación del secreto estadístico por el personal del Sistema Estadístico Nacional constituye falta grave, sin perjuicio de la responsabilidad penal prevista en los artículos 156 y 157 del Código Penal. Las resoluciones que impongan multas serán recurribles ante la justicia en lo contencioso administrativo federal."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VII – Recursos, presupuesto y personal",
+   "articulos": [
+    {
+     "n": 22,
+     "epigrafe": "Recursos",
+     "texto": "Son recursos del INDEC:\na) los créditos que le asigne la ley de presupuesto;\nb) los ingresos por servicios, publicaciones y trabajos especiales;\nc) los aportes que reciba por convenios con organismos nacionales, provinciales, municipales e internacionales;\nd) las donaciones y legados que acepte;\ne) el producido de las multas previstas en la presente ley."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Presupuesto plurianual",
+     "texto": "El INDEC elaborará un proyecto de presupuesto plurianual de tres (3) ejercicios, que el Poder Ejecutivo nacional incluirá sin modificaciones en el proyecto de ley de presupuesto, acompañado, en su caso, de sus observaciones por separado. Los créditos del INDEC no podrán reducirse mediante las reestructuraciones previstas en el artículo 37 de la Ley N° 24.156 ni mediante decisiones administrativas. Hasta la aprobación de su primer presupuesto propio, el INDEC se financiará con los créditos que tiene asignados en el presupuesto vigente, que se le transfieren por la presente ley, sin incremento del gasto total."
+    },
+    {
+     "n": 24,
+     "epigrafe": "Personal",
+     "texto": "El personal del INDEC conserva su situación de revista, su remuneración y los derechos adquiridos. El ingreso al INDEC se hará por concurso público."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VIII – Disposiciones transitorias y finales",
+   "articulos": [
+    {
+     "n": 25,
+     "epigrafe": "Continuidad",
+     "texto": "El INDEC regido por la presente ley es continuador del organismo hoy existente con esa denominación y lo sucede en sus derechos y obligaciones, bienes, créditos presupuestarios, personal, convenios y archivos. El Poder Ejecutivo nacional adecuará las normas de estructura de la Administración Pública Nacional para excluir al INDEC del ámbito del ministerio del que hoy depende."
+    },
+    {
+     "n": 26,
+     "epigrafe": "Director en ejercicio",
+     "texto": "El Director en ejercicio a la fecha de entrada en vigencia de la presente ley continuará en funciones hasta la designación del Director conforme al Capítulo III. El Consejo Académico de Estadística se integrará dentro de los sesenta (60) días de esa fecha, y el concurso del Director se convocará dentro de los ciento veinte (120) días."
+    },
+    {
+     "n": 27,
+     "epigrafe": "Encuesta de gastos e índice de precios",
+     "texto": "El INDEC relevará una nueva Encuesta Nacional de Gastos de los Hogares en los dos (2) años siguientes a la entrada en vigencia de la presente ley y publicará, en el tercer año, el índice de precios al consumidor con las ponderaciones que surjan de ella, previo dictamen del Consejo Académico de Estadística. Los costos se atenderán con los créditos del INDEC."
+    },
+    {
+     "n": 28,
+     "epigrafe": "Derogación",
+     "texto": "Derógase la Ley N° 17.622 y sus modificatorias. El Decreto N° 3110/70 y sus modificatorios mantendrán su vigencia en lo que no se opongan a la presente ley hasta la entrada en vigencia de su reglamentación."
+    },
+    {
+     "n": 29,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación, previa consulta al INDEC."
+    },
+    {
+     "n": 30,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 50/2019, Anexo III, apartado IX (texto Decreto 146/2026): el PEN debe excluir al INDEC del Ministerio de Economía"
+ ],
+ "deroga": [
+  "Ley 17.622 y modificatorias",
+  "Decreto 3110/1970 (vigencia transitoria hasta la nueva reglamentación, «Decreto reglamentario de la Ley del Sistema Estadístico Nacional y del Instituto Nacional de Estadística y Censos»)"
+ ],
+ "variantes": null
+}

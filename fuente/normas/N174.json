@@ -1,0 +1,78 @@
+{
+ "id": "N174",
+ "tipo": "resolucion",
+ "titulo": "Resolución del Consejo Federal de Educación: inteligencia artificial en los Núcleos de Aprendizajes Prioritarios y prioridades curriculares",
+ "sumilla": "Incorpora la inteligencia artificial a los NAP de Educación Digital, Programación y Robótica (Res. CFE 343/2018), con una comisión técnica que redacta los núcleos actualizados, y acuerda priorizar matemática, lengua, idiomas e informática en las currículas.",
+ "cuando": "Días 31-60 (Asamblea del CFE antes del ciclo lectivo); núcleos actualizados en el año 1",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Resolución de la Asamblea del Consejo Federal de Educación (Ley 26.206, arts. 116 y 118); no pasa por el Congreso.",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley de Educación Nacional N° 26.206, las Resoluciones CFE N° 343/2018 y N° 495/2025, y",
+ "considerando": [
+  "Que el artículo 85 de la Ley N° 26.206 dispone que el Ministerio nacional, en acuerdo con el Consejo Federal de Educación, definirá estructuras y contenidos curriculares comunes y núcleos de aprendizaje prioritarios en todos los niveles y años de la escolaridad obligatoria.",
+  "Que por la Resolución CFE N° 343/2018 se aprobaron los Núcleos de Aprendizajes Prioritarios de Educación Digital, Programación y Robótica.",
+  "Que la difusión de las herramientas de inteligencia artificial modifica las capacidades que requieren el estudio, el trabajo y la vida ciudadana, y hace necesario que la escuela enseñe a comprenderlas y a usarlas en forma crítica y responsable.",
+  "Que por la Resolución CFE N° 495/2025 este Consejo creó el Observatorio de Inteligencia Artificial, cuya asistencia resulta pertinente para la actualización de los núcleos.",
+  "Que la formación en matemática, lengua, idiomas e informática y el pensamiento crítico constituyen la base que permite aprovechar esas herramientas y no depender de ellas.",
+  "Que el artículo 118 de la Ley N° 26.206 faculta a esta Asamblea a otorgar carácter obligatorio a sus resoluciones.",
+  "Que la presente medida se adopta con el voto afirmativo de los integrantes de esta Asamblea, según consta en el acta, cuya votación ha sido certificada por la Secretaría General."
+ ],
+ "formula": "Por ello,\nLA ASAMBLEA DEL CONSEJO FEDERAL DE EDUCACIÓN\nRESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Inteligencia artificial en los Núcleos de Aprendizajes Prioritarios",
+     "texto": "Apruébase la incorporación de la inteligencia artificial a los Núcleos de Aprendizajes Prioritarios de Educación Digital, Programación y Robótica aprobados por la Resolución CFE N° 343/2018, para todos los niveles y modalidades comprendidos en ella."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ejes de la actualización",
+     "texto": "La actualización de los núcleos comprenderá, al menos, los siguientes ejes, con la progresión que corresponda a cada nivel: a) nociones básicas sobre qué es y cómo funciona la inteligencia artificial; b) uso crítico, seguro y responsable de herramientas de inteligencia artificial en el aprendizaje; c) datos, privacidad y sesgos; d) verificación de fuentes y de la información producida por estas herramientas; y e) resolución de problemas y producción de proyectos con apoyo de la inteligencia artificial."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Comisión técnica",
+     "texto": "Créase una comisión técnica federal, integrada por representantes de la Secretaría de Educación del Ministerio de Educación, Ciencia y Cultura de la Nación y de las jurisdicciones que lo soliciten, que elaborará, en el plazo de ciento veinte (120) días, el documento de núcleos actualizados para su aprobación por esta Asamblea. La comisión contará con la asistencia del Observatorio de Inteligencia Artificial creado por la Resolución CFE N° 495/2025."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Prioridades curriculares",
+     "texto": "Acuérdase que las jurisdicciones darán prioridad en sus diseños curriculares de la educación primaria y secundaria a matemática, lengua, idiomas extranjeros e informática, con el pensamiento crítico como capacidad transversal. La Secretaría de Educación de la Nación presentará a esta Asamblea, dentro de los ciento ochenta (180) días, una propuesta de metas de aprendizaje por nivel en esas áreas."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Adecuación jurisdiccional",
+     "texto": "Las jurisdicciones adecuarán sus diseños curriculares a los núcleos actualizados dentro del ciclo lectivo siguiente al de su aprobación."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Plazo",
+     "texto": "Los núcleos actualizados deberán aprobarse antes del 10 de diciembre de 2028."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Seguimiento",
+     "texto": "La Secretaría de Educación de la Nación informará a esta Asamblea, una vez por año, el avance de la adecuación curricular en cada jurisdicción y lo publicará en su sitio oficial."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Carácter",
+     "texto": "La presente resolución es de cumplimiento obligatorio en los términos del artículo 118 de la Ley de Educación Nacional N° 26.206."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Comunicación",
+     "texto": "Regístrese, comuníquese, notifíquese a los integrantes del CONSEJO FEDERAL DE EDUCACIÓN y, cumplido, archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Resolución CFE 343/2018 (actualiza sus núcleos)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,125 @@
+{
+ "id": "N194",
+ "tipo": "decreto",
+ "titulo": "Reglamentación de la Ley de Transparencia de las Plataformas Digitales y de Protección de los Contenidos Lícitos",
+ "sumilla": "Reglamenta la ley «Ley de Transparencia de las Plataformas Digitales y de Protección de los Contenidos Lícitos»: fija cómo se mide quién es gran plataforma, el contenido y los plazos de los informes semestrales y del registro de requerimientos estatales, el procedimiento de acreditación y acceso de investigadores y el funcionamiento de la Unidad de Transparencia de Plataformas de la AAIP.",
+ "cuando": "Fase I (dentro de los 120 días de la promulgación de la ley «Ley de Transparencia de las Plataformas Digitales y de Protección de los Contenidos Lícitos»)",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica (decreto reglamentario, art. 99, inc. 2, de la Constitución Nacional)",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley N° [—] de Transparencia de las Plataformas Digitales y de Protección de los Contenidos Lícitos, la Ley de Derecho de Acceso a la Información Pública N° 27.275 y su modificatoria, la Ley N° 26.032, la Ley N° 26.215 de Financiamiento de los Partidos Políticos y sus modificatorias, y",
+ "considerando": [
+  "Que la Ley N° [—] de Transparencia de las Plataformas Digitales y de Protección de los Contenidos Lícitos impone a las grandes plataformas digitales obligaciones exclusivamente de transparencia sobre la recomendación, la moderación y la publicidad política paga de los contenidos, y prohíbe a todo órgano del Poder Ejecutivo nacional ordenar, requerir, solicitar o sugerir la baja de contenidos lícitos.",
+  "Que el artículo 12 de esa ley designa autoridad de aplicación a la Agencia de Acceso a la Información Pública y crea en su ámbito la Unidad de Transparencia de Plataformas, que no puede evaluar la licitud de contenidos ni disponer su eliminación, bloqueo o restricción.",
+  "Que corresponde reglamentar el método de medición de los usuarios activos que define a una gran plataforma, el contenido mínimo y los plazos de los informes semestrales, el registro público de requerimientos estatales y el procedimiento de acreditación de investigadores y de acceso a datos, con resguardo de los datos personales y de los secretos comerciales.",
+  "Que las normas técnicas sobre formatos corresponden a la autoridad de aplicación conforme al artículo 13, inciso e), de la ley, y que la presente reglamentación fija los contenidos mínimos que esas normas deben respetar.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional y por el artículo 18 de la Ley N° [—] de Transparencia de las Plataformas Digitales y de Protección de los Contenidos Lícitos."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Grandes plataformas",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Medición de usuarios activos",
+     "texto": "A los efectos del artículo 2°, inciso b), de la Ley N° [—] de Transparencia de las Plataformas Digitales y de Protección de los Contenidos Lícitos, el promedio de usuarios activos mensuales en el territorio nacional se calculará sobre los seis (6) meses calendario anteriores a cada medición. Las plataformas digitales que presten servicios a usuarios del país declararán ese promedio con carácter de declaración jurada ante la Unidad de Transparencia de Plataformas cada seis (6) meses, junto con el método de cálculo utilizado. Si la declaración no se presenta o no resulta verosímil, la Unidad podrá utilizar estimaciones de fuentes independientes, que comunicará a la plataforma antes de resolver."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Designación y nómina pública",
+     "texto": "La Unidad de Transparencia de Plataformas designará como gran plataforma, por resolución fundada, a la que supere el umbral del artículo 2°, inciso b), de la ley, previa vista por diez (10) días hábiles, y publicará la nómina actualizada. Las obligaciones de los artículos 6° a 11 de la ley serán exigibles a los noventa (90) días de la notificación de la designación. La designación cesará cuando la plataforma permanezca por debajo del umbral durante dos (2) mediciones consecutivas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Informes y transparencia",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Informe semestral",
+     "texto": "El informe del artículo 8° de la ley se presentará y publicará dentro de los treinta (30) días del cierre de cada semestre calendario y contendrá, como mínimo, para los usuarios del país:\na) las medidas de moderación adoptadas, por tipo de medida, por regla aplicada y por tipo de contenido;\nb) la proporción adoptada por medios automatizados y la tasa de revisión humana;\nc) los reclamos internos recibidos, el tiempo medio de respuesta y la proporción de medidas revertidas;\nd) los requerimientos estatales y las órdenes judiciales recibidos, por organismo o tribunal, con su objeto y su resultado;\ne) la cantidad de usuarios activos mensuales declarada conforme al artículo 1° del presente;\nf) los cambios introducidos en el semestre en los parámetros de recomendación y en las reglas de moderación.\nLa Agencia de Acceso a la Información Pública fijará el formato abierto y legible por máquina del informe y lo publicará en su sitio dentro de los cinco (5) días hábiles de recibido."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Recomendación y moderación",
+     "texto": "La información del artículo 6° de la ley y las reglas de moderación del artículo 7° se publicarán en una sección de acceso directo del servicio, en idioma nacional, y sus cambios se informarán a los usuarios con una antelación no menor de quince (15) días, salvo los que respondan a una orden judicial o a un riesgo inminente para la seguridad de las personas, que se informarán en el momento de su aplicación."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Registro público de requerimientos estatales",
+     "texto": "El registro del artículo 5° de la ley será llevado por la Unidad de Transparencia de Plataformas y consignará, para cada requerimiento: el organismo requirente, el funcionario que lo firma, la fecha, la plataforma, el fundamento legal invocado, el objeto, si se refiere a contenidos o a cuentas, y el resultado informado por la plataforma. Cada organismo del Estado nacional publicará sus requerimientos dentro de los cinco (5) días hábiles y los comunicará en el mismo plazo a la Unidad. Las órdenes judiciales cuya reserva disponga el juez se registrarán con indicación de esa reserva y se publicarán cuando cese."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Domicilio",
+     "texto": "Las grandes plataformas comunicarán a la Unidad de Transparencia de Plataformas, dentro de los treinta (30) días de su designación, el domicilio en el territorio nacional previsto en el artículo 11 de la ley y un domicilio electrónico, en los que serán válidas todas las notificaciones."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Acceso de investigadores",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Acreditación",
+     "texto": "Podrán solicitar su acreditación, en los términos del artículo 9° de la ley, los investigadores de universidades, centros de investigación y organizaciones sin fines de lucro independientes de intereses comerciales que presenten: a) un proyecto de investigación determinado, con su objeto, sus preguntas, los datos que requiere y su plazo; b) una declaración jurada de independencia de intereses comerciales y de financiamiento; c) un plan de resguardo de los datos personales y de los secretos comerciales; d) el compromiso de publicar sus resultados. La Unidad resolverá dentro de los treinta (30) días hábiles. La acreditación se otorgará por proyecto y no implica juicio alguno sobre su contenido o sus conclusiones."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Acceso a los datos",
+     "texto": "La gran plataforma facilitará el acceso dentro de los sesenta (60) días de notificada la acreditación, mediante datos anonimizados o agregados, interfaces de programación o entornos seguros de consulta, según lo que resulte suficiente para el proyecto. Podrá proponer una modalidad alternativa que garantice el mismo resultado. Los desacuerdos sobre la modalidad, el alcance o el resguardo serán resueltos por la Unidad, previa audiencia de las partes, conforme al artículo 13, inciso c), de la ley."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Obligaciones de los investigadores",
+     "texto": "Los investigadores acreditados usarán los datos solo para el proyecto acreditado, no intentarán reidentificar a personas, no los cederán a terceros y los suprimirán al concluir el proyecto. El incumplimiento dará lugar a la revocación de la acreditación y será comunicado a la institución de pertenencia, sin perjuicio de las responsabilidades que establezca la ley de protección de los datos personales."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Unidad de Transparencia de Plataformas y sanciones",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Unidad de Transparencia de Plataformas",
+     "texto": "La Unidad de Transparencia de Plataformas creada por el artículo 12 de la ley se integrará con personal de la planta de la Agencia de Acceso a la Información Pública y estará a cargo de un responsable designado por el director de la Agencia. Ejercerá las funciones del artículo 13, incisos a) a d), de la ley y propondrá al director las normas técnicas y las sanciones. En ningún caso podrá evaluar la licitud de contenidos, pedir su eliminación, bloqueo o restricción, ni requerir a las plataformas información sobre usuarios determinados."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Procedimiento sancionatorio",
+     "texto": "Las sanciones del artículo 14 de la ley se aplicarán previo sumario en el que se notificará la imputación a la plataforma, que podrá presentar su descargo y ofrecer prueba dentro de los quince (15) días hábiles. El director de la Agencia resolverá en forma fundada dentro de los treinta (30) días hábiles de concluida la prueba. Las resoluciones serán públicas."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Publicidad política paga",
+     "texto": "La Agencia de Acceso a la Información Pública pondrá a disposición de la Cámara Nacional Electoral, en formato abierto, el repositorio de publicidad política paga del artículo 10 de la ley, y coordinará con ella la aplicación del régimen de publicidad en redes sociales y plataformas digitales de la Ley N° 26.215 durante las campañas electorales."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande el presente se atenderán conforme al artículo 17 de la ley, con los créditos asignados a la Agencia de Acceso a la Información Pública y con la reasignación de créditos de la Jefatura de Gabinete de Ministros que disponga el Jefe de Gabinete de Ministros."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el mismo día que la ley que reglamenta. La primera medición del artículo 1° se presentará dentro de los treinta (30) días de esa fecha."
+    },
+    {
+     "n": 15,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

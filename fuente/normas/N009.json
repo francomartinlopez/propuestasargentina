@@ -1,0 +1,74 @@
+{
+ "id": "N009",
+ "tipo": "resolucion",
+ "titulo": "Resolución general de ARCA: cruce de los pagos del régimen de acceso preferente con la mercadería despachada",
+ "sumilla": "La Dirección General de Aduanas cruza cada pago cursado por el régimen de acceso preferente con la destinación de importación; ante una inconsistencia intima al importador y, si se confirma el desvío, lo comunica para la exclusión y el recupero, instruye el sumario por declaración inexacta cuando corresponde (art. 954 del Código Aduanero) y lo comunica al BCRA (art. 8 de la Ley 19.359).",
+ "cuando": "Fase II: rige desde la apertura del tramo transitorio, al comenzar el año 3; el control de las operaciones cursadas sigue después del cierre.",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (resolución general de ARCA).",
+ "motivos": null,
+ "visto": "El Expediente Electrónico N° […], el Código Aduanero (Ley N° 22.415), la Ley N° 11.683 (t.o. 1998) y sus modificaciones, el Régimen Penal Cambiario (Ley N° 19.359), el Decreto N° 618/1997, el Decreto N° [—] de régimen transitorio de acceso preferente a divisas, la Comunicación «A» […] del Banco Central de la República Argentina, y",
+ "considerando": [
+  "Que el artículo 8° del Decreto N° [—] encomienda a la Dirección General de Aduanas cruzar cada pago cursado en el marco del régimen de acceso preferente con la mercadería efectivamente despachada a plaza y comunicar los desvíos a la autoridad de aplicación.",
+  "Que el Banco Central de la República Argentina pone a disposición de esta Agencia, cada día hábil, la información de esos pagos.",
+  "Que el desvío de las divisas puede configurar la infracción de declaración inexacta del artículo 954 del Código Aduanero o una infracción al Régimen Penal Cambiario, cuyo sumario instruye el Banco Central de la República Argentina conforme al artículo 8° de la Ley N° 19.359, y que una resolución general no puede crear sanciones distintas de las previstas en la ley.",
+  "Que han tomado la intervención que les compete las Direcciones Generales de Aduanas y de Asuntos Jurídicos.",
+  "Que la presente se dicta en ejercicio de las facultades conferidas por la Ley N° 11.683 (t.o. 1998) y sus modificaciones, por el Código Aduanero y por los artículos 7° y 8° del Decreto N° 618/1997."
+ ],
+ "formula": "Por ello, EL DIRECTOR EJECUTIVO DE LA AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Establécese el procedimiento de control cruzado entre los pagos de importaciones cursados en el marco del régimen transitorio de acceso preferente a divisas del Decreto N° [—] y las destinaciones de importación registradas."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Información",
+     "texto": "La Dirección General de Aduanas incorpora a su sistema informático, cada día hábil, la información de los pagos que le suministre el Banco Central de la República Argentina (BCRA), con la identificación del importador, la posición arancelaria, el monto y la destinación de importación o el compromiso de su registro."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Cruce",
+     "texto": "Cada pago se cruza con las destinaciones de importación para consumo del mismo importador, por posición arancelaria, cantidad y valor en aduana. En los pagos anticipados, el cruce se realiza al vencer el plazo para acreditar el registro de ingreso aduanero."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Inconsistencias",
+     "texto": "Cuando el pago no se corresponda con una destinación en posición, cantidad o valor, o la mercadería no haya ingresado en plazo, el sistema genera una inconsistencia y se intima al importador, a través de su Domicilio Fiscal Electrónico, a justificarla dentro de los diez (10) días hábiles."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Desvío",
+     "texto": "Si la inconsistencia no se justifica, la Dirección General de Aduanas: a) comunica el desvío, con sus antecedentes, a la autoridad de aplicación del Decreto N° [—], a los fines de la exclusión y del recupero previstos en su artículo 9°; b) instruye el sumario por la infracción del artículo 954 del Código Aduanero cuando los hechos la configuren; y c) comunica los hechos al BCRA, a los fines del artículo 8° de la Ley N° 19.359."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Perfil de riesgo",
+     "texto": "Los importadores con desvíos confirmados se incorporan al perfil de riesgo aduanero correspondiente para la selección de canal de sus destinaciones, durante el plazo que fije la Dirección General de Aduanas."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Información para la publicación mensual",
+     "texto": "La Dirección General de Aduanas remite cada mes a la autoridad de aplicación del Decreto N° [—] el resultado de los cruces, por importador y posición arancelaria, para la publicación del artículo 10 de ese decreto."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Vigencia",
+     "texto": "La presente entra en vigencia en la fecha de apertura del tramo transitorio del mercado de cambios y se aplica a todos los pagos cursados en el marco del régimen hasta su vencimiento, aun cuando el control se complete después."
+    },
+    {
+     "n": 9,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

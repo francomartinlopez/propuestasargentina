@@ -1,0 +1,131 @@
+{
+ "id": "N292",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud",
+ "sumilla": "Reglamenta «Ley de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud»: designa autoridad de aplicación y ente de control, fija los criterios de la lista inicial de prácticas, el funcionamiento del Registro Nacional de Listas de Espera, los avisos y la derivación, los valores de referencia, la facturación electrónica y el procedimiento de débito automático entre subsistemas.",
+ "cuando": "Fase II · dentro de los 120 días de publicada la ley «Ley de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud» (art. 32)",
+ "cuando_breve": "Fase II · dentro de los 120 días de publicada la ley «Ley de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud»",
+ "tramite": "Decreto simple del Poder Ejecutivo nacional (art. 99 incs. 1 y 2 CN); reglamentario, no DNU.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° [—] de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud, las Leyes N° 19.032, N° 23.660, N° 23.661, N° 25.326, N° 26.529, N° 26.682 y N° 27.706, el Decreto N° 939/2000, y",
+ "considerando": [
+  "Que la Ley N° [—] estableció plazos máximos garantizados de atención, creó el Registro Nacional de Listas de Espera, reguló la derivación del paciente cuando el plazo vence y ordenó la compensación de costos entre los subsistemas de salud.",
+  "Que corresponde designar la autoridad de aplicación y el ente de control previstos en la ley, y establecer los procedimientos que permitan su aplicación uniforme por todos los financiadores y prestadores.",
+  "Que el artículo 21 de la ley dispuso que su régimen de débito automático prevalece, respecto de los agentes del seguro de salud y del Instituto Nacional de Servicios Sociales para Jubilados y Pensionados, sobre el de recupero de costos del Decreto N° 939/2000, por lo que corresponde adecuar su aplicación.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que el presente se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente decreto reglamenta la Ley N° [—] de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud, en adelante «la Ley»."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación y ente de control",
+     "texto": "Desígnase al Ministerio de Salud como autoridad de aplicación de la Ley, conforme su artículo 25, y a la Superintendencia de Servicios de Salud como ente de control en los términos de su artículo 3°, inciso e). La autoridad de aplicación dicta las normas complementarias."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Lista inicial de prácticas",
+     "texto": "Dentro de los sesenta (60) días de la publicación del presente, la autoridad de aplicación publica la lista inicial de prácticas del artículo 6° de la Ley, que comprende al menos diez (10) estudios diagnósticos, diez (10) especialidades médicas y diez (10) cirugías programadas, elegidos según su volumen de demanda y su tiempo de espera en todos los subsistemas, con los datos disponibles y la consulta a los financiadores y a las sociedades científicas. La lista se amplía antes del 31 de marzo de cada año."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cómputo de los plazos",
+     "texto": "A los fines de los artículos 5° y 8° de la Ley: a) la confirmación diagnóstica de un cáncer es la fecha del informe anatomopatológico o, cuando este no sea posible, del estudio que el profesional tratante registre como confirmatorio; b) la posposición por decisión del paciente se registra con su conformidad expresa, por escrito o por medios digitales; y c) la contraindicación clínica se fundamenta en la historia clínica e indica su duración estimada."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Registro Nacional de Listas de Espera",
+     "texto": "Los prestadores y los financiadores cargan en el Registro previsto en el artículo 10 de la Ley, dentro de las setenta y dos (72) horas de la indicación, al menos: el número de documento del paciente, en forma cifrada; el código de la práctica; la fecha de la indicación; el plazo aplicable; el prestador asignado; y el financiador. Cada cambio de estado se carga dentro de las setenta y dos (72) horas de producido. Los estándares técnicos son los que fije la autoridad de aplicación para la historia clínica compartida entre subsistemas."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Transición",
+     "texto": "Hasta que el prestador o el financiador interopere con la historia clínica compartida conforme el artículo 14 de la Ley, la carga se hace por el formulario electrónico o por la interfaz de programación que habilite la autoridad de aplicación."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Publicación",
+     "texto": "La publicación mensual del artículo 11 de la Ley se hace antes del día quince (15) de cada mes, con los datos del mes anterior, en el portal oficial de datos abiertos del Estado nacional. Incluye la cantidad de pacientes en espera, la mediana y el percentil noventa (90) del tiempo de espera y la proporción de prestaciones realizadas dentro del plazo, por práctica, prestador, financiador y jurisdicción."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Acceso del paciente",
+     "texto": "El acceso del artículo 12 de la Ley se brinda por la plataforma digital oficial del Estado nacional y por una línea telefónica gratuita de la autoridad de aplicación."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Avisos",
+     "texto": "El aviso del artículo 15 de la Ley se envía en forma automática por el Registro, por correo electrónico, mensaje de texto o notificación en la plataforma digital oficial, al paciente y al financiador, y queda registrado."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Derivación",
+     "texto": "La derivación del artículo 16 de la Ley se hace a un prestador situado en la misma provincia del domicilio del paciente o, si no lo hubiera disponible, en la más cercana. El financiador registra en el Registro la oferta, el prestador, la fecha del turno y la aceptación o el rechazo del paciente."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Derivación subsidiaria",
+     "texto": "El pedido del artículo 17 de la Ley se presenta por medios digitales o por la línea telefónica gratuita. La autoridad de aplicación o el ente de control asignan el prestador con la información de disponibilidad del Registro y de la Red Nacional de Derivación, e informan al financiador el costo a su cargo conforme el artículo 18 de la Ley."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Valores de referencia",
+     "texto": "Los valores de referencia de los artículos 18 y 23 de la Ley se fijan sobre la base de los costos de las prestaciones en establecimientos públicos y de los valores de mercado, con metodología publicada, y se actualizan cada seis (6) meses."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Facturación electrónica",
+     "texto": "Los establecimientos públicos facturan por el sistema electrónico único del artículo 20 de la Ley, que verifica la cobertura del paciente con los padrones de beneficiarios de los financiadores. La factura incluye la constancia de la prestación. Las objeciones se formulan por el mismo sistema y se resuelven por la autoridad de aplicación o por el ente de control, según el caso, dentro de los treinta (30) días."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Débito automático",
+     "texto": "Para el débito del artículo 21 de la Ley, el ente de control: a) verifica cada mes las facturas vencidas sin pago ni objeción; b) notifica al agente del seguro de salud, que tiene cinco (5) días hábiles para acreditar el pago; c) debita el importe en la siguiente liquidación de los montos que el agente deba percibir por su intermedio; y d) lo transfiere a la cuenta del establecimiento acreedor dentro de los diez (10) días hábiles del débito. El régimen de recupero del Decreto N° 939/2000 se aplica a los agentes del seguro de salud y al Instituto Nacional de Servicios Sociales para Jubilados y Pensionados solo en lo que no se oponga a la Ley y al presente."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Instituto Nacional de Servicios Sociales para Jubilados y Pensionados",
+     "texto": "El Instituto paga las facturas de los establecimientos públicos por el sistema del artículo 20 de la Ley y publica cada mes las facturas recibidas, pagadas, objetadas y vencidas."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Nómina de incumplimientos",
+     "texto": "La nómina trimestral del artículo 27 de la Ley indica, por financiador, las prestaciones realizadas fuera de plazo, las derivaciones no hechas en término y los montos vencidos e impagos con establecimientos públicos."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Informe anual",
+     "texto": "El informe del artículo 28 de la Ley se remite al Congreso de la Nación antes del 30 de abril de cada año, con los datos del año anterior."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Convenios de adhesión",
+     "texto": "La autoridad de aplicación aprueba un convenio modelo para las jurisdicciones que adhieran conforme el artículo 29 de la Ley, que regula su acceso al Registro, a la derivación y al sistema de facturación."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande el presente se atienden conforme el artículo 30 de la Ley."
+    },
+    {
+     "n": 20,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 939/2000 (su régimen de recupero se aplica a obras sociales y PAMI solo en lo que no se oponga a la Ley N° [—] y a este decreto)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

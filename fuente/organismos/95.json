@@ -1,0 +1,98 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Jefatura de Gabinete",
+    "estado": "modificado",
+    "rol": "Adecúa la distribución administrativa; pierde la facultad de reducir las partidas protegidas y ampliar gastos reservados. No puede reducir partidas protegidas por el art. 37 de la Ley 24.156.",
+    "hoy": "Jefatura de Gabinete de Ministros",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Ambiente",
+      "estado": "modificado",
+      "rol": "Transfiere el Fondo de Bosques en cuotas trimestrales y publica cada giro y la rendición de las provincias.",
+      "hoy": "Subsecretaría de Ambiente, Secretaría de Turismo, Ambiente y Deportes (Vicejefatura de Gabinete, JGM)",
+      "hijos": []
+     },
+     {
+      "nombre": "Archivo General de la Nación",
+      "estado": "modificado",
+      "rol": "Recibe y pone en consulta la documentación desclasificada.",
+      "hoy": "Archivo General de la Nación (Vicejefatura de Gabinete del Interior)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Agencia de Administración de Bienes del Estado",
+    "estado": "modificado",
+    "rol": "Impedida de vender o subastar sitios de memoria; verifica antes de cada venta.",
+    "hoy": "AABE (JGM, Vicejefatura de Gabinete del Interior)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Defensa",
+    "estado": "modificado",
+    "rol": "Inventaría, digitaliza y traslada los archivos de las Fuerzas Armadas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Inventaría y traslada los archivos de las fuerzas policiales y de seguridad federales.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": [
+     {
+      "nombre": "Banco Nacional de Datos Genéticos",
+      "estado": "modificado",
+      "rol": "Recibe partida protegida con piso y cuota trimestral.",
+      "hoy": "BNDG, descentralizado de la JGM en el ámbito de la Secretaría de Innovación, Ciencia y Tecnología",
+      "hijos": []
+     },
+     {
+      "nombre": "Comisión de búsqueda de identidad",
+      "estado": "modificado",
+      "rol": "Recibe partida protegida.",
+      "hoy": "CONADI, en el ámbito del Ministerio de Justicia",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Derechos Humanos",
+      "estado": "modificado",
+      "rol": "Autoridad de aplicación de la Ley 26.691; lleva el registro de inmuebles señalizados y certifica antes de toda venta. Coordina, designa el archivo de destino y publica informes semestrales.",
+      "hoy": "Subsecretaría de Derechos Humanos (Ministerio de Justicia)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Inteligencia de Estado",
+    "estado": "modificado",
+    "rol": "Inventaría y traslada los archivos de inteligencia del período.",
+    "hoy": "Secretaría de Inteligencia de Estado (SIDE)",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo federal de ministros de educación",
+    "estado": "existente",
+    "rol": "Aprueba la resolución y el documento de contenidos.",
+    "hoy": "Consejo Federal de Educación (Ley 26.206)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Educación del Ministerio de Educación, Ciencia y Cultura",
+    "estado": "modificado",
+    "rol": "Integra la comisión técnica, publica materiales y forma docentes.",
+    "hoy": "Secretaría de Educación (Ministerio de Capital Humano)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

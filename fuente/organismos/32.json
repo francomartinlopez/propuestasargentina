@@ -1,0 +1,33 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Agricultura, Ganadería y Pesca",
+    "estado": "modificado",
+    "rol": "Publica cada campaña rendimientos, costos y porcentajes de referencia por zona y cultivo. Zonas, superficie del pequeño propietario y valores de referencia antes de cada campaña.",
+    "hoy": "Secretaría de Agricultura, Ganadería y Pesca (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Registra los contratos, los cruza con acopio y aplica la deducción en Ganancias.",
+    "hoy": "ARCA, organismo descentralizado del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Tecnología Agropecuaria",
+    "estado": "modificado",
+    "rol": "Informa rendimientos y costos para los valores de referencia.",
+    "hoy": "INTA",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

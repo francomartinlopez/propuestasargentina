@@ -1,0 +1,98 @@
+{
+ "id": "N431",
+ "tipo": "ley_nacional",
+ "titulo": "Ley del Registro Nacional Digital del Automotor: supresión de los registros seccionales",
+ "sumilla": "Reemplaza los registros seccionales de la propiedad del automotor por un registro nacional único y digital a cargo de la Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor: los trámites se hacen por internet con firma digital o validación de identidad, con atención presencial gratuita en oficinas públicas; el arancel baja al costo del servicio e ingresa al Tesoro, y se suprimen los emolumentos de los encargados y los entes cooperadores.",
+ "cuando": "Fase I · año 1 (registro digital en 12 meses; cierre de los registros seccionales en 24 meses)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "Un registro es un dato, no un local. Hoy la propiedad de cada vehículo se inscribe en cientos de registros seccionales a cargo de encargados designados por el Ministerio de Justicia, que cobran un porcentaje de los aranceles que pagan los usuarios, a su vez calculados sobre el valor del vehículo. Quien vive de cada trámite tiene interés en que el trámite siga siendo caro y presencial. Entre 2025 y 2026 el Estado creó un registro único virtual y una ventanilla única de pago, y cerró 368 registros seccionales; el presente proyecto termina ese camino. Toda la inscripción pasa a un registro nacional digital, con atención presencial gratuita en oficinas públicas para quien no pueda hacerlo en línea, un arancel igual al costo del servicio que ingresa al Tesoro y ningún pago a particulares por porcentaje.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Registro nacional digital",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Registro único",
+     "texto": "La Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y de Créditos Prendarios, en el ámbito de la Secretaría de Justicia del Ministerio de Justicia y Seguridad, llevará un registro nacional único y digital de la propiedad de los automotores, motovehículos y maquinarias, que reemplaza a los registros seccionales previstos en el Régimen Jurídico del Automotor (Decreto-Ley N° 6582/1958, ratificado por la Ley N° 14.467, y sus modificatorias)."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Trámites en línea",
+     "texto": "La inscripción inicial, las transferencias, las prendas, las bajas y los demás actos registrales se realizarán por internet, con firma digital o con validación de identidad del Registro Nacional de las Personas. El título y la cédula de identificación serán digitales; la versión en papel será optativa."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Atención presencial",
+     "texto": "Quien no pueda realizar el trámite en línea podrá hacerlo, sin costo adicional, en las oficinas del Correo Oficial de la República Argentina, de la Administración Nacional de la Seguridad Social y de ARCA, y en las oficinas provinciales y municipales que adhieran por convenio. Ninguna de ellas cobrará un porcentaje del arancel."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Verificación física",
+     "texto": "La verificación física del vehículo, cuando corresponda, se mantiene en las plantas habilitadas, que cargarán su resultado en el registro digital con fotografías y geolocalización."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Aranceles",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Arancel al costo",
+     "texto": "Los aranceles registrales serán de monto fijo, iguales al costo del servicio, y no podrán calcularse sobre el valor del vehículo. Su monto y el estudio de costos que lo sustenta se publicarán cada año. Lo recaudado ingresa al Tesoro nacional."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Ventanilla única",
+     "texto": "El registro digital cobrará, por cuenta de las provincias y de los municipios que adhieran, el impuesto de sellos y las patentes que correspondan a cada acto, y los transferirá en el día a cada jurisdicción."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Supresiones",
+     "texto": "Suprímense los emolumentos de los encargados de los registros seccionales y los entes cooperadores de las Leyes N° 23.283 y 23.412, que se derogan. Los formularios registrales serán digitales y gratuitos."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Transición",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Plazos",
+     "texto": "El registro digital funcionará dentro de los doce (12) meses de la vigencia de la presente ley. Los registros seccionales cerrarán en forma escalonada dentro de los veinticuatro (24) meses, previa migración verificada de sus legajos, y sus encargados cesarán en sus funciones al cierre de cada uno."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Personal",
+     "texto": "Las personas que trabajen en los registros seccionales tendrán prioridad en la capacitación del Instituto Nacional de la Administración Pública y podrán presentarse a los concursos para cubrir los cargos de la Dirección Nacional y de las oficinas de atención del artículo 3°. Las obligaciones laborales con ese personal siguen a cargo de cada encargado, conforme al régimen vigente."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Datos personales",
+     "texto": "El registro digital permitirá consultar la situación jurídica de cada vehículo por su dominio. Los datos personales del titular solo se informarán a quien acredite interés legítimo, conforme a la Ley N° 25.326, y cada consulta quedará registrada."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto-Ley 6582/1958 (Régimen Jurídico del Automotor), régimen de los registros seccionales"
+ ],
+ "deroga": [
+  "Leyes 23.283 y 23.412 (entes cooperadores)",
+  "Resolución MJ 1981/2012 y modificatorias (emolumentos de los encargados), por vía reglamentaria"
+ ],
+ "variantes": null
+}

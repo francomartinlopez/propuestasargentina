@@ -1,0 +1,40 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Comisión Nacional de Valores",
+    "estado": "modificado",
+    "rol": "Controla la adecuación de las sociedades que hacen oferta pública (primera etapa) y aporta datos a la evaluación. Dicta en 90 días las normas para sociedades que hacen oferta pública.",
+    "hoy": "CNV (organismo descentralizado, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Registro de sociedades",
+    "estado": "modificado",
+    "rol": "Controlan la adecuación de estatutos y contratos sociales en cada inscripción.",
+    "hoy": "IGJ (Ministerio de Justicia) y registros públicos de cada provincia",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Trabajo y Empleo del Ministerio de Trabajo y Desarrollo Social",
+    "estado": "modificado",
+    "rol": "Publica la estadística anual y la evaluación de los 3 años con propuesta de calibración.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Inspección General de Justicia (IGJ)",
+    "estado": "modificado",
+    "rol": "Dicta las normas de adecuación de estatutos y recibe los planes de participación.",
+    "hoy": "IGJ (Ministerio de Justicia)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

@@ -1,0 +1,157 @@
+{
+ "id": "N317x",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de incentivo a la construcción para alquiler",
+ "sumilla": "Da previsibilidad al alquiler sin limitar la libertad contractual —registro voluntario con fecha cierta, índice de ajuste público identificado en el contrato y seguros de caución estandarizados— y promueve la construcción de viviendas destinadas a alquiler por diez años con amortización acelerada en el impuesto a las ganancias, dentro de un cupo fiscal anual; ordena además la oferta pública de valores respaldados por hipotecas de vivienda.",
+ "cuando": "Fase III · agenda sin fecha comprometida; el cupo fiscal se activa con la ley de presupuesto del año en que rija",
+ "cuando_breve": "Fase III · agenda sin fecha comprometida; el cupo fiscal se activa con la ley de presupuesto del año en que rija",
+ "tramite": "Mayoría simple; Cámara de Diputados como cámara de origen (art. 52 de la Constitución: contiene beneficios tributarios).",
+ "motivos": "La oferta de viviendas en alquiler depende de que construir para alquilar sea una inversión previsible. Desde la derogación de la Ley N° 27.551, los contratos de locación se pactan libremente conforme el Código Civil y Comercial de la Nación, régimen que el presente proyecto mantiene. Lo que propone es sumar herramientas que den previsibilidad a ambas partes sin imponer precios ni plazos: un registro voluntario y gratuito que otorga fecha cierta a los contratos y permite publicar estadísticas de alquileres; la exigencia de que, cuando las partes pacten ajustes, el contrato identifique un índice público y su periodicidad; y seguros de caución estandarizados como alternativa accesible a la garantía propietaria. Para ampliar la oferta, quien construya viviendas nuevas y las destine al alquiler durante al menos diez años podrá amortizarlas en forma acelerada en el impuesto a las ganancias, dentro de un cupo fiscal anual que fija la ley de presupuesto; si la vivienda deja de alquilarse, el beneficio se reintegra. Por último, se encomienda a la Comisión Nacional de Valores ordenar la oferta pública de valores respaldados por carteras de créditos hipotecarios para vivienda, que con moneda estable permitirá financiar a largo plazo.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley tiene por objeto aumentar la oferta de viviendas en alquiler y dar previsibilidad a los contratos de locación habitacional mediante un registro voluntario, la identificación del índice de ajuste pactado, seguros de caución estandarizados, incentivos tributarios a la construcción para alquiler y el ordenamiento de la oferta pública de valores respaldados por hipotecas de vivienda."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Libertad contractual",
+     "texto": "La presente ley no limita la libertad de las partes para pactar el precio, el plazo, las garantías y la moneda de la locación, que se rigen por los artículos 1187 a 1226 del Código Civil y Comercial de la Nación. Sus disposiciones son optativas, salvo las que se aplican a quienes accedan a los beneficios del Capítulo IV."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Registro de contratos",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Registro voluntario",
+     "texto": "Los contratos de locación con destino habitacional pueden registrarse en el registro de contratos de locación de inmuebles que lleva la Agencia de Recaudación y Control Aduanero (ARCA), el que se adecua a lo dispuesto en el presente Capítulo. La registración es voluntaria, gratuita y se realiza por medios digitales por cualquiera de las partes. El contrato registrado adquiere fecha cierta desde su registración."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Estadísticas",
+     "texto": "La ARCA publica cada trimestre, sin datos personales y en formato abierto, los precios de los contratos registrados por localidad, tipo de vivienda y superficie, y los índices de ajuste pactados."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Índice pactado y garantías",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Índice pactado",
+     "texto": "Cuando las partes pacten el ajuste periódico del precio de la locación, el contrato debe identificar el índice aplicable, que debe ser elaborado y publicado por el Instituto Nacional de Estadística y Censos, el Banco Central de la República Argentina u otro organismo público, y la periodicidad del ajuste. Si el índice deja de publicarse, se aplica el que designe el organismo que lo elaboraba o, en su defecto, el Índice de Precios al Consumidor. Esta disposición complementa el artículo 1199 del Código Civil y Comercial de la Nación."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Seguro de caución",
+     "texto": "La Superintendencia de Seguros de la Nación dicta, dentro de los ciento ochenta (180) días de la entrada en vigencia de la presente, las condiciones estandarizadas del seguro de caución en garantía de las obligaciones del locatario de vivienda, con cobertura mínima, condiciones de siniestro y publicidad comparada de primas."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Aceptación del seguro",
+     "texto": "Quien acceda a los beneficios del Capítulo IV debe aceptar como garantía suficiente de la locación un seguro de caución emitido conforme el artículo 6°, sin perjuicio de otras garantías que el locatario ofrezca."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Incentivos a la construcción para alquiler",
+   "articulos": [
+    {
+     "n": 8,
+     "epigrafe": "Beneficiarios",
+     "texto": "Pueden acceder a los beneficios de este capítulo las personas humanas y jurídicas y los fideicomisos que construyan viviendas nuevas en el país y se obliguen a destinarlas a la locación habitacional durante al menos diez (10) años desde su habilitación, con contratos registrados conforme el artículo 3°."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Inscripción de proyectos",
+     "texto": "Los proyectos se inscriben ante la autoridad de aplicación antes del inicio de la obra. La autoridad asigna el cupo fiscal del artículo 13 por orden de inscripción y publica la nómina de proyectos inscriptos, con su cantidad de viviendas y su beneficio estimado."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Amortización acelerada",
+     "texto": "A los fines del impuesto a las ganancias, los beneficiarios pueden amortizar el costo de construcción de las viviendas inscriptas, excluido el valor del terreno, en diez (10) años a partir de su habilitación, en lugar del régimen general de amortización de inmuebles previsto en la ley del impuesto."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Destino y control",
+     "texto": "Los beneficiarios informan cada año a la autoridad de aplicación y a la ARCA los contratos vigentes de cada vivienda inscripta. Se considera cumplido el destino si cada vivienda estuvo alquilada o ofrecida públicamente en alquiler durante el año."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Reintegro",
+     "texto": "Si antes de los diez (10) años una vivienda inscripta se vende sin que el adquirente asuma la obligación del artículo 8°, se destina a otro uso o permanece sin alquilar ni ofrecer en alquiler por más de doce (12) meses, el beneficiario reintegra el impuesto diferido por la amortización acelerada de esa vivienda, con los intereses resarcitorios de la ley de procedimiento tributario."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Cupo fiscal",
+     "texto": "El costo fiscal de los beneficios de este capítulo no puede exceder el cupo anual que fije la ley de presupuesto de cada ejercicio. Sin cupo asignado, no se inscriben nuevos proyectos."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Invitación",
+     "texto": "Se invita a las provincias, a la Ciudad Autónoma de Buenos Aires y a los municipios a otorgar beneficios equivalentes en los tributos de su competencia a las viviendas inscriptas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Valores respaldados por hipotecas de vivienda",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Oferta pública",
+     "texto": "La Comisión Nacional de Valores dicta las normas de oferta pública de valores negociables respaldados por carteras de créditos hipotecarios para vivienda, incluida su cesión conforme los artículos 70 a 72 de la Ley N° 24.441, con requisitos estandarizados de información sobre cada crédito de la cartera, sin datos personales de los deudores."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación de la presente ley es la Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía, sin perjuicio de las competencias de la ARCA, de la Superintendencia de Seguros de la Nación y de la Comisión Nacional de Valores."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Informe",
+     "texto": "La autoridad de aplicación publica cada año la cantidad de proyectos y viviendas inscriptos, el cupo utilizado, el costo fiscal y los reintegros, y lo informa al Congreso de la Nación."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Financiamiento",
+     "texto": "El costo fiscal del Capítulo IV se limita al cupo del artículo 13 y se activa con la ley de presupuesto del primer ejercicio en que rija la presente. Los gastos de los registros se atienden con los créditos asignados a la ARCA y a la autoridad de aplicación, sin aumento del gasto total."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entra en vigencia el día siguiente al de su publicación. Los beneficios del Capítulo IV se aplican a los proyectos inscriptos desde el 1° de enero del año siguiente."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 21,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Código Civil y Comercial, art. 1199 (complementa: identificación del índice pactado; no se sustituye el texto)",
+  "Ley de Impuesto a las Ganancias (amortización acelerada; disposición autónoma, artículo pertinente sin número)",
+  "Ley 24.441, arts. 70 a 72 (complementa: oferta pública de valores respaldados por carteras hipotecarias)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

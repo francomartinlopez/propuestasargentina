@@ -1,0 +1,105 @@
+{
+ "id": "N115",
+ "tipo": "resolucion",
+ "titulo": "Resolución de la Secretaría de Energía de medición y control de las emisiones de metano en la producción y el transporte de hidrocarburos",
+ "sumilla": "Exige inventario y línea de base, un programa de detección y reparación de fugas con inspecciones periódicas y plazos de reparación, medición anual, reporte verificado por terceros y publicación en datos abiertos; pide al Ente Nacional Regulador del Gas y la Electricidad requisitos equivalentes para el transporte y la distribución de gas e invita a las provincias.",
+ "cuando": "Fase II (año 2)",
+ "cuando_breve": "Fase II",
+ "tramite": "No pasa por el Congreso: resolución de la Secretaría de Energía como autoridad de aplicación de la Ley 17.319 (arts. 69, 70, 77, 78 y 97).",
+ "motivos": "",
+ "visto": "El Expediente N° […], las Leyes Nros. 17.319, 24.076 (T.O. 2025, Decreto N° 451/2025), 27.520 y 27.742, el Decreto N° 50/2019 y sus modificatorios, y",
+ "considerando": [
+  "Que el artículo 69, inciso c), de la Ley N° 17.319 obliga a los permisionarios y concesionarios a evitar el desperdicio de hidrocarburos, y sus artículos 70, 77 y 78 facultan a la autoridad de aplicación a requerir información y a inspeccionar y fiscalizar las instalaciones.",
+  "Que el gas natural en centrales de ciclo combinado emite por unidad de energía bastante menos que el carbón, el fueloil o el gasoil que reemplaza, y que para que esa ventaja sea real deben medirse y controlarse las fugas de metano en la producción y el transporte.",
+  "Que la Ley N° 27.520 de presupuestos mínimos de adaptación y mitigación al cambio climático global requiere metas de mitigación verificables, y que la medición de las emisiones de metano del sector es condición para verificarlas.",
+  "Que el control en el transporte y la distribución de gas natural corresponde al Ente Nacional Regulador del Gas y la Electricidad conforme al artículo 51 de la Ley N° 24.076 (T.O. 2025), y que en los yacimientos de jurisdicción provincial corresponde a las autoridades provinciales, con las que puede armonizarse la legislación ambiental conforme al artículo 163 de la Ley N° 27.742.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente se dicta en uso de las facultades conferidas por los artículos 69, 70, 77, 78 y 97 de la Ley N° 17.319 y por el Decreto N° 50/2019 y sus modificatorios."
+ ],
+ "formula": "Por ello, EL SECRETARIO DE ENERGÍA RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Establécense los requisitos de medición, detección, reparación y reporte de las emisiones de metano en la producción de gas natural y de petróleo y en el transporte de hidrocarburos comprendido en la Ley N° 17.319, con el fin de evitar el desperdicio de hidrocarburos y de verificar las emisiones del sector."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito de aplicación",
+     "texto": "La presente resolución se aplica a los permisionarios de exploración y a los concesionarios de explotación y de transporte de hidrocarburos respecto de los cuales esta Secretaría ejerce las funciones de autoridad de aplicación de la Ley N° 17.319, en sus pozos, baterías, plantas de tratamiento, plantas compresoras, ductos de recolección y de transporte y demás instalaciones de superficie."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente se entiende por:\na) emisión fugitiva: la liberación no intencional de gas natural desde equipos, uniones, válvulas, sellos u otros componentes de una instalación;\nb) venteo: la liberación intencional de gas natural a la atmósfera sin combustión;\nc) programa de detección y reparación: el conjunto de inspecciones periódicas destinadas a detectar emisiones fugitivas y a repararlas en plazo;\nd) línea de base: la cuantificación inicial de las emisiones de metano de cada instalación, por fuente."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Inventario y línea de base",
+     "texto": "Los sujetos obligados presentarán a esta Secretaría, dentro de los DOCE (12) meses de la entrada en vigencia de la presente, el inventario de las fuentes de emisión de metano de cada instalación y su línea de base, conforme a la metodología que apruebe la autoridad técnica de esta Secretaría dentro de los NOVENTA (90) días."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Programa de detección y reparación",
+     "texto": "Los sujetos obligados ejecutarán un programa de detección y reparación de emisiones fugitivas con, al menos, DOS (2) inspecciones por año en cada instalación y CUATRO (4) por año en las plantas compresoras y de tratamiento, mediante cámaras de imagen óptica de gas u otras tecnologías de eficacia equivalente que admita la metodología. Toda emisión fugitiva detectada se reparará dentro de los TREINTA (30) días; si la reparación exige detener la instalación, se hará en la primera parada programada, con un plazo máximo de SEIS (6) meses, y se registrará su justificación."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Medición",
+     "texto": "Los sujetos obligados cuantificarán cada año las emisiones de metano de sus instalaciones por medición directa o por los métodos validados que admita la metodología, y registrarán los volúmenes de gas venteado y quemado, con su causa."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Reporte anual",
+     "texto": "Antes del 31 de marzo de cada año, los sujetos obligados presentarán a esta Secretaría el reporte de las emisiones del año anterior, por instalación y por fuente, que incluirá los resultados del programa de detección y reparación, las fugas detectadas y reparadas, los plazos de reparación y los volúmenes venteados y quemados."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Verificación independiente",
+     "texto": "El reporte anual será verificado por un tercero independiente con idoneidad técnica, elegido por el sujeto obligado entre los inscriptos en el registro de verificadores que llevará esta Secretaría. El informe de verificación se presentará junto con el reporte."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Publicidad",
+     "texto": "Esta Secretaría publicará cada año, en formato de datos abiertos, las emisiones de metano reportadas y verificadas por sujeto obligado, por área y por tipo de instalación, y la intensidad de emisiones respecto de la producción."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Fiscalización",
+     "texto": "El cumplimiento de la presente será fiscalizado conforme a los artículos 77 y 78 de la Ley N° 17.319. Su incumplimiento se considera infracción al deber de evitar el desperdicio de hidrocarburos del artículo 69, inciso c), de esa ley y se sanciona conforme al artículo 87 de esa ley."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Transporte y distribución de gas natural",
+     "texto": "Solicítase al ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD que, en ejercicio de las facultades del artículo 51, incisos b), c) y m), de la Ley N° 24.076 (T.O. 2025), dicte dentro de los CIENTO OCHENTA (180) días requisitos equivalentes a los de la presente para las licenciatarias de transporte y de distribución de gas natural, con reporte compatible con el del artículo 7°."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Provincias",
+     "texto": "Invítase a las autoridades de aplicación provinciales de la Ley N° 17.319 a adoptar requisitos equivalentes en las áreas de su jurisdicción, en el marco de la armonización de la legislación ambiental prevista en el artículo 163 de la Ley N° 27.742. Esta Secretaría ofrecerá asistencia técnica y una plataforma común de reporte."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Plazos",
+     "texto": "El primer ciclo del programa de detección y reparación comenzará dentro de los DIECIOCHO (18) meses de la entrada en vigencia de la presente. El primer reporte anual corresponderá al año calendario siguiente al de la presentación de la línea de base."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 15,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

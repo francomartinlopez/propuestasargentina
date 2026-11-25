@@ -1,0 +1,128 @@
+{
+ "id": "N311",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de crédito hipotecario con cuota protegida y fondo de garantía",
+ "sumilla": "Hace obligatoria en los créditos hipotecarios para vivienda ajustados por inflación una cláusula por la que, si la cuota supera un porcentaje del ingreso o el índice de ajuste le gana al salario, se estira el plazo en lugar de subir la cuota, y crea el Fondo de Garantía para la Primera Vivienda, excluido de la disolución por decreto.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "El crédito hipotecario ajustado por inflación es una herramienta valiosa para acceder a la vivienda, porque permite cuotas iniciales más bajas que un crédito a tasa fija en contextos de inflación. Su riesgo aparece cuando los precios suben más que los salarios: la cuota crece por encima del ingreso del deudor y el crédito se vuelve impagable. El presente proyecto incorpora una cláusula obligatoria de protección de cuota: si la cuota supera un porcentaje del ingreso o si el índice de ajuste supera la evolución de los salarios medida por el INDEC, se extiende el plazo del crédito en lugar de aumentar la cuota, sin cargos adicionales. La cláusula da previsibilidad al deudor sin alterar el valor real de lo prestado. El proyecto crea además el Fondo de Garantía para la Primera Vivienda, que garantiza parte del capital de los créditos de quienes no tienen el ahorro previo exigido y cubre las diferencias que la extensión del plazo no alcance a resolver. El Fondo se integra con un aporte inicial acotado del Tesoro, que se activa con el presupuesto siguiente, y con comisiones y recuperos; no puede endeudarse y queda excluido de la facultad de disolver fondos por decreto.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y ámbito",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece la cláusula de protección de cuota en los créditos hipotecarios para vivienda ajustados por inflación y crea el Fondo de Garantía para la Primera Vivienda."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "El Capítulo II se aplica a los créditos con garantía hipotecaria destinados a la adquisición, construcción, ampliación o refacción de vivienda única y de ocupación permanente, otorgados por entidades financieras a personas humanas, cuyo capital se ajuste por Unidades de Valor Adquisitivo, por Unidades de Vivienda de la Ley N° 27.271, por el Coeficiente de Estabilización de Referencia o por cualquier otro índice de precios, conforme las excepciones admitidas al régimen de los artículos 7° y 10 de la Ley N° 23.928 por el artículo 27 del Decreto N° 905/2002 y por el artículo 21 de la Ley N° 27.271."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Cláusula de protección de cuota",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Cláusula obligatoria",
+     "texto": "Los contratos de crédito comprendidos en el artículo 2° deben incluir la cláusula de protección de cuota prevista en este capítulo. Si no la incluyen, se tiene por incorporada de pleno derecho. La cláusula integra el régimen de los contratos bancarios del Código Civil y Comercial de la Nación y no puede ser dejada sin efecto por las partes."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Supuestos de activación",
+     "texto": "La cláusula se activa cuando ocurra cualquiera de los siguientes supuestos: a) que la cuota supere el porcentaje del ingreso del deudor que fije la reglamentación, el que no podrá ser inferior a la relación cuota-ingreso exigida al otorgarse el crédito; o b) que la variación acumulada del índice de ajuste del crédito desde su otorgamiento supere la variación acumulada del Índice de Salarios que publica el Instituto Nacional de Estadística y Censos (INDEC) en el mismo período, en el porcentaje que fije la reglamentación."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Efecto: se estira el plazo",
+     "texto": "Activada la cláusula, la cuota se mantiene en el valor que no exceda el límite del supuesto que la activó, y la diferencia se recalcula sobre el saldo de capital, mediante la extensión del plazo del crédito en lugar del aumento de la cuota. La extensión no devenga intereses punitorios, comisiones ni cargos adicionales, y su máximo es el que fije la reglamentación. Si alcanzado ese máximo subsistiera una diferencia, se aplica el Fondo de Garantía conforme el artículo 11 o se acuerda con el deudor una reestructuración que respete los mismos límites."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Recuperación",
+     "texto": "Cuando cesa el supuesto que activó la cláusula, la cuota se ajusta nuevamente según el contrato, sin superar los límites del artículo 4°, hasta recuperar el plazo original en la medida de lo posible."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Información al deudor",
+     "texto": "La entidad financiera informa al deudor en cada liquidación la relación entre la cuota, el índice de ajuste y el Índice de Salarios, y le comunica por escrito la activación y el cese de la cláusula y el nuevo plazo resultante."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Créditos vigentes",
+     "texto": "Los deudores de créditos comprendidos en el artículo 2° otorgados antes de la entrada en vigencia de la presente ley pueden incorporar la cláusula por acuerdo con la entidad acreedora, que no puede rechazarlo cuando el deudor esté al día en sus pagos. La incorporación no puede generar costos para el deudor."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Normas del Banco Central",
+     "texto": "El Banco Central de la República Argentina dicta las normas para la aplicación de este capítulo por las entidades financieras y fija los parámetros que la reglamentación le encomiende."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Fondo de Garantía para la Primera Vivienda",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Creación",
+     "texto": "Créase el Fondo de Garantía para la Primera Vivienda como fideicomiso de administración y garantía, en los términos de los artículos 1666 y siguientes del Código Civil y Comercial de la Nación. El fiduciario es una entidad financiera pública que designe la autoridad de aplicación."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Objeto",
+     "texto": "El Fondo garantiza a las entidades financieras el reembolso de una parte del capital de los créditos hipotecarios para la adquisición o construcción de la primera vivienda única y de ocupación permanente, para facilitar el acceso al crédito de quienes no disponen del ahorro previo exigido, y cubre las diferencias del artículo 5° que no puedan resolverse con la extensión del plazo. La reglamentación fija el porcentaje garantizado, los montos máximos de los créditos y los requisitos de los beneficiarios."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Patrimonio",
+     "texto": "El patrimonio del Fondo se integra con: a) un aporte inicial del Tesoro nacional, de monto acotado, que fija la ley de presupuesto; b) las comisiones que pagan las entidades financieras por la garantía; c) los recuperos de las garantías ejecutadas; d) las rentas de sus inversiones; y e) los aportes de provincias, municipios u organismos internacionales. El Fondo no puede endeudarse."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Afectación y protección",
+     "texto": "Los bienes del Fondo tienen destino exclusivo al objeto previsto en el artículo 11. El Fondo queda expresamente excluido de la facultad de disolver o modificar fondos fiduciarios prevista en el artículo 5° de la Ley N° 27.742, y de cualquier otra facultad delegada o reglamentaria de igual alcance; su disolución solo puede disponerse por ley."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Control y publicidad",
+     "texto": "El fiduciario publica cada trimestre el estado del Fondo, las garantías otorgadas y ejecutadas y los recuperos. El Fondo está sujeto al control de la Autoridad Nacional de Control y Transparencia."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Financiamiento",
+     "texto": "Conforme el artículo 38 de la Ley N° 24.156 y el artículo 5° de la Ley N° 24.629, el aporte inicial del artículo 12, inciso a), se atiende con el cupo de la cuenta fiscal y se activa con la ley de presupuesto del ejercicio siguiente al de la entrada en vigencia de la presente ley, que debe preverlo. El Capítulo II no genera gasto para el Estado nacional."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "El Poder Ejecutivo nacional designa la autoridad de aplicación del Capítulo III."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Reglamentación y vigencia",
+     "texto": "El Poder Ejecutivo nacional reglamenta la presente ley dentro de los noventa (90) días de su publicación. El Capítulo II se aplica a los créditos que se otorguen a partir de los treinta (30) días de la entrada en vigencia de las normas del Banco Central previstas en el artículo 9°."
+    },
+    {
+     "n": 18,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,115 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Firma y controla los contratos-programa de las empresas con pérdidas y recompra las participaciones vendidas de las estratégicas.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Nucleoeléctrica Argentina S.A.",
+      "estado": "modificado",
+      "rol": "Empresa estratégica de propiedad estatal total; se recompra la parte vendida.",
+      "hoy": "Nucleoeléctrica Argentina S.A., con venta del 44 % de las acciones autorizada (Decreto 695/2025)",
+      "hijos": []
+     },
+     {
+      "nombre": "Dioxitek S.A.",
+      "estado": "modificado",
+      "rol": "Empresa estratégica de propiedad estatal total.",
+      "hoy": "",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Empresa Argentina de Soluciones Satelitales (ARSAT)",
+    "estado": "modificado",
+    "rol": "Empresa estratégica de propiedad estatal total, privatizable solo por ley con dos tercios.",
+    "hoy": "ARSAT S.A.",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Energía",
+    "estado": "modificado",
+    "rol": "Convoca las tandas y aprueba los pliegos. Coordina a los ejecutores, aprueba y verifica hitos, publica el avance e informa al Congreso. Autoridad de aplicación del Plan: tablero de hitos, verificación, socios y presupuesto.",
+    "hoy": "Secretaría de Energía (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+    "hijos": [
+     {
+      "nombre": "Compañía Administradora del Mercado Mayorista Eléctrico S.A. (CAMMESA)",
+      "estado": "modificado",
+      "rol": "Publica la lista de turbinas convertibles, elabora los pliegos, recibe ofertas y publica resultados.",
+      "hoy": "Compañía Administradora del Mercado Mayorista Eléctrico S.A. (Organismo Encargado del Despacho, Ley 24.065 art. 35)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "estado": "existente",
+    "rol": "Regula el acceso a la capacidad de transporte eléctrico de los proyectos. Dicta requisitos equivalentes para el transporte y la distribución de gas (a pedido).",
+    "hoy": "ENRGE",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Nacional de Energía Atómica",
+    "estado": "modificado",
+    "rol": "CAREM 25 (preservación y terminación), RA-10, radioisótopos y ciclo de combustible. Planes de preservación y de terminación del CAREM 25; RA-10 y combustible.",
+    "hoy": "CNEA (Secretaría de Asuntos Nucleares, Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Empresa estatal operadora nuclear",
+    "estado": "modificado",
+    "rol": "Atucha I y II y nuevas unidades en el predio de Atucha; reforma de estatuto con acciones de derechos especiales del Estado. Estudio de factibilidad de las nuevas unidades; asamblea para la reforma del estatuto.",
+    "hoy": "Nucleoeléctrica Argentina S.A. (Secretaría de Asuntos Nucleares; 51 % estatal, venta parcial por Decreto 695/2025)",
+    "hijos": []
+   },
+   {
+    "nombre": "Empresa nuclear de combustible",
+    "estado": "existente",
+    "rol": "Termina la Nueva Planta de Dióxido de Uranio de Formosa.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Regulador nuclear",
+    "estado": "existente",
+    "rol": "Licencia cada instalación; su independencia queda expresamente preservada. Recibe planes y cronogramas de licenciamiento; sin instrucciones de la autoridad de aplicación.",
+    "hoy": "Autoridad Regulatoria Nuclear (organismo descentralizado, Secretaría General de la Presidencia)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Energía del Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Dicta la exigencia para la producción, lleva el registro de verificadores, recibe reportes y publica los datos.",
+    "hoy": "Secretaría de Energía (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Empresas de la producción para la defensa",
+   "rol": "Fabricaciones Militares, FAdeA y TANDANOR: empresas estratégicas de propiedad estatal total."
+  },
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Audita cada año los estados contables de las empresas del Estado."
+  },
+  {
+   "nombre": "Empresa tecnológica provincial",
+   "rol": "Ingeniería y provisión con prioridad nacional."
+  },
+  {
+   "nombre": "Provincias",
+   "rol": "Invitadas a adoptar requisitos equivalentes en sus yacimientos."
+  }
+ ]
+}

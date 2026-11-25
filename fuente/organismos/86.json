@@ -1,0 +1,130 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación: recibe notificaciones, resuelve, lleva el registro de tierras rurales y es sede administrativa de la Comisión. Autoridad de aplicación de la ley de evaluación de inversiones; coordina la Comisión de Evaluación y lleva el registro de tierras rurales.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Comisión interministerial de evaluación de inversiones",
+      "estado": "nuevo",
+      "rol": "Dictamina sobre cada operación de inversión extranjera en sectores estratégicos y propone criterios y la lista de minerales críticos. Un titular y un suplente por ministerio (Relaciones Exteriores, Comercio Internacional y Culto; Economía; Defensa; Justicia y Seguridad); dictamina en 30 días hábiles.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Autoridad de competencia",
+      "estado": "modificado",
+      "rol": "Coordina plazos cuando la operación también es una concentración notificable.",
+      "hoy": "Autoridad Nacional de la Competencia (Ley 27.442)",
+      "hijos": []
+     },
+     {
+      "nombre": "Unidad de Seguridad de Suministro",
+      "estado": "modificado",
+      "rol": "Fija y publica metas de segundo proveedor por insumo y mide su cumplimiento.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA)",
+      "estado": "modificado",
+      "rol": "Procedimiento prioritario de inscripción para fertilizantes y fitosanitarios de segundo proveedor.",
+      "hoy": "SENASA (Ministerio de Economía, Secretaría de Agricultura, Ganadería y Pesca)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "estado": "modificado",
+    "rol": "Designa técnicos para la Comisión de Evaluación.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Defensa",
+    "estado": "modificado",
+    "rol": "Designa técnicos para la Comisión de Evaluación.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Justicia y Seguridad",
+    "estado": "modificado",
+    "rol": "Designa técnicos para la Comisión de Evaluación.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Inteligencia de Estado",
+    "estado": "modificado",
+    "rol": "Aporta informes de riesgo a pedido de la Comisión.",
+    "hoy": "Secretaría de Inteligencia de Estado (Presidencia de la Nación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio con competencia en economía",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación: recibe notificaciones, resuelve, lleva el registro de tierras rurales y es sede administrativa de la Comisión.",
+    "hoy": "Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio con competencia en relaciones exteriores",
+    "estado": "modificado",
+    "rol": "Designa técnicos para la Comisión de Evaluación.",
+    "hoy": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio con competencia en defensa",
+    "estado": "modificado",
+    "rol": "Designa técnicos para la Comisión de Evaluación.",
+    "hoy": "Ministerio de Defensa",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio con competencia en seguridad",
+    "estado": "modificado",
+    "rol": "Designa técnicos para la Comisión de Evaluación.",
+    "hoy": "Ministerio de Seguridad Nacional",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión Nacional de Actividades Espaciales (CONAE)",
+    "estado": "modificado",
+    "rol": "Inspecciona cada año la Estación de Bajada del Agrio con acceso pleno e informa.",
+    "hoy": "CONAE (Jefatura de Gabinete, Vicejefatura de Gabinete, Secretaría de Innovación, Ciencia y Tecnología)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ente Nacional de Comunicaciones (ENACOM)",
+    "estado": "modificado",
+    "rol": "Puede integrar el equipo inspector.",
+    "hoy": "ENACOM (intervenido)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT)",
+    "estado": "modificado",
+    "rol": "Consultada para un procedimiento equivalente para principios activos farmacéuticos.",
+    "hoy": "ANMAT (Ministerio de Salud)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Comisión bicameral del Congreso",
+   "rol": "Recibe las resoluciones y los informes reservados de la evaluación y emite un informe público anual."
+  }
+ ]
+}

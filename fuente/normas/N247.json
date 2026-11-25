@@ -1,0 +1,228 @@
+{
+ "id": "N247",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de Uso de la Fuerza de las Fuerzas Federales",
+ "sumilla": "Regula el uso de la fuerza y de las armas de fuego de la PFA, Gendarmería, Prefectura y PSA, y del Servicio Penitenciario Federal con su régimen propio dentro de los establecimientos, según los Principios Básicos de la ONU. Reemplaza las Resoluciones 125/2024 y 943/2023, hace obligatorias las cámaras corporales con grabación inalterable y acceso del fiscal, y crea la Oficina de Asuntos Internos en el Ministerio de Justicia y Seguridad, con delegaciones en cada fuerza fuera de la cadena de mando.",
+ "cuando": "Fase I (envío en el año 1; cámaras en todas las patrullas al 10/12/2029)",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; cámara de origen indistinta.",
+ "motivos": "El empleo de la fuerza y de las armas de fuego por las fuerzas federales se rige hoy por resoluciones ministeriales: el Reglamento General para el Empleo de las Armas (Resolución N° 125/2024) y el protocolo de orden público de la Resolución N° 943/2023. Se trata de una materia que afecta derechos fundamentales y la seguridad de los propios agentes, y que requiere reglas estables, conocidas y fijadas por ley. El presente proyecto adopta los Principios Básicos de las Naciones Unidas sobre el Empleo de la Fuerza y de Armas de Fuego y el Código de Conducta para Funcionarios Encargados de Hacer Cumplir la Ley, y los aplica a la Policía Federal Argentina, la Gendarmería Nacional, la Prefectura Naval Argentina, la Policía de Seguridad Aeroportuaria y, con su régimen propio dentro de los establecimientos, al Servicio Penitenciario Federal. Establece cuándo pueden emplearse las armas de fuego, hace obligatorias las cámaras corporales con grabación inalterable y acceso del Ministerio Público Fiscal, y crea registros digitales de detenciones y de empleo de armas. Para que el control sea efectivo, crea una Oficina de Asuntos Internos fuera de la cadena de mando de cada fuerza, con facultades de investigación propias, y un registro público de denuncias coordinado con el Comité Nacional para la Prevención de la Tortura. A la vez, asegura a los agentes capacitación permanente, equipamiento y asistencia legal cuando actúan dentro de la ley.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto, ámbito y definiciones",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley regula el empleo de la fuerza y de las armas de fuego por los integrantes de las fuerzas policiales y de seguridad federales y del Servicio Penitenciario Federal, conforme los Principios Básicos de las Naciones Unidas sobre el Empleo de la Fuerza y de Armas de Fuego por los Funcionarios Encargados de Hacer Cumplir la Ley (1990) y el Código de Conducta para Funcionarios Encargados de Hacer Cumplir la Ley (1979). Establece, además, el uso obligatorio de cámaras corporales, el registro digital de detenciones y de empleo de armas, la Oficina de Asuntos Internos de las Fuerzas Federales y el registro público de denuncias por abuso."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito",
+     "texto": "La presente ley se aplica a la Policía Federal Argentina, a la Gendarmería Nacional, a la Prefectura Naval Argentina y a la Policía de Seguridad Aeroportuaria, en adelante 'las fuerzas federales', y al Servicio Penitenciario Federal. Dentro de los establecimientos penitenciarios, el personal del Servicio Penitenciario Federal se rige por su régimen propio, conforme el artículo 27 de la presente ley; fuera de ellos, en traslados, custodias y demás funciones, se rige íntegramente por esta ley."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definiciones",
+     "texto": "A los fines de la presente ley se entiende por: a) agente: todo integrante de las fuerzas federales o del Servicio Penitenciario Federal que ejerza funciones de policía o de seguridad; b) fuerza: todo medio físico, instrumento o arma empleado por un agente para hacer cumplir la ley sobre una persona; c) medios menos letales: los instrumentos y armas diseñados para neutralizar o inmovilizar a una persona con bajo riesgo de causar la muerte o lesiones graves, que apruebe la autoridad de aplicación; d) procedimiento: toda intervención de un agente sobre una o más personas, incluidos los controles, las requisas, las detenciones, los allanamientos, los traslados y los operativos de orden público; e) peligro inminente: la situación en la que, por la conducta de una persona, resulta objetiva y razonablemente previsible que se produzca de inmediato la muerte o lesiones graves de otra persona o del propio agente."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Principios y reglas para el empleo de la fuerza",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Principios",
+     "texto": "El empleo de la fuerza se rige por los principios de legalidad, necesidad, proporcionalidad, gradualidad y responsabilidad, y tiene como fin primordial la preservación de la vida y de la integridad física de todas las personas, en concordancia con el artículo 21 de la Ley N° 24.059 de Seguridad Interior. Solo puede emplearse la fuerza cuando otros medios resulten ineficaces o no garanticen el logro del resultado legítimo previsto, y en la medida estrictamente necesaria para alcanzarlo."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Empleo gradual",
+     "texto": "Antes de recurrir a la fuerza, el agente utilizará, en la medida de lo posible, medios no violentos, como la presencia, la persuasión y la advertencia. Cuando el empleo de la fuerza sea inevitable, el agente: a) lo ejercerá con moderación y en proporción a la gravedad de la amenaza y al objetivo legítimo; b) preferirá los medios menos letales; c) reducirá al mínimo los daños y lesiones; d) cesará en su empleo en cuanto la persona haya sido reducida o haya cesado la amenaza; y e) procurará que se preste de inmediato asistencia médica a las personas heridas y que se notifique a sus familiares o allegados."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Empleo de armas de fuego",
+     "texto": "Los agentes solo podrán emplear armas de fuego contra las personas: a) en defensa propia o de otras personas, en caso de peligro inminente de muerte o de lesiones graves; b) para evitar la comisión de un delito particularmente grave que entrañe una seria amenaza para la vida; o c) para detener a una persona que represente ese peligro y oponga resistencia a su autoridad, o para impedir su fuga; y en todos los casos solo cuando resulten insuficientes medidas menos extremas. El empleo intencional de armas letales solo procede cuando sea estrictamente inevitable para proteger una vida."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Advertencia previa",
+     "texto": "En los supuestos del artículo anterior, el agente se identificará como tal y dará una advertencia clara de su intención de emplear armas de fuego, con tiempo suficiente para que se la tome en cuenta, salvo que ello lo pusiera indebidamente en peligro, creara un riesgo de muerte o de lesiones graves para otras personas o resultara evidentemente inadecuado o inútil dadas las circunstancias del caso."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Prohibiciones",
+     "texto": "Queda prohibido a los agentes: a) disparar armas de fuego fuera de los supuestos del artículo 6°, en particular contra vehículos en movimiento o personas en fuga que no representen el peligro allí previsto; b) disparar contra multitudes; c) emplear armas, municiones o medios no provistos ni autorizados por la autoridad de aplicación; d) emplear la fuerza sobre una persona ya reducida o detenida, salvo para impedir un peligro inminente; e) infligir, instigar o tolerar actos de tortura u otros tratos o penas crueles, inhumanos o degradantes; f) emplear la fuerza como castigo; y g) hostigar, demorar o detener a una persona por su apariencia, su orientación sexual o su identidad de género. La orden de un superior no justifica el incumplimiento de la presente ley, y ningún agente podrá ser sancionado por negarse a cumplir una orden contraria a ella."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Reuniones y manifestaciones públicas",
+     "texto": "En los operativos de orden público, incluidos los destinados a preservar la libre circulación, se priorizarán el diálogo y la disuasión. Ante reuniones lícitas y pacíficas, los agentes evitarán el empleo de la fuerza o, si no fuera posible, lo limitarán al mínimo necesario. Ante reuniones violentas, solo podrán emplear medios menos letales, en las condiciones del artículo 5°, y nunca armas de fuego salvo en los supuestos del artículo 6°. Los agentes que intervengan llevarán identificación visible, y el responsable del operativo comunicará de inmediato su inicio y su desarrollo al Ministerio Público Fiscal y, en su caso, a la autoridad judicial competente."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Actuación posterior",
+     "texto": "Todo empleo de armas de fuego y todo empleo de la fuerza del que resulten lesiones o la muerte de una persona deberá: a) ser informado de inmediato por el agente a su superior y registrado conforme el artículo 17; b) ser comunicado por la fuerza o el servicio al Ministerio Público Fiscal y a la Oficina de Asuntos Internos dentro de las veinticuatro (24) horas; y c) dar lugar a la preservación del arma, de la grabación de la cámara corporal y de los demás elementos de prueba. La presente ley no modifica las causas de justificación del artículo 34 del Código Penal."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Respaldo, asistencia legal y equipamiento",
+     "texto": "El Estado nacional asegurará a los agentes: a) capacitación permanente en el empleo de la fuerza y de las armas de fuego, en técnicas de reducción y de disuasión y en primeros auxilios, con certificación anual de aptitud; b) el equipamiento de protección y los medios menos letales necesarios para cumplir sus funciones conforme a esta ley; y c) asistencia legal gratuita en los procesos judiciales y administrativos que se les inicien por hechos ocurridos en el ejercicio de sus funciones en los que hayan actuado conforme a esta ley."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Protocolos",
+     "texto": "La autoridad de aplicación aprobará y publicará en el Boletín Oficial y en su sitio oficial los protocolos de actuación de cada tipo de procedimiento, conforme a los principios y reglas de este Capítulo, y los revisará al menos cada dos (2) años."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Cámaras corporales y registros",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Cámaras corporales",
+     "texto": "Todo agente que intervenga en un procedimiento portará una cámara corporal, que deberá encontrarse activada desde el inicio hasta la conclusión de su intervención. La reglamentación establecerá las condiciones técnicas de las cámaras y los supuestos excepcionales en que su uso no resulte materialmente posible, que deberán ser fundados y registrados. La totalidad de las patrullas de las fuerzas federales deberá contar con cámaras corporales al 10 de diciembre de 2029, conforme el cronograma de despliegue que apruebe la autoridad de aplicación."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Grabación inalterable",
+     "texto": "Las grabaciones se almacenarán en un sistema centralizado bajo custodia de la autoridad de aplicación, con mecanismos que impidan su borrado o alteración y registren todo acceso. Las grabaciones se conservarán durante al menos dos (2) años y, si se vinculan con una denuncia, una investigación o un proceso judicial, hasta su conclusión. La supresión, alteración u ocultamiento de una grabación, o la omisión injustificada de activar la cámara, constituyen falta grave, sin perjuicio de la responsabilidad penal que corresponda."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Acceso a las grabaciones",
+     "texto": "El Ministerio Público Fiscal tendrá acceso directo a las grabaciones vinculadas con los hechos que investigue, y les serán remitidas de oficio cuando del procedimiento resulten una detención, lesiones o la muerte de una persona. La persona grabada y su defensa podrán acceder a ellas por intermedio de la autoridad judicial o fiscal competente. El tratamiento de las grabaciones se rige por la Ley N° 25.326 de Protección de los Datos Personales, en particular sus artículos 4°, 9°, 22 y 23; el banco de datos se considera creado por la presente ley."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Registro digital de detenciones",
+     "texto": "La autoridad de aplicación llevará un registro digital único de las detenciones practicadas por las fuerzas federales, en el que se asentarán en tiempo real, por cada persona detenida, su identidad, la fecha, la hora y el lugar de la detención, su motivo, los agentes intervinientes, las lesiones constatadas, la comunicación a la autoridad judicial o fiscal y a sus familiares, los traslados y la liberación o la puesta a disposición judicial. Tendrán acceso a él el Ministerio Público Fiscal, el Ministerio Público de la Defensa y el Comité Nacional para la Prevención de la Tortura."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Registro de empleo de armas",
+     "texto": "La autoridad de aplicación llevará un registro digital del armamento y la munición asignados a cada agente y de cada empleo de armas de fuego y de cada empleo de la fuerza del que resulten lesiones o la muerte de una persona, con sus circunstancias y la referencia a la grabación correspondiente."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Oficina de Asuntos Internos de las Fuerzas Federales",
+   "articulos": [
+    {
+     "n": 18,
+     "epigrafe": "Creación",
+     "texto": "Créase la Oficina de Asuntos Internos de las Fuerzas Federales en el ámbito de la autoridad de aplicación, fuera de la cadena de mando de las fuerzas federales y del Servicio Penitenciario Federal, con dependencia directa del titular de la autoridad de aplicación. Contará con una delegación en cada fuerza federal y en el Servicio Penitenciario Federal."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Titular",
+     "texto": "La Oficina estará a cargo de un titular designado por el Poder Ejecutivo nacional previo procedimiento público de selección por antecedentes. No podrá ser designada una persona que revista en actividad en alguna de las fuerzas federales o en el Servicio Penitenciario Federal ni que haya revistado en ellas durante los cinco (5) años anteriores. Durará cinco (5) años en el cargo y solo podrá ser removido por mal desempeño, mediante acto fundado."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Delegaciones",
+     "texto": "Las delegaciones de la Oficina dependen funcional y jerárquicamente de ella y no de la jefatura de la fuerza o del servicio en el que actúan. Pasan a constituir delegaciones de la Oficina, con su personal, bienes y créditos: a) la Dirección General de Asuntos Internos de la Policía Federal Argentina, prevista en el artículo 17, apartado IV, y en el artículo 36 del Estatuto aprobado por el Decreto N° 383/2025; b) la Dirección de Asuntos Internos de la Gendarmería Nacional, prevista en el artículo 9°, inciso d), del Estatuto aprobado por el Decreto N° 454/2025; y c) la Dirección de Control Policial Externo de la Policía de Seguridad Aeroportuaria, prevista en el artículo 75 de la Ley N° 26.102, en el texto sustituido por el artículo 25 del Decreto N° 456/2025, que conserva las funciones y los órganos que esa ley le asigna. En la Prefectura Naval Argentina y en el Servicio Penitenciario Federal, la delegación se constituye con los recursos que asigne la autoridad de aplicación. El personal de las fuerzas que preste servicios en una delegación será evaluado y calificado por la Oficina."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Competencia",
+     "texto": "La Oficina investigará: a) todo empleo de armas de fuego y todo empleo de la fuerza del que resulten lesiones graves o la muerte de una persona; b) las denuncias por abuso de autoridad, violencia institucional, tortura o tratos crueles, inhumanos o degradantes atribuidas a agentes; c) los hechos de corrupción y las irregularidades patrimoniales atribuidas a agentes; y d) las faltas disciplinarias graves y muy graves. Las faltas leves se rigen por los regímenes disciplinarios de cada fuerza o servicio."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Facultades de investigación",
+     "texto": "Para el cumplimiento de su función, la Oficina podrá: a) requerir informes, documentos y antecedentes a cualquier dependencia de las fuerzas federales y del Servicio Penitenciario Federal, que deberán responder en el plazo que fije; b) acceder sin restricción a las grabaciones de las cámaras corporales y a los registros de los artículos 16 y 17; c) recibir declaraciones y practicar inspecciones en cualquier dependencia, sin aviso previo; d) instruir los sumarios administrativos de su competencia y proponer la sanción que corresponda; e) proponer a la autoridad de aplicación medidas preventivas respecto del agente investigado, como el cambio de funciones o el pase a disponibilidad; y f) ordenar la preservación de pruebas. Cuando advierta la posible comisión de un delito, la Oficina lo denunciará de inmediato al Ministerio Público Fiscal y colaborará con su investigación. Todo agente está obligado a prestar colaboración a la Oficina; su obstrucción constituye falta grave."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Garantías y plazos",
+     "texto": "Las investigaciones de la Oficina respetarán el debido proceso y el derecho de defensa del agente investigado. Toda investigación iniciada por denuncia deberá concluir con resolución fundada dentro del plazo de un (1) año, que la reglamentación podrá prorrogar por única vez en casos complejos, mediante acto fundado."
+    },
+    {
+     "n": 24,
+     "epigrafe": "Adecuación de los estatutos",
+     "texto": "Quedan modificados, en lo pertinente, el artículo 17, apartado IV, y el artículo 36 del Estatuto de la Policía Federal Argentina aprobado por el Decreto N° 383/2025, el artículo 9°, inciso d), del Estatuto de la Gendarmería Nacional Argentina aprobado por el Decreto N° 454/2025, el artículo 11 de la Ley N° 18.398 en el texto del Decreto N° 457/2025 y los artículos 75 a 80 de la Ley N° 26.102 en el texto del Decreto N° 456/2025, en cuanto atribuyan a la jefatura de cada fuerza la dependencia de sus áreas de asuntos internos o la investigación de las materias del artículo 21 de la presente ley, que corresponden a la Oficina."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Registro público de denuncias e información",
+   "articulos": [
+    {
+     "n": 25,
+     "epigrafe": "Registro público de denuncias",
+     "texto": "La autoridad de aplicación llevará un registro público y estadístico de las denuncias por abuso de autoridad y violencia institucional atribuidas a agentes, con el seguimiento de su trámite y de su resolución. El registro se coordinará, mediante convenio, con el Comité Nacional para la Prevención de la Tortura, en el marco del artículo 7°, inciso e), de la Ley N° 26.827. Es meta de la presente ley que toda denuncia por violencia institucional cuente con resolución publicada en menos de un (1) año desde su presentación."
+    },
+    {
+     "n": 26,
+     "epigrafe": "Información pública y control parlamentario",
+     "texto": "La autoridad de aplicación publicará cada semestre, en formato abierto y sin datos que permitan identificar a las personas, la cantidad de empleos de armas de fuego, de personas heridas o fallecidas en procedimientos, de detenciones y de denuncias por abuso, con su resultado, y el grado de avance del despliegue de cámaras corporales. Remitirá cada año un informe a la Comisión Bicameral de Fiscalización de los Órganos y Actividades de Seguridad Interior prevista en la Ley N° 24.059."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Disposiciones complementarias",
+   "articulos": [
+    {
+     "n": 27,
+     "epigrafe": "Servicio Penitenciario Federal",
+     "texto": "Incorpórase como último párrafo del artículo 33 de la Ley N° 20.416 el siguiente: «El empleo de la fuerza y de las armas por el personal del Servicio Penitenciario Federal se ajustará a los principios y reglas del Capítulo II de la Ley de Uso de la Fuerza de las Fuerzas Federales. Dentro de los establecimientos rige el régimen propio que apruebe la reglamentación, en concordancia con esos principios; fuera de ellos, se aplica aquella ley en forma íntegra.»"
+    },
+    {
+     "n": 28,
+     "epigrafe": "Estatutos de las fuerzas federales",
+     "texto": "Incorpórase como último párrafo del artículo 10 del Estatuto de la Policía Federal Argentina aprobado por el Decreto N° 383/2025 el siguiente: «El empleo de la fuerza pública y de las armas se rige por la Ley de Uso de la Fuerza de las Fuerzas Federales.» Las disposiciones de la presente ley integran los regímenes de la Gendarmería Nacional, de la Prefectura Naval Argentina y de la Policía de Seguridad Aeroportuaria, y prevalecen sobre las normas reglamentarias e internas que se les opongan."
+    },
+    {
+     "n": 29,
+     "epigrafe": "Normas que se dejan sin efecto",
+     "texto": "Déjanse sin efecto la Resolución del entonces Ministerio de Seguridad N° 125/2024, que aprobó el Reglamento General para el Empleo de las Armas por parte de los miembros de las Fuerzas Federales de Seguridad, y la Resolución del entonces Ministerio de Seguridad N° 943/2023, así como toda norma reglamentaria o interna que se oponga a la presente ley. Los protocolos que la autoridad de aplicación haya aprobado con anterioridad continuarán vigentes en cuanto no se opongan a esta ley, y serán adecuados a ella dentro de los noventa (90) días de su entrada en vigencia."
+    },
+    {
+     "n": 30,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Será autoridad de aplicación de la presente ley el Ministerio de Justicia y Seguridad."
+    },
+    {
+     "n": 31,
+     "epigrafe": "Adhesión",
+     "texto": "Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir a la presente ley respecto de sus fuerzas policiales y de seguridad, o a dictar normas con un contenido equivalente."
+    },
+    {
+     "n": 32,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demande la presente ley, incluidos la adquisición de cámaras corporales y de medios menos letales, los sistemas de registro y el funcionamiento de la Oficina de Asuntos Internos, se atenderán con la reasignación de créditos de la jurisdicción del Ministerio de Justicia y Seguridad que la ley de presupuesto de cada ejercicio identifique en forma expresa. El despliegue de cámaras corporales seguirá el cronograma del artículo 13; si al sancionarse la presente ley no hubiera créditos asignados, la adquisición se atenderá con la ley de presupuesto del ejercicio siguiente, y entretanto la obligación del artículo 13 rige respecto de las cámaras disponibles."
+    },
+    {
+     "n": 33,
+     "epigrafe": "Vigencia y reglamentación",
+     "texto": "La presente ley entrará en vigencia a los noventa (90) días de su publicación en el Boletín Oficial. La Oficina de Asuntos Internos de las Fuerzas Federales deberá encontrarse en funcionamiento dentro de los ciento ochenta (180) días de esa publicación. El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 34,
+     "epigrafe": "Comunicación",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 383/2025 (Estatuto PFA), art. 10 (incorpora último párrafo)",
+  "Decreto 383/2025 (Estatuto PFA), art. 17 apartado IV y art. 36 (en lo pertinente: asuntos internos pasa a la Oficina)",
+  "Decreto 454/2025 (Estatuto GNA), art. 9 inc. d) (en lo pertinente: Dirección de Asuntos Internos pasa a la Oficina)",
+  "Ley 26.102, arts. 75 a 80, texto de los arts. 25 a 30 del Decreto 456/2025 (Dirección de Control Policial Externo pasa a delegación de la Oficina)",
+  "Ley 18.398, art. 11, texto del Decreto 457/2025 (en lo pertinente: disciplina e investigación de las materias de la Oficina)",
+  "Ley 20.416, art. 33 (incorpora último párrafo)"
+ ],
+ "deroga": [
+  "Resolución MinSeg 125/2024 (se deja sin efecto)",
+  "Resolución MinSeg 943/2023 (se deja sin efecto)"
+ ],
+ "variantes": null
+}

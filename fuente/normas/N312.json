@@ -1,0 +1,115 @@
+{
+ "id": "N312",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de crédito hipotecario con cuota protegida y Fondo de Garantía para la Primera Vivienda",
+ "sumilla": "Fija los parámetros de la cláusula de protección de cuota (relación cuota-ingreso, brecha con el Índice de Salarios, máximo de extensión del plazo), encomienda al BCRA su aplicación por las entidades, designa la autoridad de aplicación del Fondo de Garantía para la Primera Vivienda y reglamenta su fiduciario, la garantía, las comisiones, el aporte inicial y la publicación.",
+ "cuando": "Fase I (dentro de los 90 días de la publicación de la ley, art. 17 de «Ley de crédito hipotecario con cuota protegida y fondo de garantía»)",
+ "cuando_breve": "Fase I",
+ "tramite": "Decreto reglamentario del Poder Ejecutivo nacional (art. 99 inc. 2 CN). No es DNU.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° [●] de crédito hipotecario con cuota protegida y Fondo de Garantía para la Primera Vivienda, y",
+ "considerando": [
+  "Que la Ley N° [●] de crédito hipotecario con cuota protegida estableció una cláusula obligatoria por la cual, en los créditos hipotecarios para vivienda ajustados por inflación, se extiende el plazo en lugar de aumentar la cuota cuando esta supera un porcentaje del ingreso o el índice de ajuste supera la evolución de los salarios.",
+  "Que la ley encomienda a la reglamentación fijar el porcentaje de la relación cuota-ingreso, el porcentaje de la brecha con el Índice de Salarios y el máximo de la extensión del plazo, y al Banco Central de la República Argentina dictar las normas para su aplicación por las entidades financieras.",
+  "Que la misma ley creó el Fondo de Garantía para la Primera Vivienda y encomendó al Poder Ejecutivo nacional designar su autoridad de aplicación y reglamentar el porcentaje garantizado, los montos máximos y los requisitos de los beneficiarios.",
+  "Que los parámetros deben dar previsibilidad al deudor sin alterar el valor real de lo prestado ni comprometer la solvencia del Fondo.",
+  "Que han tomado intervención los servicios jurídicos competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Relación cuota-ingreso – artículo 4°, inciso a)",
+     "texto": "El porcentaje del ingreso del deudor previsto en el inciso a) del artículo 4° de la ley es el treinta por ciento (30 %) o, si la relación cuota-ingreso exigida al otorgarse el crédito fue mayor, esa relación. Se computa el ingreso de todos los deudores y codeudores del crédito."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ingreso computable",
+     "texto": "A los fines del artículo anterior, el ingreso del deudor se presume igual al acreditado al otorgarse el crédito, actualizado por la variación del Índice de Salarios del Instituto Nacional de Estadística y Censos (INDEC). El deudor puede en cualquier momento acreditar ante la entidad un ingreso menor, con la documentación que fije el Banco Central de la República Argentina, y la entidad recalcula la relación dentro de los treinta (30) días."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Brecha con el Índice de Salarios – artículo 4°, inciso b)",
+     "texto": "El supuesto del inciso b) del artículo 4° de la ley se configura cuando la variación acumulada del índice de ajuste del crédito desde su otorgamiento supera en más de diez (10) puntos porcentuales la variación acumulada del Índice de Salarios en el mismo período. La comparación se realiza con el último dato publicado a la fecha de cada liquidación."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Máximo de la extensión del plazo – artículo 5°",
+     "texto": "La extensión del plazo prevista en el artículo 5° de la ley no puede superar, en total, diez (10) años, ni llevar el plazo total del crédito por encima de cuarenta (40) años o su vencimiento por encima de la fecha en que el deudor más joven cumpla ochenta (80) años. Alcanzado ese máximo, se aplica el Fondo de Garantía o la reestructuración prevista en la ley."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Normas del Banco Central – artículo 9°",
+     "texto": "Encomiéndase al Banco Central de la República Argentina, conforme el artículo 9° de la ley, el dictado de las normas sobre el cálculo de la cuota protegida, la recuperación del artículo 6°, la información al deudor del artículo 7°, la incorporación de la cláusula a los créditos vigentes del artículo 8° y el régimen informativo de las entidades financieras, con los parámetros fijados en los artículos 1° a 4° del presente."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Autoridad de aplicación del Fondo – artículo 16",
+     "texto": "Desígnase autoridad de aplicación del Capítulo III de la ley al Ministerio de Economía, o al que en el futuro tenga a su cargo la competencia en materia de hacienda, que actúa por intermedio del área que determine."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Fiduciario – artículo 10",
+     "texto": "La autoridad de aplicación designa al fiduciario entre las entidades financieras públicas y aprueba el contrato de fideicomiso dentro de los sesenta (60) días de la publicación del presente. El contrato establece la remuneración del fiduciario, que no puede superar el costo de administración, y las reglas de inversión, que se limitan a instrumentos de bajo riesgo y alta liquidez."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Beneficiarios – artículo 11",
+     "texto": "Pueden acceder a créditos con garantía del Fondo las personas humanas que no sean titulares de otro inmueble destinado a vivienda y que destinen el crédito a la adquisición o construcción de su primera vivienda única y de ocupación permanente. La autoridad de aplicación puede fijar topes de ingreso y de valor de la vivienda."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Porcentaje garantizado y montos – artículo 11",
+     "texto": "La garantía del Fondo cubre hasta el quince por ciento (15 %) del capital del crédito, y permite financiar hasta el noventa por ciento (90 %) del valor de la vivienda. La autoridad de aplicación fija los montos máximos de los créditos garantizados, expresados en la unidad de ajuste del crédito."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Cobertura de diferencias – artículos 5° y 11",
+     "texto": "El Fondo cubre las diferencias del artículo 5° de la ley que no puedan resolverse con la extensión máxima del plazo, en las condiciones que fije la autoridad de aplicación, y se subroga en los derechos de la entidad por lo que pague."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Comisiones – artículo 12, inciso b)",
+     "texto": "La autoridad de aplicación fija la comisión que pagan las entidades financieras por cada garantía, en función del riesgo, de modo que el Fondo sea sostenible. La comisión no puede trasladarse al deudor por encima de lo que autorice el Banco Central de la República Argentina."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Relación de cobertura",
+     "texto": "El monto total de las garantías vigentes no puede superar cinco (5) veces el patrimonio neto del Fondo. La autoridad de aplicación puede fijar una relación menor."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Aporte inicial – artículos 12, inciso a), y 15",
+     "texto": "El Ministerio de Economía incluye en el proyecto de ley de presupuesto del ejercicio siguiente al de la entrada en vigencia de la ley el aporte inicial del Tesoro nacional al Fondo, dentro del cupo de la cuenta fiscal. Hasta su integración, el Fondo no otorga garantías, salvo las financiadas con los recursos de los incisos b) a e) del artículo 12 de la ley."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Publicación – artículo 14",
+     "texto": "El fiduciario publica cada trimestre en su sitio oficial y en el de la autoridad de aplicación el patrimonio del Fondo, la relación de cobertura, las garantías otorgadas, vigentes y ejecutadas por entidad y por jurisdicción, los recuperos y los gastos de administración."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande el presente se atienden con los recursos del Fondo y con los créditos asignados a los organismos intervinientes."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entra en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 17,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

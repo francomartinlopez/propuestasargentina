@@ -1,0 +1,163 @@
+{
+ "id": "N152",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de presupuestos mínimos de protección ambiental de los humedales",
+ "sumilla": "Ordena terminar el Inventario Nacional de Humedales en 24 meses y que cada provincia ordene sus humedales por zonas (conservación, uso sostenible y uso productivo ordenado) con productores, municipios y comunidades; respeta los usos existentes con adecuación gradual, exige evaluación de impacto ambiental para alteraciones sustanciales hasta el ordenamiento y no crea fondos ni gasto.",
+ "cuando": "Fase I · año 1: consulta popular no vinculante en el segundo semestre de 2028; si la aprueba la mayoría absoluta, la Cámara de Diputados la trata en la sesión siguiente.",
+ "cuando_breve": "Consulta no vinculante 2028",
+ "tramite": "Mayoría simple; cámara de origen indistinta (ley de presupuestos mínimos, art. 41 CN).",
+ "motivos": "Los humedales regulan el agua, amortiguan inundaciones y sequías, recargan acuíferos y sostienen actividades productivas y comunidades enteras. La Argentina es parte de la Convención relativa a los Humedales de Importancia Internacional, aprobada por la Ley N° 23.919, pero no cuenta con una ley de presupuestos mínimos que los ordene: los proyectos presentados perdieron estado parlamentario más de una vez, y el Inventario Nacional de Humedales sigue sin terminarse. El proyecto, dictado conforme al artículo 41 de la Constitución Nacional y con respeto del dominio provincial de los recursos, ordena terminar el Inventario Nacional en dos años, con una metodología acordada en el Consejo Federal de Medio Ambiente, y que cada provincia ordene después sus humedales en tres categorías —conservación, uso sostenible y uso productivo ordenado— con participación de los productores, de los municipios y de las comunidades. La ley no es un freno productivo: las actividades existentes continúan conforme a su zona, con planes de adecuación gradual donde haga falta, y hasta el ordenamiento solo se exige evaluación de impacto ambiental para las alteraciones sustanciales del régimen hídrico. No crea fondos ni autoriza gasto adicional, y obliga a publicar el Inventario y los ordenamientos en datos abiertos.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece los presupuestos mínimos de protección ambiental para la conservación y el uso sostenible de los humedales, en los términos del artículo 41 de la Constitución Nacional: ordena terminar el Inventario Nacional de Humedales y ordenar sus usos por zonas, con participación de los productores y de las provincias."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Ámbito y dominio provincial",
+     "texto": "La presente ley rige en todo el territorio de la Nación. Su aplicación corresponde a las provincias y a la Ciudad Autónoma de Buenos Aires en sus respectivas jurisdicciones, que conservan el dominio originario de sus recursos naturales conforme al artículo 124 de la Constitución Nacional y podrán dictar normas complementarias."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Definición",
+     "texto": "A los fines de la presente ley, se entiende por humedal el ambiente en el cual la presencia temporaria o permanente de agua superficial o subsuperficial causa flujos biogeoquímicos propios y diferentes de los de los ambientes terrestres y acuáticos, cuyos rasgos distintivos son la presencia de biota adaptada a esas condiciones y de suelos hidromórficos o sustratos con rasgos de hidromorfismo."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Objetivos",
+     "texto": "Son objetivos de la presente ley:\na) conocer la ubicación, la extensión, el estado y las funciones de los humedales del país;\nb) conservar sus funciones de regulación hídrica, amortiguación de inundaciones y sequías, recarga de acuíferos, depuración del agua y sostén de la biodiversidad;\nc) ordenar sus usos por zonas, incluidos los productivos compatibles con esas funciones;\nd) dar previsibilidad a los productores y a las comunidades que viven y trabajan en los humedales."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Principios",
+     "texto": "La aplicación de la presente ley se rige por los principios de la Ley General del Ambiente N° 25.675 y por los de compatibilidad entre conservación y producción, participación de los productores y de las comunidades locales, y gradualidad en la adecuación de los usos existentes."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Inventario Nacional de Humedales",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Inventario",
+     "texto": "La autoridad nacional de aplicación, con las provincias, terminará el Inventario Nacional de Humedales dentro de los VEINTICUATRO (24) meses de la entrada en vigencia de la presente ley, sobre la base de los avances existentes. El inventario identificará las regiones, los sistemas y las unidades de humedales, con su delimitación, sus características, sus funciones y sus usos actuales, conforme a la metodología que se acuerde en el Consejo Federal de Medio Ambiente."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Actualización",
+     "texto": "El Inventario se actualizará al menos cada CINCO (5) años y cada vez que una provincia lo solicite por cambios relevantes en su territorio."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Información y asistencia",
+     "texto": "Las provincias aportarán la información de su jurisdicción y la autoridad nacional les prestará asistencia técnica, con imágenes satelitales y capacidades de los organismos científicos nacionales."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Sitios de importancia internacional",
+     "texto": "Los humedales designados en la Lista de Humedales de Importancia Internacional, conforme a la Convención aprobada por la Ley N° 23.919, se incorporan al Inventario, y su ordenamiento respetará los compromisos asumidos por la República en esa Convención."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Ordenamiento de los usos por zonas",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Ordenamiento",
+     "texto": "Cada provincia realizará, dentro de los VEINTICUATRO (24) meses de terminado el Inventario en su territorio, el ordenamiento de los humedales de su jurisdicción por zonas, y lo aprobará por norma provincial."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Categorías",
+     "texto": "El ordenamiento clasificará los humedales en las siguientes categorías:\na) Categoría I: zonas de conservación, donde no se admiten actividades que alteren en forma sustancial su régimen hídrico o sus funciones ecológicas;\nb) Categoría II: zonas de uso sostenible, donde se admiten actividades productivas con las condiciones de manejo que fije la autoridad local;\nc) Categoría III: zonas de uso productivo ordenado, donde se admiten actividades productivas y obras con evaluación de impacto ambiental, que mantengan las funciones hídricas del sistema."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Criterios",
+     "texto": "La zonificación considerará, al menos: las funciones hídricas y de amortiguación de inundaciones; el valor para la biodiversidad; la conectividad entre humedales; los usos actuales y su valor productivo; los riesgos para la población; y la información del Inventario."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Participación",
+     "texto": "El ordenamiento se elaborará con la participación de los productores, de sus entidades, de los municipios y de las comunidades locales, mediante mesas de trabajo por zona y una instancia de consulta pública previa a su aprobación."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Usos existentes",
+     "texto": "Las actividades productivas existentes podrán continuar conforme a la categoría de su zona. Cuando la categoría imponga condiciones nuevas, la autoridad local acordará con el productor un plan de adecuación gradual, con plazos razonables y asistencia técnica."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Régimen transitorio",
+     "texto": "Hasta que se apruebe el ordenamiento de cada provincia, las obras o actividades que impliquen rellenos, endicamientos, drenajes u otras alteraciones sustanciales del régimen hídrico de humedales inventariados requerirán evaluación de impacto ambiental conforme a los artículos 11 a 13 de la Ley N° 25.675 y a las normas provinciales, sin perjuicio de las actividades productivas en curso."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Humedales interjurisdiccionales",
+     "texto": "El ordenamiento de los humedales compartidos por más de una provincia se compatibilizará en el Consejo Federal de Medio Ambiente y, cuando existan, en los comités por cuenca previstos en la Ley N° [—] de Gestión Integral del Riesgo Hídrico."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Autoridades e información",
+   "articulos": [
+    {
+     "n": 17,
+     "epigrafe": "Autoridad nacional de aplicación",
+     "texto": "Será autoridad nacional de aplicación la Secretaría de Ambiente de la Jefatura de Gabinete de Ministros, que coordinará el Inventario, acordará la metodología, prestará asistencia técnica, administrará la información pública y elaborará el informe anual."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Autoridades locales",
+     "texto": "Las provincias y la Ciudad Autónoma de Buenos Aires designarán sus autoridades de aplicación, que realizarán el ordenamiento, aprobarán los planes de adecuación y fiscalizarán el cumplimiento de la presente ley en su jurisdicción."
+    },
+    {
+     "n": 19,
+     "epigrafe": "Información pública",
+     "texto": "La autoridad nacional publicará en una plataforma de datos abiertos el Inventario, los ordenamientos aprobados y su cartografía, y la información satelital sobre cambios en los humedales."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Informe anual",
+     "texto": "La autoridad nacional remitirá cada año al Congreso de la Nación un informe sobre el avance del Inventario y de los ordenamientos provinciales."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 21,
+     "epigrafe": "Financiamiento",
+     "texto": "La presente ley no crea fondos ni autoriza gasto adicional. El Inventario se atiende con los créditos asignados a la autoridad nacional de aplicación en la ley de presupuesto vigente, sin incremento del gasto total, y con la cooperación técnica que se obtenga. El ordenamiento provincial se financia con los recursos de cada provincia y la asistencia técnica nacional."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Sanciones",
+     "texto": "Las provincias establecerán el régimen de sanciones por el incumplimiento de la presente ley y de sus ordenamientos, sin perjuicio de la responsabilidad por daño ambiental prevista en los artículos 27 y siguientes de la Ley N° 25.675."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 24,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,114 @@
+{
+ "id": "N090",
+ "tipo": "decreto",
+ "titulo": "Reglamentación de la Ley de banca pública para el crédito productivo y de garantías, y especialización del BICE",
+ "sumilla": "Reglamenta la ley «Ley de banca pública para el crédito productivo y de garantías»: define el crédito productivo de largo plazo, regula el jurado y las etapas del concurso del directorio del Banco Nación, el alcance de la prohibición de créditos a funcionarios, la apertura de la publicación trimestral, las reglas de riesgo y la capitalización del FoGAr y el plazo de las reglas de solvencia de las SGR. Además instruye al Estado accionista a reformar el estatuto del BICE para especializarlo en crédito de inversión y exportación a 5 años o más.",
+ "cuando": "Fase II (años 2-3), dentro de los 90 días de publicada la ley «Ley de banca pública para el crédito productivo y de garantías» (art. 23 de esa ley)",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (decreto: art. 99 incs. 1 y 2 CN; reglamenta la ley y organiza un ente del Ejecutivo).",
+ "motivos": null,
+ "visto": "El Expediente N° [—], la Ley N° [—] de banca pública para el crédito productivo y de garantías, las Leyes Nros. 19.550 General de Sociedades (t.o. 1984), 21.526, 21.799, 24.467 y 25.300, y los Decretos Nros. 1074/2001 y 146/2026, y",
+ "considerando": [
+  "Que la Ley N° [—] fijó al Banco de la Nación Argentina el mandato de crédito productivo de largo plazo a las micro, pequeñas y medianas empresas, la designación de su directorio por concurso, la publicación trimestral de su cartera y la prohibición de créditos a funcionarios, y estableció reglas de riesgo y de capitalización para el Fondo de Garantías Argentino y reglas de solvencia para las sociedades de garantía recíproca.",
+  "Que corresponde precisar los conceptos, procedimientos y valores necesarios para la aplicación de esas disposiciones.",
+  "Que la reglamentación de la Ley N° 25.300 aprobada por el Decreto N° 1074/2001 debe complementarse con las nuevas reglas.",
+  "Que el Banco de Inversión y Comercio Exterior S.A. integra el sector público financiero en el ámbito del Ministerio de Economía, conforme al Decreto N° 146/2026, y que su especialización en préstamos de inversión y exportación a largo plazo completa el esquema de banca pública sin afectar derechos de terceros, por lo que corresponde instruir al representante del Estado accionista para reformar su estatuto en asamblea extraordinaria, conforme al artículo 235 de la Ley N° 19.550.",
+  "Que las normas prudenciales aplicables a las entidades financieras y a las sociedades de garantía recíproca inscriptas en sus registros corresponden al Banco Central de la República Argentina.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° [—] de banca pública para el crédito productivo y de garantías, en adelante «la Ley», a la Secretaría de Finanzas del Ministerio de Economía, salvo en lo relativo al Fondo de Garantías Argentino (FoGAr) y a las sociedades de garantía recíproca, en que lo será la Secretaría de Producción y Comercio de ese Ministerio."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Crédito productivo de largo plazo",
+     "texto": "A los fines del artículo 5° de la Ley, se considera crédito productivo de largo plazo el otorgado a micro, pequeñas y medianas empresas, según la clasificación vigente de la autoridad competente en la materia, con un plazo de amortización igual o mayor a TREINTA Y SEIS (36) meses y destinado a los fines que enumera ese artículo. La meta anual se expresará como porcentaje de la cartera total de préstamos al sector privado no financiero."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Jurado del concurso",
+     "texto": "El jurado del artículo 7° de la Ley estará integrado por CINCO (5) miembros: DOS (2) propuestos por el Consejo Interuniversitario Nacional entre profesores titulares de economía, finanzas o administración; UNO (1) propuesto por el Banco Central de la República Argentina (BCRA) entre su personal superior de carrera; y DOS (2) designados por la autoridad de aplicación entre personas con experiencia mínima de DIEZ (10) años en la gestión de riesgo bancario. Los miembros no podrán tener relación laboral ni comercial con el Banco ni ser postulantes, y actuarán ad honorem."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Etapas del concurso",
+     "texto": "El concurso tendrá las siguientes etapas: a) convocatoria publicada con TREINTA (30) días de anticipación, con indicación de los cargos, los requisitos del artículo 8° de la Ley y los criterios de evaluación; b) evaluación de antecedentes; c) examen escrito sobre gestión bancaria, riesgo crediticio y el mandato legal del Banco; d) entrevista pública; e) orden de mérito fundado y terna por cargo, que se publicarán durante QUINCE (15) días para observaciones de la ciudadanía. El Poder Ejecutivo nacional designará dentro de los TREINTA (30) días de recibida la terna."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Alcance de la prohibición",
+     "texto": "A los fines del artículo 10 de la Ley, se consideran titulares de organismos descentralizados, entes y empresas del sector público nacional a quienes ejerzan la máxima autoridad unipersonal o integren el órgano colegiado de conducción de esas entidades. El Banco verificará la condición del solicitante con la declaración jurada que este presente y con los registros públicos de funcionarios, y llevará un registro reservado de los créditos exceptuados, que se pondrá a disposición de la Autoridad Nacional de Control y Transparencia y del órgano de control del Banco."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Publicación trimestral de la cartera",
+     "texto": "La publicación del artículo 11 de la Ley se hará en el sitio oficial del Banco con, al menos, la siguiente apertura: sector de actividad según el clasificador de actividades del Instituto Nacional de Estadística y Censos (INDEC); tamaño de empresa (micro, pequeña, mediana, grande y personas humanas); provincia del deudor; tramos de plazo residual; tasa promedio ponderada; y situación de los deudores según las normas del BCRA. Ninguna celda publicada podrá permitir identificar a un deudor determinado."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Prioridad del FoGAr",
+     "texto": "A los fines del artículo 13 de la Ley, se considera crédito de inversión productiva el definido en el artículo 2° del presente. El comité de administración del FoGAr destinará a esos créditos, en forma directa o por reafianzamiento, no menos del CINCUENTA POR CIENTO (50 %) de las garantías que otorgue cada año."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Reglas de riesgo del FoGAr",
+     "texto": "Las reglas del artículo 14 de la Ley se fijan en los siguientes valores: a) relación máxima entre garantías vigentes y patrimonio neto: CUATRO (4) veces; b) concentración máxima: CINCO POR CIENTO (5 %) del patrimonio neto por beneficiario, VEINTICINCO POR CIENTO (25 %) por sociedad de garantía recíproca reafianzada y VEINTE POR CIENTO (20 %) por entidad acreedora; c) previsiones sobre la pérdida esperada según la metodología que apruebe el comité de administración con dictamen de auditor externo; d) comisiones diferenciadas por categoría de riesgo, publicadas. El fiduciario informará cada mes a la autoridad de aplicación el cumplimiento de estas reglas."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Capitalización",
+     "texto": "El primer tramo del aporte del artículo 15 de la Ley se integrará dentro de los TREINTA (30) días del inicio del ejercicio en que rija. El segundo se integrará previa certificación del auditor externo del FoGAr sobre el cumplimiento de las reglas del artículo anterior durante el semestre previo."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Reglas de solvencia de las sociedades de garantía recíproca",
+     "texto": "La autoridad de aplicación del régimen de sociedades de garantía recíproca dictará las reglas del artículo 18 de la Ley dentro de los NOVENTA (90) días de la publicación del presente, previa consulta pública, y adecuará a ellas sus resoluciones vigentes. Las reglas preverán un plazo de adecuación no mayor de DOCE (12) meses para las sociedades existentes."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Decreto N° 1074/2001",
+     "texto": "Las disposiciones del presente complementan la reglamentación de la Ley N° 25.300 aprobada por el Decreto N° 1074/2001, cuyas normas sobre el FoGAr y las sociedades de garantía recíproca se aplicarán en cuanto no se opongan a la Ley ni al presente."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Especialización del Banco de Inversión y Comercio Exterior",
+     "texto": "Instrúyese al representante del Estado nacional en las asambleas del BANCO DE INVERSIÓN Y COMERCIO EXTERIOR S.A. (BICE) para que, dentro de los SESENTA (60) días, promueva la convocatoria a asamblea extraordinaria y vote la reforma de su estatuto, conforme al artículo 235 de la Ley General de Sociedades N° 19.550 (t.o. 1984), a fin de que su objeto principal sea el otorgamiento de préstamos de inversión y de financiación de exportaciones con plazo igual o mayor a CINCO (5) años. Las demás operaciones del BICE se desarrollarán en cuanto sean compatibles con ese objeto y con su función de fiduciario del FoGAr."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Transparencia del BICE",
+     "texto": "El representante del Estado nacional promoverá, en la misma asamblea, que el BICE publique cada trimestre su cartera con la apertura del artículo 6° del presente."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Texto ordenado",
+     "texto": "La autoridad de aplicación elaborará el texto ordenado de la Carta Orgánica del Banco de la Nación Argentina previsto en el artículo 21 de la Ley y lo elevará al Poder Ejecutivo nacional dentro de los CIENTO VEINTE (120) días de la publicación del presente."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el BOLETÍN OFICIAL."
+    },
+    {
+     "n": 16,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Decreto 1074/2001 (complementa la reglamentación de la Ley 25.300)",
+  "Estatuto del BICE S.A. (objeto social, por asamblea extraordinaria; art. 235 Ley 19.550)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

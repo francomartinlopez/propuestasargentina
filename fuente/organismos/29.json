@@ -1,0 +1,63 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital",
+    "estado": "modificado",
+    "rol": "Monta y coordina la Ventanilla Única sobre TAD y Mi Argentina, firma convenios y publica resultados. Consulta en la simplificación de los trámites de modificación y cierre. Provee la Ventanilla Única, la firma digital y la validación de identidad. Administra por mandato legal la Ventanilla Única, firma convenios y publica los plazos efectivos. Opera la Ventanilla en TAD y Mi Argentina, lleva el registro de intercambios de datos y publica plazos por organismo. Coordina el acuerdo con las provincias y municipios y publica el avance de sus metas.",
+    "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete – Secretaría de Innovación, Ciencia y Tecnología (Subsecretaría de Innovación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Inspección General de Justicia",
+    "estado": "modificado",
+    "rol": "Adecua sus normas para inscribir SAS con estatuto modelo y firma digital en 24 horas y simplifica el cierre. Inscribe SAS digitales en 24 horas y hace el control posterior. Fija el estándar para clubes y recibe la información provincial. Inscribe en 24 horas hábiles con firma digital e inscribe los cierres simplificados.",
+    "hoy": "Inspección General de Justicia, Ministerio de Justicia",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Asigna la CUIT y da el alta de empleador en el mismo trámite. Asigna la CUIT y el alta de empleador dentro del plazo legal y da las bajas en el cierre simplificado. CUIT y alta de empleador en 6 horas hábiles; verificación y bajas en el cierre simplificado.",
+    "hoy": "ARCA, ente autárquico en el ámbito del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Unidad de Información Financiera",
+    "estado": "existente",
+    "rol": "Invitada a adecuar las normas de debida diligencia a la identidad validada en la plataforma. Recibe la información de beneficiario final de financistas del fútbol.",
+    "hoy": "UIF, organismo descentralizado del Ministerio de Justicia",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros",
+    "estado": "existente",
+    "rol": "Firma por la Nación y provee la plataforma y la asistencia técnica.",
+    "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete – Secretaría de Innovación, Ciencia y Tecnología (Subsecretaría de Innovación)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría del Interior de la Jefatura de Gabinete de Ministros",
+    "estado": "existente",
+    "rol": "Consulta y promoción de la adhesión de provincias y municipios.",
+    "hoy": "Jefatura de Gabinete de Ministros – Vicejefatura de Gabinete del Interior (Subsecretarías de Relaciones con las Provincias y con los Municipios)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Banco Central de la República Argentina (BCRA)",
+   "rol": "Invitado a adecuar las normas de apertura de cuentas al plazo de 24 horas."
+  },
+  {
+   "nombre": "Provincias y municipios",
+   "rol": "Inscriben SAS en 24 horas y otorgan habilitaciones de bajo riesgo con aprobación automática."
+  }
+ ]
+}

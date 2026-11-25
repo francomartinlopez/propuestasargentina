@@ -1,0 +1,125 @@
+{
+ "id": "N052",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley complementaria de la Ley Nacional de Catastro: interconexión de registros, registro patrimonial y garantías de privacidad",
+ "sumilla": "Reglamenta la ley «Ley complementaria de la Ley Nacional de Catastro: estándares comunes, registro patrimonial y garantías de privacidad»: obliga a los registros nacionales (automotor, IGJ) y a ARCA a interconectarse con los catastros, define la función de ARCA como administradora técnica de la base, regula el acceso por finalidad con matriz pública, la autorización judicial para otros usos, el registro inalterable de consultas, el derecho del titular a conocerlo, la auditoría anual y los convenios de financiamiento.",
+ "cuando": "Fase I: dentro de los 180 días de la publicación de la ley «Ley complementaria de la Ley Nacional de Catastro: estándares comunes, registro patrimonial y garantías de privacidad» (art. 12 de esa ley).",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: decreto reglamentario (art. 99 inc. 2 CN).",
+ "motivos": "",
+ "visto": "El Expediente N° [—], la Ley Nacional de Catastro N° 26.209, la Ley N° [—] complementaria de la Ley Nacional de Catastro (en adelante, «la Ley»), la Ley N° 25.326 de Protección de los Datos Personales, el Decreto-Ley N° 6582/58 y sus modificatorias, y",
+ "considerando": [
+  "Que la Ley incorporó a la Ley N° 26.209 un estándar único de datos parcelarios, la interconexión de los catastros con los registros de la propiedad inmueble, el registro nacional de la propiedad automotor, la Inspección General de Justicia, los registros públicos de comercio provinciales y la Agencia de Recaudación y Control Aduanero, y el registro patrimonial, coordinado por el Consejo Federal del Catastro y administrado en su base técnica por esa Agencia.",
+  "Que la Ley sujetó el acceso a los datos personales del registro patrimonial a la Ley N° 25.326 y a garantías de finalidad, autorización judicial para usos distintos del catastral, registral o tributario, registro inalterable de consultas y derecho del titular a conocerlo, con auditoría anual del órgano de control de esa ley.",
+  "Que corresponde al Poder Ejecutivo nacional reglamentar las obligaciones de los organismos nacionales que intervienen y los procedimientos que hacen efectivas esas garantías, sin afectar las competencias de las provincias sobre sus catastros y registros ni las del Consejo Federal del Catastro.",
+  "Que la presente reglamentación no crea organismos ni autoriza gasto, conforme a la Ley.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 2, de la Constitución Nacional y por el artículo 12 de la Ley."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Interconexión de los registros nacionales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente decreto reglamenta la Ley en lo que corresponde a los organismos del Estado nacional y al registro patrimonial, sin perjuicio de las normas que dicte el Consejo Federal del Catastro en ejercicio de las funciones que le asignan los artículos 16 bis, 16 quater y 16 sexies de la Ley N° 26.209."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Organismos nacionales obligados",
+     "texto": "El registro nacional de la propiedad del automotor, la Inspección General de Justicia (IGJ) y la Agencia de Recaudación y Control Aduanero (ARCA) se interconectarán con los catastros y con los registros de la propiedad inmueble de las jurisdicciones adheridas, conforme al artículo 16 quinquies de la Ley N° 26.209, dentro de los doce (12) meses de la entrada en vigencia del presente. La interconexión se hará mediante la plataforma de interoperabilidad del Estado nacional, a cargo de la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros, que establecerá con el Consejo Federal del Catastro los protocolos técnicos y de seguridad."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Datos de cada registro",
+     "texto": "El Consejo Federal del Catastro, con la ARCA y los registros nacionales, aprobará y publicará la nómina de datos que cada registro aporta al registro patrimonial, limitada a: a) catastros: identificación, georreferenciación, superficie, mejoras y valuación de cada parcela; b) registros de la propiedad inmueble: titularidad, proporción y gravámenes de cada inmueble; c) registro de la propiedad automotor: titularidad, dominio y valuación de cada vehículo; d) IGJ y registros públicos de comercio: denominación, inscripción y titulares de participaciones de cada sociedad; e) ARCA: clave de identificación tributaria y domicilio fiscal de los titulares. Todo dato adicional requerirá justificación expresa de su necesidad para una finalidad legal."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Registro patrimonial",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Base técnica",
+     "texto": "La ARCA administrará la base técnica del registro patrimonial conforme al artículo 16 sexies de la Ley N° 26.209: asegurará su disponibilidad, integridad y seguridad, aplicará las reglas de calidad y actualización que fije el Consejo Federal del Catastro y no podrá modificar los datos que provengan de los catastros y registros, que seguirán bajo la responsabilidad de cada organismo de origen. Los costos se atenderán con los créditos asignados a la Agencia."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Acceso por finalidad",
+     "texto": "El acceso a datos personales del registro patrimonial se regirá por una matriz pública de accesos, aprobada por el Consejo Federal del Catastro con la ARCA, que indicará para cada organismo los datos a los que accede y la finalidad legal que lo habilita. Cada acceso se hará con usuario personal y autenticación reforzada. Se prohíben las descargas masivas de datos personales; la información para fines estadísticos se entregará anonimizada."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Usos que requieren autorización judicial",
+     "texto": "Todo pedido de acceso para una finalidad distinta de la catastral, registral o tributaria deberá acompañar la orden judicial que lo autoriza o el consentimiento expreso del titular otorgado por medio digital. La ARCA verificará esos recaudos antes de habilitar el acceso y conservará copia de la orden o del consentimiento junto con el registro de la consulta."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Trazabilidad y control",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Registro de consultas",
+     "texto": "Cada consulta quedará registrada mediante un mecanismo técnico que impida su alteración o supresión, con la identificación del organismo y del agente, la fecha y hora, los datos consultados, la finalidad invocada y, en su caso, la orden judicial o el consentimiento. Los registros se conservarán durante diez (10) años."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Derecho del titular",
+     "texto": "El titular de los datos podrá conocer en forma gratuita, por la plataforma digital de trámites del Estado nacional o por su domicilio fiscal electrónico, el registro de consultas sobre sus datos, dentro de los diez (10) días hábiles de solicitado. La reserva por alguna de las excepciones de la Ley N° 25.326 se dispondrá por acto fundado del organismo consultante, que se comunicará a la Agencia de Acceso a la Información Pública."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Auditoría anual e incidentes",
+     "texto": "La Agencia de Acceso a la Información Pública tendrá acceso pleno a los registros de consultas para la auditoría anual prevista en el artículo 16 octies de la Ley N° 26.209 y publicará su resultado. Los organismos que intervienen le notificarán todo incidente de seguridad o acceso indebido dentro de las setenta y dos (72) horas de conocido, y lo comunicarán a los titulares afectados."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Responsabilidad de los agentes",
+     "texto": "El acceso o uso de datos en violación de las garantías de la Ley constituye falta grave para los agentes de la Administración Pública Nacional, sin perjuicio de las sanciones de la Ley N° 25.326 y de la responsabilidad civil y penal que corresponda."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Metas y financiamiento",
+   "articulos": [
+    {
+     "n": 11,
+     "epigrafe": "Avance de las metas",
+     "texto": "Los registros nacionales y la ARCA informarán cada trimestre al Consejo Federal del Catastro el estado de su interconexión, para la publicación del avance prevista en el artículo 9° de la Ley."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Convenios de financiamiento",
+     "texto": "Las operaciones de crédito público previstas en el artículo 10 de la Ley se transferirán a las jurisdicciones mediante convenios que fijen metas verificables de georreferenciación y valuación, desembolsos contra avance certificado y la obligación de publicar su ejecución. Solo financiarán inversión de capital y se incluirán en la ley de presupuesto conforme a ese artículo."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Normas complementarias",
+     "texto": "La ARCA, el Ministerio de Justicia y Seguridad y la Secretaría de Función Pública y Gobierno Digital dictarán, en sus respectivos ámbitos, las normas complementarias del presente."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 15,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

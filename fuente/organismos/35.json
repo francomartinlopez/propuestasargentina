@@ -1,0 +1,118 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Infraestructura y Energía",
+    "estado": "modificado",
+    "rol": "Coordina el relevamiento, la lista de prioridad y el informe. Ordena la cartera con criterios públicos, verifica el financiamiento antes de licitar e informa al Congreso. Metodología de priorización, fichas, certificados de financiamiento y tablero público.",
+    "hoy": "Ministerio de Economía",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Energía",
+      "estado": "modificado",
+      "rol": "Releva y reactiva las obras de gas y de energía eléctrica.",
+      "hoy": "Secretaría de Energía (Secretaría de Coordinación de Energía y Minería, Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Obras Públicas, Agua y Vivienda",
+      "estado": "modificado",
+      "rol": "Releva y reactiva los acueductos y las obras hídricas. Firma por la Nación, integra la comisión de seguimiento y gestiona los aportes.",
+      "hoy": "Secretaría de Obras Públicas (Secretaría de Coordinación de Infraestructura, Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Energía Argentina S.A.",
+      "estado": "existente",
+      "rol": "Aporta información y colabora como comitente de las obras de gas a su cargo.",
+      "hoy": "Energía Argentina S.A. (ámbito de la Secretaría de Energía; sujeta a privatización por la Ley 27.742)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Obras Públicas, Agua y Vivienda del Ministerio de Infraestructura y Energía",
+      "estado": "modificado",
+      "rol": "Ejecuta acueductos, agua y cloacas sin crear un ente (recursos del ex ENOHSA, Decreto 1020/2024).",
+      "hoy": "Secretaría de Obras Públicas, con las Subsecretarías de Obras y Servicios y de Recursos Hídricos (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Energía del Ministerio de Infraestructura y Energía",
+      "estado": "existente",
+      "rol": "Gasoductos y represas del programa de obras paralizadas.",
+      "hoy": "Secretaría de Energía (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Transporte del Ministerio de Infraestructura y Energía",
+      "estado": "existente",
+      "rol": "Ferrocarril de cargas, Tren Norpatagónico y accesos portuarios.",
+      "hoy": "Secretaría de Transporte, con la Subsecretaría de Transporte Ferroviario (Ministerio de Economía)",
+      "hijos": []
+     },
+     {
+      "nombre": "Dirección Nacional de Vialidad",
+      "estado": "modificado",
+      "rol": "Rutas nacionales por resultados y administración del Fondo de Caminos Rurales. Lista de rutas troncales prioritarias, indicadores por resultados y Fondo de Caminos Rurales.",
+      "hoy": "Dirección Nacional de Vialidad (organismo descentralizado, Secretaría de Transporte)",
+      "hijos": [
+       {
+        "nombre": "Fondo de caminos rurales",
+        "estado": "nuevo",
+        "rol": "Paga por kilómetro rural transitable verificado, con recursos del fideicomiso de transporte y techo anual.",
+        "hoy": "",
+        "hijos": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Secretaría de Hacienda del Ministerio de Economía",
+    "estado": "existente",
+    "rol": "Incluye cuotas y planillas del art. 15 de la Ley 24.156 y controla el cupo.",
+    "hoy": "Secretaría de Hacienda, Subsecretaría de Presupuesto (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Jefatura de Gabinete",
+    "estado": "existente",
+    "rol": "Remite el proyecto; no puede reasignar créditos de obras contratadas.",
+    "hoy": "Jefatura de Gabinete de Ministros",
+    "hijos": [
+     {
+      "nombre": "Oficina Nacional de Contrataciones",
+      "estado": "existente",
+      "rol": "Administra COMPR.AR y CONTRAT.AR, donde se sigue cada obra.",
+      "hoy": "Oficina Nacional de Contrataciones (Jefatura de Gabinete de Ministros, Decreto 50/2019 según Decreto 581/2026)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Externos",
+    "estado": "existente",
+    "rol": "Aportes y convenios de obra; crédito multilateral (BID, CAF, Banco Mundial, Fonplata); concesionarios.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Hacienda",
+    "estado": "existente",
+    "rol": "Interviene en los certificados y mide el cupo de obras.",
+    "hoy": "Secretaría de Hacienda, Subsecretaría de Presupuesto",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Provincias",
+   "rol": "Comitentes o ejecutoras, ponen contrapartida y operan y mantienen las obras."
+  }
+ ]
+}

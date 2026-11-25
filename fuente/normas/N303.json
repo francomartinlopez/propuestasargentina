@@ -1,0 +1,95 @@
+{
+ "id": "N303",
+ "tipo": "resolucion",
+ "titulo": "Resolución del Ministerio de Salud: Red Nacional de Derivación y centros regionales de coordinación",
+ "sumilla": "Crea la Red Nacional de Derivación con un centro coordinador por región sanitaria, un tablero en tiempo real de camas de terapia intensiva, neonatología y quirófano, públicas y privadas con convenio, telemedicina con los hospitales de referencia y un protocolo de traslados aéreos con la flota sanitaria y los aviones provinciales.",
+ "cuando": "Fase I (año 1); centros operativos dentro del primer año",
+ "cuando_breve": "Fase I",
+ "tramite": "No aplica: resolución del Ministerio de Salud, que se complementa con convenios con las jurisdicciones y los prestadores. No pasa por el Congreso.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° 23.661, y",
+ "considerando": [
+  "Que los artículos 25 a 29 de la Ley N° 23.661 regulan las prestaciones del seguro de salud, la articulación entre sus agentes y el Registro Nacional de Prestadores, lo que permite coordinar la utilización de la capacidad instalada de los distintos subsectores.",
+  "Que la falta de información en tiempo real sobre las camas críticas disponibles demora las derivaciones de pacientes graves y obliga a traslados innecesarios o tardíos.",
+  "Que los hospitales de referencia nacional pueden acompañar por telemedicina a los hospitales del interior, de modo que el paciente viaje solo cuando es necesario.",
+  "Que la organización de servicios propios y la celebración de convenios con las jurisdicciones y los prestadores es una tarea propia de este Ministerio.",
+  "Que han tomado intervención los servicios jurídicos permanentes de este Ministerio.",
+  "Que la presente se dicta en uso de las facultades conferidas por el artículo 23 de la Ley de Ministerios N° 22.520 (t.o. Decreto N° 438/92) y sus modificatorias."
+ ],
+ "formula": "Por ello, EL MINISTRO DE SALUD RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Creación",
+     "texto": "Créase la Red Nacional de Derivación, en el ámbito de este Ministerio, para coordinar la derivación y el traslado de pacientes que requieren cuidados críticos, neonatológicos o quirúrgicos de urgencia entre establecimientos de todo el país."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Centros regionales",
+     "texto": "La Red se organiza en un Centro Regional de Coordinación de Derivaciones por cada región sanitaria que se acuerde en el Consejo Federal de Salud. Cada centro funciona las veinticuatro (24) horas de todos los días del año, recibe los pedidos de derivación de los establecimientos de su región, asigna la cama disponible más adecuada y coordina el traslado."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Tablero de camas críticas",
+     "texto": "Este Ministerio pone en funcionamiento un tablero digital que muestra en tiempo real las camas disponibles de terapia intensiva de adultos y pediátrica, de neonatología y los quirófanos de urgencia de los establecimientos públicos y de los privados que adhieran por convenio. Los establecimientos adheridos actualizan la información en forma continua, con los estándares que apruebe este Ministerio."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Telemedicina con hospitales de referencia",
+     "texto": "Los hospitales nacionales de referencia, y los provinciales que adhieran, brindan interconsulta por telemedicina a los establecimientos de la Red, para que el paciente sea trasladado solo cuando su atención no pueda resolverse en el lugar. Este Ministerio aprueba el protocolo de interconsulta y los estándares técnicos y de seguridad de la información."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Traslados aéreos",
+     "texto": "Los traslados aéreos sanitarios se realizan con la flota sanitaria nacional y con las aeronaves que las jurisdicciones pongan a disposición de la Red por convenio. El centro regional dispone el traslado según un protocolo único de criterios clínicos, tiempos de respuesta y responsables, que este Ministerio aprueba dentro de los noventa (90) días."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Catástrofes",
+     "texto": "En catástrofes y emergencias que superen la capacidad de la Red, el apoyo de las Fuerzas Armadas se solicita conforme el protocolo conjunto de despliegue rápido de las Fuerzas Armadas en emergencias vigente."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Convenios con las jurisdicciones",
+     "texto": "Este Ministerio celebra convenios con las provincias y la Ciudad Autónoma de Buenos Aires para la conformación y la operación de los centros regionales, la carga de información en el tablero y la puesta a disposición de aeronaves sanitarias."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Convenios con prestadores",
+     "texto": "Este Ministerio puede celebrar convenios con establecimientos privados y de la seguridad social, inscriptos en el Registro Nacional de Prestadores, para su integración voluntaria al tablero y a la Red. La atención del paciente derivado se paga por el financiador que corresponda según su cobertura."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Protección de datos",
+     "texto": "La información clínica que circula en la Red se trata con la finalidad exclusiva de la atención del paciente y conforme la legislación de protección de datos personales. El tablero público muestra solo datos agregados de disponibilidad, sin datos personales."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Puesta en marcha",
+     "texto": "Los centros regionales y el tablero funcionan dentro de los doce (12) meses de la presente, en forma progresiva y empezando por las regiones con mayor demanda de camas críticas."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Informe público",
+     "texto": "Este Ministerio publica cada trimestre la cantidad de derivaciones por región, el tiempo promedio entre el pedido y la asignación de cama y entre la asignación y el ingreso, los traslados aéreos realizados y las interconsultas por telemedicina."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande la presente se atienden con los créditos asignados a este Ministerio en la ley de presupuesto."
+    },
+    {
+     "n": 13,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,120 @@
+{
+ "id": "N270",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley de movilidad jubilatoria",
+ "sumilla": "Reglamenta la ley de movilidad: actualización mensual por IPC, cálculo anual del componente de recuperación con escalas decrecientes desde la mínima y prioridad a la mínima mientras no supere la canasta básica, y la incorporación del bono al haber en cuatro tramos semestrales.",
+ "cuando": "Fase I · dentro de los 60 días de publicada la ley de movilidad («Ley de movilidad jubilatoria con piso de inflación», art. 9)",
+ "cuando_breve": "Fase I · dentro de los 60 días de publicada la ley de movilidad",
+ "tramite": "Decreto simple del Poder Ejecutivo nacional (art. 99 incs. 1 y 2 CN); reglamentario, no DNU.",
+ "motivos": "",
+ "visto": "El Expediente N° [●], la Ley N° 24.241 y sus modificatorias, la Ley N° [●] de movilidad jubilatoria, la Ley N° 27.343, y",
+ "considerando": [
+  "Que la Ley N° [●] sustituyó el artículo 32 de la Ley N° 24.241 y estableció la movilidad de las prestaciones del régimen previsional público con dos componentes: la actualización mensual por la variación del Índice de Precios al Consumidor como piso y un componente anual de recuperación ligado al aumento real de la recaudación tributaria nacional.",
+  "Que esa ley encomendó a la reglamentación las escalas de distribución del componente de recuperación, decrecientes desde el haber mínimo hacia los haberes superiores, con prioridad al haber mínimo mientras no supere la Canasta Básica Total para un adulto equivalente.",
+  "Que la misma ley dispuso la incorporación al haber, en cuatro tramos semestrales, del bono extraordinario previsional otorgado desde marzo de 2024, y que la reglamentación no puede alterar la fórmula ni los plazos legales.",
+  "Que la Oficina de Presupuesto del Congreso de la Nación, creada por la Ley N° 27.343, publica cada trimestre el cálculo de la movilidad, para lo cual debe contar con la información de la Administración Nacional de la Seguridad Social y del Ministerio de Economía.",
+  "Que han tomado intervención los servicios jurídicos competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la Constitución Nacional."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Actualización mensual",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "El presente decreto reglamenta la Ley N° [●] de movilidad jubilatoria, en adelante «la Ley», y el artículo 32 de la Ley N° 24.241, según el texto dado por la Ley."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Resolución mensual de movilidad",
+     "texto": "La Administración Nacional de la Seguridad Social (ANSES) dicta cada mes la resolución que fija el porcentaje de actualización del inciso a) del artículo 32 de la Ley N° 24.241, igual a la variación del Índice de Precios al Consumidor nivel general publicada por el Instituto Nacional de Estadística y Censos (INDEC) para el segundo mes anterior al de pago, y lo aplica a las prestaciones, al haber mínimo y máximo y a los demás importes del régimen que se actualizan por movilidad. Si el índice no estuviera publicado al momento de la liquidación, la actualización se aplica en la liquidación siguiente con las diferencias retroactivas."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Componente de recuperación",
+   "articulos": [
+    {
+     "n": 3,
+     "epigrafe": "Aumento real de la recaudación",
+     "texto": "A los fines del artículo 3° de la Ley, el Ministerio de Economía calcula la recaudación tributaria nacional total, incluidos los recursos de la seguridad social, de cada mes de los dos años calendario anteriores, la expresa a precios de diciembre del año anterior mediante el Índice de Precios al Consumidor, y determina el aumento real como la diferencia entre la suma del último año y la del año precedente. Publica el resultado antes del 15 de febrero, con la serie mensual y la metodología."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Monto distribuible",
+     "texto": "El monto distribuible del componente de recuperación es el porcentaje que fija el inciso b) del artículo 32 de la Ley N° 24.241 aplicado al aumento real de la recaudación. Si el aumento real es nulo o negativo, el componente es igual a cero."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Costo del componente",
+     "texto": "La ANSES determina el porcentaje de aumento de cada prestación de modo que el costo anual del componente, calculado sobre trece (13) haberes y sobre las prestaciones vigentes en el mes de enero, no exceda el monto distribuible."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Escalas de distribución",
+     "texto": "El aumento se distribuye según las siguientes escalas, medidas por el haber de cada prestación en el mes de febrero en relación con el haber mínimo garantizado: a) hasta dos (2) haberes mínimos: coeficiente uno (1); b) más de dos (2) y hasta cuatro (4) haberes mínimos: coeficiente cero coma cinco (0,5); y c) más de cuatro (4) haberes mínimos: coeficiente cero coma veinticinco (0,25). El aumento de cada prestación es el producto de su coeficiente por una tasa base única que la ANSES calcula conforme el artículo anterior. El haber mínimo garantizado se incrementa en el porcentaje que corresponde al tramo del inciso a). Ninguna prestación puede quedar, después del aumento, por debajo del haber resultante de otra que antes del aumento era menor."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Prioridad del haber mínimo",
+     "texto": "Mientras el haber mínimo garantizado de febrero no supere el último valor publicado por el INDEC de la Canasta Básica Total para un adulto equivalente del Gran Buenos Aires, los coeficientes de los incisos b) y c) del artículo anterior son de cero coma veinticinco (0,25) y cero (0), respectivamente."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Aplicación en marzo",
+     "texto": "La ANSES aplica el componente de recuperación junto con la actualización mensual del mes de marzo, mediante una resolución que publica con la memoria de cálculo: aumento real de la recaudación, monto distribuible, tasa base, coeficientes aplicados y costo anual estimado."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Incorporación del bono al haber",
+   "articulos": [
+    {
+     "n": 9,
+     "epigrafe": "Monto a incorporar",
+     "texto": "El importe a incorporar al haber de cada prestación es el del bono extraordinario previsional que percibía en el mes anterior al de la entrada en vigencia de la Ley. Cada tramo equivale a un cuarto (1/4) de ese importe."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Calendario",
+     "texto": "Los cuatro (4) tramos del artículo 5° de la Ley se incorporan en los meses de enero y julio del ejercicio siguiente al de la entrada en vigencia de la Ley y en los meses de enero y julio del ejercicio posterior. El haber mínimo garantizado se incrementa en cada tramo en el importe incorporado a quienes perciben el bono completo."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Efectos y remanente",
+     "texto": "Cada tramo incorporado integra el haber a todos los efectos desde el mes de su incorporación, incluidos la movilidad del mes siguiente y el sueldo anual complementario. La parte del bono aún no incorporada se abona como remanente por su valor nominal, conforme el artículo 6° de la Ley."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Prestaciones vinculadas al haber mínimo",
+     "texto": "Cuando el monto de una prestación se determine como proporción del haber mínimo garantizado, la ANSES liquida en cada tramo la diferencia necesaria para que la suma de la prestación y del remanente del bono no resulte inferior a la percibida en el mes anterior, conforme el artículo 6° de la Ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Información y disposiciones finales",
+   "articulos": [
+    {
+     "n": 13,
+     "epigrafe": "Información a la Oficina de Presupuesto del Congreso",
+     "texto": "La ANSES y el Ministerio de Economía designan cada uno un área responsable de suministrar a la Oficina de Presupuesto del Congreso de la Nación la información del artículo 4° de la Ley. Sin perjuicio de los requerimientos que esta formule, le remiten cada mes, en formato abierto, la cantidad de prestaciones y el haber promedio por tramo de las escalas del artículo 6°, la resolución de movilidad del mes y su costo."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Gastos",
+     "texto": "Los gastos que demande el presente se atienden conforme el artículo 7° de la Ley."
+    },
+    {
+     "n": 15,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,118 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Suministra datos de ingresos formales para el retiro por escalones.",
+    "hoy": "ARCA, organismo descentralizado del Ministerio de Economía",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Energía",
+    "estado": "modificado",
+    "rol": "Publica costos y cobertura, aprueba el cronograma de precios de la energía y del gas, administra el registro único y aprueba los mapas de zona fría y cálida. Opera el ReSEF ampliado como registro único de tarifa social.",
+    "hoy": "Secretaría de Energía (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Transporte",
+    "estado": "modificado",
+    "rol": "Cronograma del transporte de jurisdicción nacional, reducción de compensaciones y tarifa social por pasajero.",
+    "hoy": "Secretaría de Transporte (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "estado": "modificado",
+    "rol": "Publica costos de transporte y distribución nacionales y aprueba los cuadros tarifarios de cada escalón.",
+    "hoy": "ENRGE (art. 161 Ley 27.742; Decreto 452/2025), ámbito de la Secretaría de Energía",
+    "hijos": []
+   },
+   {
+    "nombre": "Servicio Meteorológico Nacional",
+    "estado": "modificado",
+    "rol": "Provee las series de temperatura y el dictamen técnico de grados-día por departamento.",
+    "hoy": "Servicio Meteorológico Nacional (organismo descentralizado, Ministerio de Defensa)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Aporta los datos de vacunación y controles para la acreditación automática del módulo por hijo. Coordina el plan nacional y los equipos de calle de salud mental y consumos.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Discapacidad",
+      "estado": "modificado",
+      "rol": "Conserva la certificación (CUD); deja la liquidación de las pensiones, que pasa al IUU en ANSES en el tercer tramo. Conserva el otorgamiento y la certificación; comunica altas y bajas a ANSES; transfiere registros de liquidación.",
+      "hoy": "Secretaría Nacional de Discapacidad (Ministerio de Salud; Decreto 50/2019, Anexo I, apartado XVI, texto Decreto 27/2026)",
+      "hijos": []
+     },
+     {
+      "nombre": "Organismo nacional competente en materia de discapacidad",
+      "estado": "modificado",
+      "rol": "Conserva el otorgamiento, el CUD y la política de discapacidad; deja la gestión de la liquidación y transfiere sus registros a ANSES.",
+      "hoy": "Secretaría Nacional de Discapacidad (Ministerio de Salud; Anexo I del Decreto 50/2019, apartado XVI, texto Decreto 27/2026)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Ministerio de Trabajo y Desarrollo Social",
+    "estado": "modificado",
+    "rol": "Pierde la gestión de la Prestación Alimentar; conserva los demás componentes del Plan Argentina contra el Hambre. Deja de ejecutar el Programa de Acompañamiento Social y transfiere sus registros a ANSES. Organiza la salida laboral: capacitación, trabajo comunitario e ingreso único.",
+    "hoy": "Ministerio de Capital Humano",
+    "hijos": [
+     {
+      "nombre": "Administración Nacional de la Seguridad Social",
+      "estado": "modificado",
+      "rol": "Autoridad de aplicación: padrón único, liquidación y pago del IUU, reclamos y datos abiertos. Informa cada mes al registro único los hogares del Ingreso Universal Único. Dicta las normas operativas del padrón, la liquidación, los escalones y la ventanilla de reclamo. Certifica la migración del primer tramo y adecúa sus resoluciones. Certifica la migración del segundo tramo; paga el módulo de desempleo de transición y el módulo por hijo de las ex titulares de la Ley 23.746. Liquidación unificada de los módulos de discapacidad y de mayores sin aportes en el padrón único del IUU.",
+      "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano (Secretaría de Trabajo, Empleo y Seguridad Social)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Niñez, Adolescencia y Familia",
+      "estado": "modificado",
+      "rol": "Pierde la gestión de la Prestación Alimentar y del Acompañamiento Social; colabora en controles de salud y escolaridad.",
+      "hoy": "Ministerio de Capital Humano",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Organismo nacional de la seguridad social",
+    "estado": "modificado",
+    "rol": "Liquida y paga la pensión por discapacidad como módulo del IUU, en el padrón único (hoy ya la liquida y paga por el Decreto 84/2026, Anexo II, art. 5).",
+    "hoy": "ANSES, organismo descentralizado del Ministerio de Capital Humano (Subsecretaría de Seguridad Social, Secretaría de Trabajo, Empleo y Seguridad Social; Anexo III del Decreto 50/2019)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Estadística y Censos (INDEC)",
+    "estado": "existente",
+    "rol": "Hace el relevamiento anual de personas en situación de calle con las provincias.",
+    "hoy": "INDEC, organismo desconcentrado del Ministerio de Economía (Decreto 50/2019, Anexo III, ap. IX, según Decreto 146/2026)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Autoridad Nacional de Control y Transparencia",
+   "rol": "Auditoría anual del IUU y de la cláusula de no pérdida."
+  },
+  {
+   "nombre": "Jurisdicciones provinciales",
+   "rol": "Aportan sus bases al padrón único por convenio."
+  },
+  {
+   "nombre": "Ente Regulador de Agua y Saneamiento (ERAS)",
+   "rol": "Publica costo y cobertura del servicio y aplica la tarifa social del art. 76 del marco con el registro único."
+  }
+ ]
+}

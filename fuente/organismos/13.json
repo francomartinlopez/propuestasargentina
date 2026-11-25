@@ -1,0 +1,26 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "estado": "modificado",
+    "rol": "Publica el tope actualizado cada semestre, adecua el régimen de retención y fiscaliza las reglas antielusión. Publica el tope semestral, dicta las normas de retención y fiscaliza las exclusiones.",
+    "hoy": "ARCA (Decreto 953/2024)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Hacienda",
+    "estado": "modificado",
+    "rol": "Computa el costo fiscal en la cuenta fiscal del presupuesto.",
+    "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": []
+}

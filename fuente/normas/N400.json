@@ -1,0 +1,121 @@
+{
+ "id": "N400",
+ "tipo": "resolucion",
+ "titulo": "Resolución de la Secretaría de Energía del Ministerio de Infraestructura y Energía: costos y cobertura publicados, cronograma de escalones del PEST y del precio del gas, y bloques de consumo base por zona",
+ "sumilla": "Publica el costo y la cobertura de la electricidad y del gas por categoría de usuario, aprueba los ocho escalones del PEST y del precio del gas hasta 2031 con el tope de aumento real, e instruye su traslado a tarifas; fija los bloques de consumo base de la tarifa social, con bloque ampliado en la zona cálida y bonificación adicional en la zona fría.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "No aplica: resolución de la Secretaría de Energía, previa audiencia pública sobre el cronograma (art. 10 de la ley «Ley de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas»).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° […] de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas, las Leyes Nros. 24.065, 24.076 (T.O. 2025, Decreto N° 451/2025), 25.565 y 27.828, los Decretos Nros. 452/2025, 943/2025 y […] (reglamentario de la Ley N° […]), las Resoluciones de esta Secretaría N° 686/2022 y N° 91/2024, y",
+ "considerando": [
+  "Que la Ley N° […] ordena publicar el costo de cada servicio y la parte que cubre la tarifa, y cerrar la diferencia en ocho escalones semestrales, el 1° de marzo y el 1° de septiembre de cada año, con un tope de aumento real de la factura residencial media del diez por ciento por escalón y sin escalones de gas entre junio y agosto.",
+  "Que el Decreto N° […] designó a esta Secretaría autoridad de aplicación en energía y le encomendó aprobar el cronograma de los precios de la energía eléctrica y del gas.",
+  "Que el Decreto N° 943/2025 fijó los bloques de consumo base de energía eléctrica (artículo 4°), mantuvo los de gas de las Resoluciones de esta Secretaría N° 686/2022 y N° 91/2024 (artículo 5°) y estableció las bonificaciones sobre el PEST, el Precio Anual Uniforme del gas y el precio del propano por redes (artículo 7° y Anexo II), que la ley toma como mínimo.",
+  "Que el artículo 75 de la Ley N° 25.565, con el texto de la Ley N° […], establece la bonificación adicional por zona fría para los hogares con tarifa social, y la ley ordena un bloque ampliado de electricidad en la zona cálida.",
+  "Que el cronograma fue sometido a audiencia pública conforme al artículo 10 de la ley.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente se dicta en uso de las facultades conferidas por las Leyes Nros. 24.065 y 24.076 (T.O. 2025), por la Ley N° […] y su Decreto reglamentario N° […] y por el artículo 12 del Decreto N° 943/2025."
+ ],
+ "formula": "Por ello, EL SECRETARIO DE ENERGÍA RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Costo y cobertura",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente resolución publica el costo y la cobertura de los precios de la energía eléctrica y del gas que se trasladan a las tarifas, aprueba su cronograma de escalones y fija los bloques de consumo base de la tarifa social por zona, conforme a los artículos 6° a 9°, 16, 20 a 24 de la Ley N° […] de tarifas previsibles de los servicios públicos, tarifa social única y zonas climáticas (en adelante, «la ley») y a su Decreto reglamentario N° […]."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Costo y cobertura de la energía eléctrica",
+     "texto": "Apruébanse y publícanse, en el Anexo I, el costo medio de abastecimiento de la energía y la potencia en el Mercado Eléctrico Mayorista informado por el Organismo Encargado del Despacho, el Precio Estacional de la Energía (PEST) que se traslada a cada categoría de usuario de las distribuidoras y la cobertura resultante, al 31 de diciembre de 2027 y a la fecha de la presente, por categoría de usuario: residencial; general o no residencial; y grandes usuarios de las distribuidoras."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Costo y cobertura del gas",
+     "texto": "Apruébanse y publícanse, en el Anexo II, el costo medio ponderado de abastecimiento del gas natural y del gas propano indiluido por redes, el precio del gas en el Punto de Ingreso al Sistema de Transporte (PIST) y el Precio Anual Uniforme que se trasladan a cada categoría de usuario y la cobertura resultante, al 31 de diciembre de 2027 y a la fecha de la presente, por categoría de usuario: residencial; servicio general; y gas natural comprimido."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Cobertura inicial y brecha",
+     "texto": "La cobertura de los Anexos I y II al 31 de diciembre de 2027 es la cobertura inicial a los fines del artículo 3°, inciso c), de la ley. La brecha inicial de cada categoría es la diferencia entre el CIEN POR CIENTO (100 %) y esa cobertura."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Cronograma de escalones",
+   "articulos": [
+    {
+     "n": 5,
+     "epigrafe": "Cronograma del PEST",
+     "texto": "Apruébase, en el Anexo III, el cronograma de escalones del PEST, que fija para cada categoría de usuario la cobertura objetivo de los escalones del 1° de marzo y del 1° de septiembre de cada año, desde el 1° de marzo de 2028 hasta el 1° de septiembre de 2031, igual a la cobertura inicial más tantos octavos de la brecha inicial como escalones se hayan aplicado. En cada programación o reprogramación estacional del Mercado Eléctrico Mayorista se fijará el PEST que resulte de aplicar la cobertura objetivo al costo vigente."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Cronograma del precio del gas",
+     "texto": "Apruébase, en el Anexo IV, el cronograma de escalones del precio del gas que se traslada a las tarifas (PIST y Precio Anual Uniforme), con la misma regla del artículo anterior. Ningún escalón del precio del gas se aplicará entre el 1° de junio y el 31 de agosto."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Escalón de marzo de 2028",
+     "texto": "La parte de la brecha correspondiente al escalón del 1° de marzo de 2028 que no se haya aplicado antes de la entrada en vigencia de la ley se suma al escalón del 1° de septiembre de 2028 y, en lo que exceda el tope del artículo 8° de la ley, a los siguientes, conforme se indica en los Anexos III y IV."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Tope y traslado",
+     "texto": "Antes de cada escalón, esta Secretaría verificará con el Ente Nacional Regulador del Gas y la Electricidad que el aumento de la factura residencial media, sumado a las actualizaciones aplicadas desde el escalón anterior, no supere en más de un DIEZ POR CIENTO (10 %) la variación del índice de precios al consumidor del INDEC del mismo período. Si lo supera, reducirá la cobertura objetivo de ese escalón hasta el tope, sumará la diferencia al escalón siguiente y lo publicará con el precio aplicable."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Instrucción al Ente Nacional Regulador del Gas y la Electricidad",
+     "texto": "Instrúyese al ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD a trasladar a los cuadros tarifarios de las distribuidoras de jurisdicción nacional los precios de cada escalón y a publicarlos con QUINCE (15) días de anticipación, y a aplicar a las tarifas de transporte y de distribución de jurisdicción nacional la misma cobertura objetivo de los Anexos III y IV. Comuníquense los cronogramas a las autoridades provinciales y a los entes reguladores provinciales, a los fines del acuerdo federal del artículo 31 de la ley."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Tarifa social por zona y disposiciones finales",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Consumo base de energía eléctrica",
+     "texto": "El consumo base de energía eléctrica de la tarifa social es el bloque fijado por el artículo 4° del Decreto N° 943/2025, que constituye el mínimo del artículo 16 de la ley. En los departamentos de la zona cálida, durante los meses de calor, el bloque se incrementa en la proporción que resulta de la fórmula del Anexo V, creciente con los grados-día de refrigeración del departamento por encima del umbral. Hasta la aprobación del primer mapa de la zona cálida, rigen los consumos base diferenciales que esta Secretaría haya fijado para las zonas cálidas."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Consumo base de gas",
+     "texto": "El consumo base de gas por redes de la tarifa social es el fijado por subzona tarifaria en las Resoluciones de esta Secretaría N° 686/2022 y N° 91/2024, mantenido por el artículo 5° del Decreto N° 943/2025, que constituye el mínimo del artículo 16 de la ley. Sobre ese consumo base, durante los meses de invierno, se aplica a los hogares con tarifa social de la zona fría la bonificación adicional del inciso b) del primer párrafo del artículo 75 de la Ley N° 25.565."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Bonificaciones",
+     "texto": "La bonificación general de la tarifa social sobre el PEST, sobre el Precio Anual Uniforme del gas y sobre el precio del gas propano indiluido por redes no será inferior a la vigente a la fecha de sanción de la ley conforme al artículo 7° y al Anexo II del Decreto N° 943/2025. Esta Secretaría publicará antes del 31 de marzo de cada año el porcentaje de la bonificación general, el de la bonificación adicional por zona fría y el incremento del bloque de la zona cálida."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Registro único",
+     "texto": "Esta Secretaría incorporará cada mes al Registro de Subsidios Energéticos Focalizados (ReSEF), como registro único de tarifa social, a los hogares que informe la ADMINISTRACIÓN NACIONAL DE LA SEGURIDAD SOCIAL conforme al artículo 13, inciso b), de la ley, y comunicará la condición de beneficiario a las distribuidoras, al administrador del sistema de pago del transporte y al Ente Regulador de Agua y Saneamiento."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Publicación",
+     "texto": "Esta Secretaría publicará cada semestre, antes del 15 de febrero y del 15 de agosto, en formato de datos abiertos: el costo, el precio trasladado y la cobertura por categoría de usuario; el avance respecto de la brecha inicial; la parte trasladada por el tope; los hogares con tarifa social por provincia y zona climática; y el monto de las bonificaciones y de las compensaciones a los prestadores."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 16,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

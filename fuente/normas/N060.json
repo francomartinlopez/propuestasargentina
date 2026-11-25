@@ -1,0 +1,147 @@
+{
+ "id": "N060",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de reforma del Régimen de Incentivo para Grandes Inversiones: apertura sectorial, contrapartida territorial y contenido nacional",
+ "sumilla": "Reforma el Título VII de la Ley 27.742: abre el régimen a toda actividad productiva, incluida la industria; reemplaza el piso único por montos por sector y región (más bajos en NOA y NEA) coordinados con el RIMI; crea el Plan de Contrapartida obligatorio y la curva de contenido nacional (35-25-20 %), con auditoría y pérdida proporcional de beneficios; limita el arancel cero a bienes sin producción local registrada; fija ley y sede arbitral argentinas para contratos nuevos; abre una nueva ventana y la migración voluntaria. Incluye un capítulo condicional para integrar el régimen de nuevas industrias si ya es ley.",
+ "cuando": "Días 61-100",
+ "cuando_breve": "Días 61-100",
+ "tramite": "Cámara de Diputados como cámara de origen recomendada (beneficios tributarios y derechos de importación, art. 52 CN). Mayoría simple.",
+ "motivos": "El Régimen de Incentivo para Grandes Inversiones del Título VII de la Ley N° 27.742 otorga estabilidad fiscal, menores tributos y facilidades aduaneras a ocho sectores, con un piso único de doscientos millones de dólares. Su plazo de adhesión, prorrogado por el Decreto N° 105/2026, vence en julio de 2027 y no admite otra prórroga por decreto. Este proyecto abre el régimen a toda actividad productiva, incluida la industria, y reemplaza el piso único por montos por sector y por región, más bajos en el Noroeste y el Noreste, coordinados con el régimen de medianas inversiones de la Ley N° 27.802 para que ninguna inversión quede sin régimen. Establece que el beneficio se gana construyendo: cada proyecto ejecuta un Plan de Contrapartida, calculado sobre el beneficio fiscal que recibe, con obras de uso común elegidas de catálogos públicos provinciales, de acceso abierto y transferidas al Estado local. Reemplaza el compromiso de proveedores locales por una curva decreciente de contenido nacional, medida sobre la oferta local registrada, y limita la exención de derechos de importación a los bienes que no se producen en el país. La verificación es independiente y pública, y el incumplimiento implica la pérdida proporcional de beneficios con devolución. Los nuevos contratos se rigen por la ley argentina con arbitraje en el país, respetando los tratados vigentes. Se abre una nueva ventana y se respetan los derechos adquiridos.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto y alcance del régimen",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley modifica el Título VII de la Ley N° 27.742, Régimen de Incentivo para Grandes Inversiones (RIGI), con el objeto de abrirlo a toda actividad productiva, incluida la industria; fijar montos mínimos de inversión por sector y por región; establecer el Plan de Contrapartida obligatorio y la curva de contenido nacional; limitar la exención de derechos de importación a los bienes sin producción local registrada; fijar la ley argentina y la sede arbitral en el país para los nuevos contratos; abrir una nueva ventana de adhesión y ofrecer a los proyectos ya aprobados la migración voluntaria al nuevo esquema."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Sectores habilitados",
+     "texto": "Sustitúyese el artículo 167 de la Ley N° 27.742 por el siguiente: «Artículo 167.- Podrán adherir al RIGI los vehículos de proyecto único que realicen inversiones en cualquier actividad productiva de bienes o servicios, incluidas la industria manufacturera, la agroindustria, la forestoindustria, la tecnología, el turismo, la logística, la infraestructura, la minería, la siderurgia, la energía y el petróleo y el gas, en las condiciones previstas en este Título. Ningún sector podrá ser excluido sino por ley.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Montos mínimos por sector y por región",
+     "texto": "Sustitúyese el artículo 173 de la Ley N° 27.742 por el siguiente: «Artículo 173.- El monto mínimo de inversión en activos computables se fijará por sector y por región. El Poder Ejecutivo nacional establecerá y publicará la escala de montos mínimos con criterios públicos, dentro de los siguientes límites: a) ningún monto mínimo podrá superar los doscientos millones de dólares estadounidenses (USD 200.000.000); b) ningún monto mínimo podrá ser inferior al monto mínimo más alto previsto en el artículo 181 de la Ley N° 27.802 para el régimen de incentivo para medianas inversiones, de modo que toda inversión de las empresas no comprendidas en ese régimen cuente con un régimen aplicable; c) en las provincias de las regiones del Noroeste y del Noreste argentinos, y en las demás zonas de menor desarrollo relativo que determine la reglamentación con criterios públicos, el monto mínimo de cada sector será inferior al fijado para el mismo sector en el resto del país. Al menos el cuarenta por ciento (40 %) del monto mínimo deberá invertirse dentro de los dos (2) primeros años contados desde la aprobación de la adhesión.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Plan de Contrapartida, contenido nacional y verificación",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Plan de Contrapartida",
+     "texto": "Incorpórase como artículo 176 bis de la Ley N° 27.742 el siguiente: «Artículo 176 bis.- Plan de Contrapartida. Todo plan de inversión incluirá un Plan de Contrapartida, por el cual el vehículo de proyecto único ejecuta a su cargo obras de infraestructura física o social de uso común en la región donde invierte. El valor del Plan será igual al QUINCE POR CIENTO (15 %) del beneficio fiscal estimado del proyecto durante su plazo, calculado conforme a la reglamentación sobre los tributos y derechos que el Estado resigna, y no sobre el monto de la inversión. Las obras se elegirán del catálogo público del artículo 176 ter, serán de acceso abierto y se transferirán al Estado provincial o municipal al concluir, con un plan de mantenimiento financiado por el vehículo de proyecto único por el plazo que fije el Plan. El Plan deberá contar con la aprobación de la provincia y de los municipios del área de influencia del proyecto, y ningún beneficio del régimen podrá otorgarse antes de esa aprobación.»"
+    },
+    {
+     "n": 5,
+     "epigrafe": "Catálogos públicos de obras",
+     "texto": "Incorpórase como artículo 176 ter de la Ley N° 27.742 el siguiente: «Artículo 176 ter.- Catálogos públicos. Cada provincia elaborará, con sus municipios, un catálogo público de obras prioritarias de infraestructura física y social por región, con criterios públicos de selección, y lo publicará completo. La autoridad de aplicación suscribirá con cada provincia el convenio respectivo, comenzando por las zonas de los proyectos ya aprobados. Los catálogos se aprobarán dentro de los doce (12) meses de la entrada en vigencia de este artículo.»"
+    },
+    {
+     "n": 6,
+     "epigrafe": "Curva de contenido nacional",
+     "texto": "Incorpórase como artículo 176 quater de la Ley N° 27.742 el siguiente: «Artículo 176 quater.- Contenido nacional. El compromiso de adquisición a proveedores locales previsto en el artículo 176 se reemplaza, para los planes de inversión que se aprueben conforme a la presente reforma, por la siguiente curva decreciente de contenido nacional, medida sobre las adquisiciones de bienes y servicios de los rubros que tengan oferta local registrada en el registro del artículo 176 quinquies: a) treinta y cinco por ciento (35 %) durante los tres (3) primeros años del proyecto; b) veinticinco por ciento (25 %) del cuarto al sexto año; c) veinte por ciento (20 %) desde el séptimo año, como piso permanente. La curva y su verificación forman parte del contrato de estabilidad de cada proyecto y rigen por todo su plazo.»"
+    },
+    {
+     "n": 7,
+     "epigrafe": "Registro público de oferta local",
+     "texto": "Incorpórase como artículo 176 quinquies de la Ley N° 27.742 el siguiente: «Artículo 176 quinquies.- Registro público de oferta local. La Secretaría de Producción y Comercio del Ministerio de Economía llevará un registro público de oferta local por rubro, único para el contenido nacional de este Título, la exención del artículo 190 y la nómina de insumos sin producción local, sobre la base de los criterios de origen nacional vigentes. Asígnase al Instituto Nacional de Tecnología Industrial (INTI) la función de certificar técnicamente la capacidad de los proveedores inscriptos.»"
+    },
+    {
+     "n": 8,
+     "epigrafe": "Verificación y publicidad",
+     "texto": "Incorpórase como artículo 176 sexies de la Ley N° 27.742 el siguiente: «Artículo 176 sexies.- Verificación. El cumplimiento del Plan de Contrapartida y de la curva de contenido nacional será verificado por auditores técnicos independientes seleccionados por la autoridad de aplicación mediante procedimiento público. La primera auditoría se realizará a los dieciocho (18) meses de la aprobación del proyecto y las siguientes en forma anual, y sus resultados se publicarán completos. Cada obra comprometida, su avance y su costo se publicarán en tiempo real en el sistema público de contrataciones abiertas.»"
+    },
+    {
+     "n": 9,
+     "epigrafe": "Infracciones de contrapartida y contenido nacional",
+     "texto": "Incorpórase como artículo 217 bis de la Ley N° 27.742 el siguiente: «Artículo 217 bis.- Constituye infracción el incumplimiento del Plan de Contrapartida o de la curva de contenido nacional. La infracción acarreará la pérdida de los beneficios del régimen en proporción al incumplimiento verificado y la devolución, en la misma proporción, de los beneficios percibidos, con sus intereses, conforme al procedimiento de los artículos 211 a 217 y sin perjuicio de las demás sanciones allí previstas para los incumplimientos graves o reiterados.»"
+    },
+    {
+     "n": 10,
+     "epigrafe": "Exención de derechos de importación",
+     "texto": "Incorpórase como último párrafo del artículo 190 de la Ley N° 27.742 el siguiente: «Para los proyectos que adhieran conforme a la presente reforma y para la inversión nueva de las ampliaciones, la exención alcanza solo a los bienes de capital, repuestos y partes que no cuenten con producción local registrada en el registro del artículo 176 quinquies a la fecha de su importación.»"
+    },
+    {
+     "n": 11,
+     "epigrafe": "Ley aplicable y sede del arbitraje",
+     "texto": "Incorpórase como artículo 221 bis de la Ley N° 27.742 el siguiente: «Artículo 221 bis.- Para las adhesiones que se aprueben a partir de la entrada en vigencia de la presente reforma, y en las ampliaciones de proyectos ya adheridos solo respecto de la inversión nueva, los derechos y obligaciones se rigen por la ley argentina y el arbitraje previsto en el artículo 221 tendrá sede en la República Argentina, sin perjuicio de lo que establezcan los tratados bilaterales de inversión vigentes, conforme al artículo 222. Lo dispuesto en este artículo no altera los derechos adquiridos de los proyectos aprobados con anterioridad.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Nueva ventana de adhesión y migración voluntaria",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Nueva ventana de adhesión",
+     "texto": "Establécese un nuevo plazo para solicitar la adhesión al RIGI, con las reglas de la presente ley, de dos (2) años contados desde la entrada en vigencia de su reglamentación, prorrogable por única vez por un (1) año por el Poder Ejecutivo nacional. Este plazo reemplaza, para las nuevas solicitudes, al previsto en los artículos 168 y 228 de la Ley N° 27.742."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Derechos adquiridos y migración voluntaria",
+     "texto": "Los proyectos aprobados antes de la entrada en vigencia de la presente ley conservan los derechos adquiridos conforme al régimen vigente al tiempo de su aprobación. Dentro del plazo del artículo anterior podrán solicitar su migración al régimen reformado. El proyecto que migre asumirá el Plan de Contrapartida y la curva de contenido nacional por el plazo que le reste, y accederá a los beneficios adicionales que determine la reglamentación entre los previstos en este Título, que no podrán exceder los que correspondan a una nueva adhesión."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Disposición condicional: régimen de grandes inversiones en nuevas industrias",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Integración en un solo régimen con dos escalas",
+     "texto": "Si a la fecha de entrada en vigencia de la presente ley se encontrare vigente una ley que establezca un régimen de incentivo para grandes inversiones en nuevas industrias con un monto mínimo de inversión igual o superior a mil millones de dólares estadounidenses (USD 1.000.000.000), ese régimen se integra al RIGI como su escala superior, con los siguientes alcances: a) los proyectos de esa escala conservan los beneficios específicos que dicha ley les otorga; b) les son aplicables el Plan de Contrapartida, la curva de contenido nacional, la limitación de la exención de derechos de importación, la ley aplicable y la sede del arbitraje, y las infracciones previstas en la presente ley; c) cuando esa ley fije un porcentaje de adquisiciones a proveedores locales distinto del de la curva del artículo 176 quater de la Ley N° 27.742, se aplicará el mayor; d) la autoridad de aplicación, el registro y el procedimiento serán los del RIGI. Si a esa fecha no se encontrare vigente una ley de esas características, el presente artículo no tendrá efecto."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación del RIGI que designe el Poder Ejecutivo nacional aprobará los Planes de Contrapartida, suscribirá los convenios de catálogos con las provincias, seleccionará a los auditores técnicos independientes y aplicará las infracciones de la presente ley, con intervención de la Agencia de Recaudación y Control Aduanero (ARCA) en lo relativo a beneficios tributarios y aduaneros y a su devolución."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Financiamiento",
+     "texto": "Las erogaciones que demanden la elaboración de los catálogos a cargo de la Nación y las auditorías técnicas se atenderán con los créditos asignados a la autoridad de aplicación del RIGI en la ley de presupuesto, mediante la reasignación de partidas que disponga el Jefe de Gabinete de Ministros, sin incremento del gasto total. Las obras de los Planes de Contrapartida están a cargo exclusivo de los vehículos de proyecto único."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial. Las solicitudes de adhesión en trámite a esa fecha podrán continuar conforme al régimen anterior o ajustarse al reformado, a opción del solicitante."
+    },
+    {
+     "n": 19,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 27.742, art. 167 (sustituido)",
+  "Ley 27.742, art. 173 (sustituido)",
+  "Ley 27.742, art. 176 (compromiso de proveedores reemplazado por la curva, art. 176 quater)",
+  "Ley 27.742, arts. 176 bis a 176 sexies (incorporados)",
+  "Ley 27.742, art. 190 (párrafo incorporado)",
+  "Ley 27.742, art. 217 bis (incorporado)",
+  "Ley 27.742, art. 221 bis (incorporado)",
+  "Ley 27.742, arts. 168 y 228 (plazo de adhesión, reemplazado para nuevas solicitudes)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

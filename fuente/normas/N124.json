@@ -1,0 +1,158 @@
+{
+ "id": "N124",
+ "tipo": "ley_provincial",
+ "titulo": "Ley provincial modelo complementaria de los presupuestos mínimos de protección ambiental para la actividad minera",
+ "sumilla": "Modelo para las provincias mineras: designa la autoridad provincial, regula el procedimiento, los plazos y la validez de la consulta a las comunidades del área de influencia, adhiere a la ley nacional de consulta indígena, fija plazos máximos para el balance hídrico y la evaluación ambiental estratégica por cuenca, organiza el monitoreo participativo con datos abiertos y su financiamiento.",
+ "cuando": "Fase I · año 1 (tras la sanción de la ley «Ley de presupuestos mínimos de protección ambiental para la actividad minera»; se ofrece a las provincias en la mesa minera)",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "Modelo para las legislaturas provinciales (mayoría simple, según cada Constitución provincial). Sin trámite nacional.",
+ "motivos": "La Ley Nacional de Presupuestos Mínimos de Protección Ambiental para la Actividad Minera rige en todo el país sin necesidad de adhesión y deja a las provincias, titulares del dominio originario de los recursos naturales conforme al artículo 124 de la Constitución Nacional, el dictado de las normas complementarias, la designación de sus autoridades y la ejecución en su territorio. Este proyecto completa esa ley en lo que corresponde a la Provincia. Regula el procedimiento de consulta a las comunidades del área de influencia de cada proyecto, con plazos y reglas de validez ciertas, de modo que la consulta no se convierta en un trámite ni en un veto sin reglas, y adhiere a la ley nacional de consulta previa, libre e informada para las comunidades indígenas. Fija plazos máximos para el balance hídrico y la evaluación ambiental estratégica de cada cuenca, con evaluación técnica independiente, y organiza el monitoreo participativo de cada proyecto con universidades e instituciones científicas y con publicación de todos los datos. Los costos de la consulta y del monitoreo están a cargo del titular de cada proyecto, mediante una tasa retributiva, y se complementan con una parte de las regalías mineras. Así, las comunidades tienen voz y control, y el inversor obtiene un procedimiento con plazos y reglas conocidas.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Disposiciones generales",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece las normas complementarias de la Ley Nacional N° […] de Presupuestos Mínimos de Protección Ambiental para la Actividad Minera, en ejercicio del artículo 41 de la Constitución Nacional y del dominio originario de la Provincia sobre sus recursos naturales reconocido por el artículo 124 de la Constitución Nacional."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Es autoridad de aplicación de la presente ley la autoridad ambiental provincial, que actuará en coordinación con la autoridad minera provincial. La autoridad ambiental emite la declaración de impacto ambiental de los proyectos mineros, conduce las consultas y lleva el registro previsto en el artículo 17."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Integración",
+     "texto": "La presente ley se aplica en forma conjunta con la Sección Segunda del Título XIII del Código de Minería, con la Ley General del Ambiente N° 25.675 y con la legislación ambiental provincial. En caso de duda prevalece la interpretación más favorable a la protección del agua para consumo humano."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Consulta",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Adhesión a la ley nacional de consulta indígena",
+     "texto": "Adhiérese a la Ley Nacional N° […] de Consulta Previa, Libre e Informada a los Pueblos Indígenas respecto de las medidas de competencia provincial, incluidas las autorizaciones mineras. La consulta a las comunidades indígenas se realizará conforme a esa ley, con los efectos previstos en ella y en la Ley Nacional N° […] de Presupuestos Mínimos de Protección Ambiental para la Actividad Minera."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Consulta a las comunidades del área de influencia",
+     "texto": "La autorización de explotación de un proyecto minero, o de su ampliación, requiere la consulta a las comunidades del área de influencia del proyecto, que la autoridad de aplicación delimitará en forma fundada en el acto de inicio del procedimiento, considerando como mínimo las localidades de la cuenca que puedan ver afectados su agua o su ambiente."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Procedimiento",
+     "texto": "La consulta se realizará en las siguientes etapas:\na) convocatoria pública, con difusión en medios locales y en el sitio oficial, al menos TREINTA (30) días hábiles antes de la audiencia;\nb) acceso libre y gratuito, desde la convocatoria, al proyecto, a su evaluación de impacto ambiental, al balance hídrico de la cuenca y a un resumen en lenguaje claro;\nc) asistencia técnica independiente a las comunidades, a cargo de una universidad pública o institución científica elegida por ellas;\nd) audiencia pública, en la localidad más cercana al proyecto;\ne) instancia de diálogo para alcanzar acuerdos, por un plazo de hasta SESENTA (60) días hábiles;\nf) acta de cierre con los acuerdos alcanzados y las cuestiones sin acuerdo."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Plazo máximo",
+     "texto": "El procedimiento de consulta, desde la convocatoria hasta el acta de cierre, no excederá de CIENTO OCHENTA (180) días hábiles, prorrogables por única vez por SESENTA (60) días hábiles por acuerdo entre la autoridad y los representantes de las comunidades."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Validez y participación",
+     "texto": "La consulta es válida cuando se cumplieron todas las etapas del artículo 6°, con independencia del número de participantes. La autoridad de aplicación garantizará la participación de toda persona del área de influencia que se inscriba y la de las organizaciones comunitarias que la representen."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Efectos",
+     "texto": "La autorización otorgada sin consulta válida es nula. Los acuerdos del acta de cierre son obligatorios para la autoridad y para el titular, y se incorporan como condiciones de la declaración de impacto ambiental y de la autorización. Respecto de las cuestiones sin acuerdo, la autoridad resolverá en forma fundada y responderá a cada objeción planteada. Cuando el proyecto afecte el agua de consumo de una comunidad indígena, o implique su traslado, se requiere su consentimiento conforme a la ley nacional de consulta."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Agua y evaluación por cuenca",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Prioridad del agua para consumo humano",
+     "texto": "Ninguna autorización de uso de agua para la actividad minera podrá comprometer la disponibilidad o la calidad del agua destinada al consumo humano de las poblaciones de la cuenca. La autoridad hídrica provincial revisará las autorizaciones vigentes cuando el monitoreo acredite ese riesgo."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Balance hídrico",
+     "texto": "La autoridad hídrica provincial elaborará el balance hídrico de cada cuenca con proyectos mineros, con evaluación técnica independiente, en un plazo máximo de DOCE (12) meses desde la solicitud del primer proyecto en esa cuenca. Para las cuencas con proyectos en operación a la entrada en vigencia de la presente ley, el plazo se rige por la disposición transitoria de la ley nacional."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Evaluación ambiental estratégica por cuenca",
+     "texto": "En toda cuenca con más de un proyecto minero aprobado o en trámite, la autoridad de aplicación realizará la evaluación ambiental estratégica de la cuenca, que considerará los efectos acumulados de todos ellos, en un plazo máximo de DOCE (12) meses desde la presentación del nuevo proyecto. Cuando la cuenca sea interjurisdiccional, la evaluación se hará con el comité de cuenca correspondiente."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Evaluación técnica independiente",
+     "texto": "Los balances hídricos y las evaluaciones estratégicas serán realizados o revisados por universidades públicas u organismos científicos sin vínculo con el titular de los proyectos, seleccionados por la autoridad de aplicación mediante procedimiento público."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Obligación de expedirse",
+     "texto": "Vencidos los plazos de los artículos 11 y 12, la autoridad deberá expedirse sobre el proyecto dentro de los TREINTA (30) días hábiles. El retardo injustificado constituye falta grave del funcionario responsable."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Monitoreo participativo y datos abiertos",
+   "articulos": [
+    {
+     "n": 15,
+     "epigrafe": "Comité de monitoreo",
+     "texto": "Cada proyecto minero contará con un comité de monitoreo ambiental participativo, integrado por representantes de las comunidades del área de influencia, de la universidad o institución científica designada por la autoridad de aplicación y de la autoridad de aplicación. El titular del proyecto no integra el comité ni interviene en la selección de los técnicos que realizan el monitoreo."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Contenido del monitoreo",
+     "texto": "El monitoreo controlará, como mínimo, la cantidad y la calidad del agua superficial y subterránea, la calidad del aire y del suelo y el cumplimiento de las condiciones de la autorización y de los acuerdos de la consulta, con la frecuencia que fije la declaración de impacto ambiental."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Registro y datos abiertos",
+     "texto": "La autoridad de aplicación publicará en su sitio oficial, en formato de datos abiertos y en forma accesible para las comunidades, los resultados del monitoreo dentro de los TREINTA (30) días de obtenidos, los balances hídricos, las evaluaciones estratégicas, las evaluaciones de impacto ambiental, las actas de consulta y las autorizaciones, y remitirá esa información al registro público nacional previsto en la ley nacional."
+    },
+    {
+     "n": 18,
+     "epigrafe": "Incumplimientos",
+     "texto": "El incumplimiento de las condiciones de la autorización o de los acuerdos de la consulta, verificado por el monitoreo, habilita a la autoridad de aplicación a intimar su corrección y, si persiste, a suspender la actividad, conforme a la legislación ambiental provincial."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Financiamiento y disposiciones finales",
+   "articulos": [
+    {
+     "n": 19,
+     "epigrafe": "Tasa de consulta y monitoreo",
+     "texto": "Créase la tasa de consulta y monitoreo ambiental minero, a cargo del titular de cada proyecto, que retribuye el costo de organizar la consulta, el de la asistencia técnica a las comunidades, el del monitoreo independiente y la parte del balance hídrico de la cuenca que corresponda al proyecto. La autoridad de aplicación fijará su monto en función del costo de cada servicio y lo publicará."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Afectación de regalías",
+     "texto": "Aféctase el [CINCO POR CIENTO (5 %), valor sugerido: cada Provincia fija el suyo] de las regalías mineras que perciba la Provincia al financiamiento complementario del monitoreo y de los balances hídricos, en una cuenta especial con ejecución publicada."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Transición",
+     "texto": "La consulta prevista en el Capítulo II se aplica a las autorizaciones de explotación y de ampliación que se otorguen desde la entrada en vigencia de la presente ley. Los proyectos en operación constituirán su comité de monitoreo dentro de los DOCE (12) meses."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo provincial reglamentará la presente ley dentro de los NOVENTA (90) días de su promulgación."
+    },
+    {
+     "n": 23,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo provincial."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

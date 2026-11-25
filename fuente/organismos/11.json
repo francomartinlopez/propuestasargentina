@@ -1,0 +1,39 @@
+{
+ "modo": "intervienen",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Actualiza los anexos por cambios de nomenclatura y publica el informe anual de recaudación del art. 11 de la ley «Ley de cronograma legal de derechos de exportación a cero (reforma del artículo 755 del Código Aduanero)».",
+    "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos)",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Hacienda",
+      "estado": "modificado",
+      "rol": "Identifica las posiciones arancelarias de cada tramo y publica el informe anual de recaudación.",
+      "hoy": "Ministerio de Economía – Secretaría de Hacienda (Subsecretaría de Ingresos Públicos)",
+      "hijos": []
+     },
+     {
+      "nombre": "Agencia de Recaudación y Control Aduanero",
+      "estado": "modificado",
+      "rol": "Aplica las alícuotas del cronograma legal a cada destinación de exportación. Adecua sus sistemas y aplica cada tramo de pleno derecho en su fecha.",
+      "hoy": "ARCA – Dirección General de Aduanas",
+      "hijos": []
+     }
+    ]
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Congreso de la Nación",
+   "rol": "Recupera en forma exclusiva la potestad de crear o aumentar derechos de exportación."
+  }
+ ]
+}

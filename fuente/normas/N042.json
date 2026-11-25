@@ -1,0 +1,71 @@
+{
+ "id": "N042",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de exención del sueldo en el impuesto a las ganancias hasta quince salarios mínimos",
+ "sumilla": "Modifica los artículos 30 y 82 de la Ley de Impuesto a las Ganancias para eximir la remuneración del trabajo en relación de dependencia hasta un tope mensual equivalente a 15 salarios mínimos, vitales y móviles, fijado en pesos al sancionarse y actualizado cada seis meses por IPC; el excedente tributa con la escala del artículo 94 y reglas antielusión impiden reetiquetar como sueldo rentas de capital o de trabajo independiente.",
+ "cuando": "Fase II (desde el año 2): se envía en la Fase II; rige desde el 1° de enero siguiente a su publicación.",
+ "cuando_breve": "Fase II",
+ "tramite": "Cámara de Diputados como cámara de origen (tributos, art. 52 CN). Mayoría simple.",
+ "motivos": "El impuesto a las ganancias volvió a alcanzar en 2024 a los sueldos de la cuarta categoría. Gravar el salario registrado recarga a quien trabaja en regla, que ya soporta aportes y contribuciones, y fortalece el incentivo a la informalidad, que es uno de los problemas centrales del mercado de trabajo. El proyecto exime la remuneración del trabajo en relación de dependencia hasta un tope mensual equivalente a quince salarios mínimos, vitales y móviles, el mismo umbral que utilizó el Congreso en 2023. El tope se fija en pesos al sancionarse la ley y desde entonces se actualiza cada seis meses por el índice de precios al consumidor del INDEC, del mismo modo que las deducciones personales, para que no pierda valor con la inflación ni dependa de la evolución del salario mínimo. La parte del sueldo que supere el tope sigue tributando con la escala progresiva del artículo 94. El impuesto continúa alcanzando a las sociedades y a las rentas de capital y de actividades independientes. Para que la exención no sea una vía de elusión, no se aplica a las remuneraciones que pagan las entidades controladas por el propio trabajador o su familia ni a las que encubren distribuciones de utilidades. El costo fiscal se compensa dentro de la sustitución tributaria con la nueva base patrimonial.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley exime del impuesto a las ganancias la remuneración del trabajo personal en relación de dependencia hasta el tope que establece, y grava el excedente con la escala progresiva del impuesto."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Tramo exento del sueldo",
+     "texto": "Incorpórase como último párrafo del artículo 82 de la Ley de Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones, el siguiente:\n«Las ganancias comprendidas en el inciso b) de este artículo están exentas hasta el tope de exención del trabajo en relación de dependencia, que se fija en un importe mensual equivalente a quince (15) veces el salario mínimo, vital y móvil vigente a la fecha de sanción de la ley que incorpora este párrafo, actualizado conforme al artículo 30. Si la Oficina de Presupuesto del Congreso estimara que el costo fiscal anual de la exención con ese importe supera el cero coma cuatro por ciento (0,4 %) del producto interno bruto, el tope será el importe menor que, según esa estimación, iguale dicho costo. La estimación será pública y fundada, y la autoridad de aplicación publicará el importe resultante en pesos antes de su entrada en vigencia. El tope anual es igual a trece (13) veces el tope mensual e incluye el sueldo anual complementario. Cuando el contribuyente perciba ganancias de ese inciso de más de un empleador, el tope se aplicará una sola vez sobre su suma. El importe que exceda el tope está gravado y tributa conforme a la escala del artículo 94. La exención no comprende las remuneraciones excluidas por la ley que incorpora este párrafo.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Actualización del tope y cómputo de las deducciones",
+     "texto": "Incorpórase como último párrafo del artículo 30 de la Ley de Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones, el siguiente:\n«El tope de exención del trabajo en relación de dependencia previsto en el último párrafo del artículo 82 se actualizará semestralmente, en los meses de enero y julio, por la variación del índice de precios al consumidor del Instituto Nacional de Estadística y Censos (INDEC), del mismo modo que los importes de este artículo, sin relación con la evolución del salario mínimo, vital y móvil. Respecto de las ganancias del inciso b) del artículo 82, el tramo exento sustituye a la ganancia no imponible y a la deducción especial de este artículo, que no se computarán sobre ellas; las cargas de familia y las demás deducciones admitidas se computarán sobre el importe que exceda el tope.»"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Reglas antielusión",
+     "texto": "La exención del último párrafo del artículo 82 de la Ley de Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones no comprende: a) las remuneraciones que pague una entidad en la que el trabajador, su cónyuge o conviviente o sus parientes hasta el segundo grado tengan, directa o indirectamente, una participación que les otorgue el control o una influencia significativa, conforme a los criterios que fije la reglamentación; b) los importes que, bajo la forma de remuneración, sustituyan la distribución de utilidades o retribuyan el capital aportado; c) los importes pagados en el marco de una relación de dependencia simulada que encubra el ejercicio de una actividad independiente. Esos importes tributarán conforme al régimen que corresponda a su naturaleza."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Régimen de retención",
+     "texto": "Los empleadores, en su carácter de agentes de retención, aplicarán el tramo exento conforme a las normas que dicte la Agencia de Recaudación y Control Aduanero, que adecuará el régimen de retención dentro de los sesenta (60) días de la publicación de la presente ley."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Costo fiscal y publicación",
+     "texto": "El costo fiscal de la presente ley se computará en la cuenta fiscal de la sustitución tributaria de cada proyecto de ley de presupuesto, compensado con los recursos de reemplazo que allí se identifiquen. La Agencia de Recaudación y Control Aduanero publicará cada año la cantidad de trabajadores alcanzados por el tramo exento y por el excedente y el costo fiscal del año anterior."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo nacional reglamentará la presente ley dentro de los sesenta (60) días de su publicación."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial y surtirá efecto para las ganancias percibidas desde el 1° de enero siguiente a esa fecha."
+    },
+    {
+     "n": 9,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley de Impuesto a las Ganancias (t.o. 2019), art. 82 (se incorpora el tramo exento del inciso b)",
+  "Ley de Impuesto a las Ganancias (t.o. 2019), art. 30 (actualización del tope y cómputo de deducciones)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

@@ -1,0 +1,102 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Secretaría de Relaciones Exteriores",
+    "estado": "modificado",
+    "rol": "Puntos de atención de la ventanilla en el exterior y negociación de convenios de seguridad social. Atención de la ventanilla en el exterior: orientación, verificación de documentos, apostillas y carga en el expediente.",
+    "hoy": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "hijos": []
+   },
+   {
+    "nombre": "Dirección Nacional de Migraciones",
+    "estado": "modificado",
+    "rol": "Puntos de atención en el país y datos de entradas y salidas para la serie oficial. Atención de la ventanilla en sus delegaciones, registro del retorno y datos para la serie oficial.",
+    "hoy": "DNM (organismo descentralizado, Ministerio de Seguridad Nacional, Decreto 793/2025)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Educación, Ciencia y Cultura",
+    "estado": "modificado",
+    "rol": "Convalidación digital en 90 días y convenios con las universidades.",
+    "hoy": "Secretaría de Educación (Ministerio de Capital Humano)",
+    "hijos": [
+     {
+      "nombre": "Secretaría de Universidades y Ciencia",
+      "estado": "modificado",
+      "rol": "Autoridad de aplicación: RAÍCES ampliado, líneas de reinserción y red de la diáspora.",
+      "hoy": "Secretaría de Innovación, Ciencia y Tecnología (Vicejefatura de Gabinete, Jefatura de Gabinete de Ministros)",
+      "hijos": []
+     },
+     {
+      "nombre": "Secretaría de Educación",
+      "estado": "modificado",
+      "rol": "Convalidación digital en 90 días, lista cerrada de requisitos y tablero mensual.",
+      "hoy": "Dirección de Validez Nacional de Títulos y Estudios (Secretaría de Educación, Ministerio de Capital Humano)",
+      "hijos": []
+     },
+     {
+      "nombre": "Consejo Nacional de Investigaciones Científicas y Técnicas",
+      "estado": "modificado",
+      "rol": "Reserva y evalúa por méritos el cupo de retorno de hasta 100 ingresos por año.",
+      "hoy": "CONICET (organismo bajo control tutelar de la Secretaría de Innovación, Ciencia y Tecnología, Jefatura de Gabinete)",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social (ANSES)",
+    "estado": "modificado",
+    "rol": "Reconocimiento de aportes por convenios a pedido de la ventanilla.",
+    "hoy": "ANSES (organismo descentralizado, Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Estadística y Censos (INDEC)",
+    "estado": "modificado",
+    "rol": "Serie oficial anual de emigración y retorno, con la DNM.",
+    "hoy": "INDEC (Ministerio de Economía)",
+    "hijos": []
+   },
+   {
+    "nombre": "Cancillería",
+    "estado": "modificado",
+    "rol": "Atención de la ventanilla en el exterior: orientación, verificación de documentos, apostillas y carga en el expediente único («Reglamentación de la ley de retorno y ventanilla única» art. 2).",
+    "hoy": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto (representaciones consulares)",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridad migratoria",
+    "estado": "modificado",
+    "rol": "Atención en sus delegaciones, registro del retorno y datos para la serie oficial de emigración y retorno («Reglamentación de la ley de retorno y ventanilla única» arts. 3 y 9).",
+    "hoy": "DNM (organismo descentralizado, Ministerio de Seguridad Nacional, Decreto 793/2025)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ventanilla digital de retorno",
+    "estado": "nuevo",
+    "rol": "Creada por «Ley de retorno: ampliación del Programa RAÍCES» (art. 4); expediente digital único.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Trabajo y Empleo",
+    "estado": "modificado",
+    "rol": "Certificación de oficios adquiridos en el exterior.",
+    "hoy": "Secretaría de Trabajo, Empleo y Seguridad Social (Ministerio de Capital Humano)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Ventanilla Única de Retorno",
+   "rol": "Expediente único para títulos, aportes, bienes personales, estudios de los hijos y reinserción."
+  }
+ ]
+}

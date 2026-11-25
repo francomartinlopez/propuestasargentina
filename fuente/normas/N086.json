@@ -1,0 +1,112 @@
+{
+ "id": "N086",
+ "tipo": "decreto",
+ "titulo": "Reglamentación de la Ley de Ventanilla Única Digital para Empresas",
+ "sumilla": "Reglamenta la ley de ventanilla única: reparte las 24 horas hábiles entre registro, ARCA y banco, fija en 5 días hábiles los demás trámites y el cierre simplificado, ordena las observaciones en un solo acto, el registro de intercambios de datos y la publicación por organismo, y deroga el decreto del año 1, que queda integrado al régimen legal.",
+ "cuando": "Fase II (años 2-3), dentro de los 90 días de publicada la ley «Ley de Ventanilla Única Digital para Empresas» (art. 20 de esa ley)",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica (decreto reglamentario, art. 99 inc. 2 CN).",
+ "motivos": null,
+ "visto": "El Expediente N° [—], la Ley N° [—] de Ventanilla Única Digital para Empresas, la Ley General de Sociedades N° 19.550 (t.o. 1984), las Leyes Nros. 25.246, 25.506 y 27.349, y los Decretos Nros. 1063/2016 y [—], y",
+ "considerando": [
+  "Que la Ley N° [—] de Ventanilla Única Digital para Empresas estableció con carácter permanente un trámite único para constituir, modificar y cerrar empresas y fijó en VEINTICUATRO (24) horas hábiles el plazo de constitución de las sociedades por acciones simplificadas que adopten el modelo tipo.",
+  "Que su artículo 7° encomienda a la reglamentación fijar el plazo máximo de cada organismo y entidad para los demás trámites, y su artículo 20, dictar la reglamentación dentro de los NOVENTA (90) días.",
+  "Que la Ventanilla Única creada por el Decreto N° [—] funciona sobre la plataforma de Trámites a Distancia aprobada por el Decreto N° 1063/2016 y queda integrada al régimen legal, por lo que corresponde derogar aquel decreto y preservar los actos dictados en su marco.",
+  "Que es necesario distribuir el plazo total entre las etapas del trámite para que cada organismo y entidad responda por la suya y para que la publicación de resultados permita identificar las demoras.",
+  "Que han tomado intervención los servicios jurídicos permanentes competentes.",
+  "Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, incisos 1 y 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° [—] de Ventanilla Única Digital para Empresas, en adelante «la Ley», conforme a su artículo 3°, a la Secretaría de Función Pública y Gobierno Digital de la Jefatura de Gabinete de Ministros. La Ventanilla Única funcionará en la plataforma de Trámites a Distancia (TAD) aprobada por el Decreto N° 1063/2016 y en la aplicación Mi Argentina."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Plazos de constitución",
+     "texto": "A los fines de los artículos 7° y 9° de la Ley, rigen los siguientes plazos máximos, contados desde que el organismo o la entidad recibe la información completa de la Ventanilla Única y comprendidos dentro del plazo total de VEINTICUATRO (24) horas hábiles:\na) registro público: inscripción de la sociedad por acciones simplificada con modelo tipo, DOCE (12) horas hábiles;\nb) Agencia de Recaudación y Control Aduanero (ARCA): asignación de la CUIT y, en el mismo acto, alta de empleador, SEIS (6) horas hábiles desde la inscripción;\nc) entidad financiera: apertura de la cuenta, SEIS (6) horas hábiles desde la asignación de la CUIT.\nLa autoridad de aplicación podrá disponer que las etapas se cumplan en forma simultánea cuando la interoperabilidad lo permita, sin que ello amplíe el plazo total."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Plazos de los demás trámites",
+     "texto": "Para la constitución de sociedades de otros tipos o de sociedades por acciones simplificadas que no adopten el modelo tipo, y para las modificaciones del artículo 11 de la Ley, el plazo máximo de cada organismo nacional y entidad será de CINCO (5) días hábiles. Para el cierre simplificado de los artículos 12 y 13 de la Ley, el registro público inscribirá el cierre y ARCA y la entidad financiera darán las bajas dentro de los CINCO (5) días hábiles de presentada la declaración jurada completa."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Observaciones",
+     "texto": "Las observaciones del artículo 8° de la Ley se formularán por la Ventanilla Única, en un único acto, con cita de la norma que establece el requisito incumplido. El plazo del organismo se reanuda, por el tiempo que le restaba, al subsanarse la observación."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Dato único",
+     "texto": "A los fines del artículo 5° de la Ley, la autoridad de aplicación publicará y mantendrá actualizada la nómina de datos y documentos que la Ventanilla Única obtiene de los organismos integrados, que ningún organismo o entidad podrá requerir al solicitante."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Modelo tipo y firma digital",
+     "texto": "El registro público nacional publicará en la Ventanilla Única el modelo tipo de instrumento constitutivo vigente, en formato editable. La validación de identidad del artículo 6° de la Ley se efectuará con los mecanismos de identificación digital que apruebe la autoridad de aplicación, con nivel de seguridad suficiente para la firma digital."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Apertura de cuenta",
+     "texto": "La solicitud de apertura de cuenta del artículo 9° de la Ley se remitirá a la entidad financiera elegida con la identidad validada, los datos de la sociedad inscripta, su CUIT y la declaración de beneficiarios finales. La entidad podrá requerir información adicional solo cuando la debida diligencia reforzada lo exija, sin que ello suspenda la apertura en los casos de riesgo bajo."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Registro de intercambios de datos",
+     "texto": "A los fines del artículo 10 de la Ley, la autoridad de aplicación llevará un registro inalterable de cada intercambio de datos, que conservará por DIEZ (10) años. El titular de los datos podrá consultarlo en Mi Argentina. La autoridad de aplicación auditará cada año el cumplimiento de la limitación de finalidad y publicará el resultado."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Cierre simplificado",
+     "texto": "La declaración jurada del artículo 12 de la Ley contendrá: a) la manifestación de que la sociedad no registra actividad, activos, deudas exigibles ni trabajadores registrados; b) el balance final de liquidación; y c) la decisión unánime de los socios. ARCA verificará en el mismo trámite la inexistencia de deudas fiscales y de la seguridad social y de trabajadores registrados; si las hubiera, el trámite se rechazará con indicación de su causa. La publicidad del acto se cumplirá con UN (1) aviso en el Boletín Oficial, que la Ventanilla Única gestionará en forma automática."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Convenios con provincias y municipios",
+     "texto": "Los convenios del artículo 14 de la Ley se ajustarán al modelo aprobado por la autoridad de aplicación. Los municipios que se integren publicarán en la Ventanilla Única la lista de actividades de bajo riesgo, el plazo máximo para resolver sus habilitaciones y el régimen de control posterior."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Publicación de resultados",
+     "texto": "La publicación mensual del artículo 17 de la Ley incluirá, para cada organismo, entidad financiera y jurisdicción, el plazo promedio y el percentil noventa de cada etapa y el porcentaje de trámites resueltos dentro del plazo."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Incumplimiento de plazos",
+     "texto": "El titular de cada organismo nacional informará a la autoridad de aplicación, cada trimestre, las causas de los trámites resueltos fuera de plazo y las medidas adoptadas. El incumplimiento reiterado de los plazos por agentes públicos se considerará falta en los términos del régimen disciplinario aplicable."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Derogación",
+     "texto": "Derógase el Decreto N° [—], por el que se creó la Ventanilla Única Digital «Empresa en 24 horas». Los convenios, trámites y actos dictados en su marco conservan su validez y se rigen en adelante por la Ley y por el presente decreto."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Normas complementarias",
+     "texto": "Facúltase a la autoridad de aplicación a dictar las normas complementarias y aclaratorias del presente decreto. Invítase al BANCO CENTRAL DE LA REPÚBLICA ARGENTINA a dictar las normas del artículo 9° de la Ley en concordancia con los artículos 2°, inciso c), y 7° del presente."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día siguiente al de su publicación en el BOLETÍN OFICIAL."
+    },
+    {
+     "n": 16,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [
+  "Decreto N° [—] («Decreto de Ventanilla Única Digital \"Empresa en 24 horas\"», Ventanilla Única Digital «Empresa en 24 horas»)"
+ ],
+ "variantes": null
+}

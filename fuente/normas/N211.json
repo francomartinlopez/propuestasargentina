@@ -1,0 +1,61 @@
+{
+ "id": "N211",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de prohibición del uso personal de bienes del Estado (modificación de la Ley 25.188)",
+ "sumilla": "Incorpora a la Ley 25.188 la prohibición expresa de usar para fines personales autos, aviones y residencias oficiales, con sanción de falta grave, reintegro y multa, y obliga a publicar el registro de uso de aeronaves y vehículos.",
+ "cuando": "Días 31-60",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Mayoría simple; cámara de origen indistinta",
+ "motivos": "La Ley N° 25.188 de Ética en el Ejercicio de la Función Pública ya obliga a emplear los bienes del Estado solo con los fines autorizados y prohíbe usar sus instalaciones y servicios en beneficio particular (artículo 2°, incisos f y g). Sin embargo, la regla es general y no prevé una sanción específica, de modo que el uso personal de autos, aviones y residencias oficiales queda librado a la interpretación de cada gestión. Este proyecto vuelve permanente lo que el Poder Ejecutivo dispuso por decreto al comenzar su mandato. Prohíbe en forma expresa el uso personal de vehículos, aeronaves, embarcaciones y residencias del Estado, con sus choferes, su combustible y sus servicios, y deja a salvo solo los traslados que exija la custodia y las viviendas funcionales del servicio exterior, de las fuerzas y de las zonas de frontera. La infracción es falta grave, obliga a reintegrar el valor del uso indebido y a pagar una multa de igual monto, sin perjuicio de la responsabilidad penal. Cada organismo publica el registro de uso de sus aeronaves y vehículos. El ejemplo empieza por quienes gobiernan: el Estado financia la función, no la vida personal de quien la ejerce.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley prohíbe en forma expresa el uso personal de los vehículos, las aeronaves, las residencias y los demás bienes del Estado por quienes ejercen la función pública, y establece su sanción."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Prohibición expresa",
+     "texto": "Incorpórase como artículo 2° bis de la Ley N° 25.188 de Ética en el Ejercicio de la Función Pública el siguiente: «Artículo 2° bis.- Sin perjuicio de lo dispuesto en los incisos f) y g) del artículo 2°, los sujetos comprendidos en esta ley no podrán usar para fines personales, familiares, partidarios o de terceros los vehículos automotores, las aeronaves, las embarcaciones, las residencias y los demás inmuebles del Estado, ni el personal de conducción, el combustible y los servicios afectados a ellos. Se entiende por uso personal todo uso ajeno al cumplimiento de una función o comisión oficial. Quedan a salvo: a) los traslados que la autoridad responsable de la custodia disponga por razones de seguridad; b) las viviendas funcionales que una ley o reglamento asigne al personal en razón de su destino, en el servicio exterior, en las Fuerzas Armadas y de seguridad o en zonas de frontera o antárticas, que se usarán solo en esas condiciones.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Sanción",
+     "texto": "Incorpórase como artículo 2° ter de la Ley N° 25.188 el siguiente: «Artículo 2° ter.- La violación del artículo 2° bis constituye falta grave y dará lugar a las sanciones disciplinarias que correspondan según el régimen aplicable al infractor, incluidas la cesantía o la remoción. El infractor deberá además reintegrar al Estado el valor de mercado del uso indebido y abonar una multa de igual monto. Cuando el infractor solo pueda ser removido por juicio político o por otro procedimiento constitucional, la autoridad de aplicación remitirá las actuaciones al órgano competente. Todo ello sin perjuicio de la responsabilidad penal que corresponda, en particular por los artículos 260 y 261 del Código Penal.»"
+    },
+    {
+     "n": 4,
+     "epigrafe": "Registro de uso",
+     "texto": "Cada jurisdicción y entidad llevará un registro de los usos de sus aeronaves y de los vehículos asignados a funcionarios, con su motivo, su recorrido, sus pasajeros y su costo, y lo publicará en el inventario público de bienes del Estado."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La Autoridad Nacional de Control y Transparencia, como autoridad de aplicación de la Ley N° 25.188, recibirá las denuncias, sustanciará las actuaciones, determinará los montos del artículo 2° ter de esa ley y publicará cada año un informe con los casos y las sanciones aplicadas."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Costo",
+     "texto": "La aplicación de la presente ley no demanda erogaciones adicionales: se atiende con los créditos asignados a la Autoridad Nacional de Control y Transparencia en la Ley de Presupuesto del ejercicio. Los montos que se recauden por reintegros y multas ingresarán a Rentas Generales."
+    },
+    {
+     "n": 7,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 25.188, art. 2 bis (incorporado)",
+  "Ley 25.188, art. 2 ter (incorporado)"
+ ],
+ "deroga": [],
+ "variantes": null
+}

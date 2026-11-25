@@ -1,0 +1,96 @@
+{
+ "id": "N112",
+ "tipo": "resolucion",
+ "titulo": "Resolución de la Secretaría de Energía de convocatoria por tandas al cierre de ciclo combinado de turbinas de ciclo abierto y a nuevas centrales eficientes a gas",
+ "sumilla": "Ordena a la administradora del mercado eléctrico publicar la lista de turbinas de ciclo abierto convertibles a ciclo combinado y convoca, por tandas y en forma competitiva, a la contratación de esos cierres de ciclo y de nuevas centrales eficientes a gas, con capital privado y sin aporte del Tesoro.",
+ "cuando": "Fase I · año 1",
+ "cuando_breve": "Fase I · año 1",
+ "tramite": "No aplica: resolución de la Secretaría de Energía.",
+ "motivos": "",
+ "visto": "El Expediente N° […], las Leyes Nros. 15.336, 24.065 y 27.742, la Resolución de la SECRETARÍA DE ENERGÍA N° 400 del 21 de octubre de 2025, y",
+ "considerando": [
+  "Que el país todavía importa gas natural licuado en los picos de demanda invernal, a precios volátiles, mientras parte del parque térmico opera con turbinas de ciclo abierto de baja eficiencia.",
+  "Que el cierre de ciclo combinado aprovecha el calor de escape de una turbina existente para generar más energía con el mismo gas, como lo demostró la conversión de la Central Térmica Brigadier López, en Sauce Viejo, Provincia de Santa Fe, que sumó potencia sin mayor consumo de combustible.",
+  "Que la Resolución SE N° 400/2025 aprobó las Reglas para la Normalización del MEM y su Adaptación Progresiva, que orientan la contratación hacia acuerdos entre agentes y cuyo punto 9 del Anexo I faculta a esta Secretaría a organizar, por sí o a instancia de los Agentes Distribuidores, licitaciones para asegurar el abastecimiento, con contratos de energía, potencia o ambos, que en la transición pueden contar con garantía de pago de CAMMESA.",
+  "Que el artículo 6° de la Ley N° 24.065 establece que los contratos se negocian libremente, por lo que la convocatoria debe ofrecer contratos voluntarios, adjudicados por competencia de precios y eficiencia, sin afectar los contratos existentes.",
+  "Que la administradora del mercado eléctrico, en su carácter de organismo encargado del despacho conforme al artículo 35 de la Ley N° 24.065, dispone de la información técnica necesaria para identificar las turbinas convertibles y las restricciones de transporte de cada nodo.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que la presente se dicta en uso de las facultades conferidas por las Leyes Nros. 15.336 y 24.065 y por el Decreto N° 50/2019 y sus modificatorios."
+ ],
+ "formula": "Por ello, EL SECRETARIO DE ENERGÍA RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "Convócase, en los términos de la presente resolución, a la contratación por tandas de: a) el cierre de ciclo combinado de turbinas de gas de ciclo abierto existentes; y b) nuevas centrales térmicas de ciclo combinado u otras tecnologías a gas de alta eficiencia."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Lista de turbinas convertibles",
+     "texto": "Instrúyese a la COMPAÑÍA ADMINISTRADORA DEL MERCADO MAYORISTA ELÉCTRICO SOCIEDAD ANÓNIMA (CAMMESA) para que, dentro de los SESENTA (60) días, publique la lista de turbinas de gas de ciclo abierto que puedan convertirse a ciclo combinado, con su ubicación, titular, potencia actual, potencia adicional estimada, consumo específico y capacidad de evacuación del nodo, y los nodos del sistema donde la incorporación de nuevas centrales eficientes resulte conveniente."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Tandas",
+     "texto": "La contratación se realizará en tandas sucesivas. La primera tanda se convocará dentro de los NOVENTA (90) días de publicada la lista del artículo anterior. Cada convocatoria fijará la potencia a contratar, según las necesidades del sistema informadas por CAMMESA, y la fecha límite de habilitación comercial."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Oferentes",
+     "texto": "Podrán presentar ofertas los titulares de las turbinas incluidas en la lista, para su cierre de ciclo, y cualquier agente o interesado, para nuevas centrales. El titular de una turbina incluida en la lista que no oferte su conversión en una tanda podrá hacerlo en las siguientes."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Contratos",
+     "texto": "Los proyectos adjudicados celebrarán contratos de abastecimiento de energía y potencia de largo plazo, conforme a las reglas de normalización del Mercado Eléctrico Mayorista vigentes, con los agentes de la demanda, incluidos los Agentes Distribuidores del MEM, cuyos contratos podrán contar en la transición con la garantía de pago de CAMMESA en los términos del punto 9 del Anexo I de la Resolución SE N° 400/2025. El pliego de cada tanda fijará el plazo de los contratos, que permitirá el repago de la inversión."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Criterio de adjudicación",
+     "texto": "Las ofertas se adjudicarán por orden de menor costo total para el sistema, que considerará el precio ofertado por la potencia y la energía, el consumo específico de combustible y los costos de transporte eléctrico asociados. El pliego publicará la fórmula de evaluación antes de la presentación de ofertas."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Combustible y emisiones",
+     "texto": "Los proyectos adjudicados se abastecerán de gas natural en las condiciones de las reglas de normalización vigentes y cumplirán las normas de medición y control de emisiones de metano que dicte la autoridad competente en la producción y el transporte de gas."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Financiamiento",
+     "texto": "La inversión estará a cargo exclusivo de los adjudicatarios. La presente convocatoria no compromete aportes del Tesoro nacional ni garantías del Estado nacional."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Transparencia",
+     "texto": "CAMMESA publicará en su sitio oficial la lista del artículo 2°, los pliegos, las ofertas recibidas con sus precios, el orden de mérito, las adjudicaciones y el avance de obra de cada proyecto adjudicado hasta su habilitación comercial."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Pliegos",
+     "texto": "Instrúyese a CAMMESA para que elabore y someta a aprobación de esta Secretaría el pliego de cada tanda, conforme a lo dispuesto en la presente."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Contratos existentes",
+     "texto": "La presente no modifica los contratos vigentes en el Mercado Eléctrico Mayorista."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Vigencia",
+     "texto": "La presente resolución entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

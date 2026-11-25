@@ -1,0 +1,122 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Consejo Federal de Educación",
+    "estado": "modificado",
+    "rol": "Aprueba núcleos y metas; su Secretaría General publica metas e informe anual. Aprueba el registro, los umbrales y el calendario de extensión.",
+    "hoy": "Consejo Federal de Educación (Ley 26.206, arts. 116-118)",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Educación",
+    "estado": "modificado",
+    "rol": "Compra anual de libros y evaluación Aprender hasta que exista el INEE. Cede la evaluación con su personal y créditos al INEE; conserva la estadística. Provee la plataforma nominal, la asistencia técnica y la capacitación de tutores. Verifica la asistencia con el registro de trayectorias y ordena la liberación o retención de cada cuota.",
+    "hoy": "Secretaría de Educación del Ministerio de Capital Humano",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Evaluación Educativa",
+    "estado": "nuevo",
+    "rol": "Aplica Aprender cada año y publica resultados con contexto; directorio de 5 con CFE y universidades, mandatos de 5 años escalonados.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejo federal educativo",
+    "estado": "modificado",
+    "rol": "Designa dos directores del INEE y acuerda el aporte de cada jurisdicción al piso. Designa dos miembros del directorio.",
+    "hoy": "Consejo Federal de Educación (Ley 26.206, arts. 116-118)",
+    "hijos": []
+   },
+   {
+    "nombre": "Órgano asesor de calidad educativa",
+    "estado": "modificado",
+    "rol": "Pasa a ser órgano consultivo del INEE. Opina sobre el plan anual de evaluación.",
+    "hoy": "Consejo Nacional de Calidad de la Educación (Ley 26.206, art. 98)",
+    "hijos": []
+   },
+   {
+    "nombre": "Consejos universitarios",
+    "estado": "modificado",
+    "rol": "Designan un director cada uno.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Fondo de educación técnica",
+    "estado": "nuevo",
+    "rol": "Se restablece con senda hasta 0,2 % de los ingresos corrientes en 2031, excluido del art. 5 de la Ley 27.742.",
+    "hoy": "Derogado por la Ley 27.798, art. 30 inc. c",
+    "hijos": []
+   },
+   {
+    "nombre": "Agencia de evaluación educativa",
+    "estado": "nuevo",
+    "rol": "Evaluación Aprender anual en 3°, 6° y último año de secundaria, publicada con contexto. Recibe las funciones de evaluación por acta de transferencia. Recibe la evaluación con su personal y créditos; su directorio dicta el reglamento interno y la estructura.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Órgano de conducción",
+    "estado": "nuevo",
+    "rol": "5 miembros: presidente por concurso (PEN), 2 del Consejo Federal de Educación, 1 del CIN y 1 del CRUP; mandatos de 5 años escalonados.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Área nacional de evaluación educativa",
+    "estado": "modificado",
+    "rol": "Transfiere la evaluación al INEE y conserva la estadística.",
+    "hoy": "Subsecretaría de Información y Evaluación Educativa (Secretaría de Educación, Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Área nacional de información y evaluación educativa",
+    "estado": "modificado",
+    "rol": "Cede la evaluación (Aprender y evaluaciones internacionales) con personal, bases y créditos al INEE; conserva información y estadística.",
+    "hoy": "Subsecretaría de Información y Evaluación Educativa (Secretaría de Educación, Ministerio de Capital Humano; Decreto 50/2019, Anexo II, texto Decreto 378/2026)",
+    "hijos": []
+   },
+   {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "estado": "modificado",
+    "rol": "Paga las becas en la cuenta del estudiante.",
+    "hoy": "ANSES",
+    "hijos": []
+   },
+   {
+    "nombre": "Secretaría de Educación del Ministerio de Educación, Ciencia y Cultura",
+    "estado": "modificado",
+    "rol": "Pierde los objetivos de evaluación; conserva información y estadística y comparte los datos nominales con el INEE.",
+    "hoy": "Subsecretaría de Información y Evaluación Educativa (Secretaría de Educación, Ministerio de Capital Humano)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Educación Tecnológica",
+    "estado": "modificado",
+    "rol": "Administra el Fondo Nacional para la Educación Técnico Profesional.",
+    "hoy": "INET (Ley 26.058, art. 45)",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Mide el gasto educativo como % del PIB y lo incluye en cada proyecto de presupuesto.",
+    "hoy": "Ministerio de Economía (Secretaría de Hacienda)",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Jurisdicciones provinciales",
+   "rol": "Fijan metas por grado y adecuan diseños curriculares."
+  }
+ ]
+}

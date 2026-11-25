@@ -1,0 +1,115 @@
+{
+ "id": "N284",
+ "tipo": "ley_provincial",
+ "titulo": "Modelo de ley provincial de financiamiento educativo por alumno (pilotos)",
+ "sumilla": "La provincia que adhiere asigna el financiamiento de las escuelas participantes por una fórmula pública por alumno, ponderada por nivel, ruralidad, pobreza y discapacidad, con mínimo garantizado para escuelas rurales y pequeñas; en las privadas que adhieran, el monto por alumno reemplaza el aporte salarial del art. 65 de la Ley 26.206, con arancel regulado, admisión por sorteo y Aprender público. Empieza como piloto evaluado en forma independiente y solo se extiende con resultados verificados.",
+ "cuando": "Fase II · después de la firma del acuerdo federal y de la ley «Ley de publicación de resultados de las escuelas financiadas por alumno (modificación del art. 97 de la Ley 26.206)»; pilotos desde el ciclo lectivo siguiente; extensión en la Fase III según la evaluación",
+ "cuando_breve": "Fase II · después de la firma del acuerdo federal y de la ley «Ley de publicación de resultados de las escuelas financiadas por alumno",
+ "tramite": "Ley provincial; mayoría y trámite según cada constitución provincial.",
+ "motivos": "La Provincia financia hoy sus escuelas por cargos y estructuras, y aporta a los salarios docentes de las escuelas de gestión privada según los criterios del artículo 65 de la Ley de Educación Nacional N° 26.206. Ese esquema responde poco a cuántos alumnos atiende cada escuela y a cuánto aprenden, y la posibilidad de elegir escuela depende de lo que cada familia puede pagar. El presente proyecto pone en marcha, en las escuelas que adhieran y como experiencia piloto, un financiamiento por alumno con una fórmula pública que da más peso a los alumnos en situación de pobreza, con discapacidad o en zonas rurales, y garantiza un mínimo de funcionamiento a las escuelas rurales y pequeñas. Las escuelas privadas que participen aceptan el monto como pago total o cobran un arancel regulado, admiten por sorteo cuando sobran postulantes y publican sus resultados de evaluación. La escuela pública sigue siendo gratuita y se mantienen el estatuto y la carrera docente. El presupuesto educativo no se recorta: se reasigna con reglas claras. Los pilotos son evaluados por un organismo independiente y solo se extienden si mejoran los aprendizajes sin aumentar la segregación escolar.",
+ "visto": "",
+ "considerando": [],
+ "formula": "La Legislatura de la Provincia de [Provincia] sanciona con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece, con carácter de experiencia piloto, el financiamiento por alumno de los establecimientos educativos de la Provincia de [Provincia] que adhieran a ella, en el marco del acuerdo federal de financiamiento por alumno y del artículo 65 de la Ley nacional N° 26.206."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Principios",
+     "texto": "El régimen se rige por los siguientes principios: a) la educación pública de gestión estatal es gratuita; b) el financiamiento sigue al alumno, con más recursos para quien más lo necesita; c) las familias pueden elegir la escuela; d) ningún establecimiento financiado puede seleccionar en forma excluyente; y e) todos los establecimientos financiados rinden cuentas públicamente por sus resultados."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "El Ministerio de Educación de la Provincia, o el organismo que lo reemplace, es la autoridad de aplicación de la presente ley."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Fórmula por alumno",
+     "texto": "La autoridad de aplicación fija y publica, antes del inicio de cada ciclo lectivo, una fórmula de monto por alumno que pondera, como mínimo, el nivel y la modalidad educativa, la ruralidad, la situación de pobreza del alumno y la discapacidad. La fórmula, sus ponderadores y los montos resultantes son públicos y se aplican por igual a todos los establecimientos participantes, de gestión estatal o privada."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Mínimo garantizado",
+     "texto": "Las escuelas rurales y las de matrícula reducida que participen reciben, cualquiera sea su número de alumnos, un monto mínimo de funcionamiento que fija la autoridad de aplicación, de modo que ninguna escuela cierre por efecto de la fórmula."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Escuelas de gestión estatal",
+     "texto": "En los establecimientos de gestión estatal que participen, la fórmula determina la asignación de los fondos de funcionamiento y orienta la asignación de cargos. Se mantienen el estatuto, la carrera y la situación de revista del personal docente. La enseñanza es gratuita."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Adhesión de escuelas de gestión privada",
+     "texto": "Los establecimientos de gestión privada reconocidos que reciben aportes estatales pueden adherir al régimen. En los que adhieran, el monto por alumno reemplaza el aporte a los salarios docentes asignado conforme el artículo 65 de la Ley nacional N° 26.206 y la normativa provincial de aportes a la enseñanza privada."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Derechos del personal docente",
+     "texto": "La adhesión no afecta los derechos laborales del personal docente de los establecimientos de gestión privada. El establecimiento adherente garantiza el pago de las remuneraciones con el monto por alumno y sus demás recursos."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Arancel regulado",
+     "texto": "Los establecimientos de gestión privada adherentes aceptan el monto por alumno como pago total o cobran, como máximo, el arancel regulado que fije la autoridad de aplicación. A los alumnos cuyo monto incluya la ponderación por pobreza no puede cobrárseles más que el arancel regulado que la autoridad fije para ellos, que puede ser cero. Se prohíbe todo cobro adicional obligatorio, cualquiera sea su denominación."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Admisión por sorteo",
+     "texto": "Los establecimientos participantes no pueden seleccionar a sus alumnos en forma excluyente. Cuando las solicitudes superen las vacantes, la admisión se resuelve por sorteo público, con prioridad para hermanos de alumnos ya inscriptos y para alumnos con discapacidad, conforme la reglamentación."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Evaluación y publicación de resultados",
+     "texto": "Los establecimientos participantes rinden con carácter censal las evaluaciones nacionales de aprendizajes y sus resultados se publican por establecimiento, con indicadores de contexto, conforme el artículo 97 de la Ley nacional N° 26.206. La Provincia comunica la nómina de establecimientos participantes al Instituto Nacional de Evaluación Educativa."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Pilotos",
+     "texto": "El régimen se aplica en las zonas y los establecimientos que determine la autoridad de aplicación, durante al menos tres (3) ciclos lectivos completos, con un grupo de establecimientos comparables que no participen, a los fines de la evaluación."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Evaluación independiente",
+     "texto": "Cada piloto es evaluado por una universidad o centro de investigación seleccionado por concurso público, sin vínculo con los establecimientos participantes, que mide los aprendizajes y la segregación escolar frente a los establecimientos comparables y publica un informe al final de cada ciclo lectivo y un informe final. La autoridad de aplicación le suministra la información necesaria, con resguardo de los datos personales."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Condición de extensión",
+     "texto": "El régimen solo puede extenderse a nuevas zonas o establecimientos cuando el informe final de evaluación verifique que mejoraron los aprendizajes sin aumentar la segregación escolar. La decisión de extensión es fundada y pública."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Financiamiento",
+     "texto": "El régimen se financia con la reasignación de los créditos del presupuesto educativo provincial destinados a los establecimientos participantes y al aporte a la enseñanza privada, sin recorte del presupuesto educativo total. Los costos de la evaluación se atienden con los créditos del Ministerio de Educación de la Provincia."
+    },
+    {
+     "n": 16,
+     "epigrafe": "Información pública",
+     "texto": "La autoridad de aplicación publica cada año, en formato abierto, los montos transferidos a cada establecimiento, la matrícula, los aranceles cobrados y el resultado de los sorteos, sin datos que permitan identificar a ningún alumno."
+    },
+    {
+     "n": 17,
+     "epigrafe": "Reglamentación",
+     "texto": "El Poder Ejecutivo provincial reglamenta la presente ley dentro de los noventa (90) días de su publicación."
+    },
+    {
+     "n": 18,
+     "epigrafe": "De forma",
+     "texto": "Comuníquese al Poder Ejecutivo."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Régimen provincial de aportes a la educación de gestión privada (art. 65 de la Ley 26.206): reemplazado por el monto por alumno en las escuelas que adhieran"
+ ],
+ "deroga": [],
+ "variantes": null
+}

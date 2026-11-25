@@ -1,0 +1,110 @@
+{
+ "id": "N114",
+ "tipo": "decreto",
+ "titulo": "Decreto reglamentario de la Ley del Plan Nuclear Plurianual",
+ "sumilla": "Designa autoridad de aplicación, ordena el tablero público de hitos, el contenido de los planes de preservación y de terminación del CAREM 25 y el estudio de las nuevas unidades, el pago contra hito, la incorporación de socios estratégicos, la inclusión presupuestaria y la reforma del estatuto de Nucleoeléctrica.",
+ "cuando": "Fase II (dentro de los 90 días de publicada la ley «Ley del Plan Nuclear Plurianual»)",
+ "cuando_breve": "Fase II",
+ "tramite": "No aplica: decreto reglamentario (art. 99, inc. 2, de la Constitución Nacional).",
+ "motivos": "",
+ "visto": "El Expediente N° […], la Ley N° [—] del Plan Nuclear Plurianual, la Ley N° 24.804 de Actividad Nuclear, la Ley N° 24.156 de Administración Financiera y de los Sistemas de Control del Sector Público Nacional, la Ley N° 27.742, y",
+ "considerando": [
+  "Que la Ley N° [—] aprobó el Plan Nuclear Plurianual, con prioridad a la tecnología, la ingeniería y la industria nacionales, y encomendó al Poder Ejecutivo nacional designar su autoridad de aplicación entre los organismos con competencia en asuntos nucleares.",
+  "Que esa ley dispuso que cada componente del Plan tenga hitos técnicos, de costo y de plazo públicos, que los contratos prevean pagos contra hito cumplido y que la preservación y la terminación del CAREM 25 se ordenen en planes con plazos ciertos.",
+  "Que la ley mantuvo el control estatal de Nucleoeléctrica Argentina Sociedad Anónima, sin revertir las transferencias efectuadas a accionistas minoritarios, y encomendó promover la reforma de su estatuto para que las acciones del Estado nacional confieran derechos especiales en las decisiones estratégicas.",
+  "Que corresponde reglamentar esos mandatos y el procedimiento para incluir las obras del Plan en el presupuesto con financiamiento asegurado, preservando la independencia de la Autoridad Regulatoria Nuclear.",
+  "Que ha tomado intervención el servicio jurídico permanente competente.",
+  "Que el presente se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 2, de la CONSTITUCIÓN NACIONAL."
+ ],
+ "formula": "Por ello, EL PRESIDENTE DE LA NACIÓN ARGENTINA DECRETA:",
+ "capitulos": [
+  {
+   "titulo": "",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Autoridad de aplicación (art. 15)",
+     "texto": "Desígnase autoridad de aplicación de la Ley N° [—] del Plan Nuclear Plurianual (en adelante, «la Ley») al MINISTERIO DE INFRAESTRUCTURA Y ENERGÍA, que la ejercerá por intermedio de la SECRETARÍA DE ENERGÍA."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Tablero de hitos (art. 6°)",
+     "texto": "Dentro de los CIENTO VEINTE (120) días de la entrada en vigencia del presente decreto, la autoridad de aplicación aprobará, a propuesta de los ejecutores, un tablero de hitos de cada componente del artículo 2° de la Ley, que indicará para cada hito su descripción, el ejecutor responsable, la fecha prevista, el costo asociado y el medio de verificación. El tablero se publicará en el sitio oficial de la autoridad de aplicación, en formato de datos abiertos, y se actualizará con cada certificación de avance."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Plan de preservación del CAREM 25 (art. 5°)",
+     "texto": "El plan de preservación del CAREM 25 que apruebe la COMISIÓN NACIONAL DE ENERGÍA ATÓMICA (CNEA) contendrá el inventario de las obras, equipos y componentes, las medidas de conservación de cada uno, el personal técnico afectado, su costo y su cronograma. Será comunicado a la autoridad de aplicación y a la AUTORIDAD REGULATORIA NUCLEAR."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Plan de terminación del CAREM 25 (art. 5°)",
+     "texto": "El plan de terminación del CAREM 25 contendrá, como mínimo: el estado de avance de cada sistema; la ingeniería y las provisiones pendientes; el costo total para terminar y su financiamiento; el cronograma con sus hitos; el camino de licenciamiento ante la AUTORIDAD REGULATORIA NUCLEAR; y la estrategia para desarrollar el CAREM como producto exportable, incluida la participación de empresas tecnológicas nacionales."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Nuevas unidades (arts. 2°, inc. b, 3° y 4°)",
+     "texto": "Dentro de los DOCE (12) meses de la entrada en vigencia del presente decreto, NUCLEOELÉCTRICA ARGENTINA SOCIEDAD ANÓNIMA elevará a la autoridad de aplicación un estudio de factibilidad de las nuevas unidades en el predio de la cuarta central, que comparará las alternativas tecnológicas según su contenido nacional, su madurez, su costo, su plazo de construcción y su licenciabilidad, y propondrá la cantidad de unidades, su cronograma y su esquema de financiamiento. La autoridad de aplicación lo aprobará por resolución fundada, que se publicará con el estudio."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Prioridad nacional en las contrataciones (art. 3°)",
+     "texto": "Los pliegos de las obras del Plan asignarán un peso específico, en la evaluación de las ofertas, al contenido de ingeniería, bienes y servicios nacionales y a los compromisos de transferencia de tecnología, y exigirán un plan de participación de proveedores nacionales con metas verificables."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Componentes en curso (art. 2°, incs. a, d y e)",
+     "texto": "Los ejecutores de la extensión de vida de Atucha I, del almacenamiento en seco de Atucha II, de la puesta en marcha del RA-10 y de la Nueva Planta de Dióxido de Uranio de Formosa informarán a la autoridad de aplicación, cada TRES (3) meses, el avance respecto de sus hitos, las causas de los desvíos y las medidas adoptadas."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Contratos y certificación de hitos (art. 6°)",
+     "texto": "Los contratos de las obras del Plan solo podrán prever pagos contra hitos cumplidos y certificados por el ejecutor, con verificación de la autoridad de aplicación o de un auditor técnico independiente que esta designe por procedimiento público. Los contratos, sus modificaciones y los certificados se publicarán en el sistema público de contrataciones abiertas."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Socios estratégicos (art. 13, inc. c)",
+     "texto": "La incorporación de socios estratégicos en sociedades de proyecto se hará por procedimientos competitivos y públicos, que evaluarán la capacidad técnica y financiera de los interesados, los compromisos de transferencia de tecnología y de participación de proveedores nacionales y la conservación del control por el Estado nacional o por NUCLEOELÉCTRICA ARGENTINA SOCIEDAD ANÓNIMA. Los acuerdos de socios requerirán la aprobación previa de la autoridad de aplicación y se publicarán."
+    },
+    {
+     "n": 10,
+     "epigrafe": "Presupuesto (art. 14)",
+     "texto": "La autoridad de aplicación remitirá cada año al MINISTERIO DE ECONOMÍA, en la oportunidad que fije el cronograma de elaboración del presupuesto, la planilla de las obras del Plan con su monto total, su cronograma y sus fuentes, para su inclusión en el proyecto de ley de presupuesto. Ninguna obra podrá licitarse sin la constancia de financiamiento asegurado hasta su terminación emitida por la autoridad de aplicación con intervención de la SECRETARÍA DE HACIENDA del MINISTERIO DE ECONOMÍA."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Derechos especiales en Nucleoeléctrica Argentina (art. 11)",
+     "texto": "Instrúyese al MINISTERIO DE INFRAESTRUCTURA Y ENERGÍA para que, dentro de los CIENTO VEINTE (120) días de la entrada en vigencia del presente decreto, solicite la convocatoria de la asamblea extraordinaria de NUCLEOELÉCTRICA ARGENTINA SOCIEDAD ANÓNIMA y vote en ella la reforma del estatuto prevista en el artículo 11 de la Ley."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Informes (art. 16)",
+     "texto": "El informe semestral de avance se publicará dentro de los TREINTA (30) días del cierre de cada semestre calendario. El informe anual se remitirá al Congreso de la Nación antes del 30 de abril de cada año y se publicará el mismo día."
+    },
+    {
+     "n": 13,
+     "epigrafe": "Actualización del cronograma (art. 17)",
+     "texto": "La actualización bienal del cronograma del Plan se hará con consulta a los ejecutores y se publicará con la justificación de cada cambio respecto del cronograma anterior."
+    },
+    {
+     "n": 14,
+     "epigrafe": "Regulación (art. 8°)",
+     "texto": "Los ejecutores presentarán a la AUTORIDAD REGULATORIA NUCLEAR el cronograma de licenciamiento de cada instalación. La autoridad de aplicación no podrá impartir instrucciones a la AUTORIDAD REGULATORIA NUCLEAR ni condicionar sus decisiones."
+    },
+    {
+     "n": 15,
+     "epigrafe": "Vigencia",
+     "texto": "El presente decreto entrará en vigencia el día de su publicación en el Boletín Oficial."
+    },
+    {
+     "n": 16,
+     "epigrafe": "",
+     "texto": "Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

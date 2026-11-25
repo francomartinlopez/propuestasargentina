@@ -1,0 +1,158 @@
+{
+ "modo": "cambio",
+ "nota": "Organismos que intervienen en las normas de esta propuesta. Nombres genéricos por función; entre paréntesis, la estructura de hoy.",
+ "arbol": {
+  "nombre": "Poder Ejecutivo nacional",
+  "estado": "existente",
+  "rol": "",
+  "hijos": [
+   {
+    "nombre": "Ministerio de Salud",
+    "estado": "modificado",
+    "rol": "Autoridad de aplicación para el personal nacional; asistencia técnica a las provincias. Autoridad de aplicación: reglamento de concursos, inventario de cargos, lista provisoria de zonas con déficit y asistencia técnica a las provincias. Fija la beca por regla, los adicionales y la lista de especialidades críticas; publica la cobertura de cupos. Fija el valor de las prestaciones, adecua el Manual del SUMAR+ y publica los indicadores. Firma por la Nación, compra vacunas, administra NOMIVAC y SUMAR+, organiza la compra conjunta y paga por resultados. Firma los convenios, integra los consejos de administración y evalúa los contratos de gestión. Opera el índice de pacientes y el localizador de documentos, fija los estándares y certifica los sistemas.",
+    "hoy": "",
+    "hijos": [
+     {
+      "nombre": "Consejo federal sanitario",
+      "estado": "modificado",
+      "rol": "Acuerda lineamientos, equivalencias y zonas con déficit. Fija los criterios definitivos de zonas con déficit y las prioridades de capacitación. Presta acuerdo para acortar los plazos o sumar prácticas cada dos años. Ámbito del Acuerdo; aprueba metas anuales y su verificación a través de la Comisión de Seguimiento.",
+      "hoy": "COFESA (Ley 22.373)",
+      "hijos": []
+     },
+     {
+      "nombre": "Ente de control de los agentes del seguro de salud y de las entidades de medicina prepaga",
+      "estado": "modificado",
+      "rol": "Fiscaliza plazos y derivaciones de obras sociales y prepagas y hace el débito automático de lo adeudado a hospitales públicos. Ente de control de «Ley de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud»: derivación subsidiaria y débito automático de lo adeudado a hospitales públicos.",
+      "hoy": "Superintendencia de Servicios de Salud, organismo descentralizado del Ministerio de Salud",
+      "hijos": []
+     },
+     {
+      "nombre": "Obra social de jubilados",
+      "estado": "modificado",
+      "rol": "Cumple los plazos, deriva y paga a los hospitales públicos en 60 días. Termina la conducción transitoria; gobierno por el directorio legal. Integra sus prestadores en 12 meses.",
+      "hoy": "Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (Ley 19.032)",
+      "hijos": []
+     },
+     {
+      "nombre": "Ente regulador de obras sociales y prepagas",
+      "estado": "modificado",
+      "rol": "Resuelve y paga los reintegros del SUR en plazo máximo y publica el tablero.",
+      "hoy": "Superintendencia de Servicios de Salud, organismo descentralizado del Ministerio de Salud",
+      "hijos": []
+     },
+     {
+      "nombre": "Organismo nacional de evaluación de tecnologías sanitarias",
+      "estado": "existente",
+      "rol": "Evalúa cada tecnología nueva antes de su incorporación a los reintegros.",
+      "hoy": "CONETEC (Ministerio de Salud)",
+      "hijos": []
+     },
+     {
+      "nombre": "Superintendencia de Servicios de Salud",
+      "estado": "modificado",
+      "rol": "Controla que obras sociales y prepagas se integren en 18 meses.",
+      "hoy": "Superintendencia de Servicios de Salud, organismo descentralizado del Ministerio de Salud",
+      "hijos": []
+     },
+     {
+      "nombre": "Red nacional de derivación y emergencias",
+      "estado": "nuevo",
+      "rol": "Coordina derivaciones, tablero de camas críticas, telemedicina y traslados.",
+      "hoy": "",
+      "hijos": []
+     },
+     {
+      "nombre": "Hospitales de referencia",
+      "estado": "modificado",
+      "rol": "Interconsulta por telemedicina con los hospitales del interior.",
+      "hoy": "Garrahan, Posadas y demás hospitales nacionales y SAMIC",
+      "hijos": []
+     }
+    ]
+   },
+   {
+    "nombre": "Autoridad de aplicación en materia de salud",
+    "estado": "modificado",
+    "rol": "Lleva el Registro Nacional de Listas de Espera, define las prácticas comprendidas y los valores de referencia, y asigna prestador cuando el financiador no deriva. Autoridad de aplicación de «Ley de garantías de tiempos de atención y de compensación de costos entre subsistemas de salud»: Registro, lista de prácticas, valores de referencia y facturación electrónica.",
+    "hoy": "Ministerio de Salud",
+    "hijos": []
+   },
+   {
+    "nombre": "Directorio de la obra social de jubilados",
+    "estado": "modificado",
+    "rol": "11 miembros: 7 de los afiliados (elección indirecta), 2 de trabajadores activos y 2 del Estado (uno preside); mandato de 4 años. 7 directores de los afiliados (elección indirecta en el Consejo Federal de Servicios Sociales, art. 15 bis), 2 de los trabajadores activos (centrales con personería) y 2 del Estado (PEN;",
+    "hoy": "No constituido; conducción por autoridades designadas por el PEN (DNU 2/2004)",
+    "hijos": []
+   },
+   {
+    "nombre": "Órgano de representación de los afiliados",
+    "estado": "modificado",
+    "rol": "Elige en forma indirecta a los 7 directores de los afiliados.",
+    "hoy": "Previsto en el art. 15 bis de la Ley 19.032",
+    "hijos": []
+   },
+   {
+    "nombre": "Autoridades designadas por el PEN",
+    "estado": "suprimido",
+    "rol": "Cesa al constituirse el Directorio.",
+    "hoy": "Dirección Ejecutiva designada por el PEN (DNU 2/2004)",
+    "hijos": []
+   },
+   {
+    "nombre": "Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (PAMI)",
+    "estado": "modificado",
+    "rol": "Paga cápita más resultados a los médicos de cabecera y a todos los prestadores en 30 días, con publicación de cada pago.",
+    "hoy": "INSSJP (Ley 19.032)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión de seguimiento del acuerdo sanitario",
+    "estado": "nuevo",
+    "rol": "Verifica resultados, aprueba los informes trimestrales y la liquidación por resultados.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Ministerio de Economía",
+    "estado": "modificado",
+    "rol": "Retiene el aporte de la jurisdicción de su coparticipación y lo transfiere al hospital.",
+    "hoy": "Ministerio de Economía (Secretaría de Hacienda)",
+    "hijos": []
+   },
+   {
+    "nombre": "Hospitales públicos de gestión compartida",
+    "estado": "modificado",
+    "rol": "Directores por concurso y contrato de gestión con metas publicadas.",
+    "hoy": "Garrahan (Nación–CABA); El Cruce, Cuenca Alta, Bicentenario de Esteban Echeverría, René Favaloro y Néstor Kirchner (Nación–Provincia de Buenos Aires)",
+    "hijos": []
+   },
+   {
+    "nombre": "Comisión mixta de seguimiento",
+    "estado": "nuevo",
+    "rol": "Concilia deudas, aprueba los contratos de gestión y evalúa metas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Centro regional de derivación",
+    "estado": "nuevo",
+    "rol": "Uno por región sanitaria; asigna cama y traslado las 24 horas.",
+    "hoy": "",
+    "hijos": []
+   },
+   {
+    "nombre": "Logística aérea",
+    "estado": "existente",
+    "rol": "Apoyo de las Fuerzas Armadas en catástrofes, por el protocolo conjunto de despliegue rápido.",
+    "hoy": "Ministerio de Defensa",
+    "hijos": []
+   }
+  ]
+ },
+ "externos": [
+  {
+   "nombre": "Jurisdicciones provinciales",
+   "rol": "Adhieren para su personal."
+  }
+ ]
+}

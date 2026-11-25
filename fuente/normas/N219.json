@@ -1,0 +1,63 @@
+{
+ "id": "N219",
+ "tipo": "invitacion",
+ "titulo": "Invitación a las Cámaras del Congreso de la Nación a aplicar a su personal el ingreso por concurso y la regla contra el nepotismo",
+ "sumilla": "Nota del Poder Ejecutivo a los presidentes de ambas Cámaras con un texto modelo de resolución para que cada una aplique a su personal el ingreso por concurso abierto, dentro del Estatuto de la Ley 24.600, y organice el control de la prohibición del nepotismo que la ley «Ley de Empleo Público por Mérito, contra el Nepotismo y de Registro de Contrataciones No Permanentes» (art. 21) ya extiende al Poder Legislativo.",
+ "cuando": "Fase I (después de la sanción de la ley «Ley de Empleo Público por Mérito, contra el Nepotismo y de Registro de Contrataciones No Permanentes»)",
+ "cuando_breve": "Tras la consulta de 2028",
+ "tramite": "No aplica (resolución de cada Cámara, art. 66 de la Constitución Nacional; no es una norma del Poder Ejecutivo)",
+ "motivos": "",
+ "visto": "",
+ "considerando": [],
+ "formula": "[La Honorable Cámara de Diputados de la Nación / El Honorable Senado de la Nación] RESUELVE:",
+ "capitulos": [
+  {
+   "titulo": "Nota del Poder Ejecutivo nacional",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Nota",
+     "texto": "Buenos Aires, [fecha].\nAl señor Presidente de la Honorable Cámara de Diputados de la Nación / A la señora Presidenta del Honorable Senado de la Nación\nS/D\nTengo el agrado de dirigirme a V.E. con relación a la Ley N° [—] de Empleo Público por Mérito, contra el Nepotismo y de Registro de Contrataciones No Permanentes. Esa ley dispone que todo ingreso a la planta del Poder Ejecutivo nacional se realice por concurso abierto, y su artículo 21 extiende al Poder Legislativo de la Nación la prohibición de designar o contratar a familiares de las autoridades.\nCon pleno respeto de las atribuciones que el artículo 66 de la Constitución Nacional reconoce a cada Cámara, acompaño como anexo un texto modelo de resolución, a título de colaboración, para que esa Honorable Cámara considere aplicar a su personal, dentro del Estatuto de la Ley N° 24.600, el ingreso por concurso abierto y los mecanismos de control de la regla contra el nepotismo que rigen en el Poder Ejecutivo nacional.\nSaludo a V.E. con mi más distinguida consideración.\n[Firma del Presidente de la Nación]"
+    }
+   ]
+  },
+  {
+   "titulo": "Anexo – Texto modelo de resolución",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Visto y considerandos",
+     "texto": "VISTO el artículo 66 de la Constitución Nacional, la Ley N° 24.600 y la Ley N° [—] de Empleo Público por Mérito, contra el Nepotismo y de Registro de Contrataciones No Permanentes, y\nCONSIDERANDO:\nQue el artículo 16 de la Constitución Nacional establece la idoneidad como condición para la admisión en los empleos públicos.\nQue el artículo 21 de la Ley N° [—] dispone que la prohibición del nepotismo rige para las designaciones y contrataciones de personal del Poder Legislativo de la Nación y considera autoridades, a esos efectos, a los legisladores, a los presidentes de cada Cámara y a sus secretarios.\nQue el artículo 5°, inciso e), de la Ley N° 24.600 exige que la idoneidad para el ingreso a la planta permanente se acredite mediante los criterios de selección que establezca la reglamentación, y el inciso f) dispone que el ingreso se efectúe por el cargo inferior del escalafón, salvo los cargos que requieran oficio o título habilitante.\nQue corresponde a esta Cámara organizar el cumplimiento de esa regla y aplicar a su personal, dentro del Estatuto de la Ley N° 24.600, los principios de ingreso por concurso y de mérito.\nPor ello,"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Artículo 1°",
+     "texto": "Conforme el artículo 5°, incisos e) y f), de la Ley N° 24.600, todo ingreso a la planta permanente del personal de esta Cámara se realizará por concurso abierto de antecedentes y oposición, en el que podrá participar toda persona que reúna los requisitos del cargo, con convocatoria, perfil, integración del jurado, calificaciones y orden de mérito publicados en el sitio oficial de la Cámara. El jurado incluirá al menos un miembro externo a la Cámara. Se exceptúa el personal de planta temporaria del artículo 49 de la Ley N° 24.600 (despachos de los legisladores, bloques y asesoramiento político de las comisiones), cuyo cese se rige por los artículos 50 a 52 de esa ley."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Artículo 2°",
+     "texto": "Antes de cada designación o contratación, cualquiera sea su modalidad, la persona propuesta presentará una declaración jurada sobre los vínculos previstos en los artículos 16 y 17 de la Ley N° [—] con los legisladores, el Presidente de la Cámara y sus secretarios. La dirección de recursos humanos no dará curso a ningún acto alcanzado por la prohibición."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Artículo 3°",
+     "texto": "La dirección de recursos humanos cruzará cada año los vínculos declarados por los legisladores y funcionarios en sus declaraciones juradas con las designaciones y contrataciones de la Cámara y de la otra Cámara, y publicará el resultado. Se solicitará a la otra Cámara y al Poder Ejecutivo nacional el intercambio de la información necesaria para detectar nombramientos cruzados."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Artículo 4°",
+     "texto": "La Cámara publicará cada mes, en formato abierto, la nómina de su personal, discriminada por planta permanente, personal temporario y contratado, con el despacho, el bloque o la dependencia en que presta servicios y su categoría."
+    },
+    {
+     "n": 7,
+     "epigrafe": "Artículo 5°",
+     "texto": "Comuníquese."
+    }
+   ]
+  }
+ ],
+ "modifica": [],
+ "deroga": [],
+ "variantes": null
+}

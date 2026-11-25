@@ -1,0 +1,198 @@
+{
+ "id": "N199",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de reforma de la Ley de Inteligencia Nacional N° 25.520: misión acotada, control judicial y parlamentario y servicios extranjeros",
+ "sumilla": "Reescribe la Ley 25.520 tal como quedó tras el DNU 941/2025: acota la inteligencia a amenazas externas, terrorismo y crimen organizado complejo; quita a la SIDE la aprehensión, el carácter encubierto general y la inteligencia por fuga de información; exige orden judicial y la oficina de la Corte para toda escucha; da a la Comisión Bicameral acceso pleno y un Registro de Acuerdos con Servicios Extranjeros con poder de objeción; crea el Auditor General de Inteligencia; fija un tope del 10 % a los gastos reservados sin ampliación por decreto, y agrava las penas. Prohíbe los colaboradores informales fuera de un registro reservado controlado por el Congreso, con pena para quien los use, y somete a la inteligencia criminal de las fuerzas federales al mismo control parlamentario y a la intervención del Ministerio Público Fiscal.",
+ "cuando": "Días 31-60 (Auditor General operativo en la Fase II)",
+ "cuando_breve": "Días 31-60",
+ "tramite": "Mayoría simple; cámara de origen indistinta. La elección del Auditor General requiere dos tercios de los miembros de la Comisión Bicameral.",
+ "motivos": "La Ley N° 25.520 de Inteligencia Nacional fue modificada en los últimos años por decretos de necesidad y urgencia: el DNU 614/2024 recreó la Secretaría de Inteligencia de Estado y el DNU 941/2025 reformó la propia ley, calificó como encubiertas las actividades de inteligencia, incorporó la facultad de aprehender personas e incluyó la fuga de información entre los objetos de la contrainteligencia. Al mismo tiempo, el presupuesto de inteligencia y sus gastos reservados se ampliaron por decreto, por una vía que ambas Cámaras ya habían rechazado en 2024. Un poder secreto que vigila sin ser vigilado es incompatible con una república. Este proyecto acota la misión de la inteligencia a las amenazas externas, el terrorismo y el crimen organizado complejo; suprime la aprehensión, el carácter encubierto general y la inteligencia por fuga de información; exige orden judicial para toda intervención sobre personas y concentra las interceptaciones en la oficina de la Corte Suprema que las registra. Fortalece el control del Congreso con acceso pleno de la Comisión Bicameral, un registro de cada operación y un Auditor General elegido por dos tercios. Fija un tope a los gastos reservados, que solo puede establecer la ley de presupuesto. Por último, dispone que ningún servicio extranjero opere sobre personas en el país sin orden de un juez argentino, que todo acuerdo de cooperación se registre ante la Comisión Bicameral y que la contrainteligencia informe la actividad extranjera detectada.",
+ "visto": "",
+ "considerando": [],
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Objeto",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley modifica la Ley de Inteligencia Nacional N° 25.520, en su texto según la Ley N° 27.126 y los Decretos N° 614/2024 y N° 941/2025, con el fin de acotar la misión del Sistema de Inteligencia Nacional, someter toda intervención sobre personas a control judicial, asegurar el control pleno del Honorable Congreso de la Nación, limitar los gastos reservados, controlar la actividad de servicios de inteligencia extranjeros en el país y agravar las penas por el espionaje ilegal."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Misión, límites y servicios extranjeros",
+   "articulos": [
+    {
+     "n": 2,
+     "epigrafe": "Misión y carácter de las actividades",
+     "texto": "Sustitúyese el artículo 2° bis de la Ley N° 25.520 por el siguiente:\n«ARTÍCULO 2° bis.- Las actividades de inteligencia, contrainteligencia y ciberinteligencia de los organismos del Sistema de Inteligencia Nacional solo podrán tener por objeto las amenazas externas a la seguridad de la Nación, el terrorismo y el crimen organizado complejo. Toda intervención sobre personas determinadas, sus comunicaciones, sus datos o sus dispositivos requiere orden judicial previa y fundada.\nLas fuentes, los métodos y la identidad del personal de inteligencia son reservados. El carácter encubierto de una actividad determinada es excepcional: solo podrá disponerse por resolución fundada del titular del organismo, por un plazo determinado no mayor de NOVENTA (90) días, renovable con nueva resolución fundada, y deberá inscribirse en el registro de operaciones y comunicarse a la Comisión Bicameral de Fiscalización de los Organismos y Actividades de Inteligencia dentro de las CUARENTA Y OCHO (48) horas.»"
+    },
+    {
+     "n": 3,
+     "epigrafe": "Supresión de la inteligencia por fuga de información",
+     "texto": "Sustitúyese el primer párrafo del artículo 2° quater de la Ley N° 25.520 por el siguiente:\n«Las actividades de ejecución de Contrainteligencia incluyen evitar acciones de infiltración, espionaje, atentados contra el orden constitucional, sabotaje, influencia, injerencia o interferencia de factores externos en detrimento del proceso decisorio de las autoridades constituidas del sistema republicano de gobierno, de los intereses estratégicos nacionales y/o de la población en general. Tales actividades pueden verificarse en abordajes multidimensionales del accionar de los actores estatales y no estatales.»\nLa investigación de la revelación de información clasificada corresponde exclusivamente a la justicia. Ninguna actividad de inteligencia podrá tener por objeto identificar las fuentes de información periodística."
+    },
+    {
+     "n": 4,
+     "epigrafe": "Supresión de la facultad de aprehender",
+     "texto": "Derógase el artículo 10 nonies de la Ley N° 25.520, incorporado por el Decreto N° 941/2025, y sustitúyese el inciso 2 del artículo 4° de esa ley por el siguiente:\n«2. Realizar tareas represivas ni poseer facultades compulsivas, con excepción de las necesarias para la Contrainteligencia.»\nEl personal de los organismos de inteligencia no podrá aprehender ni detener personas ni ejercer facultades compulsivas o policiales. Ante un delito en flagrancia, solo podrá dar aviso inmediato a las fuerzas policiales o de seguridad y a la autoridad judicial competente."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Servicios de inteligencia extranjeros",
+     "texto": "Incorpórase como artículo 4° ter de la Ley N° 25.520 el siguiente:\n«ARTÍCULO 4° ter.- Ningún servicio de inteligencia o de seguridad extranjero, ni persona que actúe por su cuenta, podrá realizar en el territorio nacional actividades de vigilancia, interceptación, infiltración, reclutamiento o intrusión en dispositivos sobre personas sin orden de un juez argentino, aun cuando cuente con el consentimiento de autoridades nacionales. Ningún organismo del Estado nacional podrá autorizar, facilitar ni tolerar esas actividades.\nLa cooperación y el intercambio de información con servicios extranjeros solo podrán realizarse en el marco de acuerdos inscriptos en el registro previsto en el artículo 33 bis. Cuando exista riesgo inminente para la vida de personas por actos de terrorismo, podrá cooperarse sin orden judicial previa, con comunicación al juez competente dentro de las VEINTICUATRO (24) horas, quien confirmará o revocará lo actuado, y a la Comisión Bicameral dentro de las CUARENTA Y OCHO (48) horas.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Control judicial de las interceptaciones",
+   "articulos": [
+    {
+     "n": 6,
+     "epigrafe": "Interceptaciones solo con orden judicial",
+     "texto": "Incorpórase como artículo 20 bis de la Ley N° 25.520 el siguiente:\n«ARTÍCULO 20 bis.- Las interceptaciones y captaciones de comunicaciones de cualquier tipo, y toda intrusión en dispositivos o sistemas informáticos de personas, solo podrán realizarse por orden judicial fundada y exclusivamente a través de la dependencia de la Corte Suprema de Justicia de la Nación a cargo de las interceptaciones y captaciones de comunicaciones, que llevará un registro de cada una con indicación de la orden que la dispuso, su objeto, su duración y el organismo requirente. Los organismos del Sistema de Inteligencia Nacional no podrán poseer ni operar, por sí o por terceros, medios propios de interceptación o de intrusión.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Control parlamentario y Auditor General de Inteligencia",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Acceso pleno y registro de operaciones",
+     "texto": "Incorpórase como artículo 32 bis de la Ley N° 25.520 el siguiente:\n«ARTÍCULO 32 bis.- Cada organismo del Sistema de Inteligencia Nacional llevará un registro inalterable de todas sus operaciones, con indicación de su objeto, fundamento legal, orden judicial cuando corresponda, fechas de inicio y finalización, funcionario responsable y recursos asignados. La Comisión Bicameral y el Auditor General de Inteligencia tendrán acceso pleno, sin que pueda oponérseles secreto alguno, a ese registro, a las operaciones, a los gastos, incluidos los reservados, a la documentación y a las instalaciones de los organismos de inteligencia. Sus integrantes y su personal quedan sujetos al deber de secreto establecido en la presente ley.»"
+    },
+    {
+     "n": 8,
+     "epigrafe": "Registro de Acuerdos con Servicios Extranjeros",
+     "texto": "Incorpórase como artículo 33 bis de la Ley N° 25.520 el siguiente:\n«ARTÍCULO 33 bis.- Créase en el ámbito de la Comisión Bicameral el Registro de Acuerdos con Servicios Extranjeros. Todo acuerdo, memorando, protocolo o compromiso de cooperación o de intercambio de información que cualquier organismo del Estado nacional celebre con un servicio de inteligencia o de seguridad extranjero deberá entregarse completo a la Comisión dentro de los DIEZ (10) días de su firma, y no podrá ejecutarse hasta su inscripción. La Comisión podrá objetarlo, por mayoría absoluta de sus miembros, dentro de los SESENTA (60) días de recibido; la objeción impide su ejecución o, si estuviera en ejecución, obliga a suspenderlo y a denunciarlo conforme a sus cláusulas. El registro es reservado.»"
+    },
+    {
+     "n": 9,
+     "epigrafe": "Informe semestral sobre actividad extranjera",
+     "texto": "Incorpórase como artículo 33 ter de la Ley N° 25.520 el siguiente:\n«ARTÍCULO 33 ter.- La Agencia Nacional de Contrainteligencia y la Agencia Federal de Ciberinteligencia tienen el mandato de detectar operaciones de servicios extranjeros de espionaje, de influencia sobre la opinión pública o los procesos electorales y de uso de software espía en el territorio nacional. Presentarán a la Comisión Bicameral, cada SEIS (6) meses y en forma reservada, un informe sobre la actividad de servicios extranjeros detectada en el país, incluido el uso de software espía, y las medidas adoptadas.»"
+    },
+    {
+     "n": 10,
+     "epigrafe": "Auditor General de Inteligencia",
+     "texto": "Incorpórase como artículo 41 bis de la Ley N° 25.520 el siguiente:\n«ARTÍCULO 41 bis.- Créase en el ámbito del Honorable Congreso de la Nación el Auditor General de Inteligencia, con autonomía funcional. Será elegido por la Comisión Bicameral con el voto de los dos tercios de sus miembros, entre personas con título universitario y reconocida trayectoria en derecho, auditoría o control público que no hayan integrado organismos del Sistema de Inteligencia Nacional en los CINCO (5) años anteriores. Durará CINCO (5) años en el cargo y podrá ser elegido por un nuevo período por única vez. Solo podrá ser removido por la Comisión Bicameral, con el voto de los dos tercios de sus miembros, por mal desempeño, delito en el ejercicio de sus funciones o crimen común. Tendrá las incompatibilidades de los legisladores y no podrá ejercer actividad partidaria.»"
+    },
+    {
+     "n": 11,
+     "epigrafe": "Funciones del Auditor General",
+     "texto": "Incorpórase como artículo 41 ter de la Ley N° 25.520 el siguiente:\n«ARTÍCULO 41 ter.- El Auditor General de Inteligencia revisará cada operación de los organismos del Sistema de Inteligencia Nacional una vez concluida, para verificar su legalidad, su ajuste a la misión del artículo 2° bis, la existencia de orden judicial cuando corresponda y el uso de los fondos. Tendrá el acceso pleno previsto en el artículo 32 bis. Elevará sus informes a la Comisión Bicameral en forma reservada, publicará un informe anual con información agregada que no comprometa fuentes ni métodos, y denunciará ante la justicia los hechos que puedan constituir delito. La Inspectoría General de Inteligencia le prestará la colaboración que requiera.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo V – Gastos reservados",
+   "articulos": [
+    {
+     "n": 12,
+     "epigrafe": "Tope y prohibición de ampliación",
+     "texto": "Incorpórase como artículo 38 ter de la Ley N° 25.520 el siguiente:\n«ARTÍCULO 38 ter.- Los gastos reservados de los organismos del Sistema de Inteligencia Nacional no podrán superar el DIEZ POR CIENTO (10 %) del total de los créditos asignados a la función Inteligencia y solo podrán fijarse en la ley de presupuesto de cada ejercicio. No podrán ser ampliados, ni podrán incrementarse los créditos de la función Inteligencia, por decreto, cualquiera sea su naturaleza, ni por decisión administrativa o reasignación de partidas. Los fondos reservados no utilizados al cierre de cada ejercicio se reintegrarán al Tesoro nacional. Su rendición es secreta pero obligatoria y documentada ante la Comisión Bicameral.»"
+    },
+    {
+     "n": 13,
+     "epigrafe": "Modificación de la Ley N° 24.156",
+     "texto": "Incorpórase como último párrafo del artículo 37 de la Ley N° 24.156 y sus modificatorias, el siguiente:\n«Las partidas que refieran a gastos reservados y de inteligencia no podrán ser incrementadas ni reasignadas por decreto, cualquiera sea su naturaleza, ni por decisión administrativa, y solo podrán modificarse por ley.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI – Disposiciones penales",
+   "articulos": [
+    {
+     "n": 14,
+     "epigrafe": "Habilitación de operaciones extranjeras",
+     "texto": "Incorpórase como artículo 43 quater de la Ley N° 25.520 el siguiente:\n«ARTÍCULO 43 quater.- Será reprimido con prisión de TRES (3) a DIEZ (10) años e inhabilitación especial por doble tiempo de la condena el funcionario o empleado público que autorice, habilite, facilite, consienta o encubra actividades de un servicio de inteligencia o de seguridad extranjero sobre personas en el territorio nacional sin orden de un juez argentino, fuera de los casos previstos en el artículo 4° ter.»"
+    },
+    {
+     "n": 15,
+     "epigrafe": "Agravante por espionaje político",
+     "texto": "Incorpórase como artículo 43 quinquies de la Ley N° 25.520 el siguiente:\n«ARTÍCULO 43 quinquies.- Las penas previstas en los artículos 42, 43, 43 bis y 43 ter se elevarán en un tercio en su mínimo y en su máximo cuando el hecho tenga por objeto a opositores políticos, periodistas o cualquier persona en razón de sus opiniones o de su actividad política, gremial, social, religiosa o periodística lícita.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VI bis – Colaboradores e inteligencia criminal",
+   "articulos": [
+    {
+     "n": 16,
+     "epigrafe": "Registro reservado de colaboradores",
+     "texto": "Incorpórase como artículo 33 quater de la Ley N° 25.520 el siguiente: «ARTÍCULO 33 quater.- Ningún organismo del Sistema de Inteligencia Nacional ni área de inteligencia criminal de las fuerzas policiales y de seguridad federales puede encomendar tareas, pagar o entregar beneficios a personas ajenas a su planta sin inscribirlas previamente en el Registro Reservado de Colaboradores, que consignará su identidad, la tarea asignada, su duración y cada pago, con su comprobante. El Registro es accesible en forma plena para la Comisión Bicameral de Fiscalización de los Organismos y Actividades de Inteligencia y para el Auditor General de Inteligencia. No pueden ser colaboradores los legisladores, magistrados, funcionarios del Ministerio Público, funcionarios públicos en actividad ni periodistas en ejercicio. Cada año se publica la cantidad de colaboradores y el monto total pagado, por organismo, sin datos que permitan identificarlos.»"
+    },
+    {
+     "n": 17,
+     "epigrafe": "Inteligencia criminal bajo control",
+     "texto": "Incorpórase como artículo 33 quinquies de la Ley N° 25.520 el siguiente: «ARTÍCULO 33 quinquies.- Las áreas de inteligencia criminal de la Policía Federal Argentina, de la Gendarmería Nacional, de la Prefectura Naval Argentina y de la Policía de Seguridad Aeroportuaria están sometidas al control de la Comisión Bicameral y del Auditor General de Inteligencia en los mismos términos que los organismos del Sistema de Inteligencia Nacional. Las tareas sobre personas determinadas solo pueden realizarse en el marco de una investigación penal y con intervención del Ministerio Público Fiscal.»"
+    },
+    {
+     "n": 18,
+     "epigrafe": "Pena por el uso de colaboradores no registrados",
+     "texto": "Incorpórase como artículo 43 sexies de la Ley N° 25.520 el siguiente: «ARTÍCULO 43 sexies.- Será reprimido con prisión de uno (1) a cuatro (4) años e inhabilitación especial por el doble del tiempo de la condena el funcionario que encomiende tareas de inteligencia o pague por ellas a personas no inscriptas en el Registro Reservado de Colaboradores, y quien, a sabiendas, realice esas tareas o reciba esos pagos.»"
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo VII – Disposiciones finales",
+   "articulos": [
+    {
+     "n": 19,
+     "epigrafe": "Acuerdos vigentes",
+     "texto": "Dentro de los NOVENTA (90) días de la entrada en vigencia de la presente ley, los organismos del Estado nacional entregarán a la Comisión Bicameral todos los acuerdos con servicios extranjeros vigentes a esa fecha, que quedarán sujetos a lo dispuesto en el artículo 33 bis de la Ley N° 25.520. Los no entregados en ese plazo quedarán suspendidos de pleno derecho."
+    },
+    {
+     "n": 20,
+     "epigrafe": "Puesta en funciones del Auditor General",
+     "texto": "La Comisión Bicameral elegirá al Auditor General de Inteligencia dentro de los DOCE (12) meses de la entrada en vigencia de la presente ley. El Auditor asumirá sus funciones a partir del ejercicio 2029 y revisará las operaciones concluidas desde esa fecha."
+    },
+    {
+     "n": 21,
+     "epigrafe": "Financiamiento",
+     "texto": "Los gastos que demanden el Auditor General de Inteligencia y el Registro de Acuerdos con Servicios Extranjeros se atenderán, a partir del ejercicio 2029, con créditos de la función Inteligencia que la ley de presupuesto reasignará a la jurisdicción Poder Legislativo Nacional, dentro de la reducción de gastos que resulte del artículo 38 ter de la Ley N° 25.520. La presente ley no autoriza otros gastos."
+    },
+    {
+     "n": 22,
+     "epigrafe": "Derogación y reglamentación",
+     "texto": "Déjanse sin efecto las disposiciones del Decreto N° 941/2025 en cuanto se opongan a la presente ley. El Poder Ejecutivo nacional reglamentará la presente ley dentro de los NOVENTA (90) días de su promulgación, en lo que corresponda a su ámbito."
+    },
+    {
+     "n": 23,
+     "epigrafe": "Vigencia",
+     "texto": "La presente ley entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial. El tope del artículo 38 ter de la Ley N° 25.520 se aplicará desde el primer presupuesto que se apruebe después de su entrada en vigencia."
+    },
+    {
+     "n": 24,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Ley 25.520, art. 2 bis (sustituido; texto DNU 941/2025)",
+  "Ley 25.520, art. 2 quater, primer párrafo (sustituido: se suprime la fuga de información clasificada)",
+  "Ley 25.520, art. 4, inc. 2 (sustituido: se suprime la salvedad del art. 10 nonies)",
+  "Ley 25.520, art. 4 ter (incorporado; el 4 bis ya existe, texto Decreto 614/2024)",
+  "Ley 25.520, art. 20 bis (incorporado)",
+  "Ley 25.520, art. 32 bis (incorporado al Título VIII)",
+  "Ley 25.520, art. 33 bis (incorporado al Título VIII)",
+  "Ley 25.520, art. 33 ter (incorporado al Título VIII)",
+  "Ley 25.520, art. 38 ter (incorporado al Título VIII)",
+  "Ley 25.520, art. 41 bis (incorporado al Título VIII)",
+  "Ley 25.520, art. 41 ter (incorporado al Título VIII)",
+  "Ley 25.520, art. 43 quater (incorporado al Título IX)",
+  "Ley 25.520, art. 43 quinquies (incorporado al Título IX)",
+  "Ley 24.156, art. 37 (párrafo incorporado)",
+  "Ley 25.520, arts. 33 quater y 33 quinquies (incorporados al Título VIII)",
+  "Ley 25.520, art. 43 sexies (incorporado al Título IX)"
+ ],
+ "deroga": [
+  "Ley 25.520, art. 10 nonies (incorporado por el DNU 941/2025)",
+  "DNU 941/2025, en cuanto se oponga a la presente ley"
+ ],
+ "variantes": null
+}
