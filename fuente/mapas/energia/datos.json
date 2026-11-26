@@ -1482,6 +1482,175 @@
      ]
     ]
    ]
+  },
+  {
+   "id": "nucleares",
+   "grupo": "generacion",
+   "estado": "funciona",
+   "nombre": "Centrales nucleares: Atucha I y II y Embalse",
+   "dato": "Base firme y sin emisiones",
+   "hoy": "Atucha II y Embalse en servicio; Atucha I en extensión de vida, con regreso previsto en 2027. El CAREM 25 tiene la construcción suspendida.",
+   "prop": "Plan nuclear plurianual con tecnología nacional, terminar el CAREM 25 y nuevas unidades en el predio de Atucha III (propuesta 37).",
+   "fuente": "Nucleoeléctrica y CNEA; ⚠ prensa especializada",
+   "prov": [
+    "Buenos Aires",
+    "Córdoba"
+   ],
+   "marcas": [
+    [
+     -59.2,
+     -33.97
+    ],
+    [
+     -64.44,
+     -32.23
+    ]
+   ]
+  },
+  {
+   "id": "comahue",
+   "grupo": "represa",
+   "estado": "funciona",
+   "nombre": "Represas del Comahue",
+   "dato": "Alicurá, El Chocón, Piedra del Águila y Cerros Colorados",
+   "hoy": "Pasaron a nuevas concesiones privadas por 30 años: el Estado nacional firmó los contratos a fines de 2025.",
+   "prop": "Se controla lo comprometido: tablero público de inversiones, seguridad de presas y manejo de crecidas coordinado con Neuquén y Río Negro (propuesta 37).",
+   "fuente": "Gobierno nacional, firma de los contratos de concesión de las represas del Comahue",
+   "prov": [
+    "Neuquén",
+    "Río Negro"
+   ],
+   "marcas": [
+    [
+     -70.8,
+     -40.6
+    ],
+    [
+     -68.8,
+     -39.27
+    ],
+    [
+     -70.0,
+     -40.05
+    ],
+    [
+     -68.6,
+     -38.6
+    ]
+   ]
+  },
+  {
+   "id": "baterias",
+   "grupo": "generacion",
+   "estado": "en_marcha",
+   "nombre": "Baterías: AlmaGBA y Alma SADI",
+   "dato": "Unos 713 MW en el Gran Buenos Aires y 700,5 MW en otros nodos",
+   "hoy": "La Secretaría de Energía adjudicó baterías en nodos del Gran Buenos Aires (AlmaGBA, 2025) y 20 proyectos en nodos críticos de siete regiones (Alma SADI, Resolución 155/2026).",
+   "prop": "Convocatorias periódicas en los nodos donde se pierde energía renovable por falta de red, para guardar la de mediodía y entregarla en el pico de la noche (propuesta 37).",
+   "fuente": "Secretaría de Energía, Resolución 155/2026 (Boletín Oficial, 7/7/2026) y anuncio de la adjudicación de Alma SADI",
+   "prov": [
+    "Buenos Aires"
+   ],
+   "marcas": [
+    [
+     -58.62,
+     -34.62
+    ]
+   ]
+  },
+  {
+   "id": "viento_pat",
+   "grupo": "generacion",
+   "estado": "zona",
+   "nombre": "Viento: Patagonia",
+   "dato": "Zona aproximada",
+   "hoy": "Los vientos más fuertes y constantes del país; hoy la falta de líneas limita nuevos parques.",
+   "prop": "Crece con el Corredor Sur y el vínculo Patagonia austral–centro (propuesta 35).",
+   "fuente": "Secretaría de Energía y CAMMESA; ⚠ CREEBBA (sudeste bonaerense, 2025)",
+   "prov": [
+    "Chubut",
+    "Santa Cruz",
+    "Río Negro"
+   ],
+   "zona": {
+    "centro": [
+     -68.0,
+     -46.8
+    ],
+    "rx": 2.4,
+    "ry": 3.4,
+    "tipo": "viento"
+   }
+  },
+  {
+   "id": "viento_bsas",
+   "grupo": "generacion",
+   "estado": "zona",
+   "nombre": "Viento: sudeste bonaerense",
+   "dato": "Zona aproximada",
+   "hoy": "Concentra cerca de un cuarto de la generación eólica del país ⚠.",
+   "prop": "Se refuerza con Vivoratá–Plomer y Plomer–O'Higgins (propuesta 35).",
+   "fuente": "Secretaría de Energía y CAMMESA; ⚠ CREEBBA (sudeste bonaerense, 2025)",
+   "prov": [
+    "Buenos Aires"
+   ],
+   "zona": {
+    "centro": [
+     -60.2,
+     -38.2
+    ],
+    "rx": 2.4,
+    "ry": 1.1,
+    "tipo": "viento"
+   }
+  },
+  {
+   "id": "sol_noa",
+   "grupo": "generacion",
+   "estado": "zona",
+   "nombre": "Sol: Puna y Noroeste",
+   "dato": "Zona aproximada",
+   "hoy": "La mayor radiación solar del país, lejos de los centros de consumo.",
+   "prop": "Crece con la línea Chaparro–Antofagasta de la Sierra–Puna–Cobos (propuesta 35).",
+   "fuente": "Secretaría de Energía y CAMMESA; ⚠ CREEBBA (sudeste bonaerense, 2025)",
+   "prov": [
+    "Jujuy",
+    "Salta",
+    "Catamarca"
+   ],
+   "zona": {
+    "centro": [
+     -66.4,
+     -25.2
+    ],
+    "rx": 1.8,
+    "ry": 2.6,
+    "tipo": "sol"
+   }
+  },
+  {
+   "id": "sol_cuyo",
+   "grupo": "generacion",
+   "estado": "zona",
+   "nombre": "Sol: San Juan, La Rioja y Mendoza",
+   "dato": "Zona aproximada",
+   "hoy": "Zona con los parques solares más grandes del país ⚠.",
+   "prop": "Crece con Rodeo–Chaparro–La Rioja Sur y Lavalle–Chumbicha (propuesta 35).",
+   "fuente": "Secretaría de Energía y CAMMESA; ⚠ CREEBBA (sudeste bonaerense, 2025)",
+   "prov": [
+    "San Juan",
+    "La Rioja",
+    "Mendoza"
+   ],
+   "zona": {
+    "centro": [
+     -68.4,
+     -30.6
+    ],
+    "rx": 1.6,
+    "ry": 2.0,
+    "tipo": "sol"
+   }
   }
  ]
 }

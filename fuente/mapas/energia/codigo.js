@@ -1,7 +1,7 @@
 var D={{D}};var lst=R.getElementById?R.getElementById('lst'):R.querySelector('#lst');var ch=R.getElementById?R.getElementById('chips'):R.querySelector('#chips');
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
-var EST=[['en_marcha','En marcha o por arrancar','--em'],['planificada','Planificadas, sin hacer','--pl'],['frenada','Frenadas','--fr'],['evaluar','A evaluar','--ev'],['funciona','Ya funcionan','--fu']];
-var GR=[['todo','Todo'],['electricidad','Líneas eléctricas'],['internacional','Con otros países'],['represa','Represas'],['gas','Gas con otros países']];
+var EST=[['en_marcha','En marcha o por arrancar','--em'],['planificada','Planificadas, sin hacer','--pl'],['frenada','Frenadas','--fr'],['evaluar','A evaluar','--ev'],['funciona','Ya funcionan','--fu'],['zona','Zonas de viento y sol','--sol']];
+var GR=[['todo','Todo'],['electricidad','Líneas eléctricas'],['internacional','Con otros países'],['represa','Represas'],['generacion','Nuclear, baterías, viento y sol'],['gas','Gas con otros países']];
 EST.forEach(function(e){var o=D.filter(function(t){return t.estado===e[0]});if(!o.length)return;var h=document.createElement('h6');h.textContent=e[1];h.setAttribute('data-e',e[0]);lst.appendChild(h);
 o.forEach(function(t){var b=document.createElement('button');b.className='it';b.setAttribute('data-t',t.id);b.setAttribute('data-g',t.grupo);
 b.innerHTML='<h5><b style="background:var('+e[2]+')"></b>'+esc(t.nombre)+'</h5><div class="km">'+esc(t.dato)+'</div><dl class="det"><dt>Hoy</dt><dd>'+esc(t.hoy)+'</dd><dt>Propuesta</dt><dd class="p">'+esc(t.prop)+'</dd><dt>Fuente</dt><dd class="s">'+esc(t.fuente)+'</dd></dl>';

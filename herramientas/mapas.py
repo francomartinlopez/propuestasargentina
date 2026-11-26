@@ -58,7 +58,7 @@ def energia():
         x, y = xy((lon, lat)); base += f'<text class="pais" x="{f1(x)}" y="{f1(y)}">{n}</text>'
     for n, lon, lat in d['ciudades']:
         x, y = xy((lon, lat)); base += f'<g class="ciu"><circle cx="{f1(x)}" cy="{f1(y)}" r="1.4"/><text x="{f1(x + 3)}" y="{f1(y + 2.2)}">{n}</text></g>'
-    orden = {'funciona': 0, 'evaluar': 1, 'frenada': 2, 'planificada': 3, 'en_marcha': 4}   # lo más importante arriba
+    orden = {'zona': -1, 'funciona': 0, 'evaluar': 1, 'frenada': 2, 'planificada': 3, 'en_marcha': 4}   # lo más importante arriba
     capas = []
     for o in sorted(d['obras'], key=lambda o: orden[o['estado']]):
         e, g = o['estado'], o['grupo']; c = []
@@ -67,13 +67,18 @@ def energia():
             c.append(f'<path class="hit" d="{dd}"/>')
             if g == 'gas': c.append(f'<path class="ln e-{e} gas" d="{dd}"/><path class="ln gasi" d="{dd}"/>')
             else: c.append(f'<path class="ln e-{e}" d="{dd}"/>')
+        if 'zona' in o:
+            z = o['zona']; x, y = xy(z['centro'])
+            c.append(f'<ellipse class="zn z-{z["tipo"]}" cx="{f1(x)}" cy="{f1(y)}" rx="{f1(z["rx"] * P["x"][0])}" ry="{f1(z["ry"] * -P["y"][0])}"/>')
         for q in o.get('marcas', []):
             x, y = xy(q)
-            if g == 'represa': c.append(f'<rect class="mk f-{e}" x="{f1(x - 3.6)}" y="{f1(y - 3.6)}" width="7.2" height="7.2" transform="rotate(45 {f1(x)} {f1(y)})"/>')
+            if o['id'] == 'nucleares': c.append(f'<circle class="mk f-{e}" cx="{f1(x)}" cy="{f1(y)}" r="4.2"/><circle class="mk nuc" cx="{f1(x)}" cy="{f1(y)}" r="1.6"/>')
+            elif o['id'] == 'baterias': c.append(f'<rect class="mk f-{e}" x="{f1(x - 4)}" y="{f1(y - 2.6)}" width="8" height="5.2" rx="1"/>')
+            elif g == 'represa': c.append(f'<rect class="mk f-{e}" x="{f1(x - 3.6)}" y="{f1(y - 3.6)}" width="7.2" height="7.2" transform="rotate(45 {f1(x)} {f1(y)})"/>')
             else: c.append(f'<circle class="mk f-{e}" cx="{f1(x)}" cy="{f1(y)}" r="3.8"/>')
         capas.append(f'<g class="ob" data-t="{o["id"]}" data-g="{g}"><title>{o["nombre"]}</title>{"".join(c)}</g>')
     interior = leer('energia', 'interior.html').replace('{{VB}}', ' '.join(str(v) for v in d['viewbox'])).replace('{{BASE}}', base).replace('{{CAPAS}}', ''.join(capas))
-    Dj = J([{k: v for k, v in o.items() if k not in ('lineas', 'marcas', 'prov')} for o in d['obras']], separators=(',', ':'))
+    Dj = J([{k: v for k, v in o.items() if k not in ('lineas', 'marcas', 'prov', 'zona')} for o in d['obras']], separators=(',', ':'))
     codigo = leer('energia', 'codigo.js').replace('{{D}}', Dj)
     open('mapa-energia-embed.js', 'w').write(leer('energia', 'embed.js').replace('{{INTERIOR}}', J(interior)).replace('{{CODIGO}}', codigo))
     open('mapa-energia.html', 'w').write(leer('energia', 'pagina.html').replace('{{INTERIOR}}', interior).replace('{{CODIGO}}', codigo))
