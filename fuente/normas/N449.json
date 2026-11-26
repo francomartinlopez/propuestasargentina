@@ -1,0 +1,105 @@
+{
+ "id": "N449",
+ "tipo": "ley_nacional",
+ "titulo": "Ley de ampliación del transporte eléctrico: calendario de obras, estabilidad del cargo que las paga e interconexiones con los países vecinos",
+ "sumilla": "Da rango de ley al plan de ampliación del transporte eléctrico en extra alta tensión y obliga a publicar y cumplir un calendario de licitaciones. Garantiza que el cargo con que los usuarios beneficiados repagan cada obra concesionada no pueda reducirse ni suspenderse durante la concesión, y fija acceso abierto y aporte proporcional cuando una línea sirve a proyectos mineros o industriales. Ordena elegir por estudio técnico público el trazado entre la Patagonia austral y el centro del país, y priorizar las interconexiones con Bolivia y el Paraguay y el uso pleno de las existentes. Las exportaciones de electricidad y gas se hacen con contratos firmes sin afectar el abastecimiento interno, y el Poder Ejecutivo informa cada año al Congreso.",
+ "cuando": "Fase I (año 1); licitaciones según el calendario que publica la autoridad de aplicación",
+ "cuando_breve": "Fase I",
+ "tramite": "Mayoría simple; cámara de origen indistinta. No modifica los contratos de concesión ya firmados: los complementa y les da estabilidad.",
+ "motivos": "La electricidad que se genera solo sirve si puede llevarse a donde se consume. Durante años la demanda creció más rápido que la red de extra alta tensión, y en los picos de calor y de frío es la red la que limita y obliga a cortar el servicio. En 2025 el Ministerio de Economía fijó dieciséis obras urgentes de ampliación (Resolución 715/2025, Anexo I), que suman unos 5.600 kilómetros de líneas nuevas, y el Decreto 921/2025 dispuso que se hagan por concesión de obra pública con capital privado, que se recupera con un cargo a los usuarios que se benefician. En 2026 se licitó la primera, AMBA I. El esquema es razonable, pero descansa en resoluciones y decretos que un gobierno puede cambiar, y el inversor que construye una línea para treinta años necesita saber que el cargo que la paga no se tocará a mitad de camino. Esta ley da esa estabilidad, a cambio de obligaciones: un calendario público de licitaciones, acceso abierto a las líneas, aporte proporcional de los grandes usuarios mineros e industriales que las aprovechan y un informe anual al Congreso. Ordena además dos decisiones que no pueden quedar libradas a la discrecionalidad: elegir por estudio técnico público entre los dos trazados posibles para traer al centro la energía de la Patagonia austral, y priorizar las interconexiones con los países vecinos, que permiten comprar y vender energía en ambos sentidos y dan seguridad a las regiones de frontera. Finalmente, fija un criterio común para la exportación de electricidad y de gas: contratos firmes, sin quitar abastecimiento al mercado interno en invierno.",
+ "visto": null,
+ "considerando": null,
+ "formula": "El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:",
+ "capitulos": [
+  {
+   "titulo": "Capítulo I – Plan y calendario",
+   "articulos": [
+    {
+     "n": 1,
+     "epigrafe": "Objeto",
+     "texto": "La presente ley establece el régimen de ampliación del sistema de transporte de energía eléctrica en extra alta tensión, da estabilidad al financiamiento de sus obras y fija criterios para las interconexiones eléctricas y gasíferas con los países vecinos."
+    },
+    {
+     "n": 2,
+     "epigrafe": "Plan de ampliación",
+     "texto": "Declárase de interés público nacional la ejecución de las obras de ampliación del sistema de transporte de energía eléctrica enumeradas en el Anexo I de la Resolución N° 715/2025 del Ministerio de Economía. La autoridad de aplicación podrá incorporar nuevas obras con estudio técnico publicado de la Compañía Administradora del Mercado Mayorista Eléctrico (CAMMESA) que justifique su necesidad, y no podrá excluir ninguna sin un estudio de igual alcance."
+    },
+    {
+     "n": 3,
+     "epigrafe": "Calendario público",
+     "texto": "Dentro de los noventa (90) días de la entrada en vigencia de la presente ley, la autoridad de aplicación publicará el calendario de convocatoria a licitación de cada obra, ordenado según criterios públicos de energía no suministrada evitada, confiabilidad del sistema y costo. Todo desvío del calendario se justificará por escrito y se publicará."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo II – Financiamiento",
+   "articulos": [
+    {
+     "n": 4,
+     "epigrafe": "Estabilidad del cargo",
+     "texto": "Las obras comprendidas podrán ejecutarse por concesión de obra pública en los términos de la Ley N° 17.520 y del Decreto N° 921/2025, con repago mediante un cargo a los usuarios que se benefician de cada obra. El cargo fijado en el contrato de concesión no podrá reducirse, suspenderse ni destinarse a otro fin durante la vigencia de la concesión, salvo acuerdo con el concesionario que preserve la ecuación económica del contrato."
+    },
+    {
+     "n": 5,
+     "epigrafe": "Grandes usuarios",
+     "texto": "Cuando una obra sirva total o parcialmente al abastecimiento de proyectos mineros, industriales o de generación, sus titulares aportarán al costo en proporción a la capacidad que reserven, mediante contratos de largo plazo. Las líneas así financiadas son de acceso abierto, en los términos de la Ley N° 24.065, y la capacidad no utilizada se pone a disposición de otros usuarios."
+    },
+    {
+     "n": 6,
+     "epigrafe": "Aportes privados anticipados",
+     "texto": "Si un particular construye a su costo un tramo previsto en el plan, la autoridad de aplicación lo integrará al sistema de transporte con las especificaciones técnicas del plan, y el aporte se reconocerá en el cargo de la obra completa según el procedimiento que fije la reglamentación."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo III – Decisiones de trazado e interconexiones",
+   "articulos": [
+    {
+     "n": 7,
+     "epigrafe": "Patagonia austral",
+     "texto": "Para vincular los aprovechamientos hidroeléctricos del río Santa Cruz con el centro del sistema, la autoridad de aplicación comparará las alternativas de trazado este, entre el río Santa Cruz y Puerto Madryn, y oeste, entre Cóndor Cliff, Futaleufú y Piedra del Águila, mediante un estudio técnico público de costo, pérdidas, confiabilidad e impacto ambiental, y licitará una sola."
+    },
+    {
+     "n": 8,
+     "epigrafe": "Interconexiones internacionales",
+     "texto": "La autoridad de aplicación dará prioridad a las líneas de interconexión con el Estado Plurinacional de Bolivia, entre Yaguacua, Salvador Mazza y San Juancito, y con la República del Paraguay, entre Villa Hayes y Formosa, y promoverá el uso pleno de las interconexiones existentes con las Repúblicas de Chile, del Paraguay, Oriental del Uruguay y Federativa del Brasil, con reglas de intercambio estables y públicas. Estudiará también las interconexiones con el sur de la República de Chile, junto con la vinculación de la Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur al sistema interconectado."
+    },
+    {
+     "n": 9,
+     "epigrafe": "Exportaciones",
+     "texto": "Las exportaciones de energía eléctrica y de gas natural se instrumentarán preferentemente mediante contratos firmes de largo plazo. La planificación del transporte de gas y de electricidad considerará los volúmenes comprometidos para exportación, de modo que no afecten el abastecimiento del mercado interno en los períodos de mayor demanda."
+    }
+   ]
+  },
+  {
+   "titulo": "Capítulo IV – Control",
+   "articulos": [
+    {
+     "n": 10,
+     "epigrafe": "Publicidad",
+     "texto": "Cada convocatoria, adjudicación, contrato, modificación contractual, cargo aprobado y avance de obra se publicará en formato abierto en el sitio oficial de la autoridad de aplicación."
+    },
+    {
+     "n": 11,
+     "epigrafe": "Informe anual",
+     "texto": "El Poder Ejecutivo nacional presentará cada año al Congreso de la Nación un informe sobre el cumplimiento del calendario, los kilómetros de líneas habilitados, la energía no suministrada por falta de transporte, los cargos vigentes y el estado de las interconexiones internacionales."
+    },
+    {
+     "n": 12,
+     "epigrafe": "Autoridad de aplicación",
+     "texto": "La autoridad de aplicación de la presente ley es la Secretaría de Energía o el organismo que la reemplace, con intervención del ente regulador de la electricidad en lo relativo a cargos y acceso abierto."
+    },
+    {
+     "n": 13,
+     "epigrafe": "",
+     "texto": "Comuníquese al Poder Ejecutivo nacional."
+    }
+   ]
+  }
+ ],
+ "modifica": [
+  "Régimen de ampliación del transporte eléctrico (Resolución 715/2025 del Ministerio de Economía y Decreto 921/2025): rango de ley, calendario y estabilidad del cargo"
+ ],
+ "deroga": [],
+ "variantes": null
+}
