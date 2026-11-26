@@ -1,0 +1,1487 @@
+{
+ "_ayuda": "Datos del mapa «Red de energía» (propuesta 35). Cada obra tiene grupo (electricidad, internacional, represa, gas), estado (funciona, en_marcha, planificada, frenada, evaluar), textos de la ficha, provincias (prov, para el filtro del sitio) y su dibujo: «lineas» (listas de [longitud, latitud]) y/o «marcas» (puntos [longitud, latitud]). Ubicaciones aproximadas. Lo arma herramientas/mapas.py energia.",
+ "proyeccion": {
+  "x": [
+   15.7499,
+   1165.5907
+  ],
+  "y": [
+   -20.0007,
+   -430.0242
+  ]
+ },
+ "viewbox": [
+  -6,
+  -24,
+  370,
+  714
+ ],
+ "paises": [
+  [
+   "CHILE",
+   -72.4,
+   -28.5
+  ],
+  [
+   "BOLIVIA",
+   -64.6,
+   -21.0
+  ],
+  [
+   "PARAGUAY",
+   -58.4,
+   -23.6
+  ],
+  [
+   "BRASIL",
+   -52.8,
+   -26.6
+  ],
+  [
+   "URUGUAY",
+   -55.8,
+   -33.1
+  ],
+  [
+   "Océano Atlántico",
+   -58.5,
+   -45.0
+  ]
+ ],
+ "ciudades": [
+  [
+   "Buenos Aires",
+   -58.4,
+   -34.6
+  ],
+  [
+   "Rosario",
+   -60.64,
+   -32.95
+  ],
+  [
+   "Córdoba",
+   -64.19,
+   -31.42
+  ],
+  [
+   "Mendoza",
+   -68.84,
+   -32.89
+  ],
+  [
+   "Neuquén",
+   -68.06,
+   -38.95
+  ],
+  [
+   "Bahía Blanca",
+   -62.27,
+   -38.72
+  ],
+  [
+   "Salta",
+   -65.41,
+   -24.79
+  ],
+  [
+   "Resistencia",
+   -58.98,
+   -27.45
+  ],
+  [
+   "Comodoro Rivadavia",
+   -67.5,
+   -45.86
+  ],
+  [
+   "Río Gallegos",
+   -69.22,
+   -51.62
+  ],
+  [
+   "Santiago (Chile)",
+   -70.65,
+   -33.45
+  ],
+  [
+   "Montevideo",
+   -56.2,
+   -34.9
+  ],
+  [
+   "Asunción",
+   -57.58,
+   -25.28
+  ],
+  [
+   "Porto Alegre",
+   -51.2,
+   -30.03
+  ]
+ ],
+ "obras": [
+  {
+   "id": "red500",
+   "grupo": "electricidad",
+   "estado": "funciona",
+   "nombre": "Red de 500 kV que ya funciona",
+   "dato": "Columna del sistema interconectado · trazado esquemático",
+   "hoy": "Une las centrales del Comahue, Cuyo, el Noroeste, Yacyretá y Salto Grande con los grandes centros de consumo. Las últimas líneas habilitadas son Bahía Blanca–Vivoratá, de 444 km, y Rincón Santa María–Resistencia ⚠.",
+   "prop": "Se completa con las obras del plan de ampliación, que suman unos 5.600 km de líneas nuevas, un 38 % más de red.",
+   "fuente": "CAMMESA y Secretaría de Energía; ⚠ El Litoral (Rincón Santa María–Resistencia)",
+   "prov": [
+    "Neuquén",
+    "Río Negro",
+    "Buenos Aires",
+    "Mendoza",
+    "San Juan",
+    "San Luis",
+    "Córdoba",
+    "Santa Fe",
+    "Catamarca",
+    "La Rioja",
+    "Tucumán",
+    "Salta",
+    "Santiago del Estero",
+    "Chaco",
+    "Corrientes",
+    "Entre Ríos",
+    "Chubut",
+    "Santa Cruz"
+   ],
+   "lineas": [
+    [
+     [
+      -68.8,
+      -39.27
+     ],
+     [
+      -65.66,
+      -39.29
+     ],
+     [
+      -62.27,
+      -38.72
+     ],
+     [
+      -60.32,
+      -36.89
+     ],
+     [
+      -58.53,
+      -34.85
+     ]
+    ],
+    [
+     [
+      -65.66,
+      -39.29
+     ],
+     [
+      -61.72,
+      -36.3
+     ],
+     [
+      -58.53,
+      -34.85
+     ]
+    ],
+    [
+     [
+      -70.0,
+      -40.05
+     ],
+     [
+      -68.8,
+      -39.27
+     ],
+     [
+      -68.1,
+      -38.95
+     ]
+    ],
+    [
+     [
+      -68.1,
+      -38.95
+     ],
+     [
+      -68.33,
+      -34.62
+     ],
+     [
+      -68.84,
+      -32.89
+     ],
+     [
+      -68.53,
+      -31.54
+     ]
+    ],
+    [
+     [
+      -68.84,
+      -32.89
+     ],
+     [
+      -65.94,
+      -32.37
+     ],
+     [
+      -64.25,
+      -32.19
+     ],
+     [
+      -64.06,
+      -31.38
+     ]
+    ],
+    [
+     [
+      -64.25,
+      -32.19
+     ],
+     [
+      -60.85,
+      -32.95
+     ],
+     [
+      -60.0,
+      -33.48
+     ],
+     [
+      -58.95,
+      -34.6
+     ],
+     [
+      -58.53,
+      -34.85
+     ]
+    ],
+    [
+     [
+      -64.06,
+      -31.38
+     ],
+     [
+      -65.06,
+      -29.27
+     ],
+     [
+      -65.2,
+      -26.97
+     ],
+     [
+      -65.08,
+      -24.75
+     ]
+    ],
+    [
+     [
+      -65.06,
+      -29.27
+     ],
+     [
+      -66.85,
+      -29.41
+     ]
+    ],
+    [
+     [
+      -65.2,
+      -26.97
+     ],
+     [
+      -62.85,
+      -25.8
+     ],
+     [
+      -58.98,
+      -27.45
+     ]
+    ],
+    [
+     [
+      -60.85,
+      -32.95
+     ],
+     [
+      -60.77,
+      -31.67
+     ],
+     [
+      -59.75,
+      -29.5
+     ],
+     [
+      -58.98,
+      -27.45
+     ]
+    ],
+    [
+     [
+      -56.75,
+      -27.48
+     ],
+     [
+      -56.6,
+      -27.5
+     ],
+     [
+      -58.98,
+      -27.45
+     ]
+    ],
+    [
+     [
+      -56.6,
+      -27.5
+     ],
+     [
+      -57.94,
+      -31.27
+     ],
+     [
+      -58.33,
+      -32.67
+     ],
+     [
+      -58.96,
+      -34.16
+     ],
+     [
+      -58.95,
+      -34.6
+     ]
+    ],
+    [
+     [
+      -65.66,
+      -39.29
+     ],
+     [
+      -65.04,
+      -42.77
+     ],
+     [
+      -67.95,
+      -46.8
+     ],
+     [
+      -70.3,
+      -51.0
+     ]
+    ],
+    [
+     [
+      -62.27,
+      -38.72
+     ],
+     [
+      -57.67,
+      -37.66
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "amba1",
+   "grupo": "electricidad",
+   "estado": "en_marcha",
+   "nombre": "AMBA I: líneas, estación Plomer y STATCOM Ezeiza",
+   "dato": "Unos 270 km en 500, 220 y 132 kV · unos US$ 800 millones",
+   "hoy": "Licitada por la Resolución 202/2026 de la Secretaría de Energía. Las ofertas se abren entre el 10 y el 14 de diciembre de 2026 y la obra dura 52 meses. La paga el sector privado, que la recupera con un cargo a los usuarios que se benefician; tiene una garantía del BID de US$ 200 millones, compartida con el Corredor Sur.",
+   "prop": "Se sostiene el calendario y se adjudica en 2027: es la obra que más reduce el riesgo de cortes en el Gran Buenos Aires.",
+   "fuente": "Secretaría de Energía, Resolución 202/2026 (Boletín Oficial, 12/8/2026) y anuncio del 11/8/2026; Decreto 921/2025",
+   "prov": [
+    "Buenos Aires"
+   ],
+   "lineas": [
+    [
+     [
+      -58.53,
+      -34.85
+     ],
+     [
+      -59.05,
+      -34.79
+     ],
+     [
+      -59.3,
+      -33.97
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "sur",
+   "grupo": "electricidad",
+   "estado": "en_marcha",
+   "nombre": "Corredor Sur: Puerto Madryn–Choele Choel–Bahía Blanca",
+   "dato": "Dos líneas de 500 kV y ampliación de estaciones",
+   "hoy": "Con audiencia pública convocada y licitación prevista para 2027 ⚠. Comparte con AMBA I la garantía del BID.",
+   "prop": "Se licita en 2027: refuerza la Patagonia y el sur bonaerense y da salida a la generación del sur.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I); ⚠ prensa especializada (audiencia y fecha de licitación)",
+   "prov": [
+    "Chubut",
+    "Río Negro",
+    "Buenos Aires"
+   ],
+   "lineas": [
+    [
+     [
+      -65.04,
+      -42.77
+     ],
+     [
+      -65.66,
+      -39.29
+     ],
+     [
+      -62.27,
+      -38.72
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "diamante",
+   "grupo": "electricidad",
+   "estado": "en_marcha",
+   "nombre": "Río Diamante–Charlone–O'Higgins",
+   "dato": "Línea de 500 kV entre Mendoza y Buenos Aires",
+   "hoy": "En el primer grupo de obras del plan; licitación prevista para 2027 ⚠.",
+   "prop": "Se licita en 2027: abre una segunda vía entre Cuyo y la provincia de Buenos Aires.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I); ⚠ prensa especializada (fecha de licitación)",
+   "prov": [
+    "Mendoza",
+    "San Luis",
+    "Córdoba",
+    "La Pampa",
+    "Buenos Aires"
+   ],
+   "lineas": [
+    [
+     [
+      -68.33,
+      -34.62
+     ],
+     [
+      -63.37,
+      -34.86
+     ],
+     [
+      -60.7,
+      -34.58
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "santacruz",
+   "grupo": "represa",
+   "estado": "en_marcha",
+   "nombre": "Represas Cóndor Cliff y La Barrancosa (río Santa Cruz)",
+   "dato": "27 % de avance conjunto ⚠",
+   "hoy": "En reactivación, con financiamiento externo comprometido ⚠.",
+   "prop": "Se terminan, con prioridad para La Barrancosa (360 MW), y se conectan a la red por el vínculo Patagonia austral–centro.",
+   "fuente": "⚠ Diario Nuevo Día, estado de las represas del río Santa Cruz (12/9/2026)",
+   "prov": [
+    "Santa Cruz"
+   ],
+   "marcas": [
+    [
+     -70.9,
+     -50.2
+    ],
+    [
+     -70.2,
+     -50.15
+    ]
+   ]
+  },
+  {
+   "id": "anacua",
+   "grupo": "represa",
+   "estado": "en_marcha",
+   "nombre": "Central Añá Cuá (Yacyretá)",
+   "dato": "Nueva central en el brazo Aña Cuá",
+   "hoy": "En obra dentro de la entidad binacional Yacyretá; turbinas previstas para 2028 ⚠.",
+   "prop": "Se acompaña su terminación y se evacua su energía por la línea Rincón Santa María–Resistencia.",
+   "fuente": "⚠ prensa especializada",
+   "prov": [
+    "Corrientes"
+   ],
+   "marcas": [
+    [
+     -56.9,
+     -27.45
+    ]
+   ]
+  },
+  {
+   "id": "amba2",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "AMBA II y STATCOM Rodríguez",
+   "dato": "Refuerzo del oeste del Gran Buenos Aires",
+   "hoy": "En la lista de obras urgentes del plan (Resolución 715/2025), sin licitación convocada.",
+   "prop": "Se licita después de AMBA I, con el mismo esquema de financiamiento privado.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I)",
+   "prov": [
+    "Buenos Aires"
+   ],
+   "marcas": [
+    [
+     -58.95,
+     -34.6
+    ]
+   ]
+  },
+  {
+   "id": "vivplo",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Vivoratá–Plomer",
+   "dato": "Línea de 500 kV",
+   "hoy": "En la lista de obras urgentes del plan (Resolución 715/2025), sin licitación convocada.",
+   "prop": "Cierra un anillo de 500 kV alrededor del Gran Buenos Aires con la línea Bahía Blanca–Vivoratá ya habilitada.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I)",
+   "prov": [
+    "Buenos Aires"
+   ],
+   "lineas": [
+    [
+     [
+      -57.67,
+      -37.66
+     ],
+     [
+      -58.3,
+      -36.3
+     ],
+     [
+      -59.05,
+      -34.79
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ploohi",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Plomer–O'Higgins",
+   "dato": "Línea de 500 kV",
+   "hoy": "En la lista de obras urgentes del plan (Resolución 715/2025), sin licitación convocada.",
+   "prop": "Conecta el Gran Buenos Aires con la línea que llega desde Cuyo.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I)",
+   "prov": [
+    "Buenos Aires"
+   ],
+   "lineas": [
+    [
+     [
+      -59.05,
+      -34.79
+     ],
+     [
+      -60.7,
+      -34.58
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "comodoro",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Estación Comodoro Rivadavia Oeste",
+   "dato": "500/132 kV · 450 MVA",
+   "hoy": "En la lista de obras urgentes del plan (Resolución 715/2025), sin licitación convocada.",
+   "prop": "Da al sur de Chubut una conexión firme a la red de 500 kV.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I)",
+   "prov": [
+    "Chubut"
+   ],
+   "marcas": [
+    [
+     -67.62,
+     -45.85
+    ]
+   ]
+  },
+  {
+   "id": "austral_e",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Patagonia austral–centro: alternativa este",
+   "dato": "Río Santa Cruz–Puerto Madryn, 500 kV",
+   "hoy": "El plan ofrece dos trazados para llevar al centro la energía de las represas del río Santa Cruz: este por la costa, u oeste por la cordillera.",
+   "prop": "El equipo técnico elige el trazado con un estudio público de costo, pérdidas y confiabilidad, y se licita uno solo.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I)",
+   "prov": [
+    "Santa Cruz",
+    "Chubut"
+   ],
+   "lineas": [
+    [
+     [
+      -70.2,
+      -50.15
+     ],
+     [
+      -67.95,
+      -46.8
+     ],
+     [
+      -65.04,
+      -42.77
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "austral_o",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Patagonia austral–centro: alternativa oeste",
+   "dato": "Cóndor Cliff–Futaleufú–Piedra del Águila, 500 kV",
+   "hoy": "Es la otra opción del plan para el mismo fin: sale de Cóndor Cliff, pasa por Futaleufú y llega a Piedra del Águila.",
+   "prop": "El equipo técnico elige el trazado con un estudio público de costo, pérdidas y confiabilidad, y se licita uno solo.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I)",
+   "prov": [
+    "Santa Cruz",
+    "Chubut",
+    "Río Negro",
+    "Neuquén"
+   ],
+   "lineas": [
+    [
+     [
+      -70.9,
+      -50.2
+     ],
+     [
+      -71.3,
+      -46.5
+     ],
+     [
+      -71.6,
+      -43.0
+     ],
+     [
+      -70.0,
+      -40.05
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "rodeo",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Rodeo–Chaparro–La Rioja Sur",
+   "dato": "Línea de 500 kV en San Juan y La Rioja",
+   "hoy": "En el plan. Una empresa minera anunció que financiaría el tramo Rodeo–Chaparro, de 167 km ⚠.",
+   "prop": "Se suma el aporte privado al trazado del plan, con acceso abierto para otros usuarios.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I); ⚠ Los Andes (29/7/2026)",
+   "prov": [
+    "San Juan",
+    "La Rioja"
+   ],
+   "lineas": [
+    [
+     [
+      -69.14,
+      -30.21
+     ],
+     [
+      -69.2,
+      -29.0
+     ],
+     [
+      -66.95,
+      -29.6
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "malvinas",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Malvinas–San Francisco–Santo Tomé",
+   "dato": "Línea de 500 kV entre Córdoba y Santa Fe",
+   "hoy": "En la lista de obras urgentes del plan (Resolución 715/2025), sin licitación convocada.",
+   "prop": "Refuerza el centro y descongestiona el corredor hacia el Litoral.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I)",
+   "prov": [
+    "Córdoba",
+    "Santa Fe"
+   ],
+   "lineas": [
+    [
+     [
+      -64.06,
+      -31.38
+     ],
+     [
+      -62.08,
+      -31.43
+     ],
+     [
+      -60.77,
+      -31.67
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "espinillo",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Estación El Espinillo (Formosa)",
+   "dato": "500/132 kV",
+   "hoy": "En la lista de obras urgentes del plan (Resolución 715/2025), sin licitación convocada.",
+   "prop": "Lleva la red de 500 kV al norte de Formosa y prepara la interconexión con el Paraguay.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I)",
+   "prov": [
+    "Formosa"
+   ],
+   "marcas": [
+    [
+     -58.6,
+     -25.0
+    ]
+   ]
+  },
+  {
+   "id": "lavalle",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Lavalle–Chumbicha",
+   "dato": "Línea de 500 kV hacia Catamarca",
+   "hoy": "En la lista de obras urgentes del plan (Resolución 715/2025), sin licitación convocada.",
+   "prop": "Mejora el abastecimiento de Catamarca y La Rioja.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I)",
+   "prov": [
+    "Santiago del Estero",
+    "Catamarca"
+   ],
+   "lineas": [
+    [
+     [
+      -65.08,
+      -28.18
+     ],
+     [
+      -66.24,
+      -28.86
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "puna",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Chaparro–Antofagasta de la Sierra–Puna–Cobos",
+   "dato": "Línea de 500 kV por la Puna",
+   "hoy": "En la lista de obras urgentes del plan (Resolución 715/2025), sin licitación convocada. Según la Secretaría de Energía, mejora el abastecimiento de Catamarca y permite el desarrollo minero.",
+   "prop": "Se coordina con los proyectos mineros, que aportan al costo según su uso, con acceso abierto.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I); Secretaría de Energía, presentación del plan",
+   "prov": [
+    "San Juan",
+    "La Rioja",
+    "Catamarca",
+    "Salta"
+   ],
+   "lineas": [
+    [
+     [
+      -69.2,
+      -29.0
+     ],
+     [
+      -67.4,
+      -26.06
+     ],
+     [
+      -66.5,
+      -24.5
+     ],
+     [
+      -65.08,
+      -24.75
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "tdf",
+   "grupo": "electricidad",
+   "estado": "planificada",
+   "nombre": "Santa Cruz–Tierra del Fuego",
+   "dato": "Esperanza–Río Grande, 500 kV",
+   "hoy": "En la lista de obras urgentes del plan (Resolución 715/2025), sin licitación convocada. Tierra del Fuego es hoy un sistema aislado que genera con gas.",
+   "prop": "Suma la isla al sistema interconectado.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I); Secretaría de Energía, presentación del plan",
+   "prov": [
+    "Santa Cruz",
+    "Tierra del Fuego"
+   ],
+   "lineas": [
+    [
+     [
+      -70.3,
+      -51.0
+     ],
+     [
+      -69.3,
+      -52.3
+     ],
+     [
+      -68.6,
+      -52.8
+     ],
+     [
+      -67.7,
+      -53.79
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "interandes",
+   "grupo": "internacional",
+   "estado": "funciona",
+   "nombre": "Chile: InterAndes (Cobos–Andes)",
+   "dato": "345 kV · 409 km",
+   "hoy": "Reactivada en noviembre de 2022: hasta 80 MW desde Chile de día y hasta 200 MW hacia Chile de noche ⚠.",
+   "prop": "Se amplía el intercambio y se conecta con la línea Chaparro–Puna–Cobos.",
+   "fuente": "⚠ La Nación (11/11/2022)",
+   "prov": [
+    "Salta"
+   ],
+   "lineas": [
+    [
+     [
+      -65.08,
+      -24.75
+     ],
+     [
+      -67.0,
+      -23.24
+     ],
+     [
+      -69.0,
+      -23.9
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "azurduy",
+   "grupo": "internacional",
+   "estado": "funciona",
+   "nombre": "Bolivia: Tartagal–Yaguacua",
+   "dato": "132 kV · 120 MW",
+   "hoy": "Habilitada en 2023; desde 2026 la Argentina importa energía de Bolivia por esta línea ⚠.",
+   "prop": "Se reemplaza por el vínculo de 500 kV del plan.",
+   "fuente": "CIER, mapa de interconexiones (2024) ⚠; ⚠ prensa especializada",
+   "prov": [
+    "Salta"
+   ],
+   "lineas": [
+    [
+     [
+      -63.8,
+      -22.52
+     ],
+     [
+      -63.6,
+      -21.85
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "bolivia500",
+   "grupo": "internacional",
+   "estado": "planificada",
+   "nombre": "Bolivia: Yaguacua–Salvador Mazza–San Juancito",
+   "dato": "500 kV",
+   "hoy": "En la lista de obras del plan (Resolución 715/2025), sin licitación convocada.",
+   "prop": "Se negocia con Bolivia junto con el gas en los dos sentidos (propuesta 87).",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I)",
+   "prov": [
+    "Salta",
+    "Jujuy"
+   ],
+   "lineas": [
+    [
+     [
+      -63.6,
+      -21.85
+     ],
+     [
+      -63.7,
+      -22.05
+     ],
+     [
+      -65.2,
+      -24.3
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "paraguay500",
+   "grupo": "internacional",
+   "estado": "planificada",
+   "nombre": "Paraguay: Villa Hayes–Formosa",
+   "dato": "500 kV",
+   "hoy": "En la lista de obras del plan. Según la Secretaría de Energía, permitirá intercambiar excedentes y dar seguridad al Nordeste.",
+   "prop": "Se licita junto con la estación El Espinillo.",
+   "fuente": "Secretaría de Energía, Plan Nacional de Ampliación del Transporte Eléctrico (Resolución 715/2025 del Ministerio de Economía, Anexo I); Secretaría de Energía, presentación del plan",
+   "prov": [
+    "Formosa"
+   ],
+   "lineas": [
+    [
+     [
+      -57.62,
+      -25.1
+     ],
+     [
+      -58.2,
+      -26.2
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "paraguay_hoy",
+   "grupo": "internacional",
+   "estado": "funciona",
+   "nombre": "Paraguay: Clorinda–Guarambaré y Eldorado–Carlos A. López",
+   "dato": "Vínculos menores ⚠",
+   "hoy": "Líneas de menor tensión que ya unen los dos sistemas ⚠.",
+   "prop": "Se mantienen hasta que entre la línea de 500 kV.",
+   "fuente": "⚠ sin fuente oficial a mano",
+   "prov": [
+    "Formosa",
+    "Misiones"
+   ],
+   "lineas": [
+    [
+     [
+      -57.72,
+      -25.28
+     ],
+     [
+      -57.45,
+      -25.49
+     ]
+    ],
+    [
+     [
+      -54.63,
+      -26.4
+     ],
+     [
+      -55.0,
+      -26.1
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "yacyreta",
+   "grupo": "represa",
+   "estado": "funciona",
+   "nombre": "Yacyretá (con el Paraguay)",
+   "dato": "Represa binacional sobre el Paraná",
+   "hoy": "Aporta cerca del 20 % de la electricidad del país ⚠.",
+   "prop": "Se completa con Añá Cuá y se sostiene la operación binacional.",
+   "fuente": "⚠ prensa especializada",
+   "prov": [
+    "Corrientes",
+    "Misiones"
+   ],
+   "marcas": [
+    [
+     -56.75,
+     -27.48
+    ]
+   ]
+  },
+  {
+   "id": "saltogrande",
+   "grupo": "represa",
+   "estado": "funciona",
+   "nombre": "Salto Grande (con el Uruguay)",
+   "dato": "Represa binacional de 1.890 MW y anillo de 500 kV",
+   "hoy": "El anillo une los sistemas de los dos países y permite comprar y vender energía en ambos sentidos.",
+   "prop": "Se usa más el intercambio con el Uruguay, en los dos sentidos.",
+   "fuente": "Comisión Técnica Mixta de Salto Grande",
+   "prov": [
+    "Entre Ríos"
+   ],
+   "lineas": [
+    [
+     [
+      -57.94,
+      -31.27
+     ],
+     [
+      -58.1,
+      -32.68
+     ],
+     [
+      -58.33,
+      -32.67
+     ]
+    ]
+   ],
+   "marcas": [
+    [
+     -57.94,
+     -31.27
+    ]
+   ]
+  },
+  {
+   "id": "paysandu",
+   "grupo": "internacional",
+   "estado": "funciona",
+   "nombre": "Uruguay: Concepción del Uruguay–Paysandú",
+   "dato": "132/150 kV · unos 100 MW ⚠",
+   "hoy": "Segundo vínculo con el Uruguay ⚠.",
+   "prop": "Se mantiene como respaldo del anillo de Salto Grande.",
+   "fuente": "⚠ sin fuente oficial a mano",
+   "prov": [
+    "Entre Ríos"
+   ],
+   "lineas": [
+    [
+     [
+      -58.23,
+      -32.48
+     ],
+     [
+      -58.08,
+      -32.32
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "garabi_conv",
+   "grupo": "internacional",
+   "estado": "funciona",
+   "nombre": "Brasil: Rincón Santa María–Garabí",
+   "dato": "Conversora de 2.200 MW",
+   "hoy": "Une el sistema argentino (50 Hz) con el brasileño (60 Hz). La Argentina volvió a exportar energía al Brasil por esta vía después de más de quince años.",
+   "prop": "Se usa para vender excedentes al Brasil y comprarle en las emergencias, con reglas de intercambio estables.",
+   "fuente": "Gobierno nacional, exportación de energía eléctrica al Brasil; ⚠ Hitachi Energy (capacidad)",
+   "prov": [
+    "Corrientes"
+   ],
+   "lineas": [
+    [
+     [
+      -56.6,
+      -27.5
+     ],
+     [
+      -55.6,
+      -28.15
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "chile_sur",
+   "grupo": "internacional",
+   "estado": "evaluar",
+   "nombre": "Chile: Santa Cruz–Aysén y Santa Cruz–Punta Arenas",
+   "dato": "Dos vínculos posibles de 220 kV y 200 MW ⚠",
+   "hoy": "Figuran en el inventario regional de interconexiones, sin estudio en marcha ⚠.",
+   "prop": "Se estudian junto con la línea Santa Cruz–Tierra del Fuego.",
+   "fuente": "⚠ CIER, mapa de interconexiones (2024)",
+   "prov": [
+    "Santa Cruz"
+   ],
+   "lineas": [
+    [
+     [
+      -71.0,
+      -47.2
+     ],
+     [
+      -72.2,
+      -45.6
+     ]
+    ],
+    [
+     [
+      -72.3,
+      -51.53
+     ],
+     [
+      -71.5,
+      -52.6
+     ],
+     [
+      -70.9,
+      -53.15
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "chihuido",
+   "grupo": "represa",
+   "estado": "frenada",
+   "nombre": "Chihuido I (Neuquén)",
+   "dato": "637 MW · regula el río Neuquén",
+   "hoy": "Licitada en 2014 y nunca empezada; además de generar, controla las crecidas del río Neuquén ⚠.",
+   "prop": "Entra en el relevamiento de obras paradas con prioridad por el control de crecidas; se licita solo con financiamiento asegurado.",
+   "fuente": "⚠ prensa especializada; Cámara de Diputados, expediente 1198-D-2025",
+   "prov": [
+    "Neuquén"
+   ],
+   "marcas": [
+    [
+     -69.67,
+     -38.4
+    ]
+   ]
+  },
+  {
+   "id": "portezuelo",
+   "grupo": "represa",
+   "estado": "frenada",
+   "nombre": "Portezuelo del Viento (Mendoza)",
+   "dato": "Sobre el río Grande, cuenca del Colorado",
+   "hoy": "Frenada por el desacuerdo entre las provincias de la cuenca del río Colorado ⚠.",
+   "prop": "Solo avanza con acuerdo en el Comité Interjurisdiccional del Río Colorado (COIRCO).",
+   "fuente": "⚠ prensa especializada",
+   "prov": [
+    "Mendoza"
+   ],
+   "marcas": [
+    [
+     -69.7,
+     -35.8
+    ]
+   ]
+  },
+  {
+   "id": "tambolar",
+   "grupo": "represa",
+   "estado": "frenada",
+   "nombre": "El Tambolar (San Juan)",
+   "dato": "Sobre el río San Juan",
+   "hoy": "Obra iniciada y detenida ⚠.",
+   "prop": "Entra en el relevamiento: se termina si el costo restante se justifica.",
+   "fuente": "⚠ prensa especializada",
+   "prov": [
+    "San Juan"
+   ],
+   "marcas": [
+    [
+     -68.98,
+     -31.48
+    ]
+   ]
+  },
+  {
+   "id": "corpus",
+   "grupo": "represa",
+   "estado": "evaluar",
+   "nombre": "Corpus Christi (con el Paraguay)",
+   "dato": "Unos 2.880 MW sobre el Paraná ⚠",
+   "hoy": "Proyecto binacional sin ejecución; Misiones lo rechazó en un plebiscito en 1996 ⚠.",
+   "prop": "A evaluar: estudio técnico, ambiental y económico actualizado en la comisión binacional (COMIP), con participación de Misiones antes de cualquier decisión.",
+   "fuente": "⚠ prensa especializada",
+   "prov": [
+    "Misiones"
+   ],
+   "marcas": [
+    [
+     -55.53,
+     -27.13
+    ]
+   ]
+  },
+  {
+   "id": "garabi",
+   "grupo": "represa",
+   "estado": "frenada",
+   "nombre": "Garabí y Panambí (con el Brasil)",
+   "dato": "Sobre el río Uruguay",
+   "hoy": "Detenidas desde 2017 por fallos de la Justicia federal brasileña.",
+   "prop": "Nuevo estudio conjunto que priorice Garabí y revise o descarte Panambí, sin compromiso de obra hasta tener licencia ambiental en los dos países (propuesta 87).",
+   "fuente": "⚠ prensa especializada",
+   "prov": [
+    "Corrientes",
+    "Misiones"
+   ],
+   "marcas": [
+    [
+     -55.75,
+     -28.2
+    ],
+    [
+     -54.95,
+     -27.65
+    ]
+   ]
+  },
+  {
+   "id": "gnorte",
+   "grupo": "gas",
+   "estado": "funciona",
+   "nombre": "Gasoducto Norte revertido y conexión con Bolivia",
+   "dato": "La Carlota–Campo Durán–Bolivia",
+   "hoy": "Revertido a fines de 2024: lleva gas de Vaca Muerta al Norte y, por Bolivia, al Brasil. Hoy permite hasta unos 3 millones de m³/día en verano, con contratos interrumpibles.",
+   "prop": "Envío garantizado de 10 millones de m³/día hacia el Brasil por Bolivia hacia 2029–2030 (propuestas 38 y 87).",
+   "fuente": "Enarsa y Secretaría de Energía; Ministerio de Minas y Energía del Brasil, informe técnico bilateral",
+   "prov": [
+    "Córdoba",
+    "Santiago del Estero",
+    "Tucumán",
+    "Salta"
+   ],
+   "lineas": [
+    [
+     [
+      -63.3,
+      -33.42
+     ],
+     [
+      -63.35,
+      -32.29
+     ],
+     [
+      -64.35,
+      -30.42
+     ],
+     [
+      -65.06,
+      -29.27
+     ],
+     [
+      -65.2,
+      -26.8
+     ],
+     [
+      -64.93,
+      -25.21
+     ],
+     [
+      -63.66,
+      -22.2
+     ],
+     [
+      -63.68,
+      -21.95
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "tgm",
+   "grupo": "gas",
+   "estado": "funciona",
+   "nombre": "Gasoducto del Mercosur: Aldea Brasilera–Uruguaiana",
+   "dato": "Hasta 15 millones de m³/día",
+   "hoy": "Volvió a operar en una prueba en abril de 2026; su licencia vence en diciembre de 2027.",
+   "prop": "Se renueva con contratos de largo plazo (propuestas 38 y 87).",
+   "fuente": "Ministerio de Minas y Energía del Brasil, informe técnico bilateral; ⚠ prensa especializada",
+   "prov": [
+    "Entre Ríos",
+    "Corrientes"
+   ],
+   "lineas": [
+    [
+     [
+      -60.6,
+      -31.88
+     ],
+     [
+      -57.08,
+      -29.71
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "triunfo",
+   "grupo": "gas",
+   "estado": "planificada",
+   "nombre": "Brasil: Uruguaiana–Triunfo",
+   "dato": "Unos 594 km del lado brasileño",
+   "hoy": "Es el tramo que falta para llegar a Porto Alegre por el Gasoducto del Mercosur.",
+   "prop": "Primer proyecto común de la empresa energética con Petrobras (propuesta 38).",
+   "fuente": "Ministerio de Minas y Energía del Brasil, informe técnico bilateral",
+   "prov": [
+    "Corrientes"
+   ],
+   "lineas": [
+    [
+     [
+      -57.08,
+      -29.71
+     ],
+     [
+      -51.7,
+      -29.94
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "cruzdelsur",
+   "grupo": "gas",
+   "estado": "funciona",
+   "nombre": "Uruguay: Gasoducto Cruz del Sur",
+   "dato": "Punta Lara–Colonia–Montevideo",
+   "hoy": "Lleva el 95 % del gas que consume el Uruguay. Desde diciembre de 2025 lleva gas de Vaca Muerta para generar electricidad allí ⚠.",
+   "prop": "Se amplía su capacidad cuando haya demanda firme, y se sigue el estudio uruguayo para llevar gas al sur del Brasil ⚠.",
+   "fuente": "Unidad Reguladora de Servicios de Energía y Agua del Uruguay (URSEA); ⚠ prensa especializada",
+   "prov": [
+    "Buenos Aires"
+   ],
+   "lineas": [
+    [
+     [
+      -57.98,
+      -34.82
+     ],
+     [
+      -57.84,
+      -34.47
+     ],
+     [
+      -56.2,
+      -34.9
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "petrouruguay",
+   "grupo": "gas",
+   "estado": "funciona",
+   "nombre": "Uruguay: Colón–Paysandú",
+   "dato": "Gasoducto binacional de menor capacidad",
+   "hoy": "Existe; no hay datos oficiales publicados de su uso actual ⚠.",
+   "prop": "Se releva su estado y su uso.",
+   "fuente": "⚠ sin fuente oficial a mano",
+   "prov": [
+    "Entre Ríos"
+   ],
+   "lineas": [
+    [
+     [
+      -58.15,
+      -32.22
+     ],
+     [
+      -58.08,
+      -32.32
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "gasandes",
+   "grupo": "gas",
+   "estado": "funciona",
+   "nombre": "Chile: GasAndes",
+   "dato": "La Mora (Mendoza)–Santiago de Chile",
+   "hoy": "Exporta gas a la zona central de Chile, con tarifas fijadas por el regulador argentino. En 2025 una productora contrató capacidad firme de exportación por 52 años ⚠.",
+   "prop": "Se integra a la planificación del transporte para que exportar no quite gas al mercado interno en invierno.",
+   "fuente": "Ente regulador del gas, tarifas de GasAndes (febrero de 2026); ⚠ prensa especializada",
+   "prov": [
+    "Mendoza"
+   ],
+   "lineas": [
+    [
+     [
+      -68.2,
+      -34.75
+     ],
+     [
+      -68.84,
+      -32.89
+     ],
+     [
+      -70.65,
+      -33.45
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pacifico",
+   "grupo": "gas",
+   "estado": "funciona",
+   "nombre": "Chile: Gasoducto del Pacífico",
+   "dato": "Loma La Lata (Neuquén)–Concepción",
+   "hoy": "Exporta gas de Vaca Muerta al sur de Chile ⚠.",
+   "prop": "Igual criterio: exportación firme sin quitar gas al mercado interno en invierno.",
+   "fuente": "⚠ prensa especializada",
+   "prov": [
+    "Neuquén"
+   ],
+   "lineas": [
+    [
+     [
+      -68.4,
+      -38.4
+     ],
+     [
+      -73.05,
+      -36.82
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "norandino",
+   "grupo": "gas",
+   "estado": "funciona",
+   "nombre": "Chile: Norandino y GasAtacama",
+   "dato": "Salta–norte de Chile",
+   "hoy": "Exportan gas al norte de Chile y también sirven para traer gas importado por la terminal de Mejillones ⚠.",
+   "prop": "Se usan en los dos sentidos según la estación.",
+   "fuente": "⚠ prensa especializada",
+   "prov": [
+    "Salta",
+    "Jujuy"
+   ],
+   "lineas": [
+    [
+     [
+      -64.22,
+      -23.32
+     ],
+     [
+      -67.0,
+      -23.24
+     ],
+     [
+      -70.45,
+      -23.1
+     ]
+    ]
+   ]
+  }
+ ]
+}
